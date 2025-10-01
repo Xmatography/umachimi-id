@@ -1,219 +1,191 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "After achieving her first victory as a member of \nteam ＜Sirius＞, Silence Suzuka's breakthrough began-"
-        },
-        {
-            "text": "She's escaping again today! Silence Suzuka won't \ngive up the lead! The others are increasing \ntheir speed but still can't keep up!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Escape and escape, then at the end pull farther \naway! \"Escape and Follow Through\" Silence Suzuka, \nwins her second consecutive Major!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Haa… haa… fuu…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Haa… fuu… fuee…",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hiii… S-seriously trying to keep up \nwith Suzuka's speed is roooough~!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Then again, if you go at your own pace, she'll \ngradually pull away, and at the end you won't \nbe able to catch up~ Mumumuuuu~…!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Again!! Let's run it again!! \nLet's gooo Suzuka, and Spe-chan!!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Yeah, you got it.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ueeeee?! Can't we at least take a 5 minute break?!",
-            "name": "Special Week"
-        },
-        {
-            "text": "From the start she just runs and runs, and then pulls away at the \nend. Silence Suzuka's one crazy Uma Musume, isn't she…?!",
-            "name": "Reporter A"
-        },
-        {
-            "text": "I'm looking forward to the next one! \nI keep wondering how the next race will turn out!",
-            "name": "Reporter B"
-        },
-        {
-            "text": "Lately, Suzuka's been gettin' an insane amount of attention, huh?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Winning Majors consecutively is impressive by itself, \nbut the way she does it is also awe-inspiring.",
-            "name": "Mejiro McQueen",
-            "choice_data_list": [
-                "Suzuka's \"Escape\"?"
-            ]
-        },
-        {
-            "text": "Yes… it's no ordinary \"Escape\" that Suzuka has.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Just like there are various individual personalities, \nwe Uma Musume have several different individualities \nwhen it comes to our running style.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "For me, my strengths are my stamina, ability to adjust \non-the-fly, and being able to quickly get in to a good position. \nIt's a royal road pattern-",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Brian-san can use her explosive leg power for a long time, so \nduring the middle, she'll hold back. When she reaches the last \nstraight, she'll aggressively push through everyone.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Rice-san will convert the stamina she's saved into a Long Spurt \nto shutout and eventually wear down her rivals.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "We've each settled on a style that is adapted \nto our abilities, and we investigate it thoroughly \nto make it our best chance at winning.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "That being the case, Suzuka-san's style would be one that many \nconsider the ideal. But everyone else that tried it, could only \nsay it was impossible-",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Using that incredible speed from the start to pull \naway, and continuing to the goal just like that, \nsounds like a dream-like running style.",
-            "name": "<username>"
-        },
-        {
-            "text": "Using that incredible speed from the start to pull \naway, and continuing to the goal just like that, \nsounds like a dream-like running style.",
-            "name": "<username>"
-        },
-        {
-            "text": "But, that dream-like style is actually \nbeing used by Suzuka, isn't it?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "I want to see more and more of it from now on. Suzuka's running \nstyle that you can't help but think is a dream…!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Silence Suzuka's running style. Not only the fans, but even the \nUma Musume are taking notice of that dream-like style."
-        },
-        {
-            "text": "In the same way that she's pursuing that \"scenery\", \neveryone else wishes to see her one-of-a-kind running style."
-        },
-        {
-            "text": "Trainer-san, pardon the intrusion.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "What's up? Did you forget something?",
-            "name": "<username>"
-        },
-        {
-            "text": "What's wrong? Did you forget something?",
-            "name": "<username>"
-        },
-        {
-            "text": "No, I was just wondering if my next race has been decided yet. \nI thought it would be fine to ask you about it.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I thought if I knew what my next race was, I could decide \non what my next training goal would be. Other than that… maybe \nthere'd be some merit to it? ",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "For Silence Suzuka herself to proactively \nconsult me about races is pretty rare."
-        },
-        {
-            "text": "This might be another sign of just how \ncontent she is with her running."
-        },
-        {
-            "text": "Next, I'm thinking of having you enter the [Kinko Sho].",
-            "name": "<username>"
-        },
-        {
-            "text": "Next, I'm thinking of having you enter the [Kinko Sho].",
-            "name": "<username>"
-        },
-        {
-            "text": "[Kinko Sho]…is a 2000m race, right?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Yeah, but for someone like Suzuka who runs at top speed from the \nstart, the extended distance might make you a bit uneasy.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, but for someone like Suzuka who runs at top speed from the \nstart, the extended distance might make you a bit uneasy.",
-            "name": "<username>"
-        },
-        {
-            "text": "But, with the way you are now, Suzuka, I don't think it's \nimpossible. I believe if it's you, you can definitely handle \nmiddle distance races.",
-            "name": "<username>"
-        },
-        {
-            "text": "But, with the way you are now, Suzuka, I don't think it's \nimpossible. I believe if it's you, you can definitely handle \nmiddle distance races.",
-            "name": "<username>"
-        },
-        {
-            "text": "If Trainer-san says it that way, \nthen there's no reason for me to feel uneasy.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Besides, as a way to confirm whether my running style is \nsuitable, I think it's the perfect chance.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Got it, your physical and mental condition are improving \nso lets keep on challenging new things!",
-            "name": "<username>"
-        },
-        {
-            "text": "If you get results here, the middle distance G1's [Takarazuka \nKinen] and [Fall Tenno Sho] won't be out of reach either!",
-            "name": "<username>"
-        },
-        {
-            "text": "If you get results here, the middle distance G1's [Takarazuka \nKinen] and [Fall Tenno Sho] won't be out of reach either!",
-            "name": "<username>"
-        },
-        {
-            "text": "G1…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But in return, from now on, the training \nwill be that much harder.",
-            "name": "<username>"
-        },
-        {
-            "text": "Fufuu… that's fine.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Trainer-san. I want to keep exploring the \npossibilities of this running style.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ahead on this untrodden path, there must be lots \nof beautiful \"scenery\", don't you think?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "You have my full support. Seeing you taking hold \nof your dreams, is where my dreams lie as well.",
-            "name": "<username>"
-        },
-        {
-            "text": "You have my full support. Seeing you taking hold \nof your dreams, is where my dreams lie as well.",
-            "name": "<username>"
-        },
-        {
-            "text": "I will do my very best. \nSo both of us… can see that \"scenery\".",
-            "name": "Silence Suzuka"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Setelah meraih kemenangan pertamanya sebagai anggota \ntim ＜Sirius＞, terobosan Silence Suzuka pun dimulai-"
+    },
+    {
+      "text": "Dia kabur lagi hari ini! Silence Suzuka nggak mau ngasih kesempatan! \nYang lain ngebut tapi tetap nggak bisa ngejar!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Kabur dan kabur, terus di akhir makin menjauh! \n\"Escape and Follow Through\" Silence Suzuka, \nmenang Major kedua berturut-turut!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Haa… haa… fuu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Haa… fuu… fuee…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hiii… Mengejar kecepatan Suzuka bener-bener berat~!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Tapi kalau kamu lari sesuai pace sendiri, dia bakal \nmakin menjauh, dan di akhir nggak bakal bisa ngejar~ Mumumuuuu~…!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Lagi!! Lari lagi!! \nAyo Suzuka, dan Spe-chan!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Iya, aku ngerti.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ueeeee?! Setidaknya nggak bisa istirahat 5 menit?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dari awal lari terus, terus di akhir menjauh. Silence Suzuka emang gadis kuda gila, ya…?!",
+      "name": "Reporter A"
+    },
+    {
+      "text": "Aku nggak sabar nunggu berikutnya! \nPenasaran banget gimana jalannya balapan selanjutnya!",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Akhir-akhir ini, Suzuka dapet perhatian gila-gilaan ya?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Menang Major berturut-turut aja udah hebat, \ntapi cara dia melakukannya juga bikin kagum.",
+      "name": "Mejiro McQueen",
+      "choice_data_list": [
+        "Escape Suzuka?"
+      ]
+    },
+    {
+      "text": "Iya… itu bukan \"Escape\" biasa yang dimiliki Suzuka.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Sama kayak kepribadian tiap orang beda, \nkita gadis kuda juga punya gaya lari masing-masing.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Aku, kekuatanku ada di stamina, adaptasi cepat, \ndan bisa cepet masuk posisi bagus. Ini pola royal road-",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Brian-san bisa pake power kakinya yang eksplosif lama, jadi di tengah dia tahan dulu. \nPas masuk last straight, bakal dorong semua orang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Rice-san bakal ubah stamina yang dia simpan jadi Long Spurt \nbuat ngehabisin rival-rivalnya.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kita masing-masing udah nemuin gaya yang cocok dengan kemampuan kita, \ndan teliti biar jadi kesempatan menang terbaik.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kalau gitu, gaya Suzuka-san bakal dianggap ideal sama banyak orang. \nTapi yang lain yang nyoba, cuma bilang mustahil-",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Pake kecepatan gila dari awal buat menjauh, terus sampe finish gitu aja, \nterdengar kayak gaya lari impian.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi, gaya impian itu sebenernya dipake Suzuka, kan?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Aku pengen liat terus dari sekarang. Gaya lari Suzuka yang bikin mikir ini impian…!",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Gaya lari Silence Suzuka. Nggak cuma fans, tapi gadis kuda lain pun notice gaya impiannya."
+    },
+    {
+      "text": "Sama kayak dia ngejar \"scenery\" itu, \nsemua orang pengen liat gaya larinya yang unik."
+    },
+    {
+      "text": "Trainer-san, maaf ganggu ya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ada apa? Lupa sesuatu ya?",
+      "name": "<username>"
+    },
+    {
+      "text": "Nggak, aku cuma pengen tau apa balapan berikutnya udah ditentukan. \nAku pikir nggak masalah nanya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku mikir kalo tau balapan selanjutnya, bisa tentuin \ntujuan latihan berikutnya. Selain itu… mungkin ada untungnya juga?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Buat Silence Suzuka sendiri proaktif konsultasi soal balapan itu jarang banget."
+    },
+    {
+      "text": "Ini bisa jadi tanda kalo dia puas banget sama larinya sekarang."
+    },
+    {
+      "text": "Berikutnya, aku mikir mau masukin kamu ke [Kinko Sho].",
+      "name": "<username>"
+    },
+    {
+      "text": "[Kinko Sho]… itu balapan 2000m, kan?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Iya, tapi buat orang kayak Suzuka yang lari top speed dari awal, \njarak lebih panjang bisa bikin agak khawatir.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi, dengan kondisi kamu sekarang, Suzuka, aku nggak pikir itu mustahil. \nAku yakin kamu pasti bisa handle middle distance.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalo Trainer-san bilang gitu, nggak ada alasan buat aku khawatir.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Selain itu, buat konfirmasi apakah gaya lari aku cocok, ini kesempatan yang pas.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Oke, kondisi fisik dan mental kamu makin oke, jadi ayo terus coba hal baru!",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalo dapet hasil di sini, middle distance G1 [Takarazuka Kinen] dan [Fall Tenno Sho] juga nggak mustahil!",
+      "name": "<username>"
+    },
+    {
+      "text": "G1…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi sebagai gantinya, latihan dari sekarang bakal makin berat.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fufuu… nggak apa-apa.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Trainer-san. Aku pengen terus explore kemungkinan \ndari gaya lari ini.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Di jalur yang belum ditempuh ini, pasti banyak \"scenery\" indah, kan?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku bakal dukung sepenuhnya. Liat kamu ngejar impianmu, itu juga impianku.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku bakal lakukan yang terbaik. \nJadi kita berdua… bisa liat \"scenery\" itu.",
+      "name": "Silence Suzuka"
+    }
+  ]
 }

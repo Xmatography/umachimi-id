@@ -2,63 +2,63 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "That night, as I was heading to the training \ncourse to talk with Mejiro McQueen…"
+            "text": "Malam itu, saat aku menuju ke lapangan latihan \nuntuk bicara dengan Mejiro McQueen…"
         },
         {
-            "text": "Ah, Trainer-san! I finally found you!",
+            "text": "Ah, Trainer-san! Akhirnya ketemu juga!",
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "There has been an update regarding the postponement \nof your team's disbandment, so I wanted to let \nyou know as soon as possible.",
+            "text": "Ada kabar baru soal penundaan \npembubaran tim-mu, jadi aku buru-buru \ndatang kasih tahu.",
             "name": "Tazuna Hayakawa",
             "choice_data_list": [
-                "What's the update!?"
+                "Apa kabar barunya!?"
             ]
         },
         {
-            "text": "Hehe, please calm down. They're allowing you the first half of \nthe year… The postponement will continue until the end of June.",
+            "text": "Hehe, tenang dulu. Mereka kasih kelonggaran \nhingga paruh pertama tahun ini… Penundaan berlanjut sampai akhir Juni.",
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "As an organization, our top priority is allowing \nour Uma Musume to focus on their races…",
+            "text": "Sebagai organisasi, prioritas utama kami adalah \nagar para Uma Musume bisa fokus pada balapannya…",
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "It seems that they have decided on \n“waiting for a more convenient time.”",
+            "text": "Sepertinya mereka memutuskan untuk \n“menunggu waktu yang lebih tepat.”",
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "That's great. So we won't have to worry about \nfinding new members for the time being, and can \nfocus on the Spring Tennō Shō instead…!",
+            "text": "Bagus sekali. Jadi untuk sementara kita nggak perlu \npusing cari anggota baru, bisa fokus ke Tennō Shō Musim Semi…!",
             "choice_data_list": [
-                "Thank you so much!"
+                "Terima kasih banyak!"
             ]
         },
         {
-            "text": "There is no need to thank me, I am merely the messenger. But I'm \nhappy for you. Good luck in the Spring Tennō Shō!",
+            "text": "Tidak perlu berterima kasih, aku hanya penyampai pesan. Tapi aku \nikut senang untukmu. Semoga sukses di Tennō Shō Musim Semi!",
             "name": "Tazuna Hayakawa"
         },
         {
-            "text": "The empty training course. At this hour, all \nother Uma Musume should be in bed…"
+            "text": "Lapangan latihan yang sepi. Jam segini, \nsemua Uma Musume lain seharusnya sudah tidur…"
         },
         {
             "text": "Hagh, Haaah… Ha, Haa…",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Despite the time, Mejiro McQueen was once again \ncontinuing her nightly independent training."
+            "text": "Meski sudah larut, Mejiro McQueen masih saja \nlanjut dengan latihan mandiri malamannya."
         },
         {
-            "text": "It's obvious that she is overworking herself. Her form has \ndeteriorated from fatigue and her balance is completely off."
+            "text": "Jelas sekali dia terlalu memaksakan diri. Gerakannya \nsudah kacau karena lelah dan keseimbangannya hilang."
         },
         {
-            "text": "Because of this, the results of her training will be poor and \nit's likely she will get hurt before the Spring Tennō…"
+            "text": "Kalau terus begini, hasil latihannya justru buruk, \ndan kemungkinan besar dia cedera sebelum Tennō Shō Musim Semi…"
         },
         {
             "text": "…Ah, Haaah, Hah… Eaah!?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "As I was worrying about her, Mejiro McQueen staggered forward, \ncollapsing to the ground in a cloud of dust."
+            "text": "Saat aku masih cemas melihatnya, McQueen tiba-tiba goyah, \nterjatuh ke tanah sambil menimbulkan debu."
         },
         {
             "text": "McQueen!",
@@ -68,123 +68,123 @@
             "text": "…",
             "name": "Mejiro McQueen",
             "choice_data_list": [
-                "McQueen, are you okay?",
-                "McQueen, are you okay?"
+                "McQueen, kamu baik-baik saja?",
+                "McQueen, kamu baik-baik saja?"
             ]
         },
         {
-            "text": "Where…? Huh, Trainer-san? Why…?",
+            "text": "Di mana…? Hah, Trainer-san? Kenapa…?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever.",
+            "text": "Kita ada di ruang perawatan. \nKamu harus berbaring, sepertinya kamu demam.",
             "name": "<username>"
         },
         {
-            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever.",
+            "text": "Kita ada di ruang perawatan. \nKamu harus berbaring, sepertinya kamu demam.",
             "name": "<username>"
         },
         {
-            "text": "…A fever? Haa… \nI guess I was more exhausted than I realized.",
+            "text": "…Demam? Haa… \nSepertinya aku jauh lebih kelelahan daripada yang kukira.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "This reminds me of how I would often get fevers \nafter frolicking around when I was little.",
+            "text": "Ini mengingatkanku waktu kecil, aku sering kena demam \nkalau kebanyakan main ke sana ke mari.",
             "name": "Mejiro McQueen",
             "choice_data_list": [
-                "You've run yourself ragged, huh?",
-                "You've run yourself ragged, huh?"
+                "Kamu benar-benar terlalu memaksakan diri, ya?",
+                "Kamu benar-benar terlalu memaksakan diri, ya?"
             ]
         },
         {
-            "text": "That seems to be the case…",
+            "text": "Sepertinya memang begitu…",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "…Wait, you knew about my independent training!?",
+            "text": "…Tunggu, kamu tahu soal latihan mandiriku!?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Yeah, I was actually planning on discussing it with you today.",
+            "text": "Iya, sebenarnya hari ini aku memang mau bahas itu sama kamu.",
             "name": "<username>"
         },
         {
-            "text": "…I see. As expected, you're as intuitive as ever.",
+            "text": "…Begitu ya. Seperti biasa, instingmu tajam sekali.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "I assume the next thing you're going to say is \n“stop doing your independent training”, right?",
+            "text": "Aku tebak, berikutnya kamu pasti bilang, \n“hentikan latihan mandiri itu”, kan?",
             "name": "Mejiro McQueen",
             "choice_data_list": [
-                "I can't let this happen again."
+                "Aku nggak bisa biarkan ini terulang lagi."
             ]
         },
         {
-            "text": "…I have no excuse for the disgraceful behavior I have \nshown you. I will follow your instructions from now on.",
+            "text": "…Aku tidak punya alasan atas perilaku memalukan ini. \nAku akan mengikuti instruksimu mulai sekarang.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on.",
+            "text": "Kalau begitu, sebagai gantinya setelah latihan mandiri dihentikan, \naku ingin kamu bisa lebih mengandalkanku. Aku ingin kamu bilang apa adanya \nperasaanmu mulai sekarang.",
             "name": "<username>"
         },
         {
-            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on.",
+            "text": "Kalau begitu, sebagai gantinya setelah latihan mandiri dihentikan, \naku ingin kamu bisa lebih mengandalkanku. Aku ingin kamu bilang apa adanya \nperasaanmu mulai sekarang.",
             "name": "<username>"
         },
         {
-            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way.",
+            "text": "Mimpimu untuk menang di Tennō Shō, \naku akan selalu mendampingimu sampai akhir.",
             "name": "<username>"
         },
         {
-            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way.",
+            "text": "Mimpimu untuk menang di Tennō Shō, \naku akan selalu mendampingimu sampai akhir.",
             "name": "<username>"
         },
         {
-            "text": "How did you… Ah! \nRyan told you, didn't she?",
+            "text": "Kok bisa kamu… Ah! \nRyan yang cerita ke kamu, ya?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "…Jeez, so that's what your secret conversation \nwas about. She's as meddlesome as ever I guess.",
+            "text": "…Haaah, jadi itu yang kalian obrolin diam-diam. \nSeperti biasa, dia memang suka ikut campur.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "But are you sure? You realize that if you truly do so, you will \nbe tasked with carrying the Mejiro Family's burden as well.",
+            "text": "Tapi apa kamu yakin? Kalau benar-benar begitu, berarti kamu juga \nmembawa beban keluarga Mejiro di pundakmu.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Trainer-san, are you truly prepared for this? \nTo become… of “one body and one mind” with me?",
+            "text": "Trainer-san, apa kamu sungguh siap? \nUntuk menjadi… “satu tubuh dan satu jiwa” denganku?",
             "name": "Mejiro McQueen",
             "choice_data_list": [
-                "Of course!",
-                "Of course!"
+                "Tentu saja!",
+                "Tentu saja!"
             ]
         },
         {
-            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer.",
+            "text": "Hehe, jawaban cepat sekali… Kamu benar-benar \ntidak berubah sejak masa jadi sub-trainer dulu.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "You've always put us before yourself.",
+            "text": "Kamu selalu menomorsatukan kami daripada dirimu sendiri.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "…Well, if that is the case, \nI won't be holding back either.",
+            "text": "…Kalau begitu, aku juga tidak akan menahan diri lagi.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "In order to achieve my dream of winning the Tennō Shō, I'm going \nto be monopolizing you from now on, Trainer-san.",
+            "text": "Demi menggapai mimpiku menang di Tennō Shō, mulai sekarang \naku akan sepenuhnya merebut waktumu, Trainer-san.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "And in doing so, \nwe will definitely win!",
+            "text": "Dan dengan begitu, \nkita pasti menang!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Yeah, we will definitely win, together!",
+            "text": "Ya, kita pasti menang, bersama!",
             "name": "<username>"
         },
         {
-            "text": "Yeah, we will definitely win, together!",
+            "text": "Ya, kita pasti menang, bersama!",
             "name": "<username>"
         }
     ]

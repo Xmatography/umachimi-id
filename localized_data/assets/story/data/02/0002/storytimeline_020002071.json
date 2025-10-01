@@ -2,169 +2,160 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Finally, the wizard reached the outside world."
+            "text": "Akhirnya, penyihir sampai di dunia luar."
         },
         {
-            "text": "The outside world was fun and full of surprises."
+            "text": "Dunia luar ini seru banget, penuh kejutan."
         },
         {
-            "text": "If I could use my magic in such a beautiful world, I wonder how \nmany people hearts would dance of joy."
+            "text": "Kalau aku bisa pakai sihir di dunia secantik ini, \nkira-kira berapa banyak hati orang yang bakal senang ya."
         },
         {
-            "text": "I said to the people of the outside world. “I will use my magic \nto make your dreams come true”."
+            "text": "Aku bilang ke orang-orang di dunia luar: \n“Aku bakal pakai sihirku buat mewujudkan mimpi kalian.”"
         },
         {
-            "text": "And when the wizard tried to use her magic, \nthe people ran away from her."
+            "text": "Tapi pas aku coba pakai sihir, orang-orang malah lari ketakutan."
         },
         {
-            "text": "For the people of the outside world, \nmagic was something to be feared."
+            "text": "Buat mereka, sihir itu hal yang menakutkan."
         },
         {
-            "text": "People were scared that the common sense \nof the world would be changed by magic."
+            "text": "Mereka takut dunia ini bakal berubah karena sihirku."
         },
         {
-            "text": "The wizard said. “I want to make everyone happy with my magic”."
+            "text": "Aku bilang: “Aku cuma pengin bikin semua orang senang dengan sihirku.”"
         },
         {
-            "text": "Trying to prove it, I flew to the sky with my magic . and said. \n“Look, now you can go anywhere with this ”."
+            "text": "Biar mereka percaya, aku terbang ke langit pakai sihirku \ndan bilang: “Lihat, sekarang kalian bisa ke mana aja pakai ini.”"
         },
         {
-            "text": "However, the people became more scared, \nand began to avoid the wizard."
+            "text": "Tapi malah bikin mereka makin takut, dan mulai menghindariku."
         },
         {
-            "text": "The wizard became lonely in the outside world."
+            "text": "Aku jadi kesepian di dunia luar."
         },
         {
-            "text": "“What is my power for?”I was troubled once again."
+            "text": "“Sihirku buat apa sih?” Aku lagi-lagi bingung sendiri."
         },
         {
-            "text": "Winning live after winning the (Kikkashou Award)."
+            "text": "Sementara itu, Rice Shower menang lagi di (Kikkashou Award)."
         },
         {
-            "text": "The world reacted brutally to Rice Shower, which limited the \nTriple Crown achievement of Mihono Bourbon."
+            "text": "Tapi dunia malah bereaksi keras karena Rice Shower ngehentikan mimpi Triple Crown-nya Mihono Bourbon."
         },
         {
-            "name": "Spectator A",
-            "text": "I came to see Mihono Bourbon win."
+            "name": "Penonton A",
+            "text": "Aku datang pengin liat Mihono Bourbon menang."
         },
         {
-            "name": "Spectator B",
-            "text": "I wanted to see Mihono Bourbon in the center."
+            "name": "Penonton B",
+            "text": "Aku pengin liat Mihono Bourbon di pusat perhatian."
         },
         {
-            "text": "The voices that were heard from around me were different from the \nvoices that praised the winner."
+            "text": "Suara-suara di sekelilingku berbeda dari yang ngasih pujian ke pemenang."
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Why…. It was Rice-san who won."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "No way around it, let me shut them up!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "You better stop it, it can't be helped. There are many people who \nwanted Mihono Bourbon to win the Triple Crown."
+            "name": "Gadis Kuda dengan Poni Lurus",
+            "text": "Kenapa… yang menang malah Rice-san."
         },
         {
             "name": "Gold Ship",
-            "text": "But…."
+            "text": "Gak bisa dibiarkan, biar aku yang tegur mereka!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "More importantly, what we should do…"
+            "text": "Santai dulu, itu udah gak bisa diubah. \nBanyak orang memang pengin Mihono Bourbon menang Triple Crown."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Tapi…."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Rice-san! Your run today was the best!"
+            "text": "Yang lebih penting, apa yang harus kita lakukan…"
         },
         {
-            "text": "While the fans were booing, Mejiro McQueen was cheering for Rice \nShower with a voice full of spirit."
+            "name": "Mejiro McQueen",
+            "text": "Rice-san! Larinya hari ini luar biasa!"
         },
         {
-            "text": "What we can do right now, for Rice \nShower as a member of the team.",
+            "text": "Walau fans banyak yang booing, Mejiro McQueen tetap semangat teriak buat Rice Shower."
+        },
+        {
+            "text": "Yang bisa kita lakukan sekarang, buat Rice Shower \nsebagai teman tim.",
             "choice_data_list": [
-                "Rice! Congratulations!!"
+                "Rice! Selamat ya!!"
             ]
         },
         {
-            "text": "What we can do right now, for Rice \nShower as a member of the team.",
-            "choice_data_list": [
-                "Rice! Congratulations!!"
-            ]
-        },
-        {
-            "text": "While I cheered for Rice Shower , a balloon \nwith a hanging curtain jumped up."
+            "text": "Pas aku teriak semangat buat Rice Shower, \nbalon dengan tirai menggantung tiba-tiba melesat ke atas."
         },
         {
             "name": "Gold Ship",
-            "text": "Hey Hey Hey, What is that!? Congratulations on the Triple Crown!?"
+            "text": "Eh, eh, eh, itu apaan!? Selamat Triple Crown!?"
         },
         {
-            "text": "Someone must have slipped it by mistake. I noticed the balloon \nflying towards the sky as well as Rice Shower on the stage."
+            "text": "Mungkin ada yang salah masukin balonnya. Aku liat balonnya terbang ke langit, \nsama kayak Rice Shower di atas panggung."
         },
         {
-            "text": "While Rice Shower was singing with her voice. \nThe winning live felt very long."
+            "text": "Pas Rice Shower nyanyi, rasanya live kemenangan itu lama banget."
         },
         {
             "name": "Rice Shower",
             "text": "……."
         },
         {
-            "text": "Rice, Your face is dark! Hey it was your victory today!"
-        },
-        {
-            "text": "Rice, Your face is dark! Hey it was your victory today!"
+            "text": "Rice, mukanya kelam! Eh, ini kan kemenanganmu hari ini!"
         },
         {
             "name": "Gold Ship",
-            "text": "Yeah Yeah! Let's take her to the Trainer's amusement park again!"
+            "text": "Yoi! Ayo bawa dia ke taman hiburan Trainer lagi!"
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "This time, Let's go to a different “Famous amusement park”."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Everyone, thank you."
+            "name": "Gadis Kuda dengan Poni Lurus",
+            "text": "Kali ini, kita ke “taman hiburan terkenal” yang lain aja."
         },
         {
             "name": "Rice Shower",
-            "text": "But, I'm already tired today, so I'll be going home first."
+            "text": "Terima kasih semuanya."
         },
         {
-            "text": "Rice Shower left the room without looking \nat anyone, her head hung low."
+            "name": "Rice Shower",
+            "text": "Tapi aku udah capek hari ini, jadi pulang dulu ya."
+        },
+        {
+            "text": "Rice Shower pergi tanpa liat siapa pun, kepala menunduk."
         },
         {
             "name": "Gold Ship",
-            "text": "It's quite a bit of a mess, isn't it?"
+            "text": "Lumayan ribet juga ya?"
         },
         {
-            "text": "The achievement of defeating Mihono Bourbon, the undefeated Horse \nGirl, was not accepted by the world."
+            "text": "Kemenangan ngalahin Mihono Bourbon, si Gadis Kuda tak terkalahkan, \ntidak diterima dunia."
         },
         {
-            "text": "It's not that I didn't anticipate this situation, \nHowever, the air that enveloped the venue―the \nscale was far more than expected."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That's right. That kind of hard work \nis not being rewarded in the end."
+            "text": "Bukan berarti aku nggak nyangka bakal begini, \ntapi suasananya—skala acaranya jauh lebih besar dari perkiraan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But, Rice-san must overcome this situation."
+            "text": "Iya. Usaha keras kayak gitu ujung-ujungnya nggak dihargai."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "As the winners, we have an obligation to bear the expectations."
+            "text": "Tapi Rice-san harus bisa hadapi situasi ini."
         },
         {
-            "text": "“Obligation to bear a burdensome expectations”"
+            "name": "Mejiro McQueen",
+            "text": "Sebagai pemenang, kita punya kewajiban \nbuat tanggung jawab atas ekspektasi orang."
         },
         {
-            "text": "What it refers to, I could not understand it myself as I am now."
+            "text": "“Kewajiban menanggung ekspektasi yang berat.”"
         },
         {
-            "text": "A few days later――"
+            "text": "Aku sendiri masih belum paham maksudnya."
+        },
+        {
+            "text": "Beberapa hari kemudian――"
         },
         {
             "name": "Rice Shower",
@@ -172,29 +163,29 @@
         },
         {
             "name": "Gold Ship",
-            "text": "1 second late from McQueen, you've \nbeen pretty far away again today."
+            "text": "1 detik telat dari McQueen, kamu udah jauh lagi hari ini."
         },
         {
             "name": "Rice Shower",
-            "text": "eh, mmm… I'm sorry."
+            "text": "eh, mmm… maaf."
         },
         {
-            "text": "Mejiro McQueen's injury has healed, and although she is not yet \nin a good shape, she is returning to training."
+            "text": "Cidera Mejiro McQueen sudah sembuh, \ndan walaupun belum fit banget, dia mulai latihan lagi."
         },
         {
-            "text": "Rice Shower was so bad that she couldn't \nkeep up with such a McQueen."
+            "text": "Rice Shower masih belum bisa ngejar McQueen yang udah balik latihan."
         },
         {
             "name": "Gold Ship",
-            "text": "Well, You don't need to apologize. McQueen can finally run, and \nshe's desperate for a diet."
+            "text": "Ya sudahlah, nggak usah minta maaf. McQueen bisa lari lagi, \ndan dia lagi semangat banget diet."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Wait! Please don't say anything untruthful!"
+            "text": "Eh! Jangan ngomong yang nggak bener!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have a great achievement to win called the “Emperor Prize” \nSeries title. That's why I had to train even when I was resting."
+            "text": "Aku punya target besar: menang “Emperor Prize” Series. \nMakanya aku harus latihan meski lagi istirahat."
         },
         {
             "name": "Rice Shower",
@@ -202,45 +193,45 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Rice-san, let's run 1 more time. As I'm \nnow, I think you can pull it off."
+            "text": "Rice-san, ayo lari sekali lagi. Aku rasa kamu bisa sukses sekarang."
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah, I'll try."
+            "text": "Iya, aku coba."
         },
         {
-            "text": "But, no matter how much they ran. Rice Shower \nnever ran in front of Mejiro McQueen."
+            "text": "Tapi, nggak peduli seberapa keras mereka lari, \nRice Shower nggak pernah bisa lari di depan McQueen."
         },
         {
-            "text": "That night."
+            "text": "Malam itu."
         },
         {
-            "text": "(Knock, Knock, Knock…)"
+            "text": "(Ketok, ketok, ketok…)"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san, excuse me."
+            "text": "Trainer-san, permisi."
         },
         {
-            "text": "Mejiro McQueen, who came suddenly late \nat night, looked firmer than usual.",
+            "text": "McQueen datang mendadak larut malam, tampak lebih tegas dari biasanya.",
             "choice_data_list": [
-                "What's wrong?"
+                "Ada apa?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Yes, I have a request for the “Emperor Prize”."
+            "text": "Aku ada permintaan buat “Emperor Prize”."
         },
         {
-            "text": "A serious McQueen that I've never seen before, The usual Trainer \nroom was wrapped in silence."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "My 3 win streak in the “Emperor Award”."
+            "text": "McQueen serius yang belum pernah kulihat, \nTrainer room biasanya hening banget malam itu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please let Rice-san run in that race too."
+            "text": "3 kemenangan berturut-turutku di “Emperor Award”."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tolong biarkan Rice-san ikut lomba itu juga."
         }
     ]
 }

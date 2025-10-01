@@ -3,99 +3,99 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "You want me to participate in a press conference…?"
+            "text": "Kau ingin aku ikut konferensi pers…?"
         },
         {
-            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu."
         },
         {
-            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
+            "text": "Aku dengar dari Tazuna, mereka kebanjiran \npermintaan wawancara denganmu."
         },
         {
-            "text": "After all, you're most likely to win in the Fall Tenno Sho. \nEveryone's got their eyes on you."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Seems so, doesn't it…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "What's wrong? If you don't wanna be interviewed \nI can just answer for you, ya know?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I've just gotta say “I'm on a diet right now so I \nhave to refrain from eating my favorite cake.”"
+            "text": "Soalnya kau kandidat terkuat buat menang di Tenno Shō musim gugur. \nSemua mata tertuju padamu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "You saw me worrying in front of the cake shop!?"
+            "text": "Sepertinya begitu, ya…"
         },
         {
-            "text": "I never put any dietary restrictions on \nher… I wonder if they're voluntary…",
+            "name": "Gold Ship",
+            "text": "Kenapa? Kalau nggak mau diwawancara, biar aku aja yang jawab!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aku tinggal bilang, “Aku lagi diet jadi nggak bisa makan kue favoritku.”"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kamu lihat aku galau di depan toko kue!?"
+        },
+        {
+            "text": "Aku nggak pernah ngasih batasan makan ke dia… apa jangan-jangan dia yang nahan diri sendiri…",
             "choice_data_list": [
-                "One slice should be fine."
+                "Satu potong seharusnya nggak apa-apa."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, carelessness will lead to unexpected consequences."
+            "text": "Tidak, lengah sedikit saja bisa berakibat buruk."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Anyways, I will accept the interview requests."
+            "text": "Bagaimanapun juga, aku akan terima permintaan wawancara itu."
         },
         {
             "name": "Reporter A",
-            "text": "You are currently favored to win the Fall Tenno \nSho. Are you confident that you will win?"
+            "text": "Sekarang ini kau dijagokan menang di Tenno Shō musim gugur. Apakah kau yakin bisa menang?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course I am confident, however, anything could happen. \nTherefore, I am approaching this race with cautious optimism."
+            "text": "Tentu aku percaya diri, tapi apa pun bisa terjadi. \nKarena itu aku akan menghadapi balapan ini dengan hati-hati dan optimis."
         },
         {
             "name": "Reporter B",
-            "text": "There will be many powerhouses in this upcoming \nrace. How do you plan on defeating them?"
+            "text": "Akan ada banyak lawan tangguh di balapan ini. Bagaimana kau berencana mengalahkan mereka?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "That…"
+            "text": "Itu…"
         },
         {
-            "text": "Wondering if she should tell the reporters, \nMejiro McQueen looked to me."
+            "text": "Ragu apakah harus menjawab, Mejiro McQueen melirik ke arahku."
         },
         {
-            "text": "As you can imagine, I cannot give you a detailed \nexplanation of our strategy."
+            "text": "Seperti yang bisa dibayangkan, aku nggak bisa jelasin detail strategi kami."
         },
         {
-            "text": "That being said, it would be great if \nour bracket was on the inside."
+            "text": "Tapi ya… akan sangat membantu kalau dapat nomor undian di sisi dalam."
         },
         {
             "name": "Reporter C",
-            "text": "By the way, I have heard that at one point Mejiro \nMcQueen was the only member of your team."
+            "text": "Ngomong-ngomong, kudengar dulu Mejiro McQueen sempat jadi satu-satunya anggota timmu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "That is true. However, we have recruited more members and are \nfinally getting back on track…"
+            "text": "Benar. Tapi kami berhasil merekrut anggota baru dan akhirnya bisa kembali ke jalur yang benar…"
         },
         {
             "name": "Reporter C",
-            "text": "Was this because of your victory in the Spring Tenno Sho?"
+            "text": "Apakah itu gara-gara kemenanganmu di Tenno Shō musim semi?"
         },
         {
-            "text": "Mejiro McQueen seemed at a loss for words, \nso she looked to me again.",
+            "text": "Mejiro McQueen terlihat kesulitan menjawab, lalu kembali menatapku.",
             "choice_data_list": [
-                "Yes, that is the case."
+                "Ya, memang begitu."
             ]
         },
         {
-            "text": "Despite the fact that our team was on the verge of collapse, \nMejiro McQueen managed to win the Spring Tenno Sho, paving the \nway for more members to join our team."
+            "text": "Padahal tim kami sempat di ambang bubar, \nMejiro McQueen berhasil menang di Tenno Shō musim semi. \nItulah yang membuka jalan buat anggota baru bergabung."
         },
         {
-            "text": "Because of that, McQueen really is \nthe heart/backbone of our team."
+            "text": "Karena itulah, McQueen benar-benar jadi jantung tim ini."
         },
         {
             "name": "Reporter C",
-            "text": "I see. McQueen-san, everyone is expecting great things from you!"
+            "text": "Begitu ya. McQueen-san, semua orang menaruh harapan besar padamu!"
         },
         {
             "name": "Mejiro McQueen",
@@ -106,121 +106,117 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eh? Ahh, umm… That is true/They sure are."
+            "text": "Eh? Ahh, umm… Memang begitu, ya."
         },
         {
             "name": "Reporter B",
-            "text": "Now then, do you have a message for your fans?"
+            "text": "Kalau begitu, apa ada pesan untuk para penggemarmu?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I am truly honored that you all have rated \nme as the most likely to win."
+            "text": "Aku sungguh merasa terhormat dinilai sebagai kandidat terkuat untuk menang."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "In order to meet everyone's expectations, I will continue to \ntrain as hard as possible until the day of the race."
+            "text": "Demi memenuhi harapan semua orang, aku akan terus berlatih sekeras mungkin sampai hari balapan tiba."
         },
         {
             "name": "Gold Ship",
-            "text": "Eww, so serious! You were way too serious! It \nwas such a boring, normal press conference!"
+            "text": "Uhh, serius banget! Jawabanmu serius semua! Konferensi persnya jadi ngebosenin banget!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I answered the questions as I normally \nwould. What did you expect?"
+            "text": "Aku hanya menjawab sesuai yang biasa kulakukan. Apa lagi yang kau harapkan?"
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "But every response you had was so cool!"
+            "text": "Tapi setiap jawabanmu keren banget, loh!"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "McQueen-san, I'm so excited for your next race!"
+            "text": "McQueen-san, aku nggak sabar nunggu balapanmu berikutnya!"
         },
         {
-            "text": "Mejiro McQueen has managed to not only excite her fans, but also \nexcite every one of her team members as well."
+            "text": "Mejiro McQueen bukan hanya berhasil membakar semangat penggemar, \ntapi juga semua anggota timnya."
         },
         {
-            "text": "She really is the heart/backbone of our team, \nand a truly reliable one at that."
+            "text": "Dia benar-benar jadi tumpuan tim ini, dan sosok yang bisa diandalkan."
         },
         {
-            "text": "Alright everyone! Let's go get ourselves some delicious food!"
+            "text": "Baiklah semuanya! Ayo kita cari makanan enak!"
         },
         {
             "name": "Gold Ship",
-            "text": "Wooah! Really!? Awesome, let's go have some all-you-can-eat \nIse Ebi/Japanese spiny lobsters!"
+            "text": "Wooah! Serius!? Mantap, ayo makan sepuasnya Ise Ebi—lobster khas Jepang!"
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I've always wanted to visit a candy store \nfamous for its carrot sweets!"
+            "text": "Aku pengen banget ke toko permen yang terkenal sama manisan wortelnya!"
         },
         {
             "name": "Horsegirl with Black Bob-cut",
-            "text": "Jeez, since McQueen-chan is the star, why \ndon't we go wherever she wants to?"
+            "text": "Aduh, kan McQueen-chan bintangnya. Kenapa nggak ke tempat yang dia mau aja?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Umm… I'll pass…"
+            "text": "Umm… Aku nggak ikut, deh…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I spent all day at the press conference after \nall. I would like to do some training now."
+            "text": "Seharian tadi sudah dihabiskan untuk konferensi pers. \nSekarang aku lebih ingin berlatih."
         },
         {
             "name": "Gold Ship",
-            "text": "Doing training after all that? Oye, are you okay? Don't you think \nyou've been training a little too hard?"
+            "text": "Latihan lagi setelah itu semua? Hei, kamu nggak apa-apa? Jangan-jangan kamu latihan terlalu keras?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course I've been making sure I don't overexert myself. \nEspecially after collapsing before."
+            "text": "Tenang saja, aku selalu pastikan tidak berlebihan. \nApalagi setelah kejadian aku pingsan waktu itu."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, I wouldn't want to lose all of that momentum \nnow that everything is going well."
+            "text": "Tapi aku juga nggak mau kehilangan momentum sekarang, saat semuanya berjalan baik."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Is that okay with you, Trainer-san?",
-            "choice_data_list": [
-                "I'll leave it for you to decide what's best.",
-                "I'll leave it for you to decide what's best."
-            ]
+            "text": "Bagaimana, Trainer-san? Apa boleh?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you. Now then, I'm heading out."
+            "text": "Terima kasih. Kalau begitu, aku berangkat dulu."
         },
         {
             "name": "Gold Ship",
-            "text": "She's as serious as ever, huh…?"
+            "text": "Dia tetap se-serius biasanya, ya…?"
         },
         {
-            "text": "And then came the Fall Tenno Sho, the huge stage that brought a \nlot of attention to Mejiro McQueen."
+            "text": "Lalu tibalah Tenno Shō musim gugur, panggung besar \nyang jadi sorotan untuk Mejiro McQueen."
         },
         {
-            "text": "Jeez, the stands are packed. That sure is a lot of people."
+            "text": "Wah, tribun penuh banget. Banyak sekali orang."
         },
         {
-            "text": "Jeez, the stands are packed. That sure is a lot of people."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "And you know what that means, right!? “Golshi Yakisoba” is gonna \nsell like hot cakes! I better hurry and get it ready!"
-        },
-        {
-            "text": "Don't do that, we've got to cheer on McQueen. Wait, where is she?"
-        },
-        {
-            "text": "Don't do that, we've got to cheer on McQueen. Wait, where is she?"
+            "text": "Wah, tribun penuh banget. Banyak sekali orang."
         },
         {
             "name": "Gold Ship",
-            "text": "She already left ya know?"
+            "text": "Dan itu artinya apa coba!? “Golshi Yakisoba” bakal laris manis! Aku harus cepat-cepat siapin!"
         },
         {
-            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?"
         },
         {
-            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
+            "text": "Jangan begitu, kita harus dukung McQueen. Eh, dia di mana?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dia sudah berangkat duluan, tau?"
+        },
+        {
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?"
+        },
+        {
+            "text": "Eh…? Padahal masih lama sebelum mulai… \nKenapa dia pergi secepat itu?"
         },
         {
             "name": "Mejiro McQueen",
@@ -228,15 +224,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The expectations of a member of the Mejiro Family, the \nexpectations of the fans that have supported me…"
+            "text": "Harapan dari keluarga Mejiro, harapan para penggemar yang mendukungku…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The expectations of the team members that have relied \non me, and Trainer-san's expectations…"
+            "text": "Harapan rekan-rekan tim yang mengandalkanku, dan harapan Trainer-san…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Everyone, I'm going to win this for you…"
+            "text": "Semuanya… Aku akan menang demi kalian…"
         }
     ]
 }

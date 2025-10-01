@@ -1,401 +1,393 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "So this is Japan's course……not bad.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "A country far to the east, \"Japan\". In that corner of the world, \nthe strong foes that I seek――",
-            "name": "Montjeu"
-        },
-        {
-            "text": "Haaa……haaa……haaa……! Kuu……!!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……If I had messed up the timing on my attack ever so slightly, \nyou would have likely made it to the goal first.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "A margin so paper-thin―― \nUp until now, I have never had a race so exhilarating.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "…………",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "The existence of the strong, it makes me elated. \nEl Condor Pasa, you are an opponent worthy of the title champion.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "……In that case, if you go to Japan, \nthen you'll be really thrilled.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Japan……?",
-            "name": "Montjeu"
-        },
-        {
-            "text": "It's not that I got this strong on my own. Because I had everyone, \nmy rivals in Japan, I was able to become strong.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "If I'm worthy of the title champion, \nthen in Japan there are many Uma Musume that are champions……!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "The excitement in my heart at that time, even now I can remember it vividly. \nAnd with that memory, every fiber of my being roils with excitement.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "……keep me entertained, Uma Musume of Japan.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "This is the day that many fans have been waiting for! Where \ncountless Uma Musume that have achieved results from across the \nworld gather, the 『Japan Cup』!",
-            "name": "Announcer"
-        },
-        {
-            "text": "This year there are quite a few big names! Including Japan's, 4 \nDerby Uma Musume from across the world are here!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Among those, the most attention is given to the one who defeated \nEl Condor Pasa at the 『Prix de l'Arc de Triomphe』, Montjeu!",
-            "name": "Announcer"
-        },
-        {
-            "text": "How will the Uma Musume of Japan stand up against her!? \nAnd then, the World's Strongest, just who will claim that title!?",
-            "name": "Announcer"
-        },
-        {
-            "text": "Who would have thought that Grass Wonder would withdraw……",
-            "name": "Sociable Young Man"
-        },
-        {
-            "text": "It's true that if it was Grass Wonder it would \nhave been a good match, however, it'll probably \nstill be tough for Japan's Uma Musume.",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "They rarely get a chance to experience the fierceness of those overseas―― \nand even Montjeu's there you know?",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "Even if that's true, you still want \nJapan's Uma Musume to win, right?",
-            "name": "Sociable Young Man"
-        },
-        {
-            "text": "……I'm praying for them, but reality is reality……",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "Suu～.…… Haa～……",
-            "name": "Special Week"
-        },
-        {
-            "text": "As I thought, you're still a little nervous, aren't you?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Ehehe, rather than a little, I'd say a lot……",
-            "name": "Special Week"
-        },
-        {
-            "text": "As one of Japan's Uma Musume, the one with the most expectations \nis Special Week-san after all.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "However, put another way, acknowledged as the Uma Musume in Japan \nwith the most potential. It's something to be proud of.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Right, right, you've done all that you needed to! You've managed \nto lose all the weight you wanted to! You did it Spe, congrats!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "W-why do you know my weight!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "And besides, in a little bit, \na really reassuring ally will arrive!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Ally……?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Speak of the devil.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "……I'm glad, it looks like I made it in time.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "……Eh? \n…………Eeeh!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Suzuka-san……!? Eh, why!? \nIn America……!? Weren't you in America……!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Fufuu, I wanted to see Spe-chan's race in person.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Uwaaaaah～～! It's Suzuka-san! It's her, it's really her～!",
-            "name": "Special Week"
-        },
-        {
-            "text": "It's been a while since Team ＜Sirius＞ \nhas had everyone in one place!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "It's because it's such a big stage, \nif we're going to cheer, it needs to be all of us!",
-            "name": "Bob-cut Uma Musume"
-        },
-        {
-            "text": "Everyone, let's cheer with all we've got!",
-            "name": "Uma Musume with Bangs"
-        },
-        {
-            "text": "Spe-chan, for the race today, famous Uma Musume from all across \nthe world are gathered here.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Even with all those others there, just show us Spe-chan running impressively. \nThat's everyone on the team's dream.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Everyone on the team's dream……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Show me that dream today too, Spe.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Go run with all you've got!",
-                "Go run with all you've got!"
-            ]
-        },
-        {
-            "text": "Show me that dream today too, Spe.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Go run with all you've got!",
-                "Go run with all you've got!"
-            ]
-        },
-        {
-            "text": "Yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Heeey～, Spe-cha～n.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Oh, Sei-chan! And everyone!",
-            "name": "Special Week"
-        },
-        {
-            "text": "We came to cheer you on, Special Week-san. \nIt seems like you're not feeling nervous.",
-            "name": "King Halo"
-        },
-        {
-            "text": "Well, she isn't King after all.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Hold on! I don't really get nervous either!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Ahaha, thanks for cheering, King-chan and Sei-chan too.",
-            "name": "Special Week"
-        },
-        {
-            "text": "They keep saying Japan's Uma Musume aren't up \nto it but, don't worry about that. If you run \nlike normal, you'll definitely get results.",
-            "name": "King Halo"
-        },
-        {
-            "text": "Seiun Sky-san is injured……\nand to continue on my own path, I'm not participating, but――",
-            "name": "King Halo"
-        },
-        {
-            "text": "Do your best out there Spe-chan, enough for all of us!",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "『Satsuki Sho』, 『Japan Derby』, and then the 『Kikka Sho』…… when we \nran the classic races, run with the same feeling from that time!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Yeah, I'll run enough for the both of you!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I admired Spe-chan's running, and because of that I'm able to run \nwith more energy than I ever was before!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "That's why today too, that run you showed me at the 『Fall Tenno Sho』, \ndo it so I'll want to chase after you even more!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Special Week-sama's run, has been engraved \nin to my heart this whole time.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "『Spring Tenno Sho』―― an Uma Musume that can run a race like that, \none day I'll catch up, and eventually surpass it……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "And so, let me once again challenge you. \nAfter you've won against these world class Uma Musume.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Yeah! Tsuru-chan and Bright-san too, \nI'll run so that you'll want to compete against me again!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Looks like you've got plenty of spirit, Spe-chan!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Yes, and she seems much more reliable than usual.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "El-chan, Grass-chan……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Truthfully, I really want to get revenge for myself, but……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Got it Spe-chan? Don't lose to her!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "We believe in Spe-chan's victory.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "And then, in 『Arima Kinen』 we'll definitely have another match.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Yeah! I'll definitely go win……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Finally, those participating in the 『Japan Cup』 make their \nappearance on the turf!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Within Japan, the most popular, it's Special Week! \nThis is the form of the \"The Supreme Commander of Japan\"!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Do your best～～～～! Spe-chaaaaaaaan!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Spe-saaaan! Fight～～!!",
-            "name": "Uma Musume with Bangs"
-        },
-        {
-            "text": "Do your best～～!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "…………",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "What's wrong, McQueen?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Nothing, when I saw Special Week-san, \nI guess I just remembered something……",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Rice-san and Ticket-san, Brian-san and Suzuka-san \ntoo, that awe-inspiring feeling when watching \nyour races, I think I feel that right now.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "……it was the same with McQueen, too. That awe-inspiring feeling \nof showing me that you'll definitely take hold of your dream.",
-            "name": "<username>"
-        },
-        {
-            "text": "Taking hold of your dream……it seems like that's continued on to \nnow. A trainer that thinks most about Uma Musume, and the \nfeelings of the Uma Musume responding to that.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "As a member of team ＜Sirius＞ running……show us you can take hold \nof that dream, Special Week-san.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Nice to meet you, Special Week.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "……Eh? Ah, nice to meet you!",
-            "name": "Special Week"
-        },
-        {
-            "text": "El Condor Pasa……your friend ran a truly unforgettable race.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "As much as the victory at the 『Prix de l'Arc de Triomphe』, just \nrunning with her made me overjoyed, and my feelings towards \nJapan's Uma Musume changed.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "Once more, I want to run in a race just like that. \nFor that reason, now I'm standing here.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "For that reason, I hope you'll run in a way to grant my desire……",
-            "name": "Montjeu"
-        },
-        {
-            "text": "……I didn't think that even Montjeu-san \nwould have such high expectations for me.",
-            "name": "Special Week"
-        },
-        {
-            "text": "……？",
-            "name": "Montjeu"
-        },
-        {
-            "text": "……Leave it to me, I'll live up to Montjeu-san's expectations and \nshow you I can become \"Japan's #1 Uma Musume\".",
-            "name": "Special Week"
-        },
-        {
-            "text": "Let's have a good race, Montjeu-san……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Fufuu……",
-            "name": "Montjeu"
-        },
-        {
-            "text": "<Let's have a good race, Special Week>",
-            "name": "Montjeu"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Jadi ini trek Jepang ya…… lumayan juga.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Negara jauh di timur, Jepang.\nDi ujung dunia sana, ada lawan kuat yang aku cari――",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Haaa…… haaa…… haaa……! Kuu……!!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Kalau tadi aku sedikit aja telat nyerang,\nkemungkinan besar kamu yang nyampe finish duluan.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Tipis banget jaraknya――\nSeumur hidupku belum pernah ada balapan\nsetegangan ini.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "…………",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Ketemu lawan sekuat ini bikin aku seneng banget.\nEl Condor Pasa, kamu lawan yang pantes banget disebut juara.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "……Kalau gitu, coba deh kamu ke Jepang.\nDi sana pasti lebih seru lagi.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Jepang……?",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Aku bisa kuat kayak gini bukan karena sendirian.\nKarena aku punya banyak saingan di Jepang,\naku bisa tumbuh jadi lebih kuat.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Kalau aku pantas dibilang juara,\nmaka di Jepang ada banyak Uma Musume\nyang juga pantas disebut juara……!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Perasaan bergetar waktu itu, sampai sekarang\nmasih kebayang jelas.\nDan tiap kali aku inget, darahku mendidih lagi.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "……Menghiburlah aku, Uma Musume Jepang.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Hari ini akhirnya tiba!\nYang ditunggu-tunggu fans dari seluruh dunia,\n『Japan Cup』!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Pesertanya luar biasa! Ada 4 juara Derby\ndari berbagai negara, termasuk dari Jepang!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dan tentu aja sorotan terbesar jatuh ke Montjeu!\nKuda yang berhasil ngalahin El Condor Pasa\ndi 『Prix de l'Arc de Triomphe』!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Apakah Uma Musume Jepang bisa ngadepin dia!?\nDan siapa yang bakal jadi yang terkuat di dunia!?",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Nggak nyangka Grass Wonder batal ikut……",
+      "name": "Pemuda Supel"
+    },
+    {
+      "text": "Iya, kalau ada Grass Wonder mungkin\nduelnya bakal imbang. Tapi tetep aja,\nbuat Uma Musume Jepang ini berat banget.",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Mereka jarang banget ngalamin kerasnya\nbalapan internasional―― apalagi sekarang ada Montjeu.",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Ya walaupun begitu, tetep aja kita pengen\nUma Musume Jepang yang menang kan?",
+      "name": "Pemuda Supel"
+    },
+    {
+      "text": "……Aku juga berdoa gitu, tapi ya realita tetap realita……",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Suu～…… Haa～……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Seperti dugaan, kamu masih agak gugup ya?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ehehe… bukannya agak, tapi banget malah……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebagai Uma Musume Jepang, yang paling\ndiharapin sekarang ya kamu, Special Week-san.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tapi kalau dipikir-pikir, itu artinya kamu\ndiakuin sebagai Uma Musume dengan\npotensi paling besar di Jepang.\nItu sesuatu yang harusnya bikin bangga.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Betul tuh! Kamu udah lakuin semua yang perlu!\nSampai nurunin berat badan juga berhasil!\nMantap Spe, selamat ya!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "E-eeeh!? Dari mana kamu tau berat badanku!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan lagi, bentar lagi bakal dateng\npendukung yang super bisa diandelin!",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Pendukung……?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tuh kan, datang juga.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Syukurlah… kayaknya aku masih sempet.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "……Eh?\n…………Eeeeh!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Suzuka-san……!? Hah, kenapa!? \nBukannya kamu di Amerika……!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hehehe, aku pengen liat langsung\nbalapan Spe-chan hari ini.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Uwaaaaaaa～～! Suzuka-san beneran dateng!\nIni asli dia!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhirnya Team ＜Sirius＞ kumpul lengkap lagi!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Soalnya panggungnya gede banget,\nkalau mau dukung ya harus bareng-bareng!",
+      "name": "Gadis kuda A"
+    },
+    {
+      "text": "Ayo semua, kasih semangat sekuat tenaga!",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "Spe-chan, di balapan kali ini banyak banget\nUma Musume top dunia yang kumpul.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi meski gitu, cukup tunjukin aja\nlari Spe-chan yang keren.\nItu impian semua anggota tim.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Impian semua tim……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe, tunjukin lagi impian itu hari ini.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Lari sekenceng-kencengnya!",
+        "Lari sekenceng-kencengnya!"
+      ]
+    },
+    {
+      "text": "Iya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Heeei～ Spe-chaaan.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Oh, Sei-chan! Sama kalian juga!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kami datang buat dukung kamu, Special Week-san.\nSepertinya kamu udah nggak terlalu tegang ya.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Yah, beda sama kamu sih King.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Hei! Aku juga nggak gampang gugup tau!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Ahaha, makasih ya King-chan, Sei-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Orang-orang bilang Uma Musume Jepang\nbelum siap. Tapi jangan pikirin itu.\nKalau kamu lari kayak biasanya,\nhasilnya pasti bagus.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Seiun Sky lagi cedera……\ndan aku juga fokus ke jalanku sendiri,\njadi nggak ikut kali ini. Tapi――",
+      "name": "King Halo"
+    },
+    {
+      "text": "Spe-chan, lari lah buat kita semua!",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "『Satsuki Sho』, 『Japan Derby』, sama 『Kikka Sho』……\nIngat rasanya waktu kita lari di balapan klasik itu!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Iya! Aku bakal lari buat nutupin kalian juga!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku terinspirasi banget liat larinya Spe-chan.\nMakanya aku bisa lari lebih kuat dari sebelumnya!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Jadi, hari ini juga tunjukin lagi lari kayak di 『Tenno Sho Musim Gugur』!\nBiar aku makin pengen ngejar kamu!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Larinya Special Week-sama udah keukir di hatiku.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "『Tenno Sho Musim Semi』―― Uma Musume\nkayak kamu yang bisa lari sehebat itu,\naku pasti suatu hari bisa nyusul, bahkan ngalahin.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Jadi, biar aku nantang kamu lagi setelah kamu menang\nngelawan Uma Musume kelas dunia ini.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Oke! Tsuru-chan, Bright-san, aku bakal lari\nbiar kalian pengen tantang aku lagi!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Semangatmu mantap banget, Spe-chan!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Iya, sekarang dia keliatan lebih bisa diandelin.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "El-chan, Grass-chan……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebenernya aku pengen balas dendam sendiri, tapi……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Inget Spe-chan! Jangan kalah lawan dia!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Kami percaya kamu bisa menang.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Dan nanti di 『Arima Kinen』, kita bakal adu lagi.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Iya! Aku pasti bakal menang dulu di sini……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhirnya para peserta 『Japan Cup』 muncul di rumput stadion!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Di Jepang, yang paling populer jelas Special Week!\nInilah sosok “Komandan Utama Jepang”! ",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Semangaaat～～～～! Spe-chaaaaaan!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Spe-saaaan! Ayo bertarung～～!!",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "Semangat～～!",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "…………",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kenapa, McQueen?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Nggak apa-apa, cuma waktu liat Special Week-san,\naku jadi keinget sesuatu……",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Rice-san, Ticket-san, Brian-san, Suzuka-san……\nrasa kagum waktu nonton kalian lari,\nkayaknya aku ngerasain hal itu lagi sekarang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "……Sama kayak waktu aku liat kamu juga, McQueen.\nRasa kagum itu, yakin kamu pasti\nmeraih mimpi kamu sendiri.",
+      "name": "<username>"
+    },
+    {
+      "text": "Meraih mimpi…… Kayaknya hal itu\nterus nyambung sampai sekarang.\nPelatih yang paling mikirin Uma Musume,\ndan Uma Musume yang ngerespon\nperasaan itu.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Sebagai anggota ＜Sirius＞, tunjukin kalau kamu bisa\nmeraih mimpi itu, Special Week-san.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Senang ketemu kamu, Special Week.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "……Eh? Ah, iya, salam kenal!",
+      "name": "Special Week"
+    },
+    {
+      "text": "El Condor Pasa…… temenmu lari dengan cara\nyang nggak bakal kulupain.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Kemenangan di 『Prix de l'Arc de Triomphe』 penting,\ntapi bisa lari bareng dia aja udah bikin aku bahagia,\ndan pandanganku soal Uma Musume Jepang berubah.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Sekali lagi, aku pengen ngalamin balapan kayak gitu.\nMakanya sekarang aku ada di sini.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jadi aku harap kamu bisa lari\nbuat ngabulin keinginanku……",
+      "name": "Montjeu"
+    },
+    {
+      "text": "……Nggak nyangka Montjeu-san\nngarep banget sama aku.",
+      "name": "Special Week"
+    },
+    {
+      "text": "……?",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Tenang aja, aku bakal buktikan\nkalau aku bisa jadi \"Uma Musume nomor 1 Jepang\"!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ayo bikin balapan yang keren bareng, Montjeu-san……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hehe……",
+      "name": "Montjeu"
+    },
+    {
+      "text": "<Ayo bikin balapan yang keren, Special Week>",
+      "name": "Montjeu"
+    }
+  ]
 }

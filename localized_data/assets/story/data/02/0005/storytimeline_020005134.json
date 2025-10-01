@@ -1,33 +1,33 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Now, in to the last straight! \nWith a lead of 5 to 6 lengths, Silence Suzuka!",
-            "name": "Commentator"
-        },
-        {
-            "text": "And here they press the attack and chase forward! Can Silence \nSuzuka do it?! There isn't much distance left between them!",
-            "name": "Commentator"
-        },
-        {
-            "text": "But Silence Suzuka accelerates here!! With her \"Escape and \nFollow Through\", the difference increases again!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Silence Suzuka! It's Silence Suzuka!! \nSilence Suzuka crosses the goal first!!",
-            "name": "Commentator"
-        },
-        {
-            "text": "This time too, \"Escape and Follow Through\" Silence \nSuzuka is going strong! Surpassing all expectations, \nshe claims an overwhelming victory!",
-            "name": "Commentator"
-        },
-        {
-            "text": "As I thought, running is fun…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "From now on, that \"scenery\" that's never been seen before. \nTogether, with everyone…!",
-            "name": "Silence Suzuka"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Sekarang, memasuki lintasan lurus terakhir! \nDengan keunggulan 5–6 panjang badan, Silence Suzuka!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dan sekarang mereka menyerang, mengejar maju! Bisakah Silence Suzuka bertahan?! \nJarak antara mereka tinggal sedikit!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Tapi Silence Suzuka malah mempercepat di sini!! \nDengan “Escape and Follow Through”-nya, jarak semakin menjauh lagi!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Silence Suzuka! Ini Silence Suzuka!! \nSilence Suzuka menyeberangi garis finish pertama!!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Sekali lagi, dengan “Escape and Follow Through”, Silence Suzuka tampil luar biasa! \nMelampaui semua ekspektasi, dia meraih kemenangan yang luar biasa!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Ternyata, lari itu memang menyenangkan…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Mulai sekarang, “pemandangan” yang belum pernah dilihat sebelumnya. \nBersama-sama, dengan semuanya…!",
+      "name": "Silence Suzuka"
+    }
+  ]
 }

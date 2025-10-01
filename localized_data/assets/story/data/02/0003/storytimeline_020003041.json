@@ -1,263 +1,263 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "“There is no curtain for the queen” When she saw such a public \nopinion, she must have laughed."
-        },
-        {
-            "text": "With her dark hair fluttering, as if it was skipping, with her \ntaking the lead the people had no choice but to acknowledge her."
-        },
-        {
-            "text": "The queen's name was Vodka."
-        },
-        {
-            "text": "She turned the stage of her dream into a gorgeous solo stage, and \nin her eyes, the scenery of the future that no one else has ever \nseen was vividly reflected."
-        },
-        {
-            "text": "As the autumn season arrived, the day of \nthe “Holy Hoof Festival” has come."
-        },
-        {
-            "text": "The Derby exhibition, which was prepared with both me and Winning \nTicket was ready, and it was not well received."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "After that, after that! The Derby at that time was also \nimpressive! Right, Trainer-san!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "I got it, I got it, slowly show me."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "However, you prepared quite well even \nthough you had your own race."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "It was hard～. Trainer-san helped me too, \nso I somehow managed to do it!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, that's right! I haven't had a chance to properly introduce \nTrainer-san to both of you yet, right!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Right here is Trainer-san! And this is Taishin and Hayahide!"
-        },
-        {
-            "text": "Narita Taishin and Biwa HayahideーHer classmates, I heard that \nthey are also a “synchronization” that debuted at the same time.",
-            "choice_data_list": [
-                "Nice to meet you, I'm her trainer."
-            ]
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "…Nice to meet you. I mean, you have it hard."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Yeah… It is not difficult to imagine the struggle you went \nthrough to help Ticket with the exhibition."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Geez! What do you think of me, both of you!?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "The order is reversed! Originally, the trainer came to help me \nprepare for the exhibition!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Two people meet at the Derby exhibition then aim for the Derby \ntogether, this is fate, fate!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, speaking of fate! Do you remember the \npromise we made the first time we met?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "That was in your first class, right?"
-        },
-        {
-            "name": "Instructor",
-            "text": "So first, I will measure your time. Choose \nthe appropriate distance and time."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yes-yes instructor! Is it okay if I \nrun the same 2400m as the Derby～?"
-        },
-        {
-            "name": "Instructor",
-            "text": "Y-Yes… I don't mind, but it's normal for a Horse Girl who has \njust entered the school to start from about half that distance."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Even so! My goal is the Derby!"
-        },
-        {
-            "name": "Instructor",
-            "text": "I-I got… Just to make sure, is there \nanyone willing to run 2400m too?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "here…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Me too, please set it at 2400m."
-        },
-        {
-            "name": "Instructor",
-            "text": "Huh!? Are you girls, serious?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "heh… heh… It-It's no good～! My time, it's not good at all～!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "heh… heh…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Keh!"
-        },
-        {
-            "name": "Instructor",
-            "text": "2400m… The classic distance, it's not \nsomething you can easily run."
-        },
-        {
-            "name": "Instructor",
-            "text": "First, you have to do what you have to do now, so let's do our \nbest so that you can run this distance someday."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "heh… heh… he, I understand～."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Someday I will."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "This distance, I'll show you how to beat it…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh, haha! Hey-Hey, both of you! Thanks for running with me!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "… It's nothing, I haven't done anything deserving your thanks. It \nwas a distance I had to challenge one day."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "In order to get stronger, it is a distance \nthat you have to get over."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Then, after all, the 2 of you are aiming for the Derby! 3 people \naiming for the Derby in the same class…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Waaa～～, It's a drama～～! Let's make sure \nthe 3 of us run in the Derby～～!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Shut up!… I mean, why are you crying!?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Let's race and make a new history with the \n3 of us! In a hot, dramatic Derby!!"
-        },
-        {
-            "text": "As Winning Ticket was talking about the day they met her eyes \nwere shining. The 3 girls were together from the first time they \nmet and took the first step towards their dream together."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Alright, let's repeat the promise we made that day one more time! \nLet me hear your voices, one-twoーDerby!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh, what? only me!?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "The person in charge here is noisy, so let's go to another place."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I'm sure there was an event on the outdoor stage."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ahh!? Wait!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "That was only a joke. But it is almost \ntime for me to go training."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Training? In the middle of the “Holy Hoof Festival”?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Taishin, your next race has been decided."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, I see! Taishin, I'm going to support you!"
-        },
-        {
-            "text": "Even though the race is ahead, I will work hard to train until \nthe day of the school event."
-        },
-        {
-            "text": "The Horse girl called Narita Taishin seemed to have a very stoic \ncharacter, contrary to the impression that it was bumpy."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Well then, to put our spirits in, one more time! Derby!!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Again, it's noisy!"
-        },
-        {
-            "text": "A few days laterー"
-        },
-        {
-            "name": "Commentator",
-            "text": "Turning around the 4th corner and Narita Taishin is in 2nd place! \nOpps, at once! The other Horse Girls came up at once!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Taishin! Go! Get upp!"
-        },
-        {
-            "text": "Narita Taishin ended up in 6th place, \neven with the load cheering."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Taishin!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "… Ticket."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Don't worry about it! For the next race, let's train together!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "I'm sorry, but that's fine. For now let me be alone."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah… S-Sorry…"
-        },
-        {
-            "text": "The 3 best friends aiming for the big stage of \nthe Derbyー This result made me think that their \nroad ahead would be filled with thorns."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "“Tidak ada tirai untuk sang ratu.” \nSaat melihat opini publik itu, dia pasti hanya bisa tertawa."
+    },
+    {
+      "text": "Dengan rambut hitamnya berkibar, langkahnya seolah ringan melayang, \norang-orang pun tak punya pilihan selain mengakuinya."
+    },
+    {
+      "text": "Nama sang ratu itu adalah Vodka."
+    },
+    {
+      "text": "Ia mengubah panggung mimpinya jadi panggung solo yang megah, \ndan di matanya tergambar jelas pemandangan masa depan yang belum pernah dilihat siapa pun."
+    },
+    {
+      "text": "Musim gugur pun tiba, hari “Festival Tapal Kudus” akhirnya datang."
+    },
+    {
+      "text": "Pameran Derby yang kupersiapkan bersama Winning Ticket sudah siap, \ntapi sambutannya tidak terlalu baik."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Setelah itu, setelah itu! \nDerby waktu itu juga berkesan banget kan! \nIya nggak, Trainer-san!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Iya iya, aku ngerti. \nPelan-pelan ceritain ke aku."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tapi kamu persiapannya lumayan juga \npadahal kamu punya balapan sendiri."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Capek banget～. \nUntung ada bantuan Trainer-san juga, jadi masih bisa kelar!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah iya! Aku belum sempet ngenalin Trainer-san ke kalian berdua ya!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ini lho Trainer-san! \nDan ini Taishin sama Hayahide!"
+    },
+    {
+      "text": "Narita Taishin dan Biwa Hayahide—teman sekelasnya, \nkatanya mereka juga “satu angkatan” yang debut bareng.",
+      "choice_data_list": [
+        "Senang kenal kalian, aku trainernya."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Senang kenal. \nTapi kayaknya kamu repot banget ya."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Iya… gampang dibayangin perjuanganmu bantu Ticket di pameran itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hadeh! Jadi menurut kalian aku gimana sih!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalian salah! Sebenarnya Trainer yang datang duluan buat bantu aku siapin pameran!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Dua orang ketemu di pameran Derby, \nterus sama-sama ngincer Derby… ini namanya takdir, takdir!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh iya, ngomongin takdir! \nMasih inget nggak janji yang kita buat pertama kali ketemu?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Itu pas kelas pertama kamu kan?"
+    },
+    {
+      "name": "Instruktur",
+      "text": "Baik, pertama aku akan ukur waktumu. \nPilih jarak dan waktu yang sesuai."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Siap, Instruktur! \nBoleh aku lari 2400m kayak Derby～?"
+    },
+    {
+      "name": "Instruktur",
+      "text": "E-Eh… ya nggak apa-apa sih, \ntapi biasanya Uma Musume yang baru masuk sekolah mulai dari setengah jarak itu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tetep aja! Tujuan aku kan Derby!"
+    },
+    {
+      "name": "Instruktur",
+      "text": "Ba-Baiklah… \nuntuk jaga-jaga, ada yang mau lari 2400m juga?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aku…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku juga, tolong set di 2400m."
+    },
+    {
+      "name": "Instruktur",
+      "text": "Hah!? Kalian serius!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heh… heh… A-Aduh～! \nWaktuku jelek banget～!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Heh… heh…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "…Keh!"
+    },
+    {
+      "name": "Instruktur",
+      "text": "2400m… jarak klasik, \nbukan hal yang bisa lari sembarangan."
+    },
+    {
+      "name": "Instruktur",
+      "text": "Pertama, lakukan yang bisa kamu lakukan sekarang. \nNanti kita latihan biar bisa lari sejauh itu suatu hari."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heh… heh… Baik, aku ngerti～."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Suatu hari aku pasti bisa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jarak ini, bakal aku taklukkan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, haha! Heh, makasih ya kalian berdua udah lari bareng aku!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Nggak usah, aku nggak ngelakuin apa-apa. \nIni memang jarak yang harus aku coba suatu saat."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kalau mau makin kuat, harus bisa lewatin jarak ini."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jadi, kalian berdua juga ngincer Derby kan! \nTiga orang dari kelas yang sama ngincer Derby…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Waaa～～! Ini kayak drama～～! \nYuk pastiin kita bertiga beneran lari di Derby～～!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Berisik!… Eh, kenapa kamu malah nangis!?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yuk kita bikin sejarah baru bertiga! \nDi Derby yang panas dan dramatis!!"
+    },
+    {
+      "text": "Saat Winning Ticket ngomongin hari pertemuan mereka, matanya bersinar. \nKetiga gadis itu sejak pertama kali bertemu sudah melangkah bareng menuju mimpi mereka."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oke, yuk ulang janji kita waktu itu sekali lagi! \nAyo bareng-bareng, satu-duaーDerby!!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, hah? Kok cuma aku!?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yang ribut di sini kamu doang. \nAyo pindah ke tempat lain."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Kayaknya ada acara di panggung luar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh!? Tunggu!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tadi cuma bercanda. \nTapi sebentar lagi aku harus latihan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Latihan? Di tengah “Festival Tapal Kudus” gini?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Taishin, balapan berikutmu udah ditetapkan."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, gitu ya! Taishin, aku bakal dukung kamu!"
+    },
+    {
+      "text": "Meski balapannya masih jauh, dia tetap kerja keras latihan sampai hari acara sekolah."
+    },
+    {
+      "text": "Gadis bernama Narita Taishin itu ternyata punya sifat stoik banget, \nkebalikan dari kesan awalnya yang agak keras."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Kalau gitu, biar makin semangat, sekali lagi! \nDerby!!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aduh, ribut lagi!"
+    },
+    {
+      "text": "Beberapa hari kemudianー"
+    },
+    {
+      "name": "Komentator",
+      "text": "Masuk tikungan ke-4 dan Narita Taishin ada di posisi 2! \nWah, tiba-tiba! Uma Musume lain langsung merapat!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin! Ayo! Gas!!"
+    },
+    {
+      "text": "Narita Taishin akhirnya finish di posisi 6, \nmeski sudah dapat dukungan penuh."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "…Ticket."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jangan dipikirin! \nBuat balapan berikutnya, kita latihan bareng yuk!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Maaf, tapi nggak usah. \nUntuk sekarang biar aku sendiri dulu."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah… M-Maaf…"
+    },
+    {
+      "text": "Tiga sahabat yang sama-sama ngincer panggung besar Derbyー \nHasil kali ini bikin aku sadar jalan mereka bakal penuh duri."
+    }
+  ]
 }

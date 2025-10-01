@@ -2,10 +2,10 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was the week after Rhein Kraft had won the 『Fillies' Review』. \nThis time, it was Cesario's turn to run the 『Flower C』."
+            "text": "Minggu setelah Rhein Kraft menang di 『Fillies' Review』.\nSekarang giliran Cesario buat lari di 『Flower C』."
         },
         {
-            "text": "(This is her first attempt at a major and she \nwas overwhelmingly the favorite……I was worried \nthe pressure might be a little much for her, but――)",
+            "text": "(Ini pertama kalinya dia ikut lomba besar, dan dia jadi favorit banget……\nAku khawatir tekanan mungkin terlalu berat buat dia, tapi――)",
             "name": "<username>"
         },
         {
@@ -13,19 +13,19 @@
             "name": "Cesario"
         },
         {
-            "text": "And it's Cesario! Cesario pulls out in front! \nA lead of 2 lengths, now 3 lengths! Cesario is out front!!",
-            "name": "Live Announcer"
+            "text": "Dan ini Cesario! Cesario memimpin di depan!\nSelisih 2 panjang, sekarang 3 panjang! Cesario di depan!!",
+            "name": "Penyiar"
         },
         {
-            "text": "――Goal!! First place is Cesario!! On the last straight, \nshe showed us the difference in strength!!",
-            "name": "Live Announcer"
+            "text": "――Finish!! Juara pertama adalah Cesario!!\nDi straight terakhir, dia nunjukin bedanya kekuatan!!",
+            "name": "Penyiar"
         },
         {
-            "text": "Uwaah~! Seriously!? Isn't that a record time too!? \nAmazing~~……!!",
-            "name": "Single Knot Uma Musume"
+            "text": "Uwaah~! Serius!? Itu juga waktu rekor kan!? Keren banget~~……!!",
+            "name": "Gadis kuda Aw"
         },
         {
-            "text": "Hold on……this is……just too incredible. \nCesario-san……that girl, just how far will she――",
+            "text": "Tunggu……ini……gila banget.\nCesario-san……gadis itu, sejauh apa dia bakal――",
             "name": "King Halo"
         },
         {
@@ -33,196 +33,155 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "(How far……? Just how far will Cesario go……? \nJust how much……will I have to do――!?)",
+            "text": "(Sejauh apa……? Cesario bakal sejauh apa……?\nSeberapa keras……aku harus usaha――!)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "――And now you're watching a special VTR…… \nfor the 『Oka Sho』, as expected, aren't Rhein \nKraft and Cesario the focus of attention!?",
+            "text": "――Sekarang kalian nonton VTR spesial……\nuntuk 『Oka Sho』, seperti yang diduga, Rhein Kraft dan Cesario jadi pusat perhatian!?",
             "name": "MC"
         },
         {
-            "text": "That's true. Within the Tiara rotation, \nthe abilities of those two are a cut above, without a doubt.",
-            "name": "Commentator A"
+            "text": "Bener banget. Dalam rotasi Tiara, kemampuan keduanya jelas di atas rata-rata, tanpa ragu.",
+            "name": "Komentator A"
         },
         {
-            "text": "Will it be Rhein Kraft's powerful leader strength, \nor Cesario's sharp closing leg! We can expect a \nheated first time showdown at the 『Oka Sho』.",
-            "name": "Commentator B"
+            "text": "Apakah bakal kekuatan pemimpin Rhein Kraft, atau kaki penutup tajam Cesario!\nKita bisa nunggu showdown panas pertama di 『Oka Sho』.",
+            "name": "Komentator B"
         },
         {
-            "text": "And then there's something that both of them have in common! \nThey are both members of the same team, <Ascella>, and so――!",
+            "text": "Dan ada yang sama dari keduanya!\nMereka sama-sama anggota tim <Ascella>, jadi――!",
             "name": "MC"
         },
         {
-            "text": "Today, we have <Ascella>'s trainer here with us! \nTrainer-san, for the upcoming 『Oka Sho』 what \nkind of advice have you given them!?",
+            "text": "Hari ini, kita kedatangan pelatih <Ascella>!\nTrainer-san, untuk 『Oka Sho』 yang bakal datang, apa saran yang udah dikasih ke mereka!?",
             "name": "MC",
             "choice_data_list": [
-                "……Well, that's――"
+                "……Yah, itu――"
             ]
         },
         {
-            "text": "I was already at a loss for words. It was obviously \nbecause I was both Rhein Kraft's and Cesario's trainer."
+            "text": "Aku udah bingung mau bilang apa.\nJelas karena aku pelatih Rhein Kraft dan Cesario sekaligus."
         },
         {
-            "text": "Creating a training menu geared towards victory at the 『Oka Sho』. \nThis was an important duty as their trainer. However――"
+            "text": "Buat bikin menu latihan yang fokus buat menang di 『Oka Sho』.\nIni tugas penting sebagai pelatih mereka. Tapi――"
         },
         {
-            "text": "For Rhein Kraft, the main point of her menu would \nend up being 『Countermeasures against Cesario』."
+            "text": "Buat Rhein Kraft, inti menunya bakal fokus ke 『Cara menghadapi Cesario』."
         },
         {
-            "text": "Similarly, for Cesario, it would end up \nbeing 『Countermeasures against Rhein Kraft』.",
+            "text": "Sementara buat Cesario, bakal fokus ke 『Cara menghadapi Rhein Kraft』.",
             "choice_data_list": [
-                "<size=36>(I had to overcome……that 『Contradiction』)</size>"
+                "<size=36>(Aku harus ngatasin……‘Kontradiksi’ itu)</size>"
             ]
         },
         {
-            "text": "……Of course, I instructed to the best of my ability. \nFor both Rhein Kraft and Cesario.",
-            "name": "<username>"
+            "text": "……Tentu, aku ngasih arahan sebisa mungkin.\nBuat Rhein Kraft dan Cesario."
         },
         {
-            "text": "I'd be glad if either of them won, but…… \nI also want both of them to win. Which is why \nI intended to provide equal guidance to both.",
-            "name": "<username>"
+            "text": "Aku bakal seneng kalo salah satu menang, tapi……\nAku juga pengen keduanya menang. Makanya aku kasih panduan sama rata ke keduanya."
         },
         {
-            "text": "――that's how I ended up answering……"
+            "text": "――itulah jawaban yang akhirnya aku kasih……"
         },
         {
             "text": "……………………………………………………",
             "name": "<username>",
             "choice_data_list": [
-                "(I……I messed up……!!)"
+                "(Aku……Aku salah……!!)"
             ]
         },
         {
-            "text": "Haa, haa, haa, haa…… \n……Haa……!!",
+            "text": "Haa, haa, haa, haa……\n……Haa……!!",
             "name": "Rhein Kraft",
             "choice_data_list": [
-                "(Kraft……keeps staying longer……)"
+                "(Kraft……tetap bertahan lebih lama……)"
             ]
         },
         {
-            "text": "Haa……no!! Like this, I'll still get overtaken……! \nCesario will……catch me……!",
+            "text": "Haa……nggak!! Gini, aku bakal ketutup……!\nCesario bakal……ngejar aku……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "The 『Oka Sho』 is so soon…… \nWhat should I do……? Like this, I'll……!",
+            "text": "『Oka Sho』 cepet banget……\nHarus gimana……? Kalo gini, aku bakal……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "At that time. Rhein Kraft looked so desperate that I――",
+            "text": "Saat itu, Rhein Kraft kelihatan putus asa banget sampai aku――",
             "choice_data_list": [
-                "<size=43>……Kraft, believe in your own strength</size>",
-                "<size=43>……Kraft, believe in your own strength</size>"
+                "<size=43>……Kraft, percaya sama kekuatanmu sendiri</size>"
             ]
         },
         {
-            "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
+            "text": "Ambil lead yang mantap pake kekuatanmu, terus break away, itu kekuatan terbesarmu.\nBahkan di 『Oka Sho』 kamu harus sadar buat pake kemampuan terbaikmu.",
             "name": "<username>"
         },
         {
-            "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer-san……but, that's……!",
+            "text": "Trainer-san……tapi, itu……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
+            "text": "Percaya sama skill yang udah kamu asah sampai sekarang, Kraft.\nJuga…… Kamu bisa coba akselerasi sedikit lebih awal dari lomba sebelumnya.",
             "name": "<username>",
             "choice_data_list": [
-                "Most likely with these members――"
+                "Kemungkinan besar dengan anggota ini――"
             ]
         },
         {
-            "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Most likely with these members――"
-            ]
-        },
-        {
-            "text": "These members……? Um, what do you mean?",
+            "text": "Anggota ini……? Eh, maksudnya apa?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
+            "text": "……Nggak, mungkin itu nggak perlu. Jangan dipikirin.\nYang penting, coba dorong lebih awal dari biasanya.",
             "name": "<username>"
         },
         {
-            "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
-            "name": "<username>"
-        },
-        {
-            "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
+            "text": "Kamu kuat di maintain pace……keunggulan 『Maintain Pace』.\nKalo ngambil lead awal, pasti bisa bertahan sampai akhir.",
             "name": "<username>",
             "choice_data_list": [
-                "You'll be fine. I believe in you",
-                "You'll be fine. I believe in you"
+                "Kamu bakal oke. Aku percaya kamu",
+                "Kamu bakal oke. Aku percaya kamu"
             ]
         },
         {
-            "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
-            "name": "<username>",
-            "choice_data_list": [
-                "You'll be fine. I believe in you",
-                "You'll be fine. I believe in you"
-            ]
-        },
-        {
-            "text": "My strength…… \n……Okay. I understand! Thank you very much!!",
+            "text": "Kekuatan aku……\n……Oke. Aku ngerti! Makasih banyak!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "………………………………",
+            "text": "(Buat Oka Sho……dengan anggota ini, kemungkinan semua bakal rebut posisi tinggi.\nNggak bagus kalo kepet di tengah-tengah terlalu lama.)",
             "name": "<username>"
         },
         {
-            "text": "(For the Oka Sho……based on the members, there's a high \nprobability of everyone jostling for position. It wasn't \na good idea to be stuck in the crowd for too long.)",
+            "text": "(Jadi……lebih untung kalo Kraft ngambil lead lebih awal. ……itu bener.)",
             "name": "<username>"
         },
         {
-            "text": "(So……it would be more advantageous for Kraft \nto pull ahead earlier. ……that much was true.)",
-            "name": "<username>"
-        },
-        {
-            "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
+            "text": "(Tapi, apa aku harus bilang ke Cesario supaya hati-hati biar nggak terjebak di belakang?)",
             "name": "<username>",
             "choice_data_list": [
-                "(……But then, for Cesario――)"
+                "(……Tapi, buat Cesario――)"
             ]
         },
         {
-            "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
+            "text": "(Mungkin nggak perlu. Masalahnya tergantung perkembangan lomba.\nKarena dia kuat banget, lebih baik fokus ke larinya sendiri)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Jangan terganggu sama sekitar, fokus sama form dan lari sendiri aja.\nItu yang terbaik buat Cesario――)",
             "name": "<username>",
             "choice_data_list": [
-                "(……But then, for Cesario――)"
+                "(……tapi itu bener nggak ya?)",
+                "(……tapi itu bener nggak ya?)"
             ]
         },
         {
-            "text": "(It might be unnecessary. Whether or not it would be a problem \ndepends on how the race develops. Since she has overwhelming \nstrength, it might be better to focus on her own running)",
+            "text": "Aku mungkin……kayak pengen Kraft menang lebih……",
             "name": "<username>"
         },
         {
-            "text": "(Don't get distracted by your surroundings, \nconcentrate on maintaining form and focus only \non your own running. That would be best for Cesario――)",
+            "text": "(Dengan 1600m, Kraft mungkin ada peluang. Tapi lomba berikutnya, Oaks……\ndi 2400m, jujur bakal susah……)",
             "name": "<username>",
             "choice_data_list": [
-                "(……no, but is that true?)",
-                "(……no, but is that true?)"
-            ]
-        },
-        {
-            "text": "I might……be acting like I want Kraft to win more……",
-            "name": "<username>"
-        },
-        {
-            "text": "I might……be acting like I want Kraft to win more……",
-            "name": "<username>"
-        },
-        {
-            "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks……\nat 2400m, honestly, it would probably be difficult……)",
-            "name": "<username>",
-            "choice_data_list": [
-                "No, I can't! As a trainer――"
+                "Nggak, aku nggak bisa! Sebagai pelatih――"
             ]
         },
         {
@@ -232,50 +191,46 @@
             ]
         },
         {
-            "text": "That scared me……a LANE from Rhein Kraft? \nNot in the Team <Ascella> group chat, but a DM……?",
+            "text": "Kaget aku……ada LANE dari Rhein Kraft?\nNggak di grup Team <Ascella>, tapi DM……?",
             "name": "<username>"
         },
         {
-            "text": "『Trainer-san, good evening! I'm sorry for the sudden \ncontact, but I want to ask you for a favor』",
+            "text": "『Trainer-san, selamat malam! Maaf tiba-tiba hubungi, tapi aku mau minta tolong』",
             "name": "Rhein Kraft"
         },
         {
-            "text": "『Saturday, tomorrow at 11AM, can you come with \nme to the riverbed for independent training?』",
+            "text": "『Sabtu besok jam 11AM, bisa ikut aku latihan mandiri di sungai?』",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
+            "text": "Iya, 『Oka Sho』 kan sebentar lagi.\nJadi wajar kalo dia pengen serius……Oke, buat sekarang aku bales aja iya……eh, tunggu?",
             "name": "<username>"
         },
         {
-            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
-            "name": "<username>"
-        },
-        {
-            "text": "『Trainer, I'd like some advice regarding extra training. \nSaturday, at 11AM, can you accompany me to the riverbed?』",
+            "text": "『Trainer, aku pengen saran buat latihan tambahan.\nSabtu jam 11, bisa nemenin aku ke sungai?』",
             "name": "Cesario",
             "choice_data_list": [
-                "…………Cesario too!?"
+                "…………Cesario juga!?"
             ]
         },
         {
-            "text": "『I want to run more this weekend, no matter what!』",
+            "text": "『Aku pengen lari lebih banyak weekend ini, pokoknya!』",
             "name": "Rhein Kraft"
         },
         {
-            "text": "『I cannot afford to lose the Oka Sho』",
+            "text": "『Aku nggak mau kalah di Oka Sho』",
             "name": "Cesario"
         },
         {
-            "text": "Trainer-san! Let's do some individual training!",
+            "text": "Trainer-san! Ayo latihan individu!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Trainer, let's do some individual training.",
+            "text": "Trainer, ayo latihan individu.",
             "name": "Cesario"
         },
         {
-            "text": "Please!",
+            "text": "Tolong!",
             "name": "Kraft&Cesario",
             "choice_data_list": [
                 "Uuuuuuuu……!!"
@@ -289,72 +244,72 @@
             ]
         },
         {
-            "text": "……wait, huh!? \nThat voice……came from outside!?",
+            "text": "……tunggu, huh!? \nSuara itu……dari luar!?",
             "name": "<username>"
         },
         {
-            "text": "Sorry for coming in uninvited. \n……Trainer, you look pale? Are you okay?",
+            "text": "Maaf datang nggak diundang.\n……Trainer, kelihatan pucat? Kalian oke?",
             "name": "Cesario",
             "choice_data_list": [
-                "Y-yeah~, no, ummmmm……"
+                "Y-iya~, nggak, ummmmm……"
             ]
         },
         {
-            "text": "Fuu……Fufufuu, Ahahahaha! \nIt's fine now right, Cesario……!? One-two!",
+            "text": "Fuu……Fufufuu, Ahahahaha!\nSekarang udah oke kan, Cesario……!? Satu-dua!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Prank successful~!",
+            "text": "Prank berhasil~!",
             "name": "Kraft&Cesario",
             "choice_data_list": [
                 "………………eh?"
             ]
         },
         {
-            "text": "Seems like we caused you quite a bit of trouble, huh? \nSorry, Trainer. The earlier LANE messages were a \njoke that Kraft and I thought up.",
+            "text": "Kayaknya kita bikin repot ya?\nMaaf, Trainer. LANE tadi cuma lelucon yang kita bikin Kraft dan aku.",
             "name": "Cesario"
         },
         {
-            "text": "Lately, Trainer-san, it looks like you've always \nbeen deep in thought……earlier today when I was training, \nit almost seemed like your eyes were spinning.",
+            "text": "Akhir-akhir ini, Trainer-san, keliatan kayak selalu mikir dalam……\npas latihan tadi, mata kayak muter-muter.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "But, that's why, even if it was a bit forceful, we wanted to \ntell you. ……Trainer-san, we both understand your feelings.",
+            "text": "Makanya, walaupun agak paksa, kita pengen bilang.\n……Trainer-san, kita ngerti perasaanmu.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "You've put a lot of thought and heart in to it, haven't you? \nYou've been trying to keep the training even between Kraft and me.",
+            "text": "Kamu udah mikir dan masukin hati banget kan?\nUdah usaha bikin latihan seimbang antara Kraft dan aku.",
             "name": "Cesario"
         },
         {
-            "text": "Isn't that something unbelievable!? To ensure that either \none of us wins, and since we're both on the same team, to \nbe able to give both of us equal guidance on how to win.",
+            "text": "Gila nggak tuh!? Supaya salah satu menang, dan karena kita di tim yang sama,\nbisa kasih panduan menang sama rata.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "It must have been hard to bear…… \nThank you very much.",
+            "text": "Pasti berat banget…… Makasih banyak.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Trainer. For now, can you just believe in us……? \nUntil the 『Oka Sho』 can you leave the training to us?",
+            "text": "Trainer. Buat sekarang, percaya aja sama kita……?\nSampai 『Oka Sho』, boleh nggak latihan kita serahin ke kita?",
             "name": "Cesario"
         },
         {
-            "text": "Of course, if we're really troubled we'll ask \nfor help though! However, how should I say it…… \nfor now, we just want you to watch over us.",
+            "text": "Tentu, kalo kita bener-bener kesusahan bakal minta tolong kok!\nTapi, gimana ya…… sekarang, kita cuma pengen kamu ngawasin kita.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "We'll train with all our strength, and we'll win. \nAt the 『Oka Sho』――for sure!",
+            "text": "Kita bakal latihan sekuat tenaga, dan kita bakal menang.\nDi 『Oka Sho』――pasti!",
             "name": "Rhein Kraft",
             "choice_data_list": [
                 "Kraft, Cesario……"
             ]
         },
         {
-            "text": "――Ahh, damnit!!",
+            "text": "――Ahh, sial!!",
             "name": "<username>"
         },
         {
-            "text": "――Ahh, geez!",
+            "text": "――Ahh, duh!",
             "name": "<username>"
         },
         {
@@ -362,35 +317,27 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Oh……! Your cheeks are turning bright red! \nWe should get some ice!",
+            "text": "Oh……! Pipi kamu jadi merah!\nKita harus kasih es!",
             "name": "Cesario"
         },
         {
-            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
+            "text": "Gpp! Maaf. Aku payah, nggak bisa sembunyiin, sampe kalian harus ngelakuin itu……",
             "name": "<username>"
         },
         {
-            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
+            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian ngerjain semuanya……boleh aku bantu?",
             "name": "<username>"
         },
         {
-            "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
-            "name": "<username>"
-        },
-        {
-            "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer-san……! Fufuu. \n……As I thought, you really are someone that won't give up!",
+            "text": "Trainer-san……! Fufuu.\n……Ternyata, kamu emang orang yang nggak gampang nyerah!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Yes, please do. ……I look forward to working with you, Trainer.",
+            "text": "Iya, tolong bantu.\n……Senang bisa kerja sama, Trainer.",
             "name": "Cesario"
         },
         {
-            "text": "They both gave me a clear response. \nI was greatly encouraged by their growth……"
+            "text": "Keduanya kasih respon jelas.\nAku termotivasi banget liat perkembangan mereka……"
         }
     ]
 }

@@ -1,247 +1,219 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "With this, you are now responsible for Suzuka.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "Understood. So I don't betray Suzuka's expectations, \nI'll give her my full support.",
-            "name": "<username>"
-        },
-        {
-            "text": "I apologize for saying such a selfish thing. \nFor taking care of me until now, I'm very grateful.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I wanted to chase your dream with you, but now that it's \ncome to this, it can't be helped. It's unfortunate… but it's \nwhat you've chosen yourself, Suzuka. You have my respect.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "With such strong feelings, Suzuka, you'll definitely be \nfine! Make sure you grab hold of your dream in ＜Sirius＞!",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "Understood…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Um… Please treat me well.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Uoooooo~! Welcome to the team!! Spe-chan, you've been constantly \nworried about Suzuka, aren't you glad too?",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Ehehe… well, that's true but, \nwhen you say it like that it's kind of embarassing…",
-            "name": "Special Week"
-        },
-        {
-            "text": "Alright, I know it's kind of sudden, but let's \nstart with race observation practice.",
-            "name": "<username>"
-        },
-        {
-            "text": "I say that, but it's fine if you don't think too hard about it. \nJust like you did before, just run as you desire.",
-            "name": "<username>"
-        },
-        {
-            "text": "I say that, but it's fine if you don't think too hard about it. \nJust like you did before, just run as you desire.",
-            "name": "<username>"
-        },
-        {
-            "text": "As I desire… understood.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…Fuuu!!!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Fuwaah…!? What amazing speed!?",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "And doesn't she keep accelerating?! \nStraight for the goal like this?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "And with that incredible speed, she stole the show."
-        },
-        {
-            "text": "Hahahaa… If she makes it to the goal like this, \nthings will become hectic…",
-            "name": "<username>"
-        },
-        {
-            "text": "Hahahaa… If she makes it to the goal like this, \nthings will become hectic…",
-            "name": "<username>"
-        },
-        {
-            "text": "Haa… haa… haa… haa…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Haa… haa… Hn…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Haaa… haaa… Fuuu~…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Running and running like that, are you okay?",
-            "name": "<username>"
-        },
-        {
-            "text": "Running and running like that, are you okay?",
-            "name": "<username>"
-        },
-        {
-            "text": "…I-I'm… fine. My pacing is an absolute mess… \nand my time is horrible… but…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "It felt… very good… and was fun…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Even though she was breathing heavily, Silence Suzuka had a \nsatisfied look on her face. How much fun she had was obvious."
-        },
-        {
-            "text": "Even just watching was fun. Just thinking about what would happen \nif you ran all the way to the goal like that.",
-            "name": "<username>"
-        },
-        {
-            "text": "Just like this, let's figure out a running style for Suzuka, \ntogether! Alright, how about running one more?!",
-            "name": "<username>"
-        },
-        {
-            "text": "…Yes!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I was watching today's training. I don't recall any of the books \nin the library containing THAT kind of running.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "It was terrible, wasn't it? \nNot even thinking about my pace, just running any way I wanted.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Geez… even though you're aware of just how bad it was, \nyou're still saying it as if you're having fun.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "No way, I wasn't really having fun talking about it… Fufuu.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Running while ignoring common sense- even like \nthat, for some reason, it feels like the \"scenery\" \nI want to see is becoming clearer.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…even I don't know what to say. Compared to \nyour previous running style, I feel more of a \nsense of wonder from this absurd new one.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Of course, that doesn't mean I intend to lose to you.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "I'm looking forward to racing against you, Air Groove.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Run! Run! Silence Suzuka! She's making her great escape! \nPulling away from the pack as they enter the final straight!",
-            "name": "Commentator"
-        },
-        {
-            "text": "200m left! Whoa! \"Last Year's Champion\" and \"Empress \nAir Groove\" has caught Silence Suzuka!",
-            "name": "Commentator"
-        },
-        {
-            "text": "This race has become a showdown between these two! \nA fierce battle! Inside?! Outside?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Just slightly from the outside, Air Groove crosses the goal \nfirst! Air Groove, magnificiently conquers this G1 stage!",
-            "name": "Commentator"
-        },
-        {
-            "text": "On your first race as a member of team ＜Sirius＞, good work.",
-            "name": "<username>"
-        },
-        {
-            "text": "If possible, I would have liked to stay in front \nuntil the end but, the result was 6th place.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Yeah but you still looked like you were enjoying yourself out \nthere. Even now, [I had fun] is written all over your face.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah but you still looked like you were enjoying yourself out \nthere. Even now, [I had fun] is written all over your face.",
-            "name": "<username>"
-        },
-        {
-            "text": "Fufuu…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Even though it should be more difficult to win like this, \nthe \"scenery\" that spreads before my eyes is very beautiful…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "You'll definitely be able to see even more beautiful \"scenery\" \nfrom now on. Since your feelings are overflowing to this extent.",
-            "name": "<username>"
-        },
-        {
-            "text": "And I'm really excited too. That I get to continue watching over \nyou as you reach out to take hold of that \"scenery\".",
-            "name": "<username>"
-        },
-        {
-            "text": "And I'm really excited too. That I get to continue watching over \nyou as you reach out to take hold of that \"scenery\".",
-            "name": "<username>"
-        },
-        {
-            "text": "As I reach out and take hold of that \"scenery\"…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "So that's the \"scenery\" that Trainer-san wants so see, right?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Yeah, I can hardly picture it clearly right now though-",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, I can hardly picture it clearly right now though-",
-            "name": "<username>"
-        },
-        {
-            "text": "I get the feeling… it'll be an amazing \"scenery\".",
-            "name": "<username>"
-        },
-        {
-            "text": "To that end, I'll also support Suzuka to the fullest.",
-            "name": "<username>"
-        },
-        {
-            "text": "To that end, I'll also support Suzuka to the fullest.",
-            "name": "<username>"
-        },
-        {
-            "text": "Fufuu… understood.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Definitely, I'll show Trainer-san the \"scenery\" you want to see.",
-            "name": "Silence Suzuka"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mulai sekarang, kamu yang tanggung jawab urus Suzuka.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Siap. Biar aku nggak ngecewain harapan Suzuka, \naku bakal dukung dia sepenuhnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Maaf udah ngomong hal egois gitu. \nTerima kasih banget udah ngerawat aku sampai sekarang.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku pengen ngejar mimpi bareng kamu, tapi sekarang udah gini, ya nggak apa-apa. Sayang memang… tapi ini pilihanmu sendiri, Suzuka. Aku hormat sama kamu.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Dengan semangat sekuat itu, Suzuka, pasti kamu bakal oke! \nGenggam mimpimu di ＜Sirius＞!",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Siap…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Um… Mohon bimbingannya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Uoooooo~! Selamat datang di tim!! Spe-chan, kamu kan sering khawatir soal Suzuka, seneng kan sekarang?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Ehehe… ya, bener sih, tapi kalo dibilang gitu jadi malu juga…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oke, aku tau ini agak mendadak, tapi kita mulai latihan observasi lomba dulu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi tenang aja, nggak usah terlalu dipikirin. \nKayak sebelumnya aja, lari sesuai keinginanmu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Sesuka hatiku… siap.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Fuuu!!!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Fuwaah…!? Cepet banget sih!?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Dan dia makin ngebut terus?! \nLangsung ke garis finish gitu?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Dengan kecepatan luar biasa itu, dia bener-bener curi perhatian."
+    },
+    {
+      "text": "Hahahaa… kalo sampe finish gini, bakal ribet deh…",
+      "name": "<username>"
+    },
+    {
+      "text": "Haa… haa… haa… haa…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Haa… haa… Hn…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Haaa… haaa… Fuuu~…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lari terus gitu, kamu oke nggak?",
+      "name": "<username>"
+    },
+    {
+      "text": "…A-aku… baik. Pacing-ku berantakan… \ndan waktuku parah… tapi…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Rasanya… enak banget… dan seru…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Walau napasnya ngos-ngosan, Silence Suzuka keliatan puas banget. Serunya keliatan jelas."
+    },
+    {
+      "text": "Nonton aja seru. Bayangin kalo kamu lari sampe finish gitu, bakal gimana ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Yuk, bareng-bareng kita cari gaya lari buat Suzuka! \nGimana kalo satu putaran lagi?!",
+      "name": "<username>"
+    },
+    {
+      "text": "…Siap!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku liat latihan hari ini. Aku nggak inget ada buku di perpustakaan \nyang ngasih tau lari kayak gitu.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Parah banget ya? \nNggak mikirin pacing sama sekali, lari seenaknya sendiri.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Duh… padahal kamu tau parahnya, tapi masih bilang seru aja.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Nggak juga, aku sebenernya nggak seru-seru banget ngomongin itu… Fufuu.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lari sambil abaikan logika—tapi entah kenapa, \npemandangan yang pengen aku liat makin keliatan jelas.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…aku juga nggak tau harus ngomong apa. Dibanding gaya lari sebelumnya, \naku ngerasa ada rasa kagum dari gaya baru yang absurd ini.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Tapi bukan berarti aku niat kalah sama kamu.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Aku nggak sabar buat balapan sama kamu, Air Groove.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lari! Lari! Silence Suzuka! Dia kabur! \nMenjauh dari pack di lintasan terakhir!",
+      "name": "Komentator"
+    },
+    {
+      "text": "200m lagi! Whoa! \"Juara Tahun Lalu\" sama \"Ratu Air Groove\" udah nyusul Silence Suzuka!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Balapan ini jadi pertarungan antara mereka berdua! \nSeru banget! Dari dalam?! Dari luar?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Sedikit dari luar, Air Groove nyebrang garis finish duluan! \nAir Groove, menang gemilang di panggung G1 ini!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Di balapan pertama sebagai anggota tim ＜Sirius＞, kerja bagus.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalo bisa, aku pengen tetap di depan sampe akhir, tapi hasilnya 6th.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi kamu keliatan seneng-seneng aja di lintasan. Sampai sekarang, ekspresi [aku seneng] keliatan di wajahmu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fufuu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Meskipun menangnya susah, pemandangan yang keliatan di depan mata indah banget…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kamu pasti bakal liat pemandangan lebih indah lagi. Soalnya perasaanmu sampe segini besar.",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku juga seneng banget. Bisa terus nemenin kamu ngejar pemandangan itu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Pas aku nyampein tangan buat genggam pemandangan itu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Jadi itu yang pengen dilihat Trainer-san, ya?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Iya, tapi aku belum bisa bayangin jelas sih-",
+      "name": "<username>"
+    },
+    {
+      "text": "Aku rasa… bakal jadi pemandangan yang luar biasa.",
+      "name": "<username>"
+    },
+    {
+      "text": "Untuk itu, aku juga bakal dukung Suzuka sepenuhnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fufuu… ngerti.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Pasti, aku bakal nunjukin Trainer-san pemandangan yang pengen dilihat.",
+      "name": "Silence Suzuka"
+    }
+  ]
 }

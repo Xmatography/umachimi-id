@@ -1,221 +1,221 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Ah, Spe-chan's race should be wrapping up right about now!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Are you fine not checking the results…?",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "……Yeah, it's fine.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Besides, I already know without seeing it.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ehehe…… you really believe in Spe-chan, \ndon't you?! And Trainer-san too!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "I heard about it from Trainer-san, \nthat you were fine without them seeing you off.",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Yeah, I wanted them to watch Spe-chan's race. \nBecause I want her to take hold of that dream, without fail.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "We're also expecting big things from Suzuka's efforts!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "We're all cheering for you……!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Yeah, I look forward to that \"scenery\" \nthat I've never seen before.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Special Week, in a fierce battle to the finish, outlasts the \nSenior grade's most preeminent stayer, Mejiro Bright!",
-            "name": "Commentator"
-        },
-        {
-            "text": "This is the strength of the Derby Uma Musume! \nAt last, the next grand battle will be at the [Spring Tenno Sho]!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Mejiro Bright was doing great as usual but, the title of \"Golden \nGeneration's\" Derby Uma Musume isn't for show!",
-            "name": "Spectator A"
-        },
-        {
-            "text": "I've got really high hopes for Special Week's \nrun during the [Spring Tenno Sho]!",
-            "name": "Spectator B"
-        },
-        {
-            "text": "……Bright.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Haa…… haa…… fuu～……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Intentionally lifting your legs higher, seems \nto be good stimulation for the quads…… Yeah, we \nshould add this to Bright's training too.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Ryan-oneesama……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Oh, Bright……? Seeing you during self-training is pretty unusual.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "I happened to spot Ryan-oneesama \nheading out, so I decided to follow.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "……If it's alright, I thought I'd like to watch your training.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright…… Yeah, how about running together?",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Haaa……! Haa…… haa……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Haa……… haaa……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Alright…… just like this, let's do one more!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Haa…… haa……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright……! If you don't work \nharder now, you'll come to regret―",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "…… haa…… haaa……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Ah…… I-I'm sorry…… I just……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "……have you caught your breath now?",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Yes…… I apologize……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Ah, don't apologize……! I was the one in the wrong……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "…… Really…… I'm sorry. I was just \nfrustrated, because Bright lost……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Bright, I've been watching over you since you were small so, \nwhile I do treat you as special, there's more to it than that……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "I feel like… I've been pushing my feelings on to you……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "………",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright seems like she's really similar to me.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Having closing power to be proud of, having high expectations \nfrom people around you, but often one step short……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "While watching Ines and Oguri-san, \nand then McQueen, making my goal to be like them.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "That's why, when I see Bright, I get as frustrated \nas if I'm seeing myself, not wanting you to \ngo through the same things I did……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Ryan-oneesama……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Ah, Ahaha…… what the heck am I \neven saying? Bright is Bright after all.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "If it's like this, it's more like I'm \njust pushing my pride and dreams on to you……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "……If what you say is true, then I feel nothing but joy instead.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Eh……?",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "If it seems like my running is that similar to yours then, that \nis just proof of how genuine your feelings and expectations are.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "For someone like Ryan-oneesama who has supported \nme whole-heartedly, I've always wanted those \nfeelings to be rewarded.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "As part of the Mejiro Family, while aiming for \nconsecutive [Spring Tenno Sho] victories, more \nthan that I want to win for Ryan-oneesama……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "If you say that Ryan-oneesama is pushing \nthat dream on to me then, I will gladly carry that with me.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright……",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Well then, I can start running again now～. \nWithout going easy on me, please continue the strict training.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Together we'll accomplish consecutive \nvictories at the [Spring Tenno Sho].",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "……Yeah, got it.",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "I'll support you with everything I've got. \nI'll make sure you win……!",
-            "name": "Mejiro Ryan"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Ah, balapan Spe-chan harusnya udah kelar nih sekarang!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Kamu beneran nggak mau lihat hasilnya…?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "……Iya, nggak apa-apa.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lagipula, tanpa lihat pun aku udah tahu kok.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ehehe…… kamu bener-bener percaya sama Spe-chan ya?! \nTrainer-san juga!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Aku denger dari Trainer-san, kamu nggak masalah \nwalau nggak diantar pas berangkat.",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Iya, soalnya aku pengen mereka fokus nonton balapannya Spe-chan.  \nKarena aku bener-bener pengen dia bisa raih mimpinya, tanpa gagal.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kita juga ngarep banyak banget dari usaha Suzuka!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Kita semua dukung kamu……!",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Iya, aku juga nggak sabar lihat \"pemandangan\" \nyang belum pernah aku lihat sebelumnya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Special Week! Dalam pertarungan super ketat sampai garis akhir, \ndia berhasil ngalahin jago senior stayer paling top, Mejiro Bright!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Inilah kekuatan Uma Musume juara Derby! \nPertarungan gede berikutnya akhirnya ada di [Tenno Sho Musim Semi]!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Mejiro Bright lari bagus kayak biasanya, \ntapi gelar Derby Uma Musume dari \"Generasi Emas\" emang bukan kaleng-kaleng!",
+      "name": "Penonton A"
+    },
+    {
+      "text": "Aku jadi makin tinggi ekspektasi sama larinya Special Week \ndi [Tenno Sho Musim Semi] nanti!",
+      "name": "Penonton B"
+    },
+    {
+      "text": "……Bright.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Haa…… haa…… fuu～……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Angkat kaki agak tinggi gini, kayaknya bagus juga \nbuat ngasih rangsangan ke otot paha depan……  \nIya, ini harus kita masukin juga ke latihannya Bright.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Ryan-oneesama……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Oh, Bright……? Jarang banget loh aku lihat kamu \npas lagi latihan sendiri.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Tadi aku kebetulan lihat Ryan-oneesama keluar, \njadi aku mutusin buat ngikut.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "……Kalau nggak apa-apa, aku pengen nontonin latihanmu.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bright…… iya deh, gimana kalau kita lari bareng aja?",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Haaa……! Haa…… haa……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Haa……… haaa……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Oke…… kayak gini, ayo satu putaran lagi!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Haa…… haa……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bright……! Kalau kamu nggak lebih serius sekarang, \nnanti kamu bakal nyesel―",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "…… haa…… haaa……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Ah…… m-maaf…… aku cuma……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "……Udah balik napas sekarang?",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Iya…… maaf ya……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Ah, jangan minta maaf……! Aku yang kebablasan barusan……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "……Beneran…… maaf. Aku tadi kesal aja, gara-gara Bright kalah……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Bright, aku udah ngeliatin kamu dari kecil. Jadi walau aku nganggep kamu spesial, \nsebenernya bukan cuma itu……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Kayaknya… aku malah maksa perasaanku ke kamu……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "………",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Soalnya Bright tuh mirip banget sama aku.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Punya kemampuan ngebut di akhir yang patut dibanggain, \ndapet ekspektasi tinggi dari orang-orang,  \ntapi sering banget mentok cuma satu langkah kurang……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Waktu lihat Ines sama Oguri-san, terus McQueen juga, \naku jadi pengen kayak mereka.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Makanya, tiap aku lihat Bright, aku jadi ikutan kesal. \nKayak lihat diriku sendiri, dan aku nggak pengen kamu ngalamin hal yang sama kayak aku……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Ryan-oneesama……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Ah, ahaha…… aku barusan ngomong apa sih? Bright ya tetap Bright.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Kalau kayak gini, malah aku kayak maksa kamu nurutin pride \ndan mimpiku aja……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "……Kalau emang bener kayak gitu, aku malah seneng banget kok.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Eh……?",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Kalau lari aku keliatan mirip sama kamu, itu justru bukti \nkalau perasaan dan ekspektasi Ryan-oneesama tulus banget.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Buat seseorang kayak Ryan-oneesama yang udah dukung aku sepenuh hati,  \naku selalu pengen semua perasaan itu terbayar.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Sebagai bagian dari keluarga Mejiro, sambil ngincar kemenangan beruntun \ndi [Tenno Sho Musim Semi], lebih dari itu aku pengen menang buat Ryan-oneesama……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Kalau Ryan-oneesama bilang lagi nitipin mimpi itu ke aku, \naku bakal seneng banget nerima dan bawa mimpi itu.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bright……",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Kalau gitu, aku bisa lanjut lari lagi nih～. \nJangan ragu ya, terus kasih aku latihan keras.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bareng-bareng kita raih kemenangan beruntun di [Tenno Sho Musim Semi].",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "……Iya, sip.",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Aku bakal dukung kamu sepenuh tenaga. \nAku pastiin kamu menang……!",
+      "name": "Mejiro Ryan"
+    }
+  ]
 }

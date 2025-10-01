@@ -2,22 +2,22 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "For the New Year's first race, Special Week \nwas entering the GII [America JCC]."
+            "text": "Di balapan pertama tahun baru, Special Week ikut di GII [America JCC]."
         },
         {
-            "text": "Here she comes! As expected, here comes the \nDerby Uma Musume, Special Week!",
-            "name": "Commentator"
+            "text": "Ini dia! Seperti yang ditunggu, datang si juara Derby Uma Musume, Special Week!",
+            "name": "Komentator"
         },
         {
-            "text": "2 lengths, pulling away to 3 lengths, she crosses the goal! \nThe Derby Uma Musume, Special Week, with a magnificent victory!",
-            "name": "Commentator"
+            "text": "Meninggalkan 2, sekarang 3 panjang kuda! Dia nyampe finish!! \nJuara Derby Uma Musume, Special Week, dengan kemenangan keren banget!",
+            "name": "Komentator"
         },
         {
-            "text": "Hell yeah! You did it, Spe!! \nThanks for the excitement!",
+            "text": "Mantap jiwa!! Keren banget, Spe!! Makasih udah bikin deg-degan!",
             "name": "Gold Ship"
         },
         {
-            "text": "This is the best first step towards \nthe [Spring Tenno Sho] you can make!",
+            "text": "Ini langkah awal paling bagus banget buat menuju [Spring Tenno Sho]!",
             "name": "Mejiro McQueen"
         },
         {
@@ -25,167 +25,167 @@
             "name": "Silence Suzuka"
         },
         {
-            "text": "Spe-chan, congratulations on your victory♪",
+            "text": "Spe-chan, selamat ya atas kemenangannya♪",
             "name": "Grass Wonder"
         },
         {
-            "text": "Yeah, yeah! Once again, \njust watching that race got my blood pumping!",
+            "text": "Iya, iya! Nonton balapan tadi aja bikin darahku mendidih lagi!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Ehehe, Thanks Grass-chan and Tsuru-chan!",
+            "text": "Ehehe, makasih Grass-chan, Tsuru-chan!",
             "name": "Special Week"
         },
         {
-            "text": "Out of all of us, you were the \nfirst one to get their first Senior class win!",
+            "text": "Dari kita semua, kamu yang pertama dapet kemenangan kelas Senior!",
             "name": "El Condor Pasa"
         },
         {
-            "text": "Really though, Tsuru-chan should have \nbeen the one to run before me.",
+            "text": "Sebenernya sih, harusnya Tsuru-chan yang duluan turun sebelum aku.",
             "name": "Special Week"
         },
         {
-            "text": "Gununu… That's right, but―",
+            "text": "Gununu… iya sih, tapi―",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Last year, because I wasn't feeling well, I only got to run in 3 \nraces, but this year it'll be different for me!",
+            "text": "Tahun lalu gara-gara badan nggak fit aku cuma bisa ikut 3 balapan. \nTapi tahun ini bakal beda!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "After the New Year, I'll be the first one that gets \nto run their heart out, this year for sure I'll \nget to run with Spe-chan and everyone else!",
+            "text": "Abis tahun baru ini, aku yang paling duluan bakal lari habis-habisan. \nTahun ini pasti bisa bareng Spe-chan sama yang lain!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Yeah! We'll definitely run together!",
+            "text": "Iya! Kita pasti lari bareng!",
             "name": "Special Week"
         },
         {
-            "text": "Tsurumaru Tsuyoshi-san has injured her leg. \nFor the time being, she'll be taking a break.",
-            "name": "Teacher"
+            "text": "Tsurumaru Tsuyoshi kakinya cedera. Untuk sementara dia harus istirahat.",
+            "name": "Guru"
         },
         {
             "text": "Ueeeeeeeh～?!",
             "name": "Special Week"
         },
         {
-            "text": "After my debut race my physical condition got worse, \nand I was able to recover by the fall, but I kinda \nguessed this would happen though～…",
+            "text": "Abis debut, kondisi badanku emang drop. Pas musim gugur baru pulih, \ntapi aku udah agak curiga ini bakal kejadian sih～…",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "But, but, but! Once this leg heals, I'll catch up \nto you in no time, so just you wait!",
+            "text": "Tapi, tapi, tapi! Begitu kaki ini sembuh, aku bakal nyusul cepet banget! Tunggu aja!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Tsuru-chan hasn't been able to participate in many races due to \ninjuries but, her runs are quite amazing. I definitely would \nlike to try running together.",
+            "text": "Tsuru-chan jarang banget ikut balapan karena cedera, \ntapi pas lari itu luar biasa banget. Aku beneran pengen lari bareng dia.",
             "name": "Grass Wonder"
         },
         {
-            "text": "Yeah, someday with me, Grass-chan, and El-chan too, all together!",
+            "text": "Iya, suatu hari nanti bareng aku, Grass-chan, sama El-chan juga!",
             "name": "Special Week"
         },
         {
-            "text": "Oh? In that case, should we all go to France together?",
+            "text": "Oh? Kalau gitu, gimana kalau sekalian kita semua ke Prancis?",
             "name": "El Condor Pasa"
         },
         {
-            "text": "France…?",
+            "text": "Prancis…?",
             "name": "Special Week"
         },
         {
-            "text": "Starting in Spring, El will be in France for an \nextended campaign. With her results from the [Japan \nCup], next she wants to go overseas.",
+            "text": "Mulai musim semi nanti, El bakal kampanye panjang di Prancis. \nDengan hasil dari [Japan Cup], tujuan berikutnya ya keluar negeri.",
             "name": "Grass Wonder"
         },
         {
-            "text": "Eeeeh?! I didn't know that! \nEl-chan, you're going to France?!",
+            "text": "Eeeeh?! Aku nggak tau! El-chan, kamu mau ke Prancis?!",
             "name": "Special Week"
         },
         {
-            "text": "Bueno! I'll show you I can even shock the whole world!",
+            "text": "Bueno! Aku bakal bikin dunia juga kaget liat aku!",
             "name": "El Condor Pasa"
         },
         {
-            "text": "Is that so… rather than amazing, I can't even imagine that…",
+            "text": "Wah… bukannya keren, aku malah nggak bisa kebayang sama sekali…",
             "name": "Special Week"
         },
         {
-            "text": "…But, I think it'll be a little lonely. El-chan, \ngoing there by yourself, won't you be lonely?",
+            "text": "…Tapi aku rasa bakal agak sepi. El-chan, kamu sendirian ke sana, \nnggak bakal kesepian?",
             "name": "Special Week"
         },
         {
-            "text": "Of course, If I said I wasn't lonely it'd be \na lie, a fiction, and a fairy tale…",
+            "text": "Tentu aja, kalo aku bilang nggak kesepian itu bohong, \nfiksi, sama kayak dongeng…",
             "name": "El Condor Pasa"
         },
         {
-            "text": "… How-ev-er! More than that, \nmy dream is what will pull me forward!",
+            "text": "…Tapi!! Lebih dari itu, mimpiku yang narik aku maju!",
             "name": "El Condor Pasa"
         },
         {
-            "text": "Your dream…",
+            "text": "Mimpimu…",
             "name": "Special Week"
         },
         {
-            "text": "To prove that El is the \"World's Strongest\"! \nThe moment I become the strongest, make sure you don't miss it!",
+            "text": "Buat buktiin kalau El adalah \"yang terkuat di dunia\"! \nPas aku jadi yang terkuat, jangan sampe kelewatan ya!",
             "name": "El Condor Pasa"
         },
         {
-            "text": "Going out in to the world to chase your \ndream! That's awesome, El-chan!",
+            "text": "Pergi keluar negeri ngejar mimpi! Keren banget, El-chan!",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "That really makes me want to work even harder! \nI want to run as soon as possible～!!!! Cough, cough!",
+            "text": "Bikin aku makin semangat! Aku juga pengen cepet lari lagi～!!! *uhuk uhuk!*",
             "name": "Tsurumaru Tsuyoshi"
         },
         {
-            "text": "Please calm down, Tsuru-chan. \nPushing yourself is prohibited, okay?",
+            "text": "Tsuru-chan, tolong tenang dulu. Jangan maksain diri ya?",
             "name": "Grass Wonder"
         },
         {
-            "text": "However, I really understand that feeling. \nWe can't lose to El either, right?",
+            "text": "Tapi aku ngerti banget perasaan itu. Kita juga nggak boleh kalah sama El kan?",
             "name": "Grass Wonder"
         },
         {
-            "text": "M-me too! I'll win the next race \nand then the [Spring Tenno Sho] after that!",
+            "text": "A-aku juga! Aku bakal menang balapan berikutnya, \nhabis itu [Spring Tenno Sho] juga!",
             "name": "Special Week"
         },
         {
-            "text": "To get closer to \"Japan's #1 Uma Musume\"!",
+            "text": "Biar makin deket sama mimpi \"Uma Musume nomor 1 di Jepang\"!",
             "name": "Special Week"
         },
         {
-            "text": "Suzuka-san, thanks for the massage! \nThanks to that, my legs are all squishy now!",
+            "text": "Suzuka-san, makasih banget udah pijetin! Kaki jadi empuk banget sekarang!",
             "name": "Special Week"
         },
         {
-            "text": "Today's training, it seemed like you \nwere working harder than usual.",
+            "text": "Latihan hari ini, keliatan kamu lebih ngotot dari biasanya.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "It's because I heard that El-chan would \nbe challenging herself overseas!",
+            "text": "Soalnya aku denger El-chan bakal tantang balapan di luar negeri!",
             "name": "Special Week"
         },
         {
-            "text": "In an unfamiliar place running alone, it'll definitely be hard, \nbut El-chan is challenging herself for the sake of her dream.",
+            "text": "Di tempat asing, lari sendirian, pasti susah banget. \nTapi El-chan berani demi mimpinya.",
             "name": "Special Week"
         },
         {
-            "text": "Her feelings towards her dream are what pull her forward― \nThat's why, I felt like I needed to work harder too!",
+            "text": "Semangat dia buat ngejar mimpi itu yang bikin dia maju. \nMakanya aku juga ngerasa harus lebih kerja keras!",
             "name": "Special Week"
         },
         {
-            "text": "Your feelings towards your dream pulling you forward… \nwithout a doubt that's the way it is.",
+            "text": "Perasaanmu soal mimpi yang narikmu maju… iya, itu bener banget.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "…Hey, Spe-chan.",
+            "text": "…Hei, Spe-chan.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Yeah, what do you need?",
+            "text": "Hm? Ada apa?",
             "name": "Special Week"
         },
         {
-            "text": "I was thinking that I wanted to challenge \nsome overseas races too.",
+            "text": "Aku kepikiran pengen coba tantang balapan luar negeri juga.",
             "name": "Silence Suzuka"
         },
         {
@@ -193,23 +193,23 @@
             "name": "Special Week"
         },
         {
-            "text": "Ever since joining , I've been \nable to see so many types of \"scenery\".",
+            "text": "Sejak gabung di tim ini, aku bisa liat banyak banget \"pemandangan\" baru.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "While I'm running, a new \"scenery\" expands before me, \nand the feeling of wanting to keep running overflows…",
+            "text": "Pas aku lari, selalu ada pemandangan baru terbuka di depan, \ndan perasaan pengen terus lari makin meluap…",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Faster, further ahead― I want to keep chasing that \"scenery\".",
+            "text": "Lebih cepat, lebih jauh ke depan― aku pengen terus ngejar pemandangan itu.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "I can't seem to keep holding back these feelings, that's why…",
+            "text": "Aku udah nggak bisa nahan perasaan ini lagi, makanya…",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Overseas… Suzuka-san is, going overseas…?",
+            "text": "Luar negeri… Suzuka-san mau keluar negeri…?",
             "name": "Special Week"
         },
         {

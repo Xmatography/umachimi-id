@@ -2,68 +2,64 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "You were all fired up during training again today, Suzuka-san! \nTrainer-san seemed really enthusiastic too!",
+            "text": "Hari ini kamu semangat banget pas latihan lagi, Suzuka-san! \nTrainer-san juga kelihatan antusias banget!",
             "name": "Special Week"
         },
         {
-            "text": "Yeah, I also want to aim higher, \nsince Trainer-san wants to see that too.",
+            "text": "Iya, aku juga pengen lebih tinggi lagi, \nsoalnya Trainer-san pengen liat itu juga.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Also, I'm entering the [Takarazuka Kinen] next.",
+            "text": "Aku juga bakal ikut [Takarazuka Kinen] selanjutnya.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Air Groove-san is participating too, isn't she? Finally, a \nshowdown between rivals~! I'll definitely come cheer for you!",
+            "text": "Air Groove-san juga ikut, kan? Akhirnya, showdown antara rival~! Aku pasti bakal dukung kamu!",
             "name": "Special Week"
         },
         {
-            "text": "…Oh, that's right! Suzuka-san, I'll give you \nanother massage today! We can't have your fatigue \ncarrying over in to tomorrow, after all!",
+            "text": "…Oh, iya! Suzuka-san, aku bakal pijet kamu lagi hari ini! Kita nggak boleh bikin capekmu ngerembet ke besok!",
             "name": "Special Week"
         },
         {
-            "text": "Hyaa~… Suzuka-san, your legs are as stiff as boards! \nI'm gonna have to massage the heck out of them!",
+            "text": "Hyaa~… Suzuka-san, kakimu kaku banget kayak papan! Aku harus pijet habis-habisan nih!",
             "name": "Special Week"
         },
         {
-            "text": "No matter how much I run, it always \nfeels like I can keep on going…",
+            "text": "Sekalipun aku lari seberapa pun, rasanya aku bisa terus jalan…",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Whenever I'm running, I get the feeling that I'm not alone. Like \nthere's a gentle push on my back that keeps guiding me forward.",
+            "text": "Setiap aku lari, rasanya aku nggak sendirian. Kayak ada dorongan lembut di punggungku yang terus membimbingku maju.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Spe-chan, everyone in ＜Sirius＞… and Trainer-san too, \nI wonder if it's because of all of you supporting me.",
+            "text": "Spe-chan, semua anggota ＜Sirius＞… dan Trainer-san juga, \nmungkin karena dukungan kalian semua.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Ehehe…! We'll all keep continuing to support \nSuzuka-san! That's why, Suzuka-san, keep showing \nus lots of your awesome running!",
+            "text": "Ehehe…! Kita semua bakal terus dukung Suzuka-san! Makanya, Suzuka-san, terus tunjukin lari hebatmu ke kita!",
             "name": "Special Week"
         },
         {
-            "text": "Alright! I'll keep massaging until your legs \nare all soft and squishy! I'll show you the \nstrength I've built up from milking cows!",
+            "text": "Oke! Aku bakal pijet kakimu sampai lunak semua! Aku bakal tunjukin kekuatan yang aku dapet dari ngerawat sapi!",
             "name": "Special Week"
         },
         {
-            "text": "C-cows…?",
+            "text": "S-sapi…?",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Silence Suzuka had a stunning victory during [Kinko Sho]. \nEven after that, her condition continued to improve."
+            "text": "Silence Suzuka meraih kemenangan menakjubkan di [Kinko Sho]. \nSetelah itu, kondisinya terus membaik."
         },
         {
-            "text": "For the sake of her next challenge, the [Takarazuka Kinen], \nI was headed to the training course when-"
+            "text": "Demi tantangan selanjutnya, [Takarazuka Kinen], \nsaya menuju lintasan latihan saat-"
         },
         {
-            "text": "(rustle rustle)"
+            "text": "(crinkle crinkle)"
         },
         {
-            "text": "(Eh…? W-what's going on…?! Why's it suddenly so dark…?!)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Eh…? W-what's going on…?! Why's it suddenly so dark…?!)",
+            "text": "(Eh…? A-apa ini…?! Kenapa tiba-tiba gelap…?!)",
             "name": "<username>"
         },
         {
@@ -71,186 +67,164 @@
             "name": "???"
         },
         {
-            "text": "(Ehh, I'm being carried…? My mind can't keep up?!)",
+            "text": "(Ehh, aku dibawa…? Pikiran nggak bisa ngekejar?!)",
             "name": "<username>"
         },
         {
-            "text": "Welcome, Trainer. \nI sincerely welcome you.",
+            "text": "Selamat datang, Trainer. \nAku sungguh menyambutmu.",
             "name": "???"
         },
         {
-            "text": "W-…Where am I?! Who are you…?!",
+            "text": "D-dimana aku?! Kamu siapa…?!",
             "name": "<username>"
         },
         {
-            "text": "W-…Where am I?! Who are you…?!",
-            "name": "<username>"
-        },
-        {
-            "text": "My name is Agnes Tachyon. I just really wanted to have a chat, \nso I decided to have you accompany me.",
+            "text": "Namaku Agnes Tachyon. Aku cuma pengen ngobrol sebentar, \nmakanya aku ngajak kamu ikut sama aku.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?",
+            "text": "Senyum tipis muncul di bibir gadis kuda bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
             "choice_data_list": [
-                "Too suspicious…!"
+                "Terlalu mencurigakan…!"
             ]
         },
         {
-            "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?",
-            "choice_data_list": [
-                "Too suspicious…!"
-            ]
-        },
-        {
-            "text": "Suspicious is a bit rude. While I agree I was perhaps a little \nrough, I do have a proper reason for inviting you here.",
+            "text": "Mencurigakan agak kasar. Meski aku mungkin sedikit kasar, aku punya alasan jelas buat ngajakmu ke sini.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Truthfully, in regards to you and your disciple, Silence \nSuzuka-kun, I wanted to have a chat and ask a few questions.",
+            "text": "Sejujurnya, mengenai kamu dan muridmu, Silence Suzuka-kun, aku pengen ngobrol dan tanya beberapa hal.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "A chat with us?",
+            "text": "Ngobrol sama kita?",
             "name": "<username>"
         },
         {
-            "text": "A chat with us?",
+            "text": "Iya. Pernah nggak, kamu mikir sebentar soal eksistensi \"gadis kuda\"?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Misalnya, pernah kepikiran kenapa mereka mirip manusia tapi punya kemampuan fisik jauh lebih tinggi?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Gadis kuda masih punya banyak misteri tersembunyi. Aku pengen mengungkap misteri itu, makanya aku terus teliti tentang mereka.",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "…misteri gadis kuda dan hubungan mereka dengan manusia?",
             "name": "<username>"
         },
         {
-            "text": "Yes. Have you ever, at times, taken a moment \nto consider what kind of existence \"Uma Musume\" are?",
+            "text": "Dengan kecepatan luar biasa itu, dari start sampai finish—apa yang kamu coba capai bikin aku penasaran!",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "For example, have you ever wondered why, even \nthough they are very similar to humans, they \nhave much higher physical abilitiles?",
+            "text": "Kalau dia terus begini dan sempurnain gaya itu, bisa bikin gadis kuda lainnya berkembang ke tahap berikutnya.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Uma Musume still have many, many mysteries like that hidden \nwithin them. You see, I wish to unravel those mysteries, and so \nI continue to research these so called Uma Musume.",
+            "text": "Untuk gaya lari yang belum dikenal ini berkembang, kalian berdua siap sepenuhnya? Itu yang pengen aku denger.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "…the mysteries of Uma Musume and \nwhat kind of relationship they have to humans?",
+            "text": "…jadi maksudmu, kalian cuma ngelakuin hal normal banget?",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Bukan latihan khusus, dan nggak ada hal nggak masuk akal juga.",
             "name": "<username>"
         },
         {
-            "text": "…the mysteries of Uma Musume and \nwhat kind of relationship they have to humans?",
+            "text": "Jadi kalian nggak latihan fisik super manusia, gaya lari misterius itu cuma kualitas unik Suzuka-kun-",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Mungkin kita harus mikir, ada aspek spiritual yang mulai memengaruhi fisiknya…",
+            "name": "Agnes Tachyon"
+        },
+        {
+            "text": "Aspek spiritual…?",
             "name": "<username>"
         },
         {
-            "text": "With that exceptional speed, carrying herself from \nstart to finish in such a way- What you are trying \nto achieve, has truly peaked my curiousity!",
+            "text": "Gadis kuda adalah makhluk hidup yang membawa banyak \"perasaan\" saat lari.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "If she continues like this and perfects that style, \nthat could be enough to push us Uma Musume to the next stage.",
+            "text": "Di alun-alun tengah, ada patung 3 Dewi. Konon, itu tempat gadis kuda mewarisi \"perasaan\" itu.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "For this running-style hence unknown to Uma Musume \nto progress, are you both fully prepared? That \nis certainly what I would like to hear.",
+            "text": "Sebagai peneliti, mungkin kamu pikir ini nggak masuk akal, tapi aku sendiri, aku gadis kuda-",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "…so what you are saying is, you are \njust doing extremely normal things?",
+            "text": "Kadang pas lari, aku bisa ngerasain dorongan dari sesuatu yang nggak diketahui mendorongku maju.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "It's not like we're doing any special training, \nand we're not doing anything unreasonable either.",
-            "name": "<username>"
+            "text": "Apa yang Agnes Tachyon omongin, mungkin aja itu harapan dan dukungan yang dirasakan gadis kuda…?"
         },
         {
-            "text": "So you are not doing any super-human-like physical \ntraining, so that unknown running style we have glimpsed \nis just Suzuka-kun's unique qualities-",
+            "text": "Tidak, maaf… itu bukan inti masalah. Tapi kalau iya, rencanaku agak meleset.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "No, maybe we should start by thinking that some spiritual aspect \nis starting to have an effect on her physical body…",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "Some spiritual aspect…?",
-            "name": "<username>"
-        },
-        {
-            "text": "Have you never heard this? Uma Musume are living \nbeings who bear many \"feelings\" as they run.",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "In the central plaza, that 3 Goddess statue. Concerning that \nstatue, there is a belief that it is a place where Uma Musume \ninherit these \"feelings\".",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "As a researcher, you may think it is an improper idealogy to \nentertain, however, I myself, am an Uma Musume-",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "There are times while I am running where I can feel it, this \nsensation of some unknown presence pushing me forward.",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "The things Agnes Tachyon is talking about, could they possibly be \nthe hopes and support that Uma Musume respond to…?"
-        },
-        {
-            "text": "No, pardon me… that is not the main issue at hand. But, if \nthat is the case, it seems my plans are slightly off base.",
-            "name": "Agnes Tachyon"
-        },
-        {
-            "text": "If I am correct, the future you both are \nbound for is… a little frightening.",
+            "text": "Kalau aku benar, masa depan kalian sedikit menakutkan.",
             "name": "Agnes Tachyon",
             "choice_data_list": [
-                "The future we're bound for…?",
-                "The future we're bound for…?"
+                "Masa depan yang kita tuju…?",
+                "Masa depan yang kita tuju…?"
             ]
         },
         {
-            "text": "The running-style you two are aiming for is a big unknown. \nIt is possible that it might be something outside the \nlimits of what an Uma Musume can do.",
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi itu di luar batas kemampuan gadis kuda.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "In that case, at that time her legs…",
+            "text": "Kalau begitu, saat itu kakinya…",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "The rest of those words never left Agnes Tachyon's lips. \nBut what followed was definitely-"
+            "text": "Sisa kata-kata itu nggak keluar dari bibir Agnes Tachyon. Tapi yang terjadi pasti-"
         },
         {
-            "text": "…will fail. Is that what you're saying?",
+            "text": "…akan gagal. Maksudmu begitu?",
             "name": "<username>"
         },
         {
-            "text": "…will fail. Is that what you're saying?",
-            "name": "<username>"
-        },
-        {
-            "text": "I do not know. I'm merely speculating about one possibility. \nWhether there is truly a limit or not, I do not know that either.",
+            "text": "Aku nggak tau. Aku cuma spekulasi satu kemungkinan. Apakah ada batas, aku juga nggak tau.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Like I told you at the beginning, Uma Musume are beings rife with \nmysteries. If I have made you feel uneasy, I apologize.",
+            "text": "Seperti aku bilang tadi, gadis kuda penuh misteri. Kalau bikin kalian nggak nyaman, aku minta maaf.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "At any rate, in regards to you and Suzuka-kun's astounding \nrunning-style- I have high hopes that you will show me what is in \nstore for the next stage of Uma Musume.",
+            "text": "Bagaimanapun, mengenai gaya lari luar biasa kalian berdua- Aku berharap tinggi kalian tunjukin tahap selanjutnya dari gadis kuda.",
             "name": "Agnes Tachyon"
         },
         {
-            "text": "Alllllright, next I'll be doing slope training, okay?",
+            "text": "Oke, selanjutnya aku latihan tanjakan, ya?",
             "name": "Winning Ticket"
         },
         {
-            "text": "I'm also doing slope training, and after \nthat is straight line running, right?",
+            "text": "Aku juga latihan tanjakan, abis itu lari lurus, kan?",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Silence Suzuka is diligently training."
+            "text": "Silence Suzuka latihan dengan tekun."
         },
         {
-            "text": "The contents of that training seems normal, \nno different from a normal Uma Musume."
+            "text": "Isi latihannya kelihatan normal, nggak beda sama gadis kuda biasa."
         },
         {
-            "text": "But, her running-style is by no means normal, it's one-of-a-kind. \nWhat awaits at the end of that path-"
+            "text": "Tapi gaya larinya nggak normal, unik. Apa yang nunggu di ujung jalur itu-"
         },
         {
-            "text": "The running-style you two are aiming for is a big unknown. \nIt is possible that it might be something outside the \nlimits of what an Uma Musume can do.",
+            "text": "Gaya lari yang kalian tuju itu sangat misterius. Bisa jadi di luar batas gadis kuda.",
             "name": "Agnes Tachyon"
         },
         {
@@ -258,33 +232,25 @@
             "name": "Silence Suzuka"
         },
         {
-            "text": "Oh, uh yeah. \nSlope and straight line dashes are fine.",
+            "text": "Oke, tanjakan dan lari lurus nggak masalah.",
             "name": "<username>"
         },
         {
-            "text": "Oh, uh yeah. \nSlope and straight line dashes are fine.",
-            "name": "<username>"
-        },
-        {
-            "text": "Then, I'll be off.",
+            "text": "Lalu, aku pamit dulu.",
             "name": "Silence Suzuka"
         },
         {
-            "text": "Silence Suzuka's running style, is the ideal for Uma Musume."
+            "text": "Gaya lari Silence Suzuka adalah gaya ideal bagi gadis kuda."
         },
         {
-            "text": "A running-style that nobody else could realize, but put another \nway, a running style that only she can realize-"
+            "text": "Gaya lari yang nggak bisa dicapai orang lain, tapi cuma dia yang bisa-"
         },
         {
-            "text": "(Does that mean she'll eventually reach beyond the limits…?)",
+            "text": "(Apa ini artinya dia bakal tembus batas…?)",
             "name": "<username>"
         },
         {
-            "text": "(Does that mean she'll eventually reach beyond the limits…?)",
-            "name": "<username>"
-        },
-        {
-            "text": "A slight uneasiness began to fill my heart, \nI desperately tried not to think about it."
+            "text": "Sedikit rasa nggak enak mulai muncul di hati, aku coba keras-keras nggak mikirin itu."
         }
     ]
 }

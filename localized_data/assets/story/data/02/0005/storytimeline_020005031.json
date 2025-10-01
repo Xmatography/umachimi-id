@@ -1,243 +1,227 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "After school, on my way to the Training Course, I bumped in to an \nUma Musume I recognized and another I didn't."
-        },
-        {
-            "text": "Uwaaaaaaaaah!! Uhyaaaaaaa!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The road behind that building over there leads \nto the music room and kitchen. And this way leads \nto the building with the indoor pool.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Hokkaido is sprawling too, but to think just one school would be \nthis big! I might get lost once… or maybe 5 times.",
-            "name": "Special Week"
-        },
-        {
-            "text": "…Oh? If I recall, you're team ＜Sirius＞'s trainer.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Good afternoon. \nIt seems you already know me.",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer…?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yes, if you want to enter the Twinkle Series, \nyou're required to be a part of a team.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "And this person here is someone who's trained \nseveral G1 Uma Musume. Team ＜Sirius＞'s trainer.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Eh? So they're an important person…! \nGood afternoon, I'm Special Week!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I wouldn't say important… \nThat aside, it seems like you're both looking around campus.",
-            "name": "<username>"
-        },
-        {
-            "text": "I just recently transferred here from Hokkaido. \nSo I asked Suzuka-san to give me a tour.",
-            "name": "Special Week"
-        },
-        {
-            "text": "On top of that, to participate in races I need to join a team, \nright? Just being admitted to the academy isn't enough…",
-            "name": "Special Week"
-        },
-        {
-            "text": "In that case, I want to join the same team as Suzuka-san! \nI'd get to see Suzuka-san run from up close, no \nfrom right beside her, everyday!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Um… to join a team it's necessary to be scouted first. \nJoining the team because you want to is…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!",
-            "name": "Special Week",
-            "choice_data_list": [
-                "<size=41>You're, how do I say this, very energetic</size>"
-            ]
-        },
-        {
-            "text": "…Well then, we'll excuse ourselves here.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Okay, see ya.",
-            "name": "<username>"
-        },
-        {
-            "text": "She had an overwhelming victory in her Debut, but placed 8th \nduring [Yayoi Sho]. In regards to that, there was something I \nwanted to ask her, but…"
-        },
-        {
-            "text": "But that's probably a bit impertinent.",
-            "name": "<username>"
-        },
-        {
-            "text": "But that's probably a bit impertinent.",
-            "name": "<username>"
-        },
-        {
-            "text": "A few days after that, at a Selection Race-"
-        },
-        {
-            "text": "Yo, observing this race?",
-            "name": "<username>"
-        },
-        {
-            "text": "Oh, observing this race?",
-            "name": "<username>"
-        },
-        {
-            "text": "＜Sirius＞'s Trainer-san. \nYes, Special Week-san is participating.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I was surprised when I saw the race schedule. She just \ntransferred here but is already running in a Selection Race.",
-            "name": "<username>"
-        },
-        {
-            "text": "Usually, the Uma Musume admitted to Tracen Academy takes classes \non the basics of running and challenge the Selection Race at an \nappropriate time, but-"
-        },
-        {
-            "text": "She probably entered this early so she could join \nthe same team as you as soon as possible.",
-            "name": "<username>"
-        },
-        {
-            "text": "She probably entered this early so she could join \nthe same team as you as soon as possible.",
-            "name": "<username>"
-        },
-        {
-            "text": "That may be the case… \nBut it seems like Special Week-san already has a dream in mind.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\".",
-            "name": "Silence Suzuka",
-            "choice_data_list": [
-                "\"Japan's #1 Uma Musume\"…?"
-            ]
-        },
-        {
-            "text": "I've just met her, \nbut Special Week-san's straight-forward feelings reached me.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Silence Suzuka's facial expression while saying that, \nseemed very melancholy… Completely different from \nher expression during her Debut race."
-        },
-        {
-            "text": "Somehow, it seems like you're speaking as if you \nhaven't sorted out your own feelings yet.",
-            "name": "<username>"
-        },
-        {
-            "text": "Eh…?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "… I…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Selection Race, 3rd Round. \nThe participating Uma Musume have settled in to their gates.",
-            "name": "Commentator"
-        },
-        {
-            "text": "Ah… the race is starting.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Number 6, Special Week! To make up for her late start, \nshe enters a Long Spurt from the third corner!",
-            "name": "Commentator"
-        },
-        {
-            "text": "She's catching up! \nAnd now she's taking the lead!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Special Week-san, could it be…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "She's got considerable determination for victory, \nhow could I have missed that?! And that straight-forward \nexpression… she might do it!",
-            "name": "<username>"
-        },
-        {
-            "text": "She's got considerable determination for victory, \nhow could I have missed that?! And that straight-forward \nexpression… she might do it!",
-            "name": "<username>"
-        },
-        {
-            "text": "With the way Special Week is running, after moving \nto Tokyo to chase her dreams, she might really be \nable to realize her dreams… however-"
-        },
-        {
-            "text": "…Wait!? What's wrong with Special Week?! Special Week stopped \nand is just standing there. What's she waving at?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "I did it, Suzuka-san! \nI got first place!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Oh no! It seems like she's mistaken where the goal was! \nIn the meantime, everyone is passing Special Week!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Ehhhhhhh?!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Um, starting today I'll be in your care, \nI'm Special Week! Please treat me well!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Uwooooo!! A new member! \nSpecial Week, so Spe-chan! Treat me well!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "I really wanted to join Suzuka-san's team but, \nI really screwed up during the Selection Race…",
-            "name": "Special Week"
-        },
-        {
-            "text": "But! But! Trainer-san spoke to me and told \nme ＜Sirius＞ was a great team so I joined!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hooooou… So ＜Sirius＞ was just an after thought for you.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "…eh?! N-no! You're wrong! It's true that I wanted to join the \nsame team as Suzuka-san though…",
-            "name": "Special Week"
-        },
-        {
-            "text": "So you came here because you were out of luck!! \nI'm gonna make you \"Japan's Most Unfortunate Uma Musume\"!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Ueeeeeeeeehhh!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "C'mon!! Don't stand there spacin' out!! \nIf you wanna become Japan's #1 then run like hell!!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "U-understoooood!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "She's a little rough around the edges, but like Silence Suzuka \nsaid, her pure desire to chase her dream reached me."
-        },
-        {
-            "text": "Special Week is someone who makes you feel like you want to \nsupport those straight-forward dreams."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Sepulang sekolah, pas lagi jalan ke lapangan latihan,\naku ketemu sama satu gadis kuda yang aku kenal\ndan satu lagi yang belum pernah aku lihat."
+    },
+    {
+      "text": "Uwaaaaaaaaah!! Uhyaaaaaaa!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jalan di belakang gedung itu arahnya ke ruang musik sama dapur.\nKalau ke arah sini, langsung ke gedung yang ada kolam renang indoor-nya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Hokkaido emang luas, tapi nggak nyangka satu sekolah bisa segede ini!\nBisa-bisa aku nyasar sekali… atau malah 5 kali.",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Oh? Kalau nggak salah, kamu kan trainernya tim ＜Sirius＞.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Selamat sore. Kayaknya kamu udah tau aku ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Trainer…?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, kalau mau ikut Twinkle Series, wajib gabung ke sebuah tim.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Dan orang ini udah pernah ngelatih beberapa gadis kuda kelas G1.\nTrainernya tim ＜Sirius＞.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Eh? Jadi orang penting dong…!\nSelamat sore, aku Special Week!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku nggak segitunya penting kok…\nTapi sepertinya kalian lagi keliling sekolah ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, aku baru pindah dari Hokkaido.\nJadi aku minta Suzuka-san buat nunjukin tempat-tempatnya.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Selain itu, kalau mau ikut balapan aku harus gabung tim kan?\nJadi cuma masuk akademi aja nggak cukup…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kalau gitu, aku pengen gabung tim yang sama kayak Suzuka-san!\nJadi aku bisa lihat Suzuka-san lari dari deket… nggak,\ndari sampingnya langsung, tiap hari!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Um… buat gabung tim itu harus di-scout dulu.\nNggak bisa cuma masuk karena kemauan sendiri…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Uwaaaah! Di-scout! Kayak artis gitu!\nAku bakal berusaha keras biar bisa di-scout!",
+      "name": "Special Week",
+      "choice_data_list": [
+        "<size=41>Kamu ini, gimana ya bilangnya… semangat banget</size>"
+      ]
+    },
+    {
+      "text": "…Kalau gitu, kami pamit dulu ya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Oke, sampai ketemu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Dia menang besar waktu Debut,\ntapi pas lomba [Yayoi Sho] cuma finish ke-8.\nAku sebenernya ada hal yang pengen aku tanyain soal itu, tapi…"
+    },
+    {
+      "text": "Kayaknya agak kurang sopan juga sih.",
+      "name": "<username>"
+    },
+    {
+      "text": "Beberapa hari setelah itu, pas di lomba Seleksi-"
+    },
+    {
+      "text": "Yo, lagi nonton balapan ini?",
+      "name": "<username>"
+    },
+    {
+      "text": "Trainer tim ＜Sirius＞ ya.\nIya, Special Week-san ikut lomba ini.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku agak kaget pas lihat jadwal.\nDia baru pindah sekolah tapi udah langsung ikut lomba Seleksi.",
+      "name": "<username>"
+    },
+    {
+      "text": "Biasanya gadis kuda yang masuk Tracen Academy belajar dulu dasar-dasarnya,\nbaru ikut lomba Seleksi di waktu yang pas, tapi-"
+    },
+    {
+      "text": "Kayaknya dia buru-buru ikut lomba biar bisa gabung tim yang sama kayak kamu secepatnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Mungkin iya…\nTapi kayaknya Special Week-san udah punya mimpi yang jelas.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Mimpinya ikut Twinkle Series,\ndan jadi \"Gadis Kuda No.1 di Jepang\".",
+      "name": "Silence Suzuka",
+      "choice_data_list": [
+        "\"Gadis Kuda No.1 di Jepang\"…?"
+      ]
+    },
+    {
+      "text": "Aku baru kenal dia,\ntapi perasaan tulusnya langsung nyampe ke aku.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ekspresi Silence Suzuka waktu ngomong itu keliatan sendu banget…\nBeda jauh sama ekspresinya pas debut dulu."
+    },
+    {
+      "text": "Entah kenapa, rasanya kamu ngomong gitu karena kamu sendiri\nbelum bener-bener nemuin jawaban dari perasaanmu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Eh…?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "… Aku…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lomba Seleksi, ronde ke-3.\nSemua gadis kuda peserta udah siap di gerbang start.",
+      "name": "Komentator"
+    },
+    {
+      "text": "Ah… lombanya mulai.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Nomor 6, Special Week!\nBuat nutupin start telatnya, dia langsung masuk Long Spurt dari tikungan ketiga!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dia makin ngejar!\nDan sekarang dia memimpin!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Special Week-san, jangan-jangan…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Dia punya tekad gede banget buat menang,\nkok aku bisa nggak nyadar ya?!\nDan ekspresinya yang polos itu… dia bisa aja menang!",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau lihat cara dia lari,\nsetelah pindah ke Tokyo buat ngejar mimpinya,\nmungkin aja dia beneran bisa ngewujudin mimpi itu…\ntapi-"
+    },
+    {
+      "text": "…Eh!? Ada apa dengan Special Week?!\nDia berhenti dan cuma berdiri di situ.\nLoh, dia lagi dadah-dadah ke siapa?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Aku berhasil, Suzuka-san!\nAku juara satu!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Waduh! Kayaknya dia salah paham sama garis finish!\nSementara itu, semua orang udah nyalip Special Week!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Ehhhhhhh?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mulai hari ini aku masuk tim kalian.\nAku Special Week! Mohon bimbingannya ya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Uwooooo!! Anggota baru! Special Week, jadi Spe-chan! Salam kenal!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Aku sebenernya pengen banget masuk timnya Suzuka-san,\ntapi aku bener-bener bikin salah pas lomba Seleksi…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi! Tapi! Trainer-san bilang ＜Sirius＞ itu tim yang hebat,\njadi aku gabung ke sini!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hooooou… Jadi ＜Sirius＞ cuma pilihan cadangan buatmu.",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "…eh?! N-nggak! Salah paham!\nEmang bener aku pengen masuk timnya Suzuka-san sih…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jadi kamu ke sini gara-gara kehabisan opsi!!\nAku bakal bikin kamu jadi \"Gadis Kuda Paling Sial di Jepang\"!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ueeeeeeeeehhh!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ayo!! Jangan bengong aja!!\nKalau beneran mau jadi No.1 Jepang ya lari sekenceng-kencengnya!!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "B-baiklaaaah!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dia emang agak keras kepala,\ntapi kayak yang Suzuka bilang, keinginan murninya buat ngejar mimpi itu kerasa banget."
+    },
+    {
+      "text": "Special Week tuh tipe yang bikin orang pengen dukung mimpinya yang polos itu."
+    }
+  ]
 }

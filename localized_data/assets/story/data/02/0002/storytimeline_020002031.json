@@ -2,91 +2,88 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Mihono Bourbon leads with four horse lengths! \nSurely she will win this race!",
-            "name": "Commentator"
+            "text": "Mihono Bourbon memimpin dengan jarak empat panjang kuda!\nPasti dia bakal menang lomba ini!",
+            "name": "Komentator"
         },
         {
-            "text": "Mihono Bourbon is still ahead! She held on for 2400m \nand finishes first! Six races and all six won! \nShe's undefeated now one more crown to go!",
-            "name": "Commentator"
+            "text": "Mihono Bourbon masih di depan! Bertahan sampai 2400m \ndan finis di posisi pertama! Enam lomba, enam kali menang!\nDia tetap tak terkalahkan, tinggal satu mahkota lagi!",
+            "name": "Komentator"
         },
         {
-            "text": "Rice Shower finished 2nd in the Nippon Derby. \nDespite failing to defeat Mihono Bourbon, she made \nincredible progress in the run-up to the race"
+            "text": "Rice Shower finis di posisi kedua di Nippon Derby.\nMeski gagal mengalahkan Mihono Bourbon, dia menunjukkan\nkemajuan luar biasa menjelang lomba."
         },
         {
-            "text": "A few days after the race, I find myself \nat a certain theme park in Chiba prefecture..."
+            "text": "Beberapa hari setelah lomba, aku berada di \nsebuah taman hiburan di prefektur Chiba..."
         },
         {
-            "text": "Whoa! This must be <i>that</i> well-known theme park! \nWith the princess who lives in the castle, and the \n<i>Big Lightning Mountain</i>!",
+            "text": "Wah! Ini pasti taman hiburan terkenal itu!\nDengan sang putri yang tinggal di kastil, dan\n<i>Big Lightning Mountain</i>!",
             "name": "Rice Shower"
         },
         {
-            "text": "I wanted to take her to the theme park she'd been wanting \nto go to, as a reward for her hard work. Although..."
+            "text": "Aku ingin membawanya ke taman hiburan yang dia pengin datangi,\nsebagai hadiah atas kerja kerasnya. Meski..."
         },
         {
-            "text": "Wow, it's a lot less busy than I expected. \nHehe, we're lucky today!",
+            "text": "Wah, nggak seramai yang kukira.\nHehe, hari ini kita beruntung!",
             "name": "Rice Shower"
         },
         {
-            "text": "Um, Trainer... She really believes we're at \n<i>that</i> theme park...",
+            "text": "Eh, Trainer… Dia benar-benar percaya kita ada di \ntaman hiburan itu...",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Whilst looking at the extatic Rice Shower, \nMejiro McQueen whispers into my ear."
+            "text": "Sambil lihat Rice Shower yang kegirangan,\nMejiro McQueen membisikkan ke telingaku."
         },
         {
-            "text": "I know you are tight on money this month, \nbut really? A different park?",
+            "text": "Aku tahu kamu lagi bokek bulan ini,\ntapi serius? Taman lain?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "I, well...",
+            "text": "Aku, yah...",
             "name": "<username>"
         },
         {
-            "text": "I, well...",
+            "text": "Aku, yah...",
             "name": "<username>"
         },
         {
-            "text": "Come on, McQueen! Word is that there's a secret \nunderground attraction. We gotta check if it's real!",
+            "text": "Ayo, McQueen! Katanya ada atraksi rahasia di bawah tanah.\nKita harus cek bener nggak sih!",
             "name": "Gold Ship"
         },
         {
-            "text": "Hold on! That's the employee entrance, you doofus!",
+            "text": "Tunggu! Itu pintu masuk karyawan, bego!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Come, Trainer! Let's go!",
+            "text": "Ayo, Trainer! Kita pergi!",
             "name": "Rice Shower"
         },
         {
-            "text": "Ah, yes...",
+            "text": "Ah, iya...",
             "name": "<username>"
         },
         {
-            "text": "And so, several hours passed in the blink of an eye \nat the fun (?) theme park."
+            "text": "Dan begitu saja, beberapa jam berlalu begitu cepat\ndi taman hiburan yang… menyenangkan (?) itu."
         },
         {
-            "text": "We managed to ride on pretty much every attraction! \nI'm glad there were so few people here today.",
+            "text": "Kita berhasil naik hampir semua atraksi!\nSenang deh nggak terlalu ramai hari ini.",
             "name": "Rice Shower"
         },
         {
-            "text": "Seeing her so happy in her ignorance... \nI feel so guilty."
+            "text": "Melihat dia senang tanpa tahu kebenarannya…\nAku merasa bersalah."
         },
         {
-            "text": "Um... Trainer...",
+            "text": "Eh… Trainer...",
             "name": "Rice Shower"
         },
         {
-            "text": "I still wanted to ride in the ferris wheel... \nWould you... join me?",
+            "text": "Aku masih pengin naik bianglala...\nMau nggak… ikut denganku?",
             "name": "Rice Shower"
         },
         {
-            "text": "...So guilty, I could almost vomit! \nOf course, I can't decline her request \nif it makes her happy.",
-            "choice_data_list": [
-                ""
-            ]
+            "text": "Aduh, bersalah banget rasanya!\nTapi tentu saja aku nggak bisa nolak kalau itu bikin dia bahagia."
         },
         {
-            "text": "Ehehe... Hooray.",
+            "text": "Ehehe… Hore.",
             "name": "Rice Shower"
         },
         {

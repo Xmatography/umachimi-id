@@ -2,108 +2,102 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "There once was a little witch \nwho lived quietly, deep in the mountains."
+            "text": "Dahulu ada seorang penyihir kecil \nyang hidup tenang jauh di dalam pegunungan."
         },
         {
-            "text": "But, she did not know what to use her magic for. \n\"What is the purpose of my powers?\" she wondered."
+            "text": "Namun, dia tidak tahu harus menggunakan sihirnya untuk apa. \n\"Apa tujuan dari kekuatanku ini?\" tanyanya dalam hati."
         },
         {
-            "text": "One night, under the dim moonlight, \nshe read a picture book about the outside world."
+            "text": "Suatu malam, di bawah cahaya bulan redup, \ndia membaca sebuah buku bergambar tentang dunia luar."
         },
         {
-            "text": "The picture book showed people living happily \nin the outside world."
+            "text": "Buku itu memperlihatkan orang-orang yang hidup bahagia \ndi dunia luar."
         },
         {
-            "text": "\"How nice. I wish I there with them.\""
+            "text": "\"Indah sekali. Andai aku bisa ada di sana bersama mereka.\""
         },
         {
-            "text": "The little witch was moved and started to \nadmire the outside world."
+            "text": "Penyihir kecil itu tersentuh dan mulai mengagumi dunia luar."
         },
         {
-            "text": "She wondered if she could use her magic \nto make the outside world an even happier place."
+            "text": "Dia bertanya-tanya apakah bisa menggunakan sihirnya \nuntuk membuat dunia luar menjadi tempat yang lebih bahagia."
         },
         {
-            "text": "Before she knew it, it was already morning. \nThe sunshine lit up the outside world."
+            "text": "Tanpa sadar, pagi pun tiba. \nCahaya matahari menyinari dunia luar."
         },
         {
-            "text": "Determined to make everyone happy, \nthe little witch set foot into the outside world."
+            "text": "Dengan tekad membuat semua orang bahagia, \npenyihir kecil itu melangkahkan kaki ke dunia luar."
         },
         {
-            "text": "A few days have passed since Mejiro McQueen won \nthe Spring Tenno Sho twice in a row――"
+            "text": "Beberapa hari telah berlalu sejak Mejiro McQueen memenangkan \nTenno Sho Musim Semi dua kali berturut-turut――"
         },
         {
-            "text": "The training sessions of Team Sirius started to heat up."
+            "text": "Sesi latihan Tim Sirius mulai memanas."
         },
         {
-            "text": "Whoo! Another new personal best!",
-            "name": "Horsegirl with Straight-cut Bangs"
+            "text": "Whoo! Catatan waktuku pecah rekor lagi!",
+            "name": "Gadis Kuda dengan Poni Lurus"
         },
         {
-            "text": "Heat turns into energy, and the members \ncontinue to improve their times."
+            "text": "Panas itu berubah jadi energi, dan para anggota \nterus memperbaiki catatan waktu mereka."
         },
         {
-            "text": "Everyone is in high spirits."
-        },
-        {
-            "text": "*huff huff*",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Doing a practice run, Mejiro McQueen once again \nshows a dignified performance."
-        },
-        {
-            "text": "Yep, McQueen's awesome as always! Not dropping \nher pace nor form the entire time!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Surely there's no other Umamusume that \ncan beat McQueen at long distances!",
-            "name": "Horsegirl with Straight-cut Bangs"
-        },
-        {
-            "text": "It's true, there probably aren't many Umamusume \nwho could compete with her at long distances."
-        },
-        {
-            "text": "But... My gaze was drawn to one other Umamusume."
-        },
-        {
-            "text": "But... My gaze was drawn to one other Umamusume."
-        },
-        {
-            "text": "*huff huff*",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Rice Shower. Unable to achieve the results she wanted, \nshe recently joined the team."
-        },
-        {
-            "text": "Oof. Rice is looking pretty beat. \nShe's entirely out of breath.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "She's not wrong. Compared to Mejiro McQueen, \nRice Shower's running is not there yet, but..."
-        },
-        {
-            "text": "She's not wrong. Compared to Mejiro McQueen, \nRice Shower's running is not there yet, but..."
-        },
-        {
-            "text": "She's looking at Mejiro McQueen \nwith a seriously sharp gaze."
-        },
-        {
-            "text": "She's holding on, no matter how tough it gets."
-        },
-        {
-            "text": "And above all..."
+            "text": "Semua orang sedang bersemangat."
         },
         {
             "text": "*huff huff*",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Almost... there...\nJust a little more...",
+            "text": "Saat melakukan lari latihan, Mejiro McQueen kembali \nmenunjukkan performa yang penuh wibawa."
+        },
+        {
+            "text": "Ya ampun, McQueen memang luar biasa seperti biasa! Dia nggak \npernah nurunin pace atau bentuk larinya sama sekali!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Pasti nggak ada lagi Umamusume yang bisa ngalahin McQueen di jarak jauh!",
+            "name": "Gadis Kuda dengan Poni Lurus"
+        },
+        {
+            "text": "Memang benar, mungkin tidak banyak Umamusume \nyang bisa menandinginya di jarak jauh."
+        },
+        {
+            "text": "Tapi... Pandanganku justru tertuju pada satu Umamusume lain."
+        },
+        {
+            "text": "*huff huff*",
             "name": "Rice Shower"
         },
         {
-            "text": "You're still keeping up with me, huh? \nHowever...",
+            "text": "Rice Shower. Karena gagal mendapat hasil yang diinginkan, \ndia baru-baru ini bergabung dengan tim."
+        },
+        {
+            "text": "Aduh. Rice kelihatan kewalahan. \nDia benar-benar ngos-ngosan.",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Itu memang benar. Kalau dibandingkan dengan Mejiro McQueen, \nlarinya Rice Shower masih belum sampai ke sana, tapi..."
+        },
+        {
+            "text": "Dia menatap Mejiro McQueen \ndengan sorot mata yang sangat tajam."
+        },
+        {
+            "text": "Dia tetap bertahan, seberat apa pun itu."
+        },
+        {
+            "text": "Dan yang paling penting..."
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Sedikit lagi... \nHanya sedikit lagi...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Kau masih bisa mengikutiku, ya? \nTapi...",
             "name": "Mejiro McQueen"
         },
         {
@@ -119,117 +113,101 @@
             "name": "Rice Shower"
         },
         {
-            "text": "Goaaal!\nAnother new personal best!",
+            "text": "Finiiiiish!\nRekor pribadi baru lagi!",
             "name": "Gold Ship"
         },
         {
-            "text": "You're so awesome!",
-            "name": "Droopy-eyed Horsegirl"
+            "text": "Kamu keren banget!",
+            "name": "Gadis Kuda Bermata Sayu"
         },
         {
-            "text": "I wouldn't expect less from the 'Tenno Sho' Umamusume,\nour ace! Right, Trainer?",
-            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "Seperti yang kuduga dari Umamusume 'Tenno Sho', \nace kita! Benar kan, Trainer?",
+            "name": "Gadis Kuda dengan Poni Lurus",
             "choice_data_list": [
-                "Yes, she's our ace alright!",
-                "Yes, she's our ace alright!"
+                "Ya, dia memang ace kita!",
+                "Ya, dia memang ace kita!"
             ]
         },
         {
-            "text": "C-Could you stop the flattery, please?",
+            "text": "B-Bisa tolong jangan terlalu dilebih-lebihkan?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "And Rice, you did great too.",
+            "text": "Dan Rice, kamu juga bagus banget kok.",
             "name": "<username>"
         },
         {
-            "text": "*huff* Eh? I did?",
+            "text": "*huff* Eh? Aku… bagus?",
             "name": "Rice Shower"
         },
         {
-            "text": "You showed some real guts, pushing your limits like that!",
+            "text": "Kamu nunjukin tekad yang hebat, maksa dirimu sampai batas begitu!",
             "name": "Gold Ship"
         },
         {
-            "text": "But... If I'm really that good at running, \nwhy can't I win any races...?",
+            "text": "Tapi... Kalau aku benar-benar jago lari, \nkenapa aku nggak bisa menang balapan...?",
             "name": "Rice Shower"
         },
         {
-            "text": "I tried so hard for the Satsuki Sho, and the recent \nrace too, but I only got eighth place...",
+            "text": "Aku sudah berusaha keras di Satsuki Sho, dan juga \nbalapan terakhir, tapi hasilnya cuma posisi kedelapan...",
             "name": "Rice Shower"
         },
         {
-            "text": "You say that, but you managed to follow behind McQueen \nall the way until the last 50 meters. Don't sweat it!",
+            "text": "Memang begitu, tapi kamu bisa mengikuti McQueen \nsampai 50 meter terakhir. Jangan khawatir!",
             "name": "Gold Ship"
         },
         {
-            "text": "Uh... But...",
+            "text": "Uh... Tapi...",
             "name": "Rice Shower"
         },
         {
-            "text": "She's got to start believing in herself more. \nA positive, \"I can do it!\" mentality.",
+            "text": "Dia harus mulai percaya sama dirinya sendiri. \nPunya mental positif, 'Aku pasti bisa!'.",
             "name": "<username>"
         },
         {
-            "text": "She's got to start believing in herself more. \nA positive, \"I can do it!\" mentality.",
-            "name": "<username>"
-        },
-        {
-            "text": "There's also something I noticed when we were running \ntogether. Something that's lacking.",
+            "text": "Ada satu hal yang kusadari waktu kita lari bareng. Sesuatu yang masih kurang.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "I'm talking about 'distance'.",
+            "text": "Yang kumaksud adalah 'jarak'.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "D-Distance...?",
+            "text": "J-Jarak...?",
             "name": "Rice Shower"
         },
         {
-            "text": "She's right. Your body isn't very large, but very efficient. \nAnd with those legs...",
+            "text": "Benar. Tubuhmu memang tidak besar, tapi sangat efisien. \nDan dengan kaki-kaki itu...",
             "name": "<username>"
         },
         {
-            "text": "You're totally suited to be a 'Stayer', Rice!",
+            "text": "Kamu benar-benar cocok jadi 'Stayer', Rice!",
             "name": "<username>"
         },
         {
-            "text": "You're totally suited to be a 'Stayer', Rice!",
-            "name": "<username>"
-        },
-        {
-            "text": "Me, a Stayer? \nMcQueen is one, too...",
+            "text": "Aku... Stayer? \nMcQueen juga Stayer...",
             "name": "Rice Shower"
         },
         {
-            "text": "Indeed. Your abilities will come to fruition \nduring longer races. That race where you \nfinished eighth just wasn't long enough.",
+            "text": "Betul. Kemampuanmu akan benar-benar bersinar \ndi balapan jarak panjang. Balapan yang kamu \nselesaikan di posisi kedelapan itu memang kurang panjang.",
             "name": "<username>"
         },
         {
-            "text": "There's a 2400m race coming up soon. \nAlthough... The participants are highly skilled.",
+            "text": "Akan ada balapan 2400m sebentar lagi. \nTapi... pesertanya benar-benar kuat.",
             "name": "<username>"
         },
         {
-            "text": "There's a 2400m race coming up soon. \nAlthough... The participants are highly skilled.",
-            "name": "<username>"
+            "text": "Saat aku bilang begitu, ekspresi semua orang langsung berubah, \nselain Rice Shower. Dia belum menyadarinya."
         },
         {
-            "text": "When I said that, the expression on everyone's faces \nchanged, except for Rice Shower. She hasn't figured \nit out yet."
+            "text": "Aku ingin dia ikut balapan bukan sembarang balapan... Ini adalah balapan yang sangat spesial untuk Umamusume. \nKesempatan sekali seumur hidup yang menentukan siapa yang ada di puncak..."
         },
         {
-            "text": "I want her to run not just any race... It's a very special \nrace for Umamusume. A once-in-a-lifetime experience \nthat decides who's at the very top...",
-            "choice_data_list": [
-                "",
-                ""
-            ]
-        },
-        {
-            "text": "The... The Nippon Derby?!",
+            "text": "I-Itu... Nippon Derby?!",
             "name": "Rice Shower"
         },
         {
-            "text": "Rice Shower's shriek raced across the training course, \nas if it knew how fast she'd need to run in the near future."
+            "text": "Jeritan Rice Shower bergema di lintasan latihan, \nseakan tahu seberapa cepat dia harus berlari di masa depan."
         }
     ]
 }

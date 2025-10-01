@@ -2,64 +2,64 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Doctor",
-            "text": "I'll state my conclusion――"
+            "name": "Dokter",
+            "text": "Saya akan nyatakan kesimpulannya――"
         },
         {
-            "name": "Doctor",
-            "text": "Suspensory Desmitis in the right leg. And it's quite severe. \nFor the time being, racing will probably not be possible."
+            "name": "Dokter",
+            "text": "Suspensory Desmitis di kaki kanan. Dan cukup parah. \nUntuk sementara, balapan mungkin nggak bisa dilakukan."
         },
         {
             "name": "Cesario",
             "text": "――!"
         },
         {
-            "text": "『I feel pain in my leg』. That was what Cesario had \ntold me and so we headed to the hospital……and now \nthe test results had been announced."
+            "text": "『Kakiku sakit』. Itu yang Cesario bilang ke aku \ndan kami langsung pergi ke rumah sakit……sekarang \nhasil tesnya diumumin."
         },
         {
-            "name": "Doctor",
-            "text": "As for recovery――it will likely take around a year, minimum. \nIn the worst case……a full recovery might not be……"
+            "name": "Dokter",
+            "text": "Untuk pemulihan――mungkin butuh sekitar setahun, minimal. \nDalam kasus terburuk……pemulihan total mungkin nggak……"
         },
         {
-            "text": "――! ……Cesario……It'll be fine. \nIt'll be fine so……stay strong."
+            "text": "――! ……Cesario……Nggak apa-apa kok. \nNggak apa-apa jadi……tetap kuat ya."
         },
         {
-            "text": "――! ……Cesario……It'll be fine. \nIt'll be fine so……stay strong."
-        },
-        {
-            "name": "Cesario",
-            "text": "…………Yes. Thank you……very much."
-        },
-        {
-            "text": "For an Uma Musume, this was almost the worst thing \nthat could happen…… No matter how much I tried to \nencourage her, she wouldn't stop shaking."
+            "text": "――! ……Cesario……Nggak apa-apa kok. \nNggak apa-apa jadi……tetap kuat ya."
         },
         {
             "name": "Cesario",
-            "text": "I……might not be able to run ever again. \nEven if I work hard and focus on recovering."
+            "text": "…………Iya. Terima kasih……banyak."
+        },
+        {
+            "text": "Buat Uma Musume, ini hampir jadi hal terburuk yang \nbisa terjadi…… Berapa pun aku coba semangatin dia, \ndia tetap nggak berhenti gemetaran."
         },
         {
             "name": "Cesario",
-            "text": "I didn't think a day like this would ever come…… \nWhat should I do from now on……?"
+            "text": "Aku……mungkin nggak bakal bisa lari lagi. \nBahkan kalau aku berusaha keras dan fokus pulih."
         },
         {
             "name": "Cesario",
-            "text": "Training, racing……just \"running\"…… \nIt was precious……or rather, it was my everything……"
+            "text": "Aku nggak nyangka hari kayak gini bakal datang…… \nSekarang harus gimana……?"
         },
         {
             "name": "Cesario",
-            "text": "The joy, the sorrow……it was all a part of running. Not being \nable to do that was unthinkable, I never once thought about it……"
+            "text": "Latihan, balapan……sekedar \"lari\"…… \nItu berharga……bahkan, itu segalanya bagiku……"
         },
         {
             "name": "Cesario",
-            "text": "(My first major race…… \nThe favorite…… And this amount of pressure feels comfortable!)"
+            "text": "Suka, duka……semua bagian dari berlari. Nggak bisa \nlagi melakukan itu nggak kebayang, aku nggak pernah \nsekali pun mikirin……"
         },
         {
             "name": "Cesario",
-            "text": "(Now, I just need to run as fast as I can! \nFirst, before the Triple Tiara, Fuu――!!)"
+            "text": "(Balapan besarku yang pertama…… \nJadi favorit…… Dan tekanan segini rasanya nyaman!)"
         },
         {
             "name": "Cesario",
-            "text": "(I won't let you! I can't afford to fall behind! \nEven if it's you, Kraft, this 『Oka Sho』――!)"
+            "text": "(Sekarang, aku cuma perlu lari secepat mungkin! \nPertama, sebelum Triple Tiara, Fuu――!!)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Aku nggak bakal kasih! Aku nggak boleh ketinggalan! \nMeski itu kamu, Kraft, 『Oka Sho』 ini――!)"
         },
         {
             "name": "Cesario",
@@ -67,66 +67,66 @@
         },
         {
             "name": "Cesario",
-            "text": "Those days, that passion, all the emotions that are \npart of running, all of it will be in the past……"
+            "text": "Hari-hari itu, semangat itu, semua emosi yang \nmenjadi bagian dari berlari, semuanya akan jadi masa lalu……"
         },
         {
             "name": "Cesario",
-            "text": "If that's what happens then…… \nI'm sure I'll regret it. But even then……"
+            "text": "Kalau itu yang terjadi…… \nPasti aku akan menyesal. Tapi meski begitu……"
         },
         {
             "name": "Cesario",
-            "text": "Why……why is my heart so calm?"
+            "text": "Kenapa……kenapa hatiku tenang sekali?"
         },
         {
             "name": "Cesario",
-            "text": "I……accomplished so much. For the 『Oaks』 I trained with Kris S-san, \nand was able to win by improving my running. And on top of that――"
+            "text": "Aku……udah mencapai banyak hal. Buat 『Oaks』 aku latihan \nsama Kris S-san, dan bisa menang dengan improve caraku lari. Dan belum lagi――"
         },
         {
             "name": "Cesario",
-            "text": "Japan's first――American G1 victory. \nAs an Uma Musume, I've been able to achieve unimaginable glory."
+            "text": "Kemenangan G1 Amerika――yang pertama buat Jepang. \nSebagai Uma Musume, aku udah mencapai kejayaan yang nggak terbayang."
         },
         {
             "name": "Cesario",
-            "text": "The time spent up until now, has been the happiest of my life. \nWith Trainer, Kraft, King-san, surrounded by so many emotions……"
+            "text": "Waktu yang dihabisin sampai sekarang, adalah yang paling bahagia \ndalam hidupku. Bersama Trainer, Kraft, King-san, dikelilingi \nbegitu banyak emosi……"
         },
         {
             "name": "Cesario",
-            "text": "I've accomplished everything I wanted. \nI've obtained everything I wanted…… That's right, I……"
+            "text": "Aku udah mencapainya semua yang aku mau. \nAku udah dapetin semua yang aku pengen…… Iya, aku……"
         },
         {
             "name": "Cesario",
-            "text": "I feel fulfilled……completely."
+            "text": "Aku merasa puas……sepenuhnya."
         },
         {
             "name": "Cesario",
-            "text": "I feel so very fulfilled. It hurts not being able to run…… \nBut, as long as I still have all these memories……"
+            "text": "Aku merasa sangat puas. Sakit sih nggak bisa lari…… \nTapi, selama aku masih punya semua kenangan ini……"
         },
         {
             "name": "Cesario",
-            "text": "In that case, after this, I……"
+            "text": "Kalau gitu, setelah ini, aku……"
         },
         {
-            "name": "Children",
-            "text": "Cesario! \nTeach us! Teach us how to run!"
-        },
-        {
-            "name": "Cesario",
-            "text": "I'm sure I can do this. I'll be able to smile, and do something new…… \nsomething that I thought of doing someday, I can aim for it now."
+            "name": "Anak-anak",
+            "text": "Cesario! \nAjarin kami! Ajarin kami cara lari!"
         },
         {
             "name": "Cesario",
-            "text": "This injury……can definitely become the starting point. \nFor us――to move forward."
-        },
-        {
-            "text": "And then――the next morning."
+            "text": "Aku yakin bisa. Aku bisa tersenyum, dan melakukan hal baru…… \nsesuatu yang pernah kepikiran mau dilakukan, sekarang bisa ku tuju."
         },
         {
             "name": "Cesario",
-            "text": "Trainer, Kraft, I have something I want to talk about. \nI'd like you to hear me out. I……"
+            "text": "Cedera ini……pasti bisa jadi titik awal. \nBuat kita――untuk maju."
+        },
+        {
+            "text": "Lalu――keesokan harinya."
         },
         {
             "name": "Cesario",
-            "text": "From now on, I'd like to focus on recovery \nand distance myself from racing."
+            "text": "Trainer, Kraft, ada yang mau aku bicarain. \nTolong dengerin ya. Aku……"
+        },
+        {
+            "name": "Cesario",
+            "text": "Mulai sekarang, aku mau fokus ke pemulihan \ndan menjauhi dunia balapan."
         },
         {
             "text": "……Eh?"
@@ -136,187 +136,187 @@
             "text": "Cesario……"
         },
         {
-            "text": "Time came to a stop. Both Rhein Kraft and I were frozen, \nunable to speak. But……Cesario was still smiling gracefully."
+            "text": "Waktu berhenti. Baik Rhein Kraft maupun aku membeku, \nnggak bisa bicara. Tapi……Cesario masih tersenyum anggun."
         },
         {
             "name": "Cesario",
-            "text": "I've spent a lot of time thinking about it. \nAbout everything I've done, and also what I want to do next."
+            "text": "Aku udah lama mikirin ini. \nTentang semua yang udah aku lakuin, dan juga yang mau aku lakuin selanjutnya."
         },
         {
             "name": "Cesario",
-            "text": "Of course, I still want to run. But, since there's \na chance this injury might not fully heal, when \nI started thinking about what I should do next……"
+            "text": "Tentu aja, aku masih pengen lari. Tapi, karena ada \nkemungkinan cedera ini nggak sembuh total, waktu \naku mulai mikirin harus ngapain selanjutnya……"
         },
         {
             "name": "Cesario",
-            "text": "I realized there are things other than running that \nI can do. I've already received more than enough……"
+            "text": "Aku sadar ada hal lain selain lari yang \nbisa aku lakuin. Aku udah dapetin lebih dari cukup……"
         },
         {
             "name": "Cesario",
-            "text": "I have absolutely no regrets because the time I've spent \nwas the best in my life. With Trainer and Kraft."
+            "text": "Aku sama sekali nggak nyesel karena waktu yang udah \naku habisin adalah yang terbaik dalam hidupku. Bersama Trainer dan Kraft."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Cesario…… \nI see…… So that's what you've been thinking about……"
+            "text": "Cesario…… \nOh gitu…… Jadi itu yang lagi kamu pikirin……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "But even then……even then I still……want to run together \nwith you again! I really want to run, you know? But……"
+            "text": "Tapi meski begitu……meski begitu aku masih……pengen lari \nlagi bareng kamu! Aku beneran pengen lari, tau? Tapi……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "There's been something bothering me this whole time. \nCesario, since you've come back from America……"
+            "text": "Ada sesuatu yang ganggu aku selama ini. \nCesario, sejak kamu balik dari Amerika……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "You haven't switched on, to that other dignified \nCesario. The whole time you've been gentle, and \nhaven't once switched to your racing mindset, right?"
+            "text": "Kamu belum nyalain, Cesario yang penuh wibawa \nitu. Selama ini kamu lembut banget, dan \nnggak sekali pun ganti ke mode balapan, kan?"
         },
         {
             "text": "――!?"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Of course, there's your injury but…… \nI wondered if something had changed inside of you, Cesario."
+            "text": "Tentu aja, ada cederamu tapi…… \nAku penasaran apa ada yang berubah dalem hatimu, Cesario."
         },
         {
             "name": "Rhein Kraft",
-            "text": "You've experienced so many things……that maybe your feelings, \nhave changed, that you now want to do something else……"
+            "text": "Kamu udah alamin banyak hal……mungkin perasaanmu, \nudah berubah, bahwa kamu sekarang pengen ngelakuin hal lain……"
         },
         {
-            "text": "She wants to do something else? \nCesario, did you have anything in mind?"
-        },
-        {
-            "text": "She wants to do something else? \nCesario, did you have anything in mind?"
-        },
-        {
-            "name": "Cesario",
-            "text": "Yes…… It's something I've talked with Kraft about often. \nAnd with Trainer and King-san just a little. Really, I……"
-        },
-        {
-            "name": "Cesario",
-            "text": "I want……to be more involved in the training process."
-        },
-        {
-            "name": "Cesario",
-            "text": "I want to help raise the younger Uma Musume. \nRaise them, and then help them race."
-        },
-        {
-            "name": "Cesario",
-            "text": "That's the path that Kraft and I created. \nThe Unorthodox Double Crown, and challenging America."
-        },
-        {
-            "name": "Cesario",
-            "text": "And from now on, Kraft will continue to help create \nthat path. The Unorthodox Triple Crown, and a place \nwhere Tiara Musume can carry on in the Senior class."
-        },
-        {
-            "name": "Cesario",
-            "text": "The more and more I think about it, \nthe more and more this feeling grows."
-        },
-        {
-            "text": "Cesario……are you really okay with that? You've thought \nit through? If you're forcing yourself to say this then……"
-        },
-        {
-            "text": "Cesario……are you really okay with that? You've thought \nit through? If you're forcing yourself to say this then……"
-        },
-        {
-            "text": "There's no need to hold yourself back. We'll \nhelp you in any way we can. If you want to run, \nthen you'll definitely be able to run again."
-        },
-        {
-            "text": "There's no need to hold yourself back. We'll \nhelp you in any way we can. If you want to run, \nthen you'll definitely be able to run again."
-        },
-        {
-            "name": "Cesario",
-            "text": "Run again…… That's true. If my injury heals, then definitely…… \nBut I'm not holding myself back. ……This is how I truly feel."
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer, if you think I'm making a mistake, please tell me. \nJust tell me 『You're being naive. Open your eyes』"
-        },
-        {
-            "name": "Cesario",
-            "text": "What……do you think?"
-        },
-        {
-            "text": "It's a difficult choice. Cesario was an Uma Musume that had won the \n『Oaks』 and 『American Oaks』. After that, her future life choices……"
-        },
-        {
-            "text": "If she could make a comeback, then I'm sure she'd \nattain even more glory. She could accomplish anything……"
-        },
-        {
-            "text": "Cesario……I want……",
+            "text": "Dia pengen ngelakuin hal lain? \nCesario, apa kamu punya ide?",
             "choice_data_list": [
-                "To help you with the dream you want most"
-            ]
-        },
-        {
-            "text": "Cesario……I want……",
-            "choice_data_list": [
-                "To help you with the dream you want most"
+                "Dia pengen ngelakuin hal lain? \nCesario, apa kamu punya ide?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "……Okay"
-        },
-        {
-            "text": "I can't stop her. It was a trainer's job \nto support their Uma Musumes' dreams."
-        },
-        {
-            "text": "On that day, as a team――we made the biggest decision we ever had."
-        },
-        {
-            "text": "On that day, as a team――we made the biggest decision we ever had."
-        },
-        {
-            "text": "The bus had arrived. Cesario boarded, \nshe was heading faraway in to the countryside."
-        },
-        {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Cesario～, take care!"
-        },
-        {
-            "name": "Single-knot Uma Musume",
-            "text": "You might be busy, but contact me on \nUmasta every now and then, okay?"
+            "text": "Iya…… Ini sesuatu yang sering aku bicarain sama Kraft. \nDan sama Trainer sama King-san sedikit. Sebenernya, aku……"
         },
         {
             "name": "Cesario",
-            "text": "Yes, I've been in your care, everyone. To start with, \nI need to do my best to adapt to my new environment."
+            "text": "Aku pengen……lebih terlibat dalam proses pelatihan."
         },
         {
-            "text": "Cesario had been assigned to a small local Uma Musume school \nto help take care of the children. And while recuperating, \nshe would consider whether or not to return to the academy."
+            "name": "Cesario",
+            "text": "Aku mau bantu besarin Uma Musume yang lebih muda. \nBesarin mereka, terus bantu mereka balapan."
+        },
+        {
+            "name": "Cesario",
+            "text": "Itu jalan yang dibuat Kraft dan aku. \nDouble Crown yang nggak biasa, dan tantangan Amerika."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan dari sini, Kraft akan terus bantu buat \njalan itu. Triple Crown yang nggak biasa, dan tempat \nbuat Tiara Musume lanjut ke kelas Senior."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makin lama aku mikirinnya, \nperasaan ini makin kuat aja."
+        },
+        {
+            "text": "Cesario……apa kamu beneran okay dengan itu? Udah dipikirin \nmatang-matang? Kalau kamu memaksa diri ngomong gini……"
+        },
+        {
+            "text": "Cesario……apa kamu beneran okay dengan itu? Udah dipikirin \nmatang-matang? Kalau kamu memaksa diri ngomong gini……"
+        },
+        {
+            "text": "Nggak perlu nahan-nahan. Kami akan bantu \nkamu semampu kami. Kalau kamu pengen lari, \npasti kamu bakal bisa lari lagi."
+        },
+        {
+            "text": "Nggak perlu nahan-nahan. Kami akan bantu \nkamu semampu kami. Kalau kamu pengen lari, \npasti kamu bakal bisa lari lagi."
+        },
+        {
+            "name": "Cesario",
+            "text": "Lari lagi…… Bener juga. Kalau cederaku sembuh, pasti…… \nTapi aku nggak nahan-nahan. ……Ini perasaanku yang sebenernya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer, kalau kamu pikir aku salah, tolong bilang. \nBilang aja 『Kamu naif. Buka matamu』"
+        },
+        {
+            "name": "Cesario",
+            "text": "Menurutmu……gimana?"
+        },
+        {
+            "text": "Ini pilihan yang sulit. Cesario adalah Uma Musume yang menang \n『Oaks』 dan 『American Oaks』. Setelah itu, pilihan hidup masa depannya……"
+        },
+        {
+            "text": "Kalau dia bisa comeback, pasti dia bakal \nraih lebih banyak kejayaan. Dia bisa capai apapun……"
+        },
+        {
+            "text": "Cesario……aku pengen……",
+            "choice_data_list": [
+                "Bantu kamu dengan mimpi yang paling kamu pengen"
+            ]
+        },
+        {
+            "text": "Cesario……aku pengen……",
+            "choice_data_list": [
+                "Bantu kamu dengan mimpi yang paling kamu pengen"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……Oke"
+        },
+        {
+            "text": "Aku nggak bisa hentikan dia. Tugas trainer adalah \nuntuk mendukung mimpi Uma Musume-nya."
+        },
+        {
+            "text": "Di hari itu, sebagai tim――kami bikin keputusan terbesar yang pernah ada."
+        },
+        {
+            "text": "Di hari itu, sebagai tim――kami bikin keputusan terbesar yang pernah ada."
+        },
+        {
+            "text": "Bisnya udah dateng. Cesario naik, \ndia menuju pedesaan yang jauh."
+        },
+        {
+            "name": "Gadis kuda A",
+            "text": "Cesario～, hati-hati ya!"
+        },
+        {
+            "name": "Gadis kuda B",
+            "text": "Mungkin kamu sibuk, tapi hubungi aku lewat \nUmasta sesekali, oke?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya, makasih ya udah nemenin, semuanya. Pertama-tama, \naku harus berusaha beradaptasi sama lingkungan baruku."
+        },
+        {
+            "text": "Cesario ditugaskan ke sekolah Uma Musume kecil di daerah \nuntuk bantu urus anak-anak. Dan sambil memulihkan diri, \ndia akan pertimbangkan mau balik ke akademi atau nggak."
         },
         {
             "name": "King Halo",
-            "text": "Cesario-san, don't forget. Whereever you go and \nwhatever you do――you're a part of our team. Got it?"
+            "text": "Cesario-san, jangan lupa. Kemana pun kamu pergi \ndan apa pun yang kamu lakuin――kamu bagian dari tim kita. Ngerti?"
         },
         {
             "name": "Cesario",
-            "text": "King-san……Yes……"
+            "text": "King-san……Iya……"
         },
         {
             "name": "Cesario",
-            "text": "Trainer, someday, I want the girls \nthat I raise to join Team <Ascella>"
+            "text": "Trainer, suatu hari nanti, aku pengen gadis-gadis \nyang aku besarin gabung Tim <Ascella>"
         },
         {
             "name": "Cesario",
-            "text": "No, maybe it would be more fun to run against \nyour team as rivals? If so…… then, maybe…… Fufu."
+            "text": "Atau, mungkin lebih seru kalau jadi rival tim kamu? \nKalau gitu…… ya, mungkin…… Fufu."
         },
         {
-            "text": "Yeah, I'll be looking forward to it. If it's a girl \ntaught by Cesario then, either way it'll be great."
+            "text": "Iya, aku tunggu ya. Kalau itu gadis yang \ndiajarin Cesario, bagaimanapun pasti keren."
         },
         {
-            "text": "Yeah, I'll be looking forward to it. If it's a girl \ntaught by Cesario then, either way it'll be great."
+            "text": "Iya, aku tunggu ya. Kalau itu gadis yang \ndiajarin Cesario, bagaimanapun pasti keren."
         },
         {
             "name": "Rhein Kraft",
-            "text": "……Cesario \nI……"
+            "text": "……Cesario \nAku……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "I'll do my best to get that Unorthodox Triple Crown. \nEnough for Cesario's part too……"
+            "text": "Aku bakal usaha buat dapetin Triple Crown yang nggak biasa itu. \nCukup buat bagian Cesario juga……"
         },
         {
             "name": "Cesario",
-            "text": "Kraft…… Yeah, I believe in you. \nIf it's Kraft, then for sure……"
+            "text": "Kraft…… Iya, aku percaya sama kamu. \nKalau Kraft, pasti……"
         },
         {
             "name": "Rhein Kraft",
@@ -324,21 +324,21 @@
         },
         {
             "name": "Cesario",
-            "text": "Kraft, let's meet again."
+            "text": "Kraft, sampai ketemu lagi."
         },
         {
             "name": "Cesario",
-            "text": "In that 『Future we always dreamed of』"
+            "text": "Di 『Masa depan yang selalu kita impikan』"
         },
         {
             "name": "Rhein Kraft",
             "text": "Cesario!!"
         },
         {
-            "text": "An irreplaceable friend departs. The conclusion of the \nstory of these two that ran the Triple Tiara――"
+            "text": "Teman yang nggak tergantikan pergi. Akhir dari \ncerita dua orang yang berlari di Triple Tiara――"
         },
         {
-            "text": "This autumn, everything was entrusted \nto Rhein Kraft. Our remaining ace."
+            "text": "Musim gugur ini, semuanya dipercayakan \npada Rhein Kraft. Ace kami yang tersisa."
         }
     ]
 }

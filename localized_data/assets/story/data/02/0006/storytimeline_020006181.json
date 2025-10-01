@@ -1,266 +1,266 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Yesterday's 『Prix de l'Arc de Triomphe』, \nwas a close one, wasn't it～!?",
-            "name": "Sociable Young Man"
-        },
-        {
-            "text": "Rather than close, I'd say it was a valiant effort.",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "Montjeu's finishing strength, that seriously isn't a joke! \nWho do you think could beat that!?",
-            "name": "Sociable Young Man"
-        },
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "Well, in Japan, El Condor Pasa probably had the \nhighest chance of doing that, without a doubt.",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "You were always saying that, huh. \nEl Condor Pasa is only #1 in Japan.",
-            "name": "Sociable Young Man"
-        },
-        {
-            "text": "But yeah, even though I already understood that, \nI guess things just aren't that easy――",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "I guess #1 in Japan is only to this level.",
-            "name": "Serious-looking Young Man"
-        },
-        {
-            "text": "……#1 in Japan is only……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Become! Japan's #1-～!",
-            "name": "Special Week"
-        },
-        {
-            "text": "……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The week after the 『Prix de l'Arc de Triomphe』 \nwould be the 『Kyoto Daishoten』――"
-        },
-        {
-            "text": "In preparation for that race, \nSpecial Week's training was in full swing."
-        },
-        {
-            "text": "Haa……Haa……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe-san, are you okay……?",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Ah, ahaha……I just messed up my pacing.",
-            "name": "Special Week"
-        },
-        {
-            "text": "……should we take a break for now?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "No…… I'm fine. I just need to catch my breath……",
-            "name": "Special Week"
-        },
-        {
-            "text": "She said that while smiling, maybe it was because she was out of \nbreath, but her expression seemed stiff."
-        },
-        {
-            "text": "Probably because Kyoto's 2400m will be her first \nof that distance. While keeping the course in \nmind, focus on your pace and the distance.",
-            "name": "<username>"
-        },
-        {
-            "text": "Probably because Kyoto's 2400m will be her first \nof that distance. While keeping the course in \nmind, focus on your pace and the distance.",
-            "name": "<username>"
-        },
-        {
-            "text": "The 『Kyoto Daishoten』, let's stay focused as \nwe prepare for autumn's G1s! Let's get one \nstep closer to \"Japan's #1 Uma Musume\"!",
-            "name": "<username>"
-        },
-        {
-            "text": "The 『Kyoto Daishoten』, let's stay focused as \nwe prepare for autumn's G1s! Let's get one \nstep closer to \"Japan's #1 Uma Musume\"!",
-            "name": "<username>"
-        },
-        {
-            "text": "\"Japan's #1\"……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Become \"Japan's #1 Uma Musume\", and then what……?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe……?",
-            "name": "<username>"
-        },
-        {
-            "text": "Oh, nothing……! \nI've calmed down a bit, so I'll go do one more lap.",
-            "name": "Special Week"
-        },
-        {
-            "text": "(2400m……focus on pacing and the distance……)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(Win the 『Kyoto Daishoten』, stay focused, \nprepare for autumn's G1s……)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(……And get one step closer to \"Japan's #1 Uma Musume\"……)",
-            "name": "Special Week"
-        },
-        {
-            "text": "『Japan's El Condor Pasa, she was so close…… \nshe was so very close but was passed at the end!』",
-            "name": "TV Announcer"
-        },
-        {
-            "text": "『This is the wall known as the world! \nEl Condor Pasa is defeated and places 2nd!』",
-            "name": "TV Announcer"
-        },
-        {
-            "text": "(……Becoming \"Japan's #1 Uma Musume\", what does that even mean……?)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(……A reason to run in races, what does that mean……?)",
-            "name": "Special Week"
-        },
-        {
-            "text": "Autumn's stage approaches, and the Uma Musume that are at the \ncenter of attention have gathered. 『Kyoto Daishoten』 GII――",
-            "name": "Announcer"
-        },
-        {
-            "text": "The favorite is Special Week, along with her achievements \nin spring, she's garnered the support of many!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Following on, second is Mejiro Bright, and third is TM Opera O, \nboth of whom have G1 victories adding to their popularity!",
-            "name": "Announcer"
-        },
-        {
-            "text": "However, don't take your eyes off this Uma Musume either! \nStarting in the summer, she's already made it to 4th in \npopularity, Tsurumaru Tsuyoshi!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Finally, I've finally made it! \nA GII Race! The 『Kyoto Daishoten』!!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "All this time I've had to just watch from behind, no matter how \nmuch I wanted to run, I could only imagine it……",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "But today, I will run here! A race with several G1 Uma Musume, \na race with everyone, me too――",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "……! Spe-chan!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ah, Tsuru-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Ehehe, they said Spe-chan is the favorite! \nYou're really amazing, huh!?",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "But but! I'm in great condition! \nFor the sake of this day, I've really given it my best!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hm……? Spe-chan……?",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ah, no. Tsuru-chan, you really did your best, huh?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Ehehehe, yeah!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "You see, I'm a little proud of myself that I'm able to stand here. \nIt took a really, really long time to make it here……",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "……Alllright, show some spirit when you run, Tsuyoshi! \nI'll run my heart out with these G1 Uma Musume!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Spe-chan, come at me with everything you've got too! \nShow me what the Derby Uma Musume is made of!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Y-yeah……",
-            "name": "Special Week"
-        },
-        {
-            "text": "200m remain! Special's movements seem off! \nSpecial's movements seem off!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Haa……haa……kuu……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "……!?",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "From the inside comes Mejiro Bright!",
-            "name": "Announcer"
-        },
-        {
-            "text": "TM Opera O also pushes forward!",
-            "name": "Announcer"
-        },
-        {
-            "text": "But in the lead is Tsurumaru Tsuyoshi! Tsurumaru Tsuyoshi!",
-            "name": "Announcer"
-        },
-        {
-            "text": "This is late arrival of the \"Golden Generation's\" hidden weapon! \nThe one to win the [Kyoto Daishoten] is Tsurumaru Tsuyoshi!",
-            "name": "Announcer"
-        },
-        {
-            "text": "2nd place was Mejiro Bright! 3rd was TM Opera O!",
-            "name": "Announcer"
-        },
-        {
-            "text": "The favorite, Special Week, this is the first time she hasn't \nbeen registered on the board!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Haa……haa……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Haa……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe-chan……",
-            "name": "Tsurumaru Tsuyoshi"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Kemarin di 『Prix de l'Arc de Triomphe』, gila deh tipis banget ya～!?",
+      "name": "Pemuda Supel"
+    },
+    {
+      "text": "Kalau menurutku sih bukan tipis, \nlebih kayak usaha yang gagah banget.",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Kekuatan finish-nya Montjeu itu beneran ga main-main! \nSiapa coba yang bisa ngalahin dia!?",
+      "name": "Pemuda Supel"
+    },
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "Yah, di Jepang sih, El Condor Pasa jelas yang paling mungkin bisa lawan itu.",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Kamu selalu bilang gitu ya. \nEl Condor Pasa tuh juara cuma di Jepang.",
+      "name": "Pemuda Supel"
+    },
+    {
+      "text": "Tapi iya juga sih, walaupun aku udah paham, \nternyata nggak semudah itu――",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "Juara Jepang ya… ternyata cuma segini doang levelnya.",
+      "name": "Pemuda Serius"
+    },
+    {
+      "text": "……Juara Jepang cuma segini……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku harus jadi juara Jepang-～!",
+      "name": "Special Week"
+    },
+    {
+      "text": "……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Seminggu setelah 『Prix de l'Arc de Triomphe』 \nada balapan 『Kyoto Daishoten』――"
+    },
+    {
+      "text": "Buat persiapan ke situ, latihan Special Week lagi gila-gilaan."
+    },
+    {
+      "text": "Haa……haa……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe-san, kamu baik-baik aja……?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Ah, ahaha……aku salah jaga ritme aja kok.",
+      "name": "Special Week"
+    },
+    {
+      "text": "……mau istirahat bentar aja?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Nggak……aku masih kuat. \nCuma butuh tarik napas dikit……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dia bilang sambil senyum, tapi mungkin gara-gara ngos-ngosan, \nmukanya keliatan kaku."
+    },
+    {
+      "text": "Mungkin karena jarak 2400m di Kyoto ini bakal jadi yang pertama buat dia. \nJadi inget rute lintasan, terus fokus ke ritme sama jaraknya ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Mungkin karena jarak 2400m di Kyoto ini bakal jadi yang pertama buat dia. \nJadi inget rute lintasan, terus fokus ke ritme sama jaraknya ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "『Kyoto Daishoten』 ini, ayo kita tetep fokus biar siap buat G1 musim gugur! \nBiar bisa selangkah lebih deket ke \"Uma Musume nomor 1 Jepang\"!",
+      "name": "<username>"
+    },
+    {
+      "text": "『Kyoto Daishoten』 ini, ayo kita tetep fokus biar siap buat G1 musim gugur! \nBiar bisa selangkah lebih deket ke \"Uma Musume nomor 1 Jepang\"!",
+      "name": "<username>"
+    },
+    {
+      "text": "\"Nomor 1 Jepang\"……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jadi \"Uma Musume nomor 1 Jepang\", terus habis itu apa……?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe……?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ah, nggak kok……! \nAku udah lumayan tenang, jadi mau lari satu putaran lagi.",
+      "name": "Special Week"
+    },
+    {
+      "text": "(2400m……fokus ke ritme sama jarak……)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Menang 『Kyoto Daishoten』, tetep fokus, \nsiap buat G1 musim gugur……)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(……Dan selangkah lebih deket ke \"Uma Musume nomor 1 Jepang\"……)",
+      "name": "Special Week"
+    },
+    {
+      "text": "『El Condor Pasa dari Jepang, hampir banget…… \nbener-bener tinggal dikit lagi tapi dilewatin di akhir!』",
+      "name": "Penyiar TV"
+    },
+    {
+      "text": "『Inilah tembok yang disebut dunia! \nEl Condor Pasa kalah dan finish di posisi 2!』",
+      "name": "Penyiar TV"
+    },
+    {
+      "text": "(……Jadi \"Uma Musume nomor 1 Jepang\", maksudnya apa sih……?)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(……Alasan ikut balapan, maksudnya apa……?)",
+      "name": "Special Week"
+    },
+    {
+      "text": "Musim gugur datang, Uma Musume yang jadi sorotan udah kumpul. 『Kyoto Daishoten』 GII――",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Unggulan utama Special Week! \nBerkat prestasi musim semi kemarin, sekarang dia dapet banyak dukungan!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Menyusul ada Mejiro Bright di posisi dua, dan TM Opera O di posisi tiga, \nkeduanya pernah menang G1 juga jadi populer banget!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Tapi jangan lupa sama satu Uma Musume ini! \nSejak musim panas kemarin dia udah naik, \nsekarang ada di posisi 4 popularitas, Tsurumaru Tsuyoshi!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Akhirnya! Aku bisa juga masuk balapan GII! 『Kyoto Daishoten』!!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Selama ini aku cuma bisa nonton dari belakang, \nmeskipun pengen banget lari, aku cuma bisa bayangin……",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tapi hari ini aku bakal lari di sini! \nBareng beberapa Uma Musume G1, bareng semuanya, aku juga――",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "……! Spe-chan!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ah, Tsuru-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ehehe, katanya Spe-chan jadi unggulan utama! \nKamu beneran keren ya!?",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tapi tapi! Kondisiku lagi bagus banget! \nBuat hari ini, aku bener-bener udah kasih segalanya!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hm……? Spe-chan……?",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ah, nggak. Tsuru-chan, kamu beneran udah usaha keras ya?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ehehehe, iya!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Aku bangga banget bisa berdiri di sini. \nButuh waktu yang lama banget buat sampai sini……",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "……Oke deh, tunjukin semangatmu, Tsuyoshi! \nAku bakal lari sepenuh hati bareng Uma Musume G1 ini!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Spe-chan, kamu juga kasih semua yang kamu punya ya! \nTunjukin ke aku kemampuan Uma Musume Derby!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Y-ya……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tinggal 200m lagi! Gerakan Special keliatan aneh! \nGerakan Special keliatan aneh!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Haa……haa……kuu……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "……!?",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Dari dalam, Mejiro Bright mulai maju!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "TM Opera O juga nyusul ke depan!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Tapi yang masih di depan Tsurumaru Tsuyoshi! \nTsurumaru Tsuyoshi!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Inilah senjata tersembunyi dari \"Generasi Emas\"! \nPemenang [Kyoto Daishoten] adalah Tsurumaru Tsuyoshi!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Posisi 2 Mejiro Bright! Posisi 3 TM Opera O!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Unggulan utama, Special Week, untuk pertama kalinya gagal masuk papan!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Haa……haa……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Haa……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe-chan……",
+      "name": "Tsurumaru Tsuyoshi"
+    }
+  ]
 }

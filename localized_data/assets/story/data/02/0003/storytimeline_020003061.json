@@ -1,182 +1,182 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "On New Year's Eve, Me, Winning Ticket, Narita Taishin and Biwa \nHayahide came to our first shrine visit of the year together."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Wow～, there are many people here! The shrine visit of the New \nYear is like a Derby!",
-            "choice_data_list": [
-                "What do you mean?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Like I said, aren't there many people \nhere? It's the same with the Derby!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Everything you say and think of always \nconnects with the Derby in the end…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Later on, she might say that the washing \nmachine is as noisy as the Derby."
-        },
-        {
-            "text": "Even so, the 3 of you achieved good results this year."
-        },
-        {
-            "text": "Even so, the 3 of you achieved good results this year."
-        },
-        {
-            "text": "Winning Ticket won 2 races in a row after her first win. The \nother 2 were also successful."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "It was frustrating that I didn't get the “Best Junior” Award…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I was wondering if I could get it, I had some hope."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Look here, it's because If you were chosen at the awards \nceremony, you would just cry up there."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "If I really lost the election for that \nreason, that would be too mean!"
-        },
-        {
-            "text": "You 3 will be able to reach the classic \nsoon. Just be proud of it."
-        },
-        {
-            "text": "You 3 will be able to reach the classic \nsoon. Just be proud of it."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah-yeah! “SatsukiShou” and “Japan Derby” and “Kikkashou” ! \nEspecially the Derby, the Derby!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "No matter which one you win, it's an honor… \nIt's something I want to make a priority."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Alright, I'm gonna ask god properly for help! May you win the \n“Yayoi Prize” and get to compete in the classic race!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "After that! To run with Taishin and Hayaide! Banban!"
-        },
-        {
-            "text": "Friends who have promised to run together in the same \nraceー This is the goal they have been pursuing from \nthe time these 3 girls became classmates."
-        },
-        {
-            "text": "And that goal was about to be achieved sooner than expected."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hey! Hot news-big news～～!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Guess what, it was decided that Taishin will also appear in the \n“Yayoi Prize” the same in which Tickezou will take part in!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Taishin will!? Wow～～! The time has finally \ncome to race together～～～!!!!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "haha, you can't afford to be only happy. Taishin-san's strong \nperformance is about to become a hot topic."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! That's why I have to do my best too!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Trainer-san! I want to increase my top speed down my final spurt…"
-        },
-        {
-            "text": "What you're saying is getting more and more specific. It is \nevidence that you can think about what exactly you want to train."
-        },
-        {
-            "text": "What you're saying is getting more and more specific. It is \nevidence that you can think about what exactly you want to train."
-        },
-        {
-            "text": "The presence of rivals is inspiring \nfor Winning Ticket in a good way."
-        },
-        {
-            "text": "An irreplaceable presence that elevates one another… In order to \nrespond to such an existence, Narita Taishinー",
-            "choice_data_list": [
-                "Let's do our best!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! Come at me!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "The day of the “Yayoi Prize” has arrived! Each Horse Girl is \ncoming up on the turf!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hey! We're walking down the underground road together! Taishin!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Don't make a loud noise, it will echo."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Haha, you 2 are the same as always."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "After all, we are rivals, a rival! “Friend” \nis written down as “Rival”!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Just leave it at that!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Running together with Ticket is certainly something special, but \nI will run the same as always, nothing will change."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Run with all my might, and go for the win."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah, it's the same for me! Running together is not a goal, we \nhave to win properly!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Show me how both of you run. You have \nto race in the name of your rivals."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Of course!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Yeah, I will be going."
-        },
-        {
-            "text": "And finally, as the first confrontation with a friend happened at \nthe “Yayoi Prize” the fans' cheers echoed."
-        },
-        {
-            "name": "Commentator",
-            "text": "Which Horse Girl will win the “Yayoi Prize”? All Horse Girls are \ncurrently at the gateー"
-        },
-        {
-            "name": "Commentator",
-            "text": "Now, they started!"
-        }
-    ]
+  "conversation": [
+    {
+      "speaker": "Narasi",
+      "text": "Malam Tahun Baru, aku, Winning Ticket, Narita Taishin, \ndan Biwa Hayahide bareng-bareng ke kuil buat doa pertama tahun ini."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Wah～, banyak banget orangnya! \nKunjungan tahun baru itu rasanya kayak Derby!",
+      "choice_data_list": [
+        "Maksudmu gimana?"
+      ]
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya kan, banyak orang banget di sini? \nSama kayak Derby!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Semua yang kamu pikirin atau omongin ujung-ujungnya selalu nyambung ke Derby…"
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Nanti mungkin dia bilang mesin cuci aja ributnya kayak Derby."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Meski begitu, kalian bertiga berhasil meraih hasil bagus tahun ini."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Winning Ticket menang 2 balapan berturut-turut setelah kemenangan pertamanya. \nDua yang lain juga berhasil."
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Nyebelin banget nggak dapet ‘Best Junior’…"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Aku sempet mikir, apa bisa dapet, ada harapan sih."
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Liat deh, kalau dipanggil buat award, pasti cuma bakal nangis di atas panggung."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Kalau aku beneran nggak dapet cuma karena itu, kasian banget sih!"
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Kalian bertiga bakal bisa ikut classic race sebentar lagi. \nBangga aja sama itu."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya-iya! ‘SatsukiShou’, ‘Japan Derby’, sama ‘Kikkashou’! \nApalagi Derby, Derby banget!"
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Menang yang mana pun, itu kehormatan… \nsesuatu yang harus diutamakan."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Oke, aku bakal minta bantuan Tuhan bener-bener! \nSemoga menang ‘Yayoi Prize’ dan bisa ikut classic race!"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Abis itu! Bisa lari bareng Taishin dan Hayahide! \nAsik banget!"
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Teman-teman yang udah janji lari bareng di balapan yang sama—\nini tujuan yang udah mereka kejar sejak jadi temen sekelas."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Dan tujuan itu bakal tercapai lebih cepat dari perkiraan."
+    },
+    {
+      "speaker": "Gold Ship",
+      "text": "Hei! Berita panas～～!"
+    },
+    {
+      "speaker": "Gold Ship",
+      "text": "Tebak apa, diputusin Taishin juga bakal ikut ‘Yayoi Prize’, \nyang sama tempat Ticket bakal balapan!"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Taishin bakal ikut!? Wah～～! \nAkhirnya waktunya balapan bareng～～～!!!!"
+    },
+    {
+      "speaker": "Mejiro McQueen",
+      "text": "Haha, jangan cuma seneng aja. \nPerforma Taishin bakal jadi bahan omongan banget."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya! Makanya aku juga harus maksimal!"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Trainer! Aku pengen ningkatin top speed pas sprint terakhir…"
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Yang kamu omongin makin spesifik. \nBukti kalau kamu ngerti latihan apa yang pengen ditingkatin."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Ada rival itu bikin Winning Ticket makin semangat, secara positif."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Keberadaan yang nggak tergantikan, saling bikin lebih baik… \nbuat ngejar itu, Narita Taishin—",
+      "choice_data_list": [
+        "Ayo semangat!"
+      ]
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya! Hadapin aku!!"
+    },
+    {
+      "speaker": "Komentator",
+      "text": "Hari ‘Yayoi Prize’ tiba! \nSetiap Horse Girl mulai masuk ke turf!"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Hei! Kita turun dari jalan bawah tanah bareng! \nTaishin!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Jangan ribut, nanti gaungnya nyebar."
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Haha, kalian berdua emang sama aja kayak biasanya."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Ya, kita kan rival! Rival! \n‘Teman’ itu ditulisnya sebagai ‘Rival’!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Udah lah, cukup begitu aja!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Lari bareng Ticket memang spesial, \ntapi aku bakal lari kayak biasa, nggak ada yang berubah."
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Lari sekuat tenaga, dan fokus menang."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya, aku juga gitu! \nLari bareng bukan tujuan, kita harus menang beneran!"
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Tunjukin aku gimana kalian lari. \nBalapan harus buat rival kalian."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Tentu aja!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Iya, aku siap."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Dan akhirnya, di konfrontasi pertama bareng temen di ‘Yayoi Prize’, \nsorak sorai fans bergema."
+    },
+    {
+      "speaker": "Komentator",
+      "text": "Siapa yang bakal menang ‘Yayoi Prize’? \nSemua Horse Girl sekarang udah di gate—"
+    },
+    {
+      "speaker": "Komentator",
+      "text": "Sekarang, mereka mulai!"
+    }
+  ]
 }

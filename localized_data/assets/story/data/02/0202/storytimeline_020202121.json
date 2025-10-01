@@ -2,8 +2,8 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Announcer",
-            "text": "Whoa, what's happened to Rhein Kraft? Placing 4th as the favorite!"
+            "name": "Penyiar",
+            "text": "Wah, ada apa dengan Rhein Kraft? Finis ke-4 sebagai favorit!"
         },
         {
             "name": "???",
@@ -11,494 +11,494 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I don't……know anymore…… \nI can't win……and I don't know what to do……)"
+            "text": "(Aku nggak… tau lagi… \nAku nggak bisa menang… dan nggak tau harus ngapain…)"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Eh, this sound……"
+            "text": "Eh, suara ini…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "No way…… That can't be…… \nJust now……from my dream……"
+            "text": "Nggak mungkin… Itu nggak mungkin… \nBarusan… dari mimpiku…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Is this……a dream too……? \nHave I already been swallowed up, and now I'll never……?"
+            "text": "Apa ini… mimpi juga…? \nApa aku udah ditelan, dan sekarang nggak akan pernah…?"
         },
         {
             "name": "Rhein Kraft",
-            "text": "I can't……anymore…… \nRunning is impossible now……"
+            "text": "Aku nggak bisa… lagi… \nLari sekarang mustahil…"
         },
         {
-            "name": "Old Man Reading Newspaper",
-            "text": "Let's see, for the races over the past year. \nTeam ＜Ascella＞. They were doing great in the spring though."
+            "name": "Kakek Baca Koran",
+            "text": "Coba lihat, untuk balapan setahun terakhir. \nTim ＜Ascella＞. Mereka bagus banget di musim semi."
         },
         {
-            "name": "Announcer",
-            "text": "It seems like Cesario's withdrawal had a serious impact \nafter all. The team doesn't appear to be doing very well."
+            "name": "Penyiar",
+            "text": "Sepertinya mundurnya Cesario berdampak serius. \nTimnya keliatannya nggak berjalan baik."
         },
         {
-            "name": "Commentator",
-            "text": "That's true. There doesn't seem to be a chance \nof her returning anytime soon either. But, let's \nhope that Rhein Kraft can work twice as hard."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Ugh……!"
+            "name": "Komentator",
+            "text": "Benar juga. Kayaknya nggak ada kemungkinan \ndia balik dalam waktu dekat. Tapi, mari kita \nharap Rhein Kraft bisa kerja dua kali lipat."
         },
         {
             "name": "Rhein Kraft",
-            "text": "I'm sorry, everyone. \nI'm sorry……"
+            "text": "Ugh…!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Maaf, semuanya. \nMaaf…"
         },
         {
             "name": "King Halo",
-            "text": "Huu, they're really writing whatever they want. \nIt's just filled with mindless gossip and whining \nabout how it seems like it's all over."
+            "text": "Huu, mereka benar-benar nulis semaunya. \nIsinya cuma gosip dan keluhan \nsoalnya keliatannya udah berakhir."
         },
         {
             "name": "King Halo",
-            "text": "Trainer, now Kraft is the same as us, isn't \nshe? Just like how after the 『Japan Derby』 \nnothing seemed to go our way, she's just like us."
+            "text": "Trainer, sekarang Kraft sama kayak kita, kan? \nKayak habis 『Japan Derby』 dulu \nnggak ada yang beres, dia sama kayak kita."
         },
         {
             "name": "King Halo",
-            "text": "We just kept on losing, losing, and losing, and then…… finally……"
+            "text": "Kita terus kalah, kalah, dan kalah, lalu… akhirnya…"
         },
         {
             "name": "King Halo",
-            "text": "Kuu……another utter defeat……! \nSo, what did you want to talk about, Trainer?"
+            "text": "Kuu… kekalahan telak lagi…! \nJadi, mau ngobrol apa, Trainer?"
         },
         {
-            "text": "I just wanted……to ask you something."
+            "text": "Aku cuma… mau tanya sesuatu."
         },
         {
-            "text": "I just wanted……to ask you something."
-        },
-        {
-            "name": "King Halo",
-            "text": "What's with the somber face? \nThings can't get more depressing than this, right?"
-        },
-        {
-            "text": "I want to help you win, at any cost. \nAnd I'll……do anything!"
-        },
-        {
-            "text": "I want to help you win, at any cost. \nAnd I'll……do anything!"
+            "text": "Aku cuma… mau tanya sesuatu."
         },
         {
             "name": "King Halo",
-            "text": "Do anything……? \nWhat's……that paper in your hand……?"
+            "text": "Kenapa mukanya suram? \nNggak mungkin lebih suram dari ini, kan?"
+        },
+        {
+            "text": "Aku mau bantu kamu menang, bagaimanapun caranya. \nDan aku… akan lakukan apa pun!"
+        },
+        {
+            "text": "Aku mau bantu kamu menang, bagaimanapun caranya. \nDan aku… akan lakukan apa pun!"
         },
         {
             "name": "King Halo",
-            "text": "Transfer……what do you mean?"
+            "text": "Lakukan apa pun…? \nApa… kertas di tanganmu…?"
         },
         {
             "name": "King Halo",
-            "text": "Are you saying we're disbanding our duo? \nThey told you they'd be willing to accept me?"
-        },
-        {
-            "text": "Yeah, I thought it wasn't a bad offer. For your sake."
-        },
-        {
-            "text": "Yeah, I thought it wasn't a bad offer. For your sake."
+            "text": "Transfer… maksudnya apa?"
         },
         {
             "name": "King Halo",
-            "text": "Wasn't bad……huh."
+            "text": "Apa kita bubarkan duo kita? \nMereka bilang mau terima aku?"
+        },
+        {
+            "text": "Iya, kurasa tawarannya nggak buruk. Demi kamu."
+        },
+        {
+            "text": "Iya, kurasa tawarannya nggak buruk. Demi kamu."
         },
         {
             "name": "King Halo",
-            "text": "You're right. If things are going wrong, then changes \nhave to be made. It might be better for me. But……"
+            "text": "Nggak buruk… ya."
         },
         {
             "name": "King Halo",
-            "text": "But what about for \"us\"!?"
-        },
-        {
-            "text": "Us……"
+            "text": "Kamu benar. Kalau ada yang salah, perubahan \nharus dilakukan. Mungkin lebih baik buat aku. Tapi…"
         },
         {
             "name": "King Halo",
-            "text": "Are you fine with only one of us being rewarded? \nThat one of our dreams will be fulfilled, but the \nother will disappear. Are you really okay with that?"
+            "text": "Tapi gimana dengan \"kita\"!?"
+        },
+        {
+            "text": "Kita…"
         },
         {
             "name": "King Halo",
-            "text": "Can you really say――\n――that that's what makes a first-rate duo?"
-        },
-        {
-            "text": "But, there's nothing we can……"
-        },
-        {
-            "text": "But, there's nothing we can……"
+            "text": "Apa kamu rela cuma satu yang dapat hadiah? \nBahwa satu mimpi kita tercapai, tapi yang \nlain menghilang. Apa kamu beneran rela?"
         },
         {
             "name": "King Halo",
-            "text": "Is there really nothing!?"
+            "text": "Apa kamu bisa bilang――\n――kalau itu yang bikin duo kelas satu?"
+        },
+        {
+            "text": "Tapi, nggak ada yang bisa kita…"
+        },
+        {
+            "text": "Tapi, nggak ada yang bisa kita…"
         },
         {
             "name": "King Halo",
-            "text": "Just look harder! Is there really, really not a \nsingle thing left!? Open your eyes and look harder!"
+            "text": "Beneran nggak ada!?"
         },
         {
             "name": "King Halo",
-            "text": "With those eyes of yours, just what is it――that you see?"
+            "text": "Cari lagi! Apa beneran, beneran nggak ada \nsatu pun yang tersisa!? Buka matamu dan cari lagi!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Dengan matamu itu, apa sih――yang kamu lihat?"
         },
         {
             "text": "……King."
         },
         {
             "name": "King Halo",
-            "text": "That's right, me. When you look at me, \nis there anything you feel? Say it."
+            "text": "Benar, aku. Kalau kamu liat aku, \napa ada yang kamu rasakan? Bilang."
         },
         {
-            "text": "King. Together with King……"
+            "text": "King. Bersama King…"
         },
         {
-            "text": "I want to win a G1 together with King……!"
-        },
-        {
-            "name": "King Halo",
-            "text": "See, there is something! Even if you're thrown off, and even \nif you're beaten down, that feeling still remains, doesn't it?"
+            "text": "Aku pengen menang G1 bersama King…!"
         },
         {
             "name": "King Halo",
-            "text": "In you, and in me."
+            "text": "Nah, kan ada sesuatu! Meski kamu terlempar, dan meski \nkamu dijatuhkan, perasaan itu tetap ada, kan?"
         },
         {
             "name": "King Halo",
-            "text": "This feeling that hasn't changed this whole time, if you think you \ncan just throw it away now, why don't you just try to do it now!?"
+            "text": "Di dirimu, dan di diriku."
         },
         {
             "name": "King Halo",
-            "text": "If you're able to do that, then I will too. \nSo what will you do……with that paper?"
-        },
-        {
-            "text": "King, this paper……"
-        },
-        {
-            "text": "I'll give it back. I'll politely decline."
+            "text": "Perasaan yang nggak berubah selama ini, kalau kamu pikir \nbisa dibuang sekarang, coba aha buang sekarang!?"
         },
         {
             "name": "King Halo",
-            "text": "……Fufu, that's right. This feeling……if it was so \neasy to throw it away, we wouldn't be struggling here."
+            "text": "Kalau kamu bisa, aku juga akan. \nJadi apa yang akan kamu lakukan… dengan kertas itu?"
+        },
+        {
+            "text": "King, kertas ini…"
+        },
+        {
+            "text": "Aku akan kembalikan. Aku akan tolak dengan sopan."
         },
         {
             "name": "King Halo",
-            "text": "I'll do it. In the next race, \nthis time for sure――"
+            "text": "……Fufu, benar. Perasaan ini… kalau mudah \ndibuang, kita nggak akan bergumul di sini."
         },
         {
             "name": "King Halo",
-            "text": "I didn't throw myself away. And because I stood up again, \nas King, at that 『Takamatsunomiya Kinen』 I finally achieved it……"
+            "text": "Aku akan lakukan. Di balapan berikutnya, \nkali ini pasti――"
         },
         {
             "name": "King Halo",
-            "text": "I just wanted to prove my own worth, so, to be \nhonest, I don't really understand Kraft-san's \nfeeling of wanting to \"Leave something behind\". But……"
+            "text": "Aku nggak membuang diriku. Dan karena aku bangkit lagi, \nsebagai King, di 『Takamatsunomiya Kinen』 akhirnya aku berhasil…"
         },
         {
             "name": "King Halo",
-            "text": "If you don't throw these feelings away, then you'll \nbe able to reach it. That much……is the same. But \nwhether Kraft-san also believes that, I don't know."
-        },
-        {
-            "text": "That's right. ――I'll try to do something about that, King."
-        },
-        {
-            "text": "That's right. ――I'll try to do something about that, King."
+            "text": "Aku cuma mau buktikan nilai diriku, jadi, jujur \naja, aku nggak terlalu paham perasaan Kraft-san \nyang mau \"Meninggalkan sesuatu\". Tapi…"
         },
         {
             "name": "King Halo",
-            "text": "Yeah, at this point, the only one \nthat can convince her――is you, Trainer."
+            "text": "Kalau kamu nggak buang perasaan ini, kamu akan \nbisa mencapainya. Itu… sama. Tapi apa \nKraft-san juga percaya itu, aku nggak tau."
         },
         {
-            "text": "Carrying all of that, I went looking for Rhein Kraft. \nI had to somehow inspire her once again."
+            "text": "Benar. ――Aku akan coba urus itu, King."
         },
         {
-            "text": "It couldn't end with Rhein Kraft being gripped by a \nsense of helplessness and despair. I wouldn't let it!"
+            "text": "Benar. ――Aku akan coba urus itu, King."
+        },
+        {
+            "name": "King Halo",
+            "text": "Iya, di titik ini, satu-satunya yang \nbisa meyakinkannya――adalah kamu, Trainer."
+        },
+        {
+            "text": "Dengan membawa semua itu, aku cari Rhein Kraft. \nAku harus bangkitkan semangatnya sekali lagi."
+        },
+        {
+            "text": "Nggak boleh berakhir dengan Rhein Kraft diliputi \nrasa putus asa. Aku nggak akan biarkan!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Ah……Trainer-san……"
+            "text": "Ah… Trainer…"
         },
         {
-            "text": "Kraft……"
+            "text": "Kraft…"
         },
         {
-            "text": "She looked completely drained……I could tell just how much she was \nstruggling with one glance. I'd never seen Rhein Kraft like this."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Um……you see. Well…… \nI……had a thought. I was thinking……"
+            "text": "Dia keliatan benar-benar lemas… langsung keliatan betapa \ndia sedang berjuang. Aku belum pernah liat Rhein Kraft kayak gini."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Maybe……I was pushing myself too hard."
+            "text": "Um… gini. Ya… \nAku… punya pikiran. Aku mikir…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "The Triple Crown girls are really amazing…… \nThey're completely different from someone……reckless like me……"
+            "text": "Mungkin… aku terlalu memaksakan diri."
         },
         {
             "name": "Rhein Kraft",
-            "text": "They're……all always the topic of conversation. \nLike who'll win the 『Arima Kinen』 or who's number one."
+            "text": "Para gadis Triple Crown benar-benar luar biasa… \nMereka beda banget sama… orang ceroboh kayak aku…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Now that I think about it, ever since I debuted…… \npeople have been saying that they'll go on to do great things……"
+            "text": "Mereka… selalu jadi bahan pembicaraan. \nKayak siapa yang menang 『Arima Kinen』 atau siapa nomor satu."
         },
         {
             "name": "Rhein Kraft",
-            "text": "They really are amazing……"
+            "text": "Sekarang dipikir-pikir, sejak aku debut… \norang-orang bilang mereka akan melakukan hal hebat…"
         },
         {
-            "text": "An unreserved compliment. That was――a roundabout way of \nblaming herself for not being able to achieve something."
+            "name": "Rhein Kraft",
+            "text": "Mereka benar-benar luar biasa…"
         },
         {
-            "text": "The more those words were repeated, \nthe more Rhein Kraft was hurting herself……",
+            "text": "Pujian tanpa reserve. Itu――cara halus \nmenyalahkan diri sendiri karena nggak bisa mencapai sesuatu."
+        },
+        {
+            "text": "Semakin diulang kata-kata itu, \nsemakin Rhein Kraft menyakiti dirinya sendiri…",
             "choice_data_list": [
-                "But Kraft! Even you――",
-                "But Kraft! Even you――"
+                "Tapi Kraft! Bahkan kamu――",
+                "Tapi Kraft! Bahkan kamu――"
             ]
         },
         {
             "name": "Rhein Kraft",
-            "text": "Those Triple Crown girls……tens, hundreds of years \nfrom now, everyone will still remember them."
+            "text": "Para gadis Triple Crown itu… puluhan, ratusan tahun \ndari sekarang, semua orang akan ingat mereka."
         },
         {
             "name": "Rhein Kraft",
-            "text": "They'll keep running……in everyone's memories……"
+            "text": "Mereka akan terus berlari… di ingatan semua orang…"
         },
         {
-            "text": "Rhein Kraft wasn't going to even give me a chance to reach \nout to her. She was sinking more and more. More and more……"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "I……couldn't do it…… I couldn't achieve it…… \nNow, nobody is talking about me at all……"
+            "text": "Rhein Kraft bahkan nggak kasih aku kesempatan \nuntuk menjangkaunya. Dia semakin tenggelam. Semakin dalam…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "10 years from now, I'm sure noone will remember me. \nNobody will see it. I won't be able to reach anyone."
+            "text": "Aku… nggak bisa… Aku nggak berhasil… \nSekarang, nggak ada yang bahas aku sama sekali…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "But……it can't be helped."
+            "text": "10 tahun dari sekarang, pasti nggak ada yang ingat aku. \nNggak ada yang liat. Aku nggak bisa sampai ke siapa-siapa."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Gradually……it'll become harder and harder to win. That I \nwon't shine……that I won't leave anything behind is a given……"
+            "text": "Tapi… nggak bisa dipungkiri."
         },
         {
             "name": "Rhein Kraft",
-            "text": "That's just……me. An Uma Musume that won't be remembered \nby anyone and won't leave anything behind……!"
+            "text": "Perlahan… akan semakin susah menang. Bahwa aku \nnggak akan bersinar… bahwa aku nggak tinggalkan apa-apa sudah pasti…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "That's why! It's obvious that I would just disappear like this――",
+            "text": "Itu cuma… aku. Uma Musume yang nggak akan diingat \nsiapa-siapa dan nggak tinggalkan apa-apa…!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Makanya! Sudah jelas aku akan menghilang kayak gini――",
             "choice_data_list": [
-                "You're wrong!!!!!!"
+                "Salah!!!!!!"
             ]
         },
         {
             "name": "Rhein Kraft",
-            "text": "――!? \nTrainer……-san?",
+            "text": "――!? \nTrainer…?",
             "choice_data_list": [
-                "You're wrong! There's no way that's true!"
+                "Salah! Nggak mungkin itu benar!"
             ]
         },
         {
-            "text": "I inadvertently yelled……not just out of emotion. \nIt was what I believed as her trainer."
+            "text": "Aku tanpa sengaja berteriak… bukan cuma karena emosi. \nItu yang aku percaya sebagai trainernya."
         },
         {
-            "text": "There's no way you won't leave anything behind! \nI've always thought about your running!"
+            "text": "Nggak mungkin kamu nggak tinggalkan apa-apa! \nAku selalu memikirkan larianmu!"
         },
         {
-            "text": "There's no way you won't leave anything behind! \nI've always thought about your running!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "But that's……because Trainer-san is a trainer."
-        },
-        {
-            "text": "That's right. But that's not just favoritism. Since I'm a \ntrainer, I've seen so many Uma Musume running. And among them――"
-        },
-        {
-            "text": "That's right. But that's not just favoritism. Since I'm a \ntrainer, I've seen so many Uma Musume running. And among them――"
-        },
-        {
-            "text": "I've always thought about your running. Every time I see it, \nI can't help but think more and more about it."
-        },
-        {
-            "text": "I've always thought about your running. Every time I see it, \nI can't help but think more and more about it."
+            "text": "Nggak mungkin kamu nggak tinggalkan apa-apa! \nAku selalu memikirkan larianmu!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Yaa……!!"
+            "text": "Tapi itu… soalnya Trainer itu trainer."
         },
         {
-            "text": "――I couldn't forget. \nThe shock I felt the first time I saw you run."
+            "text": "Benar. Tapi itu bukan cuma favoritisme. Karena aku \ntrainer, aku udah liat banyak Uma Musume berlari. Dan di antaranya――"
         },
         {
-            "text": "――I couldn't forget. \nThe shock I felt the first time I saw you run."
+            "text": "Benar. Tapi itu bukan cuma favoritisme. Karena aku \ntrainer, aku udah liat banyak Uma Musume berlari. Dan di antaranya――"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Something like this……I'll show you I can handle it!! \nYaaaaaaaーーーー!!"
+            "text": "Aku selalu memikirkan larianmu. Setiap kali liat, \naku nggak bisa berhenti mikirin itu."
         },
         {
-            "text": "――I couldn't forget. \nAt the 『Hanshin JF』, the way you shined, never giving up."
-        },
-        {
-            "text": "――I couldn't forget. \nAt the 『Hanshin JF』, the way you shined, never giving up."
+            "text": "Aku selalu memikirkan larianmu. Setiap kali liat, \naku nggak bisa berhenti mikirin itu."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Start the spurt――Here!!!! \nYaaaaaーーーー!!"
+            "text": "Yaa…!!"
         },
         {
-            "text": "――I couldn't forget. Your first crown at the 『Oka Sho』. Taking \nthe title of Queen of the Cherry Blossoms. And then――"
+            "text": "――Aku nggak bisa lupa. \nTerkejutnya aku pertama kali liat kamu lari."
         },
         {
-            "text": "――I couldn't forget. Your first crown at the 『Oka Sho』. Taking \nthe title of Queen of the Cherry Blossoms. And then――"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Just like thiiiiiiisーーーー!!"
-        },
-        {
-            "text": "――I couldn't forget. How you carved a new path at \nthe 『NHK Mile C』 becoming the Pioneer, Rhein Kraft."
+            "text": "――Aku nggak bisa lupa. \nTerkejutnya aku pertama kali liat kamu lari."
         },
         {
             "name": "Rhein Kraft",
-            "text": "But……but compared to the Triple Crown Uma Musume……"
+            "text": "Yang kayak gini… akan kubuktikan bisa kuatasi!! \nYaaaaaaaーーーー!!"
         },
         {
-            "text": "It's true that she is an amazing Uma Musume. She might even \nbe one of the most awe-inspiring Uma Musume in history. But――"
+            "text": "――Aku nggak bisa lupa. \nDi 『Hanshin JF』, caramu bersinar, nggak pernah menyerah."
         },
         {
-            "text": "You won't lose to her!"
-        },
-        {
-            "text": "You won't lose to her!"
+            "text": "――Aku nggak bisa lupa. \nDi 『Hanshin JF』, caramu bersinar, nggak pernah menyerah."
         },
         {
             "name": "Rhein Kraft",
-            "text": "But that's……something only \nTrainer-san thinks……",
+            "text": "Mulai sprint――Di sini!!!! \nYaaaaaーーーー!!"
+        },
+        {
+            "text": "――Aku nggak bisa lupa. Mahkotamu pertama di 『Oka Sho』. \nMengambil gelar Ratu Bunga Sakura. Lalu――"
+        },
+        {
+            "text": "――Aku nggak bisa lupa. Mahkotamu pertama di 『Oka Sho』. \nMengambil gelar Ratu Bunga Sakura. Lalu――"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Seperti iniiiiiiーーーー!!"
+        },
+        {
+            "text": "――Aku nggak bisa lupa. Caramu buka jalan baru di \n『NHK Mile C』 menjadi Sang Perintis, Rhein Kraft."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi… tapi dibanding Uma Musume Triple Crown…"
+        },
+        {
+            "text": "Memang dia Uma Musume yang luar biasa. Bahkan mungkin \nsalah satu Uma Musume paling mengagumkan dalam sejarah. Tapi――"
+        },
+        {
+            "text": "Kamu nggak akan kalah sama dia!"
+        },
+        {
+            "text": "Kamu nggak akan kalah sama dia!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tapi itu… cuma yang \nTrainer pikirkan…",
             "choice_data_list": [
-                "Since I think about it, it'll remain!",
-                "Since I think about it, it'll remain!"
+                "Karena aku memikirkannya, itu akan tetap!",
+                "Karena aku memikirkannya, itu akan tetap!"
             ]
         },
         {
-            "text": "Right, if you don't give up, it can be fulfilled. Even if she \nherself has given up――as long as \"someone\" doesn't give up."
+            "text": "Benar, kalau kamu nggak nyerah, itu bisa terwujud. Meski \ndia sendiri udah nyerah――selama \"seseorang\" nggak nyerah."
         },
         {
-            "text": "I won't ever forget. You say that 10 years from \nnow nobody will remember your running but……"
+            "text": "Aku nggak akan pernah lupa. Kamu bilang 10 tahun \ndari sekarang nggak ada yang ingat larianmu tapi…"
         },
         {
-            "text": "I won't ever forget. You say that 10 years from \nnow nobody will remember your running but……"
+            "text": "Aku nggak akan pernah lupa. Kamu bilang 10 tahun \ndari sekarang nggak ada yang ingat larianmu tapi…"
         },
         {
-            "text": "I won't ever let that happen! \nEven if you've given up, I won't!"
+            "text": "Aku nggak akan biarkan itu terjadi! \nMeski kamu udah nyerah, aku nggak akan!"
         },
         {
-            "text": "I won't ever let that happen! \nEven if you've given up, I won't!"
+            "text": "Aku nggak akan biarkan itu terjadi! \nMeski kamu udah nyerah, aku nggak akan!"
         },
         {
-            "text": "From now on, you'll be able to run better than before. You'll win \nmore. Even in the Senior class, you can still win lots of G1s."
+            "text": "Dari sini, kamu akan bisa lari lebih baik dari sebelumnya. Kamu akan menang \nlebih banyak. Bahkan di kelas Senior, kamu masih bisa menang banyak G1."
         },
         {
-            "text": "From now on, you'll be able to run better than before. You'll win \nmore. Even in the Senior class, you can still win lots of G1s."
+            "text": "Dari sini, kamu akan bisa lari lebih baik dari sebelumnya. Kamu akan menang \nlebih banyak. Bahkan di kelas Senior, kamu masih bisa menang banyak G1."
         },
         {
-            "text": "There will be many Uma Musume who will be inspired by you. \nIf you don't give up, it'll definitely happen!"
+            "text": "Akan ada banyak Uma Musume yang terinspirasi kamu. \nKalau kamu nggak nyerah, pasti terjadi!"
         },
         {
-            "text": "There will be many Uma Musume who will be inspired by you. \nIf you don't give up, it'll definitely happen!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "But there's no definite \nproof that will happen!"
-        },
-        {
-            "text": "There is! If you don't give up it \nwill definitely happen, I know it will!"
-        },
-        {
-            "text": "There is! If you don't give up it \nwill definitely happen, I know it will!"
-        },
-        {
-            "text": "On that day, King and I succeeded because we didn't give up. \nAnd because we won that 『Takamatsunomiya Kinen』――"
-        },
-        {
-            "text": "On that day, King and I succeeded because we didn't give up. \nAnd because we won that 『Takamatsunomiya Kinen』――"
-        },
-        {
-            "text": "Team ＜Ascella＞ survived, \nand was able to welcome you in."
-        },
-        {
-            "text": "Team ＜Ascella＞ survived, \nand was able to welcome you in."
+            "text": "Akan ada banyak Uma Musume yang terinspirasi kamu. \nKalau kamu nggak nyerah, pasti terjadi!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Trainer-san and King-san's 『Takamatsunomiya Kinen』 victory……"
+            "text": "Tapi nggak ada bukti \npasti itu akan terjadi!"
+        },
+        {
+            "text": "Ada! Kalau kamu nggak nyerah \npasti terjadi, aku tau itu akan!"
+        },
+        {
+            "text": "Ada! Kalau kamu nggak nyerah \npasti terjadi, aku tau itu akan!"
+        },
+        {
+            "text": "Di hari itu, King dan aku berhasil karena nggak nyerah. \nDan karena kita menang 『Takamatsunomiya Kinen』――"
+        },
+        {
+            "text": "Di hari itu, King dan aku berhasil karena nggak nyerah. \nDan karena kita menang 『Takamatsunomiya Kinen』――"
+        },
+        {
+            "text": "Tim ＜Ascella＞ bertahan, \ndan bisa menyambut kamu."
+        },
+        {
+            "text": "Tim ＜Ascella＞ bertahan, \ndan bisa menyambut kamu."
         },
         {
             "name": "Rhein Kraft",
-            "text": "On that day, I……"
+            "text": "Kemenangan Trainer dan King-san di 『Takamatsunomiya Kinen』…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Saw it together with Cesario on the street billboards. 『It makes \nyou want to join that team, doesn't it?』 is what we talked about."
+            "text": "Di hari itu, aku…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "And that's because Trainer-san didn't give up……"
+            "text": "Liat bareng Cesario di billboard jalanan. 『Bikin \npengen gabung tim itu, ya?』 itu yang kita bicarakan."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Something nobody believed would happen…… \nBut, even then……because you didn't give up……"
+            "text": "Dan itu karena Trainer nggak nyerah…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "I'm……here now. \nThe reason I'm here……and can run……"
-        },
-        {
-            "text": "Rhein Kraft let that sink in. \nThe path she walked together with Team ＜Ascella＞"
-        },
-        {
-            "text": "Because there were so many points where we \"Didn't give up\", \nshe was able to forge ahead as a Pioneer."
+            "text": "Sesuatu yang nggak ada yang percaya akan terjadi… \nTapi, meski begitu… karena kamu nggak nyerah…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Trainer-san…… \nDo you think……I can do it too?"
+            "text": "Aku… di sini sekarang. \nAlasan aku di sini… dan bisa lari…"
+        },
+        {
+            "text": "Rhein Kraft merenungkannya. \nJalan yang dia tempuh bersama Tim ＜Ascella＞"
+        },
+        {
+            "text": "Karena ada banyak titik di mana kita \"Nggak nyerah\", \ndia bisa maju sebagai Sang Perintis."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Can I leave something behind? Like Trainer-san and King-san, \nif I never give up……once more. Once……again!"
+            "text": "Trainer… \nApa kamu pikir… aku juga bisa?"
         },
         {
-            "text": "You can do it for sure! \nYou've already brought so many of us together.",
+            "name": "Rhein Kraft",
+            "text": "Bisakah aku tinggalkan sesuatu? Kayak Trainer dan King-san, \nkalau aku nggak pernah nyerah… sekali lagi. Sekali… lagi!"
+        },
+        {
+            "text": "Kamu pasti bisa! \nKamu udah kumpulkan banyak dari kita.",
             "choice_data_list": [
-                "Without a doubt――You'll shine in to the future!!"
+                "Nggak diragukan――Kamu akan bersinar ke masa depan!!"
             ]
         },
         {
-            "text": "You can do it for sure! \nYou've already brought so many of us together.",
+            "text": "Kamu pasti bisa! \nKamu udah kumpulkan banyak dari kita.",
             "choice_data_list": [
-                "Without a doubt――You'll shine in to the future!!"
+                "Nggak diragukan――Kamu akan bersinar ke masa depan!!"
             ]
         },
         {
             "name": "Rhein Kraft",
-            "text": "Uuu……! Ugh, uuuu……! \nTrainer-san……Uuu!!"
+            "text": "Uuu…! Ugh, uuuu…! \nTrainer… Uuu!!"
         },
         {
             "name": "Rhein Kraft",
             "text": "Uwaaaaaaaaan!!!! \nUwaaaaaaaaaaaaaaaaaaaa!!"
         },
         {
-            "text": "My words reached her. ――I was able to persuade her. \nEverything she had been holding back was finally released."
+            "text": "Kata-kataku sampai ke dia. ――Aku berhasil meyakinkannya. \nSemua yang dia tahan akhirnya terlepas."
         },
         {
-            "text": "An overflowing of the feelings that she couldn't \ngive up on. That was……the only thing that could \nopen up Rhein Kraft's future once again……"
+            "text": "Luapan perasaan yang nggak bisa \ndia tinggalkan. Itu… satu-satunya yang \nbisa buka masa depan Rhein Kraft lagi…"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Aah…… Ah……"
+            "text": "Aah… Ah…"
         }
     ]
 }

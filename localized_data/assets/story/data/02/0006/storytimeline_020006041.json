@@ -1,325 +1,321 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Fua～aaaah… Mornin'～",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Sei-chan, good morning! You look sleepy again today, \nthough I guess you're always sleepy.",
-            "name": "Special Week"
-        },
-        {
-            "text": "It seems like you slipped in something rude at \nthe end there though… Well, it's because it's \nbeen getting warmer lately, you see～.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Lately training has really left me worn \nout, so at night I'm out like a light.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Earlier in the dressing room by the baths, I fell asleep after \nstepping on to the scale, and everyone saw how much I weighed…",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's quite a skillful way to get some sleep, huh…",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "At long last, I'm baaaaack―!!",
-            "name": "???"
-        },
-        {
-            "text": "Hey everyone, it's been a while!",
-            "name": "???"
-        },
-        {
-            "text": "Eh…? Oh-Oh?! \nTsuru-chan?!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yeah! Tsurumaru Tsuyoshi has returned!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ooooh～ It's been a while～! \nSo starting today, you're going to be attending again.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Isn't that great, Tsuru-chan?! \nAre you feeling better now?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Of course, I'm all good! I got a good long rest \nso I've got a lot of power saved up!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Just because it's saved up, don't push yourself okay? \nAfter all, before you took that break―",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Uuuu… even though everyone else has already had their debut \nrace, I'm now the only one that hasn't run in a race yet…",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "It can't be helped though, your body's been in bad shape… \nfrom now on let's do our best!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…Yeah, you're right! After all that time lost, \nI need to catch up to everyone!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Besides, the once-in-a-lifetime chance to run in the Classic \nraces is coming up! Just like President Rudolf, I want to shine \nas an Uma Musume on that big stage!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Let's all run together in the Classic races!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe-chan, thank you! Alright, it's a promise, okay?! \nTsuyoshi, will absolutely do her best!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "You're still recovering, so don't push yourself too hard～",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "I'll be fine～! It's more like I've got more \npower than I know what to do with～!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ze～… haa～…! Ze～… haa～…!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Fuhii～… I'm all… tapped out… \nI can't go any further～… flop.",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ueeee～?! Tsuru-chan?!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Something like that… did happen didn't it?",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Before the Classic races started, I was somehow able to make it \nback in time but, in the end, my debut race ended up being after \nthe [Satsuki Sho] will be over.",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Tsuru-chan…",
-            "name": "Special Week"
-        },
-        {
-            "text": "But, but, but! The Classic races, \nthe [Derby] and [Kika Sho], are still an option!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "I'll definitely catch up to you so, both \nof you, do your best at [Satsuki Sho]!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Yeah! I'll be sure to work hard enough so I won't lose to \nTsuru-chan! Allllright, after today's training I think I'll do \nsome independent training!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…Really, you're always doing your best, aren't you～, Spe-chan?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "―Alright, it's done Sky!",
-            "name": "???"
-        },
-        {
-            "text": "Unyuu…?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Oh, sorry, sorry, I guess you were asleep.",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "…For some reason, Gramps always smells like the sun, \nso whenever I'm near you I start feeling sleepy, I can't help it.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Haa Haa Haa! Is that right, I smell like the sun! \nThat aside, Sky, the lure's done!",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "Uwaa! Thanks, Gramps!! \nHey hey, let's head to the river now!",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "C'mon now, the sun's already setting, you know? It can be \ndangerous at night, so we can go fishing tomorrow, okay?",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "Eeeeeh～… but I want to try out Gramps' lure though…",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "One of the basics of fishing is to never lose your cool.",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "It's the same with running.",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "The same as running…?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "For example, even if your friends are faster than \nyou now, if you stay cool and steady, and keep working \nhard at your own pace, it'll all be fine!",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "You see, Gramps' dream is that when Sky grows up, \nI'll get the chance to see you run in a Classic race!",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "And if that happens, and I get to see you win, \nyou have no idea how happy that'll make me-",
-            "name": "Sky's Grandpa"
-        },
-        {
-            "text": "…",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "…Oops, guess I dozed off for too long.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Ah～ahh, the sun's already setting isn't it? \nIt's your fault because the weather was too good, Mr. Sun.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "The return trip's 60km… I wonder if I'll make it before curfew～",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Soon the curtain will rise, on the first leg of the \nTriple Crown, the Classic race, [Satsuki Sho].",
-            "name": "Commentator"
-        },
-        {
-            "text": "The favorite is Special Week! Following that, Seiun Sky and King \nHalo, the top 3 contenders, round out the popularity rankings!",
-            "name": "Commentator"
-        },
-        {
-            "text": "And so, the Uma Musume slowly make their way \nfrom the paddock, one step at a time, as if basking in the \nfeeling as they approach the course of this grand stage!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Among those called the \"Golden Generation\", which Uma Musume \nwill be the one to take hold of glory and claim victory?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Focus, focus… the course is the same as the \n[Yayoi Sho] so, this time too, for sure…!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Oh man～ it's finally here, a Classic race.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "There's so many fans so, the excitement in the air… \nit's on another level from any race up until now…!",
-            "name": "Special Week"
-        },
-        {
-            "text": "But, it's the first race of the Triple Crown! \nI definitely have to win it!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Ooh, you're really fired up, aren't ya～?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Now that I think about it, \"Japan's #1 Uma Musume\"― \nis the dream left to you by your Moms, wasn't it?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Yeah, it was entrusted to me by both of my Moms \nso it's a really important dream!",
-            "name": "Special Week"
-        },
-        {
-            "text": "A dream entrusted to you, huh… to tell the truth, \nI have one too. A dream entrusted to me.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Sei-chan has one too…?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Gramps is really looking forward to it, you know～, \nseeing me as I win a Classic race.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "So that's how it is! In that case, just like me, Sei-chan has \nher Grandpa's dream that she's working hard for!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Well no～, that's a little off. It's true that \nI'm carrying Gramps' expecations, but you see-",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "The reason I run, in the end, it's for my own sake. That's why \nit's a little different from Spe-chan's, I guess.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "…Eh?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Even if Gramps had said it was fine if I didn't \nwant to run, I would still run.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "If you can't understand that difference, \nthen I'll be the one who's definitely going to win.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "The [Satsuki Sho]…I will win, without fail.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Or something like that～. \nNihihi, well then, see ya out there～",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "The difference between Sei-chan and me…?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Unexpectedly, advancing from second place is Seiun Sky! \nFrom the final corner, she enters a spurt!",
-            "name": "Commentator"
-        },
-        {
-            "text": "In the lead is Seiun Sky! Following her is King Halo! \nFrom wide outside, Special Week is moving up!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Haaa…! Haaa…!",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "…Just a little more! Keep going… Keep goooooing～!!",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "But it's Seiun Sky! Seiun Sky!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Seiun Sky keeps the lead and crosses the goooooal!!",
-            "name": "Commentator"
-        },
-        {
-            "text": "In a spectacular end to the first leg of the Triple \nCrown, Seiun Sky claims victory!",
-            "name": "Commentator"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Fuaaaah～… Pagi～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Pagi, Sei-chan! Kamu keliatan ngantuk lagi ya hari ini. \nTapi kayaknya kamu emang selalu ngantukan sih.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hmm… di akhir kalimat kayaknya ada sindiran halus tuh… \nYa wajar sih, soalnya belakangan ini makin panas, jadi makin ngantuk～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Akhir-akhir ini latihannya bikin capek banget, \njadi malem-malem langsung tepar.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tadi di ruang ganti deket pemandian, aku sempet ketiduran \nabis naik ke timbangan… terus semua orang jadi liat berat badanku…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Wuih, cara tidurmu cukup unik juga ya…",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Akhirnyaaa aku balik lagiii―!!",
+      "name": "???"
+    },
+    {
+      "text": "Hei semuaa, lama gak ketemu!",
+      "name": "???"
+    },
+    {
+      "text": "Eh…? Eeh?! Tsuru-chan?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Bener banget! Tsurumaru Tsuyoshi balik lagiii!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ooooh～ lama banget ya! Jadi mulai hari ini, kamu ikut latihan lagi kan?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Wah, bagus banget tuh Tsuru-chan! \nKamu udah sehat lagi sekarang?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tentu aja, aku udah fit banget! Abis istirahat lama, tenagaku numpuk banyak!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tapi jangan maksa diri juga ya… soalnya sebelum istirahat itu kan kamu sempet―",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Uuuh… padahal yang lain udah pada debut, tinggal aku doang yang belum sempet ikut balapan…",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ya mau gimana lagi, badanmu waktu itu lagi gak fit. \nMulai sekarang kita semangat lagi bareng-bareng!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Iya juga sih! Waktu yang hilang harus aku kejar biar bisa nyamain kalian!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Lagian bentar lagi ada kesempatan emas ikut Classic Race! \nKayak Presiden Rudolf, aku juga pengen bersinar di panggung gede itu!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Yuk kita semua bareng-bareng lari di Classic Race!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Makasih Spe-chan! Oke, janji ya?! Tsuyoshi bakal kasih yang terbaik!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tapi inget, kamu masih pemulihan, jangan kebanyakan maksa ya～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Tenang aja～! Aku malah ngerasa tenagaku kebanyakan sampe bingung mau dipake buat apa～!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Zee～ haa～…! Zee～ haa～…!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Hiiih… udah… abis tenagaku… gak kuat lagi… bruk!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ueeeeeh?! Tsuru-chan?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Yah… kayak gitu deh, kejadian beneran waktu itu ya?",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Sebelum Classic Race dimulai aku sempet balik tepat waktu, \ntapi debutku baru bisa setelah [Satsuki Sho] kelar.",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tsuru-chan…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi! Masih ada Derby sama Kikka Sho kok! \nKesempatan masih kebuka!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Aku pasti nyusul kalian! Jadi kalian juga semangat ya di [Satsuki Sho]!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Iya! Aku juga bakal latihan lebih keras biar gak kalah sama Tsuru-chan! \nOke deh, abis latihan hari ini aku mau latihan tambahan sendiri!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hadeh… Spe-chan emang gak pernah setengah-setengah ya～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "―Oke, jadi juga Sky!",
+      "name": "???"
+    },
+    {
+      "text": "Unyuuu…?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Oh maaf, maaf, ternyata kamu lagi tidur ya.",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Entah kenapa, deket Kakek aku selalu ngantuk… \nMungkin karena bau mataharinya bikin nyaman.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Hahaha! Jadi aku bau matahari ya! \nNgomong-ngomong, umpan pancingnya udah selesai nih!",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Uwaa! Makasih Kek!! Yuk yuk kita ke sungai sekarang!",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Eits, matahari udah mau tenggelam. Malem-malem berbahaya, besok aja ya kita mancingnya.",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Eeeeh～… padahal aku pengen langsung coba umpannya Kakek…",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Dasar mancing itu sabar, gak boleh kebawa nafsu.",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Sama aja kayak lari.",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Sama kayak lari…?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Contohnya, meski temenmu lebih cepet sekarang, \nkalo kamu tetap tenang, jalanin dengan ritmemu, \npasti hasilnya bagus.",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Soalnya mimpi Kakek tuh, bisa liat Sky ikut Classic Race!",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "Dan kalau bisa liat kamu menang… wah, bahagianya bukan main―",
+      "name": "Kakek Sky"
+    },
+    {
+      "text": "…",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "…Ups, kayaknya aku ketiduran lama banget.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Aduh, matahari udah tenggelam aja. Ini salahmu ya, Pak Matahari, terlalu enak cuacanya.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Balik 60 km… kira-kira bisa nyampe sebelum jam malam gak ya～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Dan akhirnya, panggung besar Classic Race pertama, [Satsuki Sho], segera dimulai!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Favorit utamanya Special Week! Lalu ada Seiun Sky dan King Halo! \nTiga kandidat teratas siap rebutan kemenangan!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Satu per satu Uma Musume keluar dari paddock, melangkah ke arena besar ini dengan penuh rasa khidmat!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dari generasi emas ini, siapa yang bakal raih kejayaan?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Fokus, fokus… lintasannya sama kayak [Yayoi Sho]… jadi kali ini, pasti bisa…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Wah akhirnya ya～ Classic Race.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Fansnya bejibun banget, auranya beda dari semua balapan sebelumnya…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi ini balapan pertama Triple Crown! Aku harus banget menang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Wuih, semangat banget kamu ya～?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Kalau dipikir lagi, mimpimu jadi \"Uma Musume nomor satu di Jepang\" itu kan titipan dari kedua Ibumu?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Iya! Itu mimpi penting banget, jadi aku harus wujudin!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hmm… sebenernya aku juga punya mimpi yang dititipin.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Eh? Kamu juga, Sei-chan?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, Gramps pengen banget liat aku menang di Classic Race.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Oooh gitu! Jadi sama kayak aku, kamu juga bawa mimpi keluargamu!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hmm, gak gitu juga sih. Emang aku bawa harapan Kakek, tapi alasanku lari sebenernya buat diriku sendiri.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "…Hah?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Bahkan kalo Kakek bilang aku boleh berhenti lari pun, aku tetep bakal lari.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Kalau kamu gak ngerti bedanya, berarti aku yang pasti bakal menang.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "[Satsuki Sho] ini… aku yang bakal menang.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Ya gitu deh～ Nihihi, sampe ketemu di lintasan～",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Bedanya aku sama Sei-chan…?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tiba-tiba Seiun Sky maju dari posisi dua! \nDia mulai ngegas abis di tikungan terakhir!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Seiun Sky memimpin! Di belakang ada King Halo! \nDari sisi luar, Special Week juga mulai nyusul!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Haaa…! Haaa…!",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Sedikit lagi! Ayo… ayo terusss～!!",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Itu Seiun Sky! Seiun Sky di depan!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Seiun Sky masih unggul dan melewati garis finish!!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Sungguh akhir yang spektakuler, Seiun Sky jadi juara leg pertama Triple Crown!",
+      "name": "Komentator"
+    }
+  ]
 }

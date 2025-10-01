@@ -1,48 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Commentator",
-            "text": "Finally this day has come, the first “Arima \nKinen” at the end of the year!"
-        },
-        {
-            "name": "Commentator",
-            "text": "After all, the attention is on the sister showdown between Biwa \nHayahide and Narita Brian, who has left a blank sheet just before \nthe realization last time!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "The stands are packed with fans who \ndo not wish to miss this race!"
-        },
-        {
-            "text": "(Cheers～～!!!)"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I'm deeply moved, the day we met has finally come."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Yeah, I was waiting for this day too."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "The winning equation has already been built up. I'm not going to \ngive up the win just because you are my little-sister."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Your head is as big as ever. It wouldn't be our race if we keep \nthinking about difficult things, right?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Ehaha, that may be right. We've been doing \nthis since we were kids, our race…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Let's go to the stage of “Sister showdown”."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Bring it on…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Komentator",
+      "text": "Akhirnya hari ini datang juga, “Arima Kinen” pertama di akhir tahun!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Dan tentu saja, sorotan ada di duel kakak-adik antara Biwa Hayahide\ndan Narita Brian, yang sebelumnya sempat gagal tepat sebelum meraih kemenangan!!"
+    },
+    {
+      "name": "Komentator",
+      "text": "Tribun penuh sesak dengan fans yang nggak mau ketinggalan balapan ini!"
+    },
+    {
+      "text": "(Sorak～～!!!)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aku benar-benar terharu… akhirnya hari yang kita tunggu datang juga."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…Iya, aku juga udah lama nunggu hari ini."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Rumus kemenangan sudah aku siapkan. Aku nggak bakal ngalah,\nmeskipun kamu adikku sendiri."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Kepalamu masih aja gede ya. Balapan kita nggak bakal seru\nkalau terus mikirin hal yang ribet, kan?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ehaha, itu juga ada benarnya. Dari kecil kita emang sudah begini,\nini balapan kita…"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ayo kita naik ke panggung “duel kakak-adik”."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ayo, hadapi aku…!"
+    }
+  ]
 }

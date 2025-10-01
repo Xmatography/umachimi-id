@@ -6,27 +6,27 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Hmmm~…… Kraft, you okay~? \nIt kinda seems like you can't really concentrate right now~……",
-            "name": "Antenna-haired Uma Musume"
+            "text": "Hmmm~…… Kraft, kamu baik-baik aja~? \nKayaknya kamu nggak bisa konsentrasi nih~……",
+            "name": "Gadis kuda A"
         },
         {
-            "text": "You'll get hurt, so don't lose focus! \nMaybe it'd be best if you only did 1 more lap!",
-            "name": "Single Knot Uma Musume"
+            "text": "Kamu bisa cedera, jadi jangan sampai lengah! \nMungkin lebih baik kamu cuma lari 1 putaran lagi!",
+            "name": "Gadis kuda B"
         },
         {
-            "text": "S-sorry about that……! \nI'll do that!!",
+            "text": "M-maaf……! \nAku akan lakukan itu!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(Not good, I can't concentrate at all! The 『NHK Mile C』, huh…… \nbut, I've always dreamed of 『Oaks』 so not participating is……)",
+            "text": "(Gimana nih, aku nggak bisa konsentrasi sama sekali! \nSoal 『NHK Mile C』 tadi…… \ntapi, aku selalu bermimpi ikut 『Oaks』 jadi kalau nggak ikut……)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(Do I have to end my attempt at the Triple Tiara? \nA problem of aptitude……that might be true but……)",
+            "text": "(Apa aku harus mengakhiri usahaku mengejar Triple Tiara? \nMasalah bakat…… mungkin itu benar tapi……)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(But, it's a race after all, you won't know what the result \nis without running it, right? Not having the aptitude doesn't \nmean that……I'm guaranteed to not get results……)",
+            "text": "(Tapi, balapan kan nggak ada yang tahu hasilnya\nsebelum dijalani, kan? Nggak punya bakat bukan \nberarti…… aku dijamin nggak dapat hasil……)",
             "name": "Rhein Kraft"
         },
         {
@@ -34,27 +34,27 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Kraft-san……seems to be quite deep in thought.",
+            "text": "Kraft-san…… kayaknya lagi berpikir sangat dalam.",
             "name": "King Halo",
             "choice_data_list": [
-                "……Yeah. But――",
-                "……Yeah. But――"
+                "……Iya. Tapi――",
+                "……Iya. Tapi――"
             ]
         },
         {
-            "text": "I've already told her everything I needed to. All that's left…… \nis to wait and see what answer she comes to.",
+            "text": "Aku sudah menyampaikan semua yang perlu kukatakan. \nTinggal menunggu…… jawaban seperti apa yang akan dia putuskan.",
             "name": "<username>"
         },
         {
-            "text": "I've already told her everything I needed to. All that's left…… \nis to wait and see what answer she comes to.",
+            "text": "Aku sudah menyampaikan semua yang perlu kukatakan. \nTinggal menunggu…… jawaban seperti apa yang akan dia putuskan.",
             "name": "<username>"
         },
         {
-            "text": "……That's true. In the end, the one that will be \nrunning in that race will be her. And the only \none that can decide her path――will also be her.",
+            "text": "……Benar juga. Pada akhirnya, yang akan \nberlari di balapan itu adalah dia. Dan yang \nbisa memutuskan jalannya―― juga hanya dia.",
             "name": "King Halo"
         },
         {
-            "text": "(Though……it might be best to have a chat with her as well――)",
+            "text": "(Tapi…… mungkin lebih baik aku juga mengobrol dengannya――)",
             "name": "King Halo"
         },
         {
@@ -62,39 +62,39 @@
             "name": "Cesario"
         },
         {
-            "text": "(Ahhh……in the end, \ntraining finished before I could figure it out……)",
+            "text": "(Ahhh…… ujung-ujungnya latihan selesai \nsebelum aku bisa memutuskannya……)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(But today, I was the only one that had a lighter \ntraining menu. Trainer-san was the one that did \nthat, right? ……so I could think things through)",
+            "text": "(Tapi hari ini, cuma aku yang jadwal latihannya \nlebih ringan. Itu kan perintah Trainer-san? \n……agar aku bisa memikirkannya baik-baik)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(My next race……my answer is――)",
+            "text": "(Balapanku berikutnya…… jawabanku adalah――)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Kraft, I have a request.",
+            "text": "Kraft, aku ada permintaan.",
             "name": "Cesario"
         },
         {
-            "text": "I've gotten permission to go out at night. \n――I want you to do some parallel running with me.",
+            "text": "Aku sudah dapat izin untuk keluar malam ini. \n――Aku ingin kamu melakukan parallel running bersamaku.",
             "name": "Cesario"
         },
         {
-            "text": "Eh……? O-okay. That's fine, but……",
+            "text": "Eh……? O-oke. Boleh sih, tapi……",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Fuuu~……Alright, I'm ready, Cesario! \nHow many meters should we run?",
+            "text": "Fuuu~…… Oke, aku siap, Cesario! \nHarus lari berapa meter?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……How many do you want to run?",
+            "text": "……Kamu mau lari berapa?",
             "name": "Cesario"
         },
         {
-            "text": "Huh, me? But, Cesario wanted――",
+            "text": "Hah, aku? Tapi, kan Cesario yang mau――",
             "name": "Rhein Kraft"
         },
         {
@@ -102,19 +102,19 @@
             "name": "Cesario"
         },
         {
-            "text": "……? Hmm……okay. \nI'll be the one to decide. ……Then――",
+            "text": "……? Hmm…… oke. \nAku yang putuskan. ……Kalau begitu――",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……――2400m, please.",
+            "text": "……――2400m, ya.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Understood. ……Let's begin.",
+            "text": "Mengerti. ……Ayo mulai.",
             "name": "Cesario"
         },
         {
-            "text": "Ready――Start!!",
+            "text": "Siap――Mulai!!",
             "name": "Cesario"
         },
         {
@@ -122,11 +122,11 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "(What Trainer-san said……about my aptitude. I know. \nAt this distance, I've never won once against Cesario.)",
+            "text": "(Apa yang Trainer-san katakan…… tentang bakatku. Aku tahu. \nDi jarak ini, aku belum pernah menang sekali pun melawan Cesario.)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(But――……!!)",
+            "text": "(Tapi――……!!)",
             "name": "Rhein Kraft"
         },
         {
@@ -142,31 +142,31 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "――It's my win.",
+            "text": "――Aku yang menang.",
             "name": "Cesario"
         },
         {
-            "text": "Once more!!",
+            "text": "Sekali lagi!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Let's run……once more! \nThe same distance! 2400m……!!",
+            "text": "Ayo lari…… sekali lagi! \nJarak yang sama! 2400m……!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(I know, I probably won't win this time either――but still! \nI can't back down at this point!)",
+            "text": "(Aku tahu, kali ini mungkin aku nggak akan menang juga――tapi tetap! \nAku nggak bisa mundur di titik ini!)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(The Triple Tiara stage! \nIs my important aspiration……my dream……!!)",
+            "text": "(Panggung Triple Tiara! \nAdalah cita-cita pentingku…… mimpiku……!!)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Please, Cesario! Once more……!!",
+            "text": "Kumohon, Cesario! Sekali lagi……!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Understood. 2400m it is. \n……Let's go, Kraft.",
+            "text": "Mengerti. 2400m lagi. \n……Ayo, Kraft.",
             "name": "Cesario"
         },
         {
@@ -174,38 +174,38 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "After that, Kraft repeatedly continued to challenge \nCesario at the same distance as the 『Oaks』."
+            "text": "Setelah itu, Kraft terus menerus menantang \nCesario di jarak yang sama dengan 『Oaks』."
         },
         {
-            "text": "Haa-, Haa-……~~~ Once more!!",
+            "text": "Haa-, Haa-……~~~ Sekali lagi!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Fuuuu……as you wish. \n……However, let me give you a warning.",
+            "text": "Fuuuu…… baiklah. \n……Tapi, izinkan aku memperingatkanmu.",
             "name": "Cesario"
         },
         {
-            "text": "2400m――At the distance for the 『Oaks』, I won't let you. \nI won't ever let you finish in front of me, Kraft.",
+            "text": "2400m――Di jarak untuk 『Oaks』, aku nggak akan mengizinkan. \nAku nggak akan pernah membiarkanmu finish di depanku, Kraft.",
             "name": "Cesario"
         },
         {
-            "text": "……I know. I know how you feel about \nthe 『Oaks』, Cesario……! Even then!",
+            "text": "……Aku tahu. Aku tahu perasaanmu tentang \n『Oaks』, Cesario……! Meski begitu!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Right. Let's continue.",
+            "text": "……Baik. Ayo lanjutkan.",
             "name": "Cesario"
         },
         {
-            "text": "Haaa……haaaa…… \nOnce……more……!!",
+            "text": "Haaa……haaaa…… \nSekali……lagi……!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Cough, cough!! ……~~Once……more……!!",
+            "text": "Hukh, hukh!! ……~~Sekali……lagi……!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Haaa……hyuuu……once……more……",
+            "text": "Haaa……hyuuu……sekali……lagi……",
             "name": "Rhein Kraft"
         },
         {
@@ -213,23 +213,23 @@
             "name": "Cesario"
         },
         {
-            "text": "……How are you? Have you calmed down?",
+            "text": "……Gimana? Sudah tenang?",
             "name": "Cesario"
         },
         {
-            "text": "Yeah……Thanks, Cesario……",
+            "text": "Iya…… Makasih, Cesario……",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I see, I'm glad. \n……Geez, you're quite the unreasonable Uma Musume, aren't you?",
+            "text": "Syukurlah. \n……Gila, kamu memang Uma Musume yang keras kepala, ya?",
             "name": "Cesario"
         },
         {
-            "text": "However――『Believe, and keep trying』. That strength, \nthat brilliance that you have, is truly one-of-a-kind.",
+            "text": "Tapi――『Percaya, dan terus berusaha』. Kekuatan, \nkilau yang kamu punya itu, benar-benar sesuatu yang unik.",
             "name": "Cesario"
         },
         {
-            "text": "……But that's precisely why. \nDon't you think that there's a path that only you can run?",
+            "text": "……Tapi justru karena itulah. \nMenurutmu tidak ada jalan yang hanya bisa kamu tempuh?",
             "name": "Cesario"
         },
         {
@@ -237,39 +237,39 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Participating in the 『NHK Mile Cup』, it seems like \nTrainer recommended that. ……I heard it from King-san.",
+            "text": "Ikut 『NHK Mile Cup』, sepertinya itu rekomendasi Trainer. \n……Aku dengar dari King-san.",
             "name": "Cesario"
         },
         {
-            "text": "That race is the only G1 intersection between the \nTiara and Triple Crown routes during the Classic year.",
+            "text": "Balapan itu adalah satu-satunya G1 persilangan antara \nrute Tiara dan Triple Crown selama tahun Classic.",
             "name": "Cesario"
         },
         {
-            "text": "A place where the young competitors of the future \ncome together to forge a new era――deciding who is the \n『Generation's Fastest』 ……That's the 『NHK Mile Cup』",
+            "text": "Tempat para pesaing muda masa depan \nberkumpul untuk menempa era baru―― \nmenentukan siapa 『Yang Tercepat di Generasinya』 ……Itulah 『NHK Mile Cup』",
             "name": "Cesario"
         },
         {
-            "text": "! ……The generation's……fastest――",
+            "text": "! ……Yang tercepat di generasi……――",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……honestly, I think it's unfortunate too. Against \nyou, on the Triple Tiara stage……at the 『Oaks』 and \n『Shuuka Sho』, I wanted to compete as rivals.",
+            "text": "……jujur, aku juga merasa sayang. Melawanmu, \ndi panggung Triple Tiara…… di 『Oaks』 dan \n『Shuuka Sho』, aku ingin bersaing sebagai rival.",
             "name": "Cesario"
         },
         {
-            "text": "But, at the same time, as someone who finished the \n『Oka Sho』 behind you, I also think this: If it's you…… \nthen maybe, that 『Speed』 can take you further.",
+            "text": "Tapi, di saat yang sama, sebagai yang finish di \nbelakangmu di 『Oka Sho』, aku juga berpikir: Kalau kamu…… \nmungkin, 『Kecepatan』 itu bisa membawamu lebih jauh.",
             "name": "Cesario"
         },
         {
-            "text": "By believing in yourself and accepting that challenge―― \nthat you'll achieve an unparalleled brilliance.",
+            "text": "Dengan mempercayai dirimu sendiri dan menerima tantangan itu―― \nkamu akan mencapai kilau yang tak tertandingi.",
             "name": "Cesario"
         },
         {
-            "text": "Kraft. ……Think, aspire, believe and move forward. \nUse that strength of yours. Shine like noone else can.",
+            "text": "Kraft. ……Pikirkan, bercita-citalah, percaya dan majulah. \nGunakan kekuatanmu itu. Bersinarlah seperti tidak ada yang bisa.",
             "name": "Cesario"
         },
         {
-            "text": "The thing that will carry you towards your dream \nand beyond is both of those legs of yours.",
+            "text": "Hal yang akan membawamu menuju mimpimu \ndan melampauinya adalah kedua kakimu itu.",
             "name": "Cesario"
         },
         {
@@ -277,75 +277,75 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "text": "Coba pikirkan dulu Kraft. Tentang cita-citamu, \nmimpimu, dan apa yang sudah kaulihat sejauh perjalananmu.",
             "name": "<username>"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "text": "Coba pikirkan dulu Kraft. Tentang cita-citamu, \nmimpimu, dan apa yang sudah kaulihat sejauh perjalananmu.",
             "name": "<username>"
         },
         {
-            "text": "And then…… \nabout a path that only you can run.",
+            "text": "Lalu…… \ntentang jalan yang hanya bisa kamu tempuh.",
             "name": "<username>"
         },
         {
-            "text": "And then…… \nabout a path that only you can run.",
+            "text": "Lalu…… \ntentang jalan yang hanya bisa kamu tempuh.",
             "name": "<username>"
         },
         {
-            "text": "……I've always admired the Triple Tiara. And the wonderful \nmiracles that the Uma Musume there left behind, were my dream.",
+            "text": "……Aku selalu mengagumi Triple Tiara. Dan keajaiban \nindah yang ditinggalkan Uma Musume di sana, adalah mimpiku.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I admired the unshakeable strength of Air Groove-san. \nI admired the free-spirited brilliance of Sweep-san.",
+            "text": "Aku mengagumi kekuatan tak tergoyahkan Air Groove-san. \nAku mengagumi kilau bebas Sweep-san.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "And many others. Chasing after the Uma Musume \nwho came before me, my dream, aspiration, and \nemotions they linked together. ………But, that――",
+            "text": "Dan banyak lainnya. Mengejar Uma Musume \npendahuluku, mimpiku, cita-cita, dan \nperasaan yang saling terhubung. ………Tapi, itu――",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Wasn't because I admired them just because they are \n『Uma Musume who ran for the Triple Tiara』. Because \nthey were who they were, that's why I saw it as my dream!",
+            "text": "Bukan karena aku mengagumi mereka hanya karena mereka \n『Uma Musume yang berlari untuk Triple Tiara』. Karena \nmerekalah diri mereka, itulah kenapa aku melihatnya sebagai mimpiku!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……In that case, then me too.",
+            "text": "……Kalau begitu, aku juga.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "With my strength. To shine on my own. \nRunning with these legs of mine, on my own path――",
+            "text": "Dengan kekuatanku sendiri. Untuk bersinar dengan caraku sendiri. \nBerlari dengan kedua kakiku ini, di jalanku sendiri――",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I need to break open a one-of-a-kind road!",
+            "text": "Aku harus membuka jalan yang benar-benar unik!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Thank you. Cesario. \nThat's right, isn't it? ……I've decided.",
+            "text": "……Terima kasih. Cesario. \nBenar juga, ya? ……Aku sudah putuskan.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I will take on a 『Path of my own』. \nAnd there, I'll carve my own name.",
+            "text": "Aku akan menjalani 『Jalanku Sendiri』. \nDan di sana, aku akan mengukir namaku sendiri.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I'll make them all want to chase after my \nbrilliance, my footsteps, my strength!",
+            "text": "Aku akan membuat mereka semua ingin mengejar \nkilauku, jejak langkahku, kekuatanku!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Do you think I'll be able to do it?",
+            "text": "……Menurutmu aku bisa melakukannya?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "You will. It's because they believe that \nyou can, that Trainer showed you this path.",
+            "text": "Bisa. Karena mereka percaya kamu \nbisa, Trainer menunjukkan jalan ini padamu.",
             "name": "Cesario"
         },
         {
-            "text": "Fufuu. ……Yeah, you're right! \nTrainer-san believes in me.",
+            "text": "Fufuu. ……Iya, benar juga! \nTrainer-san percaya padaku.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "I'll show them that I can do it. At the 『NHK Mile Cup』―― \nI'll become the 『Generation's Fastest』!",
+            "text": "Aku akan tunjukkan bahwa aku bisa. Di 『NHK Mile Cup』―― \nAku akan menjadi 『Yang Tercepat di Generasiku』!",
             "name": "Rhein Kraft"
         }
     ]

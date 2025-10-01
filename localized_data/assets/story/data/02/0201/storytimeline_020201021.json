@@ -1,262 +1,231 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "It's so frustrating~……!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "During the race, I messed up so many times! I couldn't run the \nway I wanted to at all……Aaaah, there's so much to reflect on……!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "I think placing 3rd in your first G1 is a fantastic result though…… \nBut I see, you aren't satisfied with this result.",
-            "name": "<username>"
-        },
-        {
-            "text": "I think placing 3rd in your first G1 is a fantastic result though…… \nBut I see, you aren't satisfied with this result.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yes! I'm nowhere near satisfied with this……! \nI can't be satisfied with this result!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "I want to be able to get even better results. \nSo I can become who I want to be……!",
-            "name": "Rhein Kraft",
-            "choice_data_list": [
-                "『Become who you want to be』?"
-            ]
-        },
-        {
-            "text": "Yeah. I guess it would be becoming \nan 『Uma Musume that everyone looks up to』――",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "……I really admire them. \nMy senpais on the Triple Tiara route.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Inspiration, courage, dreams…… \nSparkly things like that are what my senpais have given me.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "『I want to run like that. I want to be strong, \ndazzling, and move people's hearts, just like that!』 \n……Those are the inspirations they've given me.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "I believe that's exactly what their senpais also gave to them…… \nand that's what I feel connects them all together.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "That's why, with everything they've given me, \nI want to become part of that too. Next time, \nI want to be the one that inspires someone!",
-            "name": "Rhein Kraft",
-            "choice_data_list": [
-                "I see, so that's……your dream",
-                "I see, so that's……your dream"
-            ]
-        },
-        {
-            "text": "……Having a lot to reflect on means that there's a \nlot of room to grow for next time. So you can become \nwho you want to be, let's work hard, Kraft!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah! \n……Ah! But……!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "You can't just focus on me all the time though, right? \nSince next up, is Cesario's debut race……!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "We have a lot of preparations to do before the end of \nnext month, don't we? Cesario-san, are you prepared?",
-            "name": "King Halo"
-        },
-        {
-            "text": "Of course. ……Trainer, \nyou don't have to hold back one bit, I'm looking forward to it.",
-            "name": "Cesario",
-            "choice_data_list": [
-                "Right, I got it. We'll go for it!",
-                "Right, I got it. We'll go for it!"
-            ]
-        },
-        {
-            "text": "And so, December 25th, a Christmas debut, approached. \nCesario was――"
-        },
-        {
-            "text": "Huu, huuu……Haaaaaaaaa!!",
-            "name": "Cesario"
-        },
-        {
-            "text": "With 200m left, Cesario pulls away! \nNow the lead has changed to Cesario! It's Cesario!!",
-            "name": "Live Announcer"
-        },
-        {
-            "text": "Goal!! First place is Cesario, it's Cesario! \nShe marks her debut with a spectacular victory!!",
-            "name": "Live Announcer"
-        },
-        {
-            "text": "Cesario! Good work in your debut. \nCongrats on 1st place! It was a really good run……!",
-            "name": "<username>"
-        },
-        {
-            "text": "esario! Good work in your debut. \nCongrats on 1st place! It was a really good run……!",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer……thank you very much for the words of praise. \n……However, all I've done is just finish my first race.",
-            "name": "Cesario"
-        },
-        {
-            "text": "I intend to continue doing my best without letting my guard down, \nso I'll leave it to you to keep up the strict guidance.",
-            "name": "Cesario",
-            "choice_data_list": [
-                "R-right……! Leave it to me!",
-                "R-right……! Leave it to me!"
-            ]
-        },
-        {
-            "text": "Even though she just won, without even a smile on her \nface, Cesario bowed her head. She was an Uma Musume \nwho embodied the concept of stoicism and fortitude……!"
-        },
-        {
-            "text": "Okay, well then! Merry Christmas♪ \nAh, I baked a cake so, is it fine if I start cutting it?",
-            "name": "Cesario"
-        },
-        {
-            "text": "I was busy with preparation for my debut race so I \nleft it all to you, but I really wanted to do something……\nTruthfully, I really love making sweets!",
-            "name": "Cesario"
-        },
-        {
-            "text": "Fufu, for this one~…… I even put some Santa-san candies on top \nof it……since it's an opportunity, King-san! Please have some♪",
-            "name": "Cesario"
-        },
-        {
-            "text": "……Night time after her debut race. To coincide with that, \nTeam <Ascella> was holding a Christmas party, but――"
-        },
-        {
-            "text": "……Wait, wait. Wait just a minute――!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Who are you!?!?",
-            "name": "Teammates"
-        },
-        {
-            "text": "Ahaha! Oh come on, it's Cesario obviously~! \nYay, yay, Cesario's cake~! I've been looking forward to it~♪",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Be careful not to get cream on your nose again, Kraft. \nAh, Trainer too, do you have any favorite fruits?",
-            "name": "Cesario",
-            "choice_data_list": [
-                "S-strawberries maybe-……hold up!"
-            ]
-        },
-        {
-            "text": "Really……are you really Cesario……!? How should I put it, \num, you have a completely different aura about you……!?",
-            "name": "<username>"
-        },
-        {
-            "text": "Really……are you really Cesario……!? How should I put it, \num, you have a completely different aura about you……!?",
-            "name": "<username>"
-        },
-        {
-            "text": "Ah……now that you mention it, ever since I joined \nthe team I've just been so focused the whole time…… \nI guess this is the first time I've really relaxed?",
-            "name": "Cesario"
-        },
-        {
-            "text": "Cesario is someone who has a really \ndrastic on-off switch, you see~!",
-            "name": "Rhein Kraft",
-            "choice_data_list": [
-                "I…………I see…………?"
-            ]
-        },
-        {
-            "text": "No, is this really the same dimension \nas a simple on-off switch……?",
-            "name": "King Halo"
-        },
-        {
-            "text": "A party with the team, filled with unexpected surprises. \nAs the boisterous, joyful laughs continued, Christmas \nnight eventually started drawing to a close……"
-        },
-        {
-            "text": "…………",
-            "name": "King Halo"
-        },
-        {
-            "text": "Fufu……King-san's laying on the sofa, out like a light~. \nShe didn't even wake up when Trainer-san moved her.",
-            "name": "Antenna-haired Uma Musume"
-        },
-        {
-            "text": "All the way up until today, she was working really hard to plan \nthis party after all……She's a really good team leader, isn't she?",
-            "name": "Single Knot Uma Musume"
-        },
-        {
-            "text": "You're right. But, hopefully she doesn't catch a cold like this…… \nTrainer, do you have anything that can be used as a blanket?",
-            "name": "Cesario"
-        },
-        {
-            "text": "Let's see……Ah, my coat is on that hangar over \nthere, so can you use that? Thanks, Cesario.",
-            "name": "<username>"
-        },
-        {
-            "text": "Let's see……Ah, my coat is on that hangar over \nthere, so can you use that? Thanks, Cesario.",
-            "name": "<username>"
-        },
-        {
-            "text": "No problem. ……Oh, huh? Excuse me, \nthese were under your coat, is this……?",
-            "name": "Cesario",
-            "choice_data_list": [
-                "Ah! That's……"
-            ]
-        },
-        {
-            "text": "I was planning on giving them out later……they're \npresents for everyone. It's nothing too fancy though.",
-            "name": "<username>"
-        },
-        {
-            "text": "I was planning on giving them out later……they're \npresents for everyone. It's nothing too fancy though.",
-            "name": "<username>"
-        },
-        {
-            "text": "Eh, from Trainer-san!? Waaaaah-……!! \nThank you very much-!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Trainer……I'm sorry, \nI probably should have prepared something too.",
-            "name": "Cesario"
-        },
-        {
-            "text": "……can we just say that my debut win is your present \nfor now? Can you forgive me with that for now? Fufuu.",
-            "name": "Cesario",
-            "choice_data_list": [
-                "No, that's more than enough!"
-            ]
-        },
-        {
-            "text": "(……once more I can't help but think that Kraft and Cesario are both \nreally kind. Not only that, but they're both really talented……)",
-            "name": "<username>"
-        },
-        {
-            "text": "(……once more I can't help but think that Kraft and Cesario are both \nreally kind. Not only that, but they're both really talented……)",
-            "name": "<username>"
-        },
-        {
-            "text": "(But, when I remember that……I can't help but \nbe more curious. Why did these two choose a team \nlike <Ascella> which was already on the decline?)",
-            "name": "<username>"
-        },
-        {
-            "text": "(But, when I remember that……I can't help but \nbe more curious. Why did these two choose a team \nlike <Ascella> which was already on the decline?)",
-            "name": "<username>"
-        },
-        {
-            "text": "If there was some kind of meaning behind it, \nI should learn about it for the future. Thinking \nthat, I asked them after training one day."
-        },
-        {
-            "text": "When I did, they both looked at each other and smiled, then――"
-        },
-        {
-            "text": "……we thought it couldn't be anyone else but you.",
-            "name": "Kraft & Cesario"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Aduh, kesel banget~……!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Pas balapan tadi aku bikin banyak banget kesalahan!\nLari nya sama sekali nggak kayak yang aku mau……\nAaaah, banyak banget yang harus aku perbaiki……!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren banget sih……\nTapi ya aku ngerti, kamu masih nggak puas ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya! Aku sama sekali belum puas sama hasil ini……!\nAku nggak bisa cuma berhenti di sini!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Aku pengen bisa dapetin hasil yang lebih bagus lagi.\nSupaya aku bisa jadi orang yang aku pengen jadi……!",
+      "name": "Rhein Kraft",
+      "choice_data_list": [
+        "『Jadi orang yang kamu pengen jadi』?"
+      ]
+    },
+    {
+      "text": "Iya. Kayaknya sih… jadi 『Uma Musume yang dikagumin semua orang』――",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "……Aku bener-bener kagum sama mereka.\nSenpai-senpai di jalur Triple Tiara.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Inspirasi, semangat, mimpi……\nHal-hal berkilau kayak gitu yang mereka kasih ke aku.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "『Aku pengen lari kayak gitu. Pengen jadi kuat, gemilang,\ndan bikin orang lain terharu, kayak mereka!』……\nItu semua yang bikin aku termotivasi.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Aku percaya hal yang sama juga pernah mereka dapet dari senpai-senpai mereka……\ndan itu yang bikin mereka semua saling terhubung.",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Makanya, dengan semua yang udah mereka kasih,\naku juga pengen jadi bagian dari itu.\nLain kali, aku pengen jadi orang yang ngasih inspirasi ke yang lain!",
+      "name": "Rhein Kraft",
+      "choice_data_list": [
+        "Oh gitu, jadi itu……mimpi kamu"
+      ]
+    },
+    {
+      "text": "……Punya banyak hal yang harus diperbaiki artinya masih ada banyak ruang buat berkembang.\nSupaya kamu bisa jadi orang yang kamu pengen, ayo kita kerja keras, Kraft!",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya! ……Ah! Tapi……!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Kamu nggak boleh terus fokus ke aku aja kan?\nKarena abis ini debutnya Cesario……!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Kita masih harus siapin banyak hal sebelum akhir bulan depan, kan?\nCesario-san, kamu udah siap?",
+      "name": "King Halo"
+    },
+    {
+      "text": "Tentu saja. ……Trainer, kamu jangan nahan diri ya,\naku malah nunggu-nunggu banget.",
+      "name": "Cesario",
+      "choice_data_list": [
+        "Oke, ngerti. Kita gaspol!"
+      ]
+    },
+    {
+      "text": "Dan begitu, tanggal 25 Desember,\ndebut di hari Natal pun datang. Cesario――"
+    },
+    {
+      "text": "Huu, huuu……Haaaaaaaaa!!",
+      "name": "Cesario"
+    },
+    {
+      "text": "200 meter terakhir, Cesario maju ke depan!\nSekarang pemimpin barunya Cesario! Itu Cesario!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Finish!! Juara pertama Cesario, itu Cesario!\nDia menandai debutnya dengan kemenangan yang spektakuler!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
+      "name": "<username>"
+    },
+    {
+      "text": "Trainer……makasih banyak buat pujiannya.\n……Tapi, aku kan baru aja nyelesain balapan pertama.",
+      "name": "Cesario"
+    },
+    {
+      "text": "Aku berniat terus berusaha tanpa lengah,\njadi tolong terus kasih bimbingan yang ketat ya.",
+      "name": "Cesario",
+      "choice_data_list": [
+        "B-baik……! Serahin aja ke aku!"
+      ]
+    },
+    {
+      "text": "Padahal dia baru aja menang, tapi tanpa senyum sedikitpun,\nCesario nundukin kepala.\nDia Uma Musume yang bener-bener nunjukin arti keteguhan……!"
+    },
+    {
+      "text": "Oke deh kalau gitu! Selamat Natal♪\nAh iya, aku bikin kue loh, boleh aku potongin sekarang?",
+      "name": "Cesario"
+    },
+    {
+      "text": "Aku sibuk banget nyiapin debut jadi semua aku serahin ke kalian,\ntapi sebenernya aku pengen juga ngelakuin sesuatu……\nJujur aja, aku suka banget bikin kue manis!",
+      "name": "Cesario"
+    },
+    {
+      "text": "Hehe, buat kue ini~……\nAku taruh permen Santa di atasnya……\nmumpung ada kesempatan, King-san! Coba deh~♪",
+      "name": "Cesario"
+    },
+    {
+      "text": "……Malam setelah debutnya.\nBarengan dengan itu, tim <Ascella> lagi ngadain pesta Natal, tapi――"
+    },
+    {
+      "text": "……Tunggu dulu, tunggu sebentar――!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Kamu siapa sebetulnya!?!?",
+      "name": "Teammates"
+    },
+    {
+      "text": "Ahaha! Ya ampun, ini jelas Cesario~!\nHoreee, kue-nya Cesario~! Aku nunggu-nunggu banget~♪",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Hati-hati jangan sampai kena krim lagi di hidung kamu, Kraft.\nAh, Trainer juga, ada buah favorit nggak?",
+      "name": "Cesario",
+      "choice_data_list": [
+        "S-stroberi sih mungkin-……eh bentar!"
+      ]
+    },
+    {
+      "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ah……kalau dipikir-pikir, sejak aku gabung tim aku selalu serius banget……\nkayaknya ini pertama kalinya aku bener-bener santai?",
+      "name": "Cesario"
+    },
+    {
+      "text": "Cesario tuh tipenya ada saklar on-off yang ekstrem banget, gitu~!",
+      "name": "Rhein Kraft",
+      "choice_data_list": [
+        "O-oh gitu…………?"
+      ]
+    },
+    {
+      "text": "Nggak, ini kayaknya udah bukan sekadar on-off switch lagi……",
+      "name": "King Halo"
+    },
+    {
+      "text": "Pesta tim yang penuh kejutan tak terduga.\nDiiringi tawa rame dan bahagia, malam Natal akhirnya mulai berakhir……"
+    },
+    {
+      "text": "…………",
+      "name": "King Halo"
+    },
+    {
+      "text": "Hehe……King-san ketiduran di sofa tuh~.\nDia bahkan nggak bangun waktu Trainer mindahin dia.",
+      "name": "Gadis Kuda A"
+    },
+    {
+      "text": "Sampai tadi siang dia sibuk banget nyiapin pesta ini……\nDia emang leader tim yang keren, ya?",
+      "name": "Gadis kuda B"
+    },
+    {
+      "text": "Iya bener. Tapi semoga dia nggak masuk angin kalau tidur kayak gini……\nTrainer, ada sesuatu nggak buat jadi selimut?",
+      "name": "Cesario"
+    },
+    {
+      "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
+      "name": "<username>"
+    },
+    {
+      "text": "Siap. ……Eh? Maaf, ini ada di bawah mantelmu, ini……?",
+      "name": "Cesario",
+      "choice_data_list": [
+        "Ah! Itu……"
+      ]
+    },
+    {
+      "text": "Aku tadinya mau kasih nanti……\nitu hadiah kecil buat semua orang.\nNggak istimewa banget sih.",
+      "name": "<username>"
+    },
+    {
+      "text": "Eh, dari Trainer!? Waaaaah-……!! Makasih banyak-!",
+      "name": "Rhein Kraft"
+    },
+    {
+      "text": "Trainer……maaf ya, aku harusnya juga nyiapin sesuatu.",
+      "name": "Cesario"
+    },
+    {
+      "text": "……gimana kalau kemenangan debutku kita anggap aja sebagai hadiah buat kamu?\nBisa dimaafin nggak? Hehe.",
+      "name": "Cesario",
+      "choice_data_list": [
+        "Nggak, itu udah lebih dari cukup!"
+      ]
+    },
+    {
+      "text": "(……sekali lagi aku ngerasa kalau Kraft sama Cesario itu bener-bener baik.\nNggak cuma itu, mereka juga super berbakat……)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Tapi, tiap inget itu……\naku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke tim <Ascella> yang udah terpuruk?)",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau memang ada maknanya, aku harus tahu buat ke depan.\nDengan pikiran itu, aku tanya mereka abis latihan suatu hari."
+    },
+    {
+      "text": "Waktu aku nanya, mereka saling liat dan senyum, terus――"
+    },
+    {
+      "text": "……karena kami ngerasa cuma kamu yang bisa.",
+      "name": "Kraft & Cesario"
+    }
+  ]
 }

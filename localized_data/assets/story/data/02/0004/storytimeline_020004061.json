@@ -2,126 +2,98 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The summer training camp passed safely, the season \nis completely autumnー However, the Twinkle Series \nis engulfed in the heat of midsummer."
+            "text": "Kemping latihan musim panas udah lewat dengan lancar, \nmusim pun resmi masuk ke gugurー Tapi, \nTwinkle Series masih kebawa panasnya musim panas."
         },
         {
-            "text": "At the center of the heat was the sisters \nNarita Brian and Biwa Hayahide."
+            "text": "Dan yang jadi pusat perhatian itu, \nadalah kakak-beradik Narita Brian sama Biwa Hayahide."
         },
         {
-            "name": "Commentator",
-            "text": "Narita Brian won the “Kikkashou”, surpassing last years time \nrecorded by Biwa Hayahide!!"
+            "name": "Komentator",
+            "text": "Narita Brian menang di “Kikkashou”, \npecahin rekor tahun lalu yang ditorehkan Biwa Hayahide!!"
         },
         {
-            "name": "Commentator",
-            "text": "Here is the birth of the 5th ever “Triple Crown Horse Girl”!!"
+            "name": "Komentator",
+            "text": "Inilah lahirnya “Gadis kuda Triple Crown” kelima!!"
         },
         {
-            "text": "One sister showed a landslide victory at the “Japan Derby”, and \nthe other sister released a record at the “Takarazuka Kinen”, \nafter that, which sister will make a big record againー"
+            "text": "Satu kakak nunjukin kemenangan telak di “Japan Derby”, \ndan satunya lagi bikin rekor di “Takarazuka Kinen”. \nSetelah itu, kakak mana lagi yang bakal bikin gebrakanー"
         },
         {
-            "text": "While running different races, the world was greatly excited by \nthe way they collided with each other."
+            "text": "Walau ikut balapan berbeda, dunia tetap heboh banget \nkarena cara mereka saling beradu."
         },
         {
-            "text": "And the direct confrontation between the 2 girls that everyone \nwas waiting for was going to happen in the “Arima Kinen”ー"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Those interviewers are coming today too～. It's a pain in the ass."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That's right. After all, the “Triple Crown \nHorse Girl” is a great achievement."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Who knows when the next time in this historic period will we be \nable to witness this again. So It is only natural that the \ncoverage will push and come."
+            "text": "Dan akhirnya, bentrokan langsung dua gadis yang \nditunggu semua orang, bakal kejadian di “Arima Kinen”ー"
         },
         {
             "name": "Gold Ship",
-            "text": "Well, it seems like everyone is disappointed \nthat they can't find Brian."
+            "text": "Wartawan-wartawan itu datang lagi hari ini～. Ribet banget sih."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Is Brian-san going to visit Hayahide-san?"
-        },
-        {
-            "text": "Oh, I suggest you don't go."
-        },
-        {
-            "text": "Oh, I suggest you don't go."
+            "text": "Iya juga. Soalnya jadi “Gadis kuda Triple Crown” \nitu prestasi gede banget."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I asked her out before, but I was refused. It may be that the \nsincerity of my feelings didn't reach her."
+            "text": "Entah kapan lagi di masa ini kita bisa liat kejadian kayak gitu. \nJadi wajar aja kalau liputannya jadi gede-gedean."
         },
         {
             "name": "Gold Ship",
-            "text": "Well～, I'm sure it's a shock for a family member."
+            "text": "Ya, tapi semua orang keliatannya kecewa \nkarena nggak bisa nemuin Brian."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "There is that too but, I think Brian-san was looking forward to \nrunning together with her in the “Arima Kinen”."
+            "text": "Apa Brian-san lagi mau jenguk Hayahide-san?"
         },
         {
-            "text": "As Mejiro McQueen said, every time Biwa Hayahide was active, \nNarita Brian seemed to be excited about it."
+            "text": "Oh, aku saranin jangan pergi deh."
         },
         {
-            "text": "She had withered the thought of running so much as to say that \nthe triple crown is a passing point, I wonder if the only thing \nto satisfy her was the confrontation with her sister."
+            "text": "Oh, aku saranin jangan pergi deh."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The other person who she wanted to run with me the most can't \nrun, I'm a little worried…"
+            "text": "Aku pernah ngajak dia sebelumnya, tapi ditolak. \nMungkin perasaanku nggak nyampe ke dia."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ya～, buat keluarga sendiri pasti agak nyesek juga sih."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Itu juga sih, tapi aku rasa Brian-san \nsebenernya nunggu banget buat lari bareng \ndi “Arima Kinen”."
+        },
+        {
+            "text": "Kayak kata Mejiro McQueen, tiap kali \nBiwa Hayahide tampil, Narita Brian selalu keliatan ikut semangat."
+        },
+        {
+            "text": "Dia bahkan nganggep Triple Crown cuma titik lewat aja. \nKayaknya yang bisa bikin dia puas \nhanya duel lawan kakaknya."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Orang yang paling pengen dia ajak lari bareng malah nggak bisa… \naku agak khawatir."
         },
         {
             "text": "Brian…"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I wanted to beat down the “Triple Crown Horse Girl”…"
+            "text": "Aku sebenernya pengen ngalahin “Gadis kuda Triple Crown”…"
         },
         {
             "name": "Narita Brian",
-            "text": "…There is nothing to worry about if you are this energetic."
+            "text": "…Kalau kamu masih seenerjik ini sih, nggak ada yang perlu dikhawatirin."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The injury at the “Emperor Prize (Autumn)” was unexpected. I had \nalready built up a winning equation for the next match against \nyou from the previous ones."
+            "text": "Cedera di “Emperor Prize (Autumn)” itu bener-bener di luar dugaan. \nPadahal aku udah nyusun rumus kemenangan buat lawan kamu."
         },
         {
             "name": "Narita Brian",
-            "text": "Using equations for racing, your head's way \nof thinking is still the same as ever."
+            "text": "Masih aja mikirin balapan pakai rumus. \nKepalamu emang nggak berubah ya."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ah, my head is not that big!!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "…Brian, my equation is not an empty theory on the desk. I'm sure \nI would have won in the “Arima Kinen”."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Do you remember when you were a little girl when you wore the 1st \nplace at sports day?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "No, it's not in my memory."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I guess so… winning was a matter of course for you, \nit wasn't so simulating as to remain in your memory, \nsuch as the race of the sports day."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Genius mathematicians say that it is a bliss when you're \nsatisfied with a problem that exists, and when you are \nchallenging difficult questions that cannot be solved."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "You're the same. Because of your outstanding talent, your \nfeelings can't be satisfied in regular races all the time."
+            "text": "Eh, kepalaku nggak segede itu juga!!"
         },
         {
             "name": "Narita Brian",
@@ -129,27 +101,55 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You can't beat it with just effort… So I modeled it, and what I \nfound was the way it is now."
+            "text": "…Brian, rumusku itu bukan teori kosong di atas kertas. \nAku yakin aku bisa menang di “Arima Kinen”."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It is not an empty cloud, but an effort to pursue a theory and do \nit accurately which shows firmly as a result."
+            "text": "Inget nggak waktu kamu kecil, pas juara pertama di lomba olahraga?"
         },
         {
             "name": "Narita Brian",
-            "text": "…Then, even more so I wanted you to \nprove it at the “Arima Kinen”."
+            "text": "Nggak, aku nggak inget."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "…The main story of the topic is from here. I have nothing to do \nat the hospital, so I tried to set up the equation of the “Arima \nKinen”, which I can't run."
+            "text": "Ya pantes sih… buatmu menang itu udah biasa, \njadi nggak sampai keinget hal receh kayak lomba olahraga."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "As a result, no matter how many times you do the calculations, it \nwill come out when you win."
+            "text": "Kata matematikawan jenius, bahagia itu pas kita \npuas sama soal yang ada, atau pas kita ngadepin \npertanyaan sulit yang keliatan mustahil dijawab."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I don't know what you will think of \nmy run… I'm sure I'll win, Brian."
+            "text": "Kamu juga sama. Karena bakatmu luar biasa, \nperasaanmu nggak bisa puas cuma dengan balapan biasa."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "……"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Usaha doang nggak cukup buat ngalahinmu… \nMakanya aku bikin model, dan hasilnya ya ini sekarang."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ini bukan angan-angan kosong, tapi usaha ngejar teori \ndan ngerjainnya bener-bener, yang hasilnya jelas keliatan."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "…Justru karena itu aku makin pengen kamu buktiin \ndi “Arima Kinen”."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…Ngomong-ngomong, karena aku nggak ada kerjaan di rumah sakit, \naku coba bikin rumus buat “Arima Kinen”, \npadahal aku nggak bisa ikut."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Dan hasilnya, nggak peduli berapa kali dihitung, \nhasilnya tetap sama: kamu yang bakal menang."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Aku nggak tau kamu bakal mikir apa tentang caraku lari… \ntapi aku yakin, aku pasti menang, Brian."
         },
         {
             "name": "Narita Brian",
@@ -157,19 +157,19 @@
         },
         {
             "name": "Narita Brian",
-            "text": "You don't need an equation to give you \nan answer. It is natural to win."
+            "text": "Nggak perlu rumus buat ngasih jawaban. \nMenang itu udah hal yang wajar."
         },
         {
             "name": "Narita Brian",
-            "text": "…Besides, If Big-sister had appeared in “Arima \nKinen”, the theory that you would have won over \nme, is just an empty argument on the table."
+            "text": "…Lagipula, kalau Kakak ikut “Arima Kinen”, \nteori kalau kamu bisa ngalahin aku, \nitu cuma argumen kosong di atas kertas."
         },
         {
             "name": "Narita Brian",
-            "text": "That's why, let me prove it to you someday, for sure."
+            "text": "Makanya, biar aku buktiin ke kamu suatu hari nanti, pasti."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ahaha… yeah, I promise."
+            "text": "Ahaha… iya, aku janji."
         },
         {
             "name": "Narita Brian",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Narita Brian",
-            "text": "Let me prove my Big-sister's equation, in the “Arima Kinen”!"
+            "text": "Biar aku buktiin rumus Kakak, di “Arima Kinen”!"
         }
     ]
 }

@@ -3,27 +3,27 @@
     "text_block_list": [
         {
             "name": "Cesario",
-            "text": "Faster――"
+            "text": "Lebih cepat――"
         },
         {
             "name": "Cesario",
-            "text": "Stronger――"
+            "text": "Lebih kuat――"
         },
         {
             "name": "Cesario",
-            "text": "To run one step farther!"
+            "text": "Untuk berlari satu langkah lebih jauh!"
         },
         {
             "name": "Symboli Kris S",
-            "text": "Follow me, Cesario!",
+            "text": "Ikuti aku, Cesario!",
             "choice_data_list": [
-                "Cesario, give it your all!",
-                "Cesario, give it your all!"
+                "Cesario, berikan yang terbaik!",
+                "Cesario, berikan yang terbaik!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "(――!! Just stay close! No matter how unsightly \nit looks, just chase after her, and keep up!)"
+            "text": "(――!! Tetaplah dekat! Tidak peduli betapa tidak enak dilihat,\ntetaplah mengejarnya, dan pertahankan!)"
         },
         {
             "name": "Cesario",
@@ -35,104 +35,128 @@
         },
         {
             "name": "Symboli Kris S",
-            "text": "Good job……keeping up. \nTrainer, it's a superb regimen. Everything is on track."
+            "text": "Kerja bagus……bisa mengikutiku.\nTrainer, ini regimen yang luar biasa. Semuanya berjalan sesuai rencana."
         },
         {
-            "text": "Yeah. Symboli Kris S, thanks for cooperating. \nIt's thanks to you."
+            "text": "Iya. Symboli Kris S, terima kasih atas kerjasamanya.\nIni berkat kamu.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "text": "Yeah. Symboli Kris S, thanks for cooperating. \nIt's thanks to you."
+            "text": "Iya. Symboli Kris S, terima kasih atas kerjasamanya.\nIni berkat kamu.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "text": "That encounter――was purely coincidence. \nAlmost like it was fated to release Cesario from her own shackles."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――I'm Symboli Kris S. \n……I came to pray. You are――"
-        },
-        {
-            "name": "Cesario",
-            "text": "(Symboli Kris S. Despite being in the Classic class, \nwon the 『Tenno Sho (Fall)』. The following year, she \nbecame the first Uma Musume to win it consecutively)"
-        },
-        {
-            "name": "Cesario",
-            "text": "(It's the first time we've met…… But why……does it \nfeel like this isn't the first time? Why is that……?)"
+            "text": "Pertemuan itu――adalah kebetulan murni.\nHampir seperti takdir untuk membebaskan Cesario dari belenggunya sendiri."
         },
         {
             "name": "Symboli Kris S",
-            "text": "Hmmm……that look…… \nAre you worried about something?"
+            "text": "――Aku Symboli Kris S.\n……Aku datang untuk berdoa. Kamu――"
         },
         {
             "name": "Cesario",
-            "text": "W-well……yes…… \nAbout my running, just a little……"
+            "text": "(Symboli Kris S. Meski berada di kelas Classic,\nmenang 『Tenno Sho (Fall)』. Tahun berikutnya, dia\nmenjadi Uma Musume pertama yang menang secara berturut-turut)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Ini pertama kalinya kami bertemu…… Tapi kenapa……rasanya\nseperti ini bukan pertama kalinya? Kenapa bisa……?)"
         },
         {
             "name": "Symboli Kris S",
-            "text": "About your running, huh? \nThen――"
+            "text": "Hmmm……tatapan itu……\nKamu sedang khawatir tentang sesuatu?"
+        },
+        {
+            "name": "Cesario",
+            "text": "A-ada……iya……\nTentang lariku, hanya sedikit……"
         },
         {
             "name": "Symboli Kris S",
-            "text": "I can at least listen. \nI'm not――a god though."
+            "text": "Tentang larianmu, ya?\nKalau begitu――"
         },
         {
             "name": "Symboli Kris S",
-            "text": "I see, a new strength……is it? \nYou're right."
+            "text": "Aku setidaknya bisa mendengarkan.\nTapi aku――bukan dewa lho."
         },
         {
             "name": "Symboli Kris S",
-            "text": "Ever since coming to this country, I've changed. \nEncounters――bring about evolution."
+            "text": "Begitu rupanya, kekuatan baru……begitu?\nKamu benar."
         },
         {
             "name": "Symboli Kris S",
-            "text": "They gave me――the strength to win the 『Tenno Sho (Fall)』"
+            "text": "Sejak datang ke negara ini, aku telah berubah.\nPertemuan――membawa evolusi."
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "Mereka memberiku――kekuatan untuk memenangkan 『Tenno Sho (Fall)』"
         },
         {
             "name": "Cesario",
-            "text": "Kris S-san, um……I have a request! \nI know it's rude since we just met."
+            "text": "Kris S-san, um……aku ada permintaan!\nAku tahu ini tidak sopan karena kami baru bertemu."
         },
         {
             "name": "Cesario",
-            "text": "Would you mind meeting my trainer? \nMaybe, if you were to lend a hand……!"
+            "text": "Bisakah kamu bertemu dengan trainerku?\nMungkin, jika kamu mau membantu……!"
         },
         {
-            "text": "Symboli Kris S was the ideal training partner. You could \nsay the power in their engines was completely different."
+            "text": "Symboli Kris S adalah partner latihan yang ideal.\nBisa dibilang tenaga di mesin mereka benar-benar berbeda."
         },
         {
-            "text": "By having Cesario chase after her, \nit led to Cesario's running becoming more powerful."
-        },
-        {
-            "name": "Cesario",
-            "text": "Haa, haa……this……feeling…… Trainer, by running with \nKris S-san, I can feel that my core has changed alot."
+            "text": "Dengan membuat Cesario mengejarnya,\nhal itu membuat lari Cesario menjadi lebih kuat."
         },
         {
             "name": "Cesario",
-            "text": "Just running in an ideal manner isn't enough. And sometimes, \nyou have to destroy the ideal, and just push forward recklessly."
-        },
-        {
-            "text": "Yeah, I'm glad you found a good partner. \nYou can aim even higher."
-        },
-        {
-            "text": "Yeah, I'm glad you found a good partner. \nYou can aim even higher."
-        },
-        {
-            "text": "And so, preparations were complete \nto take on Air Messiah at the 『Oaks』"
-        },
-        {
-            "text": "And then――the day of the 『Oaks』"
+            "text": "Haa, haa……perasaan……ini…… Trainer, dengan berlari bersama\nKris S-san, aku bisa merasakan inti diriku banyak berubah."
         },
         {
             "name": "Cesario",
-            "text": "Then――I'll be heading out, Trainer."
+            "text": "Hanya berlari dengan cara ideal saja tidak cukup. Dan terkadang,\nkamu harus menghancurkan yang ideal, dan hanya mendorong maju dengan nekat."
         },
         {
-            "text": "Yeah, be confident. If it's the you now, when you're \nat your best, there isn't a race you can lose!"
+            "text": "Iya, aku senang kamu menemukan partner yang baik.\nKamu bisa membidik lebih tinggi lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "text": "Yeah, be confident. If it's the you now, when you're \nat your best, there isn't a race you can lose!"
+            "text": "Iya, aku senang kamu menemukan partner yang baik.\nKamu bisa membidik lebih tinggi lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Maka, persiapan telah selesai\nuntuk menghadapi Air Messiah di 『Oaks』"
+        },
+        {
+            "text": "Dan kemudian――hari 『Oaks』 tiba"
         },
         {
             "name": "Cesario",
-            "text": "……Yeah. \nI'll believe in my legs――and definitely――!"
+            "text": "Kalau begitu――aku pergi, Trainer."
+        },
+        {
+            "text": "Iya, percaya diri. Kalau kamu yang sekarang, saat kamu\ndalam kondisi terbaik, tidak ada balapan yang bisa kamu kalahkan!",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya, percaya diri. Kalau kamu yang sekarang, saat kamu\ndalam kondisi terbaik, tidak ada balapan yang bisa kamu kalahkan!",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……Iya.\nAku akan percaya pada kakiku――dan pasti――!"
         },
         {
             "name": "Cesario",
@@ -140,30 +164,30 @@
         },
         {
             "name": "Cesario",
-            "text": "Her aura really is different――today."
+            "text": "Auramya benar-benar berbeda――hari ini."
         },
         {
             "name": "Air Messiah",
-            "text": "(The 『Oaks』…… When my mother was the closest \nto the Tiara……a race she placed 2nd in……)"
+            "text": "(『Oaks』…… Saat ibuku paling dekat\ndengan Tiara……balapan di mana dia finish posisi 2……)"
         },
         {
             "name": "Air Messiah",
-            "text": "(Cesario-san, I will defeat you, and earn my place! On that day, \nmy mother was within reach of glory……but today, for sure!)"
+            "text": "(Cesario-san, aku akan mengalahkanmu, dan mendapatkan tempatku! Di hari itu,\nibuku hampir meraih kemuliaan……tapi hari ini, pasti!)"
         },
         {
-            "text": "Many people were here to watch, \neach with their own different emotions. And so――"
+            "text": "Banyak orang datang untuk menonton,\nmasing-masing dengan emosi yang berbeda. Dan kemudian――"
         },
         {
             "name": "Cesario",
-            "text": "I can hear it…… \nThe budding of a large oak."
+            "text": "Aku bisa mendengarnya……\nTunas dari pohon oak besar."
         },
         {
-            "name": "Announcer",
-            "text": "Now, it's finally here again this year. To these young maidens, \na harsh 2400m. A fierce competition in the spring, the 『Oaks』――"
+            "name": "Penyiar",
+            "text": "Sekarang, akhirnya tiba lagi tahun ini. Untuk para gadis muda ini,\n2400m yang kejam. Kompetisi sengit di musim semi, 『Oaks』――"
         },
         {
-            "name": "Announcer",
-            "text": "Finally starts!"
+            "name": "Penyiar",
+            "text": "Akhirnya dimulai!"
         }
     ]
 }

@@ -1,119 +1,115 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "They're cheap! They're cheap! Freshly \npicked carrots, for a bargain price!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "And if you act now, as an added bonus you can become a member of \nTeam ＜Sirius＞! If you don't hurry, they'll be sold out!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Will this really bring in new members……?",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "I get the feeling they'd join even if we didn't do anything……",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But this is where we need to be assertive! \nOtherwise the other teams will take all the talented girls!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Come on, Brian, if you keep making such a scary face, \nnobody's gonna stop by, you know?",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "This is my normal face though.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "With the coming of Spring, many Uma Musume wearing brand new \nuniforms passed through the academy's gates―"
-        },
-        {
-            "text": "These girls that had just barely started out, \nwith all their aspirations and anxieties, all \nhad various expressions on their faces."
-        },
-        {
-            "text": "But it was clear in their eyes, they were focused on their dreams."
-        },
-        {
-            "text": "Trainer-san! I've finished putting up the posters!",
-            "name": "Special Week"
-        },
-        {
-            "text": "We've properly put up ours too!",
-            "name": "Bob-cut Uma Musume"
-        },
-        {
-            "text": "At the gate～, at the dorm's cafeteria～, \nand even some of the classrooms.",
-            "name": "Droopy-eyed Uma Musume"
-        },
-        {
-            "text": "With this hopefully some more girls that want to join Team \n＜Sirius＞ will show up!",
-            "name": "Uma Musume with Bangs"
-        },
-        {
-            "text": "It's not like we're lacking members, so there's no need to be so \nassertive while recruiting though……",
-            "name": "<username>"
-        },
-        {
-            "text": "But but, didn't we all decide to do this!? \nThat we'd help spread the feelings that Team ＜Sirius＞ has built on!",
-            "name": "Special Week"
-        },
-        {
-            "text": "……By the way, why are you wearing your Racing Uniform, Spe?",
-            "name": "<username>"
-        },
-        {
-            "text": "Eh? On the other hand, I was wondering why everyone is only \nwearing their school uniform. Yesterday, Gold Ship-san said \nwe would be wearing our Racing Uniforms―",
-            "name": "Special Week"
-        },
-        {
-            "text": "Well of course, if they see \"Japan's #1 Uma Musume\" running \naround it'll be great for getting attention, don't you think?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "I-I see……?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Alright Spe! As head of Team ＜Sirius＞'s publicity wing, \nshow 'em how you run……show 'em your gallantry!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Y-yeah!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hehee, as I thought, she looks her best when she's running.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "……that's right.",
-            "name": "<username>"
-        },
-        {
-            "text": "……that's right.",
-            "name": "<username>"
-        },
-        {
-            "text": "Uma Musume chasing down their dreams―"
-        },
-        {
-            "text": "For those girls, the ones that support them \nare the trainers and their teammates."
-        },
-        {
-            "text": "And then, those girls who have taken hold of their dreams, carry \non those feelings on to the next dream"
-        },
-        {
-            "text": "Everyone～! Let's work up the sweat of youth together～!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "And then together with us, we'll fulfill your dream……!",
-            "name": "Special Week"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Murah! Murah! Wortel segar baru dipetik,\nharganya miring banget!",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Dan kalau kamu cepat, bonusnya bisa langsung jadi anggota tim ＜Sirius＞!\nBuruan deh, nanti keburu habis!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Emang cara begini bisa bikin orang mau gabung ya……?",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Kayaknya sih, walaupun kita nggak ngapa-ngapain pun,\norang pasti bakal join……",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi justru sekarang kita harus agresif!\nKalau nggak, tim lain bisa ngerebut semua anak berbakat!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Ayo dong Brian, kalau mukamu serem gitu terus,\nmana ada orang yang mau mampir?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Tapi ini emang muka normal aku.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Musim semi tiba, banyak Uma Musume dengan seragam baru masuk lewat gerbang akademi―"
+    },
+    {
+      "text": "Cewek-cewek yang baru mulai ini,\ndengan harapan dan kekhawatiran masing-masing, mukanya macem-macem."
+    },
+    {
+      "text": "Tapi jelas kelihatan dari mata mereka, fokusnya ada di mimpi mereka."
+    },
+    {
+      "text": "Trainer! Aku udah selesai pasangin poster!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kami juga udah pasangin di tempat kami!",
+      "name": "Bob-cut Uma Musume"
+    },
+    {
+      "text": "Di gerbang～, kantin asrama～,\nsampai beberapa kelas juga udah ditempel.",
+      "name": "Droopy-eyed Uma Musume"
+    },
+    {
+      "text": "Semoga aja dengan ini makin banyak cewek yang mau gabung tim ＜Sirius＞!",
+      "name": "Uma Musume with Bangs"
+    },
+    {
+      "text": "Kan sebenernya anggota kita udah cukup,\njadi nggak perlu maksa banget rekrut orang……",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi kan, bukannya kita udah sepakat bareng!?\nKalau kita bakal bantu nyebarin semangat yang udah dibangun tim ＜Sirius＞!",
+      "name": "Special Week"
+    },
+    {
+      "text": "……Ngomong-ngomong, kenapa kamu pake Racing Uniform sih, Spe?",
+      "name": "<username>"
+    },
+    {
+      "text": "Eh? Justru aku heran kenapa semua cuma pake seragam sekolah.\nSoalnya kemarin Gold Ship bilang kita bakal pake Racing Uniform―",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ya iyalah! Kalau orang liat \"Uma Musume No.1 Jepang\" lari keliling,\npasti jadi pusat perhatian banget kan?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "O-oh gitu ya……?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oke Spe! Sebagai kepala divisi publikasi tim ＜Sirius＞,\ntunjukin larianmu…… tunjukin kegagahanmu!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "I-iya!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Hehee, bener kan, dia paling keren emang kalau lagi lari.",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "……iya juga sih.",
+      "name": "<username>"
+    },
+    {
+      "text": "Uma Musume yang ngejar mimpi mereka―"
+    },
+    {
+      "text": "Dan buat mereka, yang selalu dukung itu adalah para trainer dan teman satu tim."
+    },
+    {
+      "text": "Lalu cewek-cewek yang berhasil raih mimpinya,\nbakal nerusin perasaan itu buat ngejar mimpi berikutnya."
+    },
+    {
+      "text": "Semua orang～!\nYuk kita keringetan bareng di masa muda ini～!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan nanti bareng kita,\nkita juga bakal wujudin mimpimu……!",
+      "name": "Special Week"
+    }
+  ]
 }

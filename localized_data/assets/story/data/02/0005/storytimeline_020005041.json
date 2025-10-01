@@ -1,200 +1,201 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "(Observe as the race develops, \nand save stamina for the last spurt)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "(That's supposed to help maintain my speed, and it's the running \nstyle with the highest probability of victory. Even I don't \nbelieve that that's incorrect… but)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "([As if you haven't sorted out your own feelings]-)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "(＜Sirius＞'s Trainer's words, \nI can't stop thinking about them…)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "C'mon!! Don't stand there spacin' out!! \nIf you wanna become Japan's #1 then run like hell!!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "U-understoooood!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "(I thought I was also running towards my dreams.)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "(…If that's the case, \nwhy does it seem like the \"scenery\" is so hazy?)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…One more lap…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Congratulations, on your race today! \nThat's 2 consecutive wins! 2 in a row!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Um… Thank you very much. \nHow many times have you said that already…?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "It's important, so I'll say it as many times as I can! \nThat's just how awesome it is!",
-            "name": "Special Week"
-        },
-        {
-            "text": "On the last straight, when Suzuka-san just zooms by…! \nDoesn't it feel good to outpace everyone in one go?!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I don't really understand much about pacing, \nso it makes me feel like I need to practice more!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Um… Suzuka-san? For some reason, it feels like \nyou're not that happy about your victory…",
-            "name": "Special Week"
-        },
-        {
-            "text": "Eh…? No, of course I'm happy about it.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Speaking of which, Special Week-san, how are things going for \nyou? Team ＜Sirius＞ seems like it's very lively.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Everyone treats me well, so it's fun! We're all working together \nand trying to come up with the perfect running style for me!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Sometimes Gold Ship-san forces some weird, incomprehensible \ntraining on me… but I'm really glad I joined!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…If that's the case, then I'm glad.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ehehe, Yep! From here on, I'm going to continue doing \nmy best to become \"Japan's #1 Uma Musume\"!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "(You're really straight-forward when it comes to your dream \naren't you, Special Week-san…?)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…Hey Suzuka, you're spacing out again.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Eh?! Oh, I'm sorry.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Is something bothering you? Even though you've got consecutive \nvictories and impressive results.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "…I don't know.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I've won races, but something seems \noff with the \"scenery\" I saw…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…",
-            "name": "Air Groove"
-        },
-        {
-            "text": "…How about taking a break and relaxing for a bit? \nKnowledge is important, but so is your mental state.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Thank you. \nBut the [Derby] is next, I can't relax just yet.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…Next time, for sure, I'll win…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Haa… haa… fuu…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Looks like you've grasped the pace needed for 2400m races. \nAnd you've got stamina leftover, too.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "You have the strength to conquer Classic Races. \nWin, and take hold of your dream!",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "Yes…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Speeee! What's your dreeeeeam?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "\"Japan's #1 Uma Musumeeee\"!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hell yeah! Work hard to become Japan's #1! \nShow me your guts!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Guuuuuuts!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "You should be training with us, shouldn't you?!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "(…This isn't the time to be getting distracted. \nI need to focus on running toward my dream…!)",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "(WHOOOOOOOOOOAA!!)"
-        },
-        {
-            "text": "It looks like this Uma Musume's strength wasn't a fluke!! \nThis year's Derby, is an overwhelming victory!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Haaa…! Haaa…!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Fan favorite Silence Suzuka, \nwas restrained and held to a 9th place finish!",
-            "name": "Commentator"
-        },
-        {
-            "text": "…kuu!",
-            "name": "Silence Suzuka"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "(Perhatiin jalannya balapan, \nterus simpan tenaga buat sprint terakhir)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(Katanya sih itu bikin kecepatanku stabil, \ndan gaya lari kayak gitu punya peluang menang paling besar. \nAku juga nggak mikir itu salah sih… tapi)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "([Kayak kamu sendiri aja masih bingung sama perasaanmu]-)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(Kata-kata pelatih ＜Sirius＞… \nsampai sekarang masih kebayang terus…)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ayo dong!! Jangan bengong aja!! \nKalau mau jadi nomor 1 di Jepang ya lari sekenceng-kencengnya!!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "B-baiklaaah!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Aku juga mikir aku lari buat ngejar mimpiku.)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(…Kalau gitu, kenapa ya \npemandangan yang aku lihat rasanya kayak blur gitu?)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Satu putaran lagi…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Selamat ya atas lomba hari ini! \nItu kemenangan beruntun 2 kali! Dua kali berturut-turut!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "U-uh… makasih banyak. \nKamu udah bilang itu berapa kali sih…?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Itu penting banget, jadi aku bakal bilang terus! \nSaking kerennya soalnya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Pas lurusan terakhir, waktu Suzuka-san langsung ngebut…! \nRasanya nggak enak ya ninggalin semuanya dalam sekali gas?!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku masih kurang ngerti soal pacing, \njadi rasanya aku harus lebih banyak latihan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "U-um… Suzuka-san? Entah kenapa, \nkayaknya kamu nggak keliatan bahagia sama kemenanganmu…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Eh…? Nggak kok, aku seneng kok.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ngomong-ngomong, Special Week-san, gimana kabarmu? \nTim ＜Sirius＞ keliatannya rame banget ya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Semuanya baik banget sama aku, jadi seru! \nKita bareng-bareng nyoba nemuin gaya lari yang pas buatku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kadang Gold Ship-san suka maksa latihan aneh \nyang aku juga nggak ngerti maksudnya… \ntapi aku beneran seneng bisa gabung!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Kalau gitu, aku juga ikut seneng.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ehehe, iya! Mulai sekarang aku bakal terus berusaha \nbuat jadi \"Gadis Kuda nomor 1 di Jepang\"!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Kamu bener-bener lurus banget ya \nkalo soal mimpi, Special Week-san…)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Hei Suzuka, kamu bengong lagi.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Eh?! Oh, maaf.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ada yang bikin kamu kepikiran? Padahal kamu udah menang terus \ndan hasilmu juga bagus banget.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "…Aku nggak tau.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku memang menang, \ntapi pemandangan yang aku liat rasanya ada yang aneh…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…",
+      "name": "Air Groove"
+    },
+    {
+      "text": "…Gimana kalau kamu istirahat bentar? \nPengetahuan memang penting, tapi pikiran tenang juga sama pentingnya.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Makasih. \nTapi Derby udah di depan mata, jadi aku belum bisa santai.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Kali ini, aku pasti bakal menang…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Haa… haa… fuu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kayaknya kamu udah dapet ritme buat balapan 2400 meter. \nDan tenagamu masih ada sisa juga.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Kamu punya kekuatan buat taklukin Classic Race. \nMenanglah, dan raih mimpimu!",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Iya…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Speeee! Apa mimpimuuuu?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "\"Jadi Gadis Kuda nomor 1 di Jepaaanggg\"!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mantap! Kejar terus biar jadi nomor 1! \nTunjukin semangatmu!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Semangaaaaattt!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kamu harusnya latihan bareng kita, bukan?!",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "(…Sekarang bukan waktunya kebawa pikiran lain. \nAku harus fokus buat lari menuju mimpiku…!)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "(WOOOOOOOAAAAA!!)",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kayaknya kekuatan Gadis Kuda ini bukan kebetulan!! \nDerby tahun ini, kemenangan telak!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Haaa…! Haaa…!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Favorit penonton, Silence Suzuka, \nditahan dan akhirnya finish di posisi 9!",
+      "name": "Komentator"
+    },
+    {
+      "text": "…kuu!",
+      "name": "Silence Suzuka"
+    }
+  ]
 }

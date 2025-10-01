@@ -3,65 +3,73 @@
     "text_block_list": [
         {
             "name": "Air Messiah",
-            "text": "At the 『Oka Sho』……3rd. The 『Oaks』……2nd. \nAnd finally, her last chance at her dream, when \nshe was the favorite at the 『Shuuka Sho』……3rd."
+            "text": "Di 『Oka Sho』……posisi 3. Di 『Oaks』……posisi 2.\nDan akhirnya, kesempatan terakhirnya pada mimpinya,\nsaat dia diunggulkan di 『Shuuka Sho』……posisi 3."
         },
         {
             "name": "Air Messiah",
-            "text": "Is there anyone who would understand that? The \nshattered dreams of a maiden. As one burns to \ndust, the dream that grew from it will not go out……"
+            "text": "Adakah yang mengerti itu? Mimpi seorang gadis \nyang hancur berkeping. Saat seseorang terbakar \nmenjadi debu, mimpi yang tumbuh darinya takkan padam……"
         },
         {
             "name": "Air Messiah",
-            "text": "For me――Air Messiah. With this body――the product \nof a bloodline with a long-held desire."
+            "text": "Bagiku――Air Messiah. Dengan tubuh ini――\nhasil dari garis keturunan dengan hasrat yang terpendam lama."
         },
         {
             "name": "Air Messiah",
-            "text": "Our current opponent is Team <Ascella> who are in top condition. \nI'll do whatever it takes to defeat Cesario……!"
+            "text": "Lawan kami sekarang adalah Team <Ascella> yang sedang dalam kondisi puncak.\nAku akan lakukan apa pun untuk mengalahkan Cesario……!"
         },
         {
             "name": "Air Messiah",
-            "text": "Cesario-san, Trainer-san, I have a request. I am well aware \nof how shameless this is……but can we hold a mock race?"
+            "text": "Cesario-san, Trainer-san, aku ada permintaan. Aku sadar betul \nbetapa tidak pantasnya ini…… tapi bisakah kita mengadakan balapan latihan?"
         },
         {
             "name": "Air Messiah",
-            "text": "The distance――2400m. Counter-clockwise."
+            "text": "Jaraknya――2400m. Arah berlawanan jarum jam."
         },
         {
             "name": "Cesario",
-            "text": "――!? \nThe same conditions as the 『Oaks』, is it?"
+            "text": "――!? \nKondisi yang sama dengan 『Oaks』, ya?"
         },
         {
-            "text": "Air Messiah. A girl being taught by my colleague, \nthe 『Genius』 trainer, is requesting a mock race."
-        },
-        {
-            "text": "Air Messiah. A girl being taught by my colleague, \nthe 『Genius』 trainer, is requesting a mock race."
-        },
-        {
-            "text": "This was quite an irregular request. \nTo run against a rival just before the actual 『Oaks』 was……"
-        },
-        {
-            "name": "Cesario",
-            "text": "What should we do, Trainer?",
+            "text": "Air Messiah. Gadis yang diajar oleh rekan kerjaku,\ntrainer 『Jenius』, meminta balapan latihan.",
             "choice_data_list": [
-                "――Let's accept"
+                "",
+                ""
             ]
         },
         {
-            "text": "I decided that avoiding this was worse, and could \nnegatively impact us, so I decided to take it head on."
+            "text": "Air Messiah. Gadis yang diajar oleh rekan kerjaku,\ntrainer 『Jenius』, meminta balapan latihan.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Ready――Start!"
-        },
-        {
-            "text": "It would be the first race in the Tiara rotation \nthat was 2400m. It would require stamina. In this way, \nthe mock race would simulate the Tokyo race course."
-        },
-        {
-            "name": "Cesario",
-            "text": "(In the 『Oka Sho』 I was barely able to finish \nbefore her. But this time, we're running a \ndistance that's my specialty. In that case――)"
+            "text": "Ini permintaan yang cukup tidak biasa.\nLari melawan rival tepat sebelum 『Oaks』 yang sebenarnya adalah……"
         },
         {
             "name": "Cesario",
-            "text": "(I won't fall behind! I might not have real race experience \nwith this distance but――we're both the same in that regard)"
+            "text": "Harus bagaimana, Trainer?",
+            "choice_data_list": [
+                "――Mari kita terima"
+            ]
+        },
+        {
+            "text": "Aku memutuskan menghindari ini lebih buruk, dan bisa\nberdampak negatif pada kami, jadi aku memutuskan untuk menghadapinya."
+        },
+        {
+            "name": "Uma Musume Berambut Antena",
+            "text": "Siap――Mulai!"
+        },
+        {
+            "text": "Ini akan menjadi balapan pertama di rotasi Tiara\nyang berjarak 2400m. Ini membutuhkan stamina. Dengan cara ini,\nbalapan latihan akan mensimulasikan trek balap Tokyo."
+        },
+        {
+            "name": "Cesario",
+            "text": "(Di 『Oka Sho』 aku nyaris bisa finish \nsebelumnya. Tapi kali ini, kami berlari \njarak yang menjadi spesialisasiku. Kalau begitu――)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Aku tidak akan ketinggalan! Mungkin aku tidak punya pengalaman \nbalapan sungguhan dengan jarak ini tapi―― kami sama dalam hal itu)"
         },
         {
             "name": "Air Messiah",
@@ -69,137 +77,173 @@
         },
         {
             "name": "Cesario",
-            "text": "(――!? \nThis is……different from the 『Oka Sho』)"
+            "text": "(――!? \nIni…… berbeda dari 『Oka Sho』)"
         },
         {
             "name": "Air Messiah",
-            "text": "(At the 『Oka Sho』 I fell behind. \nBut I won't repeat that mistake again)"
+            "text": "(Di 『Oka Sho』 aku tertinggal. \nTapi aku tidak akan mengulangi kesalahan itu lagi)"
         },
         {
             "name": "Air Messiah",
-            "text": "(It's true that I'm not familiar with this \ndistance. But it's not unfamiliar to \"us\"……!)"
+            "text": "(Memang benar aku tidak terbiasa dengan \njarak ini. Tapi itu tidak asing bagi \"kami\"……!)"
         },
         {
             "name": "Air Messiah",
-            "text": "(Ever since I was young, I've listened to my mother \ntalk about her experiences, and I've been doing image \ntraining to run on the turf in Fuchu. On top of that――)"
+            "text": "(Sejak kecil, aku sudah mendengar cerita ibuku \ntentang pengalamannya, dan aku telah melakukan latihan \nvisualisasi untuk berlari di turf Fuchu. Selain itu――)"
         },
         {
             "name": "Air Messiah",
-            "text": "(The 『Oaks』 and even the 『Japan Derby』. Those that have come \nbefore me, I've burned their image in to my own eyes!)"
+            "text": "(『Oaks』 dan bahkan 『Japan Derby』. Mereka yang datang \nsebelumku, aku telah membakar bayangan mereka ke dalam mataku!)"
         },
         {
             "name": "Air Messiah",
-            "text": "I can see it! The route――I should take!!"
+            "text": "Aku bisa melihatnya! Rute―― yang harus kuambil!!"
         },
         {
             "name": "Cesario",
-            "text": "This is nothing! Right here――!!"
+            "text": "Ini bukan apa-apa! Di sini――!!"
         },
         {
             "name": "Cesario & Messiah",
             "text": "Haaaaaaaa!! \nHaaaaaaa!"
         },
         {
-            "text": "The only thing left was a straight. \nBut, it seemed like Air Messiah had slightly more power."
+            "text": "Yang tersisa hanyalah lintasan lurus.\nTapi, sepertinya Air Messiah punya tenaga sedikit lebih banyak."
         },
         {
             "name": "Air Messiah",
-            "text": "Cesario-san, thank you very much. As I thought, \nfor the 『Oaks』 you will be my strongest rival."
+            "text": "Cesario-san, terima kasih banyak. Seperti yang kuduga,\nuntuk 『Oaks』 kamu akan menjadi rival terkuatku."
         },
         {
             "name": "Cesario",
-            "text": "……Yeah. \nIt seems that I was――a little conceited."
+            "text": "……Iya.\nTampaknya aku―― agak sombong tadi."
         },
         {
             "text": "…………"
         },
         {
             "name": "Cesario",
-            "text": "Trainer, I could feel her spirit more than during the 『Oka Sho』. \nOr maybe losing that last race had lit a fire in her."
+            "text": "Trainer, aku bisa merasakan semangatnya lebih dari saat 『Oka Sho』.\nAtau mungkin kalah di balapan terakhir itu telah membakar semangatnya."
         },
         {
             "name": "Cesario",
-            "text": "But still, her running strategy……"
+            "text": "Tapi tetap, strategi larinya……"
         },
         {
-            "text": "――Think. It wasn't a difference in race sense. \nI'm sure that was……"
+            "text": "――Pikirkan. Itu bukan perbedaan dalam naluri balap.\nAku yakin itu adalah……",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "text": "Strength born from practice."
+            "text": "Kekuatan yang lahir dari latihan."
         },
         {
-            "text": "Strength born from practice."
-        },
-        {
-            "name": "Cesario",
-            "text": "From practice……?"
-        },
-        {
-            "text": "Yeah, after learning from her mother, she must have \nspent hours repeatedly simulating that in practice."
-        },
-        {
-            "text": "Yeah, after learning from her mother, she must have \nspent hours repeatedly simulating that in practice."
+            "text": "Kekuatan yang lahir dari latihan."
         },
         {
             "name": "Cesario",
-            "text": "From her mother…… \nI see, so that's the reason……"
+            "text": "Dari latihan……?"
+        },
+        {
+            "text": "Iya, setelah belajar dari ibunya, dia pasti menghabiskan\nwaktu berjam-jam berulang kali mensimulasikannya dalam latihan.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya, setelah belajar dari ibunya, dia pasti menghabiskan\nwaktu berjam-jam berulang kali mensimulasikannya dalam latihan.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
             "name": "Cesario",
-            "text": "I didn't think I could lose. It's the distance I'm \nbest at, and Kraft had entrusted her feelings to me."
+            "text": "Dari ibunya……\nBegitu rupanya, jadi itu alasannya……"
         },
         {
             "name": "Cesario",
-            "text": "But she also had similar emotions entrusted to her…… \nOn top of that, if their experiences have also been passed down……"
-        },
-        {
-            "text": "Cesario is strong. But today, we learned that \nthere were those who were catching up to us."
-        },
-        {
-            "text": "Cesario is strong. But today, we learned that \nthere were those who were catching up to us."
-        },
-        {
-            "text": "It'll be okay, Cesario. \nWe just need to think things over once more."
-        },
-        {
-            "text": "It'll be okay, Cesario. \nWe just need to think things over once more."
+            "text": "Aku tidak menyangka bisa kalah. Ini jarak yang paling\naku kuasai, dan Kraft telah mempercayakan perasaannya padaku."
         },
         {
             "name": "Cesario",
-            "text": "Think things over…… think about countermeasures, you mean?"
+            "text": "Tapi dia juga dipercayakan emosi serupa……\nSelain itu, jika pengalaman mereka juga diwariskan……"
         },
         {
-            "text": "Yeah, you need to think about how to counter Air Messiah. That's \nwhy, Cesario, you don't need to rush. You should rest for today."
+            "text": "Cesario itu kuat. Tapi hari ini, kami belajar bahwa\nada orang yang sedang mengejar kami.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
-            "text": "Yeah, you need to think about how to counter Air Messiah. That's \nwhy, Cesario, you don't need to rush. You should rest for today."
+            "text": "Cesario itu kuat. Tapi hari ini, kami belajar bahwa\nada orang yang sedang mengejar kami.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Tidak apa-apa, Cesario.\nKita hanya perlu memikirkan semuanya sekali lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Tidak apa-apa, Cesario.\nKita hanya perlu memikirkan semuanya sekali lagi.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
             "name": "Cesario",
-            "text": "Trainer……okay, I understand."
+            "text": "Memikirkan lagi…… maksudmu memikirkan cara mengatasi?"
+        },
+        {
+            "text": "Iya, kamu perlu memikirkan cara melawan Air Messiah. Karena itu,\nCesario, kamu tidak perlu terburu-buru. Sebaiknya kamu istirahat hari ini.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "Iya, kamu perlu memikirkan cara melawan Air Messiah. Karena itu,\nCesario, kamu tidak perlu terburu-buru. Sebaiknya kamu istirahat hari ini.",
+            "choice_data_list": [
+                "",
+                ""
+            ]
         },
         {
             "name": "Cesario",
-            "text": "I'll try to put my own thoughts in order. \nIn some quiet place. Well then……"
-        },
-        {
-            "text": "I watched as Cesario left, thinking. It seemed like something \nimpactful would need to happen in order to help her secure victory."
+            "text": "Trainer……oke, aku mengerti."
         },
         {
             "name": "Cesario",
-            "text": "The church…… If it's here then……"
+            "text": "Aku akan coba menyusun pikiranku sendiri.\nDi tempat yang tenang. Kalau begitu……"
+        },
+        {
+            "text": "Aku melihat Cesario pergi sambil berpikir. Tampaknya sesuatu\nyang berdampak besar diperlukan untuk membantunya mengamankan kemenangan."
         },
         {
             "name": "Cesario",
-            "text": "(That's right, I can't just keep leaving everything \nto Trainer. I need to win for Kraft too! To do that……)"
+            "text": "Gereja…… Kalau di sini maka……"
         },
         {
             "name": "Cesario",
-            "text": "(I need even more strength. I need to train more than ever…… \nNo, I need something more fundamental――a new inspiration)"
+            "text": "(Benar, aku tidak bisa terus menerus mengandalkan segalanya\npada Trainer. Aku harus menang untuk Kraft juga! Untuk itu……)"
         },
         {
             "name": "Cesario",
-            "text": "(If I can't, then I won't stand a chance against \nAir Messiah-san. I need a kind of strength that \nI've never known before. To obtain that……)"
+            "text": "(Aku butuh lebih banyak kekuatan. Aku harus berlatih lebih dari sebelumnya……\nTidak, aku butuh sesuatu yang lebih mendasar――inspirasi baru)"
+        },
+        {
+            "name": "Cesario",
+            "text": "(Jika tidak, aku tidak akan ada harapan melawan\nAir Messiah-san. Aku butuh kekuatan yang belum\npernah kuketahui sebelumnya. Untuk mendapatkannya……)"
         },
         {
             "name": "Cesario",
@@ -207,15 +251,15 @@
         },
         {
             "name": "Symboli Kris S",
-            "text": "Who's there? \nWho is that――over there?"
+            "text": "Siapa di sana?\nSiapa――yang di sana?"
         },
         {
             "name": "Symboli Kris S",
-            "text": "It's someone I haven't seen before――in the church."
+            "text": "Seseorang yang belum pernah kulihat――di dalam gereja."
         },
         {
             "name": "Cesario",
-            "text": "You…… Wait, you are……"
+            "text": "Kamu…… Tunggu, kamu adalah……"
         }
     ]
 }

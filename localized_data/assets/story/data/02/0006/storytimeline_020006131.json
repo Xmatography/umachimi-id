@@ -1,167 +1,159 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "＜Sirius＞ was once again aiming for the Spring Trophyー"
-        },
-        {
-            "text": "As if to prove those words weren't a lie, \nSpecial Week continued to put in the effort."
-        },
-        {
-            "text": "For the sake of supporting her, there was only \none thing on my mind, the [Spring Tenno Sho]."
-        },
-        {
-            "text": "However, for her, a member of the team that wanted \nto make the race special, the feeling of \"Wanting \nto Take the Trophy\" grew stronger."
-        },
-        {
-            "text": "And then――"
-        },
-        {
-            "text": "Bathed in sunlight, the Kyoto race course！ \nAiming for the glory of the trophy, 12 Uma Musume have gathered！",
-            "name": "Commentator"
-        },
-        {
-            "text": "As expected, the center of attention \nis last year's champion, Mejiro Bright！",
-            "name": "Commentator"
-        },
-        {
-            "text": "And then we have the challengers from the \"Golden \nGeneration\", the Kikka Sho Uma Musume Seiun Sky, \nand the Derby Uma Musume Special Week!",
-            "name": "Commentator"
-        },
-        {
-            "text": "In this three-way battle, what result awaits us, \nas the crowded stands gaze on with bated breath！？",
-            "name": "Commentator"
-        },
-        {
-            "text": "Spe-chan, do your best out there! Just like with McQueen, we're \nexpecting the ultimate [Spring Tenno Sho]!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "I'm thinkin' of winnin' this race someday too！ \nSo get out there and help raise this emotion to the max！",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Yeah！ I'll live up to those expectations！",
-            "name": "Special Week"
-        },
-        {
-            "text": "(Diiiing……♪)"
-        },
-        {
-            "text": "Hm？ Was that Spe's phone？",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Ah！ It's a message from Suzuka-san！",
-            "name": "Special Week"
-        },
-        {
-            "text": "Let's see…… 『I'll be cheering you on. Do your best, Spe-chin』……。 \n……Spe-chin?",
-            "name": "Special Week"
-        },
-        {
-            "text": "It's the middle of the night over there, \nshe's probably half-asleep and hit the wrong key……。",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Fufuu, half asleep but still frantically cheering you on, \nshe must have really wanted to make sure that you knew.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "We'll cheer you on lots too……！",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Do your best, Special Week-san！",
-            "name": "Horsegirl with Black Bob-cut"
-        },
-        {
-            "text": "We believe you'll be the one to cross the goal first！",
-            "name": "Horsegirl with Straight-cut Bangs"
-        },
-        {
-            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Show us you can take that trophy！",
-                "Show us you can take that trophy！"
-            ]
-        },
-        {
-            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Show us you can take that trophy！",
-                "Show us you can take that trophy！"
-            ]
-        },
-        {
-            "text": "Yeah! My Moms' dream, my own dream, and with everyone's feelings \ngiving me strength, I'll definitely win!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yo, Spe-chan. We haven't been in the same race \ntogether since the 『Kikka Sho』, huh?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Sei-chan",
-            "name": "Special Week"
-        },
-        {
-            "text": "I won that time but, let's just see who'll win this time around。",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "……once again, the look on your face seems a little different。",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Yeah, I've got a lot of expectations I need to live up to！",
-            "name": "Special Week"
-        },
-        {
-            "text": "……that's the same for me.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "No matter who my opponent is, I need only accomplish \nwhat I must…… that is how I feel。",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "However, before that, to Seiun Sky-sama…… and even before that to \nSpecial Week-sama, I fell behind.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Once again, to both of you from the \"Golden Generation\" \nwith my deep respect, I shall be the one to stand \nat the top after this race……！",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "I guess can't back down after all that, huh～? \nAll that's left is to settle this with the race.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Yeah, with all our strength……！",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's just how I'd like it……！",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Well then, let's get going.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Now, for these 12 excellent contestants, \nthe curtain rises on this long 3200m battle！",
-            "name": "Commentator"
-        },
-        {
-            "text": "Will it be last year's champion who crosses the \ngoal first?! Or will it be one from the \"Golden \nGeneration\" that split the Classic crown?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "The Uma Musume have settled in their gates. \nThe 『Spring Tenno Sho』 now ―― Begins！",
-            "name": "Commentator"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "＜Sirius＞ sekali lagi ngincer Piala Musim Semiー"
+    },
+    {
+      "text": "Dan buat ngebuktiin itu bukan cuma omong kosong, \nSpecial Week terus berusaha keras."
+    },
+    {
+      "text": "Buat dukung dia, yang ada di pikiranku cuma satu, [Spring Tenno Sho]."
+    },
+    {
+      "text": "Tapi buat dia, anggota tim yang pengen bikin balapan ini spesial, \nrasa \"Harus bisa dapet piala\" makin kuat."
+    },
+    {
+      "text": "Dan lalu――"
+    },
+    {
+      "text": "Di bawah sinar matahari, lintasan Kyoto！ \nDemi rebut kejayaan piala, 12 Uma Musume udah ngumpul！",
+      "name": "Komentator"
+    },
+    {
+      "text": "Seperti yang diprediksi, pusat perhatian adalah \njuara tahun lalu, Mejiro Bright！",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dan penantangnya datang dari \"Generasi Emas\", \nsi Uma Musume Kikka Sho Seiun Sky, \ndan Uma Musume Derby Special Week!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Pertarungan tiga arah ini bakal ngasih hasil apa ya? \nPenonton penuh sesak nahan napas nungguin！？",
+      "name": "Komentator"
+    },
+    {
+      "text": "Spe-chan, semangat ya! Sama kayak waktu McQueen, \nkita semua ngarep ini jadi [Spring Tenno Sho] yang paling keren!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Gue juga pengen menangin balapan ini suatu hari！ \nJadi ayo kasih yang maksimal biar makin seru！",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Iya！ Aku bakal bener-bener buktiin bisa!",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Tiiing……♪)"
+    },
+    {
+      "text": "Hm？ Itu hape-nya Spe ya？",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ah！ Pesan dari Suzuka-san！",
+      "name": "Special Week"
+    },
+    {
+      "text": "Coba lihat…… 『Aku dukung kamu. Semangat ya, Spe-chin』……。 \n……Spe-chin?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sekarang kan tengah malam di sana, mungkin dia setengah tidur \nterus salah ketik……。",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Fufuu, walau setengah tidur tetep maksain ngirim semangat, \npasti dia bener-bener pengen kamu ngerasain itu.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kami juga bakal kasih semangat banyak buat kamu……！",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Semangat ya, Special Week-san！",
+      "name": "Gadis Kuda berpotongan Bob Hitam"
+    },
+    {
+      "text": "Kami yakin kamu yang bakal nyampe garis duluan！",
+      "name": "Gadis Kuda berponi rata"
+    },
+    {
+      "text": "Gaya kamu pas latihan udah paling bagus sejauh ini, \ntinggal percaya diri aja, hasilnya pasti nyusul.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Tunjukin kalau kamu bisa rebut pialanya！",
+        "Tunjukin kalau kamu bisa rebut pialanya！"
+      ]
+    },
+    {
+      "text": "Iya! Mimpinya Moms, mimpiku sendiri, ditambah perasaan semua orang \nkasih aku kekuatan, aku pasti menang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Yo, Spe-chan. Udah lama ya kita nggak satu balapan, terakhir di 『Kikka Sho』 kan?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Sei-chan",
+      "name": "Special Week"
+    },
+    {
+      "text": "Waktu itu aku yang menang, tapi kita lihat aja kali ini siapa yang bakal menang。",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "……tatapanmu lagi beda sekarang ya。",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Iya, aku punya banyak harapan yang harus aku jawab！",
+      "name": "Special Week"
+    },
+    {
+      "text": "……aku juga ngerasain hal yang sama.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Siapapun lawanku, aku cuma harus ngelakuin apa yang harus kulakuin…… \nitulah yang aku rasain。",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Tapi, sebelumnya, aku kalah sama Seiun Sky-sama…… \ndan bahkan sama Special Week-sama juga.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Sekarang, dengan hormat buat kalian berdua dari \"Generasi Emas\", \naku yang bakal berdiri di puncak setelah balapan ini……！",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Kalau udah ngomong kayak gitu, aku juga nggak bisa mundur ya～? \nYa udah, kita selesain aja lewat balapan.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Iya, kasih semua yang kita punya……！",
+      "name": "Special Week"
+    },
+    {
+      "text": "Itu yang aku mau juga……！",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Kalau gitu, ayo kita mulai.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Sekarang, buat 12 peserta hebat ini, tirai kebuka buat \npertarungan panjang 3200 meter！",
+      "name": "Komentator"
+    },
+    {
+      "text": "Apakah juara tahun lalu yang bakal duluan nyampe garis?! \nAtau salah satu dari \"Generasi Emas\" yang sempet bagi-bagi mahkota Classic?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Uma Musume udah siap di gerbangnya. 『Spring Tenno Sho』 sekarang ―― Dimulai！",
+      "name": "Komentator"
+    }
+  ]
 }

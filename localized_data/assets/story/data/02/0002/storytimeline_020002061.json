@@ -2,81 +2,81 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Commentator",
-            "text": "Towards the Triple crown horse girl, Mihono Bourbon appears here \nat the Keito racetrack!"
+            "name": "Komentator",
+            "text": "Menuju gadis kuda Triple Crown, Mihono Bourbon muncul di sini\ndi trek Keito!"
         },
         {
             "name": "Cheers",
-            "text": "(Cheering!!)"
+            "text": "(Bersorak!!)"
         },
         {
             "name": "Spectator A",
-            "text": "Mihono Bourbon! show me the moment of \nthe Triple Crown horse girl's birth!"
+            "text": "Mihono Bourbon! tunjukkan momen lahirnya gadis kuda Triple Crown!"
         },
         {
             "name": "Spectator B",
-            "text": "I believe in your victory!"
+            "text": "Aku percaya pada kemenanganmu!"
         },
         {
-            "text": "The (Kikkashou). The day of the confrontation between Rice Shower \nand Mihono Bourbon has finally arrived."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Bourbon-san… Follow her… Follow her. Then… Overtake her."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Rice Shower-san. It seems that you have marked me quite a bit."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Still, I will win first place."
+            "text": "Kikkashou. Hari pertemuan antara Rice Shower dan Mihono Bourbon akhirnya tiba."
         },
         {
             "name": "Rice Shower",
-            "text": "Rice too, will not lose today."
+            "text": "Bourbon-san… Ikuti dia… Ikuti dia. Lalu… Lewati dia."
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Rice-san! Do your best!"
+            "name": "Mihono Bourbon",
+            "text": "Rice Shower-san. Sepertinya kamu cukup memperhatikanku."
         },
         {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "The (Kikkashou). its 3000m in turf, there is a chance for Rice, \nwho is good at long distance, right?"
+            "name": "Mihono Bourbon",
+            "text": "Tapi, aku tetap akan menang di tempat pertama."
         },
         {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "However, there is no reason that Bourbon \nhas not planned any countermeasures."
+            "name": "Rice Shower",
+            "text": "Rice juga, tidak akan kalah hari ini."
+        },
+        {
+            "name": "Gadis Kuda dengan Poni Lurus",
+            "text": "Rice-san! Lakukan yang terbaik!"
+        },
+        {
+            "name": "Gadis Kuda berambut bob hitam",
+            "text": "Kikkashou. Ini 3000m di turf, ada peluang buat Rice,\nyang jago jarak jauh, kan?"
+        },
+        {
+            "name": "Gadis Kuda bermata sayu",
+            "text": "Namun, tidak ada alasan Bourbon belum menyiapkan strategi apapun."
         },
         {
             "name": "Gold Ship",
-            "text": "Hey, Trainer, what did you tell Rice?"
+            "text": "Hei, Trainer, apa yang kamu bilang ke Rice?"
         },
         {
-            "text": "Follow Bourbon and overtake."
+            "text": "Ikuti Bourbon dan lewati dia."
         },
         {
             "name": "Gold Ship",
-            "text": "Hmm…… Hey, that's all!"
+            "text": "Hmm…… Hei, itu saja?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "It's not a mistake. Rice-san's power to follow is the real deal."
+            "text": "Bukan salah. Kekuatan Rice-san untuk mengikuti itu asli banget."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, rather than Bourbon herself, I'm worried about how the \nfans will react, when Rice wins they might――"
+            "text": "Tapi, daripada Bourbon sendiri, aku khawatir soal reaksi penonton, kalau Rice menang mereka mungkin――"
         },
         {
             "name": "Cheers",
-            "text": "(Cheering!!)"
+            "text": "(Bersorak!!)"
         },
         {
-            "text": "As if to block Mejiro McQueen's words, The cheers before the \nstart echoed in the race field."
+            "text": "Seolah menutupi kata-kata Mejiro McQueen, sorakan sebelum start menggema di lapangan lomba."
         },
         {
-            "name": "Commentator",
-            "text": "it's now the start of The Kikkashou Award \nfor the last glory of the classic race."
+            "name": "Komentator",
+            "text": "Sekarang dimulainya Kikkashou Award\nuntuk kejayaan terakhir lomba klasik."
         }
     ]
 }

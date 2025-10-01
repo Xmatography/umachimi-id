@@ -2,229 +2,229 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Trainer-san. ……sorry for taking so long. \nAbout my next race――",
+            "text": "Trainer-san. ……maaf sudah lama membuatmu menunggu.\nSoal balapan berikutnya――",
             "name": "Rhein Kraft"
         },
         {
-            "text": "My goal is to take first place in the 『NHK Mile Cup』! \nI look forward to your guidance!!",
+            "text": "Tujuanku adalah meraih posisi pertama di 『NHK Mile Cup』!\nAku tunggu bimbingannya!!",
             "name": "Rhein Kraft",
             "choice_data_list": [
-                "Kraft……! I see, you decided!",
-                "Kraft……! I see, you decided!"
+                "Kraft……! Begitu rupanya, kamu sudah putuskan!",
+                "Kraft……! Begitu rupanya, kamu sudah putuskan!"
             ]
         },
         {
-            "text": "Yes. I thought there was something that I could show them, \nthat these legs could leave behind.",
+            "text": "Iya. Aku pikir ada sesuatu yang bisa kutunjukkan,\nsesuatu yang bisa kutinggalkan dengan kedua kakiku ini.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Since Trainer-san and everyone else believes in my speed…… \nI will definitely win the title of 『Generation's Fastest』!",
+            "text": "Karena Trainer-san dan semua orang percaya pada kecepatanku……\naku pasti akan menangkan gelar 『Yang Tercepat di Generasiku』!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "text": "Iya. ……『Uma Musume yang Kuat itu Memang Kuat』.\nKamu akan membuktikannya dengan caramu sendiri,\ndengan cara yang hanya bisa kamu lakukan!",
             "name": "<username>"
         },
         {
-            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "text": "Iya. ……『Uma Musume yang Kuat itu Memang Kuat』.\nKamu akan membuktikannya dengan caramu sendiri,\ndengan cara yang hanya bisa kamu lakukan!",
             "name": "<username>"
         },
         {
-            "text": "……I see. So you've decided too. \n……Alright, now that we've decided that, time's running out!",
+            "text": "……Begitu rupanya. Jadi kamu juga sudah putuskan.\n……Oke, sekarang kita sudah putuskan, waktunya mepet!",
             "name": "King Halo"
         },
         {
-            "text": "Something that nobody has achieved before. Obtaining the \nunorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \nWe need to make sure to train and prepare properly!",
+            "text": "Sesuatu yang belum pernah ada yang capai sebelumnya.\nMeraih double crown yang tidak biasa dari 『Oka Sho』 dan 『NHK Mile C』.\nKita harus pastikan untuk latihan dan persiapan dengan benar!",
             "name": "King Halo",
             "choice_data_list": [
-                "Right!",
-                "Right!"
+                "Benar!",
+                "Benar!"
             ]
         },
         {
-            "text": "And with that said――!"
+            "text": "Dan dengan itu――!"
         },
         {
-            "text": "Uwaah~, so we're doing training camp here, huh!? \nUfufu, being completely surrounded by the forest \nlike this, I'll be able to sleep reeeeally well~.",
-            "name": "Antenna-haired Uma Musume"
+            "text": "Wah~, jadi kita kemah latihan di sini, ya!?\nUfufu, dikelilingi hutan begini,\naku bisa tidur nyeeenyak banget~.",
+            "name": "Uma Musume Berambut Antena"
         },
         {
-            "text": "Idiot! You're an idiot! We're here for training camp, \nyou know!? Especially for those two in the Classic \nclass! They need to really train up after all!",
-            "name": "Single Knot Uma Musume"
+            "text": "Bodoh! Kamu ini bodoh! Kita ke sini untuk kemah latihan, tahu!?\nApalagi buat mereka yang di kelas Classic!\nMereka harus betul-betul latihan keras!",
+            "name": "Uma Musume Kepang Satu"
         },
         {
-            "text": "Trainer-san, King-san, thank you for the wonderful \nsuggestion! I'm going to put my luggage away and \nget changed, okay? Let's get started soon!",
+            "text": "Trainer-san, King-san, terima kasih atas sarannya yang bagus!\nAku akan menaruh barang dan ganti baju dulu, ya?\nAyo kita mulai segera!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "And so, surrounded by forests, mountains, \nand nature, the days of intense training began……!"
+            "text": "Maka, dikelilingi hutan, gunung, dan alam,\nhari-hari latihan intensif pun dimulai……!"
         },
         {
-            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "text": "Kraft! Ada tanjakan curam di dekat sini.\nMungkin tempat bagus untuk latihan dash.\nMau cek nanti?",
             "name": "<username>"
         },
         {
-            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "text": "Kraft! Ada tanjakan curam di dekat sini.\nMungkin tempat bagus untuk latihan dash.\nMau cek nanti?",
             "name": "<username>"
         },
         {
-            "text": "Waaah……! Thank you very much! \nPlease add it to the menu!",
+            "text": "Waaah……! Terima kasih banyak!\nTolong tambahkan ke menu latihan!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "text": "Dan, Cesario. Untuk persiapan 『Oaks』\nkita akan fokus pada latihan stamina.",
             "name": "<username>"
         },
         {
-            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "text": "Dan, Cesario. Untuk persiapan 『Oaks』\nkita akan fokus pada latihan stamina.",
             "name": "<username>"
         },
         {
-            "text": "I understand. \nBy all means, thank you for your consideration.",
+            "text": "Aku paham.\nDengan senang hati, terima kasih atas perhatiannya.",
             "name": "Cesario"
         },
         {
-            "text": "Uhii-, the classic crew has it rough……!! \nBut, seeing them work so hard nearby, gets me motivated!",
-            "name": "Single Knot Uma Musume"
+            "text": "Uhii-, kru Classic berat banget……!!\nTapi, lihat mereka kerja keras di dekat sini, jadi ikut termotivasi!",
+            "name": "Uma Musume Kepang Satu"
         },
         {
-            "text": "Well, I guess it makes you think you should work hard too…… \nNnnnnnaa~~, I guess we should do another lap, huh!?",
-            "name": "Antenna-haired Uma Musume"
+            "text": "Yah, bikin mikir harus kerja keras juga sih……\nNnnnnnaa~~, kayaknya kita harus lari satu putaran lagi, ya!?",
+            "name": "Uma Musume Berambut Antena"
         },
         {
-            "text": "Fufuu……isn't this fine? \nLooks like this training camp will be worthwhile!",
+            "text": "Fufuu……bagus kan?\nKayaknya kemah latihan ini akan berfaedah!",
             "name": "King Halo"
         },
         {
-            "text": "We worked hard from early in the morning until sunset. \nThe Classic class was working hard to prepare for this \nonce-in-a-lifetime event, so they wouldn't have any regrets."
+            "text": "Kami kerja keras dari pagi buta sampai matahari terbenam.\nKelas Classic berusaha keras mempersiapkan\nacara sekali seumur hidup ini, agar tidak menyesal."
         },
         {
-            "text": "And then, after all that hard training――"
+            "text": "Dan kemudian, setelah semua latihan keras itu――"
         },
         {
-            "text": "Fuuuu……the fire for this grill has also been lit. It's ready to \nbe used so go ahead and arrange the vegetables as you like.",
+            "text": "Fuuuu……api untuk panggangan ini sudah menyala. Sudah siap\ndipakai, jadi silakan atur sayurannya sesukamu.",
             "name": "Cesario"
         },
         {
-            "text": "Amazing~……You really are reliable and \nefficient when your switch is on, Cesario……!",
-            "name": "Single Knot Uma Musume"
+            "text": "Hebat~……Kamu memang bisa diandalkan dan\nefisien saat mode serius, Cesario……!",
+            "name": "Uma Musume Kepang Satu"
         },
         {
-            "text": "Yeah, yeah……but, Cesario, are you properly eating too? \nYou don't have to keep looking after all of us you know~.",
-            "name": "Antenna-haired Uma Musume"
+            "text": "Iya, iya… tapi, Cesario, kamu juga makan yang bener kan?\nKamu nggak harus terus ngurusin kita semua~.",
+            "name": "Uma Musume Berambut Antena"
         },
         {
-            "text": "They're right, Cesario-san. \nNutrition is quite important for building up your body after all!",
+            "text": "Mereka benar, Cesario-san.\nNutrisi cukup penting untuk membangun tubuh!",
             "name": "King Halo"
         },
         {
-            "text": "That's right! That big carrot wrapped in foil that we \ngrilled is almost ready isn't it? I'll go get it!",
+            "text": "Benar sekali! Wortel besar yang dibungkus foil dan\nkita panggang itu sudah hampir matang kan? Aku ambil!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Fufu, thank you. But, I'll go cut it, so do you want to \nsplit it? Kraft, you'd probably burn yourself after all.",
+            "text": "Fufu, terima kasih. Tapi, biar aku yang potong, mau dibagi?\nKraft, kamu mungkin bakal kepanasan soalnya.",
             "name": "Cesario"
         },
         {
-            "text": "Ehh!? Aren't you treating me too much like a kid!? C'mon-……!",
+            "text": "Ehh!? Jangan-jangan aku diperlakukan kayak anak kecil!? Aduh-……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "text": "Heey, semuanya! Aku beli banyak apel untuk pencuci mulut.\nSekarang waktunya aku mulai mengupas?",
             "name": "<username>"
         },
         {
-            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "text": "Heey, semuanya! Aku beli banyak apel untuk pencuci mulut.\nSekarang waktunya aku mulai mengupas?",
             "name": "<username>"
         },
         {
-            "text": "Oh, how thoughtful!",
+            "text": "Oh, baik sekali!",
             "name": "King Halo"
         },
         {
-            "text": "Trainer……are you gonna be okay? \nIt'd be bad if you cut yourself, should I peel them instead?",
+            "text": "Trainer…… kamu bakal baik-baik saja?\nBahaya kalau sampai terpotong, mau aku saja yang kupas?",
             "name": "Cesario",
             "choice_data_list": [
-                "Huh? Now I'm treated like a kid too!?",
-                "Huh? Now I'm treated like a kid too!?"
+                "Hah? Sekarang aku juga diperlakukan kayak anak kecil!?",
+                "Hah? Sekarang aku juga diperlakukan kayak anak kecil!?"
             ]
         },
         {
-            "text": "Ahahaha! \nTrainer-san, you're just like me now, huh?",
+            "text": "Ahahaha!\nTrainer-san, sekarang sama kayak aku, ya?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "The team's cheerful laughter filled the air. \nAfter exhausting themselves with intense training, \nit was time to replenish those lost nutrients――"
+            "text": "Tawa ceria tim memenuhi udara.\nSetelah kelelahan dengan latihan intensif,\nsaatnya mengisi kembali nutrisi yang hilang――"
         },
         {
-            "text": "And then tomorrow, they'd resume their intense \ntraining, aiming for victory. And that's how \nthey spent the rest of training camp――"
+            "text": "Dan besok, mereka akan melanjutkan latihan intensif mereka,\nmengejar kemenangan. Dan begitulah mereka\nmenghabiskan sisa kemah latihan――"
         },
         {
-            "text": "Haaa, I'm exhausted today too~……! \nI guess the training camp is coming to an end soon, huh?",
+            "text": "Haaa, hari ini juga capek banget~……!\nKayaknya kemah latihan sudah mau selesai, ya?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah……but I do feel like I've made good progress towards the \n『Oaks』. It feels like my stamina has improved quite a lot.",
+            "text": "Iya……tapi aku merasa sudah membuat kemajuan baik\nmenuju 『Oaks』. Stamina ku rasanya lumayan meningkat.",
             "name": "Cesario"
         },
         {
-            "text": "Me too! Since I've been working on improving my \ndash strength, I feel like my starts are getting \nmuch smoother and I'm able to pull ahead easier.",
+            "text": "Aku juga! Karena aku berusaha meningkatkan kekuatan dash,\nstart ku terasa lebih lancar dan lebih mudah memimpin.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah――It's good. I feel the difference. I think I'm \nall set, in regards to winning at the 『NHK Mile C』!",
+            "text": "Iya――Ini bagus. Aku merasakan perbedaannya.\nAku rasa aku sudah siap, untuk menang di 『NHK Mile C』!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……I wonder if there's anyone watching me. If I'll be able to…… \nleave something behind. ……I want to leave something behind.",
+            "text": "……Aku ingin tahu apakah ada yang memperhatikanku.\nApakah aku bisa…… meninggalkan sesuatu.\n……Aku ingin meninggalkan sesuatu.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "――Hey, you know how they say 『It kind of feels like fate』?",
+            "text": "――Hei, kamu tahu kan soal 『Rasanya seperti takdir』?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah……do you think it's something unique to Uma Musume? \nBut, I know what you mean. I can't really put it in \nwords though……kind of like how I feel with Spe-san.",
+            "text": "Iya……apa itu sesuatu yang unik untuk Uma Musume?\nTapi, aku ngerti maksudmu. Susah diungkapkan……\nseperti perasaanku terhadap Spe-san.",
             "name": "Cesario"
         },
         {
-            "text": "Right! Kind of like some mysterious force pulling \non you……or leading you. Like when you're with \nthem, you feel this warm light in your chest.",
+            "text": "Benar! Seperti ada kekuatan misterius yang menarikmu……\natau menuntunmu. Seperti saat bersama mereka,\nada cahaya hangat di dadamu.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "To become that 『Something』 for someone. That's what I want too.",
+            "text": "Menjadi 『Sesuatu』 itu untuk seseorang. Itu yang kuinginkan juga.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "To have someone feel that kind of fate with \nyou……huh. You're right, that dream you've \nalways been talking about is a bit like that.",
+            "text": "Buat seseorang merasakan takdir seperti itu…… begitu.\nKamu benar, mimpi yang selalu kamu bicarakan itu agak mirip.",
             "name": "Cesario"
         },
         {
-            "text": "Yeah! If my running can make someone feel some kind of fate……\nif my aspiration becomes that link for someone, it would be nice.",
+            "text": "Iya! Jika larianku bisa bikin seseorang merasakan takdir……\njika cita-citaku menjadi penghubung untuk seseorang, itu bagus.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Cesario. \nI'm going to win the 『NHK Mile C』",
+            "text": "……Cesario.\nAku akan menang di 『NHK Mile C』.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Yeah. \nSomeone will definitely be watching you.",
+            "text": "……Iya.\nPasti ada yang akan memperhatikanmu.",
             "name": "Cesario"
         },
         {
-            "text": "……Alright, we have an early morning tomorrow so we should get to \nbed. Let's get a good rest and work hard again tomorrow, Kraft.",
+            "text": "……Oke, besok pagi-pagi jadi kita harus tidur.\nAyo istirahat yang cukup dan kerja keras lagi besok, Kraft.",
             "name": "Cesario"
         },
         {
-            "text": "Yeah. Good night, Cesario!",
+            "text": "Iya. Selamat malam, Cesario!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(I'll keep doing my best, and run. So I can leave something \nbehind. ……I'll definitely leave something behind)",
+            "text": "(Aku akan terus berusaha, dan berlari.\nAgar bisa meninggalkan sesuatu.\n……Aku pasti akan meninggalkan sesuatu.)",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(My heritage, without a doubt)",
+            "text": "(Warisan ku, tanpa keraguan.)",
             "name": "Rhein Kraft"
         }
     ]

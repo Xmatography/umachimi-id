@@ -1,380 +1,350 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Ah, McQueen!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Ryan and Bright, are you \nplanning to start training now too?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yes, The [Hanshin Daishoten] is \napproaching so it's time to dive in～",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Spe-chan over there is going to enter too, right?",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Yes, as a warm-up before the [Spring Tenno Sho].",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "So it's finally our first shot at the \n\"Golden Generation's\" Derby Uma Musume, huh～?",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "We had the opportunity to see her previous race, \nand it was a very deeply moving experience～.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "……However, no matter who my opponent is, right now the only thing \nI need to do is continue to refine myself.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright was last year's [Hanshin Daishoten] champion, \nand then went on to conquer the [Spring Tenno Sho].",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Victory is natural ― is the frame of mind \nwe'll be approaching this with.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "…… certainly with the dignity of a champion, I see.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Well then, let's get started with training. \nSee ya later, McQueen!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Good day to you～.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Trainer-san and Special Week-san, it seems you won't be able to \nafford letting your opponent take advantage of any mistakes.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Special Week's next races was quickly approaching. It was about \ntime we put the finishing touches on her preparations, however……"
-        },
-        {
-            "text": "Haa…… Haa…",
-            "name": "Special Week"
-        },
-        {
-            "text": "…For something of this level to wear you out, it's not like you.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "…I-I'm sorry……",
-            "name": "Special Week"
-        },
-        {
-            "text": "After a quick break, let's give it one more \ngo! [Repetition becomes strength]! I don't know \nif there's a saying like that though!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Yes, please……",
-            "name": "Special Week"
-        },
-        {
-            "text": "As I thought, Silence Suzuka's situation seems \nto be weighing on her mind. She continues to \nbe unable to focus on running, it seems."
-        },
-        {
-            "text": "Trainer-san, excuse me.",
-            "name": "Hayakawa Tazuna"
-        },
-        {
-            "text": "Tazuna-san, how may I help you?",
-            "name": "<username>"
-        },
-        {
-            "text": "Yes, the [Monthly Twinkle] has requested to do an article. It \nseems they'd like to put together a special report about team .",
-            "name": "Hayakawa Tazuna"
-        },
-        {
-            "text": "Hey hey hey! [Monthly Twinkle] really gets it, huh?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Being part of a special report, sounds amazing……!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Fufuu, well then, I've been entrusted with a questionnaire \nfor each of the team members, so I'll have them \nsent to the trainer's room later.",
-            "name": "Hayakawa Tazuna"
-        },
-        {
-            "text": "Thank you very much, I appreciate it.",
-            "name": "<username>"
-        },
-        {
-            "text": "Oh, and one more thing― truthfully, there's a former trainer \nwho's had experience overseas that happens to be on campus.",
-            "name": "Hayakawa Tazuna"
-        },
-        {
-            "text": "And when I spoke with them about Silence Suzuka, \nthey said they'd love to take a look at her running.",
-            "name": "Hayakawa Tazuna"
-        },
-        {
-            "text": "That's quite fortunate, isn't it? \nPerhaps we'll be able to get some advice.",
-            "name": "<username>"
-        },
-        {
-            "text": "Suzuka, since we have the chance, \nhow about having them take a look at your running?",
-            "name": "<username>"
-        },
-        {
-            "text": "Yes, I look forward to it.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Suzuka-san……!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe-chan……?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "……Ah, um… no, it's nothing…",
-            "name": "Special Week"
-        },
-        {
-            "text": "………",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "………",
-            "name": "Special Week"
-        },
-        {
-            "text": "On the course right now, Silence Suzuka was running, \nin order to get some advice from a former trainer \nwho had experience overseas."
-        },
-        {
-            "text": "Watching her from afar, was Special Week."
-        },
-        {
-            "text": "So you were here, Spe.",
-            "name": "<username>"
-        },
-        {
-            "text": "So you were here, Spe.",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer-san……",
-            "name": "Special Week"
-        },
-        {
-            "text": "I surprised even myself. About Suzuka-san, \nwithout thinking I almost tried to stop her……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Since you've come to the academy, you've been together with \nSuzuka-san the whole time, after all. I think it's only natural \nthat you'd be anxious.",
-            "name": "<username>"
-        },
-        {
-            "text": "Since you've come to the academy, you've been together with \nSuzuka-san the whole time, after all. I think it's only natural \nthat you'd be anxious.",
-            "name": "<username>"
-        },
-        {
-            "text": "……Even now I remember it very clearly. \nThe first time I saw Suzuka-san's running figure.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Coming here all the way from Hokkaido, unsure whether things \nwould even go well, I saw Suzuka-san running―",
-            "name": "Special Week"
-        },
-        {
-            "text": "Like they were being drawn strongly to her, \nI couldn't take my eyes off of her.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Ever since then, I've wanted to be able to run \nlike Suzuka-san, and I've continued to watch her, but……",
-            "name": "Special Week"
-        },
-        {
-            "text": "After saying all that, Special Week feel silent."
-        },
-        {
-            "text": "It seems she herself, realized just how heavily she was relying \non Silence Suzuka's running to support herself."
-        },
-        {
-            "text": "She turned her gaze towards Silence Suzuka on the course―"
-        },
-        {
-            "text": "When I first laid eyes on Silence Suzuka's running, \nI couldn't help but get the impression that she \nwas an Uma Musume who enjoyed running."
-        },
-        {
-            "text": "Before long, she found her own running style, and her \nrunning exceeded the expectations of everyone who saw her……"
-        },
-        {
-            "text": "……Spe, you were drawn to Suzuka's running \nbecause you wanted to be like that, right?",
-            "name": "<username>"
-        },
-        {
-            "text": "……Yes.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Then, what exactly about Suzuka's running drew you to it?",
-            "name": "<username>"
-        },
-        {
-            "text": "Eh……? What? That's… \nbecause it's pretty and cool……",
-            "name": "Special Week"
-        },
-        {
-            "text": "And it gave you a dream. You thought about \nwhat kind of run she would show us next time too.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah……! That's right! Suzuka-san's running \nalways exceeded my expectations!",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's why, more and more, I wanted to keep watching \nSuzuka-san run! Her consecutive victories at [Osaka \nHai] and the [Takarazuka Kinen], and then―",
-            "name": "Special Week"
-        },
-        {
-            "text": "Ah……",
-            "name": "Special Week"
-        },
-        {
-            "text": "For her dream of \"Wanting to see \nthe scenery\", Suzuka continues to run.",
-            "name": "<username>"
-        },
-        {
-            "text": "Because Suzuka is running with those \nstraight-forward feelings, me and Spe are both drawn to her.",
-            "name": "<username>"
-        },
-        {
-            "text": "Because Suzuka is running with those \nstraight-forward feelings, me and Spe are both drawn to her.",
-            "name": "<username>"
-        },
-        {
-            "text": "……if Suzuka goes over seas, she'll probably \nshow us an even more extraordinary run than before.",
-            "name": "<username>"
-        },
-        {
-            "text": "……if Suzuka goes over seas, she'll probably \nshow us an even more extraordinary run than before.",
-            "name": "<username>"
-        },
-        {
-            "text": "………",
-            "name": "Special Week"
-        },
-        {
-            "text": "……that's right, of course that'll be what happens……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Suzuka-san will run to the ends of the Earth! \nAll of our expectations, she'll easily blow them all away!",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's the way that the Suzuka-san I look up \nto runs…… ……Something like stopping Suzuka-san…… \nI can't do something like that……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Aim for \"Japan's #1 Uma Musume\"!",
-                "Aim for \"Japan's #1 Uma Musume\"!"
-            ]
-        },
-        {
-            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Aim for \"Japan's #1 Uma Musume\"!",
-                "Aim for \"Japan's #1 Uma Musume\"!"
-            ]
-        },
-        {
-            "text": "Ehehe…… Yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The stands are packed here at the Hanshin Race course. With the \nMain Race approaching, the enthusiasm in the air begins to swell!",
-            "name": "Commentator"
-        },
-        {
-            "text": "All the attention is on the \"Golden Generation's\" \nSpecial Week and last year's champion, Mejiro Bright!",
-            "name": "Commentator"
-        },
-        {
-            "text": "With the [Hanshin Daishoten] being the first time these \ntwo face off, just what kind of result awaits us?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Rainy with a Heavy course…… I need to focus on preserving stamina \nin this race…… I definitely need to avoid rushing at the start……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yeah, that's fine. Most likely, the pace will be \nsomewhat slow, so it'll be easy to focus on those in the front.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Hmm hmm… I see……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The straight on the Hanshin 3000m, isn't very long \nand there's a hill too. So go all out from the third corner!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "……Um… Gold Ship-san's advice, \nit's really hard to tell if you're joking or serious…",
-            "name": "Special Week"
-        },
-        {
-            "text": "How rude! When you think of the \n[Hanshin Daishoten] it's gotta be me, right?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Before you start spouting off about the [Hanshin Daishoten], \nyou should probably debut first!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "With that said, to think her flight would be the same day as the \nrace, it's unfortunate Suzuka-san couldn't be here……",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Ah, no! I'm the one that suggested \nthat she should leave today.",
-            "name": "Special Week"
-        },
-        {
-            "text": "So Suzuka-san can leave and run overseas with peace of mind― \nI'll show Suzuka-san that even if we're apart, I can still do it!",
-            "name": "Special Week"
-        },
-        {
-            "text": "So that's how it was. In that case, \nyou definitely have to win, don't you?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Run with everything you've got!",
-                "Run with everything you've got!"
-            ]
-        },
-        {
-            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind.",
-            "name": "<username>",
-            "choice_data_list": [
-                "Run with everything you've got!",
-                "Run with everything you've got!"
-            ]
-        },
-        {
-            "text": "Yeah! I'll be heading out!",
-            "name": "Special Week"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Ah, McQueen!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Ryan, Bright, kalian juga mau mulai latihan sekarang ya?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya dong, [Hanshin Daishoten] udah makin deket, \nwaktunya serius latihan～",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Spe-chan juga bakal ikutan kan?",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Iya, buat pemanasan sebelum [Tenno Sho Musim Semi].",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Akhirnya nih, pertama kali kita bakal ketemu sama Derby Uma Musume \ndari \"Generasi Emas\" ya～?",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Waktu lihat dia balapan kemarin, bener-bener bikin terharu～",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "……Tapi, lawan siapa pun itu, sekarang yang harus aku lakukan \ncuma terus ngasah diri.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bright kan juara [Hanshin Daishoten] tahun lalu, \nterus juga menang di [Tenno Sho Musim Semi].",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Menang itu hal yang udah biasa ― itu pola pikirku sekarang.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "……Pantas aja, emang aura juara banget.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Oke deh, waktunya latihan. Sampai ketemu lagi, McQueen!",
+      "name": "Mejiro Ryan"
+    },
+    {
+      "text": "Sampai jumpa～",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Trainer-san, Special Week-san… kayaknya kalian \nnggak bisa sampai bikin kesalahan sekecil apa pun.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Balapan berikutnya Special Week udah makin deket. \nWaktunya tinggal kasih sentuhan akhir persiapan, tapi……"
+    },
+    {
+      "text": "Haa… haa…",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Capek cuma gara-gara segini, itu bukan kamu banget.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "…M-maaf……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Istirahat sebentar terus coba lagi yuk! [Ulang-ulang bikin kuat]! \nEh, emang ada pepatah kayak gitu nggak ya?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Iya, tolong……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Seperti yang kuduga, soal Silence Suzuka masih kepikiran banget buat dia. \nKayaknya sampai sekarang pun dia belum bisa fokus lari."
+    },
+    {
+      "text": "Trainer-san, permisi.",
+      "name": "Hayakawa Tazuna"
+    },
+    {
+      "text": "Oh, ada apa Tazuna-san?",
+      "name": "<username>"
+    },
+    {
+      "text": "Jadi begini, [Monthly Twinkle] mau bikin artikel. \nMereka pengen bikin liputan khusus tentang tim ini.",
+      "name": "Hayakawa Tazuna"
+    },
+    {
+      "text": "Wah wah wah! [Monthly Twinkle] ngerti banget ya?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ikut liputan khusus gitu, keren banget rasanya……!",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Fufuu, jadi aku dititipin kuesioner buat semua anggota tim. \nNanti aku kirim ke ruang trainer ya.",
+      "name": "Hayakawa Tazuna"
+    },
+    {
+      "text": "Terima kasih banyak, aku hargai banget.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oh iya, ada satu hal lagi― sebenernya ada mantan trainer \nyang punya pengalaman di luar negeri, kebetulan lagi ada di kampus.",
+      "name": "Hayakawa Tazuna"
+    },
+    {
+      "text": "Pas aku cerita soal Silence Suzuka, \ndia bilang pengen banget lihat langsung Suzuka lari.",
+      "name": "Hayakawa Tazuna"
+    },
+    {
+      "text": "Wah, kebetulan banget tuh. Mungkin kita bisa dapet saran berguna.",
+      "name": "<username>"
+    },
+    {
+      "text": "Suzuka, gimana kalau kita manfaatin kesempatan ini \nbiar dia bisa lihat cara kamu lari?",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, aku juga menantikannya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Suzuka-san……!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe-chan……?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "……Ah, um… nggak kok, nggak ada apa-apa…",
+      "name": "Special Week"
+    },
+    {
+      "text": "………",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "………",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sekarang di lintasan, Silence Suzuka lagi lari, \nbuat dapet masukan dari mantan trainer yang punya pengalaman di luar negeri."
+    },
+    {
+      "text": "Dari jauh, Special Week cuma bisa ngeliatin."
+    },
+    {
+      "text": "Oh, ternyata kamu di sini, Spe.",
+      "name": "<username>"
+    },
+    {
+      "text": "Trainer-san……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku sendiri kaget. Soal Suzuka-san, tanpa sadar \naku hampir aja nyoba ngehalangin dia……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Wajar aja kok. Dari pertama masuk akademi kan kamu bareng Suzuka terus. \nJadi perasaan cemas itu normal banget.",
+      "name": "<username>"
+    },
+    {
+      "text": "……Aku masih inget jelas banget. \nPertama kali aku lihat Suzuka-san lari.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Datang jauh-jauh dari Hokkaido, masih ragu-ragu bisa jalan atau nggak, \nterus aku lihat Suzuka-san lari―",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kayak ketarik banget, mataku nggak bisa lepas dari dia.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dari saat itu, aku pengen bisa lari kayak Suzuka-san, \nmakanya aku terus memperhatiin dia, tapi……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Habis ngomong gitu, Spe langsung diem."
+    },
+    {
+      "text": "Kayaknya dia sendiri baru sadar betapa beratnya dia bergantung \nsama Suzuka buat nyokong dirinya."
+    },
+    {
+      "text": "Dia balik ngeliat Suzuka yang lagi lari di lintasan―"
+    },
+    {
+      "text": "Waktu pertama kali aku lihat Suzuka lari, \nkesannya dia bener-bener menikmati larinya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Lama-lama, dia nemuin gaya larinya sendiri, dan larinya \nselalu ngalahin ekspektasi semua orang yang nonton……",
+      "name": "<username>"
+    },
+    {
+      "text": "……Spe, kamu suka sama Suzuka karena kamu pengen jadi kayak dia, kan?",
+      "name": "<username>"
+    },
+    {
+      "text": "……Iya.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kalau gitu, apa sih yang bikin kamu ketarik sama cara Suzuka lari?",
+      "name": "<username>"
+    },
+    {
+      "text": "Eh……? Apa ya? Karena larinya indah… dan keren banget……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan larinya juga kasih kamu mimpi. \nKamu juga selalu penasaran, dia bakal nunjukin kayak apa lagi di balapan berikutnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya……! Bener banget! Lari Suzuka-san selalu ngalahin bayanganku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Makanya aku makin pengen terus lihat Suzuka-san lari! \nDia menang berturut-turut di [Osaka Hai] sama [Takarazuka Kinen], terus―",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ah……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Buat mimpinya \"pengen lihat pemandangan itu\", Suzuka terus lari.",
+      "name": "<username>"
+    },
+    {
+      "text": "Karena Suzuka lari dengan perasaan yang tulus, \naku sama kamu jadi ketarik sama dia.",
+      "name": "<username>"
+    },
+    {
+      "text": "……Kalau Suzuka beneran ke luar negeri, \ndia pasti bakal nunjukin lari yang lebih luar biasa lagi.",
+      "name": "<username>"
+    },
+    {
+      "text": "………",
+      "name": "Special Week"
+    },
+    {
+      "text": "……Iya, pasti kayak gitu……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Suzuka-san pasti bisa lari sampai ke ujung dunia! \nSemua ekspektasi kita, dia pasti lewatin dengan gampang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Itu cara Suzuka-san yang aku kagumin lari…… \n……Ngehentikan Suzuka-san…… aku nggak mungkin bisa ngelakuin itu……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sama kayak Suzuka― biar bisa nyusul dia, Spe, kamu juga harus kerja keras.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Incar gelar \"Uma Musume Nomor 1 di Jepang\"!",
+        "Incar gelar \"Uma Musume Nomor 1 di Jepang\"!"
+      ]
+    },
+    {
+      "text": "Ehehe…… Iya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tribun di Hanshin Racecourse penuh banget hari ini! \nBalapan utama makin deket, semangat penonton makin panas!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Semua perhatian tertuju pada Special Week dari \"Generasi Emas\" \ndan juara tahun lalu, Mejiro Bright!",
+      "name": "Komentator"
+    },
+    {
+      "text": "[Hanshin Daishoten] ini jadi pertama kalinya mereka berdua ketemu. \nHasilnya bakal kayak gimana ya?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Hujan deras, lintasan berat…… Aku harus hemat stamina di balapan ini…… \nJangan sampai kecepatan awal keburu meledak……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, bagus tuh. Kayaknya pace-nya juga bakal agak lambat, \njadi gampang buat ngejar yang di depan.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Hmm hmm… aku ngerti……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Lintasan lurus Hanshin 3000m nggak terlalu panjang dan ada tanjakan juga. \nJadi gaspol dari tikungan ketiga!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "……Um… Gold Ship-san, saranmu tuh serius apa bercanda sih…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kurang ajar! Kalau ngomongin [Hanshin Daishoten] ya jelas aku dong rajanya?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Sebelum koar-koar soal [Hanshin Daishoten], debut dulu sana!",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ngomong-ngomong, sayang banget Suzuka-san nggak bisa ada di sini, \nsoalnya jadwal terbangnya sama persis sama hari balapan…",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ah, nggak kok! Aku sendiri yang nyaranin dia berangkat hari ini.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Biar Suzuka-san bisa pergi dan lari di luar negeri dengan tenang― \nAku bakal nunjukin kalau meski kita pisah, aku tetap bisa!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Ooh, jadi gitu. Kalau gitu, kamu emang harus menang ya?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, sekarang aku bawa perasaan semua orang. \nAku harus bales itu dengan hasil terbaik.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Lari pake semua yang kamu punya!",
+        "Lari pake semua yang kamu punya!"
+      ]
+    },
+    {
+      "text": "Iya! Aku berangkat ya!",
+      "name": "Special Week"
+    }
+  ]
 }

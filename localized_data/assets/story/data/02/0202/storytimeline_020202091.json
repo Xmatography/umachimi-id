@@ -2,64 +2,64 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――The start of Autumn. The first thing we needed to do was \nhave a meeting to decide on Rhein Kraft's next few races."
+            "text": "――Awal Musim Gugur. Pertama-tama kita harus rapat \nuntuk nentuin balapan selanjutnya Rhein Kraft."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Trainer-san, I guess my next main objective \nis the 『Shuuka Sho』. And if I win there――"
+            "text": "Trainer, target utama berikutnya pasti \n『Shuuka Sho』 dong. Kalau aku menang di sana――"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Then I'll have achieved the \"Unorthodox Triple Crown\"!"
+            "text": "Berarti aku udah berhasil meraih \"Triple Crown Alternatif\"!"
         },
         {
-            "text": "Yeah, that's right."
+            "text": "Betul sekali."
         },
         {
-            "text": "Yeah, that's right."
+            "text": "Betul sekali."
         },
         {
-            "text": "That main goal would remain unchanged. The question was…… \nwhether we should enter a race before mid-October or not."
-        },
-        {
-            "name": "King Halo",
-            "text": "If you want to save your stamina, then just save it \nfor the \"Real thing\". If you want to get used to \nthe race distance, then we should do one beforehand."
+            "text": "Target utamanya tetap. Yang jadi pertanyaan…… \napa kita perlu ikut balapan sebelum pertengahan Oktober atau nggak."
         },
         {
             "name": "King Halo",
-            "text": "Trainer, what do you think?"
-        },
-        {
-            "text": "I think……it would be better to run a 2000m race beforehand."
-        },
-        {
-            "text": "I think……it would be better to run a 2000m race beforehand."
+            "text": "Kalau mau hemat stamina, ya simpan aja buat \nbalapan yang sesungguhnya. Tapi kalau mau adaptasi \nsama jarak tempuh, lebih baik ikut satu dulu."
         },
         {
             "name": "King Halo",
-            "text": "2000m…… \nThe same distance as the 『Shuuka Sho』"
+            "text": "Trainer, gimana menurutmu?"
         },
         {
-            "text": "Yeah, I have two reasons."
+            "text": "Menurutku…… lebih baik ikut balapan 2000m dulu.",
+            "choice_data_list": [
+                "Menurutku…… lebih baik ikut balapan 2000m dulu."
+            ]
         },
         {
-            "text": "Yeah, I have two reasons."
+            "name": "King Halo",
+            "text": "2000m…… \nJarak yang sama dengan 『Shuuka Sho』"
         },
         {
-            "text": "First. Rhein Kraft is the fastest when it comes to 1600m races, \nbut 2000m is a different story. She needs to get used to the pace."
+            "text": "Iya, ada dua alasan."
         },
         {
-            "text": "First. Rhein Kraft is the fastest when it comes to 1600m races, \nbut 2000m is a different story. She needs to get used to the pace."
+            "text": "Iya, ada dua alasan."
         },
         {
-            "text": "And the second――"
+            "text": "Pertama, Rhein Kraft emang paling cepat di jarak 1600m, \ntapi 2000m itu beda cerita. Dia perlu adaptasi sama ritmenya."
+        },
+        {
+            "text": "Pertama, Rhein Kraft emang paling cepat di jarak 1600m, \ntapi 2000m itu beda cerita. Dia perlu adaptasi sama ritmenya."
+        },
+        {
+            "text": "Dan yang kedua――"
         },
         {
             "name": "Rhein Kraft",
-            "text": "That Uma Musume will be participating in the preliminaries."
+            "text": "Uma Musume itu juga bakal ikut di babak kualifikasi."
         },
         {
-            "text": "I nod. Since Cesario isn't here now, \nmost likely, her number one rival is……"
+            "text": "Aku mengangguk. Karena Cesario udah nggak di sini, \nkemungkinan besar rival utamanya sekarang adalah……"
         },
         {
             "name": "Air Messiah",
@@ -67,97 +67,97 @@
         },
         {
             "name": "Air Messiah",
-            "text": "Haa, haa, Shakur-san, how was that?"
+            "text": "Haa, haa… Gimana tadi, Shakur-san?"
         },
         {
             "name": "Air Shakur",
-            "text": "――It's disappeared, the annoying noise from the spring. \nIf you can hit these numbers then……"
+            "text": "――Suara bising dari musim semi udah hilang. \nKalau angka segini bisa dipertahankan……"
         },
         {
             "name": "Air Messiah",
-            "text": "Is there a chance? In this preliminary battle."
+            "text": "Apa ada peluang? Di babak kualifikasi ini."
         },
         {
             "name": "Air Shakur",
-            "text": "Aah? You're aiming for the 『Shuuka Sho』 aren't you? \nMy calculations didn't include the prelimiaries \nfrom the start. Just go ahead and win."
+            "text": "Hah? Kan tujuanmu 『Shuuka Sho』? \nDari awal perhitunganku nggak termasuk \nbalapan kualifikasi. Langsung menang aja."
         },
         {
             "name": "Air Shakur",
-            "text": "But……exactly what adjustments have you made? \nGrowth during the summer doesn't explain these numbers……"
+            "text": "Tapi… sebenernya kamu ngelakuin penyesuaian apa? \nPertumbuhan selama musim panas nggak cukup buat jelasin angka segini……"
         },
         {
             "name": "Air Messiah",
-            "text": "A small one――I just cleared my mind a little. \nAnd took another look at the name I was given."
+            "text": "Sedikit――aku cuma membersihkan pikiranku. \nDan merenungkan lagi arti namaku."
         },
         {
             "name": "Air Messiah",
-            "text": "Mother, I apologize about the 『Oaks』. \nAt the 『Shuuka Sho』 for sure, for mother's sake."
+            "text": "Bu, maafin aku untuk kekalahan di 『Oaks』. \nDi 『Shuuka Sho』 nanti, pasti kubalaskan untuk ibu."
         },
         {
-            "name": "Messiah's Mother",
-            "text": "Messiah, you don't need to think about it so much. \nFor the last crown……"
+            "name": "Ibu Messiah",
+            "text": "Messiah, kamu nggak perlu berlebihan. \nUntuk mahkota terakhir……"
         },
         {
-            "name": "Messiah's Mother",
-            "text": "……I want you to run for your own sake. \nNot for mine."
-        },
-        {
-            "name": "Air Messiah",
-            "text": "Mother, but……"
-        },
-        {
-            "name": "Messiah's Mother",
-            "text": "Messiah. The wish behind your name is not \"Revenge\". \nClearing my regrets is not the meaning of your existence."
-        },
-        {
-            "name": "Messiah's Mother",
-            "text": "Messiah……the meaning behind your name is \"Salvation\". \nTo improve yourself, and escape the shackles of \nyour blood on your own. Don't forget that."
+            "name": "Ibu Messiah",
+            "text": "……Ibu mau kamu lari untuk dirimu sendiri. \nBukan untuk ibu."
         },
         {
             "name": "Air Messiah",
-            "text": "To save……save myself…… \nAh……!?"
+            "text": "Tapi, Bu……"
+        },
+        {
+            "name": "Ibu Messiah",
+            "text": "Messiah. Makna namamu bukan \"Pembalas\". \nMelunasi penyesalan ibu bukanlah tujuan hidupmu."
+        },
+        {
+            "name": "Ibu Messiah",
+            "text": "Messiah…… namamu berarti \"Juruselamat\". \nMenyelamatkan dirimu sendiri, membebaskan diri \ndari belenggu garis keturunan. Jangan lupa itu."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Menyelamatkan… diriku sendiri…… \nAh……!?"
         },
         {
             "name": "Cesario",
-            "text": "Air Messiah-san…… Please don't be so harsh on yourself. \nYou…… \"both of you\" were strong. That strength――"
+            "text": "Air Messiah-san…… Jangan terlalu menyalahkan diri sendiri. \nKamu… \"kalian berdua\" memang kuat. Kekuatan itu――"
         },
         {
             "name": "Cesario",
-            "text": "Opened my eyes. I was able to break away from my old \nself. Becoming a better version of myself led to victory."
+            "text": "Membuka mataku. Aku bisa melepaskan diriku yang dulu. \nMenjadi versi yang lebih baik membawaku ke kemenangan."
         },
         {
             "name": "Air Messiah",
-            "text": "I…… see…… This spring, I lost sight of that and \nwas defeated. My opponent was \"Aiming to become \na better version of herself\". In that case……"
+            "text": "Aku… ngerti… Musim semi lalu, aku lupa akan hal itu \ndan kalah. Lawanku adalah \"Seseorang yang berusaha \nmenjadi dirinya yang lebih baik\". Kalau begitu……"
         },
         {
             "name": "Air Messiah",
-            "text": "I need to change my mindset. From now on, for myself, who \nholds mother in such high esteem……I'll become my own Messiah."
+            "text": "Aku harus ubah cara pikirku. Mulai sekarang, untuk diriku sendiri, \nyang sangat mengagumi ibu… aku akan menjadi Messiah-ku sendiri."
         },
         {
             "name": "Air Messiah",
-            "text": "Cesario-san, at this moment, \nnow I understand why I couldn't measure up to you."
+            "text": "Cesario-san, sekarang \naku akhirnya paham kenapa aku nggak bisa menyaingimu."
         },
         {
             "name": "Air Messiah",
-            "text": "I won't waver anymore. \nNot for someone else's sake――but for my own glory!"
+            "text": "Aku nggak akan ragu lagi. \nBukan untuk orang lain――tapi untuk kejayaanku sendiri!"
         },
         {
-            "text": "And then――the day of the preliminaries."
+            "text": "Kemudian――tibalah hari babak kualifikasi."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Trainer-san, I'll do it! Just like I promised Cesario, \nI'll obtain the Unorthodox Triple Crown! For the sake of that――"
+            "text": "Trainer, aku pasti bisa! Seperti yang dijanjikan ke Cesario, \naku akan raih Triple Crown Alternatif! Demi itu――"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Today, I can't lose, I can't lose, I can't lose! \nFor Cesario too, I'll need to carry the team!",
+            "text": "Hari ini, aku nggak boleh kalah, nggak boleh kalah, nggak boleh kalah! \nDemi Cesario juga, aku harus bisa membawa tim ini!",
             "choice_data_list": [
-                "Yeah……Let's start Autumn off strong!",
-                "Yeah……Let's start Autumn off strong!"
+                "Iya… Ayo mulai Musim Gugur dengan semangat!",
+                "Iya… Ayo mulai Musim Gugur dengan semangat!"
             ]
         },
         {
-            "text": "I was concerned that she sounded a little anxious. But her title \nwasn't just for show. I believed in Rhein Kraft as I saw her off."
+            "text": "Aku agak khawatir dia terdengar sedikit grogi. Tapi gelarnya \nbukan cuma hiasan. Aku percaya pada Rhein Kraft sambil melepasnya."
         },
         {
             "name": "Kraft&Messiah",
@@ -165,56 +165,56 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I need to do it, I need to! \nFor Cesario!)"
+            "text": "(Aku harus bisa, aku harus! \nDemi Cesario!)"
         },
         {
             "name": "Air Messiah",
-            "text": "(I can achieve it, I'll show them I can! \nI will aim for the future!)"
+            "text": "(Aku bisa mencapainya, akan kubuktikan! \nAku akan raih masa depanku!)"
         },
         {
-            "name": "Announcer",
-            "text": "Rhein Kraft is out in front, Air Messiah chases! \nRhein Kraft is out in front, Air Messiah chases!"
+            "name": "Penyiar",
+            "text": "Rhein Kraft memimpin! Air Messiah mengejar ketat! \nRhein Kraft masih di depan! Air Messiah terus membayangi!"
         },
         {
             "name": "Air Messiah",
-            "text": "The first step……to salvation!!"
+            "text": "Langkah pertama… menuju penyelamatan!!"
         },
         {
             "name": "Rhein Kraft",
             "text": "Kuuuu!!"
         },
         {
-            "name": "Announcer",
-            "text": "Air Messiah passes, she passes!"
+            "name": "Penyiar",
+            "text": "Air Messiah menyusul! Dia berhasil mendahului!"
         },
         {
-            "name": "Announcer",
-            "text": "Today it's Air Messiah!"
+            "name": "Penyiar",
+            "text": "Kemenangan hari ini diraih Air Messiah!"
         },
         {
             "name": "Air Messiah",
-            "text": "Haa, haa…… Kraft-san, first, \nthis is payback for the 『Oka Sho』. Next time too――for sure!"
+            "text": "Haa, haa… Kraft-san, ini balasanku \nuntuk kekalahan di 『Oka Sho』. Lain kali――pasti!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Messiah-san……is really strong, isn't she……? \nFor the real thing, I'll need to create more separation!"
+            "text": "Messiah-san… kuat banget ya…? \nUntuk balapan sesungguhnya, aku harus bisa menciptakan jarak!"
         },
         {
             "name": "King Halo",
-            "text": "……She got us good. But, this is still just the preliminaries. \nToday, just getting a feel for 2000m is good enough."
+            "text": "……Kita kalah dengan baik. Tapi ini masih babak kualifikasi. \nHari ini, yang penting udah adaptasi sama jarak 2000m."
         },
         {
-            "text": "Yeah. Mile and 2000m races have different \npaces and things to keep in mind."
+            "text": "Iya. Balapan Mile dan 2000m punya ritme \ndan teknik yang harus diperhatiin beda."
         },
         {
-            "text": "Yeah. Mile and 2000m races have different \npaces and things to keep in mind."
+            "text": "Iya. Balapan Mile dan 2000m punya ritme \ndan teknik yang harus diperhatiin beda."
         },
         {
-            "text": "Defeat was inevitable. And this race made it clear. Air Messiah, \nwho placed 2nd at the 『Oaks』, was the biggest threat."
+            "text": "Kekalahan emang nggak terhindarkan. Dan balapan ini memperjelas. \nAir Messiah, peringkat 2 di 『Oaks』, adalah ancaman terbesar."
         },
         {
             "name": "Rhein Kraft",
-            "text": "I won't let you……you won't catch me! \nNext time……next time for sure……!"
+            "text": "Aku nggak bakal kasih… kamu nggak bakal kejar aku! \nLain kali… lain kali pasti…!"
         }
     ]
 }

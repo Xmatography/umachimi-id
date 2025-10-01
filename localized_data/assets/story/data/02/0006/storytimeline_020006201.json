@@ -1,283 +1,279 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "『The excitement from the Prix de l'Arc de Triomphe still hasn't \ndied down, but we're getting surprising news!』",
-            "name": "Voice from Smartphone"
-        },
-        {
-            "text": "『The strongest Uma Musume has decided to enter the Japan Cup, \namong those involved, it caused quite an uproar!』",
-            "name": "Voice from Smartphone"
-        },
-        {
-            "text": "…………",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass～! It's been a while!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Welcome back, El. \nSeems like this room will be getting noisy again～",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Wow! It's been a while since I've heard such sharp words too!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "I need to quickly get used to Japan again, huh!? \nAt any rate, it's been half a year since we've talked!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "That's right～, jet lag changing when you eat meals, oh and \nstudying, there's a lot of things you need to do to get back to \nyour normal life, huh～?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Nuaaaa～～! Particularly when it comes to studying, \nI don't want to face that reality!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……Oh and then, you need to quickly get used to Japan's courses \nagain. After all, you promised to run together with us again.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Ehehee, it was supposed to be after I became the world's \nstrongest but ……I guess that's changed a little bit, huh……?",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……Ehehe……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……El, whatever you think about those results, \nto me the 『Prix de l'Arc de Triomphe』 was your best race.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Compared to the El who ran on that big stage, nothing has \nchanged…… you're a rival that helped me stand on my own two feet, \nand someone I look up to.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "That's why I'm so motivated for this 『Japan Cup』. \nIt's a good opportunity to reach for the top, and besides that―",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "For us Japanese Uma Musume that have run together \nwith El, it's a chance to engrave our strength \nin to the hearts of those from overseas.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……Grass",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……Ehehee……go show them! \nThe strength of the rivals that ran together with me!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "In the 『Fall Tenno Sho』, Special Week was able to claim victory."
-        },
-        {
-            "text": "While training for the next race, the 『Japan Cup』, \na particular piece of news had made it to Japan."
-        },
-        {
-            "text": "『On this show, we'll be covering the \ninterview with her, please stay tuned』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "Hey, it's starting!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "About the decision to visit Japan, will you please tell us more!?",
-            "name": "Interviewer"
-        },
-        {
-            "text": "Yes, with pleasure.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "All across the world, various races are taking place. \nAnd I have conquered that peak.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "However, in this world, I've learned that \nthere are still many talented Uma Musume.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "Suddenly my interest was piqued……that there exist \nmany such talents. And of the strength of the Uma \nMusume running in Japan's Twinkle Series.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "The one that got me fired up, El Condor Pasa, \nand her contemporaries, Grass Wonder and Special Week.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "Both of whom plan to participate in the 『Japan Cup』, \nI shall also be participating.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "<I'm looking forward to it>",
-            "name": "Montjeu"
-        },
-        {
-            "text": "To think the winner of the 『Prix de l'Arc de Triomphe』 would \nparticipate herself.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "She mentioned Spe-san by name too……",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "『And moving on, the news of Montjeu's participation, \nlet's hear the reaction of the fans』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "『Her battle against El Condor Pasa was amazing, wasn't it!? \nThat Japan's Uma Musume were this strong, it really had me excited!』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "『But even so, it was still unfortunate……! \nThat's why, I want Japan's Uma Musume to do their best!]』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "『Special Week-san, and Grass Wonder-san― as Japan's Uma Musume, \nwe'll be cheering for you with all we've got!』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "『As expected, there are many fans that want revenge \nagainst the Prix de l'Arc de Triomphe Uma Musume, \nand have high hopes for Japan's Uma Musume』",
-            "name": "Voice from TV"
-        },
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "By preventing El Condor Pasa's victory, \nmany of Japan's fans had come to know the name Montjeu."
-        },
-        {
-            "text": "At the news of the Prix de l'Arc de Triomphe \nUma Musume's participation, Special Week remained \ncalm, watching without looking away."
-        },
-        {
-            "text": "We'll need to train harder, Spe.",
-            "name": "<username>"
-        },
-        {
-            "text": "We'll need to train harder, Spe.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "And like that, talk of the 『Japan Cup』 heated up all throughout Japan, \nbut then there was sudden news."
-        },
-        {
-            "text": "――Grass Wonder, was withdrawing from the 『Japan Cup』."
-        },
-        {
-            "text": "…………",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass-chan……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Oh, the sky is already turning red…… \nWinter is right around the corner, huh～?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Um……well……about the 『Japan Cup』……",
-            "name": "Special Week"
-        },
-        {
-            "text": "I suppose I worked a little bit too hard during training.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "With everyone in Japan talking about it, it became a race on the \npath to the summit. Running with the opponent that beat El, it \nwas an unbelievable opportunity.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "A way to respond to the fans that wanted Japan's \nUma Musume to win, and as a representative of \nJapan's Uma Musume, I wanted to run.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……and together with Spe-chan",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Me……?",
-            "name": "Special Week"
-        },
-        {
-            "text": "At the 『Fall Tenno Sho』, your running was truly wonderful.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "That's why I was looking forward to running with Spe-chan. \nOnce again running together……I was really……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I really…… wanted to run……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass-chan……",
-            "name": "Special Week"
-        },
-        {
-            "text": "…………",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……Um, listen, Grass-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "I'm going to win.",
-            "name": "Special Week"
-        },
-        {
-            "text": "……eh?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I wanted to run with Grass-chan too.",
-            "name": "Special Week"
-        },
-        {
-            "text": "And I wanted to win against Montjeu-san and Grass-chan. \nBecause I still haven't won against Grass-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's why I'll win. I― Special Week will \nprove that I am Japan's strongest Uma Musume.",
-            "name": "Special Week"
-        },
-        {
-            "text": "And at the 『Arima Kinen』, I'll be waiting for you! \nAs Japan's #1 Uma Musume!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Spe-chan……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Fufuu, then I'll need to recover from this injury by then, \nI need to be in top condition for that, don't I?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "In the 『Japan Cup』, do your best out there. The strength of \nJapan's Uma Musume, make sure you show the whole world.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I have high hopes for you, \"Supreme Commander of Japan\"",
-            "name": "Grass Wonder"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "『Hingar bingarnya Prix de l'Arc de Triomphe belum juga reda, tapi ada kabar mengejutkan nih!』",
+      "name": "Suara dari Smartphone"
+    },
+    {
+      "text": "『Uma Musume terkuat mutusin buat ikut Japan Cup, dan itu bikin heboh banget di kalangan orang-orang!』",
+      "name": "Suara dari Smartphone"
+    },
+    {
+      "text": "…………",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass～! Lama nggak ketemu!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Selamat datang kembali, El. \nKayaknya kamar ini bakal rame lagi～",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Wah! Udah lama juga nggak denger kata-kata nyelekit gini!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Aku harus cepet-cepet balik ngerasa biasa di Jepang lagi ya!? \nPokoknya, udah setengah tahun kita nggak ngobrol!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Iya～, jet lag, jam makan jadi kacau, terus belajar, banyak hal yang harus dibiasain lagi biar balik ke rutinitas ya～?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Nuaaaa～～! Apalagi soal belajar, aku males banget ngadepin kenyataan itu!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Oh iya, kamu juga harus cepet terbiasa lagi sama trek di Jepang. Soalnya kan kamu janji bakal lari bareng kita lagi.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Ehehee, tadinya aku mau balik setelah bener-bener jadi yang terkuat di dunia……tapi kayaknya agak berubah dikit ya……?",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Ehehe……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……El, apapun pendapatmu soal hasil itu, buatku 『Prix de l'Arc de Triomphe』 itu balapan terbaikmu.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Dibandingin El yang lari di panggung sebesar itu, nggak ada yang berubah…… \nKamu tetap saingan yang bikin aku bisa berdiri sendiri, dan juga sosok yang aku kagumi.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Makanya aku semangat banget buat 『Japan Cup』 ini. Kesempatan bagus buat ngincer puncak, dan juga―",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Buat kita Uma Musume Jepang yang udah lari bareng El, ini kesempatan buat nunjukin kekuatan kita ke mata dunia.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……Grass",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Ehehee……tunjukin ke mereka! \nKekuatan para rival yang udah lari bareng aku!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Di 『Fall Tenno Sho』, Special Week berhasil jadi juara."
+    },
+    {
+      "text": "Pas lagi latihan buat balapan berikutnya, 『Japan Cup』, ada kabar tertentu yang nyampe ke Jepang."
+    },
+    {
+      "text": "『Di acara ini, kita bakal nyiarin wawancara eksklusifnya, jangan ke mana-mana ya』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "Eh, mulai tuh acaranya!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Soal keputusan buat datang ke Jepang, boleh ceritain lebih lanjut!?",
+      "name": "Pewawancara"
+    },
+    {
+      "text": "Tentu saja, dengan senang hati.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Di seluruh dunia, banyak balapan digelar. Dan aku udah menaklukkan puncaknya.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Tapi, di dunia ini aku sadar kalau masih banyak Uma Musume yang berbakat.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Tiba-tiba aku jadi tertarik……bahwa ada banyak bakat luar biasa. Dan kekuatan Uma Musume yang lari di Twinkle Series Jepang.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Yang bikin aku semangat, El Condor Pasa, dan juga teman seangkatannya, Grass Wonder sama Special Week.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Dua-duanya berencana ikut 『Japan Cup』, jadi aku pun akan ikut.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "<Aku nggak sabar nungguin!>",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Nggak nyangka pemenang 『Prix de l'Arc de Triomphe』 bakal turun langsung.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Dia nyebut nama Spe-san juga……",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "『Dan selanjutnya, soal berita Montjeu ikut balapan, mari kita denger reaksi para fans』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "『Pertarungan dia lawan El Condor Pasa luar biasa banget kan!? \nTernyata Uma Musume Jepang sekuat itu, bikin aku semangat banget!』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "『Tapi tetep aja, sayang banget…… Makanya aku pengen Uma Musume Jepang ngasih yang terbaik!』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "『Special Week-san, dan Grass Wonder-san― sebagai Uma Musume Jepang, kami bakal dukung kalian sepenuh hati!』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "『Ternyata banyak fans yang pengen balas dendam sama Uma Musume Prix de l'Arc de Triomphe, dan berharap tinggi sama Uma Musume Jepang』",
+      "name": "Suara dari TV"
+    },
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dengan mencegah kemenangan El Condor Pasa, banyak fans Jepang jadi kenal nama Montjeu."
+    },
+    {
+      "text": "Pas dengar kabar Uma Musume Prix de l'Arc de Triomphe bakal ikut, Special Week tetap tenang, tapi matanya nggak lepas dari berita itu."
+    },
+    {
+      "text": "Kita harus latihan lebih keras, Spe.",
+      "name": "<username>"
+    },
+    {
+      "text": "Yeah!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan begitu, obrolan soal 『Japan Cup』 jadi panas di seluruh Jepang, tapi tiba-tiba ada kabar mendadak."
+    },
+    {
+      "text": "――Grass Wonder bakal mundur dari 『Japan Cup』."
+    },
+    {
+      "text": "…………",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass-chan……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Wah, langit udah mulai merah…… \nMusim dingin udah deket ya～?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Um……soal 『Japan Cup』……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kayaknya aku terlalu keras latihan.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Dengan semua orang di Jepang ngomongin ini, balapan ini jadi jalur menuju puncak. Lari bareng lawan yang bisa ngalahin El, itu kesempatan yang nggak kebayang.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Sebagai cara buat membalas fans yang pengen Uma Musume Jepang menang, dan sebagai wakil Uma Musume Jepang, aku pengen lari.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……dan bareng Spe-chan",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku……?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Di 『Fall Tenno Sho』, lari kamu luar biasa banget.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Makanya aku pengen lari bareng Spe-chan lagi. Bisa lari bareng lagi……aku bener-bener……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku bener-bener…… pengen lari……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass-chan……",
+      "name": "Special Week"
+    },
+    {
+      "text": "…………",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……Um, dengerin ya, Grass-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku bakal menang.",
+      "name": "Special Week"
+    },
+    {
+      "text": "……eh?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku juga pengen lari bareng Grass-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan aku pengen menang lawan Montjeu-san dan Grass-chan. Soalnya aku belum pernah menang lawan Grass-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Makanya aku bakal menang. Aku― Special Week bakal buktiin kalau aku Uma Musume terkuat Jepang.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan di 『Arima Kinen』, aku bakal nungguin kamu! \nSebagai Uma Musume nomor 1 Jepang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Spe-chan……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Fufuu, makanya aku harus sembuh dari cedera ini sampai saat itu, \naku harus dalam kondisi top, kan?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Yeah!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Di 『Japan Cup』, lakuin yang terbaik ya. Kekuatan Uma Musume Jepang, tunjukin ke seluruh dunia.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku berharap banyak sama kamu, \"Supreme Commander of Japan\"",
+      "name": "Grass Wonder"
+    }
+  ]
 }

@@ -1,304 +1,290 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Continuing on to the next segment, we have this! \nA spotlight on the Twinkle Series \"Cool★Spot\"!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "Soon the battle for the Classic races will begin, and for this \nyear's participants, the number of people calling them the \n\"Golden Generation\" has been increasing!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "Among those gaining attention, outwardly with \nan aloof nature, but conversely, using her cunning \nescape to control the race, Seiun Sky!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "By crafting her own pace, she leads her opponents around by the \nnose, among her fans she's been given the title of \"Trickster\"!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "Continuing on, having achieved 3 consecutive wins, \nincluding a Major, without breaking a sweat is King Halo!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "The daughter of a reknowned family, living up to expectations, \nshe's displayed a magnificent racing style! The number of G1 \ntitles she'll obtain is already the talk of the town!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "Gallantly flying in from America, the way she snatches away \nvictories is certainly like a condor! The as yet undefeated \n\"Seabird\" El Condor Pasa!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "\"I'll prove I'm the world's strongest\" are her words, \nand she's shown that she's not all talk! With her striking \nrun at her debut match, she's gained a lot of fans!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "Also from America we have one more Uma \nMusume, Grass Wonder! While she appears to be a Yamato \nNadeshiko, what lies within is certainly a samurai spirit!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "The undefeated Junior champion of the [Asahi Hai FS] \nwith a record-breaking victory! With her overwhelming race \npresence, the title of \"Monster\" has been given to her!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "And the last one we'll introduce, carrying a big dream, \ncoming to the capital all the way from Hokkaido, Special Week!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "She immediately demonstrated the abilities that brought her into \nTracen Academy in her debut race! Possibly becoming a part of \nthe \"Golden Generation\" has brought her a lot of attention!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "How will she do in her upcoming second race?! \nWhat kind of races will we become witness to?!",
-            "name": "Color Commentator"
-        },
-        {
-            "text": "I'll be off- to become \"Japan's #1 Uma Musume\"!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I LOOOOOST!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Uwooooo～h! It's frustrating isn't it～?! \nI understand, that bitter feeling～!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "To become \"Japan's #1 Uma Musume\"― to live up to that dream, \nSpecial Week had come all the way to Tracen Academy."
-        },
-        {
-            "text": "After a complete victory in her debut race, she \ncontinued on to challenge her second race but, \nwas narrowly defeated and placed second."
-        },
-        {
-            "text": "Uuuu… Mom said she would be cheering me on \nas she watched on TV. That's why I gave it my all…",
-            "name": "Special Week"
-        },
-        {
-            "text": "Even with that… I couldn't pull ahead～!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "You did your best, didn't you～?! \nYou were admirable, Spe-chaaaaan!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "…Um, if you keep using such loud voices, \nyou'll bother the people around us…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Even so, can you really say this result was unexpected? \nIt felt like you were conserving your strength.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah… since it looked like training was really easy for you…",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "In practice, Spe's running ability is not bad. \nThat's why I wanted her to enter the race after all.",
-            "name": "<username>"
-        },
-        {
-            "text": "Physical ability, particularly when it comes to clinching a race, \nChikezo and Brian are top class, but I feel that she has the \npotential to match them.",
-            "name": "<username>"
-        },
-        {
-            "text": "When it comes to stamina, since she recovers \nquickly after the race is over, I think there \nwill be no issues for longer distances.",
-            "name": "<username>"
-        },
-        {
-            "text": "When it comes to stamina, since she recovers \nquickly after the race is over, I think there \nwill be no issues for longer distances.",
-            "name": "<username>"
-        },
-        {
-            "text": "If there's an issue, it's probably experience.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Experience…?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Before coming to this academy, you had never run with another Uma \nMusume before, right? Running by yourself and running against \nmultiple opponents in a race are completely different.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Don't expect a conveniently good course or to \nrun at a comfortable pace. You need to learn \nhow to crush your opponents on the spot.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "That's right! If you gain some experience, you'll be fine!",
-            "name": "Horsegirl with Straight-cut Bangs"
-        },
-        {
-            "text": "Yeah, yeah, you've only lost once so far～",
-            "name": "Droopy-eyed Horsegirl"
-        },
-        {
-            "text": "Spe, you have us as backup too! If you lose, we'll \nconsole you with everything we've got so, smash 'em to pieces!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "…No, smashing them is a little…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But, everyone on the team being with you, is true.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Spe-chan, let's run together with everyone even more than before. \nIf you don't have enough experience, then I'll be your practice \npartner as many times as you want.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Suzuka-san…! Everyone…!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Alright, starting today we'll put more focus on actual \nrace experience! We know what we need to do, so \nthere's no time to be looking down, Spe!",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, starting today we'll put more focus on actual \nrace experience! We know what we need to do, so \nthere's no time to be looking down, Spe!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah! I can't run while looking down anyways!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The promise I made with mom, to become \"Japan's #1 \nUma Musume\", I'll show you I can do it!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Uooooooooooh～! Guuuuuuuutss～!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "As if to blow away all the feelings of being depressed about \nlosing, Special Week went dashing down the course."
-        },
-        {
-            "text": "That form, she was unchanged from the time when I invited \nher to the team, a genuine and straight-forward runner."
-        },
-        {
-            "text": "Good work, Special Week-san. \nWith this, today's menu is complete.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "You did good overcoming this hard training session! \nAs expected of me, I was right to put my trust in you!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Haa… haaa… with everyone helping me this much, I felt I \nhad to put in at least this much hard work…!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Just like this, let's continue to develop your race intuition. \nAlright, lets finish up with some cooldowns-",
-            "name": "<username>"
-        },
-        {
-            "text": "…Um, Trainer-san. I want to do a little bit more \ntraining, so can I keep running?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Hey now, don't you think you're a little too enthusiastic?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Ehehe… for some reason, I just feel really motivated!",
-            "name": "Special Week"
-        },
-        {
-            "text": "You see… to tell the truth, I don't really know what I need to \ndo to become \"Japan's #1 Uma Musume.\"",
-            "name": "Special Week"
-        },
-        {
-            "text": "What do I need to do to proudly be able to tell my mom [I became \nJapan's #1]? I've been thinking about it this whole time, but I \ncouldn't think of an answer.",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's true, \"Japan's #1\" is just an easy way to \nsay it, but it can take many forms, such as having \na great record or a notable achievement.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah, but just thinking about it won't get me anywhere so, for \nnow I'll take it one step at a time and do my best at what I can!",
-            "name": "Special Week"
-        },
-        {
-            "text": "And that's what I realized when I was running together with all \nof you! Probably, I'll get even closer to my goal of becoming \n\"Japan's #1 Uma Musume\"!",
-            "name": "Special Week",
-            "choice_data_list": [
-                "Get closer to your goal?"
-            ]
-        },
-        {
-            "text": "To start with, \"A Triple Crown Uma Musume\"!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "That's a huge goal, don't you think?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "[Satsuki Sho] then the [Derby], and finally [Kika Sho]… \neven winning just one Classic Race is a big deal…",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "After winning the Triple Crown, all the interviews \nand things were a pain, though.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Of course they would! That's just how big of a deal it is!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "My aim is to become Japan's #1, so I have to be prepared to \naim for something big like that! Because Hokkaido is Big-kaido!",
-            "name": "Special Week"
-        },
-        {
-            "text": "A big achievement like the Triple Crown, \nis simple to link to being Japan's #1."
-        },
-        {
-            "text": "But, considering how big her dream is, \nI think it's a fine goal to focus on."
-        },
-        {
-            "text": "Of course, with a goal that big, \nhalf-hearted training won't be sufficient.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Since Spe has decided on her goal, I just need to give \nher my full support. Let's do some additional training!",
-            "name": "<username>"
-        },
-        {
-            "text": "Since Spe has decided on her goal, I just need to give \nher my full support. Let's do some additional training!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah! I'll be off!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Things are heatin' up aren't they?! \nHell yeah! I'll be taggin' along too!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Fufuu… I can certainly see why Trainer-san \ninvited Special Week-san to join the team.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Even after having glimpsed the true intensity \nof a real race, Special Week still had an even \nmore positive outlook than before."
-        },
-        {
-            "text": "Because she has such genuine feelings, \nit makes me strongly desire to support her dream."
-        },
-        {
-            "text": "C'mon Spe! The road to the Triple Crown isn't so forgiving! \nLet's add 50 laps on the dirt course!!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "50 laps?! N-No waaaaay～!!",
-            "name": "Special Week"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Lanjut ke segmen berikutnya! Sorotan untuk Twinkle Series “Cool★Spot”!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Tak lama lagi, pertarungan Classic Race akan dimulai, dan peserta tahun ini makin sering disebut \"Golden Generation\"!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Di antara mereka yang menarik perhatian, terlihat tenang tapi pintar mengatur pelarian untuk menguasai lomba, Seiun Sky!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dengan mengatur ritmenya sendiri, ia memimpin lawan bak ditarik hidung, sehingga dijuluki \"Trickster\" oleh penggemar!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Berikutnya, 3 kemenangan beruntun termasuk Major tanpa kesulitan: King Halo!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Putri keluarga ternama, tampil sesuai ekspektasi, dengan gaya lomba megah! Jumlah gelar G1 yang akan diraih sudah jadi pembicaraan!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Terbang gagah dari Amerika, meraih kemenangan seperti elang! Belum terkalahkan, “Seabird” El Condor Pasa!",
+      "name": "Komentator"
+    },
+    {
+      "text": "“Aku akan buktikan aku terkuat di dunia”, dan ia membuktikannya! Debutnya memukau banyak penggemar!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Juga dari Amerika, Grass Wonder! Terlihat seperti Yamato Nadeshiko, tapi jiwanya seorang samurai!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Juara Junior [Asahi Hai FS] yang belum terkalahkan, menang rekor! Dijuluki “Monster” karena kehadiran luar biasa di lintasan!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dan terakhir, membawa mimpi besar dari Hokkaido ke ibu kota, Special Week!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Di debutnya, ia langsung menunjukkan kemampuan yang membuatnya diterima Tracen Academy! Mungkin bagian dari \"Golden Generation\", jadi perhatian!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Bagaimana performanya di lomba kedua nanti?! Lomba macam apa yang akan kita saksikan?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Aku berangkat—untuk jadi \"Gadis Kuda No.1 di Jepang\"!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku KALAH!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Uwooooo～h! Frustasi kan～?! Aku ngerti perasaan pahit itu～!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Untuk jadi \"Gadis Kuda No.1 di Jepang\", Special Week datang jauh-jauh ke Tracen Academy."
+    },
+    {
+      "text": "Setelah menang total di debutnya, ia tantang lomba kedua tapi kalah tipis dan finis kedua."
+    },
+    {
+      "text": "Uuuu… Ibu bilang bakal dukung lewat TV. Makanya aku all-out…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Walaupun begitu… aku tetap nggak bisa mendahului～!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kamu sudah berusaha, kan～?! Hebat banget, Spe-chaaaaan!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "…Um, kalau terus teriak gitu, bakal ganggu orang sekitar…",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tapi hasil ini sebenarnya nggak mengejutkan kan? Kayak kamu simpan tenaga aja.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya… latihan terlihat gampang banget buatmu…",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Di latihan, kemampuan lari Spe nggak buruk. Makanya aku pengin dia ikut lomba juga.",
+      "name": "Trainer"
+    },
+    {
+      "text": "Kemampuan fisik, apalagi untuk memenangkan lomba, Chikezo dan Brian kelas atas, tapi aku rasa Spe punya potensi setara mereka.",
+      "name": "Trainer"
+    },
+    {
+      "text": "Untuk stamina, karena cepat pulih setelah lomba, nggak akan ada masalah untuk jarak jauh.",
+      "name": "Trainer"
+    },
+    {
+      "text": "Kalau ada masalah, mungkin soal pengalaman.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Pengalaman…?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebelum ke akademi ini, kamu belum pernah lomba bareng gadis kuda lain, kan? Lari sendiri dan lawan banyak peserta beda banget.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Jangan harap lintasan selalu enak atau ritmenya nyaman. Kamu harus belajar cara menaklukkan lawan langsung di lapangan.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Betul! Kalau dapat pengalaman, bakal oke kok!",
+      "name": "Gadis Kuda dengan Poni Lurus"
+    },
+    {
+      "text": "Iya, iya, baru sekali kalah aja kan～",
+      "name": "Gadis Kuda Bermata Sedih"
+    },
+    {
+      "text": "Spe, kita dukung kamu juga! Kalau kalah, kita bakal hibur dan semangatin, jadi hajar mereka habis-habisan!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "…Ehm, hajar mereka itu agak…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi, semua tim ada di sisimu, itu nyata.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Spe-chan, ayo lari bareng semua orang lebih dari sebelumnya. Kalau pengalamanmu kurang, aku bakal jadi partner latihan sebanyak yang kamu mau.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Suzuka-san…! Semua…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mulai hari ini, fokus lebih ke pengalaman lomba nyata! Kita tahu apa yang harus dilakukan, nggak ada waktu buat nyerah, Spe!",
+      "name": "Trainer"
+    },
+    {
+      "text": "Iya! Kan nggak mungkin lari sambil liat ke bawah!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Janji sama ibu, jadi \"Gadis Kuda No.1 di Jepang\", aku bakal tunjukin aku bisa!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Uooooooooooh～! Guuuuuuuutss～!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Seolah menghapus semua rasa down karena kalah, Special Week melesat di lintasan."
+    },
+    {
+      "text": "Bentuk larinya, nggak berubah sejak pertama kali aku ajak gabung tim, pelari jujur dan tulus."
+    },
+    {
+      "text": "Kerja bagus, Special Week-san. Dengan ini, menu hari ini selesai.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kamu berhasil melewati latihan berat ini! Sesuai harapanku, aku benar mempercayaimu!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Haa… haaa… dengan semua dukungan ini, aku harus kasih usaha sekeras ini…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Begini terus, kita kembangkan insting lombamu. Oke, lanjut dengan pendinginan-",
+      "name": "Trainer"
+    },
+    {
+      "text": "…Um, Trainer-san. Aku mau latihan sedikit lagi, boleh nggak lanjut lari?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Eh, jangan terlalu semangat ya?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Ehehe… entah kenapa, aku merasa sangat termotivasi!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jadi… jujur, aku nggak tahu harus ngapain biar jadi \"Gadis Kuda No.1 di Jepang.\"",
+      "name": "Special Week"
+    },
+    {
+      "text": "Apa yang harus kulakukan biar bisa bilang ke ibu [Aku jadi No.1]! Aku mikirin ini terus, tapi belum dapat jawabannya.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, \"No.1 di Jepang\" cuma kata gampang, tapi bisa bermakna banyak hal, seperti rekor hebat atau prestasi luar biasa.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, tapi cuma mikir nggak bakal ke mana, jadi aku ambil langkah demi langkah dan kerjain yang bisa aku lakukan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan itu yang aku sadari saat lari bareng kalian semua! Mungkin aku bakal makin dekat ke tujuan jadi \"Gadis Kuda No.1 di Jepang\"!",
+      "name": "Special Week",
+      "choice_data_list": ["Makin dekat ke tujuanmu?"]
+    },
+    {
+      "text": "Mulai dari, \"Gadis Kuda Triple Crown\"!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Itu tujuan besar banget, kan?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "[Satsuki Sho], [Derby], terakhir [Kika Sho]… menang satu Classic Race aja udah besar…",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Setelah menang Triple Crown, semua wawancara dan hal-hal lain lumayan ribet sih.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Pastinya! Itu berarti besar banget!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Tujuanku jadi No.1 di Jepang, jadi harus siap target gede! Karena Hokkaido itu Big-kaido!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Prestasi besar seperti Triple Crown, gampang dikaitkan sama jadi No.1 di Jepang."
+    },
+    {
+      "text": "Melihat mimpinya sebesar itu, fokus ke sana memang pantas."
+    },
+    {
+      "text": "Tentu, dengan target sebesar itu, latihan setengah-setengah nggak cukup.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Karena Spe udah tentuin tujuannya, aku cuma perlu dukung penuh. Ayo latihan tambahan!",
+      "name": "Trainer"
+    },
+    {
+      "text": "Iya! Aku berangkat!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Semangat makin terasa, kan?! Aku juga ikut!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Fufuu… jelas kenapa Trainer-san ajak Special Week-san gabung tim.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Walau udah lihat kerasnya lomba, Special Week masih punya semangat lebih besar dari sebelumnya."
+    },
+    {
+      "text": "Karena perasaannya tulus, aku makin ingin dukung mimpinya."
+    },
+    {
+      "text": "Ayo Spe! Jalan menuju Triple Crown nggak gampang! Tambah 50 putaran di lintasan tanah!!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "50 putaran?! N-Nggak mungkin～!!",
+      "name": "Special Week"
+    }
+  ]
 }

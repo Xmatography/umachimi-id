@@ -1,54 +1,56 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Winning Ticket",
-            "text": "Huh, Trainer-san and Hayahide!",
-            "choice_data_list": [
-                "It was your best race so far.",
-                "It was your best race so far."
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hehe～, I even surprised myself! To beat \nthe “Yayoi Prize” record time!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "When I saw Taishin come up, some strength \nwelled up from inside me…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "A rival is a presence that brings out the power \nthat you do not even notice yourself, and Taishin \nwas the one who taught me that, Waaaa!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Well,I lost… I feel like I had a good race."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Geez, It's not fair, both of you. I \nalso wish I could run with you."
-        },
-        {
-            "text": "If this goes on, the 3 girls will surely race in their first \nclassic race together at the “SatsukiShou”."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Next time I will make sure I don't lose. No matter how good the \nrace was, there is no point if you don't win."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "haha, I will also make sure to appear at the “SatsukiShou”. And \nthis time we will run together all 3 of us."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! The 3 of us together!"
-        },
-        {
-            "text": "First Rival Showdownー Winning Ticket that ran win her rival \nshowed a bigger smile than ever before."
-        },
-        {
-            "text": "From now on, the once in a lifetime showdown, the classic front \nbegins and the goal of the Derby is slowly approaching."
-        }
-    ]
+  "conversation": [
+    {
+      "speaker": "Winning Ticket",
+      "text": "Huh, Trainer-san sama Hayahide!",
+      "choice_data_list": [
+        "Ini balapan terbaikku sejauh ini.",
+        "Ini balapan terbaikku sejauh ini."
+      ]
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Hehe～, aku sendiri juga kaget! \nBisa ngalahin rekor waktu ‘Yayoi Prize’!"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Pas liat Taishin nyusul, ada tenaga yang tiba-tiba muncul dari dalam diriku…"
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Rival itu bikin kamu keluarin kekuatan \nyang bahkan kamu nggak sadar ada, \ndan Taishin ngajarin aku itu, Waaaa!"
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Yah, aku kalah… tapi rasanya balapan ini lumayan bagus."
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Duh, nggak adil sih, kalian berdua. \nAku juga pengen bisa lari bareng kalian."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Kalau begini terus, pasti ketiga gadis itu bakal balapan bareng \ndi classic race pertama mereka di ‘SatsukiShou’."
+    },
+    {
+      "speaker": "Narita Taishin",
+      "text": "Next time, aku bakal pastiin nggak kalah. \nSepandai apapun balapannya, nggak ada artinya kalau nggak menang."
+    },
+    {
+      "speaker": "Biwa Hayahide",
+      "text": "Haha, aku juga bakal pastiin ikut di ‘SatsukiShou’. \nDan kali ini kita bertiga bakal lari bareng."
+    },
+    {
+      "speaker": "Winning Ticket",
+      "text": "Iya! Kita bertiga bareng!"
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Pertemuan Rival pertama—Winning Ticket yang menang di hadapan rivalnya \nnunjukin senyum yang lebih lebar dari sebelumnya."
+    },
+    {
+      "speaker": "Narasi",
+      "text": "Mulai dari sekarang, pertemuan sekali seumur hidup itu, \nclassic race dimulai, dan tujuan di Derby perlahan mendekat."
+    }
+  ]
 }

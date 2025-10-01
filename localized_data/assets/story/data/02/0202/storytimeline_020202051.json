@@ -2,90 +2,90 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――Tuesday, 5 days before the 『American Oaks』"
+            "text": "――Selasa, 5 hari menuju 『American Oaks』"
         },
         {
             "name": "King Halo",
-            "text": "We've arrived, Cesario-san. \nIn Los, like you've been dreaming of."
+            "text": "Kita udah sampai, Cesario-san. \nDi Los Angeles, kayak yang kamu impikan."
         },
         {
             "name": "Cesario",
-            "text": "Yes, it really lifts my spirits……! But it's kind of unfortunate. \nTo think it'd just be the 2 of us coming first."
+            "text": "Iya, ini bener-bener bikin semangat……! Tapi agak disayangkan sih. \nCuma kita berdua aja yang dateng duluan."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Eeeeehhh, so the only other Uma Musume that \ngets to go there in person is King-san～!?"
+            "text": "Eeeeehhh, jadi cuma King-san doang yang bisa dateng langsung ke sana～!?"
         },
         {
-            "text": "It can't be helped. We don't have the budget for it."
+            "text": "Nggak bisa dipungkiri. Budget kita nggak cukup."
         },
         {
             "name": "Cesario",
-            "text": "Kraft, I will definitely accomplish it. \nSo just wait here and believe in my victory."
+            "text": "Kraft, aku pasti bakal berhasil. \nJadi tunggu aja di sini dan percaya sama kemenanganku."
         },
         {
             "name": "Rhein Kraft",
-            "text": "……Yeah! Sorry I can't go cheer you on. \nBut……we're with you!"
+            "text": "……Iya! Maaf nggak bisa dateng nyemangatin kamu. \nTapi……kami ada di belakang kamu!"
         },
         {
-            "text": "And that's why, King. \nYou and Cesario should head to America first."
+            "text": "Makanya, King. \nKamu sama Cesario aja yang berangkat ke Amerika duluan."
         },
         {
-            "text": "And that's why, King. \nYou and Cesario should head to America first."
-        },
-        {
-            "name": "King Halo",
-            "text": "Head there first with Cesario? ……But what about you?"
-        },
-        {
-            "text": "I still have things that I need to do here."
-        },
-        {
-            "text": "I still have things that I need to do here."
+            "text": "Makanya, King. \nKamu sama Cesario aja yang berangkat ke Amerika duluan."
         },
         {
             "name": "King Halo",
-            "text": "Things to do……?"
+            "text": "Berangkat duluan sama Cesario? ……Tapi kamu gimana?"
+        },
+        {
+            "text": "Aku masih ada urusan yang harus diselesaiin di sini."
+        },
+        {
+            "text": "Aku masih ada urusan yang harus diselesaiin di sini."
         },
         {
             "name": "King Halo",
-            "text": "Cesario-san, just leave everything to me! \nIt'll be fine, America is a country where my mother used to run."
+            "text": "Urusan……?"
         },
         {
             "name": "King Halo",
-            "text": "Just watch. \nI'll even be able to guide us to the hotel without issues……!"
+            "text": "Cesario-san, serahkan semuanya ke aku! \nNggak usah khawatir, Amerika itu negara tempat ibuku dulu pernah balapan."
         },
         {
             "name": "King Halo",
-            "text": "Huh? It won't connect……!? \nWhat's going on? Radio interference?"
+            "text": "Liat aja. \nAku bahkan bisa nuntun kita ke hotel tanpa masalah……!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hah? Kok nggak bisa konek……!? \nIni kenapa ya? Gangguan sinyal?"
         },
         {
             "name": "Cesario",
-            "text": "Um……it's hard to say this now but…… In foreign countries, \nyou won't be able to connect without making proper arrangements……"
+            "text": "Um……agak susah ngomongnya sekarang tapi…… Di luar negeri, \nnggak bakal bisa konek tanpa persiapan yang bener……"
         },
         {
             "name": "King Halo",
-            "text": "O-Oo Ho Ho Ho! Now that you mention it, that's true. \nI suppose I'll have to rent a mobile router from somewhere."
+            "text": "O-Oo Ho Ho Ho! Kalau kamu bilang gitu, bener juga ya. \nKayaknya aku harus sewa router mobile dari somewhere."
         },
         {
             "name": "King Halo",
-            "text": "If I can't pull up a map, then we'll just have to call a taxi. \nIf we call one using an app, it should arrive quickly."
+            "text": "Kalau nggak bisa buka peta, ya terpaksa naik taxi. \nKalau panggil pake aplikasi, harusnya cepet dateng."
         },
         {
             "name": "Cesario",
-            "text": "Um……If you can't connect then I don't \nthink you can use apps either……"
+            "text": "Um……Kalau nggak bisa konek, kayaknya \naplikasi juga nggak bisa dipake……"
         },
         {
             "name": "King Halo",
-            "text": "Ugh……you're right…… \nI'm such an……idiot……"
+            "text": "Aduh……bener juga ya…… \nAku ini……bodoh banget……"
         },
         {
             "name": "King Halo",
-            "text": "Ugh～ all of this is because they aren't here～. \nGeez～!!"
+            "text": "Ugh～ ini semua karena mereka nggak ada di sini～. \nGimana sih～!!"
         },
         {
             "name": "King Halo",
-            "text": "Haa……I'm sorry, Cesario-san……"
+            "text": "Haa…… maaf ya, Cesario-san……"
         },
         {
             "name": "Cesario",
@@ -93,19 +93,19 @@
         },
         {
             "name": "King Halo",
-            "text": "What's so funny?"
+            "text": "Lucu apanya?"
         },
         {
             "name": "Cesario",
-            "text": "How should I put it? How you're always working hard, \nand how you apologize when things aren't going well……"
+            "text": "Gimana ya… Caramu yang selalu berusaha keras, \ndan caramu minta maaf kalau ada yang nggak beres……"
         },
         {
             "name": "Cesario",
-            "text": "You're just like Trainer, huh"
+            "text": "Kamu mirip banget sama Trainer, ya"
         },
         {
             "name": "King Halo",
-            "text": "Wait, no――just stop right there……! Alright, after we put \nour luggage away, we're heading to the training grounds!"
+            "text": "Tunggu, jangan――berhenti di situ……! Oke, setelah kita \ntaruh barang, kita langsung ke lapangan latihan!"
         },
         {
             "name": "Cesario",
@@ -113,19 +113,19 @@
         },
         {
             "name": "Cesario",
-            "text": "(The turf……is really rough. Things really are \ndifferent compared to home. And the atmosphere――)"
+            "text": "(Rumputnya……kasar banget. Bener-bener beda \ndibanding di rumah. Dan suasana――)"
         },
         {
             "name": "Cesario",
-            "text": "(The 『American Oaks』…… \nAll of it is so unfamiliar, but still, I'll definitely――!)"
+            "text": "(『American Oaks』…… \nSemuanya begitu asing, tapi tetap, aku pasti――!)"
         },
         {
             "name": "King Halo",
-            "text": "Cesario-san, your form is crumbling. \nDon't focus so much on your footing."
+            "text": "Cesario-san, bentuk tubuhmu berantakan. \nJangan terlalu fokus sama pijakan kaki."
         },
         {
             "name": "Cesario",
-            "text": "Yes……I apologize. \n――One more!"
+            "text": "Iya……maaf. \n――Satu lagi!"
         },
         {
             "name": "Cesario",
@@ -133,123 +133,123 @@
         },
         {
             "name": "King Halo",
-            "text": "――!? And now you're driving too hard!"
+            "text": "――!? Sekarang malah terlalu memaksakan!"
         },
         {
             "name": "King Halo",
-            "text": "(It's so unlike her, to not be able to calm down. \nIt must be because it's her first time overseas……)"
+            "text": "(Biasanya dia nggak kayak gini, nggak bisa tenang. \nMungkin karena ini pertama kalinya ke luar negeri……)"
         },
         {
             "name": "King Halo",
-            "text": "Cesario-san, anyways, it's a matter of feelings! \nDon't let your emotions get the best of you!"
+            "text": "Cesario-san, yang penting, ini masalah perasaan! \nJangan sampe emosi menguasai kamu!"
         },
         {
             "name": "King Halo",
-            "text": "(……It seems like she's not even listening. \nKuu……but still, I need to do something……!)"
+            "text": "(……Kayaknya dia nggak dengerin. \nKuu… tapi tetep, aku harus ngapa-ngapain……!)"
         },
         {
             "name": "King Halo",
-            "text": "Hello…… Did I wake you? \nSorry for calling so late."
+            "text": "Halo…… Apa aku bangunin kamu? \nMaaf telponnya malem-malem."
         },
         {
-            "text": "『It's fine, it's still daytime here』"
+            "text": "『Nggak apa-apa, di sini masih siang』"
         },
         {
-            "text": "『It's fine, it's still daytime here』"
-        },
-        {
-            "name": "King Halo",
-            "text": "Oh, that's right. That's true. \nJust in case, I thought I should report."
+            "text": "『Nggak apa-apa, di sini masih siang』"
         },
         {
             "name": "King Halo",
-            "text": "There hasn't been any real trouble. \nThe training facilities seem fine. It's just……"
+            "text": "Oh, iya ya. Bener juga. \nBuat jaga-jaga, aku pikir harus lapor."
         },
         {
             "name": "King Halo",
-            "text": "By myself……I don't think I'm strong enough."
-        },
-        {
-            "text": "『Not strong enough……』"
+            "text": "Belum ada masalah yang berarti. \nFasilitas latihannya kayaknya oke. Cuma……"
         },
         {
             "name": "King Halo",
-            "text": "No matter how many times I call out to her, she \njust can't seem to calm down. Maybe she's feeling \na lot of pressure since it's her first overseas G1."
+            "text": "Sendirian…… kayaknya aku nggak cukup kuat."
+        },
+        {
+            "text": "『Nggak cukup kuat……』"
         },
         {
             "name": "King Halo",
-            "text": "And now I'm feeling it a little……too. Now I really understand. \nJust exactly how you felt during that 『Japan Derby』……"
+            "text": "Berkali-kali aku nelpon dia, dia tetep aja nggak bisa tenang. \nMungkin dia lagi ngerasain tekanan yang besar soalnya ini G1 \nluar negeri pertamanya."
         },
         {
             "name": "King Halo",
-            "text": "I can't run. But I need to help her win. \nNow I know just how much pressure you were under……"
+            "text": "Dan sekarang aku juga ngerasain……sedikit. Sekarang aku bener-bener ngerti. \nGimana perasaan kamu waktu 『Japan Derby』 dulu……"
         },
         {
             "name": "King Halo",
-            "text": "And there's one more thing I've understood. \nThe feelings of my mother――of not wanting me to race."
-        },
-        {
-            "text": "『Your mother's?』"
+            "text": "Aku nggak bisa lari. Tapi aku harus bantu dia menang. \nSekarang aku tau betapa berat tekanan yang kamu rasain……"
         },
         {
             "name": "King Halo",
-            "text": "Yeah. My mother has also won an Oaks race in America. So she \nknew just how heavy the pressure was when it came to big races……"
+            "text": "Dan ada satu hal lagi yang aku ngerti. \nPerasaan ibuku――yang nggak pengen aku balapan."
+        },
+        {
+            "text": "『Ibumu?』"
         },
         {
             "name": "King Halo",
-            "text": "『I don't want my daughter to feel like this』. \nIt's normal to think that way……"
+            "text": "Iya. Ibuku juga pernah menang balapan Oaks di Amerika. Jadi dia \ntau betapa berat tekanan di balapan besar……"
         },
         {
-            "text": "It was unusual for King Halo to voice her \nworries to me like this. Maybe it was a sign \nof just how hard she was struggling with this.",
+            "name": "King Halo",
+            "text": "『Aku nggak mau anak perempuanku ngerasain kayak gini』. \nWajar aja mikir kayak gitu……"
+        },
+        {
+            "text": "Ini jarang banget buat King Halo curhat \nke aku kayak gini. Mungkin ini tanda \nkalau dia lagi betul-betul kesulitan.",
             "choice_data_list": [
-                "Sorry. For making you do all this"
+                "Maaf. Sudah membebanimu dengan semua ini"
             ]
         },
         {
             "name": "King Halo",
-            "text": "It's fine……hey, when are you coming here?"
+            "text": "Nggak apa-apa……hei, kapan kamu kesini?"
         },
         {
             "name": "King Halo",
-            "text": "For overseas G1 races, isn't it normal for the trainer \nto accompany you from the start? Just what are you……"
+            "text": "Untuk balapan G1 luar negeri, bukannya normalnya trainer \nyang nemenin dari awal? Kamu lagi ngapain sih……"
         },
         {
-            "text": "『There are things I need to do. No matter what. \nBut, I believe you'll be fine, King』"
-        },
-        {
-            "name": "King Halo",
-            "text": "W-what are you saying?! Geez! ……fine then. Once we meet up, \nI'll ask you what exactly it is that you've been doing."
+            "text": "『Ada hal yang harus aku selesaiin. Apapun yang terjadi. \nTapi, aku percaya kamu bisa, King』"
         },
         {
             "name": "King Halo",
-            "text": "Hurry up and come over here. Got it? Bye……"
+            "text": "L-lagi ngomong apaan?! Gimana sih! ……ya udah. Pas ketemu nanti, \naku bakal tanya kamu lagi soal hal yang lagi kamu kerjain."
         },
         {
-            "text": "The call ends. \nI really need to meet up with them as soon as possible……"
+            "name": "King Halo",
+            "text": "Cepetan dateng ke sini. Ngerti? Dah……"
         },
         {
-            "text": "But I can't yet. As a trainer, \nI absolutely need to complete these preparations."
+            "text": "Telponnya putus. \nAku bener-bener harus cepet-cepet ketemu mereka……"
+        },
+        {
+            "text": "Tapi belum bisa. Sebagai trainer, \naku harus banget nyelesaiin persiapan ini."
         },
         {
             "name": "Special Week",
-            "text": "Team <Ascella>'s Trainer-san! \nSorry for making you wait!"
+            "text": "Trainer-san dari Tim <Ascella>! \nMaafin ya bikin nunggu!"
         },
         {
             "name": "Special Week",
-            "text": "It sounds like we've gathered up all the 『American Oaks』 \ndocumentation from last year! You did say that you wanted \nto talk as much as possible about our experiences.",
+            "text": "Kayaknya kita udah kumpulin semua dokumentasi 『American Oaks』 \ndari tahun lalu! Katanya kamu mau ngobrol sebanyak mungkin \ntentang pengalaman kita.",
             "choice_data_list": [
-                "I see. Thank you!",
-                "I see. Thank you!"
+                "Begitu ya. Makasih!",
+                "Begitu ya. Makasih!"
             ]
         },
         {
-            "text": "The one who took on the 『American Oaks』 last \nyear was……none other than the 『Genius』 trainer."
+            "text": "Yang nemenin 『American Oaks』 tahun \nlalu adalah……trainer 『Jenius』 itu sendiri."
         },
         {
-            "text": "The value of their advice was immeasurable. I needed to ask for \nthat advice no matter what, even if it meant delaying my trip."
+            "text": "Nilai sarannya nggak ternilai. Aku harus minta saran itu \nbagaimanapun caranya, bahkan kalo harus nunda keberangkatan."
         },
         {
-            "text": "Even among the other trainers, they were all fired up. \nFor their irreplaceable Uma Musume――they too wanted \nto prevent them from shedding tears of frustration."
+            "text": "Bahkan di antara trainer lain, mereka semua semangat. \nUntuk Uma Musume mereka yang nggak tergantikan――mereka juga \npengen ngecegah mereka nangis karena frustasi."
         }
     ]
 }

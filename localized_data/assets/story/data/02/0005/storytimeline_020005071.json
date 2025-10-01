@@ -1,225 +1,212 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "There's a slope right before the goal, so we should be proactive \nand do some training to increase our leg strength…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Hmm hmm… I see!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Oh? Sounds like appropriate advice, Suzuka.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Air Groove. \nYeah, I learned a few things beforehand.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But, this is all information that I was unfamiliar with and \ndeperately trying to learn, at least, before now. ",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Everyone has times where things go well, and times \nwhen they don't. But, it's precisely because you've \nexperienced both, that you're here, Suzuka.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "That's true… from now on, I'm going to try to learn lots of \nthings, and step by step, continue moving forward.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "That way, someday, I'll pay back this \ndebt from the race the other day.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Fuu, I won't let you win that easily.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Uwaaah~ just like real rivals…! \nAfter my debut, do you think I'll meet someone like that…?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Rivals are an existence necessary for continued growth… \nthat's why, we should keep working hard so we can meet them.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Yeah! But first I need to win my Debut race, don't I? \nSuzuka-san, please teach me more and more about running!",
-            "name": "Special Week"
-        },
-        {
-            "text": "In an instant she surges forward! Special Week takes the lead! \nSpecial Week is starting to pull away!",
-            "name": "Commentator"
-        },
-        {
-            "text": "C'moooooon! Goooooo! Knock 'em dead!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Special Week reaches the goal first! \nShe marks her Debut race with a victory!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Hell yeah! You did it, Spe! \nWhen we get back to school, it's party time!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Uwoooooooooh!! That was the ultimate Debut raaaaaaaaaaace!! \nSpe-chan, congwaduwaaaaaashons!!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "And so begins the legend of Spe, the girl \nwho aims to be \"Japan's #1 Uma Musume\".",
-            "name": "<username>"
-        },
-        {
-            "text": "And so begins the legend of Spe, the girl \nwho aims to be \"Japan's #1 Uma Musume\".",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, looks that way.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ehehe…!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…Fufuu.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Fuu~…for some reason, \nthe after party felt more exhausting than the actual Debut race.",
-            "name": "Special Week"
-        },
-        {
-            "text": "If she finds out we slipped out like this, \nI wonder what Gold Ship-san is going to make us do…",
-            "name": "Special Week"
-        },
-        {
-            "text": "I wonder if she'll throw another party when I win a race too.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Of course! I'll prepare some buttered potatoes! Since Suzuka-san \nwas there to support me during my Debut race too!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Supported you… I didn't do anything so grand though.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "That's not true! You taught me how to run properly, \nyou've helped me out in regards to school stuff, and and-",
-            "name": "Special Week"
-        },
-        {
-            "text": "Watching Suzuka-san joyfully running, \ngave me the courage to chase after my dreams!",
-            "name": "Special Week"
-        },
-        {
-            "text": "…it's the same for me. Seeing you so straight-forwardly chase \nyour dreams, made me feel like I want to do the same.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…Spe-chan's genuine feelings, \nhelped me take that one big step forward.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Ehehe… Suzuka-san! Just watch, I'll definitely become \n\"Japan's #1 Uma Musume\"!",
-            "name": "Special Week"
-        },
-        {
-            "text": "And then, my mom in Hokkaido, Trainer-san, and Suzuka-san. \nI'll show you all how awesome I've become!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yeah, me too- For the sake of my dream I'll continue to chase \nafter that \"scenery\" I want to see and keep on running.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Let's both promise to fulfill our dreams!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yeah, I promise…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…By the way, Suzuka-san. I get the feeling you changed the way \nyou called my name back there, didn't you?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Eh…? Um… did I really…?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "You did! Don't play dumb! \nOnce more! Once more please!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Fufufuu, come on…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Today's main race, Silence Suzuka is the favorite!",
-            "name": "Spectator A"
-        },
-        {
-            "text": "That girl that runs as an escape? She's the favorite, but I'm \npretty sure her results haven't been that good… ",
-            "name": "Spectator B"
-        },
-        {
-            "text": "That may be true, but for some reason it gets your hopes up. \nI keep wanting to see more of that running style!",
-            "name": "Spectator A"
-        },
-        {
-            "text": "Fuu~…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Looks like you're able to concentrate just fine.",
-            "name": "<username>"
-        },
-        {
-            "text": "Because of Trainer-san, the other team members, \nand Spe-chan supporting me, I'm in perfect condition.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Do your best, Suzuka-san! \nI'll be cheering you on from the front of the stands!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Yeah, I'll show you I can answer to those cheers.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
-            "name": "<username>",
-            "choice_data_list": [
-                "<size=40>Go and get a good look at that \"scenery\"!</size>",
-                "<size=40>Go and get a good look at that \"scenery\"!</size>"
-            ]
-        },
-        {
-            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
-            "name": "<username>",
-            "choice_data_list": [
-                "<size=40>Go and get a good look at that \"scenery\"!</size>",
-                "<size=40>Go and get a good look at that \"scenery\"!</size>"
-            ]
-        },
-        {
-            "text": "Understood! Trainer-san, I'll make \nsure you see that \"scenery\" too!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Silence Suzuka settles in to her gate in the outermost frame.",
-            "name": "Commentator"
-        },
-        {
-            "text": "1800m to the goal, which Uma Musume will reach the \ngoal first? Prepartions complete - Start!!",
-            "name": "Commentator"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Di depan garis finish ada tanjakan, jadi kita harus proaktif \ndan latihan biar kekuatan kaki makin oke…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Hmm hmm… ngerti!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oh? Kedengarannya nasihat yang pas, Suzuka.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Air Groove. \nIya, aku udah belajar beberapa hal sebelumnya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Tapi, semua ini informasi yang sebelumnya aku nggak tau dan \ncoba pelajari dengan susah payah, paling nggak sampai sekarang.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Setiap orang pasti ada saatnya lancar, ada saatnya nggak.\nTapi justru karena kamu udah ngalamin keduanya, makanya kamu bisa sampai sini, Suzuka.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Bener juga… mulai sekarang, aku bakal belajar banyak hal, \ndan pelan-pelan terus maju.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Biar nanti, aku bisa bayar balik utang di balapan kemarin.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Fuu, nggak bakal gampang aku menangin kamu.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Uwaaah~ kayak rival beneran…! \nAbis debutku, apa aku bakal ketemu orang kayak gitu…?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Rival itu penting buat terus berkembang… \njadi kita harus kerja keras biar bisa ketemu mereka.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Iya! Tapi pertama-tama aku harus menangin debutku dulu kan? \nSuzuka-san, tolong ajarin aku lebih banyak soal lari!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tiba-tiba dia ngebut ke depan! \nSpecial Week ambil lead! Dia mulai menjauh!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Ayooooo! Gas pol! Hajar habis!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Special Week nyampe finish duluan! \nDebutnya langsung menang!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Yeaaah! Kamu berhasil, Spe! \nNanti pas balik ke sekolah, waktunya pesta!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Uwoooooooooh!! Itu balapan debut terhebat!! \nSpe-chan, selamat yaaa!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"gadis kuda #1 Jepang\".",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Iya, kayak gitu deh.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ehehe…!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…Fufuu.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Fuu~… entah kenapa, pesta abis debut rasanya lebih capek \ndaripada balapannya sendiri.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kalo Gold Ship-san tau kita nyelundup gini, aku penasaran bakal disuruh apa…",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku penasaran, dia bakal ngadain pesta lagi kalo aku menang balapan juga nggak ya.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Pastinya! Aku bakal siapin kentang mentega! \nSoalnya Suzuka-san juga dukung aku pas debut!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dukung aku… aku nggak ngelakuin hal besar sih.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Nggak bener tuh! Kamu ngajarin aku cara lari yang bener, \nbantuin soal sekolah, dan-",
+      "name": "Special Week"
+    },
+    {
+      "text": "Nonton Suzuka-san lari dengan senang, bikin aku berani ngejar mimpiku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "…aku juga sama. Liat kamu ngejar mimpi dengan tulus, \nbikin aku pengen ngelakuin hal yang sama.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Perasaan tulus Spe-chan, bantu aku ambil satu langkah besar itu.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Ehehe… Suzuka-san! Liat aja, aku pasti bakal jadi \n\"gadis kuda #1 Jepang\"!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan ibu aku di Hokkaido, Trainer-san, sama Suzuka-san. \nAku bakal nunjukin kalo aku hebat sekarang!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, aku juga- Demi mimpiku, aku bakal terus ngejar \npemandangan yang pengen aku liat dan terus lari.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Janji kita berdua bakal wujudin mimpi masing-masing!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, aku janji…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Ngomong-ngomong, Suzuka-san. Aku ngerasa tadi kamu manggil namaku beda, kan?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Eh…? Um… beneran gitu ya…?",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Iya! Jangan sok polos! Sekali lagi dong! Sekali lagi ya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Fufufuu, ayoo…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Balapan utama hari ini, Silence Suzuka jadi favorit!",
+      "name": "Penonton A"
+    },
+    {
+      "text": "Cewek yang lari kayak kabur itu? Dia favorit, tapi kayaknya hasilnya nggak selalu bagus…",
+      "name": "Penonton B"
+    },
+    {
+      "text": "Mungkin bener, tapi entah kenapa bikin penasaran. \nAku pengen liat gaya larinya lebih banyak lagi!",
+      "name": "Penonton A"
+    },
+    {
+      "text": "Fuu~…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kayaknya aku bisa fokus dengan baik nih.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Berkat Trainer-san, anggota tim lain, \ndan Spe-chan yang dukung aku, aku dalam kondisi sempurna.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Semangat ya, Suzuka-san! \nAku bakal teriak dukungan dari depan tribun!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Iya, aku bakal buktiin aku bisa jawab dukungan itu.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Kondisimu jelas membaik lewat latihan, tinggal tempur dengan sekuat tenaga.",
+      "name": "Trainer Suzuka",
+      "choice_data_list": [
+        "<size=40>Lihat baik-baik pemandangan itu!</size>"
+      ]
+    },
+    {
+      "text": "Siap! Trainer-san, aku bakal bikin kamu liat pemandangan itu juga!",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Silence Suzuka siap di gerbang paling luar.",
+      "name": "Komentator"
+    },
+    {
+      "text": "1800m lagi ke finish, gadis kuda mana yang bakal nyampe duluan? \nSemua siap - Start!!",
+      "name": "Komentator"
+    }
+  ]
 }

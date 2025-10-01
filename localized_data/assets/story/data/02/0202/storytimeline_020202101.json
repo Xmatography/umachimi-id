@@ -2,35 +2,35 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "After the preliminaries. Among race fans, \na certain rumor had started spreading about \nthe 『Shuuka Sho』 and the 『Kikka Sho』 after it"
+            "text": "Setelah babak kualifikasi. Di kalangan penggemar balap, \nmulai beredar rumor tentang 『Shuuka Sho』 \ndan 『Kikka Sho』 setelahnya"
         },
         {
-            "name": "Race Fan A",
-            "text": "First, the 『Shuuka Sho』! She may have lost in \nthe preliminaries, but if Rhein Kraft wins here……"
+            "name": "Penggemar Balap A",
+            "text": "Pertama, 『Shuuka Sho』! Meski kalah di \nbabak kualifikasi, kalau Rhein Kraft menang di sini……"
         },
         {
-            "name": "Race Fan B",
-            "text": "Yeah. For the Classic Triple Crown, there's no doubt a \nTriple Crown Uma Musume will be born. She's really really \nstrong. And if both of them get the Triple Crown――"
+            "name": "Penggemar Balap B",
+            "text": "Iya. Untuk Triple Crown Klasik, sudah pasti \nUma Musume Triple Crown akan lahir. Dia emang \nsangat-sangat kuat. Dan kalau keduanya dapat Triple Crown――"
         },
         {
-            "name": "Race Fan A",
-            "text": "A Triple Crown and Unorthodox Triple Crown Uma Musume! In the same \nyear! It'd be the first time in history, right? Amazing, huh!!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "……That's right. If I can win the Triple \nCrown in the same year, it'll be historic……"
+            "name": "Penggemar Balap A",
+            "text": "Uma Musume Triple Crown dan Triple Crown Alternatif! Di tahun \n yang sama! Itu pertama kalinya dalam sejarah, kan? Keren banget!!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Everyone's got high expectations! An awe-inspiring feat! Winning \nthe Unorthodox Triple Crown isn't just Cesario and my dream. Then……!"
+            "text": "……Benar juga. Kalau aku bisa menang Triple \nCrown di tahun yang sama, itu bakal bersejarah……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(Haa, haa, haa, haa, haa! If I can win with my \nrunning, then the brilliance of the Tiara will \nbe something talked about for years to come……!)"
+            "text": "Ekspektasi semua orang tinggi banget! Pencapaian yang luar biasa! \nMenang Triple Crown Alternatif bukan cuma mimpi aku dan Cesario. Kalau gitu……!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I want to live up to the expectations of the fans! \nI want it to be recorded in history! This chance won't \ncome again! I need to get the Unorthodox Triple Crown!)"
+            "text": "(Haa, haa, haa, haa, haa! Kalau aku menang dengan \ncaraku berlari, maka kejayaan Tiara akan \ndikenang selama bertahun-tahun……!)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Aku ingin memenuhi harapan para penggemar! \nAku ingin tercatat dalam sejarah! Kesempatan ini \nnggak akan datang lagi! Aku harus raih Triple Crown Alternatif!)"
         },
         {
             "name": "Rhein Kraft",
@@ -38,39 +38,39 @@
         },
         {
             "name": "King Halo",
-            "text": "Kraft-san, you're……pushing too hard aren't you……?"
+            "text": "Kraft-san, kamu……terlalu memaksakan diri……?"
         },
         {
-            "text": "Yeah……you're carrying so many expectations too……"
+            "text": "Iya……beban yang kamu pikul terlalu berat……"
         },
         {
-            "text": "Yeah……you're carrying so many expectations too……"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "No! It's something that I want to accomplish no matter what!"
+            "text": "Iya……beban yang kamu pikul terlalu berat……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "That's why, Trainer-san, I want you to train me to my limits! \nSo that Air Messiah won't ever be able to catch me!",
+            "text": "Nggak! Ini sesuatu yang harus aku capai bagaimanapun caranya!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Makanya, Trainer, latih aku sampai batas kemampuanku! \nSupaya Air Messiah nggak bisa nyusul aku!",
             "choice_data_list": [
-                "Got it. Then……we'll push harder",
-                "Got it. Then……we'll push harder"
+                "Oke. Kalau gitu……kita bakal latih lebih keras",
+                "Oke. Kalau gitu……kita bakal latih lebih keras"
             ]
         },
         {
-            "text": "Rhein Kraft was trying to handle the increased pressure \nput on her. I decided to go along with her wishes…… \neven though her expression darkened day by day."
+            "text": "Rhein Kraft berusaha menanggung tekanan yang semakin besar. \nAku memutuskan untuk mengikuti keinginannya…… \nmeski ekspresinya semakin muram dari hari ke hari."
         },
         {
             "name": "Rhein Kraft",
             "text": "TaaaaaaaaaaAAAAAAAAAAAA!!"
         },
         {
-            "text": "No, no, you're pushing too early!"
+            "text": "Jangan, jangan, dorongannya terlalu cepat!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I can't……really get the timing down! \nAt this time――)"
+            "text": "(Aku nggak bisa… nemuin timing yang tepat! \nDi saat seperti ini――)"
         },
         {
             "name": "Cesario",
@@ -78,21 +78,21 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "(If Cesario was with me then…… \nBut……)"
+            "text": "(Kalau Cesario ada di sini…… \nTapi……)"
         },
         {
-            "text": "Cesario's absence could be felt. But, there was no point \ncomplaining about it. Either way, to challenge Air Messiah, \nwe had no choice but to improve her abilities"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Adjust! Regulate! Then, the opponent's movements――Imagine it!)"
+            "text": "Kehadiran Cesario sangat dirindukan. Tapi, nggak ada gunanya \nmengeluh. Bagaimanapun, untuk menghadapi Air Messiah, \nkita harus meningkatkan kemampuannya"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(Huh, it feels like it's getting harder to run…… But I \nguess that's normal, since we're taking countermeasures)"
+            "text": "(Sesuaikan! Atur! Lalu, gerakan lawan――Bayangkan!)"
         },
         {
-            "text": "We were desperately searching blindly for something, anything. \nIt was like fighting against shadows."
+            "name": "Rhein Kraft",
+            "text": "(Hah, rasanya jadi lebih susah lari…… Tapi mungkin \nwajar, soalnya kita lagi cari cara buat ngalahin dia)"
+        },
+        {
+            "text": "Kami mati-matian mencari cara, apa pun itu. \nRasanya kayak berkelahi sama bayangan sendiri."
         },
         {
             "name": "Air Messiah",
@@ -100,67 +100,66 @@
         },
         {
             "name": "Air Messiah",
-            "text": "Huu, do you suppose this might be enough for today?"
+            "text": "Huu, apa untuk hari ini sudah cukup?"
         },
         {
             "name": "Air Shakur",
-            "text": "Yeah, there's no need to make any major adjustments. If you try to \nbuild upon something that's already complete, you'll ruin your form."
+            "text": "Iya, nggak perlu penyesuaian besar-besaran. Kalau maksa \nngembangin sesuatu yang udah sempurna, malah bikin bentukmu berantakan."
         },
         {
             "name": "Air Shakur",
-            "text": "For the you right now, there's no noise……right?"
+            "text": "Untuk kamu sekarang, udah nggak ada gangguan……kan?"
         },
         {
             "name": "Air Messiah",
-            "text": "Yes, I no longer――feel that burden weighing on \nmy heart. Not for someone else's sake, without \nfear, just――moving towards something brilliant!"
+            "text": "Iya, aku udah nggak――merasa beban itu \nmenekan hatiku. Bukan untuk orang lain, tanpa \ntakut, hanya――menuju sesuatu yang gemilang!"
         },
         {
             "name": "Daring Heart",
-            "text": "Haa……haa…… In the previous 『Queen's S』 I failed \nto live up to expectations……But, next time――"
+            "text": "Haa……haa…… Di 『Queen's S』 sebelumnya aku gagal \nmemenuhi harapan……Tapi, lain kali――"
         },
         {
             "name": "Daring Heart",
-            "text": "The rematch with Kraft that I've been waiting for……! Since the \n『NHK Mile C』! I won't show such a pathetic run again……definitely."
+            "text": "Re-match dengan Kraft yang udah lama kutunggu……! Sejak \n『NHK Mile C』! Aku nggak bakal tampil memalukan lagi……pasti."
         },
-        {},
         {
             "name": "Rhein Kraft",
-            "text": "Trainer-san, it's finally time. When everything will be tested! \nThe end of the Triple Tiara, the 『Shuuka Sho』!",
+            "text": "Trainer, waktunya udah tiba. Saat semuanya dipertaruhkan! \nPenutup Triple Tiara, 『Shuuka Sho』!",
             "choice_data_list": [
-                "Yeah! Give it your all!",
-                "Yeah! Give it your all!"
+                "Iya! Berikan yang terbaik!",
+                "Iya! Berikan yang terbaik!"
             ]
         },
         {
-            "text": "We've done everything we could. Focusing on \nAir Messiah and sharpening her body and senses \nto the limit. And she had the timing down."
+            "text": "Kami udah lakukan semua yang bisa dilakukan. Fokus \nke Air Messiah dan mempertajam tubuh serta inderanya \nsampai batas maksimal. Dan dia udah kuasai timingnya."
         },
         {
             "name": "Rhein Kraft",
-            "text": "I'll win……! There's nothing outside of winning! \nI know everything I need to win! I'll use everything \nto win the \"Unorthodox Triple Crown\"!"
+            "text": "Aku akan menang……! Nggak ada pilihan selain menang! \nAku tau semua yang perlu dilakukan buat menang! Aku akan gunakan \nsemuanya buat menangkan \"Triple Crown Alternatif\"!"
         },
         {
-            "name": "Announcer",
-            "text": "Now, these maidens that have made it through the \nsummer, greet the 『Shuuka Sho』 where autumn \ncolors bloom! But, who will bloom the brightest?"
+            "name": "Penyiar",
+            "text": "Sekarang, para gadis yang berhasil melewati \nmusim panas, sambutlah 『Shuuka Sho』 di mana \nwarna musim gugur bermekaran! Tapi, siapa yang akan bersinar paling terang?"
         },
         {
-            "name": "Announcer",
-            "text": "And now, it starts!"
+            "name": "Penyiar",
+            "text": "Dan sekarang, dimulai!"
         },
         {
             "name": "Rhein Kraft",
             "text": "Huu――"
         },
         {
-            "name": "Announcer",
-            "text": "Will the favorite, Rhein Kraft, take the lead? No, she's \ntaking position. Further back than normal, in 5th place."
+            "name": "Penyiar",
+            "text": "Apa favorit, Rhein Kraft, akan memimpin? Tidak, dia \nambil posisi. Lebih belakang dari biasa, di peringkat 5."
         },
         {
-            "name": "Announcer",
-            "text": "And the 2nd favorite, Air Messiah, also settles in. \nRight around the middle of the pack."
+            "name": "Penyiar",
+            "text": "Dan favorit kedua, Air Messiah, juga menempati posisi. \nSekitar tengah-tengah grup."
         },
         {
             "name": "Rhein Kraft",
-            "text": "(Keep her reined in, keep Air \nMessiah-san reined in. To do that――)"
+            "text": "(Tahan dia, tahan Air \nMessiah-san. Untuk itu――)"
         },
         {
             "name": "Air Messiah",
@@ -168,35 +167,35 @@
         },
         {
             "name": "Daring Heart",
-            "text": "Uuuugh…… my leg……! \nAnd my breathing……!"
+            "text": "Uuuugh…… kakiku……! \nDan napasku……!"
         },
         {
-            "name": "Announcer",
-            "text": "And here, the 3rd favorite, Daring Heart, falls behind! \nIt seems like her health is on the downswing this autumn!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Go! Right here!! \nFor sure…… for sure――)"
+            "name": "Penyiar",
+            "text": "Dan di sini, favorit ketiga, Daring Heart, tertinggal! \nSepertinya kesehatannya menurun musim gugur ini!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(Towards Cesario and my 『Future』! Take hold of the \n\"Unorthodox Triple Crown\" and beyond that――!)"
+            "text": "Ayo! Di sini!! \nPasti…… pasti――)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "(Menuju 『Masa Depan』 aku dan Cesario! Raih \n\"Triple Crown Alternatif\" dan melampauinya――!)"
         },
         {
             "name": "Rhein Kraft",
             "text": "Haaaaaaaaaaaaaaaa!"
         },
         {
-            "name": "Announcer",
-            "text": "Rhein Kraft pulls ahead! She's moving early! \nAir Messiah matches it――"
+            "name": "Penyiar",
+            "text": "Rhein Kraft mendahului! Dia bergerak lebih awal! \nAir Messiah menanggapi――"
         },
         {
-            "name": "Announcer",
-            "text": "――No, she doesn't make a move!"
+            "name": "Penyiar",
+            "text": "――Tidak, dia tidak bergerak!"
         },
         {
             "name": "Air Messiah",
-            "text": "(No matter how Kraft-san moves――it doesn't \nchange anything. I will……run my own race!)"
+            "text": "(Bagaimanapun Kraft-san bergerak――itu nggak \nmengubah apapun. Aku akan……lari dengan caraku sendiri!)"
         },
         {
             "name": "Air Messiah",
@@ -204,78 +203,78 @@
         },
         {
             "name": "Air Messiah",
-            "text": "Right here――!!"
+            "text": "Di sini――!!"
         },
         {
-            "name": "Announcer",
-            "text": "Air Messiah pushes forward-! And――"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Like this, I can win, I'll win――)"
+            "name": "Penyiar",
+            "text": "Air Messiah mendorong maju-! Dan――"
         },
         {
             "name": "Rhein Kraft",
-            "text": "――Huh!?"
+            "text": "(Seperti ini, aku bisa menang, aku akan menang――)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "――Hah!?"
         },
         {
             "name": "Air Messiah",
             "text": "Taaaaaaaaaaa!!"
         },
         {
-            "name": "Announcer",
-            "text": "They're lining up! She's caught up! \nRhein Kraft out front, Air Messiah chases!"
+            "name": "Penyiar",
+            "text": "Mereka sejajar! Dia menyusul! \nRhein Kraft di depan, Air Messiah mengejar!"
         },
         {
             "name": "King Halo",
-            "text": "T-this situation……!?"
+            "text": "S-situasi ini……!?"
         },
         {
-            "text": "It's just like the preliminaries……!!"
+            "text": "Persis seperti babak kualifikasi……!!"
         },
         {
-            "text": "But……there's no way we'll have the same ending! \nWe worked so hard to avoid that……"
+            "text": "Tapi……nggak mungkin berakhir sama! \nKami sudah berusaha keras menghindarinya……"
         },
         {
-            "text": "But……there's no way we'll have the same ending! \nWe worked so hard to avoid that……"
+            "text": "Tapi……nggak mungkin berakhir sama! \nKami sudah berusaha keras menghindarinya……"
         },
         {
-            "text": "We trained hard. \nThere's no way it was useless.",
+            "text": "Kami latihan keras. \nNggak mungkin itu sia-sia.",
             "choice_data_list": [
                 "Kraft-!!"
             ]
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I'll win! I'll win……! Win win win! A year that will go down in \nhistory……! For the records, for history……the proof of the Tiara!)"
+            "text": "(Aku akan menang! Aku akan menang……! Menang menang menang! \nTahun yang akan tercatat dalam sejarah……! Untuk rekor, untuk sejarah……bukti kejayaan Tiara!)"
         },
         {
             "name": "Rhein Kraft",
-            "text": "(I can't――lose!)"
+            "text": "(Aku nggak bisa――kalah!)"
         },
         {
             "name": "Rhein Kraft",
-            "text": "I'll carve this run in to historyyyyyyyyy!!!!!!"
+            "text": "Aku akan ukir larianku dalam sejaraahhhhhhhhh!!!!!!"
         },
         {
-            "name": "Announcer",
-            "text": "Rhein Kraft squeezes out the last of her strength-!! \nWhich one will do it, who will win-!?"
+            "name": "Penyiar",
+            "text": "Rhein Kraft mengeluarkan sisa tenaganya-!! \nMana yang akan menang, siapa yang unggul-!?"
         },
         {
             "name": "Air Messiah",
-            "text": "Haaaaaaaaaaaa!!! \nI'll be, the one to take――hold of the future!!!"
+            "text": "Haaaaaaaaaaaa!!! \nAkulah, yang akan――menggapai masa depan!!!"
         },
         {
             "name": "Rhein Kraft",
             "text": "Uwaaaaaaaaaaaah!!!"
         },
         {
-            "name": "Announcer",
-            "text": "She passes, she passes! The match is over――!!"
+            "name": "Penyiar",
+            "text": "Dia mendahului, dia mendahului! Pertarungan selesai――!!"
         },
         {
-            "name": "Announcer",
-            "text": "The Queen of Autumn is Air Messiah!! \nThe dream of an Unorthodox Triple Crown is shattered!!"
+            "name": "Penyiar",
+            "text": "Ratu Musim Gugur adalah Air Messiah!! \nMimpi Triple Crown Alternatif hancur berantakan!!"
         },
         {
             "name": "Rhein Kraft",
@@ -283,50 +282,50 @@
         },
         {
             "name": "Air Messiah",
-            "text": "Ah……Ah……Aaaaah. I, finally……!! \nThe long sought after Tiara……is finally in my hands!!"
+            "text": "Ah……Ah……Aaaaah. Aku, akhirnya……!! \nTiara yang lama kuidamkan……akhirnya di tanganku!!"
         },
         {
             "name": "Air Messiah",
-            "text": "Mother! I! I was finally able to achieve it! \nOur wish……! And our salvation……!!!"
+            "text": "Ibu! Aku! Aku akhirnya berhasil mencapainya! \nHarapan kita……! Dan keselamatan kita……!!!"
         },
         {
             "name": "Rhein Kraft",
             "text": "Haa…… Haa…… Haa…… \nKuu……"
         },
         {
-            "text": "And then――on October 23rd, the 『Kikka Sho』"
+            "text": "Kemudian――pada 23 Oktober, 『Kikka Sho』"
         },
         {
-            "name": "Announcer",
-            "text": "A Triple Crown Uma Musume!! \nThis is the moment a hero was born!"
+            "name": "Penyiar",
+            "text": "Uma Musume Triple Crown!! \nInilah momen lahirnya seorang pahlawan!"
         },
         {
-            "name": "Announcer",
-            "text": "The first Undefeated Triple Crown Uma Musume since Symboli \nRudolf has been born! It's truly become a historic day!"
+            "name": "Penyiar",
+            "text": "Uma Musume Triple Crown Tak Terkalahkan pertama sejak Symboli \nRudolf telah lahir! Sungguh hari yang bersejarah!"
         },
         {
             "name": "Rhein Kraft",
             "text": "…………"
         },
         {
-            "name": "Race Fan A",
-            "text": "Man, it was as great as I thought it would be! \nShe was overwhelming!"
+            "name": "Penggemar Balap A",
+            "text": "Wah, sesukses yang kubayangkan! \nDia benar-benar luar biasa!"
         },
         {
-            "name": "Race Fan B",
-            "text": "Yeah, I can't help but look forward \nto seeing how strong she'll get!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Everyone's……only talking about the Triple Crown Uma Musume…… \nI wasn't……able to live up to everyone's expectations……"
+            "name": "Penggemar Balap B",
+            "text": "Iya, aku nggak sabar lihat \nseberapa kuat dia nantinya!"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Now……nobody is talking about the Tiara……"
+            "text": "Semua orang……cuma bicara tentang Uma Musume Triple Crown…… \nAku……nggak bisa memenuhi harapan semua orang……"
         },
         {
             "name": "Rhein Kraft",
-            "text": "If I had……won then…… \nIf I had gotten the Unorthodox Triple Crown then……"
+            "text": "Sekarang……nggak ada yang bicara tentang Tiara……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Kalau saja……aku menang…… \nKalau saja aku dapat Triple Crown Alternatif……"
         }
     ]
 }

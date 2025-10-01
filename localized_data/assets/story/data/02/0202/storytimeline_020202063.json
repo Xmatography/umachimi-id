@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Announcer",
+            "name": "Penyiar",
             "text": "Superstar Cesario!!"
         },
         {
@@ -11,59 +11,59 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Finally――"
+            "text": "Akhirnya――"
         },
         {
             "name": "Seeking The Pearl",
             "text": "――Fufuu."
         },
         {
-            "text": "Without a doubt, this was an inflection point in the \nhistory of this country, no, of the Uma Musume world."
+            "text": "Nggak salah lagi, ini adalah titik balik dalam sejarah \nnegara ini, bahkan, dunia Uma Musume."
         },
         {
             "name": "King Halo",
-            "text": "She did it! She did it! \nOur Cesario-san did……!"
+            "text": "Dia berhasil! Dia berhasil! \nCesario-san kita…… berhasil……!"
         },
         {
-            "text": "Yeah, she did it!"
+            "text": "Yeah, dia berhasil!"
         },
         {
-            "text": "Yeah, she did it!"
+            "text": "Yeah, dia berhasil!"
         },
         {
-            "text": "The girls here were overjoyed. \nAnd, most likely, back in our home country too――"
+            "text": "Para gadis di sini senang sekali. \nDan, kemungkinan besar, di tanah air kita juga――"
         },
         {
             "name": "Rhein Kraft",
-            "text": "She did iiiiiit!!! Cesario did……! \nEveryone, Cesario really did it……!"
+            "text": "Dia berhaasiiil!!! Cesario berhasil……! \nSemuanya, Cesario beneran berhasil……!"
         },
         {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Yeah, it was amazing～. \nI've got goosebumps～!"
+            "name": "Gadis kuda A",
+            "text": "Iya, luar biasa～. \nAku merinding～!"
         },
         {
-            "name": "Single Knot Uma Musume",
-            "text": "So good! \nI really wanted to see it up close!"
-        },
-        {
-            "name": "Cesario",
-            "text": "(I did it…… \nFinally, I……made it, didn't I? With these legs)"
+            "name": "Gadis kuda B",
+            "text": "Keren banget! \nAku pengen banget liat dari dekat!"
         },
         {
             "name": "Cesario",
-            "text": "(Following in the footsteps of our senpais…… \nand a record that won't lose to Kraft's――in this place)"
+            "text": "(Aku berhasil…… \nAkhirnya, aku…… berhasil, ya? Dengan kaki ini)"
         },
         {
             "name": "Cesario",
-            "text": "(With this, I can be proud. \nI've done what I needed to. And――)"
+            "text": "(Mengikuti jejak senior-senior kita…… \ndan rekor yang nggak kalah sama Kraft――di tempat ini)"
         },
         {
             "name": "Cesario",
-            "text": "(And for the girls that come after me, it can become a symbol)"
+            "text": "(Dengan ini, aku bisa bangga. \nAku udah lakukan yang harus dilakukan. Dan――)"
         },
         {
-            "name": "3rd Place Uma Musume",
-            "text": "<If I go to that country, will I be able \nto run like that? Then, someday I'll……>"
+            "name": "Cesario",
+            "text": "(Dan buat gadis-gadis yang datang setelahku, ini bisa jadi simbol)"
+        },
+        {
+            "name": "Gadis kuda Peringkat 3",
+            "text": "<Kalau aku pergi ke negara itu, apa aku bisa \nlari kayak gitu? Kalau gitu, suatu hari nanti aku……>"
         },
         {
             "name": "Cesario",
@@ -71,80 +71,80 @@
         },
         {
             "name": "Cesario",
-            "text": "To everyone in America. And to everyone around the \nworld watching, thank you very much. ――I am Cesario."
+            "text": "Untuk semua orang di Amerika. Dan untuk semua orang \n di dunia yang menonton, terima kasih banyak. ――Aku Cesario."
         },
         {
             "name": "Cesario",
-            "text": "Being able to obtain a G1 victory in America, is a first for \nmy country. Everyone has something they want to accomplish……"
+            "text": "Bisa mendapatkan kemenangan G1 di Amerika, adalah yang pertama \nuntuk negaraku. Setiap orang punya sesuatu yang ingin dicapai……"
         },
         {
             "name": "Cesario",
-            "text": "And I feel that I've finally accomplished what I wanted to. \nFor the many girls that are ready to spread their wings…… \nI finally feel like I have something to leave for them."
+            "text": "Dan aku merasa akhirnya aku mencapai yang aku inginkan. \nUntuk banyak gadis yang siap mengembangkan sayapnya…… \nakhirnya aku merasa punya sesuatu untuk ditinggalkan buat mereka."
         },
         {
             "name": "Cesario",
-            "text": "Thank you so much. \nThank you for everything."
+            "text": "Terima kasih banyak. \nTerima kasih untuk semuanya."
         },
         {
             "text": "(Ooooooooohー……)"
         },
         {
             "name": "Reporter A",
-            "text": "<What a wonderful Uma Musume. \nNot only is she fast, she's also polite>"
+            "text": "<Sungguh Uma Musume yang luar biasa. \nNggak cuma cepat, tapi juga sopan>"
         },
         {
             "name": "Reporter B",
-            "text": "<Yes, she has a heart as broad as the sea>"
+            "text": "<Iya, dia punya hati seluas samudera>"
         },
         {
             "name": "King Halo",
-            "text": "Fufu, seems like they're praising her quite a bit."
+            "text": "Fufu, kayaknya dia dipuji-puji banget ya."
         },
         {
-            "text": "On top of that――"
+            "text": "Belum lagi――"
         },
         {
-            "name": "Interview Translator",
-            "text": "Just 2 races before, an amazing Uma Musume \nlike you was unable to win. Why was that?"
+            "name": "Penerjemah Wawancara",
+            "text": "Hanya 2 balapan sebelumnya, Uma Musume hebat \nseperti kamu nggak bisa menang. Kenapa ya?"
         },
         {
             "name": "Cesario",
-            "text": "Fufuu, the Uma Musume that won that time, Rhein Kraft…… \nis faster than me. Especially when it comes to Miles."
+            "text": "Fufuu, Uma Musume yang menang waktu itu, Rhein Kraft…… \nlebih cepat dari aku. Apalagi buat jarak Mile."
         },
         {
             "text": "(Oooooooooooooh)"
         },
         {
             "name": "Rhein Kraft",
-            "text": "Eeeeeeeh, why does it seem like she's introducing me～!????"
+            "text": "Eeeeeeeh, kok jadi kayak memperkenalkan aku～!????"
         },
         {
             "name": "Reporter A",
-            "text": "<Rhein Kraft. An Uma Musume said to be faster than Cesario……>"
+            "text": "<Rhein Kraft. Uma Musume yang katanya lebih cepat dari Cesario……>"
         },
         {
             "name": "Reporter B",
-            "text": "<Rhein Kraft……just how fast are you?>"
+            "text": "<Rhein Kraft……secepat apa sih kamu?>"
         },
         {
-            "text": "Because of Cesario's remarks, it seems like the 『Oka Sho』 \nwinner, Rhein Kraft was going to get more attention."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Ehehe…… But really, congratulations, Cesario. \nYou're amazing……it's almost like you're a legend already……"
+            "text": "Karena pernyataan Cesario, kayaknya pemenang 『Oka Sho』, \nRhein Kraft bakal dapet perhatian lebih."
         },
         {
             "name": "Rhein Kraft",
-            "text": "Huh……? But, it seems like……"
+            "text": "Ehehe…… Tapi beneran, selamat ya, Cesario. \nKamu luar biasa…… kayaknya kamu udah kayak legenda……"
         },
         {
-            "text": "After her victory, Cesario had a contented smile on her face. \nThat one scene would become part of history――"
+            "name": "Rhein Kraft",
+            "text": "Hah……? Tapi, kayaknya……"
         },
         {
-            "text": "And be burned in to our memory. \nA story that we would remember, and pass on forever."
+            "text": "Setelah kemenangannya, Cesario tersenyum puas. \nSatu momen itu akan menjadi bagian dari sejarah――"
         },
         {
-            "text": "And be burned in to our memory. \nA story that we would remember, and pass on forever."
+            "text": "Dan terbakar dalam ingatan kita. \nSebuah cerita yang akan kita ingat, dan kita wariskan selamanya."
+        },
+        {
+            "text": "Dan terbakar dalam ingatan kita. \nSebuah cerita yang akan kita ingat, dan kita wariskan selamanya."
         }
     ]
 }

@@ -1,323 +1,311 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Haa……haa……haa……haa……haa.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Huu～……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "The time difference is 8 hours――\nI wonder if El is also running right now.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass Wonder, she was the favorite to win, but at the end she was \nunable to pull ahead and took 6th……!",
-            "name": "Announcer"
-        },
-        {
-            "text": "The Junior Class champion, who spent most of her Classic year \ncontinuously battling injuries!",
-            "name": "Announcer"
-        },
-        {
-            "text": "…………",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "I'm sorry……I thought I could win here, so at the next 『Japan Cup』 \nI could run together with El and Spe-chan, but……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "But with this result, I……",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……Geez.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Grass……! Lately you've been flustered and panicking! \nIt's not like you at all!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Usually you're more composed, Grass is usually tranquil but \nburning with passion! Calm and imposing is the usual Grass!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……El.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "After the 『Japan Cup』, I'm going overseas to take hold of my \ndream to be the world's strongest.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "And after that, let's have another match! \nUntil then, Grass, please keep getting waaaaaay stronger!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "After I become the world's strongest and return, \nyou won't even be able to keep up with El!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……That's right.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Stay calm and composed……and focus on the match.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……If El is going to take the path of \"World's Strongest\", \nthen I need to find a path to the summit――",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "A match against the Derby Uma Musume from my year――",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Finally, the 『Takarazuka Kinen』 was approaching, and a press \nconference was held for the participating Uma Musume."
-        },
-        {
-            "text": "This year's focus, as expected, is on the first battle between \nSpecial Week and Grass Wonder.",
-            "name": "Reporter A"
-        },
-        {
-            "text": "You could say that among the \"Golden Generation\", this is the \ncard that most people wanted to see. A battle between the Derby \nUma Musume and the Grand Prix Uma Musume.",
-            "name": "Reporter B"
-        },
-        {
-            "text": "And now, the interview with \nTeam ＜Sirius＞'s Special Week will begin.",
-            "name": "MC"
-        },
-        {
-            "text": "Thank you for your support!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Since the beginning of the year, you've won 3 majors \nconsecutively but, in regards to the upcoming 『Takarazuka Kinen』, \nhow is your current condition?",
-            "name": "Reporter A"
-        },
-        {
-            "text": "Yes! I've been able to complete training with no issues, \nthere are absolutely no problems with my condition.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Based on your results in the 『Takarazuka Kinen』, I've heard that \nthe 『Prix de l'Arc de Triomphe』 is your next goal.",
-            "name": "Reporter B"
-        },
-        {
-            "text": "If it's determined that I can get results over there too, \nthen I plan on going overseas!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I see, so this 『Takarazuka Kinen』 is \nbeing used to judge if you are ready.",
-            "name": "Reporter B"
-        },
-        {
-            "text": "What about the opponent you'll be facing there, Grass Wonder, \nwhat are your thoughts?",
-            "name": "Reporter B"
-        },
-        {
-            "text": "When Grass-chan won last year's 『Arima Kinen』 I thought she was \nreally strong and had an amazing run.",
-            "name": "Special Week"
-        },
-        {
-            "text": "But even so, I won't be discouraged!",
-            "name": "Special Week"
-        },
-        {
-            "text": "With the same feelings that won me the 『Spring Tenno Sho』, \nwhen it comes to Grass-chan, I'll definitely……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Uooooh～～!! \nGuuuuuuuuuuts～～!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Don't strain yourself to the point your body can't keep up! \nJust focus on the proper form!",
-            "name": "<username>"
-        },
-        {
-            "text": "Foooooooormmmmmーー!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "In preparation for the coming 『Takarazuka Kinen』, \nSpecial Week put much more spirit in to her training."
-        },
-        {
-            "text": "Haaa……haaa……bueee～……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Uoooooooh～! Your time has gotten better since yesterday! \nThat's amazing Spe-chan!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Alright, we'll do one more lap as a cooldown, \nafter that we'll switch to the dirt menu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, we'll do one more lap as a cooldown, \nafter that we'll switch to the dirt menu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Fuu～……Yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Her condition, and her emotional state too, \nseems like there are no issues.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "That's just how badly she wants to win the 『Takarazuka Kinen』. \nThat feeling, is properly conveyed to me too.",
-            "name": "<username>"
-        },
-        {
-            "text": "That's just how badly she wants to win the 『Takarazuka Kinen』. \nThat feeling, is properly conveyed to me too.",
-            "name": "<username>"
-        },
-        {
-            "text": "Ehehe, me too. I definitely want to see Spe-chan \nbecome \"Japan's #1 Uma Musume\", too!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "That's why, I'll help in any way I can! \nAs long as it doesn't require me to use my head!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Me too, if there's anything I can do, I want to help out too. \nBecause I'll always want to see our teammates win.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Alright, let's take the 『Takarazuka Kinen』 too!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah, for sure!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, for sure!",
-            "name": "<username>"
-        },
-        {
-            "text": "Last year, the one who lead all the way to the goal \nwas Silence Suzuka, now her dream has taken her \noverseas, and even now the fans are excited!",
-            "name": "Announcer"
-        },
-        {
-            "text": "And this year, once again, everyone's running for their dream―― \nHanshin Racecourse, main race, the 『Takarazuka Kinen』!",
-            "name": "Announcer"
-        },
-        {
-            "text": "As the excitement rises on the first battle between \nSpecial Week and Grass Wonder on this stage, which \nUma Musume will take hold of that glory!?",
-            "name": "Announcer"
-        },
-        {
-            "text": "Su～～…… Haaaaa～～……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Good, good, good, looks like you've calmed down. \nJust like in the 『Spring Tenno Sho』 if you carry \nyourself calmly during the race, you'll win!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "It's rare that Gold Ship-san gives useful advice but, \njust run as you have been―― of course.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Calmly, run like I have been…… understood!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The 『Takarazuka Kinen』 is considered the climax of the first half \nof the year in the Twinkle Series.",
-            "name": "<username>"
-        },
-        {
-            "text": "You've put in the efforts to get results thus far. After this, \nthe 『Prix de l'Arc de Triomphe』, is waiting for you too――",
-            "name": "<username>",
-            "choice_data_list": [
-                "Let's win this race!",
-                "Let's win this race!"
-            ]
-        },
-        {
-            "text": "Yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Finally, the participating Uma Musume \nhave made their way on to the course!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Special Week just came out! \nBut man, listen to that cheer!",
-            "name": "Spectator A"
-        },
-        {
-            "text": "For the 『Takarazuka Kinen』 vote she was the \nmost popular, and today she's also the favorite, \nafter all! Special Week, do your best!",
-            "name": "Spectator B"
-        },
-        {
-            "text": "Waaaa!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Alright, I've done everything I could, \nand there's no problem with my condition…… \nI'm nervous but, because of that I'm focused……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "I can go at full strength……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Finally, the time has come, Spe-chan.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "We didn't get any chances until now, and I've been waiting for \nthe day that we can run together like this.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "The Twinkle Series that I've looked up to since I was young…… \nto master this path, and stand at the summit is my dream.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "El-chan and Spec-chan too, it means that \nyou are both opponents I need to surpass.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I won't lose, Grass-chan……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "……then, I won't hold back.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "All the Uma Musume have settled in their gates.",
-            "name": "Announcer"
-        },
-        {
-            "text": "Will it be Special Week that wins, or will it be Grass Wonder, \nor perhaps a different Uma Musume……",
-            "name": "Announcer"
-        },
-        {
-            "text": "The Twinkle Series' first half climax, the 『Takarazuka Kinen』――",
-            "name": "Announcer"
-        },
-        {
-            "text": "Shouldering the dreams of the crowd, and all the fans in Japan, \nthese 12 Uma Musume now start!",
-            "name": "Announcer"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Haa… haa… haa… haa… haa.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Huu～……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Beda waktunya 8 jam ya… \nKira-kira El sekarang juga lagi lari nggak ya.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass Wonder yang dijagoin menang, \ntapi di akhir malah nggak bisa nyusul dan finis ke-6……!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Sang juara kelas Junior, \nyang hampir sepanjang tahun Classic harus berjuang lawan cedera!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "…………",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Maaf…… aku kira bisa menang di sini, \nbiar nanti di 『Japan Cup』 aku bisa lari bareng El sama Spe-chan, \ntapi……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Tapi dengan hasil ini, aku……",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……Duh.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Grass……! \nAkhir-akhir ini kamu kelihatan panik terus! \nItu bukan kamu banget!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Biasanya kamu tuh kalem, tenang, \ntapi semangatmu selalu menyala! \nGrass yang keren tuh biasanya begitu!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……El.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Abis 『Japan Cup』, aku bakal ke luar negeri \nbuat ngejar mimpiku jadi yang terkuat di dunia.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Dan setelah itu, ayo balapan lagi! \nSampai saat itu, Grass, kamu harus makin lama makin kuat!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Kalau aku udah jadi yang terkuat di dunia \ndan pulang, kamu bahkan nggak bakal bisa ngejar El!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Iya juga.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku harus tetap tenang…… \ndan fokus ke balapan.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……Kalau El bakal ambil jalan jadi “yang terkuat di dunia”, \nberarti aku juga harus nemuin jalan ke puncakku sendiri――",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Balapan lawan Uma Musume Derby dari tahunku――",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Akhirnya, 『Takarazuka Kinen』 makin dekat, \ndan konferensi pers buat para peserta pun digelar."
+    },
+    {
+      "text": "Tahun ini yang jadi sorotan tentu aja \npertarungan pertama antara Special Week dan Grass Wonder.",
+      "name": "Reporter A"
+    },
+    {
+      "text": "Bisa dibilang di antara “Generasi Emas”, \nini duel yang paling ditunggu. Derby Uma Musume lawan \nGrand Prix Uma Musume.",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Dan sekarang, wawancara bareng \nSpecial Week dari Tim ＜Sirius＞ bakal dimulai.",
+      "name": "MC"
+    },
+    {
+      "text": "Terima kasih atas dukungannya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sejak awal tahun kamu udah menang 3 lomba besar berturut-turut. \nUntuk 『Takarazuka Kinen』 kali ini, gimana kondisi kamu sekarang?",
+      "name": "Reporter A"
+    },
+    {
+      "text": "Ya! Latihanku lancar tanpa masalah, \nkondisiku bener-bener nggak ada kendala.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Katanya tergantung hasil di 『Takarazuka Kinen』, \n『Prix de l'Arc de Triomphe』 bakal jadi tujuanmu berikutnya?",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Kalau hasilnya bagus, aku memang berencana buat ke sana!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oh begitu, jadi 『Takarazuka Kinen』 ini \njadi tolak ukur kamu siap apa nggak ya.",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Terus gimana dengan lawanmu di sini, Grass Wonder? \nApa pendapatmu?",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Waktu Grass-chan menang 『Arima Kinen』 tahun lalu, \naku bener-bener merasa dia kuat banget \ndan larinya luar biasa.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Tapi tetep aja, aku nggak bakal mundur!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dengan semangat yang sama kayak waktu aku menang 『Spring Tenno Sho』, \nkalau soal Grass-chan, aku pasti……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Uoooooh～～!! Semangaaaat～～!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Jangan maksa sampe badanmu nggak kuat ngejar! \nFokus aja ke bentuk larinya!",
+      "name": "<username>"
+    },
+    {
+      "text": "Bentuk lariiiiiーー!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Buat persiapan 『Takarazuka Kinen』, \nSpecial Week latihan dengan semangat yang lebih membara."
+    },
+    {
+      "text": "Haaa… haaa… bueee～……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Uooooooh～! Waktumu lebih cepat dari kemarin! \nKeren banget Spe-chan!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Oke, satu putaran lagi buat pendinginan, \nhabis itu ganti menu latihan di pasir.",
+      "name": "<username>"
+    },
+    {
+      "text": "Fuu～…… Siap!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kondisinya, juga mentalnya, \nsepertinya nggak ada masalah.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Dia bener-bener pengen menang di 『Takarazuka Kinen』. \nPerasaan itu kerasa juga ke aku.",
+      "name": "<username>"
+    },
+    {
+      "text": "Ehehe, aku juga ngerasa gitu. \nAku pengen banget lihat Spe-chan jadi “Uma Musume No.1 Jepang” juga!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Makanya, aku bakal bantu sebisaku! \nAsal jangan suruh pake otak aja ya!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Aku juga, kalau ada yang bisa aku bantu, \npasti aku mau. Soalnya aku pengen banget lihat teman setim kita menang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Oke, ayo rebut 『Takarazuka Kinen』 juga!",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, pasti!",
+      "name": "<username>"
+    },
+    {
+      "text": "Tahun lalu, yang mimpin sampai finis \nitu Silence Suzuka. Sekarang dia ngejar mimpinya ke luar negeri, \ndan fans masih heboh banget!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dan tahun ini, sekali lagi semua orang lari demi mimpi―― \nArena Hanshin, lomba utama, 『Takarazuka Kinen』!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dengan hype pertarungan pertama antara Special Week dan Grass Wonder, \nsiapa Uma Musume yang bakal dapet kejayaan itu!?",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Su～～…… Haaaaa～～……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Bagus, bagus, bagus, kelihatan kamu udah tenang. \nKayak di 『Spring Tenno Sho』, kalau kamu tetap tenang di balapan, \nkamu pasti menang!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Jarang-jarang Gold Ship kasih nasihat bener, \ntapi ya, lari aja kayak biasanya―― tentu aja.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tenang, lari kayak biasanya…… oke!",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Takarazuka Kinen』 itu dianggap puncak paruh pertama \ndari Twinkle Series.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kamu udah kerja keras dapet hasil sampai sekarang. \nSetelah ini, 『Prix de l'Arc de Triomphe』 udah nunggu juga――",
+      "name": "<username>",
+      "choice_data_list": [
+        "Ayo kita menangin balapan ini!",
+        "Ayo kita menangin balapan ini!"
+      ]
+    },
+    {
+      "text": "Iya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhirnya, para Uma Musume peserta udah masuk ke lintasan!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Special Week udah keluar! \nDenger deh sorakannya rame banget!",
+      "name": "Spectator A"
+    },
+    {
+      "text": "Dia paling banyak dipilih di voting 『Takarazuka Kinen』, \ndan hari ini juga jadi favorit menang! \nSemangat ya, Special Week!",
+      "name": "Spectator B"
+    },
+    {
+      "text": "Waaaa!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oke, aku udah kasih yang terbaik, \ndan kondisi badanku nggak ada masalah…… \nDeg-degan sih, tapi justru bikin fokus……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Aku bisa lari dengan tenaga penuh……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Akhirnya waktunya tiba juga, Spe-chan.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kita nggak pernah dapet kesempatan sampai sekarang, \ndan aku udah lama nunggu hari \nkita bisa lari bareng gini.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Twinkle Series yang udah aku kagumi sejak kecil…… \nBuat menaklukkan jalan ini dan berdiri di puncak, itu mimpiku.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "El-chan dan Spe-chan juga, \nberarti kalian berdua adalah lawan yang harus aku kalahkan.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku nggak bakal kalah, Grass-chan……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "……kalau gitu, aku juga nggak bakal nahan diri.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Semua Uma Musume udah masuk ke starting gate.",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Apakah Special Week yang bakal menang, \natau Grass Wonder, atau mungkin Uma Musume lain……",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Puncak paruh pertama Twinkle Series, 『Takarazuka Kinen』――",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dengan membawa mimpi penonton dan fans seluruh Jepang, \n12 Uma Musume ini siap mulai!",
+      "name": "Penyiar"
+    }
+  ]
 }

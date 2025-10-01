@@ -2,79 +2,79 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Commentator",
-            "text": "“Arima Kinen” concludes this year's Twinkle series, and the main \ncharacter is the “Triple Crown Horse Girl” Narita Brian!"
+            "name": "Komentator",
+            "text": "“Arima Kinen” menutup seri Twinkle tahun ini, \ndan bintang utamanya adalah “Gadis Kuda Triple Crown” Narita Brian!"
         },
         {
-            "name": "Commentator",
-            "text": "The confrontation with Biwa Hayahide was regrettably not granted, \nbut her sister will challenge this big stage carrying her \nfeelings on her back!"
+            "name": "Komentator",
+            "text": "Pertarungan dengan Biwa Hayahide memang \nsayang sekali nggak bisa terjadi, tapi kakaknya akan \nmenantang panggung besar ini sambil bawa perasaan itu di pundaknya!"
         },
         {
-            "name": "Commentator",
-            "text": "However, for Narita Brian, it's her first \nmixed match with the senior class!"
+            "name": "Komentator",
+            "text": "Tapi, buat Narita Brian ini pertama kalinya \nmelawan kelas senior di balapan campuran!"
         },
         {
-            "name": "Commentator",
-            "text": "Against first-class veterans, will this fifth crown Horse Girl \nget her 5th victory in this honored G1 race!?"
+            "name": "Komentator",
+            "text": "Lawan para veteran kelas satu, \napakah Gadis Kuda pemegang mahkota ketiga ini \nbisa rebut kemenangan kelimanya di G1 bergengsi ini!?"
         },
         {
             "name": "Narita Brian",
             "text": "……"
         },
         {
-            "text": "Even on this big stage, you seem to \nbe able to concentrate firmly."
+            "text": "Bahkan di panggung besar kayak gini, \nkamu tetap bisa fokus dengan kuat ya."
         },
         {
             "name": "Narita Brian",
-            "text": "I don't know how long this concentration will last. I want to run \nquickly with my whole body."
+            "text": "Aku nggak tahu fokus ini bisa bertahan berapa lama. \nYang jelas aku pengen cepat lari dengan seluruh tenagaku."
         },
         {
-            "text": "Biwa Hayhahide isn't in today's race, so many opponents' single \naim will be to mark you."
+            "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
         },
         {
-            "text": "Biwa Hayhahide isn't in today's race, so many opponents' single \naim will be to mark you."
+            "text": "Karena Biwa Hayahide nggak ada di balapan hari ini, \nmungkin banyak lawan yang tujuannya cuma buat ngejaga kamu."
         },
         {
-            "text": "But, you know that's not a problem. Show me a run that is far \nbeyond everyone's imagination today!"
+            "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
         },
         {
-            "text": "But, you know that's not a problem. Show me a run that is far \nbeyond everyone's imagination today!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "You don't need to tell me, I will go."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Hehe… I caught up to you, Narita Brian!"
+            "text": "Tapi, kamu tahu kan itu bukan masalah. \nTunjukkan lari yang jauh melampaui imajinasi semua orang hari ini!"
         },
         {
             "name": "Narita Brian",
-            "text": "…Yeah."
+            "text": "Nggak usah dikasih tahu, aku pasti jalan."
         },
         {
             "name": "Hishi Amazon",
-            "text": "“Arima Kinen” is a big race where only fierce people gather. \nStill, I will run against you alone!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Because I regard you as the strongest! Narita Brian, the \ncompetition with me… don't run away."
+            "text": "Hehe… akhirnya aku nyusul kamu, Narita Brian!"
         },
         {
             "name": "Narita Brian",
-            "text": "…That's good, I will become your opponent. \nCome at me with all your might."
+            "text": "…Iya."
         },
         {
             "name": "Hishi Amazon",
-            "text": "I'll entertain you! Be prepared!"
+            "text": "“Arima Kinen” itu balapan besar tempat \norang-orang tangguh ngumpul. Tapi tetap saja, \naku akan berlari cuma melawanmu!"
         },
         {
-            "name": "Commentator",
-            "text": "ーNow, Each Horse Girl is at the gate."
+            "name": "Hishi Amazon",
+            "text": "Soalnya aku anggap kamu yang terkuat! Narita Brian, \npertarungan sama aku… jangan kabur."
         },
         {
-            "name": "Commentator",
-            "text": "Will the “Triple Crown Horse Girl” Narita Brian \nwin, or is there a Horse Girl who puts a blunder \non it, “Arima Kinen” ーNow, it's a start!"
+            "name": "Narita Brian",
+            "text": "…Bagus, aku akan jadi lawanmu. \nHadapi aku dengan seluruh kekuatanmu."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aku akan bikin kamu terhibur! Siap-siaplah!"
+        },
+        {
+            "name": "Komentator",
+            "text": "ーSekarang, masing-masing Gadis Kuda udah di gerbang."
+        },
+        {
+            "name": "Komentator",
+            "text": "Apakah “Gadis Kuda Triple Crown” Narita Brian \nbisa menang, atau ada Gadis Kuda lain yang \nsiap bikin kejutan? “Arima Kinen”… dan sekarang, mulai!"
         }
     ]
 }

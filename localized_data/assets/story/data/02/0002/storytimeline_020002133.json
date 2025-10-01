@@ -1,54 +1,54 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Rice Shower",
-            "text": "You know, Trainer-san."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Can I ask you for one more reward…?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice, when I was little, I used to read picture books. \nWhen I read a certain picture book, I wanted to make \nmy dream come true for the first time."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "So, now it's Rice's turn. I want to write a picture book that \ndelivers dreams to everyone."
-        },
-        {
-            "text": "The sky was really dark and rough. and the stormy days continued \nfor a long time. A strong wind blew up as if the mountains were \nangry, “I'm shivering”."
-        },
-        {
-            "text": "“I want to change the scary weather that \ncontinues to be dark into a blue sky”."
-        },
-        {
-            "text": "When everyone was thinking so, the wizard showed up."
-        },
-        {
-            "text": "While the wizard is watched by everyone, she decides to use magic \nto resolve the issue."
-        },
-        {
-            "text": "Then, a gentle wind blew, and the sky was \nreturned blue in the same moment."
-        },
-        {
-            "text": "The mountain became calm, and a beautiful wind that seemed to be \ntransparent flowed to me."
-        },
-        {
-            "text": "Everyone was happy and welcomed the wizard."
-        },
-        {
-            "text": "“My power was meant for this moment”."
-        },
-        {
-            "text": "The wizard responded with a smile."
-        },
-        {
-            "text": "In this way, the wizard, under the big blue \nsky, stayed forever and forever…."
-        },
-        {
-            "text": "To make everyone happy."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Kamu tahu nggak, Trainer-san."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Boleh nggak Rice minta satu hadiah lagi…?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dulu waktu kecil, Rice sering baca buku bergambar. \nPas baca salah satu buku, untuk pertama kalinya Rice \npunya mimpi yang pengen banget diwujudin."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jadi, sekarang gilirannya Rice. \nAku pengen nulis buku bergambar yang bisa kasih mimpi ke semua orang."
+    },
+    {
+      "text": "Langit waktu itu gelap banget, berangin, \ndan hari-hari badai terus berlanjut lama sekali. \nAngin kencang bertiup seolah gunung sedang marah, \n\"Aku gemetaran…\""
+    },
+    {
+      "text": "\"Aku pengen ubah cuaca menakutkan yang terus gelap ini \njadi langit biru.\""
+    },
+    {
+      "text": "Saat semua orang berharap begitu, muncullah seorang penyihir."
+    },
+    {
+      "text": "Di hadapan semua orang yang memperhatikannya, \npenyihir itu memutuskan untuk menggunakan sihirnya \nuntuk menyelesaikan masalah."
+    },
+    {
+      "text": "Lalu, angin lembut berhembus, dan seketika \nlangit kembali jadi biru."
+    },
+    {
+      "text": "Gunung pun tenang, dan angin indah yang jernih \nmengalir menyapaku."
+    },
+    {
+      "text": "Semua orang bahagia dan menyambut penyihir itu dengan gembira."
+    },
+    {
+      "text": "\"Kekuatanku memang ditakdirkan untuk momen ini.\""
+    },
+    {
+      "text": "Penyihir itu menjawab sambil tersenyum."
+    },
+    {
+      "text": "Dan begitu lah, di bawah langit biru luas itu, \npenyihir tetap tinggal selamanya…"
+    },
+    {
+      "text": "Untuk membuat semua orang bahagia."
+    }
+  ]
 }

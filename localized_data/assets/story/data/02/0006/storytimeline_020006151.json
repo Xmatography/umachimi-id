@@ -1,322 +1,322 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Spe-chan, over here～. \nWe're already connected to El.",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Sorry for the wait～! Hello, El-chan!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "『Oh, Spe-chan has arrived, huh?』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Bonjooour～! Everyone seems to be doing well! \nOf course, El is doing well tooooo!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Spe-chan, your 『Spring Tenno Sho』 was great! \nSei-chan, it was a nice run too!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『But well～, Spe-chan really got me good though～』",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "『Because of that, ever since then, I haven't \nbeen able to sleep well at night. Because of \nthat, I'm always really sleepy during class』",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "『Eeh～～!? I-is that true!?』",
-            "name": "Special Week"
-        },
-        {
-            "text": "『Isn't sleeping in class normal for Sky-san?』",
-            "name": "King Halo"
-        },
-        {
-            "text": "『They got mad at me for sleeping in class too…… The class before \nwas in the pool, so I ended up using all of my strength there……』",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Ahahaa! Everyone seems like their usual self, huh～.",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "El-chan, it's amazing that you've won a G1 overseas! \nEven on the news over here, El-chan is the hot topic!",
-            "name": "Special Week"
-        },
-        {
-            "text": "『Fufuun, so this must be what it feels like to be famous, huh!? \nBut, these results aren't enough to satisfy El!』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『I'm aiming for proof that I'm the world's strongest! Conquering \na big race that no Japanese Uma Musume has won before――』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『Victory at the Prix de l'Arc de Triomphe, I'll show you that \nI'll definitely be the one to do it!』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Yeah! We'll be cheering for you too!",
-            "name": "Special Week"
-        },
-        {
-            "text": "It won't be just us either. Everyone \nin Japan will be cheering El on.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "As a close friend, and a rival that I can take pride in, I'm \nexpecting a wonderful race from you.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "『I'm expecting great things from your efforts too～! And then \nsomeday, let's promise to have another battle!』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……Yes, once more for sure.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Alright, now it's King's turn to talk!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Wait, wait, I'm next in line though, right?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Aaah!? Me too!! Me too!!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "……El-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "They round the 4th corner in to the straight! This year's Derby \nUma Musume, Special Week, quickly moves to the outside!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Special Week, it's Special Week! The Senior class dignified \n\"Empress\" Air Groove also moves forward!",
-            "name": "Announcer"
-        },
-        {
-            "text": "But it's El Condor, El Condor! \nEl Condor Pasa takes the lead and crosses the goal!!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Seems like there was nothing to worry about when it comes to \ndistance! El Condor Pasa, part of the Classic Class, \nmagnificiently conquers the 『Japan Cup』!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Haa……Haaa……! Haaa……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Haa……fuu……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……That was an awesome, heated race, Spe-chan!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Haa…… Haa…… Ehehe, yeah!",
-            "name": "Special Week"
-        },
-        {
-            "text": "(In last year's 『Japan Cup』―― El-chan was really amazing……)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(That a race could be this amazing, and that I could take on an \neven bigger challenge. It feels like she taught me that……)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(Just watching her makes me excited…… \nand that's why everyone has big expectation of El-chan)",
-            "name": "Special Week"
-        },
-        {
-            "text": "(……me too. I want to be an Uma Musume like that……!)",
-            "name": "Special Week"
-        },
-        {
-            "text": "The first half of the Twinkle Series culminates with the \n『Takarazuka Kinen』――"
-        },
-        {
-            "text": "With that grand stage approaching, \nSpecial Week's training intensified."
-        },
-        {
-            "text": "Daaa～～～～!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Fuu～……3 laps on the dirt, finished! \nTrainer-san, which type of training is next!?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Alright, let's try slope running next. Focus on not losing any \nspeed, even with the additional burden on your body.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah! Alright, I'll get started then!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Seems like Special Week-san is really motivated.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "First in fan votes……it just hit me but, \neven with that she seems to be fine.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Of course I'm being careful so she doesn't get too excited, but \nit's still a good thing. It seems like she's really fulfilled.",
-            "name": "<username>"
-        },
-        {
-            "text": "Fulfilled is it……?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Like when we were planning for the 『Spring Tenno \nSho』, doing trial and error with Trainer-san, \nit kind of reminds me of that same feeling.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "The feeling of \"Chasing your dreams\", maybe Special Week-san is \nfeeling that right now.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Chasing your dreams, huh……",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, let's end today's training here.",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, let's end today's training here.",
-            "name": "<username>"
-        },
-        {
-            "text": "Okaaaay! Good work out there!!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "That said, today you were awesome out there, Spe-chan! Fighting \nspirit at max～ or something, it was rough keeping up with you.",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Ehehe, it kind of felt like the power just \nkept welling up from inside my body!",
-            "name": "Special Week"
-        },
-        {
-            "text": "With the way Spe-san is right now, it seems like it'll be a good \nrun at the 『Takarazuka Kinen』……!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Yeah, let's end spring in the best possible way!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, let's end spring in the best possible way!",
-            "name": "<username>"
-        },
-        {
-            "text": "Ah, um……Trainer-san! \nActually, I have a request!",
-            "name": "Special Week",
-            "choice_data_list": [
-                "A request……?"
-            ]
-        },
-        {
-            "text": "Right now, with Suzuka-san running in America, and El-chan \nrunning in France, lots of people are cheering them on, right?",
-            "name": "Special Week"
-        },
-        {
-            "text": "As Japanese Uma Musume, as representatives of Japan \nas they challenge the world, they're shouldering \nthe expectations of all the fans in Japan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Up until now, I was talking about how I thought aiming to be \"An \nUma Musume that could make everyone smile\" would bring me closer \nto being \"Japan's #1\", but―",
-            "name": "Special Week"
-        },
-        {
-            "text": "It seems more like Suzuka-san and El-chan \nare doing what I'm aiming for.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Carrying the expectations of so many people, and responding to \nthose expectations, I want to be an Uma Musume like that too so, \nif I win the 『Takarazuka Kinen』――",
-            "name": "Special Week"
-        },
-        {
-            "text": "Just like El-chan, I want to challenge \nthe 『Prix de l'Arc de Triomphe』 too!",
-            "name": "Special Week"
-        },
-        {
-            "text": "The 『Prix de l'Arc de Triomphe』!? Spe-chan will……!?",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Is that why you've been so motivitated?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Yeah……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Fufuu, just like when you first joined the team, \nyour goals are still just as big, Special Week-san.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "W-what do you think…… Trainer-san!",
-            "name": "Special Week"
-        },
-        {
-            "text": "My reaction was the same as the other team members', unable to \nhide my surprise at Special Week's words."
-        },
-        {
-            "text": "However, her eyes were serious, her strong desire to chase her \ndream to become \"Japan's #1 Uma Musume\" was conveyed properly――"
-        },
-        {
-            "text": "With a dream that big, you need to be prepared for the steps to \nbe just as big, you said that before, didn't you Spe?",
-            "name": "<username>"
-        },
-        {
-            "text": "With a dream that big, you need to be prepared for the steps to \nbe just as big, you said that before, didn't you Spe?",
-            "name": "<username>"
-        },
-        {
-            "text": "Shouldering all those expectations, and then becoming an Uma \nMusume that can live up to them…… In that case, you need to show \nthem an even greater run.",
-            "name": "<username>"
-        },
-        {
-            "text": "Shouldering all those expectations, and then becoming an Uma \nMusume that can live up to them…… In that case, you need to show \nthem an even greater run.",
-            "name": "<username>"
-        },
-        {
-            "text": "By that, you mean……!",
-            "name": "Special Week",
-            "choice_data_list": [
-                "<size=42>Run your best at 『Takarazuka Kinen』!</size>",
-                "<size=42>Run your best at 『Takarazuka Kinen』!</size>"
-            ]
-        },
-        {
-            "text": "Waa……! Yeah!!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Shouldering everyone's expectations, and wanting to become an Uma \nMusume that can live up to those expectations――"
-        },
-        {
-            "text": "A 『Takarazuka Kinen』 with an overseas trip on the line, Special \nWeek now had an extraordinary ambition to pour her all in to."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Spe-chan, sini～. \nKita udah nyambung sama El.",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Maaf nunggu ya～! Halo, El-chan!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Oh, Spe-chan udah dateng ya?』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Bonjooour～! Semua keliatan sehat ya! \nTentu aja, El juga sehat bangeeeet!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Spe-chan, 『Spring Tenno Sho』 kamu keren banget! \nSei-chan, larinya juga mantap!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Tapi ya～, Spe-chan bener-bener ngalahin aku waktu itu～』",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "『Gara-gara itu, dari waktu itu aku jadi susah tidur malam. \nMakanya di kelas aku selalu ngantuk banget』",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "『Eeeh～～!? S-serius!?』",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Bukannya Sky-san emang biasa tidur di kelas ya?』",
+      "name": "King Halo"
+    },
+    {
+      "text": "『Aku juga pernah dimarahin gara-gara ketiduran di kelas…… \nSoalnya sebelumnya ada pelajaran renang, \njadi semua tenagaku abis di kolam……』",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Ahahaa! Kayaknya semua masih sama aja ya～.",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "El-chan, keren banget kamu bisa menang G1 di luar negeri! \nBahkan di berita sini juga, El-chan jadi topik hangat!",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Fufuun, jadi gini rasanya terkenal ya!? \nTapi hasil segini aja belum cukup bikin El puas!』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Aku ngejar bukti kalau aku yang terkuat di dunia! \nNgalahin balapan besar yang belum pernah dimenangin Uma Musume Jepang――』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Menang di Prix de l'Arc de Triomphe, \naku bakal buktiin kalau akulah yang bisa ngelakuin itu!』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Iya! Kami juga bakal dukung kamu!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dan bukan cuma kita aja. \nSemua orang di Jepang juga pasti dukung El.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Sebagai sahabat dekat, dan juga rival yang aku banggakan, \naku bener-bener nungguin balapan luar biasa darimu.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "『Aku juga nungguin yang hebat-hebat dari kamu～! \nTerus suatu hari nanti, ayo janji balapan lagi!』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Iya, pasti suatu hari nanti.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Oke, sekarang giliran King ngomong!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Eh eh, bukannya harusnya giliranku dulu ya?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Aaah!? Aku juga!! Aku juga!!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "……El-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mereka masuk tikungan ke-4 menuju lintasan lurus! \nDerby Uma Musume tahun ini, Special Week, \nlagsung ambil jalur luar!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Special Week, itu Special Week! \nKelas Senior sang \"Ratu\" Air Groove juga maju ke depan!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Tapi ada El Condor, El Condor! \nEl Condor Pasa ambil alih posisi dan nyebrang garis finish!!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Kayaknya nggak ada masalah sama sekali soal jarak! \nEl Condor Pasa, dari kelas Classic, \nberhasil taklukin 『Japan Cup』 dengan keren!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Haa……Haaa……! Haaa……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Haa……fuu……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Itu balapan panas banget, Spe-chan!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Haa…… Haa…… Ehehe, iya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Di 『Japan Cup』 tahun lalu―― \nEl-chan bener-bener luar biasa……)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Kalau balapan bisa sekeren itu, \ndan aku bisa ambil tantangan lebih besar lagi. \nKayaknya dia ngajarin aku soal itu……)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(Cuma ngeliat dia aja bikin aku semangat…… \nmakanya semua orang punya ekspektasi besar sama El-chan)",
+      "name": "Special Week"
+    },
+    {
+      "text": "(……aku juga. Aku pengen jadi Uma Musume kayak gitu……!)",
+      "name": "Special Week"
+    },
+    {
+      "text": "Paruh pertama Twinkle Series ditutup dengan 『Takarazuka Kinen』――"
+    },
+    {
+      "text": "Dengan panggung besar itu makin deket, \nlatihan Special Week makin keras."
+    },
+    {
+      "text": "Daaa～～～～!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Fuu～…… 3 putaran di lintasan tanah, selesai! \nTrainer-san, latihan berikutnya apa!?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oke, coba latihan nanjak. \nFokus biar nggak kehilangan kecepatan, walau badan dapet beban lebih.",
+      "name": "<username>"
+    },
+    {
+      "text": "Siap! Oke, aku mulai ya!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kayaknya Special Week-san lagi semangat banget.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Peringkat 1 di voting fans……baru kepikiran, \ntapi keliatannya dia baik-baik aja.",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Tentu aku jaga biar dia nggak terlalu kebawa, \ntapi ini hal bagus. Kayaknya dia bener-bener puas sekarang.",
+      "name": "<username>"
+    },
+    {
+      "text": "Puas ya……?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kayak waktu kita rencanain 『Spring Tenno Sho』, \nbolak-balik coba strategi sama Trainer-san, rasanya mirip sama sekarang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Rasanya kayak lagi \"ngejar mimpi\", \nmungkin Special Week-san lagi ngerasain itu sekarang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Ngejar mimpi, huh……",
+      "name": "<username>"
+    },
+    {
+      "text": "Oke, latihan hari ini cukup sampai sini.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oke, latihan hari ini cukup sampai sini.",
+      "name": "<username>"
+    },
+    {
+      "text": "Okaaaay! Kerja bagus semuanya!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Tapi serius deh, hari ini kamu keren banget, Spe-chan! \nSemangat bertarungmu 100%～ susah banget ngejar kamu.",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Ehehe, rasanya kayak tenaga ngalir keluar terus dari dalam tubuh!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dengan kondisi Spe-san sekarang, \nkayaknya bakal dapet hasil bagus di 『Takarazuka Kinen』……!",
+      "name": "Rice Shower"
+    },
+    {
+      "text": "Iya, ayo kita tutup musim semi ini dengan cara paling keren!",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, ayo kita tutup musim semi ini dengan cara paling keren!",
+      "name": "<username>"
+    },
+    {
+      "text": "Ah, um…… Trainer-san! \nSebenarnya aku punya permintaan!",
+      "name": "Special Week",
+      "choice_data_list": [
+        "Permintaan……?"
+      ]
+    },
+    {
+      "text": "Sekarang, Suzuka-san lagi lari di Amerika, \nEl-chan di Prancis, banyak orang dukung mereka kan?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebagai Uma Musume Jepang, sebagai wakil negara yang berjuang di dunia, \nmereka bawa harapan semua fans Jepang.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Selama ini aku bilang kalau aku pengen jadi \"Uma Musume yang bikin semua orang tersenyum\" \nbiar bisa jadi \"No.1 Jepang\", tapi―",
+      "name": "Special Week"
+    },
+    {
+      "text": "Kayaknya justru Suzuka-san sama El-chan yang udah ngelakuin hal yang aku kejar.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Bawa harapan banyak orang, terus jawab harapan itu, \naku juga pengen jadi Uma Musume kayak gitu. \nJadi kalau aku menang 『Takarazuka Kinen』――",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sama kayak El-chan, \naku juga pengen tantang 『Prix de l'Arc de Triomphe』!",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Prix de l'Arc de Triomphe』!? Spe-chan juga……!?",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Jadi itu alasan kamu semangat banget akhir-akhir ini?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Iya……!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Fufuu, sama kayak pas kamu baru gabung tim, \nmimpimu tetap sebesar itu, Special Week-san.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "B-bagaimana menurutmu…… Trainer-san!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Reaksiku sama kayak anggota tim lain, \nkaget denger kata-kata Special Week."
+    },
+    {
+      "text": "Tapi matanya serius, dan keinginan kuatnya buat ngejar mimpi \njadi \"Uma Musume No.1 Jepang\" bener-bener kerasa――"
+    },
+    {
+      "text": "Dengan mimpi segede itu, \nkamu harus siap ngambil langkah yang sama besarnya, \ndulu kamu pernah bilang gitu kan, Spe?",
+      "name": "<username>"
+    },
+    {
+      "text": "Dengan mimpi segede itu, \nkamu harus siap ngambil langkah yang sama besarnya, \ndulu kamu pernah bilang gitu kan, Spe?",
+      "name": "<username>"
+    },
+    {
+      "text": "Nanggung semua harapan itu, terus jadi Uma Musume yang bisa bener-bener jawab harapan mereka…… \nKalau gitu, kamu harus kasih lari yang lebih gila lagi.",
+      "name": "<username>"
+    },
+    {
+      "text": "Nanggung semua harapan itu, terus jadi Uma Musume yang bisa bener-bener jawab harapan mereka…… \nKalau gitu, kamu harus kasih lari yang lebih gila lagi.",
+      "name": "<username>"
+    },
+    {
+      "text": "Maksudnya……!",
+      "name": "Special Week",
+      "choice_data_list": [
+        "<size=42>Lari sebaik mungkin di 『Takarazuka Kinen』!</size>",
+        "<size=42>Lari sebaik mungkin di 『Takarazuka Kinen』!</size>"
+      ]
+    },
+    {
+      "text": "Waa……! Iya!!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Dengan bawa harapan semua orang, \ndan pengen jadi Uma Musume yang bisa jawab harapan itu――"
+    },
+    {
+      "text": "『Takarazuka Kinen』 kali ini jadi taruhan besar, \nSpecial Week sekarang punya ambisi luar biasa buat kasih semua yang dia punya."
+    }
+  ]
 }

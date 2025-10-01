@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Let's wrap up the training for today... Hmm?",
+            "text": "Yuk, kita akhiri latihan hari ini... Hmm?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "What's wrong, McQueen?",
+            "text": "Kenapa, McQueen?",
             "name": "<username>"
         },
         {
-            "text": "It's just... She's been staring at me for a while...",
+            "text": "Cuma… dia udah lama banget menatapku…",
             "name": "Mejiro McQueen"
         },
         {
@@ -18,23 +18,23 @@
             "name": "Rice Shower"
         },
         {
-            "text": "Is she acquainted with you, Trainer?",
+            "text": "Apakah dia kenal denganmu, Trainer?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "No, not really... But she's...",
+            "text": "Enggak, nggak terlalu… Tapi dia...",
             "name": "<username>"
         },
         {
-            "text": "Phew! Another splendid training today! Now it's time \nfor my long-awaited \"McQueen rolling\" session!",
+            "text": "Haaah! Latihan hari ini luar biasa!\nSekarang waktunya sesi yang aku tunggu-tunggu: \"McQueen rolling\"!",
             "name": "Gold Ship"
         },
         {
-            "text": "Excuse me?! What in heavens is that nonsensically named \nscheme supposed to be?! I won't let you have it your way!",
+            "text": "Eh?! Apa-apaan nama aneh itu?!\nAku nggak bakal membiarkanmu begitu aja!",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Ah! Wait, McQueen!",
+            "text": "Ah! Tunggu, McQueen!",
             "name": "Gold Ship"
         },
         {
@@ -42,161 +42,133 @@
             "name": "<username>"
         },
         {
-            "text": "This horsegirl... I wouldn't call her an acquaintance \nbut I know her. She usually continues to train by \nherself deep into the evenings."
+            "text": "Gadis ini… Aku nggak bisa bilang kenal,\ntapi aku tahu dia. Biasanya dia latihan sendiri sampai malam banget."
         },
         {
             "text": "*huff huff*",
             "name": "Rice Shower"
         },
         {
-            "text": "Today is no exception. She's still running on, \nas the only one left on the course."
+            "text": "Hari ini juga nggak beda.\nDia masih berlari, sendirian di lintasan."
         },
         {
-            "text": "*huff huff* Whoa!!",
+            "text": "*huff huff* Woaah!!",
             "name": "Rice Shower"
         },
         {
             "text": "*Crash!*"
         },
         {
-            "text": "Uff... Ouch...",
+            "text": "Ugh... Aduh...",
             "name": "Rice Shower"
         },
         {
-            "text": "No matter how hard I train... \nI just can't...",
+            "text": "Seberapapun keras aku latihan...\nAku nggak bisa..."
+        },
+        {
+            "text": "Dia bikin aku teringat banget sama McQueen saat dia berjuang keras untuk Tenno Sho."
+        },
+        {
+            "text": "Apa kamu baik-baik aja?",
+            "name": "<username>"
+        },
+        {
+            "text": "Eh? Ah… Kamu… Trainer-nya McQueen…",
             "name": "Rice Shower"
         },
         {
-            "text": "She reminds me a lot of Mejiro McQueen \nwhen she was working so hard for the Tenno Sho."
+            "text": "Kamu harus istirahat hari ini aja dengan cedera kakimu.\nApalagi kalau mau menang lomba."
         },
         {
-            "text": "Are you okay?",
-            "name": "<username>"
-        },
-        {
-            "text": "Are you okay?",
-            "name": "<username>"
-        },
-        {
-            "text": "Eh? Ah... You're... McQueen's trainer...",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "<username>"
-        },
-        {
-            "text": "You should take it easy for the rest of today with \nyour injured leg. Especially if you want to win races.",
-            "name": "<username>"
-        },
-        {
-            "text": "And even if you can't go full strength right now, \nyou can win. You just need to believe in yourself!",
-            "name": "<username>"
+            "text": "Dan walau sekarang belum bisa maksimal,\nkamu tetap bisa menang. Kamu cuma perlu percaya sama dirimu sendiri!"
         },
         {
             "text": "*sniffle* \n*sob*",
             "name": "Rice Shower"
         },
         {
-            "text": "Wha—?! D-Does your leg hurt that much?",
+            "text": "Wha—?! K-Kakimu sakit segitu parahnya?",
             "name": "<username>"
         },
         {
-            "text": "Wha—?! D-Does your leg hurt that much?",
-            "name": "<username>"
-        },
-        {
-            "text": "N-No, that's not it...",
+            "text": "Nggak, bukan itu...",
             "name": "Rice Shower"
         },
         {
-            "text": "I just love running. And yet, I've never won a race... \nBut after I saw McQueen run...",
+            "text": "Aku cuma suka lari. Tapi aku nggak pernah menang lomba…\nTapi setelah lihat McQueen berlari..."
+        },
+        {
+            "text": "Aku juga pengin menang!",
             "name": "Rice Shower"
         },
         {
-            "text": "I wanted to win, too!",
+            "text": "Dia selalu memikirkan keinginan untuk menang…\nDia kuat mental banget."
+        },
+        {
+            "text": "Aku, di Derby…?",
             "name": "Rice Shower"
         },
         {
-            "text": "For her mind to constantly dwell on the feeling \nof wanting to win... She has a lot of mental strength."
+            "text": "Kelihatannya kamu ngerti sekarang.\nAku udah lihat kamu latihan cukup lama, aku yakin."
         },
         {
-            "text": "Me, in the Derby...?",
+            "text": "N-Nggak mungkin…\nAku belum cukup bagus…",
             "name": "Rice Shower"
         },
         {
-            "text": "Looks like you understand now. \nI've seen you run for long enough, I'm certain of it.",
-            "name": "<username>"
+            "text": "Aku tahu dia pasti bakal takut.\nDerby itu tempat para terbaik bertarung demi kejayaan dan kehormatan."
         },
         {
-            "text": "Looks like you understand now. \nI've seen you run for long enough, I'm certain of it.",
-            "name": "<username>"
-        },
-        {
-            "text": "N-No way... \nI'm not nearly good enough...",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "I knew she'd get scared, of course. The Derby is where \nthe best of the best fight over glory and honor."
-        },
-        {
-            "text": "And Rice... She has the strength to able to keep up with \nMejiro McQueen. But what's most important above all...",
-            "choice_data_list": [
-                ""
-            ]
+            "text": "Dan Rice… Dia punya kekuatan buat bisa nyamain McQueen.\nTapi yang paling penting..."
         },
         {
             "text": "Ah...",
             "name": "Rice Shower"
         },
         {
-            "text": "A strong drive to push yourself to your limits to win. \nWhich comes forth through self-confidence.",
+            "text": "Semangat buat mendorong diri sampai batas maksimal buat menang.\nItu muncul dari rasa percaya diri.",
             "name": "<username>"
         },
         {
-            "text": "Rice, let's work towards the Derby 'kay?",
+            "text": "Rice, yuk kita latihan buat Derby, ya?",
             "name": "<username>"
         },
         {
-            "text": "Y-Yes! I will try!",
+            "text": "Y-Ya! Aku bakal coba!",
             "name": "Rice Shower"
         },
         {
-            "text": "This marks the start of her all-out training. \nLet's conquer the Derby!"
+            "text": "Ini jadi awal latihan all-out dia.\nMari kita taklukkan Derby!"
         },
         {
-            "text": "So you're saying I should keep following McQueen?",
+            "text": "Jadi maksudmu aku harus terus ngikut McQueen?",
             "name": "Rice Shower"
         },
         {
-            "text": "Correct. No matter what happens, \ntry to stay following after her.",
+            "text": "Betul. Apapun yang terjadi, tetap ikuti dia terus.",
             "name": "<username>"
         },
         {
-            "text": "Correct. No matter what happens, \ntry to stay following after her.",
-            "name": "<username>"
-        },
-        {
-            "text": "You'll have to face this Derby's favorite. \nThe undefeated Mihono Bourbon.",
+            "text": "Kamu bakal menghadapi favorit Derby ini.\nMihono Bourbon yang belum pernah kalah.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "She's a bigwig, able to run with a perfect pace. \nAlmost like a machine.",
+            "text": "Dia hebat, bisa lari dengan pace sempurna.\nHampir kayak mesin.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "If you want to beat her, you'll need to be follow me \nand stay with me throughout.",
+            "text": "Kalau mau kalahin dia, kamu harus terus ikutin aku dan tetap di dekatku sepanjang lomba.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "I understand. I'll try my best to follow you.",
+            "text": "Aku ngerti.\nAku bakal coba sekuat tenaga buat ngikutin kamu.",
             "name": "Rice Shower"
         },
         {
-            "text": "Staying right behind Mejiro McQueen will require \na lot of stamina and focus."
+            "text": "Berdiri tepat di belakang McQueen butuh stamina dan fokus yang besar."
         },
         {
-            "text": "Rice Shower wasn't able to stay close for a while. \nBut she kept persevering. Until, a few days later..."
+            "text": "Rice Shower sempat nggak bisa dekat sebentar.\nTapi dia terus berusaha. Sampai, beberapa hari kemudian..."
         },
         {
             "text": "*huff huff*",
@@ -207,34 +179,31 @@
             "name": "Rice Shower"
         },
         {
-            "text": "You done did it this time! \nYou didn't fall behind at all!",
+            "text": "Kali ini berhasil! Kamu nggak ketinggalan sama sekali!",
             "name": "Gold Ship"
         },
         {
-            "text": "Indeed. Your stamina will be your weapon, Rice.",
-            "name": "Mejiro McQueen",
-            "choice_data_list": [
-                ""
-            ]
-        },
-        {
-            "text": "O-Okay!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "A good night to everyone!",
+            "text": "Iya, stamina kamu bakal jadi senjatamu, Rice.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "See ya!",
+            "text": "O-Oke!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Selamat malam semuanya!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Sampai jumpa!",
             "name": "Gold Ship"
         },
         {
-            "text": "See you tomorrow!",
-            "name": "Horsegirl with Straight-cut Bangs"
+            "text": "Sampai besok!",
+            "name": "Gadis kuda dengan poni lurus"
         },
         {
-            "text": "Follow... Follow...",
+            "text": "Ikut… Ikut…",
             "name": "Rice Shower"
         },
         {
@@ -242,7 +211,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Follow... Follow...",
+            "text": "Ikut… Ikut…",
             "name": "Rice Shower"
         },
         {
@@ -250,11 +219,11 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Follow... Follow...",
+            "text": "Ikut… Ikut…",
             "name": "Rice Shower"
         },
         {
-            "text": "Um... Rice?",
+            "text": "Eh… Rice?",
             "name": "Mejiro McQueen"
         },
         {
@@ -262,19 +231,19 @@
             "name": "Rice Shower"
         },
         {
-            "text": "Do you really want to sleep here again...? \nI would like to have a bit of privacy, you know...",
+            "text": "Kamu beneran mau tidur di sini lagi…?\nAku pengin punya sedikit privasi juga, tahu...",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "But Trainer said I should follow you, no matter what...!",
+            "text": "Tapi Trainer bilang aku harus ngikut kamu, apapun yang terjadi…!",
             "name": "Rice Shower"
         },
         {
-            "text": "(That's not what they meant with that...!)",
+            "text": "(Bukan maksudnya kayak gitu…!)",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Another few days later — The day of the Twinkle \nSeries' major event, the Nippon Derby, has arrived."
+            "text": "Beberapa hari kemudian — Hari acara besar Twinkle Series, Nippon Derby, akhirnya tiba."
         }
     ]
 }

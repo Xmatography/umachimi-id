@@ -2,17 +2,17 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Good work out there, Brian."
+            "text": "Kerja bagus di luar sana, Brian."
         },
         {
             "name": "Narita Brian",
-            "text": "Today again, I couldn't get first place."
+            "text": "Hari ini lagi, aku nggak bisa dapat juara satu."
         },
         {
-            "text": "But, you did everything you could. It wasn't that bad."
+            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok."
         },
         {
-            "text": "But, you did everything you could. It wasn't that bad."
+            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok."
         },
         {
             "name": "Narita Brian",
@@ -20,59 +20,59 @@
         },
         {
             "name": "Narita Brian",
-            "text": "There's something I need to tell you. I alreadyー"
+            "text": "Ada yang mau aku bilang.\nAku sebenarnyaー"
         },
         {
-            "text": "I can't do “that run” anymore… right?"
+            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?"
         },
         {
-            "text": "I can't do “that run” anymore… right?"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Did you know?"
-        },
-        {
-            "text": "No, I was watching the race and I noticed it. Looking at your \nfigure, running desperately while struggling."
-        },
-        {
-            "text": "No, I was watching the race and I noticed it. Looking at your \nfigure, running desperately while struggling."
+            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?"
         },
         {
             "name": "Narita Brian",
-            "text": "…I don't really know the reason."
+            "text": "…Kamu udah tahu?"
+        },
+        {
+            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan."
+        },
+        {
+            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan."
         },
         {
             "name": "Narita Brian",
-            "text": "However, although it is slight, there is a thread in the sense, \nwhich makes me not run like before."
-        },
-        {
-            "text": "Narita Brian's run feeling got forgotten due to the injuryー"
-        },
-        {
-            "text": "It affected her form, and in addition left her in the cruel \nreality of losing her run so far."
+            "text": "…Aku juga nggak tahu alasannya."
         },
         {
             "name": "Narita Brian",
-            "text": "I'm sorry for keeping quiet. But I thought if I told you this, \nyou would stop me from running."
+            "text": "Tapi, meskipun tipis, ada rasa kayak ada benang yang ngeganjel.\nJadi aku nggak bisa lari kayak dulu."
         },
         {
-            "text": "That's right, I could have stopped you."
+            "text": "Rasa larinya Brian hilang gara-gara cederaー"
         },
         {
-            "text": "That's right, I could have stopped you."
+            "text": "Itu ngubah gaya larinya, dan bikin dia ketemu kenyataan pahit:\nkehilangan lari yang dulu jadi kekuatannya."
         },
         {
-            "text": "But now it's different. Even if you can't run like before, you \nhaven't changed at all."
+            "name": "Narita Brian",
+            "text": "Maaf aku nutupin ini.\nAku takut kalau bilang, kamu bakal nyuruh aku berhenti lari."
         },
         {
-            "text": "But now it's different. Even if you can't run like before, you \nhaven't changed at all."
+            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti."
         },
         {
-            "text": "I want to win, and I want to go straight to the finish line. \nNarita Brian who stole my heart, is still in front of me."
+            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti."
         },
         {
-            "text": "I want to win, and I want to go straight to the finish line. \nNarita Brian who stole my heart, is still in front of me."
+            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama."
+        },
+        {
+            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama."
+        },
+        {
+            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku."
+        },
+        {
+            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku."
         },
         {
             "name": "Narita Brian",
@@ -80,246 +80,246 @@
         },
         {
             "name": "Narita Brian",
-            "text": "…My big-sister was right, you really are \na trainer who puts Horse Girls first.",
+            "text": "…Kakakku bener, kamu emang Trainer yang selalu mikirin Gadis Kuda duluan.",
             "choice_data_list": [
-                "Let's do our best together!"
+                "Ayo kita berjuang bareng!"
             ]
         },
         {
             "name": "Narita Brian",
-            "text": "Yeah… I'll keep running from now on!"
+            "text": "Iya… Aku bakal terus lari mulai sekarang!"
         },
         {
-            "text": "Brian's next race is the “Haishin Grand \nPrize”, How to win with her so far…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Oh, so you were here! Trainer-san, I'm done warming up!"
-        },
-        {
-            "text": "Oh, I'm sorry. I was just thinking about something. About what to \ndo with Brian's training."
-        },
-        {
-            "text": "In order for her to give 100% of her power now, it's important \nthat she learn to race differently than ever before…"
+            "text": "Balapan Brian selanjutnya adalah “Hadiah Besar Hanshin”.\nCara biar dia menang kali ini adalah…"
         },
         {
             "name": "Winning Ticket",
-            "text": "Mmm… this talk sounds a bit difficult."
+            "text": "Oh, jadi kamu di sini!\nTrainer-san, aku udah selesai pemanasan!"
         },
         {
-            "text": "I don't have time to try everything, and the more I think about \ntraining the more I realize that nothing makes sense."
+            "text": "Ah, maaf. Aku lagi kepikiran sesuatu.\nTentang latihan Brian."
         },
         {
-            "text": "I don't have time to try everything, and the more I think about \ntraining the more I realize that nothing makes sense."
+            "text": "Biar dia bisa ngeluarin 100% kekuatannya sekarang,\ndia harus belajar cara balapan yang beda dari biasanya…"
         },
         {
             "name": "Winning Ticket",
-            "text": "Hmm～mm～… Even if you say it makes no sense, if I have a good \nenough head to think about it!!"
+            "text": "Hmm… obrolannya agak susah ya."
+        },
+        {
+            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya."
+        },
+        {
+            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm～mm～…\nTapi walau nggak masuk akal, kalau ada yang kepalanya cukup gede buat mikirin ini!!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "After all it was you Ticket. You're the only girl whose voice I \ncan hear from far away."
+            "text": "Ternyata kamu ya, Ticket.\nSuaramu doang yang bisa kudengar dari jauh."
         },
         {
             "name": "Winning Ticket",
-            "text": "Woaaah～!! There is it, Trainer-san! The one with a big enough \nhead to think is here!"
+            "text": "Woooaaah～!! Itu dia Trainer-san!\nOrang yang kepalanya cukup gede buat mikirin ini ada di sini!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hoy! I'm always saying that my head is \nnot big… big enough head to think?"
+            "text": "Hey! Aku selalu bilang kepalaku nggak gede kok…\ngede buat mikir maksudnya?"
         },
         {
-            "text": "I see, you are Hayahide of theory, you may be qualified…!"
+            "text": "Ohh, jadi Hayahide si tukang teori, mungkin cocok juga…!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Wait a minute, what are you talking about…?"
+            "text": "Tunggu dulu, kamu ngomongin apa sih…?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "How lively. I heard that Brian's next race was decided, so I made \nsome Onigiri to boost performance."
+            "text": "Rame banget.\nAku dengar balapan Brian udah ditentuin, jadi aku bawain Onigiri biar tambah semangat."
         },
         {
-            "text": "Right! In addition, we also got Brian's opponent to think about!"
+            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!"
         },
         {
-            "text": "Right! In addition, we also got Brian's opponent to think about!"
+            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "…Huh! Are you talking about the battle?"
+            "text": "…Hah! Maksudmu pertarungan?"
         },
         {
             "name": "Narita Brian",
-            "text": "Big-sister, and Amazon…?"
+            "text": "Kakak, sama Amazon…?"
         },
         {
-            "text": "I thought I'd ask Biwa Hayahide to think about training and \nrunning for the current Brian together with me."
+            "text": "Aku kepikiran ngajak Biwa Hayahide mikirin bareng\ncara latihan dan lari Brian sekarang."
         },
         {
-            "text": "And on the other side of the race is Hishi Amazon, who knows you \nwell, it's okay for you, right?"
+            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?"
         },
         {
-            "text": "And on the other side of the race is Hishi Amazon, who knows you \nwell, it's okay for you, right?"
+            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Hehe, you can leave such a thing to Big-sister Hishiama!"
+            "text": "Hehe, urusan begitu serahin aja ke Kakak Hishiama!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I don't know if a theory-based approach is right for you, but \nit's definitely a shortcut rather than groping and running."
+            "text": "Aku nggak yakin teori cocok buatmu,\ntapi jelas ini jalan pintas dibanding coba-coba buta."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "As strong as before… No, I need you to be stronger than before, \notherwise it won't be a challenge for me."
+            "text": "Se-kuat dulu… atau malah harus lebih kuat lagi,\nkalau nggak ya nggak jadi tantangan buatku."
         },
         {
             "name": "Narita Brian",
-            "text": "…Hmph, let's take that stand."
+            "text": "…Hmph, ya udah, aku terima."
         },
         {
-            "text": "All right! Then go with all your might towards victory!!"
+            "text": "Sip! Kalau gitu ayo maju sekenceng-kencengnya buat kemenangan!!"
         },
         {
-            "name": "Everyone",
-            "text": "Hooray!!"
+            "name": "Semua",
+            "text": "Horeee!!"
         },
         {
             "name": "Gold Ship",
-            "text": "I've been watching Hayahide's odd training! This is like, in 1 \nmonth, you're going to be crazy, right?"
+            "text": "Aku perhatiin latihan anehnya Hayahide!\nDalam sebulan, kayaknya kalian bakal gila semua deh?"
         },
         {
             "name": "Narita Brian",
-            "text": "Seriously, those are what people wearing glasses are like. There \nis no shortage of training."
+            "text": "Serius, emang begitu orang yang pake kacamata.\nLatihannya nggak ada habisnya."
         },
         {
-            "text": "You're proud of your older-sister."
+            "text": "Kamu pasti bangga sama kakakmu."
         },
         {
-            "text": "You're proud of your older-sister."
+            "text": "Kamu pasti bangga sama kakakmu."
         },
         {
             "name": "Narita Brian",
-            "text": "…That's right."
+            "text": "…Iya."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Both of your personalities are completely different, but it is \nindispensable to be conscious of each other's race and to be \nselected as “Annual representative Horse Girl” together."
+            "text": "Kalian berdua emang beda banget,\ntapi sama-sama penting buat saling sadar satu sama lain,\nmakanya bisa kepilih bareng jadi “Gadis Kuda Perwakilan Tahunan”."
         },
         {
             "name": "Gold Ship",
-            "text": "Oh! Isn't it about time that this year's \nURA Award will be announced?"
+            "text": "Oh! Bukannya sebentar lagi “Penghargaan URA” tahun ini diumumin?"
         },
         {
-            "text": "It should be announced in the program, let's watch it."
+            "text": "Harusnya diumumin di acara TV, ayo kita nonton."
         },
         {
-            "text": "It should be announced in the program, let's watch it."
+            "text": "Harusnya diumumin di acara TV, ayo kita nonton."
         },
         {
-            "name": "Announcer",
-            "text": "At the “Kikkashou” you updated Narita Brian's record, you also \nwon the following “Arima Kinen” brilliantly!"
+            "name": "Penyiar",
+            "text": "Di “Kikkashou” kamu pecahin rekor Narita Brian,\nterus kamu juga menang gemilang di “Arima Kinen”!"
         },
         {
-            "name": "Announcer",
-            "text": "Mayano Top Gun, who's momentum has not stopped, was selected as \nthe “Annual Representative Horse Girl”!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ah, Um, Thank you so much!"
-        },
-        {
-            "name": "Announcer",
-            "text": "It was probably your best first year, but \nwhat would you like to have this year?"
+            "name": "Penyiar",
+            "text": "Mayano Top Gun, yang momentumnya nggak berhenti,\nterpilih jadi “Gadis Kuda Perwakilan Tahunan”!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "It's of course, I want to have a lot of races that can make \neveryone and Maya herself get excited while watching!"
+            "text": "Ah, uhh, makasih banyak!"
         },
         {
-            "name": "Announcer",
-            "text": "I see, we can expect a great race again this year."
-        },
-        {
-            "name": "Announcer",
-            "text": "By the way, Mayano Top Gun do you have a partner that can make \nyou excited right now?"
+            "name": "Penyiar",
+            "text": "Tahun pertamamu udah luar biasa banget,\ntahun ini kamu pengen apa?"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Yes! Here! She's here!! The one who can make Maya excited!!"
+            "text": "Tentu aja, aku pengen banyak balapan\nyang bikin semua orang, dan Maya sendiri,\nikutan semangat pas nonton!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Begitu ya, kayaknya tahun ini kita bakal lihat balapan keren lagi."
+        },
+        {
+            "name": "Penyiar",
+            "text": "Ngomong-ngomong, Mayano Top Gun,\nada nggak partner yang bikin kamu semangat sekarang?"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "In last year's “Hanshin Grand Prize” The \nrace of that person was really great…!"
+            "text": "Ada! Ini dia!\nOrang yang bisa bikin Maya semangat!!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Somehow, every race feels as I thought…"
+            "text": "Di “Hadiah Besar Hanshin” tahun lalu,\nlarinya dia bener-bener keren banget…!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Hmm～, I want to feel the throbbing excitement～! Maybe, I should \nhave gone back to school without going to seeー"
-        },
-        {
-            "name": "Commentator",
-            "text": "Pushing forward!! The difference with the subsequent one is \nopening up more and more!"
+            "text": "Entah kenapa, tiap balapan rasanya sesuai yang aku bayangin…"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "…heh, No way-no way!? She is still getting faster…!?"
+            "text": "Hmm～, aku pengen ngerasain deg-degan itu lagi～!\nApa aku harusnya balik sekolah aja tanpa nontonー"
         },
         {
-            "name": "Commentator",
-            "text": "No one can catch up with her anymore! Now it's just a stand-alone \nstate!! 6 lengths, 7 lengths difference now, Goal!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Woah… Amazing…!"
+            "name": "Komentator",
+            "text": "Terus maju!! Jarak dengan yang di belakang makin jauh!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "I was really excited, my heart was pounding, and that's when Maya \nsaid she wanted to run with her one day and race like that!"
+            "text": "…Hah, nggak mungkin!? Dia masih makin cepat…!?"
+        },
+        {
+            "name": "Komentator",
+            "text": "Udah nggak ada yang bisa nyusul dia!\nSekarang dia sendirian di depan!!\nSelisih 6 panjang, 7 panjang, Finish!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "…But, she hasn't won a race since she got injured…"
+            "text": "Woaaah… Keren banget…!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "But-but! I understood when I ran together \nwith her in the “Arima Kinen”!"
+            "text": "Aku bener-bener deg-degan, jantungku mau copot,\ndan saat itu Maya bilang pengen suatu hari bisa lari bareng dia dengan cara kayak gitu!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "The excitement that I felt on that day and the \npower that I felt so excited about have not changed \nanything from that time, so Mayaー"
+            "text": "…Tapi, sejak dia cedera dia belum menang lagi…"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "want to run with Narita Brian-san one more time!"
+            "text": "Tapi! Aku ngerti pas lari bareng dia di “Arima Kinen”!"
         },
         {
-            "name": "Announcer",
-            "text": "Is it a confrontation between the old and new “Annual \nrepresentative horse girl”!? This will raise expectations!"
+            "name": "Mayano Top Gun",
+            "text": "Rasa deg-degan yang aku rasain hari itu,\nkekuatan yang bikin aku semangat, nggak berubah sama sekali.\nMakanya Mayaー"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "pengen lari bareng Narita Brian-san sekali lagi!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Apakah ini bakal jadi duel antara “Gadis Kuda Perwakilan Tahunan” lama dan baru!?\nEkspektasi makin tinggi!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "How would have thought… She is the same as Brian-san, \nshe is a powerful girl enough to conquer the “Arima \nKinen” in the classic class."
+            "text": "Siapa sangka… Sama kayak Brian-san,\ndia gadis kuat yang sanggup naklukin “Arima Kinen” di kelas klasik."
         },
         {
             "name": "Narita Brian",
-            "text": "…No matter who is the opponent, there is no problem."
+            "text": "…Siapapun lawannya, nggak masalah."
         },
         {
             "name": "Narita Brian",
-            "text": "Supported by this much, the desire for \nvictoryー is just a play to me!",
+            "text": "Dengan dukungan sebanyak ini,\nhasrat buat menangー buatku cuma permainan!",
             "choice_data_list": [
-                "Brian, we're gonna win!",
-                "Brian, we're gonna win!"
+                "Brian, kita bakal menang!",
+                "Brian, kita bakal menang!"
             ]
         },
         {
             "name": "Narita Brian",
-            "text": "Yeah…!"
+            "text": "Iya…!"
         }
     ]
 }

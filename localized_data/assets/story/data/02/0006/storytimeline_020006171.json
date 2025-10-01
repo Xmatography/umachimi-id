@@ -1,310 +1,335 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "…………",
-            "name": "Special Week"
-        },
-        {
-            "text": "……Grass Wonder was certainly strong but, \neven so, Spe, you ran really well.",
-            "name": "<username>"
-        },
-        {
-            "text": "If you still want to challenge it, there's a way, \nor should we avoid the [Prix de l'Arc de Triomphe]……",
-            "name": "<username>"
-        },
-        {
-            "text": "My condition was good, and I did a lot of training, \nI really used all of my strength to run.",
-            "name": "Special Week"
-        },
-        {
-            "text": "……even with that she passed me, and pulled further and \nfurther away, I wasn't able to catch Grass-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "……With the way I am now, even if I enter the 『Prix de l'Arc de Triomphe』, \nthere's definitely no way I can win.……",
-            "name": "Special Week"
-        },
-        {
-            "text": "In her mind, her dream of becoming \"Japan's #1 Uma Musume\" \nmust be getting more vague―――"
-        },
-        {
-            "text": "The reality that the 『Prix de l'Arc de Triomphe』 was a huge \nchallenge was becoming more clear, and this time's loss was a \nbigger shock than she expected."
-        },
-        {
-            "text": "……Got it. In that case, let's change our approach. \nFocusing on domestic races also still has its merits.",
-            "name": "<username>"
-        },
-        {
-            "text": "And then we'll properly observe the 『Prix de l'Arc de Triomphe』. \nIt's a chance to get a good look at that stage, since it's not \nlike you won't have a second chance.",
-            "name": "<username>"
-        },
-        {
-            "text": "And then we'll properly observe the 『Prix de l'Arc de Triomphe』. \nIt's a chance to get a good look at that stage, since it's not \nlike you won't have a second chance.",
-            "name": "<username>"
-        },
-        {
-            "text": "……Okay.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Haa……Haaa……Haaa……Haaa……Haaaa!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Spuuuuuurtーー!!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Haa……Haaa……Huuu～……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "(Ring! Ring!)"
-        },
-        {
-            "text": "Allo～!? Bonjouuuur!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『Hello, El. Are you, perhaps, in the middle of training?』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I was just about to take a break! My stomach is growling!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『Fufuu, I'm glad you sound fine』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass, good job at the 『Takarazuka Kinen』! \nThe last straight was really astonishing, amazing, and exciting!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "It was really impactful, it makes me not want \nto lose to you and unable to stay still!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『Well, well, I'm honored you feel that way』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Spe-chan and El, and everyone else, because they showed me their \nrunning, I was able to keep my dream in mind.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Someday, I'll repay this debt. \nMy dream――by perfecting my run, and standing at the top.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "『Wow! As usual, you're burning with fighting spirit, huh!』",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……El too, it's almost time for you to challenge the strongest.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "The 『Prix de l'Arc de Triomphe』 is only 3 months away, \nuntil then I'll keep on getting stronger!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "And then my dream――I'll prove that I'm the world's strongest!!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『……If you're in that condition, then you'll \nbe able to give it your all it seems』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "My all, is it――",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Everyone! For seeing me off I'm thankful, \ninspired, and filled with emotion!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Are you really okay with us not going with you to the airport?",
-            "name": "Special Week"
-        },
-        {
-            "text": "Bueno! Isn't today a weekday? \nEveryone needs to go study properly!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Leave it to me! I'll study enough for El-chan, \nand I'll liven up Japan's races enough for El's part too!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Having a classmate that's challenging the \nworld, it kind of makes me proud too.",
-            "name": "King Halo"
-        },
-        {
-            "text": "I'm looking forward to hearing the news about your exploits. \nI'll show you that my exploits can reach even France!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Ehehe, I'll do my best!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Alright, in that case……I need to get going……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Really……I need to get going……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "…………",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……El, you still have a little bit more time left, don't you?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Que……?",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Fufuu, in that case, to cheer you up――",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "What the heck is this～～!?",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Like I said, it's to cheer you up～ \nAlright, face forward and focus, okay?",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "So this is how we're sending her off, is it? \nFufuu, how interesting!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Allllright! We'll send her off with all we've got!! \nUooooooooooh～～～～!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Me too! Daaaaaaa～～!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Oh～ oh～, things are heating up, huh～?",
-            "name": "Seiun Sky"
-        },
-        {
-            "text": "Wait, wait!? Are we running for real!?",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Haaa……haaa……El, please show us.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "The run of someone aiming for world's strongest, show us……!",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "……！",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……El is an Uma Musume aiming for world's strongest……! \nSomething like hesitating is……!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Just watch me! Yaaaaaaa～～～～!!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "……I left all my worries back in Japan. The 『Prix de l'Arc de \nTriomphe』, I'll be challenging it with all my strength!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "『Yes, make sure to show me a grand performance』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "『And after that……I'm looking forward \nto running a race with that El♪』",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Ehehe, yeah!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Finally, the day that the Japanese Uma Musume, El Condor Pasa, \nchallenges those at the world's apex has arrived.",
-            "name": "Announcer"
-        },
-        {
-            "text": "Of course she's being cheered on through the broadcast, \nbut here in France the voice of 2000 supporters \ncan be heard pushing her forward.",
-            "name": "Announcer"
-        },
-        {
-            "text": "…………",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "El Condor Pasa, will she be the first to accomplish this \nhistoric feat that no other Japanese Uma Musume has so far?",
-            "name": "Announcer"
-        },
-        {
-            "text": "(……My dream, to prove that I'm the \nworld's strongest on this stage……)",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "And here, the Uma Musume who has garnered \nthe most attention enters the paddock!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Until now out of 7 races, 6 wins and one 2nd place finish! \nCalled France's strongest, Montjeu, makes her appearance!",
-            "name": "Announcer"
-        },
-        {
-            "text": "……Fuu.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "Montjeu……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "El Condor Pasa, I'm well aware of your accomplishments. And that \nafter a long campaign, you've come to try and win this race too.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "The true strength of Japan's Uma Musume, \nby all means show it to me here.",
-            "name": "Montjeu"
-        },
-        {
-            "text": "You don't need to tell me, I'll show you more than that……!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "<Let's both have a good race>",
-            "name": "Montjeu"
-        },
-        {
-            "text": "The world's most prominent race, the 『Prix de l'Arc de \nTriomphe』…… against other world class Uma Musume, and France's \nstrongest, Montjeu……",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "The stage is set. I've done my best, and will bring all my \nstrength to bear, for my dream――to be the world's strongest!",
-            "name": "El Condor Pasa"
-        },
-        {
-            "text": "Will Japan's El Condor Pasa be the first to defeat the world's \nstrongest opponents, including Montjeu, and grasp victory!?",
-            "name": "Announcer"
-        },
-        {
-            "text": "Finally, the Uma Musume leave the paddock and head \ntowards the stage of the 『Prix de l'Arc de Triomphe』……!",
-            "name": "Announcer"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "…………",
+      "name": "Special Week"
+    },
+    {
+      "text": "……Grass Wonder emang kuat banget, tapi tetep aja Spe, kamu udah lari bagus kok.",
+      "name": "<username>"
+    },
+    {
+      "text": "Kalau kamu masih mau coba lagi, ada caranya.  
+Atau kita mundur aja dari [Prix de l'Arc de Triomphe]……",
+      "name": "<username>"
+    },
+    {
+      "text": "Kondisiku sebenernya oke, latihannya juga lancar,  
+aku udah kasih semua tenagaku buat lari.",
+      "name": "Special Week"
+    },
+    {
+      "text": "……tapi tetep aja dia bisa nyalip aku, terus makin jauh ninggalin,  
+aku nggak bisa ngejar Grass-chan.",
+      "name": "Special Week"
+    },
+    {
+      "text": "……Dengan keadaanku sekarang, sekalipun ikut 『Prix de l'Arc de Triomphe』,  
+pasti nggak mungkin aku bisa menang……",
+      "name": "Special Week"
+    },
+    {
+      "text": "Mimpinya buat jadi \"Uma Musume nomor satu di Jepang\" kayak makin samar―――"
+    },
+    {
+      "text": "Kenyataannya kalau 『Prix de l'Arc de Triomphe』 itu tantangan besar banget makin jelas,  
+dan kekalahan kali ini lebih nyakitin dari yang dia kira."
+    },
+    {
+      "text": "……Oke deh. Kalau gitu, kita ubah aja pendekatannya.  
+Fokus ke balapan domestik juga ada bagusnya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Terus nanti kita amati baik-baik 『Prix de l'Arc de Triomphe』.  
+Anggap aja kesempatan buat lihat langsung panggung itu,  
+kan masih ada kesempatan lain nanti.",
+      "name": "<username>"
+    },
+    {
+      "text": "……Iya.",
+      "name": "Special Week"
+    },
+    {
+      "text": "Haa……Haaa……Haaa……Haaa……Haaaa!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Sppuuuuuuurtーー!!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Haa……Haaa……Huuu～……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "(Kring! Kring!)"
+    },
+    {
+      "text": "Allo～!? Bonjouuuur!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Halo, El. Lagi latihan ya barusan?』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku baru mau istirahat! Perutku udah keroncongan!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Fufuu, syukurlah kedengerannya kamu baik-baik aja』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Grass, keren banget kamu di 『Takarazuka Kinen』!  
+Lurus terakhirnya bener-bener bikin merinding, mantap banget!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Itu bener-bener ngasih kesan kuat, bikin aku nggak mau kalah sama kamu,  
+jadi nggak bisa diem aja!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Wah, aku terhormat kamu mikir gitu』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Spe-chan, El, sama yang lain juga,  
+karena kalian nunjukkin larinya, aku jadi bisa terus inget sama mimpiku.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Suatu saat, aku bakal balas budi ini.  
+Mimpiku――dengan nyempurnain lari dan berdiri di puncak.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "『Woooow! Kayak biasa ya, semangat bertarungmu tetep menyala-nyala!』",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……El juga, bentar lagi waktunya kamu nantangin yang terkuat.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "『Prix de l'Arc de Triomphe』 tinggal 3 bulan lagi,  
+sampe saat itu aku bakal terus makin kuat!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Terus mimpiku――Aku bakal buktiin kalau aku emang yang terkuat di dunia!!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『……Kalau kamu semangatnya gitu, kayanya kamu bisa kasih segalanya』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Segalanya ya――",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Semuanya! Makasih udah nganterin aku, aku jadi makin semangat dan terharu!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Beneran nggak apa-apa kita nggak nganterin ke bandara?",
+      "name": "Special Week"
+    },
+    {
+      "text": "Bueno! Hari ini hari biasa kan? Kalian harus belajar yang rajin!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Tenang aja! Aku bakal belajar cukup buat El-chan,  
+dan bikin balapan Jepang makin rame juga buat gantinya El!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Punya temen sekelas yang nantang dunia tuh rasanya bikin bangga juga sih.",
+      "name": "King Halo"
+    },
+    {
+      "text": "Aku bakal tunggu kabar keberhasilanmu.  
+Aku juga bakal buktiin kalau prestasiku bisa nyampe ke Prancis!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Ehehe, aku bakal berusaha keras!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Kalau gitu……aku berangkat ya……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Beneran……aku harus berangkat……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "…………",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……El, kamu masih ada waktu dikit lagi kan?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Que……?",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Fufuu, kalau gitu, biar aku kasih semangat――",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Apaan iniii～～!?",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Kayak yang kubilang, ini buat nyemangatin kamu～  
+Ayo, hadap depan dan fokus ya?",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Jadi gini caranya kita nganterin dia ya? Fufuu, menarik juga!",
+      "name": "King Halo"
+    },
+    {
+      "text": "Okeeee! Kita kasih semangat buat dia bareng-bareng!!  
+Uoooooooooh～～～～!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Aku juga! Daaaaaaa～～!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Oh～ oh～, makin panas aja nih suasananya～?",
+      "name": "Seiun Sky"
+    },
+    {
+      "text": "Eh bentar!? Kita beneran lari!?",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Haaa……haaa……El, tolong tunjukkin ke kita.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Larinya seseorang yang ngejar gelar terkuat di dunia, tunjukkin……!",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "……！",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……El ini Uma Musume yang tujuannya jadi terkuat di dunia……!  
+Ragu-ragu tuh……!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Liat aja aku! Yaaaaaaa～～～～!!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "……Aku tinggalin semua kekhawatiran di Jepang.  
+『Prix de l'Arc de Triomphe』, bakal kucoba dengan seluruh kekuatanku!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "『Iya, pastiin kamu kasih pertunjukan yang hebat ya』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "『Dan setelah itu……aku nggak sabar buat balapan bareng El yang itu♪』",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Ehehe, iya!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Akhirnya, hari di mana Uma Musume Jepang, El Condor Pasa,  
+nantangin puncak dunia pun tiba.",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Tentu aja dia dapet dukungan lewat siaran,  
+tapi di Prancis sendiri suara 2000 supporter terdengar nyorakin dia.",
+      "name": "Penyiar"
+    },
+    {
+      "text": "…………",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "El Condor Pasa, apa dia bakal jadi yang pertama berhasil raih prestasi bersejarah  
+yang belum pernah dicapai Uma Musume Jepang lain?",
+      "name": "Penyiar"
+    },
+    {
+      "text": "(……Mimpiku, buktiin kalau aku yang terkuat di dunia, di panggung ini……)",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Dan inilah, Uma Musume yang paling ditunggu-tunggu masuk ke paddock!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dari 7 balapan, 6 kali menang dan sekali posisi 2!  
+Dijulukin Uma Musume terkuat Prancis, Montjeu, akhirnya muncul!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "……Fuu.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Montjeu……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "El Condor Pasa, aku tau betul prestasimu.  
+Dan setelah kampanye panjang, kamu juga dateng buat coba menang di sini.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Kekuatan sejati Uma Musume Jepang, tunjukkin ke aku di sini.",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Nggak usah disuruh, aku bakal tunjukkin lebih dari itu……!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "<Mari kita kasih balapan terbaik>",
+      "name": "Montjeu"
+    },
+    {
+      "text": "Balapan paling bergengsi di dunia, 『Prix de l'Arc de Triomphe』……  
+lawan Uma Musume kelas dunia lain, dan juga yang terkuat di Prancis, Montjeu……",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Panggungnya udah siap. Aku udah usaha sekuat tenaga,  
+dan bakal keluarin semua kemampuanku, demi mimpiku――  
+jadi yang terkuat di dunia!",
+      "name": "El Condor Pasa"
+    },
+    {
+      "text": "Apa El Condor Pasa dari Jepang bakal jadi yang pertama ngalahin lawan-lawannya yang terkuat,  
+termasuk Montjeu, dan rebut kemenangan!?",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Akhirnya, para Uma Musume keluar dari paddock  
+dan menuju ke panggung 『Prix de l'Arc de Triomphe』……!",
+      "name": "Penyiar"
+    }
+  ]
 }

@@ -1,24 +1,24 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "October, France――"
-        },
-        {
-            "text": "In the race called the greatest turf race in the world, \nthe world's most preeminent Uma Musume have gathered.",
-            "name": "Commentator"
-        },
-        {
-            "text": "Will the one to stand at the top be \nJapan's hero, El Condor Pasa or――",
-            "name": "Commentator"
-        },
-        {
-            "text": "Will it be France's strongest Uma Musume, Montjeu！？",
-            "name": "Commentator"
-        },
-        {
-            "text": "The [Prix de l'Arc de Triomphe], starts―― Now!!",
-            "name": "Commentator"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Oktober, Prancis――"
+    },
+    {
+      "text": "Di balapan yang disebut sebagai lomba rumput paling bergengsi di dunia, \nUma Musume terbaik dari seluruh dunia udah kumpul di sini.",
+      "name": "Komentator"
+    },
+    {
+      "text": "Apakah yang bakal berdiri di puncak itu \npahlawan Jepang, El Condor Pasa, atau――",
+      "name": "Komentator"
+    },
+    {
+      "text": "Apakah dia bakal jadi Uma Musume terkuat Prancis, Montjeu！？",
+      "name": "Komentator"
+    },
+    {
+      "text": "[Prix de l'Arc de Triomphe], dimulai―― Sekarang!!",
+      "name": "Komentator"
+    }
+  ]
 }

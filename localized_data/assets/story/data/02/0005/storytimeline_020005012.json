@@ -1,249 +1,249 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "A harsh, cold day on the Training Course in January-"
-        },
-        {
-            "text": "There, lots of Classic grade Uma Musume spend their days training \nin prepartion for the Classic Cup starting in the spring."
-        },
-        {
-            "text": "If you want to challenge Classic Races, you only have a few \nchances in spring to get results! The fight has already begun!",
-            "name": "Veteran Trainer A"
-        },
-        {
-            "text": "Yes! Trainer!",
-            "name": "Horsegirl A"
-        },
-        {
-            "text": "Oh man, everyone's getting all fired up.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Classic races can only be challenged that one year you're in \nClassic grade, and if you don't, there's no second chances.",
-            "name": "<username>"
-        },
-        {
-            "text": "Classic races can only be challenged that one year you're in \nClassic grade, and if you don't, there's no second chances.",
-            "name": "<username>"
-        },
-        {
-            "text": "Yes, that's why so many Uma Musume aspire to and aim for them.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Buuuuut, we have someone here who took all \nthose precious Classic Races for herself.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "…don't say it like I'm the bad guy here.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "Even you could grab hold of that glory, if you ran seriously.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Hey! I'm always serious though! \nObviously I plan on winning a Classic Race or two!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "(WHOOOOOOOOOOA!!!)"
-        },
-        {
-            "text": "See, can't you hear that? The loud cheering from \nfans expecting big things from GolShi-chan!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "What are they cheering for? \nThere must be something exciting happening over there.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Are you ignoring me?!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Haa… haa… fuu…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "She beat her best time again!",
-            "name": "Reporter A"
-        },
-        {
-            "text": "I had heard there was a promising newcomer Debuting soon, and it \ndefinitely looks like she has plenty of potential!",
-            "name": "Reporter B"
-        },
-        {
-            "text": "Keep it up, Suzuka. \nThat speed you have is wonderful.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "For now, let's gather experience for your Debut \nrace, and polish that specialty of yours.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "Yes, understood.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "They're cheering for… Suzuka, it seems.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "You know her?",
-            "name": "<username>"
-        },
-        {
-            "text": "You know her?",
-            "name": "<username>"
-        },
-        {
-            "text": "What, you don't know her? Remember how there was \nthat one girl, rumored to have tons of potential, \nthat was absent when we enrolled? ",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Her Debut is finally coming up. I'm looking forward to the race.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "The second time I heard Silence Suzuka's name come up, was \nseveral weeks later at the Kyoto race course."
-        },
-        {
-            "text": "There are alot of media people here, huh? \nYou're also here for Silence Suzuka's debut, aren't you?",
-            "name": "Reporter A"
-        },
-        {
-            "text": "Of course! We have 4 cameramen waiting. What kind of run are you \nexpecting that that new star will show us?",
-            "name": "Reporter C"
-        },
-        {
-            "text": "Sounds like today is Silence Suzuka's debut race."
-        },
-        {
-            "text": "Even in school there are rumors about her, I wonder \nwhat she's like? While thinking that-"
-        },
-        {
-            "text": "You're <Siruis>'s trainer, right?",
-            "name": "Air Groove",
-            "choice_data_list": [
-                "And you're…",
-                "And you're…"
-            ]
-        },
-        {
-            "text": "I'm Air Groove. Student Council Vice President. \nYou've probably at least heard the name, haven't you?",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Just like a normal school, Tracen Academy has a student council, \nwho's role is to support the students on behalf of the school."
-        },
-        {
-            "text": "Speaking of which, Narita Brian is also a member \nof the student council. It's so unexpected that \nsometimes the team members tease her about it."
-        },
-        {
-            "text": "If I recall correctly, nobody from ＜Sirius＞ is participating today… \nAre you perhaps here to see Suzuka's race?",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Nah, we're just here by coincidence. \nHow about you, are you here to see Silence Suzuka's race?",
-            "name": "<username>"
-        },
-        {
-            "text": "Nah, we're just here by coincidence. \nHow about you, are you here to see Silence Suzuka's race?",
-            "name": "<username>"
-        },
-        {
-            "text": "Suzuka is an acquaintance of mine. \nOn top of that, she has the attention of the student council.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "The Student Council's attention…?",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, it seems President Rudolph also \nhas high expectations for her.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Oh?…She's got Student Council President Symboli \nRudolph's attention? I'm suddenly becoming more \ninterested in Silence Suzuka's race now.",
-            "name": "<username>"
-        },
-        {
-            "text": "Oh?…She's got Student Council President Symboli \nRudolph's attention? I'm suddenly becoming more \ninterested in Silence Suzuka's race now.",
-            "name": "<username>"
-        },
-        {
-            "text": "And when I saw her running with my own eyes, \nmy interest only began to increase further-"
-        },
-        {
-            "text": "Silence Suzuka is still in the lead entering the final corner!",
-            "name": "Commentator"
-        },
-        {
-            "text": "And she increases her lead even further! \nSilence Suzuka, accelerates even more in to the final straight!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Only 200m remain! Silence Suzuka continues to extend her lead!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Silence Suzuka led from start to finish, and her sprint on the \nstraight increased her lead even further."
-        },
-        {
-            "text": "So strong!! 5 lengths, 6 lengths!! \nHow much more does she intend to extend her lead?!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Silence Suzuka, reaches the goal!! \nShe's marked her debut with a victory!!",
-            "name": "Commentator"
-        },
-        {
-            "text": "Of course I was surprised by her strength, \nbut what left a bigger impression was-"
-        },
-        {
-            "text": "All right! You did it Suzuka!",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Ah… ahem. \nHow was it? Suzuka's run, that is.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Yeah…! Her run was awesome, but more than that-",
-            "name": "<username>",
-            "choice_data_list": [
-                "<size=37>She looked like she was having so much fun!</size>",
-                "<size=37>She looked like she was having so much fun!</size>"
-            ]
-        },
-        {
-            "text": "Yeah…! Her run was awesome, but more than that-",
-            "name": "<username>",
-            "choice_data_list": [
-                "<size=37>She looked like she was having so much fun!</size>",
-                "<size=37>She looked like she was having so much fun!</size>"
-            ]
-        },
-        {
-            "text": "Having fun…?",
-            "name": "Air Groove"
-        },
-        {
-            "text": "I see. So ＜Sirius＞'s trainer… \nCan sense that kind of thing.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "(WHOOOOOOOOOOOOOOOOOOOOAAAAA!!!!!!)"
-        },
-        {
-            "text": "Haa… haaa…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…Fufuu.",
-            "name": "Silence Suzuka"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hari dingin yang menusuk di lintasan latihan bulan Januari—"
+    },
+    {
+      "text": "Di sana, banyak gadis kuda kelas Classic ngabisin hari-hari mereka latihan buat persiapan Classic Cup yang dimulai pas musim semi."
+    },
+    {
+      "text": "Kalau mau ikut balapan Classic, kesempatanmu cuma beberapa kali doang pas musim semi!\nJadi sebenarnya pertarungan udah dimulai dari sekarang!",
+      "name": "Trainer Veteran A"
+    },
+    {
+      "text": "Siap, Trainer!",
+      "name": "Gadis kuda A"
+    },
+    {
+      "text": "Waduh, semua orang semangat banget ya.",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Balapan Classic cuma bisa dicoba pas kamu ada di kelas Classic itu aja, dan kalau nggak… ya udah, nggak ada kesempatan kedua.",
+      "name": "<username>"
+    },
+    {
+      "text": "Balapan Classic cuma bisa dicoba pas kamu ada di kelas Classic itu aja, dan kalau nggak… ya udah, nggak ada kesempatan kedua.",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, makanya banyak banget gadis kuda yang ngincer dan ngejar kesempatan itu.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Tapiii, di sini ada satu orang yang dulu nyapu bersih semua balapan Classic yang berharga itu.",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "…jangan ngomong kayak aku penjahat aja gitu.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Kalau kamu mau serius, kamu juga bisa kok dapetin kejayaan itu.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Eh!? Aku selalu serius loh!\nUdah pasti aku bakal menang satu atau dua balapan Classic!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "(WOOOOOOOOOO!!!)"
+    },
+    {
+      "text": "Tuh liat, kedengeran kan? Sorakan keras dari para fans yang berharap besar sama GolShi-chan!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Mereka nyorakin apa sih?\nPasti ada sesuatu yang seru banget di sana.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Hah!? Kamu ngecuekin aku ya?!",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Haa… haa… fuu…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Dia pecahin rekor waktunya lagi!",
+      "name": "Reporter A"
+    },
+    {
+      "text": "Aku denger ada pendatang baru yang katanya berbakat banget bakal debut,\ndan ternyata bener, dia keliatan punya potensi gede!",
+      "name": "Reporter B"
+    },
+    {
+      "text": "Mantap, Suzuka.\nKecepatanmu bener-bener luar biasa.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Untuk sekarang, ayo kumpulin pengalaman dulu buat debutmu,\nsambil ngasah keahlian spesialmu itu.",
+      "name": "Trainer Suzuka"
+    },
+    {
+      "text": "Iya, siap.",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "Jadi mereka sorakin… Suzuka rupanya.",
+      "name": "Narita Brian"
+    },
+    {
+      "text": "Kamu kenal dia?",
+      "name": "<username>"
+    },
+    {
+      "text": "Kamu kenal dia?",
+      "name": "<username>"
+    },
+    {
+      "text": "Hah? Kamu nggak tau? Ingat nggak, ada satu gadis yang digosipin punya bakat gede,\ntapi nggak keliatan pas kita masuk sekolah dulu?",
+      "name": "Gold Ship"
+    },
+    {
+      "text": "Akhirnya debutnya bentar lagi. Aku sih nggak sabar nungguin balapannya.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Kedua kalinya aku denger nama Silence Suzuka, itu beberapa minggu kemudian di arena balap Kyoto."
+    },
+    {
+      "text": "Wah rame banget media di sini ya?\nKamu juga datang buat liat debutnya Silence Suzuka kan?",
+      "name": "Reporter A"
+    },
+    {
+      "text": "Tentu aja! Kita sampai bawa 4 kameramen.\nMenurutmu si bintang baru ini bakal nunjukin lari kayak gimana?",
+      "name": "Reporter C"
+    },
+    {
+      "text": "Jadi hari ini debutnya Silence Suzuka ya."
+    },
+    {
+      "text": "Bahkan di sekolah aja udah banyak gosip tentang dia.\nAku jadi penasaran, sambil mikirin itu—"
+    },
+    {
+      "text": "Kamu trainer ＜Sirius＞ kan?",
+      "name": "Air Groove",
+      "choice_data_list": [
+        "Dan kamu…",
+        "Dan kamu…"
+      ]
+    },
+    {
+      "text": "Aku Air Groove. Wakil Ketua OSIS.\nKamu pasti pernah denger namaku kan?",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Sama kayak sekolah biasa, Akademi Tracen juga punya OSIS,\nyang tugasnya nge-support murid-murid atas nama sekolah."
+    },
+    {
+      "text": "Ngomong-ngomong, Narita Brian juga anggota OSIS loh.\nAgak nggak nyangka sih, makanya kadang temen satu tim suka ngeledekin dia."
+    },
+    {
+      "text": "Kalau nggak salah, nggak ada anggota ＜Sirius＞ yang ikut hari ini…\nApa kamu sengaja datang buat liat Suzuka?",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Ah nggak, kebetulan aja kami mampir.\nKalau kamu, memang khusus datang buat liat Suzuka?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ah nggak, kebetulan aja kami mampir.\nKalau kamu, memang khusus datang buat liat Suzuka?",
+      "name": "<username>"
+    },
+    {
+      "text": "Suzuka itu kenalanku.\nSelain itu, dia juga lagi dapet perhatian dari OSIS.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Perhatian dari OSIS…?",
+      "name": "<username>"
+    },
+    {
+      "text": "Iya, kayaknya Presiden Rudolph juga punya ekspektasi tinggi sama dia.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Oh ya?\nSampai ketua OSIS Symboli Rudolph aja perhatiin dia?\nAku jadi makin penasaran sama balapan Silence Suzuka.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oh ya?\nSampai ketua OSIS Symboli Rudolph aja perhatiin dia?\nAku jadi makin penasaran sama balapan Silence Suzuka.",
+      "name": "<username>"
+    },
+    {
+      "text": "Dan pas aku liat sendiri cara dia berlari, rasa penasaranku makin besar lagi—"
+    },
+    {
+      "text": "Silence Suzuka masih di depan pas masuk tikungan terakhir!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dan dia malah nambah jarak lagi!\nSilence Suzuka makin kenceng pas masuk ke lurusan terakhir!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Tinggal 200 meter lagi! Silence Suzuka masih terus ninggalin lawan-lawannya!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Dari awal sampai akhir Suzuka nggak pernah kegeser,\ndan di lurusan dia malah makin jauh meninggalkan!"
+    },
+    {
+      "text": "Kuat banget!! 5 panjang badan, 6 panjang badan!!\nSebenernya dia mau ninggalin sejauh apa sih?!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Silence Suzuka melewati garis finis!!\nDia ngebuktiin debutnya dengan kemenangan telak!!",
+      "name": "Komentator"
+    },
+    {
+      "text": "Aku kaget banget sama kekuatannya,\ntapi yang lebih bikin kesan mendalam adalah—"
+    },
+    {
+      "text": "Mantap! Kamu berhasil Suzuka!",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Ah… ehem.\nGimana menurutmu? Cara Suzuka berlari tadi.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Iya…! Larinya keren banget, tapi lebih dari itu—",
+      "name": "<username>",
+      "choice_data_list": [
+        "Dia keliatan kayak lagi seneng banget!",
+        "Dia keliatan kayak lagi seneng banget!"
+      ]
+    },
+    {
+      "text": "Iya…! Larinya keren banget, tapi lebih dari itu—",
+      "name": "<username>",
+      "choice_data_list": [
+        "Dia keliatan kayak lagi seneng banget!",
+        "Dia keliatan kayak lagi seneng banget!"
+      ]
+    },
+    {
+      "text": "Seneng…?",
+      "name": "Air Groove"
+    },
+    {
+      "text": "Begitu ya. Jadi trainer ＜Sirius＞… bisa ngerasain hal kayak gitu.",
+      "name": "Air Groove"
+    },
+    {
+      "text": "(WOOOOOOOOOOOOOOOOAAAAAAA!!!!!!)"
+    },
+    {
+      "text": "Haa… haaa…",
+      "name": "Silence Suzuka"
+    },
+    {
+      "text": "…Fufufu.",
+      "name": "Silence Suzuka"
+    }
+  ]
 }

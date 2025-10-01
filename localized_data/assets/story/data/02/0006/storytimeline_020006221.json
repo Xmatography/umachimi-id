@@ -1,259 +1,179 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "My predecessor retired and decided to \nput me in charge of Team ＜Sirius＞."
-        },
-        {
-            "text": "In the beginning, I was just desperate \nto put the team back together, but―"
-        },
-        {
-            "text": "One by one, Uma Musume joined along with their dreams."
-        },
-        {
-            "text": "As part of the team, I learned that my role as trainer was to \nsupport those dreams."
-        },
-        {
-            "text": "To spend the days side-by-side with \nthem as they chased their dreams."
-        },
-        {
-            "text": "And going forward, that's how Team ＜Sirius＞ would continue on―"
-        },
-        {
-            "text": "So you were here, Trainer-san. There's still some time until the \nmain race will start.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "\"Japan's #1 Uma Musume\" is taking the stage, \nso I wanted to see it from up close.",
-            "name": "<username>"
-        },
-        {
-            "text": "……Fufuu, the current ＜Sirius＞ started here too, \non this stage, in this place, didn't it?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "It felt like an instant, but it also felt like forever ago…… \nIt's a really mysterious feeling.",
-            "name": "<username>"
-        },
-        {
-            "text": "It felt like an instant, but it also felt like forever ago…… \nIt's a really mysterious feeling.",
-            "name": "<username>"
-        },
-        {
-            "text": "……truly, that's how it felt.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "……at that time, I'm grateful that you remained, McQueen.",
-            "name": "<username>"
-        },
-        {
-            "text": "……at that time, I'm grateful that you remained, McQueen.",
-            "name": "<username>"
-        },
-        {
-            "text": "Because you were here, I was able to come this far.",
-            "name": "<username>"
-        },
-        {
-            "text": "Because you were here, I was able to come this far.",
-            "name": "<username>"
-        },
-        {
-            "text": "I should be the one saying that― \nand I'm sure everyone on the team feels the same.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Because Trainer-san was there, always supporting the Uma Musume \nand their dreams, we were able to continue running up until now.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Because Trainer-san was there, we are still running today.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "……still running today, huh.",
-            "name": "<username>"
-        },
-        {
-            "text": "The biggest event closing out the year, the 『Arima Kinen』. \n14 Uma Musume have come to this stage to compete.",
-            "name": "Announcer"
-        },
-        {
-            "text": "In this battle of the century, half of the participants \nare G1 Uma Musume. The excitement of the spectators \nin the stands is palpable.",
-            "name": "Announcer"
-        },
-        {
-            "text": "Just which Uma Musume will take hold of glory in this Grand Prix?",
-            "name": "Announcer"
-        },
-        {
-            "text": "To think I'd be standing here on such a big stage like a Grand \nPrix race, just a little while ago I never would have imagined it.",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Tsuru-chan.",
-            "name": "Special Week"
-        },
-        {
-            "text": "Even now, I'm still a little frustrated that \nI couldn't enter any Classic races……",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "President Rudolph― a \"Triple Crown Uma Musume\", \nI couldn't help admiring her, and being in a Classic \nrace was my dream when I was small.",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "『Satsuki Sho』 『Japan Derby』 『Kikka Sho』…… being unable to stand \non that once in a lifetime stage even once……",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "But you know, even though I couldn't fulfill that dream, \nin exchange a newer, bigger dream took its place.",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "That I would definitely, definitely run together with everyone!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "I would do my best, catch up, and run with \neveryone― and then I wanted to win!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "All of this is because I was able to keep watching \nSpe-chan and everyone else continue running! \nIt's because you showed me that dream!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "That's why, today, in this moment, \nI'm going to run with all I've got!",
-            "name": "Tsurumaru Tsuyoshi"
-        },
-        {
-            "text": "Yeah! Me too, I'll be running with all my strength!",
-            "name": "Special Week"
-        },
-        {
-            "text": "……Suu～…… Huu～……",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "For the sake of this day, I've continued working hard―",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Together with Ryan-oneesama's feelings, I'll definitely run \nthrough and take the lead.",
-            "name": "Mejiro Bright"
-        },
-        {
-            "text": "Bright-san, she's so focused……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Me too, I need to get serious……!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Thanks for waiting, Spe-chan. Finally, this day has come.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Grass-chan……",
-            "name": "Special Week"
-        },
-        {
-            "text": "Your run at the 『Japan Cup』, was truly wonderful. \nAs you promised, you became the Uma Musume \nthat I want to win against the most.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "I'll show you that I can chase and surpass \nyou, to take hold of my own dream.",
-            "name": "Grass Wonder"
-        },
-        {
-            "text": "Me too, this time for sure, I'll show you that I can surpass you!",
-            "name": "Special Week"
-        },
-        {
-            "text": "As \"Japan's #1 Uma Musume\", I'll win against Grass-chan!",
-            "name": "Special Week"
-        },
-        {
-            "text": "Nakayama's main race, the 『Arima Kinen』, \nthe participating Uma Musume make their appearance on the turf!",
-            "name": "Announcer"
-        },
-        {
-            "text": "'The one to overturn the \"Golden Generation\" \nwill be me!' T. M. Opera O!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Hidden deep within her heart is an impassioned pride! \nThe Mejiro family's preeminent stayer, Mejiro Bright!",
-            "name": "Announcer"
-        },
-        {
-            "text": "This Uma Musume doesn't know the meaning of the words 'giving \nup'! The late-bloomer, and secret weapon of the \"Golden \nGeneration\", Tsurumaru Tsuyoshi!",
-            "name": "Announcer"
-        },
-        {
-            "text": "The returnee with the lovely chestnut hair, but within her heart \ndwells the Japanese spirit! The \"Monster\" with 2 consecutive \nGrand Prix victories, Grass Wonder!",
-            "name": "Announcer"
-        },
-        {
-            "text": "And finally, carrying the dreams of all of Japan, and grasping a \nsplendid victory, the \"Supreme Commander of Japan\", Special Week!",
-            "name": "Announcer"
-        },
-        {
-            "text": "Oh! Spe's finally made her appearance!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "It looks like…… she isn't nervous at all.",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Rather than that, she looks more dignified!",
-            "name": "Bob-cut Uma Musume"
-        },
-        {
-            "text": "As expected of \"Japan's #1 Uma Musume\"～! \nLet's cheer with all we've got!",
-            "name": "Uma Musume with Bangs"
-        },
-        {
-            "text": "Yeah! Do your beeeeeest～ Spe-chaaaaan～! Uoooooooh～!!!!",
-            "name": "Winning Ticket"
-        },
-        {
-            "text": "Do your best～ \"Supreme Commander of Japan\"～!",
-            "name": "Droopy-eyed Uma Musume"
-        },
-        {
-            "text": "Trainer-san, you should try calling out to her too.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "So that Special Week-san can once again become \"Japan's #1 Uma \nMusume\" for everyone.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yes, so that the mantle created by ＜Sirius＞ so far, \ncan carry on with another amazing race……",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I wonder what the next one to join the team will be like.",
-            "name": "Narita Brian"
-        },
-        {
-            "text": "……no matter what dream the next girl brings, I'll do my best to \nmake sure we can fulfill that dream, together.",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, let's all cheer her on!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah, show them what ＜Sirius＞ can really do, Spe!",
-            "name": "<username>"
-        },
-        {
-            "text": "Yeah, show them what ＜Sirius＞ can really do, Spe!",
-            "name": "<username>"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Pelatih sebelumnya pensiun dan milih aku buat mimpin Tim ＜Sirius＞."
+    },
+    {
+      "text": "Awalnya aku cuma panik gimana caranya nyatuin tim lagi, tapi―"
+    },
+    {
+      "text": "Satu per satu Uma Musume gabung bawa mimpi mereka."
+    },
+    {
+      "text": "Dari situ aku belajar, peranku sebagai pelatih adalah buat dukung mimpi-mimpi itu."
+    },
+    {
+      "text": "Nemenin mereka tiap hari pas lagi ngejar mimpi mereka."
+    },
+    {
+      "text": "Dan ke depannya, begitulah Tim ＜Sirius＞ bakal terus jalan―"
+    },
+    {
+      "text": "Jadi kamu di sini ya, Pelatih-san.\nMasih ada waktu sebelum balapan utama dimulai.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "『Uma Musume No.1 Jepang』 mau turun sekarang,\njadi aku pengen lihat langsung dari dekat.",
+      "name": "<username>"
+    },
+    {
+      "text": "……Fufuu, Tim ＜Sirius＞ yang sekarang juga mulai di sini kan,\ndi panggung ini, di tempat ini?",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Rasanya kayak sebentar banget, tapi juga kayak udah lama banget……\nAneh banget rasanya.",
+      "name": "<username>"
+    },
+    {
+      "text": "……iya, bener begitu rasanya.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "……waktu itu, aku bersyukur banget kamu tetap ada, McQueen.",
+      "name": "<username>"
+    },
+    {
+      "text": "Karena kamu ada, aku bisa sampai sejauh ini.",
+      "name": "<username>"
+    },
+    {
+      "text": "Harusnya aku yang bilang begitu―\ndan aku yakin semua anggota tim juga ngerasain hal yang sama.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Karena Pelatih-san selalu ada, selalu dukung Uma Musume dan mimpi mereka,\nkita bisa terus lari sampai sekarang.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Karena Pelatih-san ada, sampai sekarang pun kita masih berlari.",
+      "name": "Mejiro McQueen"
+    },
+    {
+      "text": "……masih berlari sampai sekarang ya.",
+      "name": "<username>"
+    },
+    {
+      "text": "Event terbesar penutup tahun, 『Arima Kinen』!\n14 Uma Musume udah hadir di panggung ini buat bersaing!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Di pertarungan abad ini, setengah pesertanya adalah Uma Musume G1!\nSorakan penonton di tribun udah kerasa banget semangatnya!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Kira-kira siapa Uma Musume yang bakal pegang kejayaan di Grand Prix ini!?",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Siapa sangka aku bisa berdiri di panggung gede kayak balapan Grand Prix,\npadahal dulu nggak pernah kebayang sama sekali.",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Sampai sekarang aku masih agak nyesek karena nggak bisa ikut balapan Classic mana pun……",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Presiden Rudolph― Uma Musume Triple Crown, aku kagum banget sama dia,\ndan sejak kecil mimpiku ya bisa ikut balapan Classic.",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "『Satsuki Sho』 『Japan Derby』 『Kikka Sho』……\nnggak bisa berdiri di panggung sekali seumur hidup itu aja satupun……",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Tapi tau nggak, meskipun aku gagal wujudin mimpi itu,\nsebagai gantinya ada mimpi baru yang lebih besar.",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Aku pengin banget, pokoknya harus, bisa lari bareng semuanya!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Aku bakal berusaha, ngejar, lari bareng semuanya― dan aku pengin menang!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Semua ini gara-gara aku terus lihat Spe-chan dan yang lain terus berlari!\nKalian nunjukin mimpi itu ke aku!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Makanya, hari ini, detik ini, aku bakal lari dengan sekuat tenaga!",
+      "name": "Tsurumaru Tsuyoshi"
+    },
+    {
+      "text": "Iya! Aku juga bakal lari dengan semua tenagaku!",
+      "name": "Special Week"
+    },
+    {
+      "text": "……Suu～…… Huu～……",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Demi hari ini, aku terus latihan keras―",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Bawa juga perasaan Ryan-oneesama, aku pasti bakal berlari sampai depan.",
+      "name": "Mejiro Bright"
+    },
+    {
+      "text": "Lari-mu di 『Japan Cup』, bener-bener luar biasa.\nSeperti yang kamu janjiin, kamu jadi Uma Musume yang paling pengin aku kalahkan.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku bakal nunjukin kalau aku bisa ngejar dan ngalahinmu,\nbuat raih mimpiku sendiri.",
+      "name": "Grass Wonder"
+    },
+    {
+      "text": "Aku juga, kali ini beneran, aku bakal buktiin kalau aku bisa ngalahinmu!",
+      "name": "Special Week"
+    },
+    {
+      "text": "Sebagai 『Uma Musume No.1 Jepang』, aku bakal kalahin Grass-chan!",
+      "name": "Special Week"
+    },
+    {
+      "text": "『Yang bakal ngalahin “Generasi Emas” itu aku!』 T. M. Opera O!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Tersembunyi dalam hatinya ada kebanggaan yang membara!\nStayer terbaik keluarga Mejiro, Mejiro Bright!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Uma Musume yang nggak kenal kata menyerah!\nSi telat berkembang tapi jadi senjata rahasia “Generasi Emas”, Tsurumaru Tsuyoshi!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Si kuda berambut cokelat manis yang baru balik, tapi semangat Jepangnya ada di dalam hati!\n『Monster』 dengan 2 kemenangan Grand Prix beruntun, Grass Wonder!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Dan terakhir, bawa mimpi seluruh Jepang, dan udah meraih kemenangan gemilang,\n『Panglima Tertinggi Jepang』, Special Week!",
+      "name": "Penyiar"
+    },
+    {
+      "text": "Seperti yang diharapkan dari 『Uma Musume No.1 Jepang』～!\nAyo kita kasih sorakan yang paling keras!",
+      "name": "Uma Musume with Bangs"
+    },
+    {
+      "text": "Iyaa! Semangaaaat～ Spe-chaaaaan～!\nUoooooooh～!!!!",
+      "name": "Winning Ticket"
+    },
+    {
+      "text": "Iya, tunjukin pada mereka apa yang ＜Sirius＞ bisa lakukan, Spe!",
+      "name": "<username>"
+    }
+  ]
 }

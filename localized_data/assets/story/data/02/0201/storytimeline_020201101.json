@@ -2,287 +2,288 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――Haaa, haaa, haa……!! \nAww man, I ran out of energy part way again……!",
+            "text": "Haaa, haaa, haa……!!\nAduh, di tengah jalan energiku habis lagi……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Even though I've been doing so much stamina training…… \nno, this isn't the time to be complaining! The 『Oaks』 \nis soon so I need to work hard……!",
+            "text": "Padahal aku sudah banyak latihan stamina……\nNggak, ini bukan waktunya ngeluh! 『Oaks』\nsudah dekat, jadi aku harus bersemangat……!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Hey. ……You already realized it, right? \nAbout Kraft-san.",
+            "text": "Hei. ……Kamu sudah menyadarinya, kan?\nTentang Kraft-san.",
             "name": "King Halo",
             "choice_data_list": [
-                "……I know. Aptitude, right?",
-                "……I know. Aptitude, right?"
+                "……Aku tahu. Soal bakat, kan?",
+                "……Aku tahu. Soal bakat, kan?"
             ]
         },
         {
-            "text": "(I already knew. The longer the distance, the harder it would \nbe for Kraft. The 『Oaks』, at 2400m……would be very difficult)",
+            "text": "(Aku sudah tahu. Semakin jauh jaraknya, semakin sulit\nbuat Kraft. 『Oaks』, dengan 2400m…… akan sangat sulit)",
             "name": "<username>"
         },
         {
-            "text": "(Based on that, I believed the best option for Kraft…… \nwould be to offer her another option……)",
+            "text": "(Berdasarkan itu, aku percaya opsi terbaik untuk Kraft……\nadalah dengan menawarkan pilihan lain……)",
             "name": "<username>",
             "choice_data_list": [
-                "(But――)"
+                "(Tapi――)"
             ]
         },
         {
-            "text": "……I really admire them. \nMy senpais on the Triple Tiara route.",
+            "text": "……Aku sangat mengagumi mereka.\nPara senpai di rute Triple Tiara.",
             "name": "Rhein Kraft"
         },
         {
-            "text": "And that's why I'm choosing the Triple Tiara \nrotation. And, I'll become strong enough that \nI won't lose against Triple Crown Uma Musume!",
+            "text": "Karena itulah aku memilih rotasi Triple Tiara.\nDan, aku akan menjadi cukup kuat sampai\naku nggak kalah dari Uma Musume Triple Crown!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "(Admiration can be the driving force behind \nchasing your dream. Without that, it would be \nlike taking away your entire reason for running)",
+            "text": "(Kekaguman bisa jadi pendorong untuk\nmengejar mimpimu. Tanpa itu, rasanya seperti\nmengambil alasan utamamu untuk berlari)",
             "name": "<username>"
         },
         {
-            "text": "(Considering how much Kraft admired the Tiara……it might \nbe too much to ask her to give up on the 『Oaks』――)",
+            "text": "(Mengingat betapa Kraft mengagumi Tiara……\nmungkin terlalu berat memintanya melepas 『Oaks』――)",
             "name": "<username>"
         },
         {
-            "text": "As you continue to run, sometimes the shape \nof your dreams will change……or perhaps there's \nno choice other than for it to change.",
+            "text": "Seiring kamu terus berlari, terkadang bentuk\nmimpimu akan berubah…… atau mungkin tidak ada\npilihan lain selain mengubahnya.",
             "name": "King Halo",
             "choice_data_list": [
                 "!!……King……"
             ]
         },
         {
-            "text": "However, they never disappear. \nIf you never give up, never let go――that's for certain.",
+            "text": "Tapi, mimpi itu tidak pernah hilang.\nKalau kamu tidak pernah menyerah, tidak pernah melepaskannya―― itu sudah pasti.",
             "name": "King Halo"
         },
         {
-            "text": "Aren't you the one that understands that the most? \n……since you've been walking this path with me this whole time.",
+            "text": "Bukannya kamu yang paling paham soal itu?\n……karena kamu sudah menemaniku sejauh ini.",
             "name": "King Halo",
             "choice_data_list": [
-                "……You're right",
-                "……You're right"
+                "……Benar juga",
+                "……Benar juga"
             ]
         },
         {
-            "text": "Right……think. Don't just dismiss it out of hand, keep \nthinking it through. What can I do for Kraft right now……?",
+            "text": "Benar…… pikirkan. Jangan langsung ditolak, teruslah\nmemikirkannya. Apa yang bisa kulakukan untuk Kraft saat ini……?",
             "name": "<username>"
         },
         {
-            "text": "Right……think. Don't just dismiss it out of hand, keep \nthinking it through. What can I do for Kraft right now……?",
+            "text": "Benar…… pikirkan. Jangan langsung ditolak, teruslah\nmemikirkannya. Apa yang bisa kulakukan untuk Kraft saat ini……?",
             "name": "<username>"
         },
         {
-            "text": "(Kraft is……a girl that admires the Tiara Uma \nMusume more than anything. Then, who would \nknow best what to say to Kraft right now――)",
+            "text": "(Kraft adalah…… gadis yang mengagumi\nUma Musume Tiara lebih dari apa pun.\nLalu, siapa yang paling tahu harus berkata apa pada Kraft sekarang――)",
             "name": "<username>",
             "choice_data_list": [
-                "Maybe the Tiara Uma Musume"
+                "Mungkin Uma Musume Tiara"
             ]
         },
         {
-            "text": "『\"The Unparalleled Queens\"――Tonight, we'll be speaking about \nthe magnificent tales of the top Senior Class Queen Uma Musume』",
+            "text": "『\"The Unparalleled Queens\"―― Malam ini, kami akan membicarakan\nkisah megah dari Senior Class Queen Uma Musume teratas』",
             "name": "Telecaster"
         },
         {
-            "text": "Several Queen Uma Musume who had etched their \nnames in to history were shown on screen."
+            "text": "Beberapa Queen Uma Musume yang telah mengukir\nnama mereka dalam sejarah ditampilkan di layar."
         },
         {
-            "text": "――It could be said that it was 『Overturning』 expectations. \nThe revival of a dynasty by my Grandmother, and my mother \nwho won two tiaras. As one descended from their blood――",
+            "text": "――Bisa dibilang itu adalah 『Membalikkan』 harapan.\nKebangkitan dinasti oleh Nenekku, dan ibuku\n yang memenangkan dua tiara. Sebagai keturunan darah mereka――",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "As the successor to a \"Renowned Family\" who had \nmany expectations to achieve the Triple Tiara. \nThat I was unable to accomplish it is reality.",
+            "text": "Sebagai penerus \"Keluarga Terkenal\" yang memiliki\nbanyak harapan untuk meraih Triple Tiara.\nFaktanya aku tidak bisa mencapainya.",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "Being unable to participate in the 『Oka Sho』, and a late start \nduring the 『Oaks』. Being forced to recuperate during the autumn.",
+            "text": "Tidak bisa ikut 『Oka Sho』, dan start terlambat\ndi 『Oaks』. Terpaksa beristirahat selama musim gugur.",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "……On top of that, my aptitude lying in short distances.",
+            "text": "……Ditambah lagi, bakatku ada di jarak pendek.",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "As you're aware, compared to the royal road that is medium \ndistances, there is much less attention. There were a great \nnumber of voices of disappointment when switching. However――",
+            "text": "Seperti yang kamu tahu, dibandingkan dengan jarak menengah\nyang merupakan jalur utama, perhatiannya jauh lebih sedikit.\nBanyak suara kecewa saat beralih. Tapi――",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "What I recieved from my mother and my grandmother, \nwas this 『Speed』. In that world where we compete for \nthose instants, short distance, I ran to prove myself.",
+            "text": "Apa yang kuterima dari ibu dan nenekku,\nadalah 『Kecepatan』 ini. Di dunia tempat kami bersaing\nuntuk momen-momen singkat itu, jarak pendek, aku berlari untuk membuktikan diriku.",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "That this path――is my duty, that this \nplace is where my passion can shine.",
+            "text": "Bahwa jalan ini―― adalah tugasku,\nbahwa di sinilah gairahku bisa bersinar.",
             "name": "Daiichi Ruby"
         },
         {
-            "text": "Daiichi Ruby. Winning the 『Yasuda Kinen』 and \n『Sprinter's S』, an Uma Musume that proved the \nstrength of her bloodline through her 『Speed』."
+            "text": "Daiichi Ruby. Memenangkan 『Yasuda Kinen』 dan\n『Sprinter's S』, seorang Uma Musume yang membuktikan\nkekuatan garis keturunannya melalui 『Kecepatan』nya."
         },
         {
-            "text": "――I don't believe I possess any outstanding qualities or talent. \nUnlike everyone else here, I never achieved victory in a G1.",
+            "text": "――Aku rasa aku tidak punya kualitas atau bakat yang luar biasa.\nTidak seperti yang lain di sini, aku tidak pernah menang di G1.",
             "name": "Ikuno Dictus"
         },
         {
-            "text": "However, if it's something that I take pride in, \nthen I do have that. My strength was achieved through \nthe information gained from those around me.",
+            "text": "Tapi, kalau sesuatu yang bisa kubanggakan,\naku memilikinya. Kekuatanku didapat melalui\ninformasi yang kudapat dari orang-orang di sekitarku.",
             "name": "Ikuno Dictus"
         },
         {
-            "text": "My 『Intel Skills』 are what I take pride in, my weapon. \nIn the racing world, filled with such strong individuals, \nto truly shine――this is my weapon.",
+            "text": "『Intel Skills』-ku adalah kebanggaanku, senjataku.\nDi dunia balap, yang dipenuhi individu kuat,\nuntuk benar-benar bersinar―― inilah senjataku.",
             "name": "Ikuno Dictus"
         },
         {
-            "text": "To go just a bit farther. For one more battle. \nAnd――to obtain just one more bit of glory.",
+            "text": "Untuk melangkah sedikit lebih jauh. Untuk satu pertarungan lagi.\nDan―― untuk meraih satu lagi secercah kemuliaan.",
             "name": "Ikuno Dictus"
         },
         {
-            "text": "With this weapon, my 『Intel Skills』, I will accomplish that. \n……I am proud to do this on my own will.",
+            "text": "Dengan senjata ini, 『Intel Skills』-ku, aku akan mewujudkannya.\n……Aku bangga melakukannya atas keinginanku sendiri.",
             "name": "Ikuno Dictus"
         },
         {
-            "text": "Ikuno Dictus. In the Twinkle Series, \ncompeting in 51 races without injury――"
+            "text": "Ikuno Dictus. Di Twinkle Series,\nbertanding di 51 balapan tanpa cedera――"
         },
         {
-            "text": "With a grueling 3-week rotation of the 『Yasuda Kinen』 \nand 『Takarazuka Kinen』. An Uma Musume with a body and \nmind of steel who still managed to achieve 2nd place in both."
+            "text": "Dengan rotasi melelahkan 3 minggu di 『Yasuda Kinen』\ndan 『Takarazuka Kinen』. Uma Musume dengan tubuh dan\npikiran baja yang masih meraih posisi 2 di keduanya."
         },
         {
-            "text": "――Getting a flashy title like 『Unparalleled Queen』, huh? \nHonestly, I never thought of anything complicated like that!",
+            "text": "――Dapat gelar mentereng kayak 『Unparalleled Queen』, ya?\nJujur, aku nggak pernah mikir hal rumit kayak gitu!",
             "name": "Hishi Amazon"
         },
         {
-            "text": "The only thing I seek is to compete against the strong! That's all!",
+            "text": "Satu-satunya yang kumau cuma lawan yang kuat! Cuma itu!",
             "name": "Hishi Amazon"
         },
         {
-            "text": "A lukewarm battle, does nothing to fire up my soul. For this body, \nfor this heart, it can't be anything but a fierce race!",
+            "text": "Pertarungan yang setengah-setengah, nggak bikin jiwaku terbakar.\nBuat tubuh ini, buat hati ini, harus pertarungan yang sengit!",
             "name": "Hishi Amazon"
         },
         {
-            "text": "Something that pushes me closer and closer \nto my limits――no, a race that forces me past \nmy limits, that's when I become the strongest.",
+            "text": "Sesuatu yang mendorongku semakin dekat\ndengan batasku―― nggak, balapan yang memaksaku\nmelampaui batasku, di situlah aku jadi yang terkuat.",
             "name": "Hishi Amazon"
         },
         {
-            "text": "Sometimes I'd get asked if I've ever felt \nintimidated, you know? But never, not once. \nRather, it's so fun I can't help but get excited!",
+            "text": "Kadang aku ditanya apa aku nggak pernah ngerasa\ntakut, tahu? Tapi nggak, sekali pun nggak.\nMalah, seru banget sampai aku nggak bisa diam!",
             "name": "Hishi Amazon"
         },
         {
-            "text": "It was like that when I faced off against that \"Monster\" too! \nI'm the strongest when I'm fighting it out!!",
+            "text": "Kayak waktu aku hadapi \"Monster\" itu juga!\nAku paling kuat kalau lagi berantem!!",
             "name": "Hishi Amazon"
         },
         {
-            "text": "Hishi Amazon. Although she wasn't able to participate in \nthe Oka Sho or Oaks, she had won 5 consecutive major \nvictories. Then she went on to win the Elizabeth Cup――"
+            "text": "Hishi Amazon. Meski tidak bisa ikut\nOka Sho atau Oaks, dia menang 5 kemenangan besar\nberuntun. Lalu dia menang Elizabeth Cup――"
         },
         {
-            "text": "Not only was she considered the queen of her generation, \nbut with her strength, she was the only one to come even \nclose to that \"Monster\", Narita Brian, at the 『Arima Kinen』."
+            "text": "Dia bukan cuma dianggap ratu generasinya,\ntapi dengan kekuatannya, dialah satu-satunya yang\nhampir menyamai \"Monster\" itu, Narita Brian, di 『Arima Kinen』."
         },
         {
-            "text": "――My mother once held the title of \"Queen\". From my first steps…… \nor maybe even before that, my path was already decided.",
+            "text": "――Ibuku pernah menyandang gelar \"Queen\". Sejak langkah pertamaku……\natau bahkan sebelumnya, jalanku sudah ditentukan.",
             "name": "Air Groove"
         },
         {
-            "text": "To become the brightest guiding light. To become the 『Ideal』 \nfor all Uma Musume, for all those who are just beginning.",
+            "text": "Menjadi cahaya penuntun paling terang. Menjadi 『Cita-Cita』\nuntuk semua Uma Musume, untuk semua yang baru memulai.",
             "name": "Air Groove"
         },
         {
-            "text": "That is my mission. \nTo become that \"Empress\" is my reason for existence.",
+            "text": "Itulah misiku.\nMenjadi \"Empress\" itu adalah alasan keberadaanku.",
             "name": "Air Groove"
         },
         {
-            "text": "In which case, I have nothing to fear. No matter which battlefield―― \nwhether it be the 『Tenno Sho (Autumn)』 or the 『Japan Cup』.",
+            "text": "Kalau begitu, aku tidak takut apa pun. Medan mana pun――\nentah itu 『Tenno Sho (Autumn)』 atau 『Japan Cup』.",
             "name": "Air Groove"
         },
         {
-            "text": "I will move forth with dignity, putting all of my \nstrength, all of my being, in to obtaining victory.",
+            "text": "Aku akan melangkah dengan penuh wibawa, mencurahkan semua\nkekuatanku, seluruh diriku, untuk meraih kemenangan.",
             "name": "Air Groove"
         },
         {
-            "text": "To continue taking on all those challenges will be the \nway to inspire all those that come after――I think that \nbelief is what spurred me on to greater heights.",
+            "text": "Terus menerima semua tantangan itulah yang\nakan menginspirasi semua yang datang setelahnya――\nKupikir keyakinan itulah yang mendorongku lebih tinggi.",
             "name": "Air Groove"
         },
         {
-            "text": "Air Groove. She became the first Uma Musume from the \nTiara route to win the 『Tenno Sho (Autumn)』, becoming \nan inspiration for many famous Uma Musume after her."
+            "text": "Air Groove. Dia menjadi Uma Musume pertama dari\nrute Tiara yang menang 『Tenno Sho (Autumn)』, menjadi\ninspirasi bagi banyak Uma Musume terkenal setelahnya."
         },
         {
-            "text": "Staring at the screen, I racked my brain. Keep thinking. \nThese amazing Uma Musume who carved their names in to \nhistory, what did they all have in common?",
+            "text": "Menatap layar, aku berpikir keras. Terus berpikir.\nUma Musume hebat ini yang mengukir nama dalam sejarah,\napa kesamaan mereka semua?",
             "choice_data_list": [
-                "……they all walked their own path."
+                "……mereka semua menempuh jalan mereka sendiri."
             ]
         },
         {
-            "text": "Each of them had their own dreams, goals, and missions, \nalongside a strong desire to pursue them."
+            "text": "Masing-masing punya mimpi, tujuan, dan misi sendiri,\ndiiringi keinginan kuat untuk mengejarnya."
         },
         {
-            "text": "Wondering where they could shine the brightest. \nUnderstanding their true strengths."
+            "text": "Bertanya-tanya di mana mereka bisa bersinar paling terang.\nMemahami kekuatan sejati mereka."
         },
         {
-            "text": "Thinking, worrying, choosing. \nAnd then――"
+            "text": "Berpikir, khawatir, memilih.\nLalu――"
         },
         {
-            "text": "(……deciding their own unique path for themselves. Something \nthey could be proud of and achieving glory along the way)",
+            "text": "(……menentukan jalan unik mereka sendiri. Sesuatu yang\nbisa mereka banggakan dan meraih kemuliaan di sepanjang jalan)",
             "name": "<username>"
         },
         {
-            "text": "Just like the Triple Crown Uma Musume, they built an \nera. Leaving a wide impact on many, even if they weren't \nconsidered the representatives of their generation."
+            "text": "Sama seperti Uma Musume Triple Crown, mereka membangun\nera. Memberi dampak luas pada banyak orang, meski mereka\ntidak dianggap perwakilan generasinya."
         },
         {
-            "text": "But those Tiara Uma Musume still had an appeal \nall of their own. And――they had already shown \nus that. They had shown us and created that link."
-        },
-        {
-            "text": "(That's why……Rhein Kraft was here \nright now, why she was running.)",
+            "text": "Tapi Uma Musume Tiara itu masih punya daya tarik\nmereka sendiri. Dan―― mereka sudah menunjukkannya\npada kami. Mereka telah menunjukkan dan menciptakan hubungan itu.",
             "name": "<username>"
         },
         {
-            "text": "The program had ended before I realized. I turned off the \nTV and took a deep breath. The room was completely silent, \nthe only thing on my mind――was the cheering at the 『Oka Sho』.",
+            "text": "(Karena itu…… Rhein Kraft ada di sini\nsekarang, kenapa dia berlari.)",
+            "name": "<username>"
+        },
+        {
+            "text": "Acaranya sudah selesai sebelum aku sadar. Aku mematikan\nTV dan menarik napas dalam. Ruangan sunyi sekali,\nsatu-satunya yang ada di pikiranku―― adalah sorakan di 『Oka Sho』.",
             "choice_data_list": [
-                "Rhein Kraft……was amazing."
+                "Rhein Kraft…… tadi luar biasa."
             ]
         },
         {
-            "text": "I was now convinced. The place that Rhein Kraft \ncould be the strongest, shine the brightest was――",
+            "text": "Sekarang aku yakin. Tempat di mana Rhein Kraft\nbisa menjadi paling kuat, bersinar paling terang adalah――",
             "choice_data_list": [
-                "……Mile races."
+                "……Balapan Mile."
             ]
         },
         {
             "text": "(Knock knock……)"
         },
         {
-            "text": "Excuse me……Ah, Trainer-san!",
+            "text": "Permisi…… Ah, Trainer-san!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Good afternoon. Um, well then……by important \nconversation, what did you mean?",
+            "text": "Selamat siang. Um, kalau begitu…… percakapan\npenting, yang kamu maksud apa?",
             "name": "Rhein Kraft",
             "choice_data_list": [
-                "……Kraft. You see――",
-                "……Kraft. You see――"
+                "……Kraft. Begini――",
+                "……Kraft. Begini――"
             ]
         },
         {
-            "text": "I tried not to sound too cold, but wanted to \ngive my honest opinion. Due to her aptitudes, \nthe 2400m Oaks would probably be incredibly difficult."
+            "text": "Aku berusaha tidak terdengar terlalu dingin, tapi ingin\nmenyampaikan pendapat jujur. Karena bakatnya,\nOaks 2400m mungkin akan sangat sulit baginya."
         },
         {
-            "text": "Therefore, as a trainer――",
+            "text": "Karena itu, sebagai trainer――",
             "choice_data_list": [
-                "I suggest a different race",
-                "I suggest a different race"
+                "Aku sarankan balapan lain",
+                "Aku sarankan balapan lain"
             ]
         },
         {
-            "text": "Eh……eh? By different, you mean……?",
+            "text": "Eh…… eh? Balapan lain, maksudnya……?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "……your run at the 『Oka Sho』 was really amazing. \nWhen it comes to Mile races, I think you're the \nfastest of your generation……that's what I believe.",
+            "text": "……larianmu di 『Oka Sho』 tadi benar-benar luar biasa.\nKalau soal balapan Mile, kurasa kamu yang paling\ncepat di generasimu…… itulah yang kuyakini.",
             "name": "<username>"
         },
         {
-            "text": "……your run at the 『Oka Sho』 was really amazing. \nWhen it comes to Mile races, I think you're the \nfastest of your generation……that's what I believe.",
+            "text": "……larianmu di 『Oka Sho』 tadi benar-benar luar biasa.\nKalau soal balapan Mile, kurasa kamu yang paling\ncepat di generasimu…… itulah yang kuyakini.",
             "name": "<username>"
         },
         {
-            "text": "That's why……Kraft.",
+            "text": "Makanya…… Kraft.",
             "name": "<username>",
             "choice_data_list": [
-                "How about the 『NHK Mile Cup』?",
-                "How about the 『NHK Mile Cup』?"
+                "Bagaimana dengan 『NHK Mile Cup』?",
+                "Bagaimana dengan 『NHK Mile Cup』?"
             ]
         },
         {
@@ -290,19 +291,19 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "text": "Coba pikirkan dulu Kraft. Tentang cita-citamu,\nmimpimu, dan apa yang sudah kaulihat sejauh perjalananmu.",
             "name": "<username>"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "text": "Coba pikirkan dulu Kraft. Tentang cita-citamu,\nmimpimu, dan apa yang sudah kaulihat sejauh perjalananmu.",
             "name": "<username>"
         },
         {
-            "text": "And then…… \nabout a path that only you can run.",
+            "text": "Lalu……\ntentang jalan yang hanya bisa kamu tempuh.",
             "name": "<username>"
         },
         {
-            "text": "And then…… \nabout a path that only you can run.",
+            "text": "Lalu……\ntentang jalan yang hanya bisa kamu tempuh.",
             "name": "<username>"
         }
     ]
