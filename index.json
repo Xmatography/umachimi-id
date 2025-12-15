@@ -1599,6 +1599,11 @@
       "size": 597
     },
     {
+      "path": "assets/lyrics/m1175_lyrics.json",
+      "hash": "8528439d98508a22950a486bb3cf9fdbf068ff983f6687020c74e1240fdeff10",
+      "size": 917
+    },
+    {
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "6546b80626c51845cf43c638dca04501140cb9566e05ca221d6a8298a1737e99",
       "size": 567
@@ -10970,8 +10975,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "2bdb1cbb8cca4d05b16ade368bf5695870c07cd99cf0aa52a70c4a73a6b81cd4",
-      "size": 2369118
+      "hash": "1f49c1825f50827aae7e57af5c20307d2992b978687304b3a86c81ba449f8228",
+      "size": 2371709
     }
   ]
 }
