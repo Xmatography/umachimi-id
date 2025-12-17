@@ -6,26 +6,30 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Aku masih belum selesai.\nAku...butuh berlari lagi.",
+            "text": "Aku masih belum selesai. Aku.. harus berlari lagi.",
             "name": "Admire Vega"
         },
         {
             "text": "Sudah beberapa hari sejak aku menjadi Trainer-nya.",
+            "name": "Monolog",
             "choice_data_list": [
                 "<i>Aku masih lembut padanya, sih...</i>"
             ]
         },
         {
-            "text": "Aku membuat catatan bagaimana Admire Vega berlari.\nAku akan menggunakan ini sebagai basis latihan kedepannya, tapi..."
+            "text": "Aku membuat catatan bagaimana Admire Vega berlari. \nAku akan menggunakan ini sebagai basis latihan kedepannya, tapi...",
+            "name": "Monolog"
         },
         {
-            "text": "Akahkah dia mendengarkanku?"
+            "text": "Akankah dia mendengarkanku?",
+            "name": "Monolog"
         },
         {
-            "text": "Dia bisa menerima saran kecil, tapi saat  \nlatihan yang membutuhkan dua orang…"
+            "text": "Dia bisa menerima saran kecil, tapi saat latihan yang \nmembutuhkan dua orang…",
+            "name": "Monolog"
         },
         {
-            "text": "Aku...tidak apa-apa sendiri.\nAku...lebih suka sendiri.",
+            "text": "Aku...tidak apa-apa sendiri. Aku lebih suka sendiri.",
             "name": "Admire Vega"
         },
         {
@@ -33,13 +37,15 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Bakal susah menyakinkan dia untuk \nlatihan yang membutuhkan bantuanku.",
+            "text": "Bakal susah menyakinkan dia untuk latihan yang \nmembutuhkan bantuanku.",
+            "name": "Monolog",
             "choice_data_list": [
                 "<i>Tapi…</i>"
             ]
         },
         {
-            "text": "Aku adalah Trainer-nya. Aku bilang ke dia untuk membuktikan \nbahwa aku bisa membantunya apapun itu-"
+            "text": "Aku adalah Trainer-nya. Aku bilang ke dia untuk membuktikan \nbahwa aku bisa membantunya apapun itu!",
+            "name": "Monolog"
         },
         {
             "text": "Aku mau lari dulu…",
@@ -53,7 +59,8 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Dia sudah keluar sebelum aku bereaksi. \nAku ingin mengejarnya, tapi dia terlalu cepat."
+            "text": "Dia sudah keluar sebelum aku bereaksi. \nAku ingin mengejarnya, tapi dia terlalu cepat.",
+            "name": "Monolog"
         },
         {
             "text": "Hahh, hah, haa…!",
@@ -73,12 +80,14 @@
         },
         {
             "text": "Aku sangat sibuk menata catatanku sampai aku tidak sadar sudah malam.",
+            "name": "Monolog",
             "choice_data_list": [
                 "Tapi, tinggal sedikit lagi..."
             ]
         },
         {
-            "text": "Aku berharap perasaanku bisa mencapai Admire Vega besok.\nDan berharap aku bisa menjadi berguna buat dia juga."
+            "text": "Aku berharap perasaanku bisa mencapai Admire Vega besok. \nDan berharap aku bisa menjadi berguna buat dia juga.",
+            "name": "Monolog"
         },
         {
             "text": "Kamu disini lagi.",
@@ -93,17 +102,19 @@
             "name": "Admire Vega"
         },
         {
-            "text": "\"Dia sepertinya suka bintang.\" \"Haruskah kuubah waktu latihannya?\" \n\"Tempat yang bagus untuk melihat bintang, ya?\" \"Tanya Tazuna aja, deh.\""
+            "text": "\"Dia sepertinya suka bintang.\" \"Haruskah kuubah waktu latihannya?\" \n\"Tempat yang bagus untuk melihat bintang, ya?\" Tanya Tazuna aja, deh.",
+            "name": "Monolog"
         },
         {
-            "text": "\"Demi 'dia'――?\""
+            "text": "\"Demi 'dia' ――?\"",
+            "name": "Monolog"
         },
         {
             "text": "\"Apa yang bisa kuperbuat untuk dia\"……？",
             "name": "Admire Vega"
         },
         {
-            "text": "Kenapa dia melakukan ini semua? Aku\nsudah bilang pada dia bahwa aku bisa sendiri....",
+            "text": "Kenapa dia melakukan ini semua? Aku sudah bilang pada dia \nbahwa aku bisa sendiri....",
             "name": "Admire Vega"
         },
         {
@@ -119,7 +130,7 @@
             "name": "???"
         },
         {
-            "text": "Tidak, itu tidak benar, Alasanku \nkembali cuma karena jam malamku. Itu saja.",
+            "text": "Tidak, itu tidak benar, Alasanku kembali cuma karena jam malamku. \nItu saja.",
             "name": "Admire Vega"
         },
         {
@@ -131,7 +142,7 @@
             "name": "Admire Vega"
         },
         {
-            "text": "<i>Ada Gadis Kuda yang berbeda yang pantas mendapatkan semua ini. \nYang seharusnya bersinar seperti bintang yang gemerlap.</i>",
+            "text": "<i>Ada Umamusume yang berbeda yang pantas mendapatkan semua ini. \nYang seharusnya bersinar seperti bintang yang gemerlap.</i>",
             "name": "Admire Vega"
         },
         {
@@ -139,8 +150,9 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Sepertinya ada seseorang menyelimutiku dengan selimut.\nAku tidak membuka mataku, tapi dalam tidurku, aku\nmendengar langkah kaki yang samar."
+            "text": "Sepertinya ada seseorang menyelimutiku dengan selimut.\nAku tidak membuka mataku, tapi dalam tidurku, aku mendengar \nlangkah kaki yang samar.",
+            "name": "Monolog"
         }
     ],
-    "title": "Getaran di Malam yang Berkilau"
+    "title": "Getaran Di Malam Yang Berkilau"
 }

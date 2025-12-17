@@ -1,8 +1,9 @@
 {
-  "title": "Sang Komet",
+  "title": "Kamu Adalah Komet",
   "text_block_list": [
     {
-      "text": "Akhirnya aku tidak bisa berbicara dengan Admire Vega setelah balapan.",
+      "text": "Pada akhirnya aku tidak bisa berbicara dengan Admire Vega setelah balapan.",
+      "name": "Monolog",
             "choice_data_list": [
                 "(Aku tak bisa meninggalkannya!)"
             ]
@@ -10,13 +11,15 @@
     },
     {
       "text": "Aku tidak tahu apa yang mendorongnya untuk balapan, atau apa yang membuatnya begitu khawatir, atau beban apa yang dia miliki. Tapi…",
+      "name": "Monolog",
       "choice_data_list": [
-       "<size=31>Kalau aku tidak mencoba mencari tahu, semuanya akan sirna.</size>"
+       "<size=35>Kalau aku tidak mencari tahu, semuanya sirna.</size>"
         
       ]
     },
     {
-      "text": "Tapi pertama-tama aku harus menemukannya, jadi aku mulai berjalan di sekitar kampus mencarinya. Saat itulah aku melihat gadis yang balapan bersamanya tempo hari, Meisho Doto."
+      "text": "Tapi pertama-tama aku harus menemukannya, jadi aku mulai berjalan di sekitar akademi mencarinya. Saat itulah aku melihat gadis yang balapan bersamanya tempo hari, Meisho Doto.",
+      "name": "Monolog"
     },
     {
       "text": "Ah, apa Anda bertanya padaku apakah aku melihat Ayabe-san…? Umm, e-eh…! Kalau aku harus bilang apakah aku melihatnya atau tidak, a-aku harus bilang iya, tapi…",
@@ -34,7 +37,7 @@
       "name": "TM Opera O"
     },
     {
-      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan… K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
+      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan….    K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
       "name": "Meisho Doto"
     },
     {
@@ -45,7 +48,7 @@
       "text": "Itu sangat b-berbahaya…! Aku rasa jalannya mungkin terlalu sulit untuk manusia…!",
       "name": "Meisho Doto",
       "choice_data_list": [
-        "<size=29>Terima kasih sudah khawatir, tapi ini kemauanku.</size>"
+        "<size=35>Terima kasih sudah khawatir, tapi ini kemauanku.</size>"
       ]
     },
     {
@@ -58,8 +61,9 @@
     },
     {
       "text": "Sambil tertawa keras, dia memberitahuku lebih banyak tentang ke mana Admire Vega pergi.",
+      "name": "Monolog",
       "choice_data_list": [
-         "<size=42>Anda penyelamatku! Sampai jumpa lagi!</size>"
+         "Kamu penyelamatku! Sampai jumpa lagi!"
       ]
     },
     {
@@ -67,7 +71,7 @@
       "name": "Meisho Doto"
     },
     {
-      "text": "Setelah Balapan Seleksi, Ayabe-san bilang dia ingin \"sendirian\" sebentar… Apa benar tidak apa-apa pelatih itu pergi…?",
+      "text": "Setelah Balapan Seleksi, Ayabe-san bilang dia ingin \"sendirian\" sebentar… Apa benar tidak apa-apa trainer itu pergi…?",
       "name": "Meisho Doto"
     },
     {
@@ -89,6 +93,7 @@
     },
     {
       "text": "Dia dengan cepat meninggalkanku di belakang, tapi… Aku datang ke sini dengan penuh tekad. Aku tidak bisa begitu saja kembali sekarang!",
+      "name": "Monolog",
       "choice_data_list": [
         "<i>Ayo pergi…!</i>",
         "<i>Ayo pergi…!</i>"
@@ -96,7 +101,8 @@
       ]
     },
     {
-      "text": "Namun…"
+      "text": "Namun…",
+      "name": "Monolog"
     },
     {
       "text": "Hah… haa… haa…",
@@ -114,28 +120,35 @@
       ]
     },
     {
-      "text": "Seperti yang Meisho Doto peringatkan, jalannya sangat curam dan jarak antara Admire Vega dan aku semakin melebar…!"
+      "text": "Seperti yang Meisho Doto peringatkan, jalannya sangat curam dan jarak antara Admire Vega dan aku semakin melebar…!",
+      "name": "Monolog"
     },
     {
-      "text": "Terlebih lagi…"
+      "text": "Terlebih lagi…",
+      "name": "Monolog"
     },
     {
-      "text": "Aku mulai kehilangan pandangannya saat matahari terbenam, tapi aku terus berlari mati-matian di sepanjang jalan yang curam itu.",
+      "text": "Aku mulai kehilangan pandangannya saat matahari terbenam, aku terus berlari mati-matian di sepanjang jalan yang curam itu.",
+      "name": "Monolog",
       "choice_data_list": [
-       "Aku bahkan tidak bisa melihat kakiku- Uwaah!"
+       "<size=35>Aku bahkan tidak bisa melihat kakiku- Uwaah!</size>"
       ]
     },
     {
-      "text": "(*gemerisik* *gemerisik*)"
+      "text": "(*gemerisik* *gemerisik*)",
+      "name": "Monolog"
     },
     {
-      "text": "――――――――"
+      "text": "――――――――",
+      "name": "Monolog"
     },
     {
-      "text": "Kesadaranku mulai kembali, sedikit demi sedikit. Saat aku perlahan membuka mata, aku melihat langit berbintang di atasku."
+      "text": "Kesadaranku mulai kembali, sedikit demi sedikit. Saat aku perlahan membuka mata, aku melihat langit berbintang di atasku.",
+      "name": "Monolog"
     },
     {
-      "text": "Sebuah lautan bintang yang begitu luas hingga aku hampir bisa menyelam ke dalamnya…"
+      "text": "Sebuah lautan bintang yang begitu luas hingga aku hampir bisa menyelam ke dalamnya…",
+      "name": "Monolog"
     },
     {
       "text": "Apa ada yang sakit…?",
@@ -149,8 +162,8 @@
       "text": "Aku yang bertanya di sini. Apa kamu terluka?",
       "name": "Admire Vega",
       "choice_data_list": [
-        "<size=38>Aku baik-baik saja. Apa kamu menyelamatkanku…?</size>",
-        "<size=38>Aku baik-baik saja. Apa kamu menyelamatkanku…?</size>"
+        "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>",
+        "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>"
       
       ]
     },
@@ -159,7 +172,8 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. Dia kemudian mengajukan pertanyaan kepadaku."
+      "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. Dia kemudian mengajukan pertanyaan kepadaku.",
+      "name": "Monolog"
     },
     {
       "text": "Kenapa kamu begitu terobsesi denganku?",
@@ -180,8 +194,8 @@
       "text": "Tapi…?",
       "name": "Admire Vega",
       "choice_data_list": [
-        "<size=35>Aku tidak ingin meninggalkanmu sendirian lebih lama lagi.</size>",
-        "<size=35>Aku tidak ingin meninggalkanmu sendirian lebih lama lagi.</size>"
+        "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>",
+        "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>"
         
       ]
     },
@@ -210,20 +224,23 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Sedikit demi sedikit, dia menceritakan kepadaku beberapa beban yang dia pikul. \"Aku akan menanggung semua beban ini sendirian.\" Aku yakin itulah yang dia pikirkan."
+      "text": "Sedikit demi sedikit, dia menceritakan kepadaku beberapa beban yang dia pikul. \"Aku akan menanggung semua beban ini sendirian.\" Aku yakin itulah yang dia pikirkan.",
+      "name": "Monolog"
     },
     {
       "text": "Meskipun begitu…",
+      "name": "Monolog",
       "choice_data_list": [
-            "Takkan kubiarkan kamu lakukan sendirian!",
-            "Takkan kubiarkan kamu lakukan sendirian!"
+            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>",
+            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>"
       ]
     },
     {
       "text": "Kakiku sangat berat dan staminaku sudah mencapai batas. Meskipun begitu, karena aku masih bisa melihatnya…",
+      "name": "Monolog",
       "choice_data_list": [
-          "<size=43>Hei, maukah kamu jadikan aku pelatihmu?</size>",
-          "<size=43>Hei, maukah kamu jadikan aku pelatihmu?</size>"
+          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>",
+          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>"
         
       ]
     },
@@ -265,15 +282,15 @@
       "name": "Curren Chan"
     },
     {
-      "text": "Zzz…",
+      "text": "<i>Zzz…</i>",
       "name": "Admire Vega"
     },
     {
-      "text": "Dia membuat wajah lucu dalam tidurnya. Ini. Pasti. Berarti… sesuatu yang baik terjadi.",
+      "text": "Walah... Dia bikin wajah lucu dalam tidurnya. Ini. Berarti… lagi ada sesuatu yang baik terjadi nih.",
       "name": "Curren Chan"
     },
     {
-      "text": "Aku bermimpi. Sebuah mimpi yang, untuk pertama kalinya setelah sekian lama, tidak terasa mencekikku.",
+      "text": "Aku bermimpi. Untuk pertama kalinya setelah sekian lama, mimpi yang tidak membuatku sesak",
       "name": "Admire Vega"
     },
     {
@@ -282,13 +299,14 @@
     },
     {
       "text": "Keesokan harinya ada ketukan ragu-ragu di pintu kantorku. Saat aku membuka pintu, masuklah… Admire Vega!",
+      "name": "Monolog",
       "choice_data_list": [
           "<size=42>Apa ini soal rekrutan?</size>",
           "<size=42>Apa ini soal rekrutan?</size>"
       ]
     },
     {
-      "text": "Jika aku tidak punya pelatih, aku tidak akan bisa masuk ke Seri Twinkle. Jadi bagaimanapun juga, aku akan membutuhkannya suatu saat…",
+      "text": "Jika aku tidak punya trainer, aku tidak akan bisa masuk ke Twinkle Series. Jadi bagaimana pun juga, aku akan membutuhkannya suatu saat…",
       "name": "Admire Vega"
     },
     {
@@ -305,7 +323,8 @@
       ]
     },
     {
-      "text": "Maka, hari-hariku dengan Admire Vega akhirnya dimulai."
+      "text": "Maka, hari-hariku dengan Admire Vega akhirnya dimulai.",
+      "name": "Monolog"
     }
   ]
 }

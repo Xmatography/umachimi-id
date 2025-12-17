@@ -1,13 +1,13 @@
 {
-  "title": "Cahaya, Dikonsumsi",
+  "title": "Cahaya Yang Terkikis",
   "text_block_list": [
     {
-      "text": "Balapan seleksi bakal mulai besok…",
+      "text": "Balapan seleksi akan dimulai besok…",
       "name": "Admire Vega",
       "italic": true
     },
     {
-      "text": "Maaf sudah membuatmu menunggu…\nTapi tunggu...tunggu sebentar lagi.",
+      "text": "Maaf sudah membuatmu menunggu… Tapi tunggu... \nTunggu sebentar lagi.",
       "name": "Admire Vega"
     },
     {
@@ -23,7 +23,7 @@
       "name": "Ayabe Kecil"
     },
     {
-      "text": "Kamu yang sangat ingin balapan? Kamu yang begitu ingin menang? Apakah kamu yang ingin bersenang-senang? Dan… apakah kamu yang merasa begitu kesepian…?",
+      "text": "Kamu yang sangat ingin balapan? Kamu yang begitu ingin menang? Apakah kamu yang ingin bersenang-senang? Dan… apakah kamu \nyang merasa begitu kesepian…?",
       "name": "Ayabe Kecil"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Ayabe Kecil"
     },
     {
-      "text": "Hari balapan Seleksi Admire Vega akhirnya tiba. Banyak pelatih berkumpul di tribun penonton, mata mereka penuh antisipasi."
+      "text": "Hari balapan Seleksi Admire Vega akhirnya tiba. Banyak Trainer berkumpul di tribun penonton, mata mereka penuh antisipasi."
     },
     {
       "text": "Aku juga sangat bersemangat untuk melihat balapan Admire Vega…"
@@ -70,7 +70,7 @@
       "italic": true
     },
     {
-      "text": "Waktu itu, aku baru tahu bahwa bisa saja aku atau dia yang berakhir menjadi korban.",
+      "text": "Waktu itu, aku baru tahu bahwa bisa saja aku atau adik \nperempuanku yang berakhir menjadi korban kala itu.",
       "name": "Admire Vega"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "text": "Admire Vega tampaknya terkepung…! Apakah dia tidak berhasil mendapatkan posisi yang bagus?",
-      "name": "Pelatih Biasa A"
+      "name": "Trainer Junior A"
     },
     {
       "text": "Tidak… Tidak! Aku tidak akan dimaafkan jika tidak menang!! Tapi, aku…!!",
@@ -120,7 +120,7 @@
       "italic": true
     },
     {
-      "text": "Satu-satunya alasan. Satu-satunya alasan aku hidup adalah untuk ini!",
+      "text": "Satu-satunya alasan. Satu-satunya alasan aku hidup adalah \nuntuk ini!",
       "name": "Admire Vega",
       "italic": true
     },
@@ -134,7 +134,7 @@
     },
     {
       "text": "Eh? Tunggu, apa itu…",
-      "name": "Pelatih Senior A",
+      "name": "Trainer Senior A",
             "choice_data_list": [
                 "……！"
             ]
@@ -163,7 +163,7 @@
       "name": "Admire Vega"
     },
     {
-      "text": "Hari itu, tidak ada pelatih yang mendekati Admire Vega dan dia meninggalkan tempat itu, sendirian."
+      "text": "Hari itu, tidak ada Trainer yang mendekati Admire Vega dan dia meninggalkan tempat itu, sendirian."
     }
   ]
 }

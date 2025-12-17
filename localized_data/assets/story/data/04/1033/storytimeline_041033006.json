@@ -14,7 +14,7 @@
             "name": "Admire Vega"
         },
         {
-            "text": "<i>Tapi, aku tahu bahwa kamu selalu ada didalamku,\nyang takkan pernah menghilang.</i>",
+            "text": "<i>Tapi, aku tahu bahwa kamu selalu ada didalamku, \nyang takkan pernah menghilang.</i>",
             "name": "Admire Vega"
         },
         {
@@ -26,27 +26,29 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Kami menantikan kedatangan anda lagi.\nProyeksi berikutnya akan dimulai pada…",
+            "text": "Kalau begitu... Kami menantikan kedatangan anda lagi. \nProyeksi berikutnya akan dimulai pada…",
             "name": "Siaran"
         },
         {
             "text": "Planetarium. Aku tahu dia suka bintang, jadi aku datang kesini untuk \nmempelajari sesuatu yang bisa kami perbincangkan.",
+            "name": "Monolog",
             "choice_data_list": [
                 "Cantiknya..."
             ]
         },
         {
-            "text": "Ternyata aku menikmatinya. Aku putuskan untuk belajar tentang \nbintang, jadi aku ke toko suvenir mencari buku bergambar, lalu.."
+            "text": "Ternyata aku menikmatinya. Aku putuskan untuk belajar tentang \nbintang, jadi aku ke toko suvenir mencari buku bergambar, lalu..",
+            "name": "Monolog"
         },
         {
             "text": "Ah…",
             "name": "Admire Vega",
             "choice_data_list": [
-                "Ayabe datang juga?"
+                "Ayabe-san datang juga?"
             ]
         },
         {
-            "text": "Aku selalu datang kesini...\nTrainer-san sendiri ngapain?",
+            "text": "Aku selalu datang kesini.. Trainer-san sendiri ngapain?",
             "name": "Admire Vega"
         },
         {
@@ -54,9 +56,10 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Admire Vega bertanya padaku.\nLangka sekali dia memulai percakapan.",
+            "text": "Admire Vega bertanya padaku. Langka sekali dia memulai percakapan.",
+            "name": "Monolog",
             "choice_data_list": [
-                "<size=41>Aku pengen belajar soal bintang.</size>"
+                "Aku pengen belajar soal bintang."
             ]
         },
         {
@@ -64,9 +67,10 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Percakapannya masih jalan, dong! Aku \ntak boleh menyiakannya. Aku perlu memikirkan hal lucu…",
+            "text": "Percakapannya masih jalan, dong! Aku tak boleh menyiakannya. \nAku perlu memikirkan hal lucu…",
+            "name": "Monolog",
             "choice_data_list": [
-                "Soalnya aku suka Ayabe!"
+                "Soalnya aku suka Ayabe-san!"
             ]
         },
         {
@@ -84,26 +88,27 @@
             ]
         },
         {
-            "text": "Aku malah mengatakan hal aneh karena terburu-buru. Aku langsung \nmembenarkannya, harusnya \"Karena kamu suka bintang.\""
+            "text": "Aku malah mengatakan hal aneh karena terburu-buru. Aku langsung \nmembenarkannya, harusnya \"Karena kamu suka bintang.\"",
+            "name": "Monolog"
         },
         {
             "text": "Ah… begitu, ya. Mikir dulu kalau mau ngomong.",
             "name": "Admire Vega"
         },
         {
-            "text": "Tapi, cuma karena aku suka bintang, \nbukan berarti kamu harus suka juga, kan?",
+            "text": "Tapi, cuma karena aku suka bintang, bukan berarti kamu \n harus suka juga, kan?",
             "name": "Admire Vega"
         },
         {
-            "text": "Aku paham. Karena kamu Trainer-ku,\nkamu berusaha mendekatiku.",
+            "text": "Aku paham. Karena kamu Trainer-ku, kamu berusaha mendekatiku.",
             "name": "Admire Vega"
         },
         {
-            "text": "Tapi...aku tidak mau dan tidak butuh.",
+            "text": "Tapi... aku tidak mau dan tidak butuh.",
             "name": "Admire Vega"
         },
         {
-            "text": "Sudah selalu kukatakan, aku lebih suka sendiri. Aku tak butuh teman, tak \nbutuh dihibur, dan bersikap baik padaku.",
+            "text": "Sudah selalu kukatakan, aku lebih suka sendiri. Aku tak butuh teman, \ntak butuh dihibur, dan bersikap baik padaku.",
             "name": "Admire Vega"
         },
         {
@@ -126,11 +131,11 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Apapun kamu katakan, balasanmu\ntetap sama...",
+            "text": "Apapun kamu katakan, balasanmu tetap sama..",
             "name": "Admire Vega"
         },
         {
-            "text": "…………。\nAku pulang saja...",
+            "text": "…………。 Aku pulang saja...",
             "name": "Admire Vega",
             "choice_data_list": [
                 "Ah, kalau begitu, kita――"
@@ -145,7 +150,8 @@
             "name": "Admire Vega"
         },
         {
-            "text": "Admire Vega mengatakan itu setelah sadar ada buku di tanganku. \nDia lalu pergi diam-diam tanpa berkata-kata."
+            "text": "Admire Vega mengatakan itu setelah sadar ada buku di tanganku. \nDia lalu pergi diam-diam tanpa berkata-kata.",
+            "name": "Monolog"
         },
         {
             "text": "………",
@@ -156,7 +162,7 @@
             "name": "Admire Vega"
         },
         {
-            "text": "<i>Jika saja aku bisa lebih agresif... Aku \nbisa saja membentak dia agar dia menjauh.</i>",
+            "text": "<i>Jika saja aku bisa lebih agresif... Aku bisa saja membentak dia \nagar dia menjauh.</i>",
             "name": "Admire Vega"
         },
         {
@@ -168,9 +174,9 @@
             "name": "Admire Vega"
         },
         {
-            "text": "<i>Cuma itu saja yang kubutuh.Aku \ntahu itu faktanya. Lagipula, aku suka sendiri.</i>",
+            "text": "<i>Cuma itu saja yang aku butuh. Aku tahu itu faktanya. Lagipula, \naku suka sendiri.</i>",
             "name": "Admire Vega"
         }
     ],
-    "title": "Seperti Berenang dalam Nebula"
+    "title": "Seperti Berenang Dalam Nebula"
 }
