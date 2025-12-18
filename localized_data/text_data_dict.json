@@ -1349,7 +1349,9 @@
     "1056": "A solemn chorus sung by the Mejiro family. Their splendor reaches far and wide—",
     "1080": "None",
     "1091": "None",
-    "9051": "None"
+    "9051": "None",
+        "1156": "Berkat kalian semua―『Aku sudah tumbuh sebesar ini♡』Terima menu ucapan terima kasihku yang penuh cinta ini♡ Silakan dinikmati ya♪",
+        "1175": "$(nb)Hari-hari saat kita berjuang. Tak terasa, kita melangkah sejauh ini. Ikatan yang berdampingan, akan membawa kita melampaui mimpi yang tak berujung—"
   },
   "13": {
     "10001": "Tutorial gacha",
@@ -6555,7 +6557,9 @@
         "1033": "Lirik: Erika Masaki \\n Komposisi dan Aransemen: Yasushi Kawai (Arte Refact)",
         "1034": "Lirik: corochi\\nKomposisi dan Aransemen: Tetsuya Uchida (Cygames)",
         "1035": "Lirik: Emi Nishida\\nKomposisi: Satoshi Okamura\\nAransemen: EFFY (FirstCall)",
-        "1036": "Lirik: Moe Igarashi (Cygames)\\nKomposisi: Akihiro Honda (Cygames)\\nAransemen: Kenta Higashioji"
+        "1036": "Lirik: Moe Igarashi (Cygames)\\nKomposisi: Akihiro Honda (Cygames)\\nAransemen: Kenta Higashioji",
+        "1156": "Lirik : Ichihashi Takuya & Satō Haruka (Cygames)\\nKomposisi & Aransemen: Ichihashi Takuya (Cygames)",
+        "1175": "Lirik & Komposisi : Ikeda Takehito (Cygames)\\nAransemen : Kohei Tsukada\\nAransemen string : Ichihashi Takuya (Cygames)\n"
   },
   "170": {
     "1001": "Special Week",
@@ -43151,13 +43155,13 @@
     "41087002": "The Daily Naming of my Friends",
     "41087003": "Remembering Your Strengths",
     "41087004": "My Dream Is to Be the Best Mascot in the World",
-    "41089001": "My Name: Cheval Grand",
-    "41089002": "Family Members: Father, Mother, Sister, Me, Younger sister",
-    "41089003": "Personality: No Self-Esteem, Nervous & Timid",
-    "41089004": "DREAM:",
-    "41089005": "What's on my mind: Me in your eyes",
-    "41089006": "Worries: Mushy Feelings",
-    "41089007": "Wish: I want to hear it someday",
+    "41089001": "Namaku : Cheval Grand",
+    "41089002": "Susunan Keluarga : Ayah, Ibu, Kakak , Aku, Adik",
+    "41089003": "Kepribadian : Kurang Percaya Diri, Mudah Cemas, Penakut",
+    "41089004": "Mimpi :",
+    "41089005": "Hal Yang Meresahkan : Pandangan Orang Lain Kepadaku",
+    "41089006": "Kegelisahan : Perasaan Yang Mengganjal",
+    "41089007": "Harapan :  Aku Ingin Mendengarnya Suatu Hari Nanti",
     "41098001": "Spirited ☆ Feng Shui Has Arrived",
     "41098002": "Occult? Non Non☆ Real Feng Shui",
     "41098003": "A Slump? Oh, Voice Of The Earth",
