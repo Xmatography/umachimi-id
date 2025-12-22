@@ -10970,8 +10970,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "b9bdddd560b6717795ff6fdbdf4c594b8f7d48d7233e514af7f1c01698e324f1",
-      "size": 5641
+      "hash": "e2454a4f983b71c6e50aaeca563623c740816b9bc3bf91d73002e272dd3690d1",
+      "size": 5636
     },
     {
       "path": "includes_android",
@@ -10985,8 +10985,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "3008d02cf363d587508a2a354c62abdea767918c25c3562a326a14573563b328",
-      "size": 278262
+      "hash": "4de1b053ba4c0c134ddd280c3d2e6ae93790e5bfed214d1a63ae09bda11cf33e",
+      "size": 278212
     },
     {
       "path": "race_jikkyo_comment_dict.json",
