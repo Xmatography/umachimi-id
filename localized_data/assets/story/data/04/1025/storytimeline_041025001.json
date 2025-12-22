@@ -2,32 +2,32 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Do you believe in what you cannot see…"
+            "text": "Apa kau percaya pada sesuatu\nyang tak terlihat?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You really are fast… \nI'm going to have to train even harder…"
+            "text": "…Fufu, cepat sekali.\nAku harus berlatih\nlebih giat lagi…"
         },
         {
-            "text": "…in what can only be seen through the eyes of another…?"
+            "text": "Sesuatu yang hanya bisa\ndilihat oleh indra keenam—"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "To catch her… to catch my… friend…"
+            "text": "Untuk mencapainya…\n\"temanku\"…"
         },
         {
-            "text": "Who are you…?"
+            "text": "Sebenarnya…\nsiapa dirimu…?"
         },
         {
-            "text": "By the time I noticed I didn't have \nmy phone, it was already dark."
+            "text": "Aku baru sadar ponselku hilang,\nsementara hari mulai gelap."
         },
         {
-            "text": "I'd been watching the Uma Musume training that \nday… I must have left it at the track."
+            "text": "Aku tadi melihat Uma Musume\nberlatih. Pasti tertinggal di sana."
         },
         {
-            "text": "I rushed back, and found it by the blinking \nof the low battery light.",
+            "text": "Aku bergegas ke sana dan\nmenemukannya dari kedipan indikator baterai.",
             "choice_data_list": [
-                "There it is!"
+                "Ketemu!"
             ]
         },
         {
@@ -36,174 +36,174 @@
         },
         {
             "name": "???",
-            "text": "…fun… hehe… nder…… atch…"
+            "text": "…lari… hehe…\nkejar……"
         },
         {
-            "text": "Eerie laughter broke the silence. An Uma Musume \nout training? At this time of night…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "I'm okay. I can still run."
+            "text": "Tawa aneh memecah keheningan.\nUma Musume yang berlatih selarut ini…?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Again… and again…… as many times as it takes…"
+            "text": "Ha… aku tak apa… masih bisa berlari…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I love to run… with you…",
+            "text": "…Ya, lagi dan lagi… Sudah berapa kali ini terulang…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Aku suka berlari… bersamamu…",
             "choice_data_list": [
-                "(Who is she talking to…?)"
+                "(Dia bicara dengan siapa…?)"
             ]
         },
         {
-            "text": "Nobody… it was dark, but not so dark that I couldn't see there \nwas no-one else there. Intrigued, I decided to approach…"
+            "text": "Tak ada siapa pun. Cukup gelap, tapi jelas\ndia itu sendirian. Dengan penasaran, aku mendekat…"
         },
         {
-            "text": "(bonk!!)",
+            "text": "(buk!!)",
             "choice_data_list": [
-                "What the…?!"
+                "Lah…?!"
             ]
         },
         {
-            "text": "It felt like someone had struck me hard in the shoulder. I looked \naround. But of course, there was no-one there.",
+            "text": "Seolah ada yang menghantam\nbahuku keras. Aku menoleh—tapi tak ada siapa pun.",
             "choice_data_list": [
-                "(M… Maybe I'm just a little tired…)"
+                "(M-Mungkin aku cuma kelelahan…)"
             ]
         },
         {
-            "text": "An Uma Musume, talking to no-one. \nA knock to the shoulder, from nothing but thin air."
+            "text": "Uma Musume berbicara dengan kehampaan.\nDan pukulan, dari udara kosong."
         },
         {
-            "text": "I thought for a moment that I felt a cold wind, a wind that blew \nright through me. 'My mind must be playing tricks on me,' I \nthought, and set off for home."
+            "text": "Aku merasa angin dingin menembus tubuhku.\n\"Pikiranku pasti salah,\" kataku, lalu pulang."
         },
         {
-            "name": "Scouted Uma Musume",
-            "text": "Really?! Thank you! Thank you so much!! \nIt's my dream to win a GI race!"
+            "name": "Rekrutan Uma Musume",
+            "text": "Serius?! Terima kasih! Ini impianku\nmemenangkan GI!"
         },
         {
-            "name": "Experienced Trainer A",
-            "text": "Yes! And I will do everything I can to get you \nthere! Let's chase that dream… together!"
+            "name": "Trainer Berpengalaman A",
+            "text": "Tentu! Aku akan mendukungmu sepenuh hati.\nMari kejar mimpi itu bersama!"
         },
         {
             "name": "Nervous Uma Musume",
-            "text": "Y… yes! I want to race in the Twinkle Series! \nMore than anything in the world…!!"
+            "text": "I… iya! Aku ingin berlomba\ndi Twinkle Series! Lebih dari apa pun!"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Alright. The qualifiers are coming up soon. How \nabout you show me what you're made of there?"
+            "name": "Trainer Veteran A",
+            "text": "Baik. Kualifikasi segera tiba.\nTunjukkan kemampuanmu di sana."
         },
         {
             "name": "Manhattan Cafe",
             "text": "……",
             "choice_data_list": [
-                "That's her, from last night…"
+                "Itu dia…yang tadi malam…"
             ]
         },
         {
-            "name": "Colleague A",
-            "text": "Heeey <username>! How's the scouting \ngoing? You find any good prospects?"
+            "name": "Kolega A",
+            "text": "Hei <username>! Bagaimana scouting-nya?\nAda kandidat bagus?"
         },
         {
             "name": "Colleague A",
-            "text": "Oh, that one there caught your eye, huh? \nShe looks good, nice form. You gonna make her an offer?",
+            "text": "Oh, yang itu menarik, ya?\nFormasinya bagus. Mau beri tawaran?",
             "choice_data_list": [
-                "Eh… I don't know about that…"
+                "Eh...aku belum yakin…"
             ]
         },
         {
-            "name": "Colleague A",
-            "text": "You sure? Wait, who is she anyway? \nLet me check my notes here, umm…"
+            "name": "Kolega A",
+            "text": "Serius? Siapa dia?\nCoba kulihat catatanku…"
         },
         {
-            "name": "Colleague A",
-            "text": "\"Manhattan Cafe\", huh. I bet she's going to get a lot of \nattention running like that. If you're not interested, maybe I'll \ngo have a word with her…"
+            "name": "Kolega A",
+            "text": "\"Manhattan Cafe\", ya. Kalau terus seperti itu,\npasti banyak yang melirik. Kalau kamu tak mau,\nbiar aku saja…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Recruit… me…?"
+            "text": "Merekrut… aku…?"
         },
         {
-            "name": "Colleague A",
-            "text": "That's right! If you don't have a trainer yet, what do you say we \nteam up? Together, we can conquer the Twinkle Series!"
+            "name": "Kolega A",
+            "text": "Betul! Kalau belum punya trainer,\nbagaimana kalau kita buat tim?\nKita taklukkan Twinkle Series!"
         },
         {
             "name": "Manhattan Cafe",
             "text": "Twinkle… Series……"
         },
         {
-            "name": "Colleague A",
-            "text": "I'll train you into the strongest Uma Musume there is!"
+            "name": "Kolega A",
+            "text": "Aku akan melatihmu jadi Uma Musume terkuat!"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "The… strongest…? \nYou mean… even stronger than… her?"
+            "text": "Ter… kuat…? Bahkan… lebih kuat\ndaripada… dia?"
         },
         {
-            "name": "Colleague A",
-            "text": "\"Her\"? Who do you mean? Oh, there's another Uma Musume \nyou have your sights set on, is that it?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Yes…… \nShe's fast, very fast…… \nShe's right… there…"
-        },
-        {
-            "name": "Colleague A",
-            "text": "Eh? Th… there's nobody over there…? \nIs this supposed to be a joke?"
+            "name": "Kolega A",
+            "text": "\"Dia\"? Maksudmu siapa? Ada Uma\nMusume lain yang kau incar?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "My friend…… she looks just like me… \nShe brought me here… she is very special to me……"
+            "text": "Iya…… Dia cepat… sangat cepat……\nDia… ada di sana…"
+        },
+        {
+            "name": "Kolega A",
+            "text": "Eh? Tak… tak ada siapa-siapa\ndi sana…? Kamu bercanda?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Ever since I was a child… never changing… \nAlways running… always just out of reach… \nShe is the one that I pursue."
+            "text": "Temanku…… Wajahnya mirip denganku…\nDia membawaku ke sini…\nDia sangat berarti bagiku……"
         },
         {
-            "name": "Colleague A",
+            "name": "Manhattan Cafe",
+            "text": "Sejak kecil… tak pernah berubah… Selalu berlari… selalu\nsedikit di depanku… Dialah yang ku kejar."
+        },
+        {
+            "name": "Kolega A",
             "text": "――――"
         },
         {
-            "name": "Colleague A",
-            "text": "Well, that was a waste of time. She doesn't seem interested in \nfinding a trainer. Or talking, even.",
+            "name": "Kolega A",
+            "text": "Yah, buang-buang waktu saja.\nSepertinya dia tak tertarik\npunya pelatih. Atau bahkan berbicara.",
             "choice_data_list": [
-                "How do you mean?"
+                "Maksudmu?"
             ]
         },
         {
-            "name": "Colleague A",
-            "text": "I don't know, she just spouted a bunch of gibberish at me. Like \nshe just wanted to get rid of me. She's… I know I probably \nshouldn't say this, but…"
+            "name": "Kolega A",
+            "text": "Entahlah. Dia ngomong ngawur,\nseolah ingin mengusirku. Aku tahu ini tak pantas,\ntapi…"
         },
         {
-            "name": "Colleague A",
-            "text": "She's kinda… creepy.",
+            "name": "Kolega A",
+            "text": "Dia agak… menyeramkan.",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
             "name": "Colleague A",
-            "text": "Aaa… anyway! Probably best to steer clear of \nher if you ask me. Don't waste your time."
+            "text": "Pokoknya! Lebih baik jauhi dia.\nJangan buang waktumu."
         },
         {
-            "text": "\"Creepy\"… I thought back to the previous night."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Again… and again… as many times as it takes…"
+            "text": "\"Menyeramkan\"… Aku teringat kejadian semalam."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I love to run… with you…"
+            "text": "Lagi… dan lagi… sebanyak apa pun…"
         },
         {
-            "text": "I'd told myself it was just my imagination, just my mind playing \ntricks on me. But I couldn't stop thinking about it."
+            "name": "Manhattan Cafe",
+            "text": "Aku suka berlari… bersamamu…"
         },
         {
-            "text": "But why did she not even give my trainer friend the time of day? \nDoes she really not want to race?"
+            "text": "Aku bilang itu cuma khayalanku.\nTapi aku tak bisa berhenti memikirkannya."
         },
         {
-            "text": "The mystery of Manhattan Cafe swirled \naround my mind until night fell."
+            "text": "Kenapa dia bahkan tak menghiraukan temanku?\nApa dia benar-benar tak ingin berlomba?"
+        },
+        {
+            "text": "Misteri Manhattan Cafe terus berputar\ndi kepalaku, hingga malam tiba."
         }
     ]
 }

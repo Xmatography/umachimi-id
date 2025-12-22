@@ -1,0 +1,265 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "――――Setiap perjalanan selalu memiliki awal."
+        },
+        {
+            "name": "???",
+            "text": "Akhirnya berbeda-beda, sesuai dengan\nmasing-masing kehidupan. Cara kisahnya diceritakan pun \nbermacam-macam. Namun, awalnya――……selalu satu."
+        },
+        {
+            "name": "???",
+            "text": "……Karena ada kesempatan, bagaimana kalau kita menengoknya sebentar.Perjalanan ini……bagaimana awal mulanya sampai kita\ntiba di sini."
+        },
+        {
+            "name": "Monolog",
+            "text": "――Suatu hari. 『Aku ingin melihat pemandangan indah di \ndaerah terpencil yang sepi』. Keinginan kuat itu tiba-tiba \nmuncul dari dalam diriku."
+        },
+        {
+            "name": "Monolog",
+            "text": "……Dan sekarang, mengikuti dorongan itu, aku sedang berjalan di\njalan menuju daerah terpencil. Saat baru saja selesai \nmenyeberangi jembatan gantung tua itu――"
+        },
+        {
+            "name": "Monolog",
+            "text": "（KRAK……KRAK KRAK KRAK!!!）",
+            "choice_data_list": [
+                "Wah!? Jembatan gantungnya……!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "……Tiba-tiba jembatan gantung runtuh, membuatku\nkehilangan jalan pulang dan kebingungan. Saat aku\nberpikir apakah harus menunggu bantuan――",
+            "choice_data_list": [
+                "（…………Suara harmonika?）"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Aku menelurusi suara itu, aku melihat seorang Uma Musume sedang\nbermain musik. Pemandangan itu begitu misterius, sampai-sampai\naku tanpa sadar terpaku mendengarkannya……"
+        },
+        {
+            "name": "???",
+            "text": "――――……Hei. Kamu juga sedang di tengah perjalanan, ya?",
+            "choice_data_list": [
+                "Ah, tidak…… aku cuma――",
+                "Ah, tidak…… aku cuma――"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "――Jadi, kamu tidak bisa pulang. Haha, itu benar-benar sial.\n……Tapi, setidaknya nyawamu selamat, kan.",
+            "choice_data_list": [
+                "Benar juga… masih mending begitu…",
+                "Benar juga… masih mending begitu…"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Tapi kelihatannya, apa yang ingin kamu\nlihat sama denganku.……Anggap saja ini takdir.\nMau ikut denganku ke daerah terpencil itu?",
+            "choice_data_list": [
+                "……Tapi, jalan pulangnya..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Kalau lewat rute yang kupakai, aku bisa mengajarimu.\n……Tapi ya, lewat sana pun, sepertinya hari ini kita tetap tak \nbisa kembali ke pemukiman."
+        },
+        {
+            "name": "???",
+            "text": "Kalau begitu, sekalian saja melangkah sejauh yang bisa kita\ntempuh. Ini sih pendapat pribadiku, tapi perjalanan itu justru\nlebih seru kalau di luar rencana.",
+            "choice_data_list": [
+                "……Itu ada benarnya juga."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Baiklah, sudah diputuskan.\nKalau begitu, mari berangkat."
+        },
+        {
+            "name": "???",
+            "text": "――Tapi sungguh, datang sejauh ini cuma\ndemi pemandangan indah. Kamu punya jiwa\npetualang yang cukup besar.",
+            "choice_data_list": [
+                "Kamu juga sering berpergian?",
+                "Kamu juga sering berpergian?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ya. Aku pergi ke mana pun aku mau,\ndengan caraku sendiri. Kali ini juga, aku datang\nhanya karena sepertinya bakal dapat pemandangan bagus."
+        },
+        {
+            "name": "???",
+            "text": "……Hmm. Vegetasi di sekitar sini berbeda,\njadi pandangannya buruk. Hati-hati dengan pijakan kakimu.",
+            "choice_data_list": [
+                "<size=38>Kalau pun ada hewan, kita gak bakal sadar.</size>",
+                "<size=38>Kalau pun ada hewan, kita gak bakal sadar.</size>"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bisa saja ada binatang yang tiba-tiba meloncat keluar.\nKalau kamu diserang dari belakangku, teriak yang keras ya.\nKalau lagi mood, mungkin akan kutolong."
+        },
+        {
+            "name": "Monolog",
+            "text": "……Jalan menuju tujuan penuh dengan medan berat, jelas bukan\nperjalanan yang mudah. Namun, entah kenapa saat berjalan\nbersamanya, rasanya tidak terlalu melelahkan――"
+        },
+        {
+            "name": "???",
+            "text": "――――Baik. Kita sudah sampai."
+        },
+        {
+            "name": "???",
+            "text": "Hmm…………pemandangannya bagus sekali……!\nLangit terasa dekat……dan anginnya juga nyaman……――",
+            "choice_data_list": [
+                "Iya……benar……!",
+                "Iya……benar……!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Tanah terbuka dan langit luas berpadu,\nterasa begitu menyegarkan. Tak heran ini bisa disebut \n“pemandangan yang membuatmu ingin berlari”…!"
+        },
+        {
+            "name": "???",
+            "text": "……Baiklah. Kita makan dulu di sekitar sini.\nSetelah itu, kita keliling sebentar――"
+        },
+        {
+            "name": "???",
+            "text": "――……Baunya berubah.\n…………Ah. Sepertinya sudah terlambat.",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Tak lama kemudian, cuaca berubah drastis.\nAwan hitam menyelimuti langit dengan\nkecepatan yang terasa seperti lelucon――"
+        },
+        {
+            "name": "???",
+            "text": "Wah wah! Kita benar-benar seperti\ndituang pakai ember raksasa!\nHahaha! Lihat, sepatuku saja sudah basah kuyup!",
+            "choice_data_list": [
+                "Yah, mau bagaimana lagi……!",
+                "Yah, mau bagaimana lagi……!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Kami hanya bisa tertawa. Hujan deras\nyang tiba-tiba dan tak masuk akal ini\nmenghanyutkan seluruh semangat untuk melawan."
+        },
+        {
+            "name": "???",
+            "text": "Haa………… rasanya seperti tersambung\ndengan langit……――\nNah…… kau mau bagaimana?"
+        },
+        {
+            "name": "Monolog",
+            "text": "……Sepertinya dia menikmati kejadian tak terduga ini sepenuh\nhati. Melihatnya begitu menikmati, entah kenapa \nterasa menyenangkan dan sedikit membuat iri――",
+            "choice_data_list": [
+                "Baiklah……kalau begitu, aku juga―!!",
+                "Baiklah……kalau begitu, aku juga―!!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Aku meletakkan barang, berlari tanpa tujuan,\nhujan menghantam tubuhku dengan\nnikmat――dorongan itu kian membesar.",
+            "choice_data_list": [
+                "WAAAAAAAAAAAAAAH!!!!!!!!!!!!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Aku berteriak sekuat tenaga ke arah langit.\nBerlawanan dengan hujan ini, hatiku justru terasa semakin cerah."
+        },
+        {
+            "name": "???",
+            "text": "Heh――"
+        },
+        {
+            "name": "???",
+            "text": "――Bagus juga itu. Kelihatannya seru!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Dalam sekejap dia menyusulku, dan di detik\nberikutnya aku sudah diangkat dan digendong\ndi punggungnya――"
+        },
+        {
+            "name": "Monolog",
+            "text": "――Rasanya seperti menjadi angin.\nHujan, pemandangan, semuanya melesat\nke belakang dengan kecepatan luar biasa……!",
+            "choice_data_list": [
+                "Hebat……! Lari macam apa ini……!",
+                "Hebat……! Lari macam apa ini……!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Aku bahkan lupa bahwa aku sedang\ndigendong, karena larut dalam sensasi lari tajam\nyang menghantam seluruh tubuh ini――"
+        },
+        {
+            "name": "???",
+            "text": "AAAAAAAAAAAAAAAAH!!!\n――Ayo, kamu juga bisa teriak lebih kencang, kan!?",
+            "choice_data_list": [
+                "MANTAAAAPPPPPPP!!!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Nah, gitu dong! Hahaha!!\nKita kebut habis-habisanーーーーーーーーー!!!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Begitulah, kami berdua terus berteriak dan\nbermain di tengah hujan. Melepaskan seluruh\nindera, bertindak sesuka hati, tanpa terikat apa pun."
+        },
+        {
+            "name": "Monolog",
+            "text": "Lupa akan waktu……seperti anak kecil――"
+        },
+        {
+            "name": "Monolog",
+            "text": "…………Dan kemudian, malam pun tiba."
+        },
+        {
+            "name": "???",
+            "text": "Malam ini kita berkemah di sini saja.\n…………Dengan kondisi begini, seharusnya tidak masalah.",
+            "choice_data_list": [
+                "Makasih lagi ya, untuk hari ini."
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Berkat dirinya, aku bisa melihat pemandangan yang kuinginkan.\nSelain itu, aku juga merasakan pengalaman yang tak mungkin \nkurasakan dalam keseharian."
+        },
+        {
+            "name": "Monolog",
+            "text": "Waktu itu begitu menyenangkan dan menyilaukan\nsampai semua terasa tak penting. Itu benar-benar\nwaktu tak terduga yang jujur ingin kusampaikan."
+        },
+        {
+            "name": "???",
+            "text": "Syukurlah kalau begitu. ……Aku juga, berkat\nkamu, bisa menikmati hujan yang bagus."
+        },
+        {
+            "name": "???",
+            "text": "……Malam masih panjang. Sebagai pengisi waktu, \nbagaimana kalau aku ceritakan sebuah kisah perjalanan?",
+            "choice_data_list": [
+                "Cerita apa?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Jalan yang ditempuhnya ternyata panjang\ntak terduga…… Dan tujuan akhirnya adalah\nnegeri asing yang sama sekali di luar bayangan……――"
+        },
+        {
+            "name": "???",
+            "text": "Namun di sana, terdapat emas yang tak\ntergantikan, yang tak pernah dibayangkan\nsiapa pun. ……Kurang lebih, perjalanan seperti itulah.",
+            "choice_data_list": [
+                "……Ceritakan padaku.",
+                "……Ceritakan padaku."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "…………Dia sama sekali bukan sosok\nyang kuat sejak awal――――"
+        }
+    ],
+    "title": "Dari ujung sana, kisah ini diceritakan—"
+}

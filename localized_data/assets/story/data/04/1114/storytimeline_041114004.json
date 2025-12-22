@@ -1,0 +1,307 @@
+{
+    "text_block_list": [
+        {
+            "name": "Komentator",
+            "text": "Baik, berikutnya yang akan tampil\nadalah dua orang yang kalian nantikan!\nVodka, dan Daiwa Scarlet!!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hehe, mohon dukungannya!! Yo, Scarlet,\nudah siap kalah dari gue belum?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph, yang siap itu cuma… bikin kamu nangis!\nOh… semuanya! Hari ini tolong dukung kami ya!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Dengarkanlah sorakan luar biasa ini! Dua perwakilan\nutama dunia balap Uma Musume—dan tanpa\ndiragukan lagi, merekalah pusat perhatian hari ini!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Mungkin mereka tidak sedang dalam kondisi terbaik\nseperti di Twinkle Series, tetapi pasti akan menunjukkan \nperforma yang menakjubkan!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Namun, meskipun menghadapi lawan sekuat itu,\nada satu Uma Musume muda yang dengan lantang \nmenyatakan, ‘Aku tidak akan menyerahkan kemenangan’—!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Saya Buena Vista. Saya sudah berlatih keras\ndemi hari ini! Mohon… dukung saya!"
+        },
+        {
+            "name": "Para Fans",
+            "text": "Uooooh, Buena Vistaaa!! Semangatーーー!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Sungguh luar biasa! Sulit dipercaya sorakan dan \nharapan sebesar ini ditujukan pada Uma Musume yang bahkan\nbelum debut! Kira-kira seperti apa larinya nanti!?",
+            "choice_data_list": [
+                "(Dukungan yang benar-benar hebat..)"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Setiap kali ia tersenyum dari atas paddock, penonton \nlangsung bersorak. Setelah menatap pemandangan\nitu dengan saksama—"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, ketemu…! Kamu bilang mau bicara\nsebelum aku masuk trek, kan?… ada apa?",
+            "choice_data_list": [
+                "Iya, begini—",
+                "Iya, begini—"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Sambil berbicara, aku berdiri tepat di depannya\nsedikit lebih dekat dari biasanya. Lalu, menatapnya lurus-\nlurus, aku berkata pelan.",
+            "choice_data_list": [
+                "<size=38>Sebelum berangkat, ayo fokus sebentar.</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Fokus…?",
+            "choice_data_list": [
+                "<size=30>Iya. Untuk sekarang, coba dengarkan suara aku saja.</size>",
+                "<size=30>Iya. Untuk sekarang, coba dengarkan suara aku saja.</size>"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Uma Musume punya pendengaran yang\nsangat baik. Bahkan di lorong bawah tanah ini,\nsuara sorakan dari luar terdengar jelas."
+        },
+        {
+            "name": "Monolog",
+            "text": "Namun pendengaran hebat itu punya arah. Karena itu, aku\nmemanggilnya perlahan dan jelas.",
+            "choice_data_list": [
+                "<size=35>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
+                "<size=35>Atur napas bersamaku. Tarik… lalu hembuskan.</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Huufff… haaaa……"
+        },
+        {
+            "text": "Eh… aku…",
+            "name": "Buena Vista"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…baru sadar. Ternyata aku… tegang sekali, ya.",
+            "choice_data_list": [
+                "<size=32>Kamu dari dulu…selalu punya perasaan yang peka.</size>",
+                "<size=32>Kamu dari dulu…selalu punya perasaan yang peka.</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! …—fufu, iya, benar. Sepertinya aku benar-\nbenar terbawa oleh semangat panas para penonton."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Tapi aku sudah oke! Terima kasih. Aku berangkat\ndulu, ya. Aku akan menang dan kembali padamu, Trainer-san!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Dan akhirnya… kompetisi pertandingan cabang pun dimulai."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hah, hah… hff—!!"
+        },
+        {
+            "text": "Baik, sejak awal Daiwa Scarlet langsung melaju ke depan! Posisi yang luar biasa! Dia mengambil kendali tempo perlombaan!",
+            "name": "Komentator",
+            "choice_data_list": [
+                "(Tenanglah, pertahankan pace mu..!)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Tenanglah, jangan panik. Simpan tenaga.\nKalau masuk sprint akhir— ‘Bahkan melawan\nDaiwa Scarlet pun, kamu bisa bertarung’!)"
+        },
+        {
+            "text": "(Tenanglah, jangan panik. Simpan tenaga.\nKalau masuk sprint akhir— ‘Bahkan melawan\nDaiwa Scarlet pun, kamu bisa bertarung’!)",
+            "name": "Buena Vista"
+        },
+        {
+            "name": "Vodka",
+            "text": "Oke, gaaas!! Uoooooooーーー！！"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Daya ledak sprint Vodka itu… menakutkan!\nTapi kadang sedikit goyah… karena itu!!）",
+            "choice_data_list": [
+                "<size=34>Masih ada celah untuk maju! Ayo, Buenaーーー!!</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Taaaaaaahーーー！！"
+        },
+        {
+            "name": "Komentator",
+            "text": "Daiwa Scarlet memimpin! Vodka mengejar!!\nNamun Buena Vista juga datang dari belakang!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Tersisa 200 meter! Vodka? Daiwa Scarlet? Atau Buena Vista!?\nBuena Vista semakin dekat! Garis finis sudah di depan mata—!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Sakit… tapi! Aku tidak mau menyerah!\nAku ingin menang! Ingin menang!!\nSetidaknya untuk yang kali ini saja——！）"
+        },
+        {
+            "name": "Monolog",
+            "text": "（Waaaaaaaaaaaaaaaーーー！！）"
+        },
+        {
+            "name": "Nakayama Vesta",
+            "text": "Serius deh. Bisa nyaris dapat posisi ketiga\nmelawan monster-monster itu… dia memang\nluar biasa. …Benar-benar seru nontonnya."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Emang dia keren sih, tapi… tadi levelnya\nkerasa naik banget nggak, sih？ Kayaknya\nyaaa~ itu pasti gara-gara orang itu, ya kan～！？"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Buena-san, ya… fufu, begitu rupanya.\nBarusan aku bisa merasakan petunjuk ilahi."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Meski begitu, kisahku tidak akan berhenti. Fufufufufu♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah… Hah… —Sudah selesai, ya."
+        },
+        {
+            "name": "Monolog",
+            "text": "…Aku hanya mengangguk tanpa kata. Aku meremehkan \nsemuanya, itu saja. Dipenuhi rasa frustrasi dan rasa\nbersalah, aku hendak meminta maaf—"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Aku frustasi. Sangat frustasi…!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Aku benar-benar! Hari ini saja… aku ingin menang,\napa pun yang terjadi. Dan… aku ingin\nmenunjukkannya padamu.",
+            "choice_data_list": [
+                "Eh…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Kesal sekali! Aku ingin menunjukkan! Bahwa jika\nkamu ada di sisiku, kalau bersamamu, aku bisa menang!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Aku… ingin menunjukkannya padamu…!",
+            "choice_data_list": [
+                "Buena..."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ia menangis begitu lama, seperti kembali menjadi\ndirinya yang kecil dulu. Dan kemudian—",
+            "choice_data_list": [
+                "Buena—"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Aku pernah bilang, kan. Waktu kamu tanya\ntentang ‘pemandangan impian’ yang ingin kutuju."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Bahwa aku pasti akan sampai ke pemandangan\nimpianku. Dan aku tidak pernah sekalipun meragukannya."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Tahu kenapa aku bisa percaya tanpa ragu?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Tahu kenapa aku selalu yakin bahwa aku bisa berlari\ndengan cara yang memikat semua orang? Tahu kenapa \naku percaya bahwa orang-orang ingin mendukungku?"
+        },
+        {
+            "text": "—Itu karena kamu selalu ada untukku!",
+            "name": "Buena Vista"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Kamu yang selalu, selalu terpikat pada caraku\nberlari. Kamu yang selalu, selalu mendukungku\nsepenuh hati!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Bahkan setelah kita berpisah saat dewasa,\nkamu tetap… selalu ada di dalam hatiku."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Sekarang..kamu tahu, kan?",
+            "choice_data_list": [
+                "Buena...kamu...",
+                "Buena...kamu..."
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Lalu aku menyadarinya. Sepertinya… dia sudah\njauh lebih dulu sampai pada jawaban yang\nseharusnya kutemukan."
+        },
+        {
+            "name": "Monolog",
+            "text": "Dia sudah lebih dulu melihat jawaban yang\nharus kami raih. Padahal aku lebih tua darinya.\nAku merasa sedikit malu… lalu membuka mulut."
+        },
+        {
+            "name": "Monolog",
+            "text": "Sekali lagi. Berkali-kali. Aku ingin bisa\nmengejarnya, dan menopang punggungnya\nyang selalu berlari di depan.",
+            "choice_data_list": [
+                "Buena, izinkan aku katakan suatu hal!",
+                "Buena, izinkan aku katakan suatu hal!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "choice_data_list": [
+                "Buena, biarkan aku menyatakan ini lagi. Aku—!"
+            ],
+            "text": "Tunggu."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Saat itu, tap. Ujung jarinya yang lembut menyentuh bibirku..",
+            "choice_data_list": [
+                "Eh-----!?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Maaf. Boleh aku egois sedikit?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Kalau mau diulang, aku ingin dari awal. …Boleh?"
+        },
+        {
+            "name": "Monolog",
+            "text": "Dan begitu. Kami kembali berdiri\nberhadapan di tempat janji itu.",
+            "choice_data_list": [
+                "Maaf menunggu. Buena...aku..",
+                "Maaf menunggu. Buena...aku.."
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "…Iya.",
+            "choice_data_list": [
+                "<size=38>Maukah kamu membuat kontrak denganku?</size>",
+                "<size=38>Maukah kamu membuat kontrak denganku?</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—Iya, tentu saja. Trainer-san ku!"
+        }
+    ]
+}

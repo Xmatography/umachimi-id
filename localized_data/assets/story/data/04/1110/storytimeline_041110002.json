@@ -2,212 +2,212 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "As I was walking along the riverside \npath on a clear and sunny afternoon――"
+            "text": "Saat aku berjalan di sepanjang jalan setapak di tepi sungai \npada suatu sore yang cerah dan bersinar――"
         },
         {
-            "name": "A Lively Voice",
-            "text": "Wait for meーーー!! \nHahahaa Ahahaha!"
+            "name": "Suara Senang",
+            "text": "Tunggu akuuuuーーー!! \nHahahaa Ahahaha!"
         },
         {
-            "name": "A Familiar Voice",
-            "text": "Fufu, try and catch me!",
+            "name": "Suara yang Familiar",
+            "text": "Fufu, coba kejar aku!",
             "choice_data_list": [
-                "That voice just now……Cesario?"
+                "Suara barusan……Cesario?"
             ]
         },
         {
-            "text": "When I heard those voices, I turned to see that it was Cesario \nrunning joyfully with a young girl. As I looked closer, I could \nsee the girl had the ears and tail of an Uma Musume."
+            "text": "Mendengar suara itu, aku menoleh dan melihat Cesario berlari riang\nbersama seorang gadis kecil—seorang Uma Musume, lengkap \ndengan telinga dan ekornya.”"
         },
         {
             "name": "Cesario",
-            "text": "Fufuu, tag was fun, wasn't it? What should we play next?"
+            "text": "Fufuu, bermain kejar-kejaran seru ya?\nMau main apa selanjutnya?"
         },
         {
-            "name": "Young Uma Musume",
-            "text": "Ummmm-……Follow the leader! \nAnd after that a relay and a marathon too!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Geez……fufuu, you really like that, huh? \nOkay, let's do it all!"
-        },
-        {
-            "name": "Young Uma Musume",
-            "text": "Onee-chan, thank you! Let's play again, okay～!?"
+            "name": "Uma Musume Kecil",
+            "text": "Ummmm-……Ikuti pemimpin! \nLalu setelah itu estafet dan marathon juga!"
         },
         {
             "name": "Cesario",
-            "text": "Yeah! Another time. …………Fuuu.",
+            "text": "Aduh……fufuu, kamu suka sekali ya? \nBaiklah, ayo lakukan semuanya!"
+        },
+        {
+            "name": "Uma Musume Kecil",
+            "text": "Onee-chan, terima kasih! Kita main lagi ya～!?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya! Lain kali. …………Fuuu.",
             "choice_data_list": [
-                "Good work"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "Eh? Oh, from the other day……! \nGood afternoon. Are you taking a walk?",
-            "choice_data_list": [
-                "Kind of. Is she someone you know?",
-                "Kind of. Is she someone you know?"
+                "Kerja bagus."
             ]
         },
         {
             "name": "Cesario",
-            "text": "No, I just met her. While I was out running, I happened \nto come across an exhausted man and when I talked to him……"
-        },
-        {
-            "name": "Cesario",
-            "text": "It seems like he was worn out from playing with his daughter. \n『Can you play with her for me?』 is what he asked me."
-        },
-        {
-            "text": "Even if they were just a child, Uma Musume \nand their stamina, legs, and speed are quite \nincredible. It's not surprising he was worn out."
-        },
-        {
-            "text": "It sounded like that girl usually ran around \nwith her mother, but she had caught a cold so \nthe father was left alone to look after the girl.",
+            "text": "Eh? Oh, dari waktu itu……! \nSelamat siang. Sedang jalan-jalan?",
             "choice_data_list": [
-                "He must have been really thankful"
+                "Lumayan. Dia kenalanmu?",
+                "Lumayan. Dia kenalanmu?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Fufuu, for sure. Once that girl started running, \nshe'd just keep on going and going……"
+            "text": "Tidak, baru bertemu. Saat aku sedang berlari, aku tidak sengaja \nmelihat seorang pria yang kelelahan, dan ketika kusapa……"
         },
         {
             "name": "Cesario",
-            "text": "She was so cute. \nWhile running, she always had such a big smile……Fufufu♪"
+            "text": "Sepertinya dia kelelahan karena bermain dengan putrinya. \n『Bisakah kamu bermain dengannya untukku?』 begitu katanya."
         },
         {
-            "name": "Cesario",
-            "text": "Her speed during the spurts was good, so maybe she's \nsuited to being a Betweener. And her tenacity in the \nend to keep chasing was awesome, so it might fit her."
+            "text": "Meski masih anak-anak, stamina, kaki, dan kecepatan Uma Musume \nmemang luar biasa. Tidak heran dia kelelahan."
         },
         {
-            "name": "Cesario",
-            "text": "She was able to catch her breath really quickly and seems \nto have a strong heart. She might become a good Stayer.",
+            "text": "Kedengarannya gadis itu biasanya bermain bersama ibunya, \ntapi karena sang ibu sedang sakit flu, sang ayah\nharus menjaga putrinya.",
             "choice_data_list": [
-                "You were paying close attention, huh?",
-                "You were paying close attention, huh?"
+                "Pasti dia sangat berterima kasih."
             ]
         },
         {
             "name": "Cesario",
-            "text": "It's a habit…… Whenever I see a child, I can't help \nbut think about what kind of running would suit her."
+            "text": "Fufuu, tentu saja. Begitu dia mulai berlari,\ndia tidak berhenti-henti……"
         },
         {
             "name": "Cesario",
-            "text": "That girl even said her 『Teacher』 was also \na Stayer, so maybe she'll take the same path. \nFufu, I'm looking forward to her growth!",
+            "text": "Dia lucu sekali. Saat berlari, \nwajahnya selalu tersenyum lebar……Fufufu♪"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kecepatannya saat sprint bagus, mungkin dia\ncocok sebagai Late.  Dan kegigihannya mengejar\nsampai akhir itu luar biasa, jadi bisa cocok."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dia bisa mengatur napas dengan sangat cepat\ndan tampaknya berhati kuat. \nDia mungkin akan jadi Stayer yang hebat.",
             "choice_data_list": [
-                "Teacher?"
+                "<size=38>Kamu memperhatikan dengan detail ya?</size>",
+                "<size=38>Kamu memperhatikan dengan detail ya?</size>"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Ah, well……I was talking about her mother. \nSorry, out of habit, I ended up calling her a 『Teacher』",
+            "text": "Itu sudah kebiasaan…… Setiap melihat anak kecil,\naku langsung terpikir seperti apa gaya lari yang cocok untuknya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Gadis itu bahkan bilang 『Guru』-nya juga seorang Stayer,\njadi mungkin dia akan mengikuti jalur yang sama. Fufu, aku\nmenantikan perkembangannya!",
             "choice_data_list": [
-                "What makes you call her that?",
-                "What makes you call her that?"
+                "Guru?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Well, you see……"
-        },
-        {
-            "text": "Cesario started walking, it looked like she was \nlost in thought. As I followed after her, we saw \nmore Uma Musume children running around nearby."
-        },
-        {
-            "text": "It looked like the one looking after them \nwas also an Uma Musume. Maybe it was some \nkind of kid's club that was active around here."
-        },
-        {
-            "name": "Cesario",
-            "text": "A feeling of wanting to run, similar to instinct…… \nthe power and strength they are born with―― \nUma Musume have various things that humans do not."
-        },
-        {
-            "name": "Cesario",
-            "text": "Knowing how to handle those differences is very important. \nThat can form the entire basis of your life as an Uma Musume."
-        },
-        {
-            "name": "Cesario",
-            "text": "Uma Musume guiding other Uma Musume――Some learn directly \nfrom their mothers, while others feel that touch of fate, \nand others still, learn from the coaches in their life."
-        },
-        {
-            "name": "Cesario",
-            "text": "No matter what form it takes……it doesn't change the fact that \nUma Musume who lead the next generations play an important role."
-        },
-        {
-            "name": "Cesario",
-            "text": "That's why I call them 『Teachers』, a title \nfilled with respect. Something that only another \nUma Musume can do, an irreplaceable role."
-        },
-        {
-            "text": "Unexpectedly, I heard a very important story. 『Teacher』, \nsuch a simple word that carried a lot of meaning."
-        },
-        {
-            "text": "It wasn't just admiration. Like a jewel shining \namongst stone, I had a clear perception. Put in \nto words, to her, a 『Teacher』 must be――",
+            "text": "Ah, um……maksudku ibunya. \nMaaf, karena kebiasaan aku menyebutnya 『Guru』",
             "choice_data_list": [
-                "Is that perhaps……your dream?"
+                "Kenapa menyebutnya begitu?",
+                "Kenapa menyebutnya begitu?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Actually……yes. Both of my parents work in fields related \nto raising Uma Musume, so since I was young, I've always \nseen what it's like for my mother to teach others."
+            "text": "Begini, jadi……"
+        },
+        {
+            "text": "Cesario mulai berjalan, tampak seperti sedang tenggelam \ndalam pikirannya.Saat aku mengikutinya, kami melihat \nlebih banyak anak-anak Uma Musume berlari-lari di dekat sana."
+        },
+        {
+            "text": "Yang mengawasi mereka juga tampak seorang Uma Musume. \nMungkin semacam klub anak-anak yang aktif di daerah ini."
         },
         {
             "name": "Cesario",
-            "text": "For those children that ran on impulse, my mother would \nguide them and help them discover what it meant to race……"
+            "text": "Keinginan untuk berlari, seperti sebuah naluri…… \nkekuatan dan kemampuan yang mereka miliki sejak lahir―― \nUma Musume punya banyak hal yang tidak dimiliki manusia."
         },
         {
             "name": "Cesario",
-            "text": "When I think about it, it was like that for me too. \nFrom my 『Teacher』 I inherited my run, and found the \npath I want to take……I learned how to truly run.",
+            "text": "Mengetahui cara menghadapi perbedaan-perbedaan\nitu sangat penting. Itu bisa membentuk seluruh dasar \nkehidupan sebagai Uma Musume."
+        },
+        {
+            "name": "Cesario",
+            "text": "Uma Musume membimbing sesamanya—ada yang belajar dari ibu,\ndari takdir yang mempertemukan, atau dari para pelatih."
+        },
+        {
+            "name": "Cesario",
+            "text": "Apa pun bentuknya……tetap sama bahwa Uma Musume\nyang membimbing generasi berikutnya memiliki peran penting."
+        },
+        {
+            "name": "Cesario",
+            "text": "Itulah kenapa aku menyebut mereka 『Guru』, sebuah gelar \nyang penuh rasa hormat. Sesuatu yang hanya bisa dilakukan\nUma Musume lain, peran yang tak tergantikan."
+        },
+        {
+            "text": "Tanpa diduga, aku mendengar sesuatu yang sangat penting. 『Guru』, \nkata sederhana dengan makna yang begitu dalam."
+        },
+        {
+            "text": "Itu bukan hanya kekaguman. Seperti permata yang\nbersinar di antara batu, aku bisa merasakannya jelas.\nJika diungkapkan, bagi dia, 『Guru』 pasti――",
             "choice_data_list": [
-                "You found your own path to run",
-                "You found your own path to run"
+                "Apa mungkin……itu mimpimu?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes. And like that, everyone, when guided by someone, can \nbecome whole. And the way that run is passed down, flowing \nlike a river from one to the next, I find invaluable."
+            "text": "Sebenarnya……iya. Kedua orang tuaku bekerja di bidang yang \nberhubungan dengan membina Uma Musume, jadi sejak kecil \naku sering melihat bagaimana ibuku mengajari mereka."
         },
         {
             "name": "Cesario",
-            "text": "Since I was born an Uma Musume, I wanted to become \na part of that flow. Guiding many Uma Musume \nas a 『Teacher』……or rather, 『A guiding light』――",
+            "text": "Untuk anak-anak yang berlari hanya mengikuti\nnaluri, ibuku akan membimbing mereka dan membantu\nmereka menemukan apa itu balapan……"
+        },
+        {
+            "name": "Cesario",
+            "text": "Kalau kupikir-pikir, begitu juga denganku. Dari 『Guru』-ku\naku mewarisi gaya lari, menemukan jalan yang ingin kuambil…… \nAku belajar bagaimana cara benar-benar berlari.",
             "choice_data_list": [
-                "I think it really suits you"
+                "Kamu menemukan jalanmu sendiri",
+                "Kamu menemukan jalanmu sendiri"
             ]
         },
         {
             "name": "Cesario",
-            "text": "!! It suits me? Even from the perspective of a trainer? \nWaa…………! Fufu…………that makes me happy……!!"
-        },
-        {
-            "text": "That she was this happy showed just how strong that \nadmiration was. Even so, a 『Guiding Light』, huh? \nI asked something similar after the Selection race."
+            "text": "Ya. Dan seperti itu, setiap orang, ketika dibimbing oleh seseorang, \nbisa menjadi utuh. Dan cara lari itu diwariskan, mengalir seperti sungai \ndari satu ke yang lain, menurutku itu sangat berharga."
         },
         {
             "name": "Cesario",
-            "text": "And that's to become a guiding light for future Uma Musume―― \nTherefore, to prove my worth, I must win races."
-        },
-        {
-            "text": "So with those words she meant she wants to \nbecome a 『Teacher』 and guide many Uma Musume."
-        },
-        {
-            "text": "To become a great 『Teacher』, she wanted to obtain the Triple \nTiara to help prove that. I could completely understand."
-        },
-        {
-            "text": "If I became her trainer, then I would want to help her. To do that, \nI would need to know more about Cesario's expectations――",
+            "text": "Sebagai Uma Musume, aku ingin ikut mengalir dalam rantai \nitu—membimbing banyak Uma Musume sebagai \n『Guru』…atau menjadi『Cahaya Penuntun』.",
             "choice_data_list": [
-                "……I want to hear more."
+                "Menurutku itu cocok sekali untukmu"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "!! Cocok untukku? Bahkan dari sudut pandang seorang trainer? \nWaa…………! Fufu…………aku senang sekali……!!"
+        },
+        {
+            "text": "Melihat betapa bahagianya dia, terlihat seberapa kuat kekaguman itu. \nMeski begitu, 『Cahaya Penuntun』 ya…… \nAku pernah menanyakan hal serupa setelah race Seleksi."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan itu untuk menjadi cahaya yang membimbing\npara Uma Musume masa depan―― Karena itu, untuk \nmembuktikan diriku, aku harus menang dalam lomba."
+        },
+        {
+            "text": "Dengan kata lain, dia ingin menjadi seorang 『Guru』 dan \nmembimbing banyak Uma Musume."
+        },
+        {
+            "text": "Untuk menjadi 『Guru』 yang hebat, dia ingin\nmeraih Triple Tiara sebagai bukti. \nAku benar-benar paham."
+        },
+        {
+            "text": "Jika aku menjadi trainernya, tentu aku ingin membantunya. Untuk itu, \naku harus tahu lebih banyak tentang harapan Cesario――",
+            "choice_data_list": [
+                "<size=38>……Aku ingin mendengarnya lebih banyak.</size>"
             ]
         },
         {
             "name": "Cesario",
             "text": "Eh.....?",
             "choice_data_list": [
-                "I want to know more about it",
-                "I want to know more about it"
+                "Aku ingin tahu lebih jauh tentang itu",
+                "Aku ingin tahu lebih jauh tentang itu"
             ]
         },
         {
             "name": "Cesario",
-            "text": "……understood. Then, tomorrow, let's meet at school."
+            "text": "……baik. Kalau begitu, besok, mari bertemu di sekolah."
         },
         {
-            "text": "My heart was beating faster, excited. Just like when the prologue \nwas over and a story reached its climax in the second act."
+            "text": "Jantungku berdebar lebih cepat, bersemangat. Seperti ketika prolog \nberakhir dan cerita memasuki puncak babak kedua."
         }
     ]
 }
