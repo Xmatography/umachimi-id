@@ -15,7 +15,7 @@ Kontribusi dari komunitas sangat berarti untuk membuat proyek ini lebih baik.
 
 ## 🛠️ Cara Berkontribusi
 1. Gunakan **VsCode**  
-2. Download (Carotene) [https://github.com/KevinVG207/Uma-Carotene-TL] / Zokuzoku [https://github.com/Hachimi-Hachimi/ZokuZoku/releases] Wajib dikarenakan beberapa dump bahasa tidak terlist.
+2. Download [Carotene](https://github.com/KevinVG207/Uma-Carotene-TL) / [Zokuzoku](https://github.com/Hachimi-Hachimi/ZokuZoku/releases) Wajib dikarenakan beberapa dump bahasa tidak terlist.
 3. Pakai Umaviewer untuk mengambil meta data dan master.mdb dalam game  ✨  
 4. Enjoy TL 🎉  
 
@@ -30,10 +30,10 @@ Kontribusi dari komunitas sangat berarti untuk membuat proyek ini lebih baik.
 ## 📣 Komunitas & Diskusi
 Gabung bareng komunitas buat diskusi, tanya jawab, atau update terbaru!  
 
-- 💬 **Discord**: [https://discord.gg/7Ak6NVqG](Disini)  
-- 📱 **WhatsApp**: [wa.me/+6283899296475] (Gabung Komunitas / Bertanya Cara Kontribusi)  
-- 📷 **Instagram**: [instagram.com/XmatographyFX] (My Instagram)  
-- 🎵 **TikTok**: [tiktok.com/@xmatographyfx] (Live Race dan Update)  
+- 💬 **Discord**: [https://discord.gg/4zvW4VhrYV] (Umachimi-ID Colab)  
+- 📱 **WhatsApp**: [https://wa.me/+6283899296475] (Gabung Komunitas / Bertanya Cara Kontribusi)  
+- 📷 **Instagram**: [https://instagram.com/XmatographyFX] (My Instagram)  
+- 🎵 **TikTok**: [https://tiktok.com/@xmatographyfx] (Live Race dan Update)  
 
 ---
 

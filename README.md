@@ -7,17 +7,16 @@ Di sini kamu bisa kontribusi berbagai hal seputar **terjemahan, resource, dan do
 ## 📑 Daftar Isi
 - 📌 [Tentang Proyek](#-tentang-proyek)  
 - 🚀 [Fitur Utama](#-fitur-utama)  
-- 📂 [Struktur Direktori](#-struktur-direktori)  
-- 🛠️ [Cara Instalasi](#%EF%B8%8F-cara-instalasi)  
+- 📂 [Struktur Direktori](#-struktur-direktori)    
 - 📝 [Catatan Rilis](#-catatan-rilis)  
-- 🤝 [Kontribusi](#-kontribusi)  
-- 📜 [Lisensi](#-lisensi)  
+- 🤝 [Kontribusi](#-kontribusi)
 
 ---
 
 ## 📌 Tentang Proyek
 Proyek ini bertujuan untuk menyediakan **versi Indonesia dan daerah** dari berbagai konten di [Hachimi](https://hachimi.leadrdrk.com/).  
 Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem, hingga detail lain dalam bahasa yang lebih familiar 🇮🇩✨.  
+Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Status Translasi](https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi) dan [Discord Server](https://discord.gg/4zvW4VhrYV)
 
 ---
 
@@ -65,6 +64,6 @@ Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)
 ---
 ## Kontributor Utama
 
-@Xmatography
-@Vin..Tar
-@MisuMatsu
+<a href="https://github.com/Xmatography/umachimi-id/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Xmatography/umachimi-id" />
+</a>
