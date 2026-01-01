@@ -10799,29 +10799,29 @@
       "size": 323652
     },
     {
-      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_00.png",
-      "hash": "0ffdb3df1ef9be827a147c9643c7fb0258ffb934707eef05103a51ffb3f438ff",
-      "size": 42463
+      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_00.diff.png",
+      "hash": "0de8a17d86cfdfee7c7cddd5c279d02f47b252cc0ee0a73dee852f1b90939823",
+      "size": 22907
     },
     {
-      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_01.png",
-      "hash": "29f2a82b2e4d8aff695252db421e462a23d5dcdac4ea4189adca9b1441382910",
-      "size": 39689
+      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_01.diff.png",
+      "hash": "309a31f2cecd83e820235609be251978d5582ddf886c60b4496ceafba134d854",
+      "size": 22117
     },
     {
-      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_02.png",
-      "hash": "fdec5fe53f6fa1ddeff70d983712e76abdf237ff092a1ab15837afbc7d7f27bc",
-      "size": 41510
+      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_02.diff.png",
+      "hash": "bbb2b6457f0c7b32f595de33b5992e4f643788c8c1d2e4d2a2c7bbe269c78bec",
+      "size": 21870
     },
     {
-      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_03.png",
-      "hash": "391604342c1130d31c1fa45b34831b737893f62b0c1d6cc435b8fe317f22b860",
-      "size": 43598
+      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_03.diff.png",
+      "hash": "8b1e46d262e957920033ce6631c73dab88c47c4b108a84b5f6b772f953d9d8c1",
+      "size": 24465
     },
     {
-      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_04.png",
-      "hash": "2fa375c2a935af47879a7338ec81ab80a4b150aa757b725aadf7b7f7eea531fb",
-      "size": 40947
+      "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_04.diff.png",
+      "hash": "d7afb0fb319b2a944e608d3ddb2a015f2e7151a5f340be9625ee7ad5483b4ce8",
+      "size": 24543
     },
     {
       "path": "assets/uianimation/flash/champions/pf_fl_champions_result_finalranking00.json",
@@ -11345,8 +11345,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "58cc9bf2bbda119382bc6c1544bebace198a85f28f08bca4295713a3c6d5318c",
-      "size": 2391415
+      "hash": "4a4b558a183a41a09ce68e200634ca8e83bad06041fbe8d063c4e6755f7d714e",
+      "size": 2384641
     }
   ]
 }
