@@ -6,7 +6,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Duh, akhirnya bangun juga. ……Ini, aku bikinin cokelat panas.\nMinum pelan-pelan ya? Sekarang udah dingin banget kan?",
+            "text": "Duh, akhirnya bangun juga. …Ini, aku bikinin cokelat panas.\nMinum pelan-pelan ya? Sekarang udah dingin banget kan?",
             "name": "Cesario"
         },
         {
@@ -30,7 +30,7 @@
             "name": "Cesario"
         },
         {
-            "text": "Ah, tapi……kayaknya udah waktunya ganti baju dan siap-siap.\nKalau nggak, bisa telat buat ke kuil nih.",
+            "text": "Ah, tapi…kayaknya udah waktunya ganti baju dan siap-siap.\nKalau nggak, bisa telat buat ke kuil nih.",
             "name": "Cesario"
         },
         {
@@ -38,10 +38,11 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Tahun baru. Rhein Kraft dan Cesario sekarang udah di tahun Classic mereka, dan kita memutuskan buat pergi bareng ke kuil pertama tahun ini, tapi――",
+            "text": "Tahun baru. Rhein Kraft dan Cesario sekarang udah di tahun\nClassic mereka, dan kita memutuskan buat pergi bareng\nke kuil pertama tahun ini, tapi――",
             "choice_data_list": [
                 "(Ramainya seperti biasa……!)"
-            ]
+            ],
+            "name": "Monolog"
         },
         {
             "text": "Ah, duh, semua, kalian nyusul nggak!? \nJawab kalau bisa denger aku-!",
@@ -52,11 +53,11 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Gila, ramainya~……kita sampe sesak banget, aku pikir semua osechi yang aku makan tadi bakal keluar~……",
-            "name": "Gadis kuda A"
+            "text": "Gila, ramainya~……kita sampe sesak banget, aku pikir\nsemua osechi yang aku makan tadi bakal keluar~…",
+            "name": "Umamusume Ahoge"
         },
         {
-            "text": "Aku punya saran. Dari pengamatanku, kepadatan agak reda di sisi kanan.\nAntrian belum kebentuk, jadi sebaiknya kita pindah sekarang.",
+            "text": "Aku punya saran. Di pengamatanku, kepadatan mereda di sisi kanan.\nAntrian belum kebentuk, jadi sebaiknya kita pindah sekarang.",
             "name": "Cesario"
         },
         {
@@ -64,11 +65,12 @@
             "name": "Cesario"
         },
         {
-            "text": "Bener juga……! Duh~, kalau Cesario lagi serius, dia bener-bener andal.",
-            "name": "Gadis kuda B"
+            "text": "Bener juga…! Duh~, kalau Cesario lagi serius, dia beneran andal",
+            "name": "Umamusume Ponytail"
         },
         {
-            "text": "Dan akhirnya, walaupun rame banget, kita berhasil\nselesaiin kunjungan ke kuil dengan aman."
+            "text": "Dan akhirnya, walaupun rame banget, kita berhasil\nselesaiin kunjungan ke kuil dengan aman.",
+            "name": "Monolog"
         },
         {
             "text": "(……tahun ini, aku bakal berusaha dukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka dapet hasil yang diinginkan――)",
@@ -96,11 +98,11 @@
         },
         {
             "text": "Ah, nggak masalah……atau malah, denger kouhai bilang mau lari, susah deh bilang \"Kita pulang~\"……",
-            "name": "Gadis kuda A"
+            "name": "Umamusume Ahoge"
         },
         {
             "text": "Kamu bodoh! Sebaiknya bilang aja itu memotivasi kamu, walaupun bohong! ……Ah, tapi, itu bukan bohong juga!!",
-            "name": "Gadis kuda B"
+            "name": "Umamusume Ponytail"
         },
         {
             "text": "Pokoknya, aku rasa ini ide bagus.\nBanyak balapan sekali seumur hidup……\nbuat tahun Classic jadi istimewa.",
@@ -171,6 +173,14 @@
         },
         {
             "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada Triple Tiara girls』……Itu pendapat umum.",
+            "name": "<username>"
+        },
+        {
+            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada Triple Tiara girls』……Itu pendapat umum.",
+            "name": "<username>"
+        },
+        {
+            "text": "……Meski tau itu, kalian masih ngerasa sama nggak?",
             "name": "<username>"
         },
         {

@@ -5,7 +5,7 @@
             "text": "Tahun baru udah lewat. Cesario udah\nikut 『Kanchiku Sho』――dan dia menang!"
         },
         {
-            "text": "(Oke……! Dia menang di balapan sama beberapa\npeserta Triple Crown, dan ini balapan jarak menengah 2000m.\nDengan ini……!)",
+            "text": "(Oke……! Dia menang di balapan sama beberapa peserta\nTriple Crown, dan ini balapan jarak menengah 2000m.\nDengan ini……!)",
             "name": "<username>"
         },
         {
@@ -13,8 +13,19 @@
             "name": "<username>"
         },
         {
-            "text": "Aku pengen kamu ikut balapan besar lain sebagai persiapan\ntujuan utama 『Oka Sho』. Jadi, ayo ikut 『Flower Cup』 1800m berikutnya!",
+            "text": "Selamat ya menang 『Kanchiku Sho』, Cesario.\nTernyata, kekuatanmu memang lebih ke jarak agak panjang.",
             "name": "<username>"
+        },
+        {
+            "text": "Aku pengen kamu ikut balapan besar lain sebagai persiapan\ntujuan utama 『Oka Sho』.\nJadi, ayo ikut 『Flower Cup』 1800m berikutnya!",
+            "name": "<username>"
+        },
+        {
+            "text": "Terus Kraft. Kamu bisa tunjukkin kemampuanmu di balapan\njarak pendek. Jadi, ikut 『Fillies' Review』 1400m ya.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Ayo capai tujuan berikutnya!"
+            ]
         },
         {
             "text": "Terus Kraft. Kamu bisa tunjukkin kemampuanmu di balapan\njarak pendek. Jadi, ikut 『Fillies' Review』 1400m ya.",
@@ -28,7 +39,7 @@
             "name": "Kraft & Cesario"
         },
         {
-            "text": "(Abis Fillies' Review, 『Oka Sho』 bulan berikutnya……\nDan itu pertama kalinya……aku bakal hadapin Cesario di balapan resmi)",
+            "text": "(Abis Fillies' Review, 『Oka Sho』 bulan berikutnya……\nDan itu pertama kalinya…aku menghadapi Cesario di balapan resmi)",
             "name": "Rhein Kraft"
         },
         {
@@ -56,7 +67,7 @@
             "name": "Special Week"
         },
         {
-            "text": "(Spe-san……! Sekejap banget……itulah kekuatan finishing Uma Musume yang disebut \"Supreme Command of Japan\"……! ……Tapi――)",
+            "text": "(Spe-san……! Sekejap banget……itulah kekuatan finishing\nSang Umamusume  \"Supreme Command of Japan\"! …Tapi―)",
             "name": "Rhein Kraft"
         },
         {
@@ -72,7 +83,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "(Gak boleh! 『Nggak sabar nih』? Sekarang bukan waktunya\npikir naif……Aku harus lebih serius!)",
+            "text": "(Gak boleh! 『Nggak sabar nih』? Ini bukan waktunya\npikir naif……Aku harus lebih serius!)",
             "name": "Rhein Kraft"
         },
         {
@@ -80,11 +91,11 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "……Berarti, aku harus cari Uma Musume yang punya\nfinishing kuat juga――……betul, dalam hal ini!!",
+            "text": "…Berarti, aku harus cari Uma Musume yang punya\nfinishing kuat juga――……betul, dalam hal ini!!",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Hmm, hmm, hmmmmm~……♪ Sibuk banget, sibuk. \nCek deh, bahan berikutnya yang aku butuhin sekarang~……",
+            "text": "Hmm, hmm, hmmmmm~……♪ Sibuk banget, sibuk. \nCek deh, bahan berikutnya yang aku butuhin sekarang~",
             "name": "???"
         },
         {
@@ -108,15 +119,15 @@
             "name": "Sweep Tosho"
         },
         {
-            "text": "Au……I-itu gitu ya?\nUuu……nggak……tapi, bisa nggak dipikirin lagi?",
+            "text": "Au……I-itu gitu ya?\nUuu…nggak…tapi, bisa nggak dipikirin lagi?",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Hei, kamu dengerin aku nggak!? Aku bilang nggak kan!? Nggak deh!!",
+            "text": "Hei, kamu dengerin aku nggak!?\nAku bilang nggak kan!? Nggak deh!!",
             "name": "Sweep Tosho"
         },
         {
-            "text": "Tapi, tapi! Nggak bisa dibantuin nggak!? Tolong, Sweep-saaaaa~~~n!!",
+            "text": "Tapi, tapi! Nggak bisa dibantuin nggak!?\nTolong, Sweep-saaaaa~~~n!!",
             "name": "Rhein Kraft"
         },
         {
@@ -124,7 +135,7 @@
             "name": "Sweep Tosho"
         },
         {
-            "text": "――Sekarang, taruh bunga biru kecil sini, terus umbi-umbinya\nmasukin ke botol yang itu. Sekarang!",
+            "text": "Sekarang, taruh bunga biru kecil sini, terus umbi-umbinya\nmasukin ke botol yang itu. Sekarang!",
             "name": "Sweep Tosho"
         },
         {
@@ -148,7 +159,7 @@
             "name": "Sweep Tosho"
         },
         {
-            "text": "Tentu……! Sweep Tosho-san.\n……kamu Uma Musume yang udah nunjukin kita apa itu 『Race Magic』.",
+            "text": "Tentu……! Sweep Tosho-san. Kamu Umamusume\nyang udah nunjukin kita apa itu 『Race Magic』.",
             "name": "Rhein Kraft"
         },
         {
@@ -216,7 +227,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Fuuu……! Wah, lumayan juga. Start-mu tepat, dan bertahan di akhir cukup oke.",
+            "text": "Fuuu……! Wah, lumayan juga. Start-mu tepat,\ndan bertahan di akhir cukup oke.",
             "name": "Sweep Tosho"
         },
         {
@@ -236,7 +247,7 @@
             "name": "Spe & Cesario"
         },
         {
-            "text": "(Lawan finishing itu……lawan ketajaman itu!\nKalau aku tetap gini……jujur aja, seberapa jauh aku di depan, kayaknya nggak cukup……!)",
+            "text": "(Lawan finishing itu…lawan ketajaman itu! Kalau aku tetap gini…\njujur aja, seberapa jauh aku di depan, kayaknya nggak cukup……!)",
             "name": "Rhein Kraft"
         },
         {

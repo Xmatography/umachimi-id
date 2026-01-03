@@ -6,11 +6,15 @@
             "name": "<username>"
         },
         {
-            "text": "……Sebenarnya, kami udah tahu tentang kamu sebelum kita masuk sini.",
+            "text": "『Tidak ada orang lain selain aku』, katamu……\ntapi, kenapa kamu mikir gitu tentang aku……?",
+            "name": "<username>"
+        },
+        {
+            "text": "Sebenarnya, kami tahu tentang kamu sebelum kita masuk sini.",
             "name": "Cesario"
         },
         {
-            "text": "……bahwa kamu bakal mengikuti jejak ayahmu yang 『Terkenal』\ndengan jadi pelatih Team <Ascella>.",
+            "text": "Bahwa kamu bakal mengikuti jejak ayahmu yang 『Terkenal』\ndengan jadi pelatih Team <Ascella>.",
             "name": "Cesario",
             "choice_data_list": [
                 "……!"
@@ -25,11 +29,15 @@
             "name": "<username>"
         },
         {
-            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya……\naku yang bakal ambil alih timnya, <Ascella>.",
+            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya…\naku yang bakal ambil alih timnya, <Ascella>.",
             "name": "<username>"
         },
         {
-            "text": "Tentu saja ini menarik perhatian banyak orang. \nSetelah itu, aku kontrak sama King Halo, \nwhose ibunya juga terkenal. \nJadi kita dapet julukan 『Second Generation Duo』.",
+            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya…\naku yang bakal ambil alih timnya, <Ascella>.",
+            "name": "<username>"
+        },
+        {
+            "text": "Tentu saja ini menarik perhatian banyak orang. Setelah itu,\nseperti King Halo yang lahir dari Umamusume ternama dan\nmenjalin kontrak, kau pun berdiri sebagai ‘duo generasi kedua.",
             "name": "<username>"
         },
         {
@@ -45,7 +53,7 @@
             "name": "King Halo"
         },
         {
-            "text": "Untuk Triple Crown tahun depan, Special Week, \nyang dipimpin pelatih 『Genius』 baru, juga udah \numumkan ikut!",
+            "text": "Untuk Triple Crown tahun depan, Special Week, yang dipimpin\npelatih 『Genius』 baru, juga udah umumkan ikut!",
             "name": "Reporter B"
         },
         {
@@ -77,7 +85,11 @@
             ]
         },
         {
-            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri……tapi……!)",
+            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri tapi…!)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri tapi…!)",
             "name": "<username>"
         },
         {
@@ -85,11 +97,23 @@
             "name": "<username>"
         },
         {
-            "text": "(Ada juga Special Week dari belakang! \nKalau dia terlalu fokus di depan, bakal capek sebelum akhir……!)",
+            "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
             "name": "<username>"
         },
         {
-            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya……!?)",
+            "text": "(Ada juga Special Week dari belakang! \nKalau dia terlalu fokus di depan, bakal capek sebelum akhir…!)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya!?)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya!?)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Sial, sial, sial! Kok nggak kepikiran apa-apa!? \nPadahal aku……!)",
             "name": "<username>"
         },
         {
@@ -102,7 +126,7 @@
         },
         {
             "text": "――Permisi. \nKing Halo-san, waktunya. Silahkan ke paddock.",
-            "name": "Race Official",
+            "name": "Petugas Lomba",
             "choice_data_list": [
                 "!!"
             ]
@@ -116,7 +140,11 @@
             "name": "<username>"
         },
         {
-            "text": "Sekarang, 『Japan Derby』 akhirnya――dimulai!! \n18 Uma Musume berlari untuk impian mereka, untuk mahkota itu!",
+            "text": "(Waktu habis……! Aku nggak sempat bilang apa-apa……!!)",
+            "name": "<username>"
+        },
+        {
+            "text": "Sekarang, 『Japan Derby』 akhirnya――dimulai!! \n18 Umamusume berlari untuk impian mereka, untuk mahkota itu!",
             "name": "Penyiar"
         },
         {
@@ -151,7 +179,7 @@
             "name": "Penyiar"
         },
         {
-            "text": "――Dia jadi favorit kedua, tapi King Halo kalah \ndan cuma di posisi 14! \nPertama kalinya dia lari sebagai escape sejak debut, \ntapi hasilnya kurang beruntung!",
+            "text": "Dia favorit kedua, tapi King Halo kalah dan cuma di posisi 14! \nPertama kalinya dia lari sebagai escape sejak debut, \ntapi hasilnya kurang beruntung!",
             "name": "Penyiar"
         },
         {
@@ -175,12 +203,23 @@
             "name": "<username>"
         },
         {
-            "text": "……Kayaknya nggak ada artikel tentang Team <Ascella> hari ini juga. \nYa udah, paling juga artikel terbaru cuma nyinyir sama kita.",
+            "text": "(Setelah itu, kita kalah lagi di dua balapan besar, \ntermasuk 『Kikka Sho』. Tahun klasiknya berakhir \ntanpa memenuhi ekspektasi――)",
+            "name": "<username>"
+        },
+        {
+            "text": "Kayaknya gak ada artikel tentang Team <Ascella> hari ini juga. \nYa udah, paling juga artikel terbaru cuma nyinyir sama kita.",
             "name": "King Halo"
         },
         {
-            "text": "……Mungkin ini berarti dunia akhirnya nggak peduli lagi sama Unreliable Second Gen Duo……",
+            "text": "Mungkin ini berarti dunia akhirnya nggak peduli lagi sama\nUnreliable Second Gen Duo……",
             "name": "King Halo"
+        },
+        {
+            "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
+            "name": "<username>",
+            "choice_data_list": [
+                "(……Tapi――!)"
+            ]
         },
         {
             "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
@@ -197,15 +236,38 @@
             ]
         },
         {
+            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku pelatih King Halo!)",
+            "name": "<username>",
+            "choice_data_list": [
+                "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
+            ]
+        },
+        {
             "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
             "name": "<username>"
         },
         {
-            "text": "Aku tau sakitnya. Pasti rasanya nggak enak banget. \n……Tapi kamu, tetap kan, bukan Uma Musume yang gampang nyerah?",
+            "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
             "name": "<username>"
         },
         {
-            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai hari kamu bisa angkat kepala sebagai 『First Rate Uma Musume』!",
+            "text": "Selanjutnya… kamu—",
+            "name": "King Halo"
+        },
+        {
+            "text": "Aku sedang terluka. Jujur, rasanya berat. …Tapi kamu bukan\nUma Musume yang akan menyerah begitu saja, kan?",
+            "name": "<username>"
+        },
+        {
+            "text": "Aku sedang terluka. Jujur, rasanya berat. …Tapi kamu bukan\nUma Musume yang akan menyerah begitu saja, kan?",
+            "name": "<username>"
+        },
+        {
+            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai kamu angkat kepala sebagai 『First Rate Uma Musume』!",
+            "name": "<username>"
+        },
+        {
+            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai kamu angkat kepala sebagai 『First Rate Uma Musume』!",
             "name": "<username>"
         },
         {
@@ -213,7 +275,7 @@
             "name": "King Halo"
         },
         {
-            "text": "Jadi mulai siap-siap, Trainer! Kita meeting soal balapan berikutnya! \nCuma buat kamu――aku bakal kasih privilege dukung jalannya King yang baru!",
+            "text": "Jadi siap-siap, Trainer! Kita meeting soal balapan berikutnya! \nCuma buat kamu aku bakal kasih privilege dukung jalannya\nKing yang baru!",
             "name": "King Halo"
         },
         {
@@ -236,7 +298,7 @@
             "name": "Penyiar"
         },
         {
-            "text": "Juara pertama King Halo! Setelah 10 kekalahan, \ndi 『Takamatsunomiya Kinen』 King Halo dapet kemenangan G1 pertama!!",
+            "text": "Juara pertama King Halo! Setelah 10 kekalahan, \ndi 『Takamatsunomiya Kinen』King Halo dapet kemenangan\nG1 pertama!!",
             "name": "Penyiar"
         },
         {
@@ -248,7 +310,7 @@
             "name": "<username>"
         },
         {
-            "text": "――……makasih banyak buat semua ucapan selamat. \nJujur, jalan ini nggak gampang tapi……",
+            "text": "――makasih banyak buat semua ucapan selamat. \nJujur, jalan ini nggak gampang tapi……",
             "name": "King Halo"
         },
         {
@@ -256,7 +318,7 @@
             "name": "King Halo"
         },
         {
-            "text": "(Abis itu……pas nonton broadcast, King dan aku berantem 『Nggak, kamu yang lebih nangis』)",
+            "text": "(Abis itu……pas nonton broadcast, King dan aku\nberantem 『Nggak, kamu yang lebih nangis』)",
             "name": "<username>"
         },
         {
@@ -267,7 +329,7 @@
             ]
         },
         {
-            "text": "Fufuu. ……Sebenarnya, kita berdua nonton press conference itu di billboard jalanan! \nDan kebetulan berdampingan!",
+            "text": "Fufuu. …Sebenarnya, kita berdua nonton press conference itu\ndi billboard jalanan! Dan kebetulan berdampingan!",
             "name": "Rhein Kraft",
             "choice_data_list": [
                 "K-kamu!?",
@@ -279,7 +341,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Jangan pernah nyerah sama mimpi sampai akhir. \nBiar sakit, biar frustrasi, terus lari sampai kamu genggam mimpi itu.",
+            "text": "Jangan pernah nyerah sama mimpi sampai akhir. \nBiar sakit, frustrasi, terus lari sampai menggenggam mimpi itu.",
             "name": "Rhein Kraft"
         },
         {
@@ -287,7 +349,7 @@
             "name": "Cesario"
         },
         {
-            "text": "……makanya Kraft dan aku pilih Team <Ascella>. \nNggak ada tim lain yang lebih cocok buat kita, itu yang kita percaya.",
+            "text": "……makanya Kraft dan aku pilih Team <Ascella>. \nNggak ada tim lain yang lebih cocok yang kita percaya.",
             "name": "Cesario"
         },
         {
@@ -313,6 +375,10 @@
             "name": "King Halo"
         },
         {
+            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUma Musume terkenal dan pelatih terkenal.",
+            "name": "King Halo"
+        },
+        {
             "text": "Tapi kita bisa ngelakuin sesuatu yang cuma kita bisa lakukan, \nmendapat hasil kelas satu. Siapa lagi kalo bukan karena ini?",
             "name": "King Halo"
         },
@@ -331,7 +397,15 @@
             "name": "<username>"
         },
         {
-            "text": "Aku nggak sehebat ayahku. \nAku mungkin cuma turunin keras kepala dia. Tapi tetep――",
+            "text": "Aku nggak sehebat ayahku. \nAku mungkin cuma turunin keras kepala dia. Tapi tetep―",
+            "name": "<username>",
+            "choice_data_list": [
+                "Aku bakal dukung sampai akhir",
+                "Aku bakal dukung sampai akhir"
+            ]
+        },
+        {
+            "text": "Aku nggak sehebat ayahku. \nAku mungkin cuma turunin keras kepala dia. Tapi tetep―",
             "name": "<username>",
             "choice_data_list": [
                 "Aku bakal dukung sampai akhir",

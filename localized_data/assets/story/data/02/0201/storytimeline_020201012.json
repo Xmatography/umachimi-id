@@ -10,19 +10,27 @@
       ]
     },
     {
+      "text": "――Oke deh. Kayaknya semua barang udah keload semua.",
+      "name": "<username>",
+      "choice_data_list": [
+        "King, coba cek lagi ya?",
+        "King, coba cek lagi ya?"
+      ]
+    },
+    {
       "text": "Baiklah. ……Oke, Tim <Ascella>! Semua udah kumpul kan?\nKita cek terakhir sebelum berangkat!",
       "name": "King Halo"
     },
     {
       "text": "Okaaa~ay, Anggota Tim #1 hadir~.\nSemua barang aku udah dimasukin~.",
-      "name": "Gadis kuda A"
+      "name": "Umamusume Ahoge"
     },
     {
       "text": "Aku juga udah kelar! Oh iya, aku bawa banyak camilan,\nnanti kita makan di jalan ya!",
-      "name": "Gadis kuda B"
+      "name": "Umamusume Ponytail"
     },
     {
-      "text": "Pantes aja bawaanmu banyak banget…… Hadeh.\n……Terus, gimana dengan dua anggota baru? Udah siap semua?",
+      "text": "Pantes aja bawaanmu banyak banget…… Hadeh.\nTerus, gimana dengan dua anggota baru? Udah siap semua?",
       "name": "King Halo"
     },
     {
@@ -38,8 +46,16 @@
       "name": "<username>"
     },
     {
+      "text": "K-kayaknya nggak ada? Kalau nanti ada yang ketinggalan,\njangan sungkan bilang aja ya……?",
+      "name": "<username>"
+    },
+    {
       "text": "Betul. Soalnya――Kraft.\nPerjalanan kali ini emang buat kamu.",
       "name": "King Halo"
+    },
+    {
+      "text": "Oke deh, kita berangkat sekarang! Semua, masuk mobil!",
+      "name": "<username>"
     },
     {
       "text": "Oke deh, kita berangkat sekarang! Semua, masuk mobil!",
@@ -50,19 +66,23 @@
       "name": "<username>"
     },
     {
-      "text": "Uoooouu!!",
-      "name": "Team Members"
+      "text": "Dan kita meluncur, ke 『Hanshin JF』-nya Rhein Kraft!",
+      "name": "<username>"
     },
     {
-      "text": "Aku nggak sabar! G1 pertamaku……\nDengan dukungan semua orang, aku pasti bakal kasih yang terbaik!",
+      "text": "Uoooouu!!",
+      "name": "Anggota Tim"
+    },
+    {
+      "text": "Aku nggak sabar! G1 pertamaku……\nDengan dukungan semuanya, aku akan kasih yang terbaik!",
       "name": "Rhein Kraft"
     },
     {
-      "text": "Terus, yang lebih penting, kamu beneran sehat kan?\nTidurmu cukup nggak kemarin? Atau itu kantong mata di bawah matamu\ncuma perasaan aku aja?",
+      "text": "Terus, yang lebih penting, kamu beneran sehat kan?\nTidurmu cukup nggak kemarin? Atau kantong mata itu\ncuma perasaan aku aja?",
       "name": "King Halo",
       "choice_data_list": [
-        "A-aku baik-baik aja! Tidurnya nyenyak kok!",
-        "A-aku baik-baik aja! Tidurnya nyenyak kok!"
+        "A-aku gapapa! Tidurnya nyenyak kok!",
+        "A-aku gapapa! Tidurnya nyenyak kok!"
       ]
     },
     {
@@ -70,7 +90,7 @@
       "name": "King Halo"
     },
     {
-      "text": "Pokoknya, ke penginapan deket arena Hanshin butuh sekitar 8 jam,\ntermasuk istirahat! Pastikan nyetirnya bener ya.",
+      "text": "Pokoknya, ke penginapan di arena Hanshin butuh sekitar 8 jam,\ntermasuk istirahat! Pastikan nyetirnya bener ya.",
       "name": "King Halo"
     },
     {
@@ -89,7 +109,7 @@
       ]
     },
     {
-      "text": "Iya iya, tetap fokus. ……Tapi coba liat,\nsemua orang udah pada tidur.\nKayaknya mereka juga kurang tidur semalam.",
+      "text": "Iya iya, tetap fokus. Tapi coba liat, semuanya udah pada tidur.\nKayaknya mereka juga kurang tidur semalam.",
       "name": "King Halo",
       "choice_data_list": [
         "Kalau kamu ngantuk tidur aja",
@@ -101,7 +121,7 @@
       "name": "King Halo"
     },
     {
-      "text": "……Bener juga ya, sekarang anggota baru kita banyak banget.\nPernah kebayang nggak, mobil ini bisa penuh secepet ini?",
+      "text": "Bener juga ya, sekarang anggota baru kita banyak banget.\nPernah kebayang nggak, mobil ini bisa penuh secepet ini?",
       "name": "King Halo"
     },
     {
@@ -109,11 +129,19 @@
       "name": "<username>"
     },
     {
-      "text": "<username>. Mulai sekarang,\naku serahin peran Trainer Tim <Ascella> ke kamu.\n……Ngerti kan? Kerjain baik-baik.",
-      "name": "Father"
+      "text": "Kayaknya sih nggak. ……Waktu ayahku masih jadi Trainer,\nmobil ini aja nggak cukup lho――",
+      "name": "<username>"
     },
     {
-      "text": "Sejak aku ambil alih tim, jumlah anggota malah berkurang ya?\nKalau dipikir lagi, dulu pernah juga kan cuma tinggal kita berdua……",
+      "text": "<username>. Mulai sekarang,\naku serahin peran Trainer Tim <Ascella> ke kamu.\n……Ngerti kan? Kerjain baik-baik.",
+      "name": "Ayah"
+    },
+    {
+      "text": "Sejak aku ambil alih tim, anggota malah berkurang ya?\nKalau dipikir lagi, dulu juga pernah cuma tinggal kita berdua…",
+      "name": "<username>"
+    },
+    {
+      "text": "Sejak aku ambil alih tim, anggota malah berkurang ya?\nKalau dipikir lagi, dulu juga pernah cuma tinggal kita berdua…",
       "name": "<username>"
     },
     {
@@ -121,7 +149,7 @@
       "name": "King Halo"
     },
     {
-      "text": "Apalagi, dua rookie berbakat yang bisa ikut balap G1 juga gabung.\n……Tim kita udah jadi keren banget, setuju kan?",
+      "text": "Apalagi, dua pemula berbakat yang bisa ikut balap G1 juga gabung.\n……Tim kita udah jadi keren banget, setuju kan?",
       "name": "King Halo",
       "choice_data_list": [
         "Setuju……!",
@@ -129,15 +157,19 @@
       ]
     },
     {
-      "text": "Rhein Kraft dan Cesario bener-bener bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
+      "text": "Rhein Kraft dan Cesario beneran bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
       "name": "<username>"
     },
     {
-      "text": "Sekarang semua Uma Musume udah masuk ke gate.\nMasing-masing siap banget nunjukin kemampuan biar dilirik trainer――",
+      "text": "Rhein Kraft dan Cesario beneran bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
+      "name": "<username>"
+    },
+    {
+      "text": "Sekarang semua Umamusume udah masuk ke gate.\nMereka siap banget nunjukin kemampuan biar dilirik trainer―",
       "name": "Penyiar"
     },
     {
-      "text": "Persiapan selesai.\nDan sekarang, balapan Seleksi dimulai!!",
+      "text": "Persiapan selesai.\nDan sekarang, Balapan Seleksi dimulai!!",
       "name": "Penyiar"
     },
     {
@@ -150,10 +182,14 @@
     },
     {
       "text": "Uooooh, mantap! Baru mulai aja udah kasih tontonan keren~……!\nKayak yang dibilang, Rhein Kraft emang punya bakat luar biasa!",
-      "name": "Rookie Trainer A",
+      "name": "Trainer Pemula A",
       "choice_data_list": [
         "Iya, bener banget……!"
       ]
+    },
+    {
+      "text": "(Bisa ngebut sampe top speed secepet itu……\ndia emang punya bakat kecepatan!)",
+      "name": "<username>"
     },
     {
       "text": "(Bisa ngebut sampe top speed secepet itu……\ndia emang punya bakat kecepatan!)",
@@ -173,11 +209,11 @@
     },
     {
       "text": "Oke, dia kayaknya bisa ngatur pace dengan baik!\nBisa jadi dia menang langsung nih!?",
-      "name": "Trainer pemula A"
+      "name": "Trainer Pemula A"
     },
     {
       "text": "……Nggak juga sih.\nLiat aja, sekarang udah masuk paruh kedua――!!",
-      "name": " Trainer menengah A"
+      "name": " Trainer Menengah A"
     },
     {
       "text": "――Fuuu……!!",
@@ -188,11 +224,11 @@
       "name": "Penyiar"
     },
     {
-      "text": "Gila cepet banget!\nDia ninggalin yang lain dengan mudah!\nCesario, dengan sprint itu,\nlangsung ngejar Rhein Kraft yang di depan!!",
+      "text": "Gila cepet banget! Dia ninggalin yang lain dengan mudah!\nCesario, dengan sprint itu, langsung ngejar Rhein Kraft\nyang di depan!!",
       "name": "Penyiar",
       "choice_data_list": [
-        "Finishnya gokil banget……!",
-        "Finishnya gokil banget……!"
+        "Last spurtnya gokil banget……!",
+        "Sprintnya gokil banget……!"
       ]
     },
     {
@@ -204,8 +240,12 @@
       "name": "Cesario"
     },
     {
-      "text": "! Udah kuduga kamu bakal nyusul……!\nTapi! Yaaaaaaaaaー!!",
+      "text": "Udah kuduga kamu bakal nyusul……!\nTapi! Yaaaaaaaaaー!!",
       "name": "Rhein Kraft"
+    },
+    {
+      "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
+      "name": "<username>"
     },
     {
       "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
@@ -228,6 +268,14 @@
       "choice_data_list": [
         "<size=41>Gila……mereka berdua gila banget……!!</size>",
         "<size=41>Gila……mereka berdua gila banget……!!</size>"
+      ],
+            "name": "Monolog"
+    },
+    {
+      "text": "(Udah pasti semua tim pengen ngerekrut mereka.\nBahkan trainer paling 『berbakat』 di angkatanku mikir gitu)",
+      "name": "<username>",
+      "choice_data_list": [
+        "(Tapi, mereka berdua――)"
       ]
     },
     {
@@ -257,11 +305,15 @@
       ]
     },
     {
-      "text": "――Aku bener-bener nggak nyangka mereka berdua malah datengin aku duluan,\nkaget banget.\nSampai sekarang aku masih heran kenapa mereka pilih tim kita.",
+      "text": "Aku beneran nggak nyangka mereka berdua malah datengin\naku duluan, kaget banget.\nSampai sekarang aku masih heran kenapa mereka pilih tim kita.",
       "name": "<username>"
     },
     {
-      "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka udah berbakat, aku harus usaha lebih keras biar seimbang.",
+      "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka berbakat, aku harus usaha lebih keras biar seimbang.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka berbakat, aku harus usaha lebih keras biar seimbang.",
       "name": "<username>"
     },
     {
@@ -276,12 +328,12 @@
       "text": "Dia menang debut, dan balapan besar bulan lalu.\nLatihannya juga bisa dibilang sempurna.\nMenurutku kita udah siap banget.",
       "name": "<username>",
       "choice_data_list": [
-        "<size=41>G1 pertamanya. Semoga dia nggak tegang――</size>",
-        "<size=41>G1 pertamanya. Semoga dia nggak tegang――</size>"
+        "<size=41>G1 pertamanya. Semoga dia gak tegang―</size>",
+        "<size=41>G1 pertamanya. Semoga dia gak tegang―</size>"
       ]
     },
     {
-      "text": "Kayaknya sih dia baik-baik aja.\nDi mobil aja dia tidur nyenyak banget.\nTahan banting banget……mungkin malah salah satu yang terkuat.",
+      "text": "Kayaknya sih dia baik-baik aja.\nDi mobil aja dia tidur nyenyak banget.\nTahan banting banget, mungkin malah salah satu yang terkuat.",
       "name": "King Halo"
     },
     {
@@ -289,7 +341,12 @@
       "name": "<username>"
     },
     {
-      "text": "Setelah perjalanan panjang, dan malam singkat――\nakhirnya tiba waktunya.\nHari 『Hanshin JF』-nya Rhein Kraft……"
+      "text": "Bisa jadi.\nIni kan balapan junior kelas atas……\ntapi kalau Rhein Kraft sih――!",
+      "name": "<username>"
+    },
+    {
+      "text": "Setelah perjalanan panjang, dan malam singkat――\nakhirnya tiba waktunya.\nHari 『Hanshin JF』-nya Rhein Kraft……",
+            "name": "Monolog"
     },
     {
       "text": "Suuu……――Huuuu.\n……Oke, siap!",
@@ -306,6 +363,10 @@
     {
       "text": "Aku bakal buktiin di sini!\nKalau aku pantas ada di tim ini.",
       "name": "Rhein Kraft"
+    },
+    {
+      "text": "Kraft……iya.\nDi panggung G1 ini, tunjukin semua kemampuanmu!",
+      "name": "<username>"
     },
     {
       "text": "Kraft……iya.\nDi panggung G1 ini, tunjukin semua kemampuanmu!",
