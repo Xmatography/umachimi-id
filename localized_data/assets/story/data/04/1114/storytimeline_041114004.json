@@ -2,147 +2,147 @@
     "text_block_list": [
         {
             "name": "Komentator",
-            "text": "Baik, berikutnya yang akan tampil\nadalah dua orang yang kalian nantikan!\nVodka, dan Daiwa Scarlet!!"
+            "text": "Nah, berikutnya yang akan tampil adalah dua orang yang kalian nantikan! Vodka, dan Daiwa Scarlet!!"
         },
         {
             "name": "Vodka",
-            "text": "Hehe, mohon dukungannya!! Yo, Scarlet,\nudah siap kalah dari gue belum?"
+            "text": "Hehe, mohon dukungannyaーーー!!\nYo, Scarlet, udah siap kalah dari gue belum?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmph, yang siap itu cuma… bikin kamu nangis!\nOh… semuanya! Hari ini tolong dukung kami ya!"
+            "text": "Hmph, gue cuma siap bikin lo nangis tau!\nOh…… semuanya! Mohon dukungannya untuk hari ini, ya!!"
         },
         {
             "name": "Komentator",
-            "text": "Dengarkanlah sorakan luar biasa ini! Dua perwakilan\nutama dunia balap Umamusume—dan tanpa\ndiragukan lagi, merekalah pusat perhatian hari ini!!"
+            "text": "Dengarkanlah sorakan yang luar biasa ini! Pusat perhatian semua orang hari ini tertuju kepada dua perwakilan utama dunia balap Umamusume!!"
         },
         {
             "name": "Komentator",
-            "text": "Mungkin mereka tidak sedang dalam kondisi terbaik\nseperti di Twinkle Series, tetapi pasti akan menunjukkan \nperforma yang menakjubkan!"
+            "text": "Mungkin mereka tidak sedang dalam kondisi terbaik seperti di Twinkle Series, tetapi pasti akan menunjukkan performa yang menakjubkan!"
         },
         {
             "name": "Komentator",
-            "text": "Namun, meskipun menghadapi lawan sekuat itu,\nada satu Umamusume muda yang dengan lantang \nmenyatakan, ‘Aku tidak akan menyerahkan kemenangan’—!"
+            "text": "Namun, meskipun demikian！ Ada satu Umamusume pendatang baru yang penuh ambisi dengan lantang menyatakan, \"Tidak akan pernah kuserahkan kemenangan itu\"――！"
         },
         {
             "name": "Buena Vista",
-            "text": "Saya Buena Vista. Saya sudah berlatih keras\ndemi hari ini! Mohon… dukung saya!"
+            "text": "Saya Buena Vista. Saya sudah berlatih keras demi hari ini!\nMohon――dukungannya, ya!"
         },
         {
             "name": "Para Fans",
-            "text": "Uooooh, Buena Vistaaa!! Semangatーーー!!"
+            "text": "Uooooh, Buena Vistaaaa～!!\nSemangatーーーーーーーー!!"
         },
         {
             "name": "Komentator",
-            "text": "Sungguh luar biasa! Sulit dipercaya sorakan dan \nharapan sebesar ini ditujukan pada Umamusume yang bahkan\nbelum debut! Kira-kira seperti apa larinya nanti!?",
+            "text": "Sungguh luar biasa! Sulit dipercaya sorakan dan harapan sebesar ini ditujukan pada Umamusume yang bahkan belum debut! Kira-kira, \nseperti apa larinya nanti!?",
             "choice_data_list": [
-                "(Dukungan yang benar-benar hebat..)"
+                "(Dukungan yang benar-benar hebat)"
             ]
         },
         {
             "name": "",
-            "text": "Setiap kali ia tersenyum dari atas paddock, penonton \nlangsung bersorak. Setelah menatap pemandangan\nitu dengan saksama—"
+            "text": "Setiap kali ia tersenyum dari atas paddock, penonton langsung bersorak. Setelah aku menatap pemandangan itu dengan saksama――"
         },
         {
             "name": "Buena Vista",
-            "text": "Ah, ketemu…! Kamu bilang mau bicara\nsebelum aku masuk trek, kan?… ada apa?",
+            "text": "Ah, ketemu……！ \nKamu bilang mau bicara sebelum aku masuk trek, kan? ……Ada apa?",
             "choice_data_list": [
-                "Iya, begini—",
-                "Iya, begini—"
+                "Iya, begini――",
+                "Iya, begini――"
             ]
         },
         {
             "name": "",
-            "text": "Sambil berbicara, aku berdiri tepat di depannya\nsedikit lebih dekat dari biasanya. Lalu, menatapnya lurus-\nlurus, aku berkata pelan.",
+            "text": "Sambil berbicara, aku berdiri tepat di depannya sedikit lebih dekat dari biasanya. Lalu, sambil menatapnya lurus, aku berbicara dengan pelan.",
             "choice_data_list": [
-                "<size=38>Sebelum berangkat, ayo fokus sebentar.</size>"
+                "Sebelum pergi, ayo fokus sebentar."
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Fokus…?",
+            "text": "Fokus……?",
             "choice_data_list": [
-                "<size=30>Iya. Untuk sekarang, coba dengarkan suara aku saja.</size>",
-                "<size=30>Iya. Untuk sekarang, coba dengarkan suara aku saja.</size>"
+                "<size=37>Iya. Untuk sekarang, coba dengarkan suarku saja.</size>",
+                "<size=37>Iya. Untuk sekarang, coba dengarkan suarku saja.</size>"
             ]
         },
         {
             "name": "",
-            "text": "Umamusume punya pendengaran yang\nsangat baik. Bahkan di lorong bawah tanah ini,\nsuara sorakan dari luar terdengar jelas."
+            "text": "Umamusume punya pendengaran yang sangat baik. Bahkan di lorong \nbawah tanah ini pun, suara sorakan dari luar terdengar jelas."
         },
         {
             "name": "",
-            "text": "Namun pendengaran hebat itu punya arah. Karena itu, aku\nmemanggilnya perlahan dan jelas.",
+            "text": "Namun, pendengaran hebat itu punya sifat \"terarah\". \nKarena itulah, aku memanggilnya dengan perlahan dan jelas.",
             "choice_data_list": [
-                "<size=35>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
-                "<size=35>Atur napas bersamaku. Tarik… lalu hembuskan.</size>"
+                "<size=39>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
+                "<size=39>Atur napas bersamaku. Tarik… lalu hembuskan.</size>"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "……Huufff… haaaa……"
-        },
-        {
-            "text": "Eh… aku…",
-            "name": "Buena Vista"
+            "text": "…………Huufff ……Haaaaーーーー……"
         },
         {
             "name": "Buena Vista",
-            "text": "…baru sadar. Ternyata aku… tegang sekali, ya.",
+            "text": "E-eh, aku――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Aku baru sadar. Ternyata aku, tegang sekali ya.",
             "choice_data_list": [
-                "<size=32>Kamu dari dulu…selalu punya perasaan yang peka.</size>",
-                "<size=32>Kamu dari dulu…selalu punya perasaan yang peka.</size>"
+                "<size=37>Kamu dari dulu……punya kepekaan yang sensitif.</size>",
+                "<size=37>Kamu dari dulu……punya kepekaan yang sensitif.</size>"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Ah! …—fufu, iya, benar. Sepertinya aku benar-\nbenar terbawa oleh semangat panas para penonton."
+            "text": "Ah! ……――fufu, iya, benar. Sepertinya aku benar-benar terbawa oleh antusiasme dan semangat dari para penonton."
         },
         {
             "name": "Buena Vista",
-            "text": "Tapi aku sudah oke! Terima kasih. Aku berangkat\ndulu, ya. Aku akan menang dan kembali padamu, Trainer-san!"
+            "text": "Tapi, aku sudah oke! Terima kasih. Aku berangkat dulu, ya.\nAku akan pulang membawa kemenangan, Trainer-san!"
         },
         {
             "name": "",
-            "text": "Dan akhirnya… kompetisi pertandingan cabang pun dimulai."
+            "text": "Dan akhirnya……kompetisi pertandingan cabang pun, dimulai."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hah, hah… hff—!!"
+            "text": "Hah, hah…… huff――！！"
         },
         {
-            "text": "Baik, sejak awal Daiwa Scarlet langsung melaju ke depan! Posisi yang luar biasa! Dia mengambil kendali tempo perlombaan!",
             "name": "Komentator",
+            "text": "Nah, sejak awal Daiwa Scarlet langsung melaju ke depan! Posisi yang luar biasa! Dia mengambil kendali tempo perlombaan!",
             "choice_data_list": [
                 "(Tenanglah, pertahankan pace mu..!)"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "(Tenanglah, jangan panik. Simpan tenaga.\nKalau masuk sprint akhir— ‘Bahkan melawan\nDaiwa Scarlet pun, kamu bisa bertarung’!)"
-        },
-        {
-            "text": "(Tenanglah, jangan panik. Simpan tenaga.\nKalau masuk sprint akhir— ‘Bahkan melawan\nDaiwa Scarlet pun, kamu bisa bertarung’!)",
-            "name": "Buena Vista"
-        },
-        {
-            "name": "Vodka",
-            "text": "Oke, gaaas!! Uoooooooーーー！！"
+            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
         },
         {
             "name": "Buena Vista",
-            "text": "(Daya ledak sprint Vodka itu… menakutkan!\nTapi kadang sedikit goyah… karena itu!!）",
+            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
+        },
+        {
+            "name": "Vodka",
+            "text": "Oke, gaaas!! RAAAAAAAAAGHHーーー！！"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Daya ledak sprint Vodka itu……bener-bener mengerikan! \nTapi di saat yang sama, kadang jalurnya sedikit goyah… karena itu!!)",
             "choice_data_list": [
-                "<size=34>Masih ada celah untuk maju! Ayo, Buenaーーー!!</size>"
+                "<size=39>Masih ada celah untuk maju! Ayo, Buenaーー!!</size>"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Taaaaaaahーーー！！"
+            "text": "TAAAAAAHHHHHHH……！！"
         },
         {
             "name": "Komentator",
-            "text": "Daiwa Scarlet memimpin! Vodka mengejar!!\nNamun Buena Vista juga datang dari belakang!"
+            "text": "Daiwa Scarlet masih memimpin! Vodka terus mengejar!! \nTetapi, tetapi Buena Vista! Buena Vista juga juga telah datang!"
         },
         {
             "name": "Komentator",
@@ -150,23 +150,23 @@
         },
         {
             "name": "Buena Vista",
-            "text": "(Sakit… tapi! Aku tidak mau menyerah!\nAku ingin menang! Ingin menang!!\nSetidaknya untuk yang kali ini saja——！）"
+            "text": "(Sakit,……T-tapi! Aku tidak mau menyerah! Aku ingin menang! \nIngin menang!! Setidaknya……untuk yang kali ini saja——！)"
         },
         {
             "name": "",
-            "text": "（Waaaaaaaaaaaaaaaーーー！！）"
+            "text": "(Waaaaaaaaaaaaaaahhーーー！！)"
         },
         {
-            "name": "Nakayama Vesta",
-            "text": "Serius deh. Bisa nyaris dapat posisi ketiga\nmelawan monster-monster itu… dia memang\nluar biasa. …Benar-benar seru nontonnya."
+            "name": "Nakayama Festa",
+            "text": "Astaga. Menghadapi para monster itu, sampai bisa mendekati posisi \nke-3 dengan selisih seujung hidung……dia memang luar biasa. \n……Benar-benar membuatku seru nontonnya."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Emang dia keren sih, tapi… tadi levelnya\nkerasa naik banget nggak, sih？ Kayaknya\nyaaa～ itu pasti gara-gara orang itu, ya kan～！？"
+            "text": "Emang dia keren sih……tapi, tadi levelnya kerasa naik banget kan？ \nKayaknya yaaa～ itu pasti gara-gara orang itu, ya kan～！？"
         },
         {
             "name": "Red Desire",
-            "text": "Buena-san, ya… fufu, begitu rupanya.\nBarusan aku bisa merasakan petunjuk ilahi."
+            "text": "Buena-san, ya……――fufu, begitu rupanya.\nBarusan aku bisa merasakan adanya sebuah petunjuk suci."
         },
         {
             "name": "Red Desire",
@@ -174,134 +174,132 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Hah… Hah… —Sudah selesai, ya."
+            "text": "Hah……――Sudah selesai, ya."
         },
         {
             "name": "",
-            "text": "…Aku hanya mengangguk tanpa kata. Aku meremehkan \nsemuanya, itu saja. Dipenuhi rasa frustrasi dan rasa\nbersalah, aku hendak meminta maaf—"
+            "text": "……Aku, hanya mengangguk tanpa kata. Aku terlalu meremehkannya, \nitu saja. Sambil dipenuhi rasa frustrasi dan rasa bersalah, pada saat itu aku hendak meminta maaf――"
         },
         {
             "name": "Buena Vista",
-            "text": "…Aku frustasi. Sangat frustasi…!!"
+            "text": "……Menyebalkan. Menyebalkan sekali, benar-benar……！！"
         },
         {
             "name": "Buena Vista",
-            "text": "Aku benar-benar! Hari ini saja… aku ingin menang,\napa pun yang terjadi. Dan… aku ingin\nmenunjukkannya padamu.",
+            "text": "Bagaimanapun juga! Hari ini, kalau saja hari ini…… bagaimanapun juga, aku ingin menang. Padahal aku…… ingin menunjukkannya kepadamu.",
             "choice_data_list": [
-                "Eh…?"
+                "Eh……?"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Kesal sekali! Aku ingin menunjukkan! Bahwa jika\nkamu ada di sisiku, kalau bersamamu, aku bisa menang!"
+            "text": "Menyebalkan, menyebalkan! Aku ingin menunjukkannya! Kalau kamu ada \ndi sisiku――karena bersamamu, aku bisa menang!"
         },
         {
             "name": "Buena Vista",
-            "text": "Aku… ingin menunjukkannya padamu…!",
+            "text": "Aku…… ingin menunjukkannya padamu……！",
             "choice_data_list": [
-                "Buena..."
+                "Buena――"
             ]
         },
         {
-            "name": "Buena Vista",
-            "text": "Ia menangis begitu lama, seperti kembali menjadi\ndirinya yang kecil dulu. Dan kemudian—",
+            "text": "Ia menangis begitu lama, terus menangis histeris. Sama persis…… seperti kembali menjadi dirinya yang kecil dulu. Dan kemudian—",
             "choice_data_list": [
                 "Buena—"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "…Aku pernah bilang, kan. Waktu kamu tanya\ntentang ‘pemandangan impian’ yang ingin kutuju."
+            "text": "……Aku, pernah bilang, kan. Waktu kamu tanya tentang impian \"pemandangan indah\" yang ingin kutuju."
         },
         {
             "name": "Buena Vista",
-            "text": "Bahwa aku pasti akan sampai ke pemandangan\nimpianku. Dan aku tidak pernah sekalipun meragukannya."
+            "text": "Bahwa aku pasti akan sampai ke pemandangan impianku. Dan aku tidak pernah sekalipun meragukannya."
         },
         {
             "name": "Buena Vista",
-            "text": "Tahu kenapa aku bisa percaya tanpa ragu?"
+            "text": "Kalau begitu, tahu gak kenapa aku bisa tetap berada di sini tanpa meragukanmu?"
         },
         {
             "name": "Buena Vista",
-            "text": "Tahu kenapa aku selalu yakin bahwa aku bisa berlari\ndengan cara yang memikat semua orang? Tahu kenapa \naku percaya bahwa orang-orang ingin mendukungku?"
-        },
-        {
-            "text": "—Itu karena kamu selalu ada untukku!",
-            "name": "Buena Vista"
+            "text": "Bahwa aku bisa berlari dengan cara membuat semua orang menjadi terpesona dan ingin mendukung. Tahu gak kenapa aku bisa terus mempercayai hal itu sejak dulu?"
         },
         {
             "name": "Buena Vista",
-            "text": "Kamu yang selalu, selalu terpikat pada caraku\nberlari. Kamu yang selalu, selalu mendukungku\nsepenuh hati!"
+            "text": "――Itu karena, kamu selalu ada untukku!"
         },
         {
             "name": "Buena Vista",
-            "text": "Bahkan setelah kita berpisah saat dewasa,\nkamu tetap… selalu ada di dalam hatiku."
+            "text": "Karena kamu yang selalu, selalu terpesona oleh caraku berlari.\nKamu yang selalu, selalu mendukungku sepenuh hati!"
         },
         {
             "name": "Buena Vista",
-            "text": "…Sekarang..kamu tahu, kan?",
+            "text": "Bahkan, setelah kita berpisah saat dewasa―― \nKamu selalu, selalu ada di dalam hatiku."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Sekarang, kamu tahu, kan?",
             "choice_data_list": [
-                "Buena...kamu...",
-                "Buena...kamu..."
+                "Buena……kamu――",
+                "Buena……kamu――"
             ]
         },
         {
             "name": "",
-            "text": "Lalu aku menyadarinya. Sepertinya… dia sudah\njauh lebih dulu sampai pada jawaban yang\nseharusnya kutemukan."
+            "text": "Dengan begitu, aku baru menyadarinya. \nSepertinya……dia sudah melangkah lebih maju dariku, lagi."
         },
         {
             "name": "",
-            "text": "Dia sudah lebih dulu melihat jawaban yang\nharus kami raih. Padahal aku lebih tua darinya.\nAku merasa sedikit malu… lalu membuka mulut."
+            "text": "Dia sudah lebih dulu, melihat jawaban yang seharusnya kami raih bersama. Padahal aku lebih tua darinya. Aku jadi merasa sedikit malu\n……dan kemudian, aku membuka mulut."
         },
         {
             "name": "",
-            "text": "Sekali lagi. Berkali-kali. Aku ingin bisa\nmengejarnya, dan menopang punggungnya\nyang selalu berlari di depan.",
+            "text": "Sekali lagi. Berapa kali pun. Aku ingin bisa mengejarnya, dan menopang punggungnya yang selalu berlari di depan.",
             "choice_data_list": [
-                "Buena, izinkan aku katakan suatu hal!",
-                "Buena, izinkan aku katakan suatu hal!"
+                "<size=34>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>",
+                "<size=34>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>"
             ]
         },
         {
             "name": "Buena Vista",
+            "text": "Tunggu.",
             "choice_data_list": [
                 "Buena, biarkan aku menyatakan ini lagi. Aku—!"
-            ],
-            "text": "Tunggu."
+            ]
         },
         {
-            "name": "Buena Vista",
-            "text": "Saat itu, tap. Ujung jarinya yang lembut menyentuh bibirku..",
+            "text": "Pada saat itu, *tap (sentuh).\n……Ujung jari telunjuknya yang lembut menyentuh bibirku.",
             "choice_data_list": [
-                "Eh-----!?"
+                "Eh――！？"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Maaf. Boleh aku egois sedikit?"
+            "text": "Maaf ya. Boleh gak, aku egois sedikit?"
         },
         {
             "name": "Buena Vista",
-            "text": "Kalau mau diulang, aku ingin dari awal. …Boleh?"
+            "text": "Kalau mau diulang, aku ingin dari awal saja.\n……Boleh?"
         },
         {
             "name": "",
-            "text": "Dan begitu. Kami kembali berdiri\nberhadapan di tempat janji itu.",
+            "text": "Dan setelah itu. ――Sekali lagi, kami saling  berhadapan kembali di tempat yang dijanjikan itu.",
             "choice_data_list": [
-                "Maaf menunggu. Buena...aku..",
-                "Maaf menunggu. Buena...aku.."
-            ]
-        },
-        {
-            "name": "",
-            "text": "…Iya.",
-            "choice_data_list": [
-                "<size=38>Maukah kamu membuat kontrak denganku?</size>",
-                "<size=38>Maukah kamu membuat kontrak denganku?</size>"
+                "Maaf menunggu. Buena……aku――",
+                "Maaf menunggu. Buena……aku――"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "—Iya, tentu saja. Trainer-san ku!"
+            "text": "……Iya.",
+            "choice_data_list": [
+                "<size=42>Maukah kamu, membuat kontrak denganku?</size>",
+                "<size=42>Maukah kamu, membuat kontrak denganku?</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Ya, dengan senang hati. Trainer-san ku!"
         }
     ]
 }

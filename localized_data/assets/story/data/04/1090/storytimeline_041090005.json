@@ -7,7 +7,7 @@
         },
         {
             "name": "Guru Matematika",
-            "text": "Cari tinggi dan volume limas segi empat ini.\n...Siapa yang mau coba maju~?"
+            "text": "Cari tinggi dan volume limas segi empat ini.\n...Oke, siapa yang mau coba maju～?"
         },
         {
             "name": "Murid-murid",
@@ -15,7 +15,7 @@
         },
         {
             "name": "Guru Matematika",
-            "text": "Hmmm~ Nggak ada yang mau ya.\nKalau gitu... Verxina-san, tolong kerjakan ya?"
+            "text": "Hmmm～ Nggak ada yang mau ya.\nKalau gitu... Verxina-san, tolong kerjakan ya?"
         },
         {
             "name": "Verxina",
@@ -23,7 +23,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Titik potong garis tegak lurus dan alasnya kita sebut M――\nKalau panjang AM ketemu――Berarti jawabannya――"
+            "text": "Titik potong garis tegak lurus dan alasnya kita sebut M―― Kalau panjang AM ketemu――Berarti jawabannya――"
         },
         {
             "name": "Guru Matematika",
@@ -35,11 +35,11 @@
         },
         {
             "name": "Murid-murid",
-            "text": "『Uwoooh-...!』 『Sudah kuduga~...!』 『Ooooh~...』"
+            "text": "『Uwoooh-...!』 『Sudah kuduga～...!』 『Ooooh～...』"
         },
         {
             "name": "Murid Bingung",
-            "text": "Hmmm~... Kok langkahku di sini salah terus ya――"
+            "text": "Hmmm～... Kok langkahku di sini salah terus ya――"
         },
         {
             "name": "Verxina",
@@ -47,11 +47,11 @@
         },
         {
             "name": "Murid Bingung",
-            "text": "!? V-Verxina-senpai!? Enggak, ini...\nlangkah yang ini susah pasnya――"
+            "text": "!? V-Verxina-senpai!? Enggak, ini... langkah yang ini susah pasnya――"
         },
         {
             "name": "Verxina",
-            "text": "Oh, Ball Change ya... emang lumayan susah sih――\ntapi mending ikutin irama aja daripada kebanyakan mikir."
+            "text": "Oh, Ball Change ya... emang lumayan susah sih―― tapi mending ikutin irama aja daripada kebanyakan mikir."
         },
         {
             "name": "Verxina",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Fufu, santai aja. Nggak usah tegang――\nMumpung lagi bareng, yuk kuasain hari ini."
+            "text": "Fufu, santai aja. Nggak usah tegang―― Mumpung lagi bareng, yuk \nkuasain hari ini."
         },
         {
             "name": "Verxina",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Murid-murid Penonton",
-            "text": "『Ooooh~... Emang beda ya Verxina-san...』 \n『3 set lebih dari 300 gampang banget――』"
+            "text": "『Ooooh～... Emang beda ya Verxina-san...』 \n『3 set lebih dari 300 gampang banget――』"
         },
         {
             "name": "Verxina",
@@ -87,14 +87,14 @@
         },
         {
             "name": "Verxina",
-            "text": "Udah, jangan berantem. Hmm――\nKalau gitu, kamu bantu di latihan berikutnya aja ya――",
+            "text": "Udah, jangan berantem. Hmm―― Kalau gitu, kamu bantu di latihan berikutnya aja ya――",
             "choice_data_list": [
                 "(...Dia populer banget ya)",
                 "(...Dia populer banget ya)"
             ]
         },
         {
-            "text": "――Pas latihan pun banyak fans yang\ncuri-curi pandang. Dia emang siswi teladan――"
+            "text": "――Pas latihan pun banyak fans yang curi-curi pandang. Dia emang \nsiswi teladan――"
         },
         {
             "name": "Verxina",
@@ -102,20 +102,20 @@
         },
         {
             "name": "Verxina",
-            "text": "Maaf ya, Trainer-san. Menu hari ini udah kelar,\ntapi malah minta tolong rekam lari aku.",
+            "text": "Maaf ya, Trainer-san. Menu hari ini udah kelar, tapi malah minta tolong rekam lari aku.",
             "choice_data_list": [
                 "Nggak apa-apa kok!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Aku cuma pengen cek form lariku tiap hari――\nNanti di asrama aku teliti lagi."
+            "text": "Aku cuma pengen cek form lariku tiap hari―― Nanti di asrama aku teliti lagi."
         },
         {
-            "text": "Mau belajar atau lari, dia selalu kerja keras diam-diam.\nWaktu luang di ruang pelatih aja dipakai buat belajar."
+            "text": "Mau belajar atau lari, dia selalu kerja keras diam-diam.\nWaktu luang di ruang trainer aja dipakai buat belajar."
         },
         {
-            "text": "Semuanya demi capai 『Puncak』――biar jadi\npanutan adik-adiknya. Dia beneran hebat――",
+            "text": "Semuanya demi capai \"Puncak\"――biar jadi panutan adik-adiknya. Dia beneran hebat――",
             "choice_data_list": [
                 "............"
             ]
