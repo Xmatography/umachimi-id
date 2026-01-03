@@ -1,0 +1,197 @@
+{
+    "text_block_list": [
+        {
+            "name": "Surat Fine",
+            "text": "『Kakakku tersayang――』"
+        },
+        {
+            "name": "Surat Fine",
+            "text": "『Bagaimana liburanmu? Tahun Baru adalah acara\nterbesar di Jepang, dan semua orang pulang ke\nkampung halaman mereka.』"
+        },
+        {
+            "name": "Surat Fine",
+            "text": "『Jadi sekarang, sekolah terasa sepi. Tapi karena itu,\naku senang bisa punya kesempatan ngobrol sama mereka yang\ntinggal di sini……』"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "――Oh gitu, jadi Ikuno-chan juga,\ntahun ini nggak pulang ke rumah orang tua ya."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Iya. Tahun ini kalau pulang pun sepertinya\nnggak bisa kumpul semua. Jadi aku pikir lebih\nbaik aku tetap di sekolah dan fokus mengembangkan diri."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Orang tuaku sangat antusias bekerja, katanya mau pergi ceramah\natau pelatihan ke luar negeri. Adik-adikku juga ikut kamp klub\natau les. Itu bukti kalau mereka juga sudah tumbuh besar ya."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fufuu, keluarga yang harmonis ya. Pantesan\nakhir-akhir ini sering ketemu di gym sekolah,\nternyata itu alasannya."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Iya. Aku ingin melatih diri dengan baik dan menghabiskan\nliburan musim dingin yang bermakna. Kalau boleh jujur, aku juga\ningin mengisi waktu dengan hal lain selain belajar dan latihan."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Aku ngerti banget perasaan itu. Pasti pengen lakuin sesuatu\nyang beda dari biasanya kan! Mumpung liburan musim dingin……\nmumpung lagi Tahun Baru di Jepang!"
+        },
+        {
+            "name": "？？？",
+            "text": "――Hahahaha! Boleh juga tuh!\nGimana kalau coba menggila sepuasnya?"
+        },
+        {
+            "name": "Surat Fine",
+            "text": "『Terus, terus ya, Kakak. Aku melihat sesuatu\nyang sangat indah dari pengalaman kali ini.』"
+        },
+        {
+            "name": "Surat Fine",
+            "text": "『Coba tebak apa――?』"
+        },
+        {
+            "name": "Monolog",
+            "text": "Menampilkan logo judul event."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――Ternyata pikiran kita sama semua ya.\nRefreshing itu penting kan!"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Iya kan! Liburan itu harus dinikmati♪\nKami juga baru ngomongin gimana kalau\nkita bertiga pergi liburan."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wah! Kedengarannya seru banget. \nLiburan cuma sama sesama murid……\npasti asyik banget!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm…… begitu ya, kamu sering bepergian\nuntuk tugas resmi, jadi liburan bareng\nteman sekolah terasa langka buatmu ya."
+        },
+        {
+            "name": "Bubblegum Fellow",
+            "text": "! ……Begitu rupanya."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fufuu……. Nanti kalau udah pulang,\naku seneng banget kalau kalian \nmau cerita pengalaman kalian♪"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Oh gitu, kalau gitu ayo ikut bareng!\nFine dan Ikuno juga."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "…………Eh?"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Soalnya, mata kalian berbinar-binar banget tadi.\n……Gimana?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Boleh juga, dengan senang hati.\nSepertinya bakal jadi pengalaman\nyang berharga, kan? Fine-san."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Mmm, aku seneng banget diajak, tapi…… maaf ya!\nAku pasti bakal ngerepotin kalian nanti."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Para SP juga pasti bakal khawatir soal keselamatanku.\nJadi jangan sungkan. Kalian nikmati saja liburannya♪"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Begitu ya. Masalahnya ada di 『Keselamatan』 \ndan 『Beban para SP』 kan? Berarti kalau\nitu bisa diatasi, nggak masalah dong."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Kalau gitu, bisa serahin ke aku nggak? \nAku bakal pikirin caranya biar para SP\njuga bisa setuju."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Nggak usah, nggak apa-apa kok.\nNiat baik kalian aja udah cukup banget buat aku."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Jangan khawatir, kalau dia udah ngomong gitu.\nPercaya aja sama dia."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "……!\nEh, eh……!? Air Groove-san juga～!?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Kenapa?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Nggak, soalnya aku kira kamu bakal nolak……!\nBiasanya kamu kan lebih hati-hati kalau berpendapat? Tapi kok……."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Ahahahaha!\nKalau gitu Fine juga ikut ya!"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Tujuannya, hmm…… gimana kalau 『Kyoto』?"
+        },
+        {
+            "name": "Groove & Laurel",
+            "text": "……! Kyoto ya…………"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Bisa merasakan nuansa 『Jepang』 banget ya.\nCocok banget buat liburan Tahun Baru."
+        },
+        {
+            "name": "Bubblegum Fellow",
+            "text": "Iya kan? Aku juga pengen banget keliling liat-liat di sana.\nKalau gitu, aku bakal langsung susun rencananya!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Kalau gitu, bagian itu aku serahkan padamu.\nAku akan bicara dulu dengan para SP. Nanti\nmalam kita kumpul lagi."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wah……! Wah, wah……!"
+        },
+        {
+            "name": "Bubblegum Fellow",
+            "text": "――Terus, hotelnya dipilih yang keamanannya ketat, lokasi rumah\nsakit dan pos polisi juga didata, biar di mana pun kita berada,\nkita tau yang terdekat ada di mana."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm, info lalu lintas juga sempurna……sampai\nalur penanganan darurat juga……. Kalau sampai\nsegini sih, para SP juga kayaknya bakal setuju."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(Tumben banget~! Groove-san nggak ngasih kritik……!\nTapi, emang sih kalau rencananya kayak gini……!)"
+        },
+        {
+            "text": "『Dan, para senior dengan cepat\nberhasil meyakinkan kapten SP……!』",
+            "name": "Surat Fine"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Beneran deh, nggak nyangka izinnya bakal turun……!\nAah…… alarmnya jam 4 pagi cukup nggak ya!?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Kepagian. Jangan berlebihan.\nUdah, ayo tidur."
+        },
+        {
+            "text": "Plester, koyo, obat sakit kepala…… masker\nmata dan penyumbat telinga juga. Mungkin\nada yang susah tidur karena lingkungan baru.",
+            "name": "Ikuno Dictus"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "『Liburan itu belum selesai sampai kita pulang ke rumah』 kan.\nSampai akhir, aku bakal pastiin semua orang senang dan sehat……\nserahkan manajemennya padaku."
+        },
+        {
+            "name": "Surat Fine",
+            "text": "『Begitulah ceritanya, keesokan harinya!\nKami tiba di Kyoto dengan hati yang berdebar-debar!』"
+        }
+    ],
+    "title": "Nah, Ayo Jalan-Jalan!"
+}
