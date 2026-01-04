@@ -1,0 +1,300 @@
+{
+    "text_block_list": [
+        {
+            "text": "Pada suatu pagi, ketika saya iseng melihat\nsebuah selebaran yang dimasukkan ke dalam kotak pos——"
+        },
+        {
+            "text": "『Akuarium di Stasiun, Dibuka Besar-besaran!』『Kami menyediakan ruang untuk penyembuhan dan relaksasi.』",
+            "name": "* Iklan Di Koran",
+            "choice_data_list": [
+                "Mungkin hiburan yang bagus untuk <chrname>."
+            ]
+        },
+        {
+            "text": "\"Karena ini kesempatan bagus, aku akan mengajak dia pergi...\"\nBegitu pikirku, aku pun mengambil selebaran itu dan pergi mencarinya."
+        },
+        {
+            "text": "Dengan begitu, kami mendatangi jalur latihan\ndengan potensi kemenangan tertinggi——namun...",
+            "choice_data_list": [
+                "Dia tidak ada di sana...",
+                "Sepertinya dia tidak ada di sana..."
+            ]
+        },
+        {
+            "text": "Sayang sekali, Uma Musume yang aku latih tidak ada di sini. 'Ku ajak lain kali saja, ya...'\nBegitu pikirku saat aku akan pergi——"
+        },
+        {
+            "name": "Pelatih Veteran A",
+            "text": "Oh...! Luar biasa.\nCara lari Uma Musume itu, kelincahannya sangat berbeda dari sebelumnya!"
+        },
+        {
+            "name": "Uma Veteran B",
+            "text": "Padahal seharusnya ia baru saja memulai latihan khusus, tapi lihatlah pertumbuhannya...\nTernyata, levelnya memang berbeda"
+        },
+        {
+            "text": "Pelatih Kiryūin...!!",
+            "name": "Trainner",
+            "color_text_info_list": [
+                "Kiryūin"
+            ]
+        },
+        {
+            "text": "Tampaknya ada kerumunan orang di sana.\nTanpa sadar, aku mengintip ke arah pusat kerumunan itu..."
+        },
+        {
+            "text": "Terima kasih atas kerja kerasnya, Meek.\nItu adalah lari yang sangat baik.",
+            "name": "Trainner Kyurin"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Tapi, di akhir tadi fokusmu sedikit terputus.Dengan kemampuanmu sekarang, seharusnya kamu bisa lebih cepat lagi."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Mari kita fokus agar fokusmu tidak putus hingga garis finis.\nTenang saja, kalau kamu, pasti bisa!"
+        },
+        {
+            "text": "...Siap, Pelatih.\nAku akan memberikan segalanya. ...Hmph",
+            "name": "Happy Meek"
+        },
+        {
+            "name": "Uma Veteran A",
+            "text": "Ternyata, dia adalah pewaris dari dinasti pelatih legendaris, 'Keluarga Kiryūin', yang telah mencetak banyak Uma Musume pemenang..."
+        },
+        {
+            "name": "Uma Veteran A",
+            "text": "Lulusan terbaik dari ujian lisensi periode sebelumnya, Pelatih 'Aoi Kiryūin'...!",
+            "color_text_info_list": [
+                "Aoi Kiryūin"
+            ]
+        },
+        {
+            "name": "Uma Veteran B",
+            "text": "Uma Musume yang dia latih, Happy Meek, memang dulu tidak terlalu menonjol, tapi... kini pertumbuhannya sungguh luar biasa!",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "text": "Sepertinya, yang menjadi pusat perhatian adalah duo Pelatih Kiryūin dan Uma Musume yang ia latih, Happy Meek...\""
+        },
+        {
+            "text": "Eh...? Maaf, permisi!!\nJangan-jangan, Anda adalah...!!",
+            "name": "Trainner Kyurin"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Sudah kuduga!\nPelatih <username>!",
+            "choice_data_list": [
+                "Lah , Gw ?!",
+                "Lho , Saya ?!"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Iya! A-ah, maaf tiba-tiba...!\nTapi, aku, aku sudah lama sekali... mengagumi Anda...!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Pelatih.\n...Siapakah ini?"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Aah! Maafkan aku, Meek,\naku tiba-tiba meninggalkanmu sendirian...!"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Fuuuh... maaf, aku sedikit\nkehilangan ketenangan tadi. Izinkan aku memperkenalkan diri sekali lagi——"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Senang berkenalan, nama saya Aoi Kiryūin!\nSama seperti Anda, saya seorang pelatih yang tergabung di akademi ini",
+            "color_text_info_list": [
+                "Aoi Kiryūin!"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Dan ini adalah Uma Musume yang saya latih, Happy Meek.\nMeek, tolong sapa dia, bisa?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Aku Happy Meek.\n………………Halo.",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Ehm... Mungkin Pelatih <username>\nbelum mengetahuinya, tapi.."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Sebenarnya, waktu kita ditugaskan ke\nAkademi Pelatihan ini hampir bersamaan, lho."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Jadi... maaf jika ini terlalu berlebihan, tapi pada kamu,\naku selalu merasa... seperti ada ikatan sesama angkatan."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Saya sudah lama\nberpikir untuk berbicara dengan Anda suatu hari nanti."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..............."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Jika kamu mau, apakah dimasa depan kita bisa\nsaling bertukar pendapat dan lain sebagainya?",
+            "choice_data_list": [
+                "Baiklah , Tentu saja"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Terima kasih banyak!\nSaya sangat tersanjung"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...................."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Um... Meek?\nTidak sopan menatapku seperti itu..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Ah.\n...Maafkan saya."
+        },
+        {
+            "text": "Tapi, pandangan Happy Meek\nmasih terus tertuju ke arah kami.\nKetika aku mengikuti arah pandangannya——",
+            "choice_data_list": [
+                "Mungkin brosur ini?"
+            ]
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Hah... apakah itu selebaran akuarium?\nMeek, apakah kau melihat itu selama ini...?",
+            "choice_data_list": [
+                "...Apakah kamu mau pergi?",
+                "Yakin Mau Kesana ?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": ".............Hah?"
+        },
+        {
+            "text": "...Oh. ...Ubur-ubur, bergoyang maju mundur.\n\n...Ohhhh.",
+            "name": "Happy Meek"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Hehe... Meek, itu terlihat menyenangkan.\nAku suka akuarium."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Tapi... apakah benar-benar ide yang bagus jika aku ikut juga...?",
+            "choice_data_list": [
+                "Apa maksudmu?"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Ah, tidak. Ajaran keluarga Kiryuin...\n\"Buku Putih Pelatih\" juga mengatakan,\n\"Uma Musume harus mendapatkan istirahat yang cukup.\""
+        },
+        {
+            "name": "Trainner Kyurin ",
+            "text": "Namun, aku diberitahu bahwa  sebaiknya menyerahkan hal itu kepada Uma Musume saja, dan membiarkan mereka bersantai juga menikmati waktu luang mereka..."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Apakah sebaiknya aku menemaninya?\nBukankah dia akan sangat tegang sehingga tidak bisa beristirahat...?"
+        },
+        {
+            "text": "Tampaknya pelatih yang sungguh-sungguh, Kiryuin, khawatir bahwa ia tidak akan mengikuti ajaran keluarganya.\nNamun..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Ah.\n...Bintang laut ini tampak seperti pelatih."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Nanti akan kuceritakan.\n........Hehehe."
+        },
+        {
+            "text": "Menurutku Happy Meek itu-",
+            "choice_data_list": [
+                "Aku senang kau ikut denganku."
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Hah...begitu ya?",
+            "choice_data_list": [
+                "kupikir penting juga untuk dekat dengan dia"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Jarak..."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Come to think of it... aku...\nbaru tahu hari ini kalau Meek menyukai akuarium."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Aku... apakah aku\nsama sekali belum mengerti dia...?"
+        },
+        {
+            "text": "Setelah menikmati akuarium bersama Pelatih Kiryuin dan yang lainnya, kami kembali ke sekolah dan mengantar Happy Meek kembali ke asrama."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "...Terima kasih untuk hari ini,\nPelatih <username>."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Saya tidak hanya diundang untuk bergabung, tetapi...saya juga diberi beberapa pengajaran yang luar biasa.",
+            "choice_data_list": [
+                "Pelajaran……?"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Ya. \"Kamu harus mengenal Uma Musume yang ditugaskan kepada dia dengan baik.\"\nHal itu telah dinyatakan sejak awal dalam \"Buku Putih Pelatih,\" tetapi..."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Aku... aku mengira kalimat itu berarti\n'Kamu harus memahami dengan baik kemampuan fisiknya"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Tapi... ngobrol sama kamu hari ini,\nbuka mata aku, gini. Aku jadi ngerti maksudnya yang beneran",
+            "choice_data_list": [
+                "Ini bukan masalah besar..."
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Hehe, bersikaplah rendah hati."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Saya rasa saya mengerti mengapa Ketua Akigawa sangat menghargai Anda."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Tatapan tulus dan sungguh-sungguh yang kamu berikan kepada peserta pelatihan Anda... Itulah kekuatan Anda sebagai seorang pelatih."
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Aku juga akan bekerja lebih keras agar tidak tertinggal darimu!"
+        },
+        {
+            "text": "Setelah itu, saya kembali ke asrama pelatih, dan berbincang dengan Pelatih Kiryuin tentang teori-teori pelatihan."
+        }
+    ]
+}

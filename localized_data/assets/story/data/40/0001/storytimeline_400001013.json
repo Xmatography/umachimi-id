@@ -1,0 +1,270 @@
+{
+    "text_block_list": [
+        {
+            "text": "Beberapa waktu telah berlalu sejak pengumuman penyelenggaraan balapan baru,\n“URA Finals.”"
+        },
+        {
+            "text": "“Finals Champion,” ya……!\nHeh, ini jadi makin menarik aja, sialan.",
+            "name": "Vodka"
+        },
+        {
+            "name": "Vodka",
+            "text": "Kira-kira balapan yang paling pas buat dibidik yang mana ya.\nJarak menengah…… eh tapi tunggu, mile juga kayaknya menarik, ya?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Aku sih rencananya turun di jarak menengah……\nkalau kamu, gimana kalau ambil mile aja?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Soalnya, posisi nomor satu di jarak menengah\nbakal aku yang ngambil, dong ♪"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hah!?\nApa lu bilang barusan, hah!?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Kalau gitu, gue juga jelas bakal bidik jarak menengah!\nAyo kita tentuin siapa yang paling atas, Scarlet!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph!\nItu justru yang aku mau!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho!! Juara perdana……\ngelar yang sangat pantas disandang oleh seorang King kelas satu!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ayo, Sky-san, sekali lagi kita lari berdampingan!\nAkan kuberi kehormatan untuk berlari bersama King!!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Iya iya~ santai dong,\nmasa Uma Musume diperlakukan sekeras itu sih."
+        },
+        {
+            "text": "……tapi ya, berkat itu juga\naku jadi bisa ngecek banyak hal, sih.",
+            "name": "Seiun Sky"
+        },
+        {
+            "text": "Para Uma Musume pun tampaknya mulai semakin bersemangat,\nperlahan tapi pasti, menuju URA Finals.",
+            "choice_data_list": [
+                "(Aku juga harus berusaha lebih keras lagi……!)",
+                "(Aku juga harus berusaha lebih keras lagi……!)"
+            ]
+        },
+        {
+            "text": "Dan saat aku sedang menguatkan tekad lagi—"
+        },
+        {
+            "text": "(BRRROOOOMMMM!!)"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Kyaaahhhhh!?",
+            "choice_data_list": [
+                "Tazuna-san!?"
+            ]
+        },
+        {
+            "text": "Dengan panik, aku segera berlari ke arah sumber suara yang menggelegar itu\nuntuk melihat apa yang terjadi—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Na…… na……!!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Apa-apaan ini, kendaraan raksasa apa iniiii～～～!?"
+        },
+        {
+            "text": "Di lintasan dirt tempat aku berlari menghampiri,\nterlihat Tazuna-san yang kelabakan setengah mati…… dan—"
+        },
+        {
+            "text": "(BRRROOOOMMMM!!)"
+        },
+        {
+            "text": "……sebuah kendaraan raksasa (?) yang mengeluarkan suara ledakan menggelegar.",
+            "choice_data_list": [
+                "Apa yang terjadi ?"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hahahahaha!!\nSampai teriak segala—apa kamu segitu senangnya, Tazuna!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dan—"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Kebetulan sekali!!\nBukankah itu <username> Trainer!",
+            "choice_data_list": [
+                "E-eh, selamat siang…!"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Kebetulan sekali!! Aku memang ingin sekali berbincang denganmu.\nSoalnya begini—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tunggu dulu, Ketua!!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Pertama-tama, bisakah kamu menjelaskan dulu soal kendaraan raksasa itu\nyang ada di sana……!?"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Etto! Benar sekali."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hehehe, itu dia...dengarkan dan kamu akan takjub!"
+        },
+        {
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "\"Tadaaa! Inilah buah dari puncak teknologi modern, yang Super canggih... tak lain dan tak bukan... 『Mesin Perawatan Lintasan DIRT: Sang Perata 3'!!』"
+        },
+        {
+            "text": "\"'Puncak kejayaan teknologi'...?\nCk, jangan bilang... lagu-lagi pake uang jajanmu sendiri, 'kan!?\"",
+            "name": "Tazuna Hayakawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Pastinya! Aku berharap, agar para Uma Musume yang kusayangi, selalu bisa berlatih dalam lingkungan yang aman dan nyaman"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Jika itu untuk tujuan tersebut, mengorbankan harta pribadiku...\nItu hal yang sepele! Sangat, sangat sepele!!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Aku menghargai perasaanmu, tapi~!!\nSetiap kali, skalanya itu selalu terlalu besar...!!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Aaaargh... Kendaraan besar semegah ini...\nHarus disimpan di mana, sih, sebenarnya...!?"
+        },
+        {
+            "text": "(Blonde banget!!)"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...Maaf, Pelatih.\nItu tidak enak dilihat.",
+            "choice_data_list": [
+                "T-tidak, tidak..."
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Mohon maaf! Dan sekali lagi--"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hai ! , Lama Tidak Bertemu , \n<username> Sejak Training Kurasa,",
+            "choice_data_list": [
+                "Sudah lama sekali"
+            ],
+            "color_text_info_list": [
+                "Akikawa !"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "...Hmm. Hmm, hmm!!\nLihat matamu, cahayanya itu! Wajah yang sangat bagus!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Seperti yang diharapkan!! Pria yang sangat kuharapkan!!",
+            "choice_data_list": [
+                "....Hah?"
+            ]
+        },
+        {
+            "text": "Seperti yang diharapkan!! Pria yang sangat kuharapkan!!",
+            "name": "Ketua Akikawa",
+            "choice_data_list": [
+                "....Hah?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe. Ketua Yayasan Akikawa, sejak dulu\nsudah memperhatikan Anda, para pelatih, lho.",
+            "choice_data_list": [
+                "Bagiku...?",
+                "Bagiku...?"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Benar. Sejak zaman ketua yayasan sebelumnya—yaitu ibu saya—\nmemimpin akademi ini,\naku telah melihat banyak sekali pelatih."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dan itulah sebabnya! Jika aku melihat cara bicaramu sehari-hari dan cara\nberinteraksimu dengan Uma Musume yang kamu latih, aku akan mengerti!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Tak bisa salah! Dirimu, sebagai seorang pelatih——\nadalah tiang penyangga yang kokoh, yang akan menopang cita-cita luhur para UmaMusume!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ya, saya sependapat dengan Ketua Yayasan.\nOleh karena itu, kami sangat berharap, kepada para pelatih.."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Benar! Aku sangat berharap, kau dan Uma Musume yang\nkau latih mau bekerja sama dengan kami untuk meraih kesuksesan di 'URA FINALS'!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Pada hakikatnya, di balik kesuksesan setiap balapan baru, terdapat sebuah eksistensi yang menanggung beban ekspektasi dan mimpi para pendukungnya——"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dengan kata lain, keberadaan 'Star Uma Musume' adalah sesuatu yang mutlak diperlukan.",
+            "choice_data_list": [
+                "Star Uma Musume'... ya."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Untuk menambah jumlah penggemar,\nberlaga di sebuah balapan adalah sesuatu yang mutlak diperlukan",
+            "color_text_info_list": [
+                "penggemar",
+                "balapan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Dengan berlaga di banyak balapan dan menumpuk kemenangan,\nserta mengumpulkan banyak penggemar, maka——",
+            "color_text_info_list": [
+                "banyak balapan"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Kesuksesan! Dengan sendirinya, jalan untuk menjadi seorang Star Uma Musume akan terbuka!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Teruslah maju! Dengan semangat seperti ini, teruslah berjuang bersama Uma Musume yang kau latih!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dan raihlah gelar Juara Pertama 'FINALS'!\nAku menantikanmu untuk berlari dengan segenap kemampuanmu!!",
+            "choice_data_list": [
+                "Ya! Aku akan berusaha sebaik mungkin!"
+            ]
+        },
+        {
+            "text": "Merasakan kehangatan perasaan dari Ketua Yayasan Akikawa,\nsemangatku untuk menuju 'URA FINALS' kembali berkobar dengan teguh."
+        }
+    ]
+}

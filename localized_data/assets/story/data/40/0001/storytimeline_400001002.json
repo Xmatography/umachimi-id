@@ -2,86 +2,87 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, while relaxing in my room,\nI received an e-mail from Thoresen\nAcademy.",
+            "text": "Suatu hari saat bersantai di ruangan.\nAku menerima email dari Tracen\nAcademy.",
             "choice_data_list": [
-                "What is it ……?"
+                "Apa itu ……?"
             ]
         },
         {
-            "text": "Attention all trainers at the Academy!\nThere will be a big announcement\nconcerning your future in the near\nfuture."
+            "text": "Perhatian buat semua trainner\nyang ada di akademi. Mengenai kedepannya nanti .\n",
+            "name": "Announcer"
         },
         {
-            "text": "Be sure to check it out! From Akikawa\n[Akikawa], Chairman of the Board of\nTrustees of Tressen Academy.\"",
             "color_text_info_list": [
-                "fall river"
-            ]
+                "Ketua Dewan"
+            ],
+            "text": "Pastikan untuk memeriksanya! \nDari Akikawa, Ketua Dewan\nPengurus Akademi Tracen.\""
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Thank you! Media, thank you for coming! \nSilence! I would like to propose…"
+            "text": "Terimakasih ! Media , Sudah Datang Hari ini\nDiam! Saya ingin mengajukan usulan…",
+            "name": "Ketua Akikawa"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Um, Ms. President～……! If you don't\nget on the platform to talk, they won't\nsee……!"
+            "text": "Um,Akikawa~……! Jika Anda tidak\nnaik ke podium untuk berbicara, mereka tidak akan\nmelihat……!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Mwah. That's right! Lost, lost!"
+            "name": "Ketua Akikawa",
+            "text": "Wah ! , Benar Juga , Aku Lupa "
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "―Okay, that's better. Well then, once\nagain!"
+            "name": "Ketua Akikawa",
+            "text": "―Oke, itu lebih baik. Kalau begitu, sekali lagi!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Proposal! In the name of the chairman \nof the board of directors of Thoresen \nAcademy, I hereby―"
+            "name": "Ketua Akikawa",
+            "text": "Usulan! Atas nama ketua\ndewan direksi Tracen, dengan ini saya―"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "I declare a new race, \"URA Finals\" ！！！！"
+            "name": "Ketua Akikawa",
+            "text": "Deklarasi Balapan Baru, \"URA Finals\" ！！！！"
         },
         {
             "text": "(Zawwah ……!!!)"
         },
         {
-            "name": "Reporters",
-            "text": "The \"URA Finals\" ……! You're \ncreating a new race!"
+            "name": "Reporter",
+            "text": "\"URA Finals\" ……! Kamu buat acara balapan baru!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Chairman Akikawa! My name is Fumi Otome\nof \"Monthly Twinkle\". May I ask you\na question?",
+            "text": "Ketua Akikawa! Namaku Fumi Otome\ndari \"Monthly Twinkle\". Boleh aku tanya sesuatu ?",
             "color_text_info_list": [
                 "Monthly Twinkle",
                 "history of a second name"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Permission! What is it, Otomeishi!"
+            "name": "Ketua Akikawa",
+            "text": "Izinn! Apa itu, Otomeishi!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Thank you very much. Now then―"
+            "text": "Terimakasih Banyak. Sekarang―"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I understand that you are \nestablishing a new race."
+            "text": "Aku mengerti bahwa Anda sedang\nmendirikan balapan baru."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Fortuitous!! I'm glad you asked!!"
+            "name": "Ketua Akikawa",
+            "text": "Kebetulan sekali!! Senang sekali Kamu bertanya!!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "The \"URA Finals\" is a race that \"gives\nevery Uma Musume a chance."
+            "name": "Ketua Akikawa",
+            "text": "\"URA Finals\" Race ini  \"Beri \nUmamusume kesempatan bersinar ."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Every Uma Musume will give it their all\nto reach the top! The best! The top!\nIt's a race where you can compete!"
+            "name": "Ketua Akikawa",
+            "text": "Setiap Umamusume akan memberikan yang terbaik\nuntuk mencapai puncak! Yang terbaik! Puncak!\nIni adalah perlombaan di mana kamu bisa bersaing!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Give…… a chance to…… the top \nspot…… every Uma girl ……!"
+            "text": "Berikan…… kesempatan kepada…… posisi teratas\nsetiap Umamusume ……!"
         },
         {
             "text": "(mutter mutter mutter……!!)"
@@ -92,85 +93,85 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Huh! ……! This is getting interesting…\n……!"
+            "text": "Hah! ……! Ini semakin menarik…\n……!"
         },
         {
-            "text": "The race, \"URA Finals,\" was \nsuddenly announced. ……"
+            "text": "Perlombaan, \"URA Finals,\" tiba-tiba diumumkan. ……"
         },
         {
-            "text": "Immediately after the press conference\nthat shocked the racing world, a\nbriefing session was held for the\nmembers of Tracen Academy."
+            "text": "Segera setelah konferensi pers\nyang mengejutkan dunia balap,\nsesi pengarahan diadakan untuk\npara anggota Tracen Academy."
         },
         {
-            "text": "We headed to the gymnasium, where \nthe students and trainers had already \ngathered, and the room was \nfilled with a buzz. ……"
+            "text": "Kami menuju ke gimnasium,\ntempat para siswa dan pelatih\nsudah berkumpul, dan ruangan\nitu dipenuhi dengan keriuhan. ……"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "URA Finals or …… I wonder if it's okay,\ndoing something so big as establishing a\nnew race."
+            "text": "Final URA atau …… Aku bertanya-tanya apakah\ntidak apa-apa,\nmelakukan sesuatu yang sebesar mendirikan\nBalapan baru."
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Yeah, I know……… I mean, she's \nstill a kid, right?"
+            "text": "Ya, aku tahu... maksudku, dia masih anak-anak, kan?"
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Her predecessor was really good, \nbut it doesn't necessarily \nmean that her daughter is too."
+            "text": "Pendahulunya memang sangat baik,\ntetapi itu tidak serta merta\nberarti putrinya juga demikian."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "……I'm sorry to interrupt."
+            "text": "……Etto , maaf menyela."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "We will have time for questions and\nanswers after the presentation. If you\nhave any questions, please ask then,\nokay?"
+            "text": "Kita akan punya waktu untuk\nsesi tanya jawab setelah presentasi. \nJika Kamu punya pertanyaan, silakan tanyakan nanti,\noke?"
         },
         {
             "name": "Trainers",
-            "text": "Tazuna, ……! I'm sorry, I'm sorry."
+            "text": "Tazuna, ……! Maaf Sebentar..."
         },
         {
-            "text": "Looking at the surroundings, it seems\nthat people are still more upset and\nanxious."
+            "text": "Melihat sekeliling, tampaknya\norang-orang masih lebih kesal dan\ncemas."
         },
         {
-            "text": "In the midst of all this…… finally \nbegan the \"URA Finals\" presentation \nby Chancellor Akikawa."
+            "text": "Di tengah semua ini…… akhirnya\ndimulai presentasi \"URA Finals\" oleh Rektor Akikawa."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! Many of you may have been\npuzzled and anxious at the sudden\nannouncement of ……"
+            "name": "Ketua Akikawa",
+            "text": "Tuan-tuan! Banyak di antara kalian mungkin merasa\nbingung dan cemas atas\npengumuman mendadak tentang ……"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "But! First of all, listen to me! The URA \nFinals, and what it means!"
+            "name": "Ketua Akikawa",
+            "text": "Tapi! Pertama-tamal, Dengarkan aku! URA \nFinals,apa pun itu!"
         },
         {
-            "name": "All",
-            "text": "Meaning of ……?"
+            "name": "Semua Orang",
+            "text": "Artinya....."
         },
         {
-            "text": "The faces of the participants looked\nat each other in a stir. Then, at the\nperfect moment, the conversation was\ninterrupted. Akikawa, the chairman of\nthe board of trustees, raised her voice."
+            "text": "Semua orang saling memandang dan \nterdengar gumaman.\nPercakapan jadi senyap, dan pada saat yang tepat,\nKetua Akikawa meninggikan suaranya."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen. ！！！！"
+            "name": "Ketua Akikawa",
+            "text": "Permisi Tuan\". ！！！！"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "―Have you ever had a frustrating\nexperience?"
+            "name": "Ketua Akikawa",
+            "text": "―Pernah kamu dapat\npengalaman yang membuat frustrasi sebelumnya?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "I want to win the Arimakinen! I want\nto win the Derby! I want to be the best\nhorse girl! Even if you think so…",
+            "name": "Ketua Akikawa",
+            "text": "Aku ingin menang Arimakinen! Dan Juga Derby!\nAku ingin jadi umamusume yang hebat! \nJika kamu berpikir begitu!",
             "color_text_info_list": [
-                "Arima Kinen (horse racing)",
+                "Arima Kinen ",
                 "Japan Derby"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Have you ever had a race where you just\ncouldn't match the distance or course,\nand you couldn't even show your ability?"
+            "name": "Ketua Akikawa",
+            "text": "Pernah nggak sih, karena jarak atau tipe lintasan\nyang benar-benar nggak cocok,\nakhirnya bahkan kemampuan diri sendiri pun\nnggak bisa keluar sama sekali?\n"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "'My true power, the power of the\nhorsegirl in charge, is not like this,'\nshe bit her lip!"
+            "name": "Ketua Akikawa",
+            "text": "Pernah nggak kamu menggigit bibir sambil mikir,\n‘Kekuatan asliku—kekuatan Uma Musume\nyang aku tangani—nggak mungkin cuma segini saja."
         },
         {
             "name": "Vodka",
@@ -181,98 +182,98 @@
             "text": "……"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! I am aiming for a world where\nall Uma Musume who aspire to race will\nshine!"
+            "name": "Ketua Akikawa",
+            "text": "Rekan-rekan!! Yang aku tuju adalah—\nsebuah dunia di mana semua Uma Musume yang \nbercita-cita berlomba bisa bersinar!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "The brilliance of the running Uma Musume\nis a clash of wills! My ideal is for the\nhorsegirls to compete for the top spot\nwith all their might and radiate their\nbrilliance to each other!"
+            "name": "Ketua Akikawa",
+            "text": "Cahaya Uma Musume itu lahir dari benturan tekad!\nBertarung habis-habisan di puncak—\nitulah ideal yang kuimpikan!\n"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "After all! I want to prepare a stage\nwhere all the horsegirls can show their\nbest! I want to prepare it!"
+            "name": "Ketua Akikawa",
+            "text": "Pokoknya! Aku ingin menyiapkan sebuah panggung—\ndi mana setiap Uma Musume bisa \nmengerahkan seluruh kemampuannya!!"
         },
         {
-            "name": "All",
-            "text": "Chairman of the Board ……"
+            "text": "Ketua Dewan Direksi ……\n",
+            "name": "Semua Orang"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "In a regular GI, the distance and course\nare established by the race."
+            "name": "Ketua Akikawa",
+            "text": "Dalam balapan GI reguler, jarak dan jenis lintasan\nsudah ditetapkan oleh balapannya sendiri."
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "But―!"
+            "name": "Ketua Akikawa",
+            "text": "Tapi ―!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Scrape your eyes! In the URA Finals,\nwe will have \"all distances\" and \"all\ncourses\"!"
+            "name": "Ketua Akikawa",
+            "text": "Buka mata kalian lebar-lebar!\nDi Final URA, kita akan punya \n“semua jarak” dan “semua lintasan”!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "All distances: ……!"
+            "text": "Semua Jarak: ……!"
         },
         {
             "name": "Smart Falcon",
-            "text": "All courses ……!"
+            "text": "Semua Course ……!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "As with the Arima Kinen and Takarazuka\nKinen, only the Uma Musume chosen by fan\nvotes will be eligible to participate!",
+            "name": "Ketua Akikawa",
+            "text": "Yang berhak mendapatkan tiket keikutsertaan adalah—\nUmamusume yang terpilih lewat voting para \npenggemar,sama seperti di\nArima Kinen dan Takarazuka Kinen!",
             "color_text_info_list": [
-                "Takarazuka Memorial Museum"
+                "Arima Kinen dan Takarazuka Kinen!"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "In other words, the representative\nUma Musume who have been active in the\nTwinkle Series and won many fans―the\n\"Star Uma Musume\"―are the only ones who\nare eligible to run!",
+            "name": "Ketua Akikawa",
             "color_text_info_list": [
-                "Star Uma Musume"
-            ]
+                "Superstar"
+            ],
+            "text": "Artinya—\nhanya Uma Musume perwakilan yang bersinar di \nTwinkle Series,mengumpulkan banyak penggemar—\n“Superstar”—yang akan diberi hak untuk berlomba!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Uma Musume, ladies and gentlemen! Run\non the stage where you can give it your\nall, and be the top of the URA Finals!"
+            "name": "Ketua Akikawa",
+            "text": "Umamusume, hadirin sekalian!\nBerlari lah di panggung di mana kalian bisa \nmengerahkan segalanya,\ndan rebut puncak tertinggi Final URA!\n"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Why don't you try to win the \ntitle of \"Finals Champion\"?",
+            "name": "Ketua Akikawa",
             "color_text_info_list": [
-                "Final's Champion"
-            ]
+                "Juara Final"
+            ],
+            "text": "Bagaimana kalau kalian mencoba merebut gelar\n“Juara Final” ini?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Trainers! I want you to develop the\ntalents of the horsegirls in your charge\nto the best of your ability."
+            "name": "Ketua Akikawa",
+            "text": "Para Trainer!Aku ingin kalian mengembangkan \nbakat Uma Musume yang kalian tangani\nsemaksimal mungkin,\ndengan seluruh kemampuan yang kalian miliki!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Wouldn't you like to see her crowned the \nfirst champion!"
+            "name": "Ketua Akikawa",
+            "text": "Bukankah kalian ingin melihatnya dinobatkan sebagai\njuara pertama!?\n"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Come on! You will all gather fans and\nbecome \"Star Uma Musume\" for the first\nshow of the New Year in three years!",
+            "name": "Ketua Akikawa",
             "color_text_info_list": [
-                "New Year in three years"
-            ]
+                "tiga tahun dari sekarang!"
+            ],
+            "text": "Ayo! Kumpulkan para penggemar dan jadilah \n“Superstar”\nuntuk pertunjukan pertama Tahun Baru, \ntiga tahun dari sekarang!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Encouragement! Expectations! \nI'm waiting for your success!"
+            "name": "Ketua Akikawa",
+            "text": "Dukungan! Harapan!\nAku menantikan kesuksesan kalian!"
         },
         {
-            "name": "All",
-            "text": "…………"
+            "text": "…………",
+            "name": "Semua Orang"
         },
         {
-            "name": "All",
-            "text": "(Waaaaahhhh ……!!!)"
+            "text": "(Waaaaahhhh ……!!!)",
+            "name": "Semua Orang"
         },
         {
-            "text": "The situation before the briefing \nchanged dramatically, and the room \nwas filled with applause and cheers \nthat did not cease for a while."
+            "text": "Situasi yang tadinya sangat berbeda sebelum sesi\npenjelasan pun berubah total,\ndan untuk beberapa saat, seluruh ruangan dipenuhi\ntepuk tangan dan sorak sorai yang tak kunjung reda."
         },
         {
-            "text": "Thus, the new tournament to close out\nthe year, the \"URA Finals,\" was declared\nopen!"
+            "text": "Dengan demikian, turnamen baru untuk menutup \nakhir tahun—“URA Finals”—resmi diumumkan dibuka!"
         }
     ]
 }
