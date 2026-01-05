@@ -1,0 +1,179 @@
+{
+    "text_block_list": [
+        {
+            "text": "Suatu sore—\nSaat aku sedang bersiap untuk latihan <chrname>…\ntiba-tiba saja—"
+        },
+        {
+            "text": "[Tok - Tok - Tok]"
+        },
+        {
+            "name": "???",
+            "text": "Maaf mengganggu.\nBenarkah Anda Trainer <username>?",
+            "choice_data_list": [
+                "Heh Siapa Ya?..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Mohon maaf, perkenalkan.\nSaya bekerja sebagai reporter di \n“Majalah Bulanan Twinkle”—",
+            "color_text_info_list": [
+                "Majalah Bulanan Twinkle"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Nama saya Otonashi Etsuko."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Saya datang hari ini berkat perkenalan dari Direktur Akikawa,\ndengan harapan dapat melakukan wawancara dengan Anda."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Saya akan berusaha agar tidak mengganggu sesi latihan,\njadi mohon kerja samanya."
+        },
+        {
+            "text": "Aku sama sekali belum pernah mendengar soal wawancara ini.\nNamun, sikapnya yang santun dan penuh ketulusan membuatku merasa lega.",
+            "choice_data_list": [
+                "Terima kasih banyak."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Baik.\nSaya mohon kesediaan Anda untuk berkenan membantu proses wawancara ini."
+        },
+        {
+            "text": "Kalau begitu, mari kita langsung mulai…\nDengan berdirinya “URA Finals” dan berbagai perkembangan lainnya,\ndunia balap saat ini tengah mengalami lonjakan antusiasme yang besar.",
+            "name": "Reporter Otonashi"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Bolehkah Anda berbagi pandangan mengenai\nprospek ke depan Anda dan Uma Musume yang Anda tangani?"
+        },
+        {
+            "choice_data_list": [
+                "Aku yakin dia bisa ."
+            ],
+            "text": "Memang, telah terjadi perubahan besar—\nnamun keyakinanku tak pernah berubah\nsejak hari aku memutuskan untuk berjalan bersama <chrname>"
+        },
+        {
+            "text": "…Begitu ya.\nJadi, peran Anda sebagai seorang trainer adalah—",
+            "name": "Reporter Otonashi",
+            "choice_data_list": [
+                "Tujuanku Ingin mimpi mereka terwujud!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": ".............!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yaaa.........",
+            "choice_data_list": [
+                "yaa ......."
+            ]
+        },
+        {
+            "text": "S… s, s…!!",
+            "name": "Reporter Otonashi"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Luar biasa!!"
+        },
+        {
+            "text": "Membantu Uma Musume asuhan Anda meraih mimpinya!\nAnda mengatakan itulah yang ingin Anda lakukan, bukan!?",
+            "name": "Reporter Otonashi"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Dengan kata lain, demi meraih mimpi itu,\nAnda siap menanggung dan menerima apa pun!!",
+            "choice_data_list": [
+                ".....Eh ?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Diminta latihan, selalu siap!\nPemulihan pasca-balapan? Pemandian air panas!\nHaus sedikit saja, Anda rela ke gunung!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Ah… tekad Anda sebagai seorang trainer…\nsungguh… sungguh membuat saya kagum…!"
+        },
+        {
+            "text": "Bagus sekali!\nSepertinya wawancaranya sudah langsung dimulai!",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Bagaimana! Trainer ini cukup berbakat, bukan?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Iya, iya! Meski baru pertama kali bertemu,\nsaya sampai begitu terharu hingga hampir kehilangan kendali…!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Demi Uma Musume, Anda bahkan siap\nterjun ke tengah badai sekali pun… begitu, ya!?",
+            "choice_data_list": [
+                "Memang aku bilang itu ya....?"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Luar biasa! Memang hebat!\nItulah yang pantas bagi trainer calon Uma Musume bintang!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Aku juga melihat dengan jelas pencapaianmu belakangan ini!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Namun… hmm!\nSepertinya perolehan penggemar masih mengalami kesulitan."
+        },
+        {
+            "text": "Namun… hmm!\nSepertinya perolehan penggemar masih mengalami kesulitan.",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Bukankah kamu juga sudah menerima banyak sorakan!\nTernyata, memang prestasi yang mampu merebut hati banyak orang."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Aku menaruh harapan besar!\nJalani setiap balapan dengan sepenuh hati,"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Luar biasa!\nKamu menerima begitu banyak sorakan, bahkan melampaui bayanganku!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dengan Uma Musume yang mampu merebut hati sebanyak ini,\ntampil di “URA Finals” bukan lagi sekadar mimpi!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Jumlah sorakan adalah barometer Uma Musume bintang.\nItu menjadi bukti seberapa besar mereka dicintai."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Saya pun berharap dapat membantu,\nagar semakin banyak dukungan yang terkumpul."
+        },
+        {
+            "text": "Terima kasih!\nDukungan media adalah hal yang mutlak diperlukan,\nbaik untuk meningkatkan popularitas Uma Musume",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "text": "Aku mengandalkanmu, Otonashi!\nDemi kesuksesan “URA Finals”!",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Baik, saya mengerti.\nTrainer, mohon kerja samanya ke depannya."
+        },
+        {
+            "text": "Untuk meningkatkan dukungan terhadap <chrname>,\naku telah berkenalan dengan sosok yang menjadi bantuan besar, dalam banyak hal…"
+        }
+    ]
+}
