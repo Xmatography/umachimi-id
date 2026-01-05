@@ -335,8 +335,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_icon_motivation00/tx_uTex_fl_singlemode_icon_motivation00_0.diff.png",
-      "hash": "01552e7cd1e54044df24abb211f190a34631836564d5fcadca0fc4d03f62b95d",
-      "size": 36437
+      "hash": "f1541a59ae926f31c2e9c4d3538686c5ad77e239fc979e2073ccdb6eb6256d99",
+      "size": 29575
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_enter_masterly01/tx_uTex_fl_singlemode_legend_enter_masterly01_0.diff.png",
@@ -10830,28 +10830,28 @@
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_00.diff.png",
-      "hash": "0de8a17d86cfdfee7c7cddd5c279d02f47b252cc0ee0a73dee852f1b90939823",
-      "size": 22907
+      "hash": "ba7a92acbfd6c4e73f8b49af7cc639817ee641bc6a8cd966c7a2e913bcf2bc06",
+      "size": 22338
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_01.diff.png",
-      "hash": "309a31f2cecd83e820235609be251978d5582ddf886c60b4496ceafba134d854",
-      "size": 22117
+      "hash": "b67160f82158daa5faa97c069ed94ddf6d11b0088a92cfbee3afaa4805952c32",
+      "size": 16519
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_02.diff.png",
-      "hash": "bbb2b6457f0c7b32f595de33b5992e4f643788c8c1d2e4d2a2c7bbe269c78bec",
-      "size": 21870
+      "hash": "a1cd7a9e38422c83cd3e7029634af9d29f129da0cb82c790c617051342210793",
+      "size": 17603
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_03.diff.png",
-      "hash": "8b1e46d262e957920033ce6631c73dab88c47c4b108a84b5f6b772f953d9d8c1",
-      "size": 24465
+      "hash": "63bf3ca20357b297ba2e7e4e2e92eb0258ae0c65f847a79a5e88eeb72dbbab37",
+      "size": 17819
     },
     {
       "path": "assets/textures/uianimation/flash/singlemode/statusicon/utx_ico_motivation_l_04.diff.png",
-      "hash": "d7afb0fb319b2a944e608d3ddb2a015f2e7151a5f340be9625ee7ad5483b4ce8",
-      "size": 24543
+      "hash": "11e9b79524a7600341a952f75e0c6ee2d893376d42704259ceccef15175e2a50",
+      "size": 19911
     },
     {
       "path": "assets/uianimation/flash/champions/pf_fl_champions_result_finalranking00.json",
