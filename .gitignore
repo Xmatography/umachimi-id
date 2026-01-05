@@ -8,3 +8,4 @@ __pycache__
 *.bak
 htranslate_conv.py
 htranslate.py
+localized_data/assets/textures/chara/chr*/petit
