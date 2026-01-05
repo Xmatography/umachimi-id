@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "8399f0d6c3c7304611361355fb779b831ac4afb8fda1dc8e01f054d5f9f6a32e",
-      "size": 58294
+      "hash": "23a239eb2ac56e61dda5062094e14a36fdf271f33acc65747cdcce29595bd32b",
+      "size": 60762
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -877,6 +877,11 @@
       "path": "assets/atlas/schedulebook/schedulebook.json",
       "hash": "ec2e27a7604ea30b59c91baaeea9811166aa6e3319a5c00b561b999fe8c60ed9",
       "size": 150
+    },
+    {
+      "path": "assets/atlas/single/single.diff.png",
+      "hash": "1167fe790e7da6af03c43510f5c378c3435f82e432c77284715677d6418cc158",
+      "size": 152194
     },
     {
       "path": "assets/atlas/single/single.json",
@@ -9879,11 +9884,6 @@
       "size": 1053524
     },
     {
-      "path": "assets/textures/outgame/comic/tex_comic_1001_01.png",
-      "hash": "b532e2b6d1417dd8a942581bd7de4273f33589b41e60cbc4322d530f268468d3",
-      "size": 1370461
-    },
-    {
       "path": "assets/textures/outgame/comic/tex_comic_1001_02.diff.png",
       "hash": "e4fa030b9e7fff1a54cd12ff15e98b437525e5bb4c1b7bb7f61fe6558838e831",
       "size": 924932
@@ -11375,8 +11375,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "0c413e93af769874dd01bf11ba742516f2f330dcae3cb57cab47c3d82575aa88",
-      "size": 2388326
+      "hash": "3922c4dc26ecb9bfd650840cfff0e7c0ee0bf93c115fd69dee0745cd2d9e1714",
+      "size": 2388460
     }
   ]
 }
