@@ -1785,13 +1785,13 @@
     },
     {
       "path": "assets/lyrics/m1025_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "bf544a06a90c4a883f32631bb891044e4ead95e4dfce8300835bf7b08d9b9024",
+      "size": 1023
     },
     {
       "path": "assets/lyrics/m1026_lyrics.json",
-      "hash": "38698e116ed3ed77d4f1004ca320be40ecfb91cbebc1de4ccf56cbefff0fe4e0",
-      "size": 598
+      "hash": "73fc5f70537f131ce520e528009ee3cbcd4a3e92333b6508343b32c762cdb003",
+      "size": 546
     },
     {
       "path": "assets/lyrics/m1027_lyrics.json",
@@ -1895,13 +1895,13 @@
     },
     {
       "path": "assets/lyrics/m1082_lyrics.json",
-      "hash": "0fbda450bff0928f7647bec6575f09d1476624ff1f457fa1f39ba9cb368d8cf0",
-      "size": 1203
+      "hash": "b64efa67b96a8ed29ce34fdaeee93a3a7e0d2e01a1e1f0593955114bb73550f6",
+      "size": 951
     },
     {
       "path": "assets/lyrics/m1083_lyrics.json",
-      "hash": "ab3ba73eb82f9e8cf5ded2c26a60993509cf685519b96901d37c507ae115459d",
-      "size": 3776
+      "hash": "da066d774afa1bff00245e98adc80503ba0a57da62d0728236148dac5ef327fe",
+      "size": 3725
     },
     {
       "path": "assets/lyrics/m1088_lyrics.json",
@@ -1934,6 +1934,11 @@
       "size": 945
     },
     {
+      "path": "assets/lyrics/m1126_lyrics.json",
+      "hash": "b415add99cc52774ed09a139de4e9e2afd4bdc01c0fb2f17d3369de7d1897953",
+      "size": 1088
+    },
+    {
       "path": "assets/lyrics/m1151_lyrics.json",
       "hash": "06a2ba01a86cdfdb565cba098e6971ffec42a41c88c15af3c9ca388a3bf615ee",
       "size": 2115
@@ -1955,8 +1960,8 @@
     },
     {
       "path": "assets/lyrics/m1155_lyrics.json",
-      "hash": "003994924634bfea321166487ec0eba6cb1de46c19507482e6db1d2d3e632f90",
-      "size": 1801
+      "hash": "5657e6d3e297a4ab7e413a8ac254da9989a84f2c5384f57a7dffb47f2c7cd461",
+      "size": 1576
     },
     {
       "path": "assets/lyrics/m1156_lyrics.json",
@@ -4847,6 +4852,11 @@
       "path": "assets/story/data/04/1072/storytimeline_041072007.json",
       "hash": "e11fb364145e7aa1e9ee1d913d5a8ccaa7267bb75c6376e4beef201cac94e16e",
       "size": 10154
+    },
+    {
+      "path": "assets/story/data/04/1073/storytimeline_041073002.json",
+      "hash": "8718fb4a030fe79ec21870d4a671c97bcd708d13c17485c558bc4ac91161aa49",
+      "size": 9279
     },
     {
       "path": "assets/story/data/04/1076/storytimeline_041076001.json",
