@@ -41,6 +41,198 @@
         {
             "name": "Trainner Kyurin",
             "text": "Keinginan untuk bertindak tentu besar, namun…\nlangkah apa yang seharusnya kita ambil…?"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hmm! Nah, kalian para trainer hebat, aku mau minta tolong nih..."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hmm! Nah, promosi URA Finals nih... Dan, acara besar yang ngebahas gimana para Uma Musume lagi ngegeber usaha buat balapan itu loh--"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Eh, event URA Finals nih ada perayaannya! Yuk mampir!"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Oh, gitu ya...\nKalau boleh tahu, eventnya ngapain aja sih nanti?"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Ngomong-ngomong...\n...sebenarnya, buat bikin event ini jadi beneran, kami udah berjuang mati-matian sih."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "--Tidak ada rencana!!"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Lho ? !"
+        },
+        {
+            "text": "Jadi pertama-tama...\nkita rencananya bakal briefing bareng-bareng dulu nih, buat bahas detail acaranya."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Aduh, maaf banget nih...!! Ternyata bikin repot juga ya...\n\n"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Ah, hahaha... emang bikin bingung sih awalnya. Tapi, nggak mungkin lah aku nyerah gitu aja"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Meek juga bekerja keras untuk menjadi \"Juara Final.\""
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Aku tidak bisa membiarkan usahanya sia-sia!"
+        },
+        {
+            "text": "Umamusume yang aku tangani juga lagi berjuang keras...\nPerasaan kami sama, kok, sama Trainner",
+            "choice_data_list": [
+                "Aku juga mau bantu !",
+                "Aku juga mau bantu !"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Makasih bangeeet!! Dari hati yang paling dalam, makasih!!\nMemang kalian trainer pilihanku gak pernah ngecewain!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Cepat! Ada usulan atau ide buat eventnya !?\n\n"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Hmm... kalau ngomongin event buat ngumpulin orang, biasanya sih yang klasik itu talk show atau mini live dari para Uma Musume, ya..",
+            "choice_data_list": [
+                "Bebannya berat juga ya ...",
+                "Bebannya berat juga ya ..."
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Iya bener. Soalnya ini kan lagi masa-masa penting banget nih...\n\n",
+            "choice_data_list": [
+                "Hm .. ada cara lain ?",
+                "Ada Cara lain ?"
+            ]
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Hanya kita berdua...?\nTapi kalau begitu, nanti—"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Lho—!! Ternyata!!\nAku ada usul nih!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Penampilan para Uma Musume yang berjuang keras menuju start line' —\nKalau begitu, kalianlah yang—! Tunggu, bukan!\n"
+        },
+        {
+            "text": "Justru karena kalianlah—!!\nPasti bisa menyampaikannya dengan baik!",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "text": "Kemudian, hari pelaksanaan event tiba—"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Trainer <username>, dan juga\nTrainer Kyurin Selamat pagi!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Event hari ini akan kami liput juga untuk\nmajalah Gekkan Twinkle, lho"
+        },
+        {
+            "text": "Ngomong-ngomong... di mana para Uma Musume\nyang biasa kalian tangani?",
+            "name": "Reporter Otoshi"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Ya, event ini akan kami berdua yang jalankan.\nTapi soal isi acaranya, jangan khawatir—kami sudah siap"
+        },
+        {
+            "text": "Hari ini, kami akan bercerita tentang perjuangan mereka\nmenuju URA Finals—dari sudut pandang kami yang menemani langsung",
+            "name": "Trainner Kyurin"
+        },
+        {
+            "text": "Justru karena kami selalu ada di samping mereka...\nJustru karena kami selalu menyaksikan perjalanan mereka..",
+            "name": "Trainner Kyurin",
+            "choice_data_list": [
+                "(Hari ini, kami akan mewakili mereka!)"
+            ]
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Begitu ya...!?\nItu... itu sungguh luar biasa...!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Mantap banget nih!!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Yang paling kami utamakan adalah para Uma Musume yang berjuang keras setiap hari—"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Para Uma Musume juga butuh istirahat...!\nKami yang akan berjuang untuk mewakili mereka...!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Setiap momen mereka berkeringat dan bersinar dalam latihan, akan kami kisahkan secara mendetail! Menggugah! Sampai ke penghabisan!\nKemudian—"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Sebagai pengganti Uma Musume, kami yang akan menangani sesi foto, talk, dan—\n",
+            "choice_data_list": [
+                "Lho~...?"
+            ]
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Oke, jelas! Niat baik kalian,\nakan kami bawa sampai ke hati pembaca!!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Wah, sekalian aja saya bantu jadi MC-nya, gimana?\nSaya jamin acaranya bakal super seru, deh~!"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Y.....ya.... ?"
+        },
+        {
+            "text": "Dan Begitulah-----"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Oke, kita lanjut! Persembahan berikutnya—\n\n"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Huu... umapyoi, umapyoi...!(Dengan nada ragu)\n\n",
+            "choice_data_list": [
+                "U, umapyoi, umapyoi...!"
+            ]
+        },
+        {
+            "name": "Pengunjung A",
+            "text": "Hahaha!\nSemangat terus, para Trainer!!!"
+        },
+        {
+            "name": "Pengunjung B",
+            "text": "Kalian sendiri mau mencoba merasakan jadi bagian dari dunia Uma Musume...\nGaya berpikir kayak gitu, jujur aku salut deh!"
+        },
+        {
+            "name": "Pengunjung C",
+            "text": "Wah, 'URA Finals' ya...\nBalapan baru gini sih bikin penasaran banget, ya!"
+        },
+        {
+            "text": "Walaupun sempat ada kendala yang nggak terduga.."
         }
     ]
 }
