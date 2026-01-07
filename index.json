@@ -7350,8 +7350,8 @@
     },
     {
       "path": "assets/story/data/40/0001/storytimeline_400001016.json",
-      "hash": "ae66e94c4374a394c0f7a64ee9e4adcb3ec5ba7f338150fbfb43d3e65720ab0b",
-      "size": 1788
+      "hash": "e96c445692b88f0acc57ef3b93f5796ee162355bb52eb8e7eb7b311a8c319a38",
+      "size": 9214
     },
     {
       "path": "assets/story/data/40/0004/storytimeline_400004249.json",
@@ -11355,8 +11355,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "494ed54551d3f9a3bcadb72e537896d867b0bfd7f7c4fa6dbd00b6a9a8efa1d9",
-      "size": 220933
+      "hash": "7bb90c43f4f5d1282c83ad3435e7fca5c26588e3fa800558a2a65bdb0b02458a",
+      "size": 226611
     },
     {
       "path": "config.json",
