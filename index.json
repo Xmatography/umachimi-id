@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "23a239eb2ac56e61dda5062094e14a36fdf271f33acc65747cdcce29595bd32b",
-      "size": 60762
+      "hash": "af8b367ea3e39ef25a21ac55319da9637924bb66cfd79592a97f3b32522f0975",
+      "size": 87370
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -675,8 +675,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_teamrace_header_turncounter00/tx_uTex_fl_singlemode_teamrace_header_turncounter00_0.diff.png",
-      "hash": "b6a8cbd2c6f4c71ab97e1f07c192225a847fa2ea67218e54614176e3171c3dc0",
-      "size": 8837
+      "hash": "36f630d7050c0e99a11d159c98b52c0655d20ceca90bc7980589ae6ada8bb3c8",
+      "size": 10875
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getreward00/tx_uTex_fl_singlemode_title_getreward00_0.diff.png",
@@ -750,8 +750,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "01b1e5ccfc6bbd997071c4e6df1b1fdb94142bf76405e74b1c1c8bad123606d3",
-      "size": 318335
+      "hash": "95826fdf657e9c6e3d55e5ce2d0b15ac12e8ad038118ef665bb8d7075374887c",
+      "size": 337663
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -790,8 +790,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "155085d8f10d3953fcd03dbfa128d85ce1d7fc7c5c64381cc0b3a9d919009f88",
-      "size": 97915
+      "hash": "5ed8045f60af5427d6783ee12d50c286727d583872c3faa848765697c5c95d05",
+      "size": 110420
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -800,8 +800,8 @@
     },
     {
       "path": "assets/atlas/mission/mission.diff.png",
-      "hash": "36fb0386f3f56725bfc59994f846fc8720e08e9be7a3a028fdeea6f5d35a44ea",
-      "size": 12672
+      "hash": "f5637013d60c96a03c6dfece5b815f0f08ecec1b08efd6725a5f931a44304039",
+      "size": 6754
     },
     {
       "path": "assets/atlas/mission/mission.json",
@@ -980,8 +980,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.diff.png",
-      "hash": "db28502f4e3496bd943e404b00150c02682146d664116b3b9bbf58e98da28f7a",
-      "size": 309428
+      "hash": "7732beca2ce9ad453493c2e44757e089f9fe8c95e1153e52cd6df2e9243b8ecb",
+      "size": 740194
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.json",
@@ -1010,8 +1010,8 @@
     },
     {
       "path": "assets/atlas/singlestart/singlestart.diff.png",
-      "hash": "dbcabf1a510b73bf277809138941e79c5b16193183b3cd06b5f38a47010b0af8",
-      "size": 75501
+      "hash": "afaa11354063c953b320a6505259eb0f4a2ce3e938846f6a0dcfcc9ca337e97f",
+      "size": 63719
     },
     {
       "path": "assets/atlas/singlestart/singlestart.json",
