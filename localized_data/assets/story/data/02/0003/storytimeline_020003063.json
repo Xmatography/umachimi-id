@@ -52,5 +52,56 @@
       "speaker": "Narasi",
       "text": "Mulai dari sekarang, pertemuan sekali seumur hidup itu, \nclassic race dimulai, dan tujuan di Derby perlahan mendekat."
     }
-  ]
+  ],
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Ah, Trainer, ada Hayahide!",
+            "choice_data_list": [
+                "(Balapan yang luar biasa tadi!)",
+                "(Balapan yang luar biasa tadi!)"
+            ]
+        },
+        {
+            "text": "Ehehe~, aku sendiri aja kaget banget!\nWaktu rekor di Yayoi Sho tuh!",
+            "name": "Winning Ticket"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waktu liat Taishin ngincer dari belakang,\naku kayak dapet tenaga tambahan gitu...!"
+        },
+        {
+            "text": "Ternyata rival itu bisa bikin kita ngerasa punya kekuatan yang gak disangka-sangka,\nTaishin yang ngajarin aku soal itu, oooon on on~!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Yah, aku memang kalah sih...\nTapi setidaknya aku puas bisa ngasiin balapan yang bagus",
+            "name": "Narita Taishin"
+        },
+        {
+            "text": "Dasar, kalian berdua licik banget sih.\nAku aja sampai iri pengen ikutan lari bareng.",
+            "name": "Biwa Hayahide"
+        },
+        {
+            "text": "Jika terus seperti ini, ketiganya akan bertemu\ndi balapan klasik pertama, 'Satsuki Sho'"
+        },
+        {
+            "text": "Lain kali aku pasti gak kalah lagi.\nSeenak apapun balapannya, kalau nggak menang ya percuma.",
+            "name": "Narita Taishin"
+        },
+        {
+            "text": "Fufu, aku juga pasti akan ikut 'Satsuki Sho'.\nKali ini kita bertiga yang bakal berpacu.",
+            "name": " Biwa Hayahide"
+        },
+        {
+            "text": "Ya! Bertiga bersama-sama!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Pertarungan rival pertama mereka — setelah berlari bersama rival yang saling percaya,Winning Ticket menunjukkan senyuman yang lebih cerah dan penuh daripada sebelumnya."
+        },
+        {
+            "text": "Kini panggung besar seumur hidup, garis depan balap klasik telah dimulai, dan tujuan tertinggi — Derby — sudah berada di depan mata."
+        }
+    ]
 }

@@ -86,7 +86,12 @@
       "text": "Wah～ aku kaget.\nTiba-tiba nama aku disebut, kupikir ada apa."
     },
     {
-      "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Horse Girl Derby."
+      "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Horse Girl Derby.",
+            "name": "<username>"
+    },
+    {
+      "text": "Dia bilang, “Sampaikan salam buat Tickezou.”\nDia tahu tentang kita, dan kalau kamu bakal bikin aku jadi Horse Girl Derby.",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -109,7 +114,10 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Iya! Kayaknya nyampur sama bahan pameran."
+      "text": "Iya! Kayaknya nyampur sama bahan pameran.",
+            "choice_data_list": [
+                "Catatan Derby?"
+            ]
     },
     {
       "text": "Pas dia nunjukin bukunya, aku lihat cerita tentang Derby\nditulis rapi pake huruf Hiragana anak-anak."
@@ -190,7 +198,12 @@
       "text": "Maaf ya bikin kamu lembur, Trainer-san.\nSoalnya kalau udah ngomongin Derby, aku suka kebawa."
     },
     {
-      "text": "Kamu emang bener-bener cinta Derby ya, Tickezou."
+      "text": "Kamu emang bener-bener cinta Derby ya, Tickezou.",
+            "name": "<username>"
+    },
+    {
+      "text": "Kamu emang bener-bener cinta Derby ya, Tickezou.",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",

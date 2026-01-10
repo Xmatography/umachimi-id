@@ -28,14 +28,24 @@
             "text": "Aku mulai mikir apa ada cara yang bagus, tapi aku nggak terlalu jago mikir…. haha."
         },
         {
-            "text": "Kalau gitu, Tickezou, kenapa nggak jelasin dari sudut pandang perasaanmu?"
+            "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
+            "name": "<username>"
+        },
+         {
+            "text": "Kalau gitu, Tickezou, kenapa nggak\n jelasin dari sudut pandang perasaanmu?",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
             "text": "Dari sudut pandang perasaan….?"
         },
         {
-            "text": "Lihat, pas Tickezou ngomongin Derby.\nUma Musume ini mikir gini, biasanya kamu ngomong kayak gitu kan?"
+            "text": "Lihat, pas Tickezou ngomongin Derby.\nUma Musume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
+            "name": "<username>"
+        },
+         {
+            "text": "Lihat, pas Tickezou ngomongin Derby.\nUma Musume ini mikir gini, biasanya kamu ngomong kayak gitu kan?",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -49,7 +59,12 @@
             "text": "Waktu Winning Ticket mulai ngerjain pameran,\nwaktu siaran langsung makin dekat."
         },
         {
-            "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA."
+            "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
+            "name": "<username>"
+        },
+        {
+            "text": "Sebelumnya, aku mau nonton TV sebentar,\nmantan Trainer-ku bakal ada di upacara penghargaan URA.",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -63,7 +78,7 @@
             "text": "“Selamat atas Penghargaan URA kali ini”\nApakah ada balapan yang paling meninggalkan kesan di karier panjang Anda?"
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "Oh, setiap balapan punya banyak cerita dari para Uma Musume,\njadi semua meninggalkan kesan yang mendalam."
         },
         {
@@ -71,15 +86,15 @@
             "text": "Penghargaan ini untuk menghormati prestasi Anda sejauh ini,\nbagaimana perasaan Anda saat mendengarnya?"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Tentu aku senang, tapi juga berpikir apakah benar aku pantas menerima penghargaan ini."
+            "name": "Trainer Kyurin",
+            "text": "Tentu aku senang, tapi juga berpikir\napakah benar aku pantas menerima penghargaan ini."
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "“Tidak semua mimpi Uma Musume bisa terwujud.\nSoal Derby, belum ada yang menang di bawahku.”"
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "Soalnya, sebagai orang yang terlibat dalam balapan,\nkemenangan di Derby itu puncak kehormatan…."
         },
         {
@@ -87,10 +102,15 @@
             "text": "Eh…. Oh. Mereka belum pernah menang Derby…."
         },
         {
-            "text": "Beliau tetap jadi Trainer bertahun-tahun, bahkan Sensei yang menang banyak gelar besar,\nbelum berhasil menang Derby."
+            "text": "Beliau tetap jadi Trainer bertahun-tahun, bahkan Sensei yang\nmenang banyak gelar besar,\nbelum berhasil menang Derby."
         },
         {
-            "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan."
+            "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
+            "name": "<username>"
+        },
+        {
+            "text": "Meski itu puncak balapan, bahkan Sensei veteran pun,\nDerby bukan sesuatu yang gampang dimenangkan.",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -112,15 +132,15 @@
             "text": "Ada juga yang jadi favorit nomor 1 tapi tetap nggak menang."
         },
         {
-            "name": "Chief Trainer",
-            "text": "Pada masanya, kami latihan sampai hari yang ditunggu dengan bayangan kemenangan.\nTapi, di garis lurus terakhir…."
+            "name": "Trainer Kyurin",
+            "text": "Pada masanya, kami latihan sampai hari\n yang ditunggu dengan bayangan kemenangan.\nTapi, di garis lurus terakhir…."
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "Aku mikir, kalau besok, aku bakal bikin ini, seperti ini,\nuntuk dia yang berlari sekuat tenaga."
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "Daripada “Melihat ke belakang”, untuk melupakan pikirannya tentang Derby,\nkami mulai mikir langkah berikutnya."
         },
         {
@@ -128,7 +148,8 @@
             "text": "…Ah, ini tentang Derby pertama yang aku lihat!\nAku nonton di arena balap tempat ibuku membawaku!"
         },
         {
-            "text": "Maksudmu Derby yang Sensei nggak bisa menang…?"
+            "text": "Maksudmu Derby yang Sensei nggak bisa menang…?",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -143,14 +164,14 @@
             "text": "Aku baru ngerti betapa berharganya Derby.\nMakanya aku kagum."
         },
         {
-            "text": "Itu juga Derby di mana Sensei dan Uma Musume yang ditugaskan menaruh pikiran dan perasaan mereka."
+            "text": "Itu juga Derby di mana Sensei dan Uma Musume \nyang ditugaskan menaruh pikiran dan perasaan mereka."
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "“Akhirnya aku pensiun tanpa menang…”\nTapi sekarang, ada orang di tim sekarang <Sirius> yang mewarisi perasaanku."
         },
         {
-            "name": "Chief Trainer",
+            "name": "Trainer Kyurin",
             "text": "Aku percaya dia akan menang Derby."
         },
         {
@@ -160,13 +181,25 @@
         {
             "text": "Oh, iya…."
         },
+         {
+            "text": "Oh, iya…."
+        },
         {
             "text": "Rasanya Sensei di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
+        },
+        {
+            "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”"
         },
         {
             "text": "Sensei mempercayakan mimpinya padaku.\nDia percaya padaku….",
             "choice_data_list": [
                 "….Aku mau menang Derby."
+            ]
+        },
+        {
+            "text": "Rasanya Senpai di TV menatapku.\nSeperti mimpi…. Seolah bilang, “Kamu bisa.”",
+            "choice_data_list": [
+                "Aku Mau Menang Derby"
             ]
         },
         {
@@ -181,14 +214,17 @@
             "text": "Sepertinya memang bukan kebetulan kalau ini dramanya,\nseperti yang Winning Ticket bilang."
         },
         {
-            "text": "Aku diminta bantu pameran kali ini dan bertemu Winning Ticket yang menarget Derbyー"
+            "text": "Aku diminta bantu pameran kali ini dan bertemu\nWinning Ticket yang menarget Derbyー"
         },
         {
             "text": "Dan saat itu Winning Ticket datang ke ruangan Trainer,\nmendengar cerita Sensei bareng aku, semuanya terasa hidupー"
         },
         {
             "name": "Winning Ticket",
-            "text": "Announcer juga wawancara dengan bagus!\nRasanya terharu bisa dengar cerita Derby seperti ini～!"
+            "text": "Announcer juga wawancara dengan bagus!\nRasanya terharu bisa dengar cerita Derby seperti ini～!",
+            "choice_data_list": [
+                "Aku ingin Menang Derby!~"
+            ]
         },
         {
             "text": "Mungkin ini takdir. Rasanya seperti itu",
@@ -206,24 +242,39 @@
             "text": "Per, Mungkin… maksudmu Derby!? B, Bareng sama aku!?"
         },
         {
-            "text": "Iya, Tickezou pengen menang Derby, kan?"
+            "text": "Iya, Tickezou pengen menang Derby, kan?",
+            "name": "<username>"
+        },
+         {
+            "text": "Iya, Tickezou pengen menang Derby, kan?",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
             "text": "Tentu! Aku mau menang! Itu mimpiku! Sejak kecil."
         },
         {
-            "text": "Aku juga sekarang, aku juga mau menang."
+            "text": "Aku juga sekarang, aku juga mau menang.",
+            "name": "<username>"
+        },
+         {
+            "text": "Aku juga sekarang, aku juga mau menang.",
+            "name": "<username>"
         },
         {
-            "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?"
+            "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
+            "name": "<username>"
+        },
+        {
+            "text": "Kalau Tickezou setuju, kenapa kita nggak kejar bareng?",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
             "text": "Se, serius? Kamu nggak keberatan sama aku…?",
             "choice_data_list": [
-                "Hanya bisa kamu!",
-                "Hanya bisa kamu!"
+                "Hanya kamu yang bisa!",
+                "Hanya kamu yang bisa!"
             ]
         },
         {
@@ -239,7 +290,12 @@
             "text": "Tehehe! Trainer-san, aku kasih kamu gelar “Trainer Derby” sebagai hadiah."
         },
         {
-            "text": "Terus, aku akan beri gelar “Uma Musume Derby” ke Tickezou."
+            "text": "Terus, aku akan beri gelar “Uma Musume Derby” ke Tickezou.",
+            "name": "<username>"
+        },
+         {
+            "text": "Terus, aku akan beri gelar “Uma Musume Derby” ke Tickezou.",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -263,7 +319,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Terima kasih! Aku janji bakal bawa kemenangan Derby ke tim <Sirius>!"
+            "text": "Terima kasih! Aku janji bakal bawa kemenangan Derby ke tim <Sirius>!",
+            "choice_data_list": [
+                "Aku Menyukaimu!",
+                "Aku Menyukaimu!"
+            ]
         },
         {
             "text": "Tickezou untuk menang Derby butuh kekuatan hati.\nYuk kita dorong mimpimu bersama tim!"
@@ -281,7 +341,15 @@
             "text": "Asik rasanya! iya kan! Oke, aku juga! Der～～ By～～!!"
         },
         {
-            "text": "Begitulah, tirai dibuka untuk Winning Ticket dan drama mengejar kemenangan Derby."
+            "text": "Begitulah, tirai dibuka untuk Winning Ticket\n dan drama mengejar kemenangan Derby."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ya!! Mari kita lakukan yang terbaik\nbersama-sama!! OK! Mari kita bidik Derby!!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ini adalah Winning Ticket , Terimakasih!!!"
         }
     ]
 }

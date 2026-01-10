@@ -2,11 +2,9 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "narasi",
       "text": "Sejak hari Winning Ticket kabur dari latihan publik, kondisinya kelihatan menurun."
     },
     {
-      "name": "narasi",
       "text": "Dia kelihatan syok banget.\nDalam keadaan begitu, Derby tinggal hitungan hari."
     },
     {
@@ -14,11 +12,9 @@
       "text": "Siarnya langsung bikin aku tegang.\nAku harus pastiin jangan gagal lagi kayak di “SatsukiShou”."
     },
     {
-      "name": "narasi",
       "text": "Hari ini ada konferensi pers untuk para Uma Musume yang bakal turun di Derby."
     },
     {
-      "name": "narasi",
       "text": "Winning Ticket nonton para Uma Musume lain di TV sambil nunggu namanya dipanggil.",
       "choice_data_list": [
         "Udah kepikiran mau ngomong apa?"
@@ -29,7 +25,6 @@
       "text": "Hmm… untuk sementara sih…"
     },
     {
-      "name": "narasi",
       "text": "Ticket jawab seadanya sambil tetap mantengin TV."
     },
     {
@@ -37,12 +32,12 @@
       "text": "Derby penuh sama kuda-kuda hebat.\nBisa ceritakan semangatmu?"
     },
     {
-      "name": "Participant Horse Girl",
+      "name": "Parsitipan Uma",
       "text": "Tentu aja kami ngikutin semua balapan rival.\nBanyak banget yang berbakat."
     },
     {
-      "name": "Participant Horse Girl",
-      "text": "Tapi akhirnya aku bisa sampai di panggung seumur hidup sekali ini.\nYang ada di kepalaku cuma satu: lewat garis finis paling depan."
+      "text": "Tapi akhirnya aku bisa sampai di panggung seumur hidup sekali ini.\nYang ada di kepalaku cuma satu: lewat garis finis paling depan.",
+            "name": "Partisipan Uma"
     },
     {
       "name": "Winning Ticket",
@@ -50,7 +45,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "…Aku juga selalu mikir, “Derby itu balapan impianku, aku harus menang dan jadi Uma Musume Derby.”"
+      "text": "…Aku juga selalu mikir, “Derby itu balapan \nimpianku, aku harus menang dan jadi Uma Musume Derby.”"
     },
     {
       "name": "Winning Ticket",
@@ -72,8 +67,12 @@
       "text": "Sampai sekarang kakiku kaku banget,\nrasanya kayak bukan kakiku sendiri…"
     },
     {
-      "name": "narasi",
-      "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun."
+      "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun.",
+            "name": "<username>"
+    },
+    {
+      "text": "Ya, jelas banget kalau kamu memang lebih takut dari siapa pun.",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -96,19 +95,27 @@
       "text": "Apa maksudmu!?\nTrainer-san, kamu sendiri kan ngaku aku ini paling takut!\nLebih lemah dari siapa punー"
     },
     {
-      "name": "narasi",
-      "text": "Justru itu kenapa kamu bisa menang!"
+      "text": "Justru itu kenapa kamu bisa menang!",
+            "name": "<username>"
+    },
+    {
+      "text": "Justru itu kenapa kamu bisa menang!",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",
       "text": "Nggak mungkin!\nDi panggung sebesar ini, nggak bisa menang kalau cuma pengecut…!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Aku rasa alasan kamu lebih takut dari siapa pun,\nkarena kamu punya keinginan menang Derby yang lebih kuat dari siapa pun juga."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
+      "text": "Aku rasa alasan kamu lebih takut dari siapa pun,\nkarena kamu punya keinginan menang Derby yang lebih kuat dari siapa pun juga."
+    },
+    {
+      "name": "<username>",
       "text": "Aku pengen menang Derby lebih serius dari siapa pun,\nsampai-sampai kakiku gemetaran tiap mikirin kalah."
     },
     {
@@ -116,15 +123,19 @@
       "text": "……"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Guru aku juga pernah bilang,\n“Kekuatan dari perasaan itu penting buat Derby”."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
+      "text": "Kamu udah ngumpulin perasaan itu lebih banyak dari siapa pun.\nDari sejak pertama kali kamu lihat Derby waktu kecil…!"
+    },
+     {
+      "name": "<username>",
       "text": "Kamu udah ngumpulin perasaan itu lebih banyak dari siapa pun.\nDari sejak pertama kali kamu lihat Derby waktu kecil…!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Setelah aku ngomong gitu ke Ticket, aku kasih dia “Catatan Derby”."
     },
     {
@@ -132,15 +143,24 @@
       "text": "Ah… Buku catatanku."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Perasaan yang terkumpul itu bakal jadi tenaga buat bertahan di saat sulit!\nJadi kekuatan buat menang, yang bisa diandalkan lebih dari siapa pun!"
     },
+    
     {
       "name": "Winning Ticket",
       "text": "Aku bisa lebih baik dari siapa pun…\nBisa lebih mengandalkan ini dari siapa pun…!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
+      "text": "Terus, tulis ini di buku catatan ituー",
+      "choice_data_list": [
+        "Nama kita kalau menang Derby!",
+        "Nama kita kalau menang Derby!"
+      ]
+    },
+    {
+      "name": "<username>",
       "text": "Terus, tulis ini di buku catatan ituー",
       "choice_data_list": [
         "Nama kita kalau menang Derby!",
@@ -153,14 +173,14 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Aku pengen menang!\nItu mimpi sejak kecil!\nAku takut, tapi aku nggak bisa nyerah!!\nWaaaaa～～!!!!"
+      "text": "Aku pengen menang! Itu mimpi sejak kecil!\nAku takut, tapi aku nggak bisa nyerah!!\nWaaaaa～～!!!!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Setiap kali ngomongin Derby, Ticket nangis keras-keras."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Dengerin tangisannya yang dalam, aku merasa dia akhirnya balik lagi."
     },
     {
@@ -168,7 +188,7 @@
       "text": "Uwaa～, aku nangis banyak banget!\nAku emang cengeng, tapi kali ini nangisku beda, hehe."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Udah mutusin mau ngomong apa di konferensi pers?"
     },
     {
@@ -184,7 +204,7 @@
       "text": "Iya! Oke, aku bakal ngomong dengan sepenuh tenaga!\nDer～～, by～～～～!!!!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "(Tok-tok)"
     },
     {
@@ -196,7 +216,7 @@
       "text": "Siap! Terima kasih!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Dan, saat ituーAda nama familiar yang keluar dari TV."
     },
     {
@@ -224,7 +244,11 @@
       "text": "Bahkan di Derby, aku bakal pastiin rival-rivalku lihat punggungku."
     },
     {
-      "name": "narasi",
+      "name": "<username>",
+      "text": "Taishin bakal jadi lawan terkuatmu kali ini juga."
+    },
+     {
+      "name": "<username>",
       "text": "Taishin bakal jadi lawan terkuatmu kali ini juga."
     },
     {
@@ -244,7 +268,7 @@
       "text": "Eh～!? Tapi giliranmu langsung setelah Biwa Hayahide-san!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Kalau Uma Musume lari, secepat kilat udah sampai ruang siaran!"
     },
     {
@@ -283,7 +307,7 @@
       "text": "Hah!? Tunggu, Winning Ticket-san!?"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Maaf, udah nggak ada cukup waktu lagi buat siap 100%."
     },
     {
@@ -291,7 +315,7 @@
       "text": "Hadeh, kenapa bilangnya mendadak gini～!!"
     },
     {
-      "name": "narasi",
+      "name": "<username>",
       "text": "Dan akhirnya, demi Derby, Ticket mulai berlari lagi."
     },
     {
@@ -315,8 +339,8 @@
       "text": "Aku pasti menang～～!!\nDeeeeeeeeeerbyyyyyyyyyyy!"
     },
     {
-      "name": "narasi",
-      "text": "Perasaannya buat Derby terasa jelas lewat langkah kakinya yang menggema di lintasan."
+      "name": "<username>",
+      "text": "Perasaannya buat Derby terasa jelas \nlewat langkah kakinya yang menggema di lintasan."
     }
   ]
 }

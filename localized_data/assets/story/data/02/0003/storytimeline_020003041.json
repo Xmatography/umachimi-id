@@ -11,10 +11,11 @@
       "text": "Nama sang ratu itu adalah Vodka."
     },
     {
-      "text": "Ia mengubah panggung mimpinya jadi panggung solo yang megah, \ndan di matanya tergambar jelas pemandangan masa depan yang belum pernah dilihat siapa pun."
+      "text": "Ia mengubah panggung mimpinya jadi panggung solo yang megah, \ndan di matanya tergambar jelas pemandangan masa depan\n yang belum pernah dilihat siapa pun."
     },
     {
-      "text": "Musim gugur pun tiba, hari “Festival Tapal Kudus” akhirnya datang."
+      "text": "Musim gugur pun tiba, hari “Festival Tapal Kudus” akhirnya datang.",
+            "name": "Monolog"
     },
     {
       "text": "Pameran Derby yang kupersiapkan bersama Winning Ticket sudah siap, \ntapi sambutannya tidak terlalu baik."
@@ -63,7 +64,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Kalian salah! Sebenarnya Trainer yang datang duluan buat bantu aku siapin pameran!"
+      "text": "Kalian salah! Sebenarnya Trainer yang\n datang duluan buat bantu aku siapin pameran!"
     },
     {
       "name": "Winning Ticket",
@@ -87,7 +88,7 @@
     },
     {
       "name": "Instruktur",
-      "text": "E-Eh… ya nggak apa-apa sih, \ntapi biasanya Uma Musume yang baru masuk sekolah mulai dari setengah jarak itu."
+      "text": "E-Eh… ya nggak apa-apa sih, \ntapi biasanya Uma Musume yang baru\n masuk sekolah mulai dari setengah jarak itu."
     },
     {
       "name": "Winning Ticket",
@@ -170,7 +171,7 @@
       "text": "Yuk kita bikin sejarah baru bertiga! \nDi Derby yang panas dan dramatis!!"
     },
     {
-      "text": "Saat Winning Ticket ngomongin hari pertemuan mereka, matanya bersinar. \nKetiga gadis itu sejak pertama kali bertemu sudah melangkah bareng menuju mimpi mereka."
+      "text": "Saat Winning Ticket ngomongin hari pertemuan mereka, matanya bersinar. \nKetiga gadis itu sejak pertama kali bertemu\n sudah melangkah bareng menuju mimpi mereka."
     },
     {
       "name": "Winning Ticket",
@@ -209,7 +210,7 @@
       "text": "Oh, gitu ya! Taishin, aku bakal dukung kamu!"
     },
     {
-      "text": "Meski balapannya masih jauh, dia tetap kerja keras latihan sampai hari acara sekolah."
+      "text": "Meski balapannya masih jauh, dia tetap kerja\n keras latihan sampai hari acara sekolah."
     },
     {
       "text": "Gadis bernama Narita Taishin itu ternyata punya sifat stoik banget, \nkebalikan dari kesan awalnya yang agak keras."

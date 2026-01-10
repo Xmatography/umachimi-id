@@ -53,13 +53,14 @@
       "text": "Ahh～… dia beneran ngerti ya～… \nWalau dia nyebut aku bodoh ～?"
     },
     {
-      "text": "Seperti yang Biwa Hayahide bilang, dia pasti paham Winning Ticket pengen lari Derby bareng."
+      "text": "Seperti yang Biwa Hayahide bilang, dia pasti \npaham Winning Ticket pengen lari Derby bareng."
     },
     {
       "text": "Dan mungkin sulit buat dia untuk nyemangatin Winning Ticket.",
       "choice_data_list": [
-        "Kurasa dia nolak karena pengen lari bareng kamu."
-      ]
+                "Kurasa dia ga mau lari sama kamu",
+                "Kurasa dia ga mau lari sama kamu"
+            ]
     },
     {
       "name": "Biwa Hayahide",
@@ -81,7 +82,12 @@
       "text": "Rice Shower mengikuti langkah Mihono Bourbon dari belakang \ndan menyalipnya di “Kikkashou”."
     },
     {
-      "text": "Daripada lari berdampingan, nunjukin punggungmu itu sesuatu yang bisa kamu lakukan sebagai rival."
+      "text": "Daripada lari berdampingan, nunjukin punggungmu\n itu sesuatu yang bisa kamu lakukan sebagai rival.",
+            "name": "<username>"
+    },
+     {
+      "text": "Daripada lari berdampingan, nunjukin punggungmu\n itu sesuatu yang bisa kamu lakukan sebagai rival.",
+            "name": "<username>"
     },
     {
       "name": "Winning Ticket",
@@ -111,7 +117,7 @@
       "text": "heh… heh… heh… heh…"
     },
     {
-      "text": "Untuk nunjukin punggung ke rivalnya, Winning Ticket termotivasi dan mulai latihan mandiri."
+      "text": "Untuk nunjukin punggung ke rivalnya, \nWinning Ticket termotivasi dan mulai latihan mandiri."
     },
     {
       "text": "Saat kuamati, dua langkah kaki kemudian bertambah tiga langkah baru."
@@ -170,7 +176,7 @@
       "text": "Ah!! Haaaaaa～～～～!!!!"
     },
     {
-      "name": "All 3",
+      "name": "Bertiga*",
       "text": "heh… heh… heh… heh～…!"
     },
     {
@@ -227,11 +233,11 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Aku pengen menang di panggung yang bikin hati bergetar cuma dengan melihatnya."
+      "text": "Aku pengen menang di panggung yang bikin hati \nbergetar cuma dengan melihatnya."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Buat aku… aku juga punya lawan yang pengen aku tunjukin punggung selain kalian. \nAku harus makin kuat buat dia."
+      "text": "Buat aku… aku juga punya lawan yang pengen aku \ntunjukin punggung selain kalian. \nAku harus makin kuat buat dia."
     },
     {
       "name": "Biwa Hayahide",
