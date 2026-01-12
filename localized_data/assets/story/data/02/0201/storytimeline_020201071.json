@@ -37,11 +37,11 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "――Sekarang kalian nonton VTR spesial……\nuntuk 『Oka Sho』, seperti yang diduga, Rhein Kraft dan Cesario jadi pusat perhatian!?",
+            "text": "――Sekarang kalian nonton VTR spesial……\nuntuk 『Oka Sho』, seperti yang diduga, Rhein \nKraft dan Cesario jadi pusat perhatian!?",
             "name": "MC"
         },
         {
-            "text": "Bener banget. Dalam rotasi Tiara, kemampuan keduanya jelas di atas rata-rata, tanpa ragu.",
+            "text": "Bener banget. Dalam rotasi Tiara, kemampuan \nkeduanya jelas di atas rata-rata, tanpa ragu.",
             "name": "Komentator A"
         },
         {
@@ -78,7 +78,7 @@
             "text": "……Tentu, aku ngasih arahan sebisa mungkin.\nBuat Rhein Kraft dan Cesario."
         },
         {
-            "text": "Aku bakal seneng kalo salah satu menang, tapi……\nAku juga pengen keduanya menang. Makanya aku kasih panduan sama rata ke keduanya."
+            "text": "Aku bakal seneng kalo salah satu menang, tapi……\nAku juga pengen keduanya menang. Makanya aku \nkasih panduan sama rata ke keduanya."
         },
         {
             "text": "――itulah jawaban yang akhirnya aku kasih……"
@@ -108,11 +108,16 @@
         {
             "text": "Saat itu, Rhein Kraft kelihatan putus asa banget sampai aku――",
             "choice_data_list": [
+                "<size=43>……Kraft, percaya sama kekuatanmu sendiri</size>",
                 "<size=43>……Kraft, percaya sama kekuatanmu sendiri</size>"
             ]
         },
         {
-            "text": "Ambil lead yang mantap pake kekuatanmu, terus break away, itu kekuatan terbesarmu.\nBahkan di 『Oka Sho』 kamu harus sadar buat pake kemampuan terbaikmu.",
+            "text": "Ambil lead yang mantap pake kekuatanmu, terus\n break away, itu kekuatan terbesarmu.\nBahkan di 『Oka Sho』 kamu harus sadar buat pake kemampuan terbaikmu.",
+            "name": "<username>"
+        },
+        {
+            "text": "Ambil lead yang mantap pake kekuatanmu, terus\n break away, itu kekuatan terbesarmu.\nBahkan di 『Oka Sho』 kamu harus sadar buat pake kemampuan terbaikmu.",
             "name": "<username>"
         },
         {
@@ -120,6 +125,13 @@
             "name": "Rhein Kraft"
         },
         {
+            "text": "Percaya sama skill yang udah kamu asah sampai sekarang, Kraft.\nJuga…… Kamu bisa coba akselerasi sedikit lebih awal dari lomba sebelumnya.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Kemungkinan besar dengan anggota ini――"
+            ]
+        },
+          {
             "text": "Percaya sama skill yang udah kamu asah sampai sekarang, Kraft.\nJuga…… Kamu bisa coba akselerasi sedikit lebih awal dari lomba sebelumnya.",
             "name": "<username>",
             "choice_data_list": [
@@ -134,7 +146,19 @@
             "text": "……Nggak, mungkin itu nggak perlu. Jangan dipikirin.\nYang penting, coba dorong lebih awal dari biasanya.",
             "name": "<username>"
         },
+          {
+            "text": "……Nggak, mungkin itu nggak perlu. Jangan dipikirin.\nYang penting, coba dorong lebih awal dari biasanya.",
+            "name": "<username>"
+        },
         {
+            "text": "Kamu kuat di maintain pace……keunggulan 『Maintain Pace』.\nKalo ngambil lead awal, pasti bisa bertahan sampai akhir.",
+            "name": "<username>",
+            "choice_data_list": [
+                "Kamu bakal oke. Aku percaya kamu",
+                "Kamu bakal oke. Aku percaya kamu"
+            ]
+        },
+         {
             "text": "Kamu kuat di maintain pace……keunggulan 『Maintain Pace』.\nKalo ngambil lead awal, pasti bisa bertahan sampai akhir.",
             "name": "<username>",
             "choice_data_list": [
@@ -147,6 +171,10 @@
             "name": "Rhein Kraft"
         },
         {
+            "text": ".................................",
+            "name": "<username>"
+        },
+        {
             "text": "(Buat Oka Sho……dengan anggota ini, kemungkinan semua bakal rebut posisi tinggi.\nNggak bagus kalo kepet di tengah-tengah terlalu lama.)",
             "name": "<username>"
         },
@@ -155,15 +183,26 @@
             "name": "<username>"
         },
         {
-            "text": "(Tapi, apa aku harus bilang ke Cesario supaya hati-hati biar nggak terjebak di belakang?)",
+            "text": "(Tapi, apa aku harus bilang ke Cesario supaya hati-hati\n biar nggak terjebak di belakang?)",
             "name": "<username>",
             "choice_data_list": [
                 "(……Tapi, buat Cesario――)"
             ]
         },
         {
-            "text": "(Mungkin nggak perlu. Masalahnya tergantung perkembangan lomba.\nKarena dia kuat banget, lebih baik fokus ke larinya sendiri)",
-            "name": "<username>"
+            "text": "(Tapi, apa aku harus bilang ke Cesario supaya hati-hati\n biar nggak terjebak di belakang?)",
+            "name": "<username>",
+            "choice_data_list": [
+                "(……Tapi, buat Cesario――)"
+            ]
+        },
+        {
+            "text": "Mungkin ini berlebihan. Kerumitan bisa tergantung perkembangan, dan justru \nkarena dia punya kekuatan yang solid, sebaiknya \nbiarkan dia fokus pada lariannya sendiri.",
+            "name": "<username>",
+            "choice_data_list": [
+                "(……tapi itu bener nggak ya?)",
+                "(……tapi itu bener nggak ya?)"
+            ]
         },
         {
             "text": "(Jangan terganggu sama sekitar, fokus sama form dan lari sendiri aja.\nItu yang terbaik buat Cesario――)",
@@ -174,6 +213,10 @@
             ]
         },
         {
+            "text": "Aku mungkin……kayak pengen Kraft menang lebih……",
+            "name": "<username>"
+        },
+         {
             "text": "Aku mungkin……kayak pengen Kraft menang lebih……",
             "name": "<username>"
         },
@@ -195,15 +238,19 @@
             "name": "<username>"
         },
         {
-            "text": "『Trainer-san, selamat malam! Maaf tiba-tiba hubungi, tapi aku mau minta tolong』",
+            "text": "『Trainer-san, selamat malam! Maaf\n tiba-tiba hubungi, tapi aku mau minta tolong』",
             "name": "Rhein Kraft"
         },
         {
-            "text": "『Sabtu besok jam 11AM, bisa ikut aku latihan mandiri di sungai?』",
+            "text": "『Sabtu besok jam 11 Siang, bisa ikut aku latihan mandiri di sungai?』",
             "name": "Rhein Kraft"
         },
         {
-            "text": "Iya, 『Oka Sho』 kan sebentar lagi.\nJadi wajar kalo dia pengen serius……Oke, buat sekarang aku bales aja iya……eh, tunggu?",
+            "text": "Iya, 『Oka Sho』 kan sebentar lagi.\nJadi wajar kalo dia pengen serius……Oke, buat \nsekarang aku bales aja iya……eh, tunggu?",
+            "name": "<username>"
+        },
+         {
+            "text": "Iya, 『Oka Sho』 kan sebentar lagi.\nJadi wajar kalo dia pengen serius……Oke, buat \nsekarang aku bales aja iya……eh, tunggu?",
             "name": "<username>"
         },
         {
@@ -321,11 +368,19 @@
             "name": "Cesario"
         },
         {
-            "text": "Gpp! Maaf. Aku payah, nggak bisa sembunyiin, sampe kalian harus ngelakuin itu……",
+            "text": "Gpp! Maaf. Aku payah, nggak bisa sembunyiin\n, sampe kalian harus ngelakuin itu……",
             "name": "<username>"
         },
         {
-            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian ngerjain semuanya……boleh aku bantu?",
+            "text": "Gpp! Maaf. Aku payah, nggak bisa sembunyiin\n, sampe kalian harus ngelakuin itu……",
+            "name": "<username>"
+        },
+        {
+            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
+            "name": "<username>"
+        },
+          {
+            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
             "name": "<username>"
         },
         {

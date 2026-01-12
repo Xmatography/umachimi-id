@@ -102,7 +102,7 @@
       "name": "Mejiro Bright"
     },
     {
-      "text": "Semua ini berkat Ryan-oneesama yang selalu menyemangatiku sebagai teman setim. \nAku benar-benar berterima kasih.",
+      "text": "Semua ini berkat Ryan-oneesama yang selalu \nmenyemangatiku sebagai teman setim. \nAku benar-benar berterima kasih.",
       "name": "Mejiro Bright"
     },
     {
@@ -188,7 +188,7 @@
       "text": "Untuk merayakan awal babak baru, bersama anggota tim, \nkami datang ke kuil untuk kunjungan pertama Tahun Baru."
     },
     {
-      "text": "Maaf ya udah nunggu lama! Aku udah doain semua hal dengan sungguh-sungguh!",
+      "text": "Maaf ya udah nunggu lama! Aku udah doain \nsemua hal dengan sungguh-sungguh!",
       "name": "Special Week"
     },
     {
@@ -200,6 +200,10 @@
       "name": "Silence Suzuka"
     },
     {
+      "text": "Tapi jangan cuma ngandelin doa ya. \nKamu sendiri juga harus usaha beneran.",
+      "name": "<username>"
+    },
+     {
       "text": "Tapi jangan cuma ngandelin doa ya. \nKamu sendiri juga harus usaha beneran.",
       "name": "<username>"
     },
@@ -273,6 +277,10 @@
       "text": "…kenapa Suzuka, ada apa?",
       "name": "<username>"
     },
+     {
+      "text": "…kenapa Suzuka, ada apa?",
+      "name": "<username>"
+    },
     {
       "text": "Ah… nggak, nggak ada apa-apa…",
       "name": "Silence Suzuka"
@@ -290,7 +298,11 @@
       "name": "<username>"
     },
     {
-      "text": "Makanya aku kepikiran mau bikin target Spe di musim semi adalah [Spring Tenno Sho].",
+      "text": "Makanya aku kepikiran mau \nbikin target Spe di musim semi adalah [Spring Tenno Sho].",
+      "name": "<username>"
+    },
+      {
+      "text": "Makanya aku kepikiran mau \nbikin target Spe di musim semi adalah [Spring Tenno Sho].",
       "name": "<username>"
     },
     {

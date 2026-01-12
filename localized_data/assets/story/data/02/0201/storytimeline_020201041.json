@@ -53,8 +53,8 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Gila, ramainya~……kita sampe sesak banget, aku pikir\nsemua osechi yang aku makan tadi bakal keluar~…",
-            "name": "Umamusume Ahoge"
+            "text": "Gila, ramainya~……kita sampe sesak banget, aku\n pikir semua osechi yang aku makan tadi bakal keluar~……",
+            "name": "Gadis kuda A"
         },
         {
             "text": "Aku punya saran. Di pengamatanku, kepadatan mereda di sisi kanan.\nAntrian belum kebentuk, jadi sebaiknya kita pindah sekarang.",
@@ -85,7 +85,7 @@
             "name": "<username>"
         },
         {
-            "text": "Ehehe……makasih udah ikut latihan mandiri kami! Kalau aku mikir ini awal tahun Classic-ku, rasanya nggak sabar deh.",
+            "text": "Ehehe……makasih udah ikut latihan mandiri kami! \nKalau aku mikir ini awal tahun Classic-ku, rasanya nggak sabar deh.",
             "name": "Rhein Kraft",
             "choice_data_list": [
                 "Seneng deh kalian berdua semangat banget",
@@ -93,16 +93,16 @@
             ]
         },
         {
-            "text": "Aku juga berterima kasih sama senpai kita. Tahun ini, aku harap terus dibimbing dan didukung.",
+            "text": "Aku juga berterima kasih sama senpai kita. Tahun ini,\n aku harap terus dibimbing dan didukung.",
             "name": "Cesario"
         },
         {
-            "text": "Ah, nggak masalah……atau malah, denger kouhai bilang mau lari, susah deh bilang \"Kita pulang~\"……",
-            "name": "Umamusume Ahoge"
+            "text": "Ah, nggak masalah……atau malah, denger kouhai \nbilang mau lari, susah deh bilang \"Kita pulang~\"……",
+            "name": "Gadis kuda A"
         },
         {
-            "text": "Kamu bodoh! Sebaiknya bilang aja itu memotivasi kamu, walaupun bohong! ……Ah, tapi, itu bukan bohong juga!!",
-            "name": "Umamusume Ponytail"
+            "text": "Kamu bodoh! Sebaiknya bilang aja itu memotivasi \nkamu, walaupun bohong! ……Ah, tapi, itu bukan bohong juga!!",
+            "name": "Gadis kuda B"
         },
         {
             "text": "Pokoknya, aku rasa ini ide bagus.\nBanyak balapan sekali seumur hidup……\nbuat tahun Classic jadi istimewa.",
@@ -121,7 +121,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Iya. Dari awal udah diputusin. 『Oka Sho』 『Oaks』 『Shuuka Sho』, itu jalur yang aku pilih.",
+            "text": "Iya. Dari awal udah diputusin. 『Oka Sho』 \n『Oaks』 『Shuuka Sho』, itu jalur yang aku pilih.",
             "name": "Cesario"
         },
         {
@@ -129,7 +129,7 @@
             "name": "Cesario"
         },
         {
-            "text": "Sampai sekarang, banyak penonton dan Uma Musume terpesona sama usaha mereka. Banyak yang sekarang berlari, mimpi pakai tiara itu.",
+            "text": "Sampai sekarang, banyak penonton dan Uma Musume terpesona sama \nusaha mereka. Banyak yang sekarang berlari, mimpi pakai tiara itu.",
             "name": "Cesario"
         },
         {
@@ -137,7 +137,7 @@
             "name": "Cesario"
         },
         {
-            "text": "……Selain itu, banyak Uma Musume yang sukses di Triple Tiara jadi pelatih generasi berikut, nyambungin semuanya ke masa depan.",
+            "text": "……Selain itu, banyak Uma Musume yang sukses di Triple Tiara jadi pelatih \ngenerasi berikut, nyambungin semuanya ke masa depan.",
             "name": "Cesario"
         },
         {
@@ -172,7 +172,15 @@
             "name": "<username>"
         },
         {
-            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada Triple Tiara girls』……Itu pendapat umum.",
+            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada \nTriple Tiara girls』……Itu pendapat umum.",
+            "name": "<username>"
+        },
+         {
+            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada \nTriple Tiara girls』……Itu pendapat umum.",
+            "name": "<username>"
+        },
+        {
+            "text": "……Meski tau itu, kalian masih ngerasa sama nggak?",
             "name": "<username>"
         },
         {

@@ -14,7 +14,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Aku pengen ngejar mimpi bareng kamu, tapi sekarang udah gini, ya nggak apa-apa. Sayang memang… tapi ini pilihanmu sendiri, Suzuka. Aku hormat sama kamu.",
+      "text": "Aku pengen ngejar mimpi bareng kamu, tapi \nsekarang udah gini, ya nggak apa-apa. Sayang memang… tapi ini \npilihanmu sendiri, Suzuka. Aku hormat sama kamu.",
       "name": "Trainer Suzuka"
     },
     {
@@ -30,7 +30,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Uoooooo~! Selamat datang di tim!! Spe-chan, kamu kan sering khawatir soal Suzuka, seneng kan sekarang?",
+      "text": "Uoooooo~! Selamat datang di tim!! Spe-chan, \nkamu kan sering khawatir soal Suzuka, seneng kan sekarang?",
       "name": "Winning Ticket"
     },
     {
@@ -39,6 +39,10 @@
     },
     {
       "text": "Oke, aku tau ini agak mendadak, tapi kita mulai latihan observasi lomba dulu.",
+      "name": "<username>"
+    },
+    {
+      "text": "Tapi tenang aja, nggak usah terlalu dipikirin. \nKayak sebelumnya aja, lari sesuai keinginanmu.",
       "name": "<username>"
     },
     {
@@ -72,6 +76,10 @@
       "text": "Hahahaa… kalo sampe finish gini, bakal ribet deh…",
       "name": "<username>"
     },
+     {
+      "text": "Hahahaa… kalo sampe finish gini, bakal ribet deh…",
+      "name": "<username>"
+    },
     {
       "text": "Haa… haa… haa… haa…!",
       "name": "Silence Suzuka"
@@ -83,6 +91,10 @@
     {
       "text": "Haaa… haaa… Fuuu~…",
       "name": "Silence Suzuka"
+    },
+    {
+      "text": "Lari terus gitu, kamu oke nggak?",
+      "name": "<username>"
     },
     {
       "text": "Lari terus gitu, kamu oke nggak?",
@@ -168,7 +180,11 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Tapi kamu keliatan seneng-seneng aja di lintasan. Sampai sekarang, ekspresi [aku seneng] keliatan di wajahmu.",
+      "text": "Tapi kamu keliatan seneng-seneng aja di \nlintasan. Sampai sekarang, ekspresi [aku seneng] keliatan di wajahmu.",
+      "name": "<username>"
+    },
+     {
+      "text": "Tapi kamu keliatan seneng-seneng aja di \nlintasan. Sampai sekarang, ekspresi [aku seneng] keliatan di wajahmu.",
       "name": "<username>"
     },
     {
@@ -187,6 +203,10 @@
       "text": "Aku juga seneng banget. Bisa terus nemenin kamu ngejar pemandangan itu.",
       "name": "<username>"
     },
+      {
+      "text": "Aku juga seneng banget. Bisa terus nemenin kamu ngejar pemandangan itu.",
+      "name": "<username>"
+    },
     {
       "text": "Pas aku nyampein tangan buat genggam pemandangan itu…",
       "name": "Silence Suzuka"
@@ -199,11 +219,19 @@
       "text": "Iya, tapi aku belum bisa bayangin jelas sih-",
       "name": "<username>"
     },
+     {
+      "text": "Iya, tapi aku belum bisa bayangin jelas sih-",
+      "name": "<username>"
+    },
     {
       "text": "Aku rasa… bakal jadi pemandangan yang luar biasa.",
       "name": "<username>"
     },
     {
+      "text": "Untuk itu, aku juga bakal dukung Suzuka sepenuhnya.",
+      "name": "<username>"
+    },
+      {
       "text": "Untuk itu, aku juga bakal dukung Suzuka sepenuhnya.",
       "name": "<username>"
     },

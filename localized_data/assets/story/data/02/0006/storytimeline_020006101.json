@@ -161,6 +161,10 @@
       "text": "Oh, ternyata kamu di sini, Spe.",
       "name": "<username>"
     },
+     {
+      "text": "Oh, ternyata kamu di sini, Spe.",
+      "name": "<username>"
+    },
     {
       "text": "Trainer-san……",
       "name": "Special Week"
@@ -168,6 +172,10 @@
     {
       "text": "Aku sendiri kaget. Soal Suzuka-san, tanpa sadar \naku hampir aja nyoba ngehalangin dia……",
       "name": "Special Week"
+    },
+    {
+      "text": "Wajar aja kok. Dari pertama masuk akademi kan kamu bareng Suzuka terus. \nJadi perasaan cemas itu normal banget.",
+      "name": "<username>"
     },
     {
       "text": "Wajar aja kok. Dari pertama masuk akademi kan kamu bareng Suzuka terus. \nJadi perasaan cemas itu normal banget.",
@@ -247,6 +255,14 @@
       "name": "<username>"
     },
     {
+      "text": "Karena Suzuka lari dengan perasaan yang tulus, \naku sama kamu jadi ketarik sama dia.",
+      "name": "<username>"
+    },
+    {
+      "text": "……Kalau Suzuka beneran ke luar negeri, \ndia pasti bakal nunjukin lari yang lebih luar biasa lagi.",
+      "name": "<username>"
+    },
+    {
       "text": "……Kalau Suzuka beneran ke luar negeri, \ndia pasti bakal nunjukin lari yang lebih luar biasa lagi.",
       "name": "<username>"
     },
@@ -267,6 +283,14 @@
       "name": "Special Week"
     },
     {
+      "text": "Sama kayak Suzuka― biar bisa nyusul dia, Spe, kamu juga harus kerja keras.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Incar gelar \"Uma Musume Nomor 1 di Jepang\"!",
+        "Incar gelar \"Uma Musume Nomor 1 di Jepang\"!"
+      ]
+    },
+      {
       "text": "Sama kayak Suzuka― biar bisa nyusul dia, Spe, kamu juga harus kerja keras.",
       "name": "<username>",
       "choice_data_list": [
@@ -335,6 +359,14 @@
       "name": "Mejiro McQueen"
     },
     {
+      "text": "Iya, sekarang aku bawa perasaan semua orang. \nAku harus bales itu dengan hasil terbaik.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Lari pake semua yang kamu punya!",
+        "Lari pake semua yang kamu punya!"
+      ]
+    },
+     {
       "text": "Iya, sekarang aku bawa perasaan semua orang. \nAku harus bales itu dengan hasil terbaik.",
       "name": "<username>",
       "choice_data_list": [

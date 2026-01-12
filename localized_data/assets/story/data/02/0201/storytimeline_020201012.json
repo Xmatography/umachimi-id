@@ -65,7 +65,7 @@
       "text": "Dan kita meluncur, ke 『Hanshin JF』-nya Rhein Kraft!",
       "name": "<username>"
     },
-    {
+     {
       "text": "Dan kita meluncur, ke 『Hanshin JF』-nya Rhein Kraft!",
       "name": "<username>"
     },
@@ -78,16 +78,12 @@
       "name": "Rhein Kraft"
     },
     {
-      "text": "Terus, yang lebih penting, kamu beneran sehat kan?\nTidurmu cukup nggak kemarin? Atau kantong mata itu\ncuma perasaan aku aja?",
-      "name": "King Halo",
-      "choice_data_list": [
-        "A-aku gapapa! Tidurnya nyenyak kok!",
-        "A-aku gapapa! Tidurnya nyenyak kok!"
-      ]
-    },
-    {
       "text": "……Kayaknya sih kamu tegang sampe susah tidur.\nAduh, emang keras kepala banget!",
-      "name": "King Halo"
+      "name": "King Halo",
+            "choice_data_list": [
+                "Tidak, tidak apa-apa! Aku tidur nyenyak!",
+                "Tidak, tidak apa-apa! Aku tidur nyenyak!"
+            ]
     },
     {
       "text": "Pokoknya, ke penginapan di arena Hanshin butuh sekitar 8 jam,\ntermasuk istirahat! Pastikan nyetirnya bener ya.",
@@ -118,32 +114,39 @@
     },
     {
       "text": "Aku melek buat jagain kamu, dasar.\nIni tanggung jawab besar lho.",
-      "name": "King Halo"
+      "name": "King Halo",
+            "choice_data_list": [
+                "Bolehkah King tidur juga?",
+                "Bolehkah King tidur juga?"
+            ]
     },
     {
       "text": "Bener juga ya, sekarang anggota baru kita banyak banget.\nPernah kebayang nggak, mobil ini bisa penuh secepet ini?",
       "name": "King Halo"
     },
     {
-      "text": "Kayaknya sih nggak. ……Waktu ayahku masih jadi Trainer,\nmobil ini aja nggak cukup lho――",
+      "text": "Kita sudah sejauh ini . bayangin kalau van ini penuh dengan anggota...",
+      "name": "King Halo"
+    },
+    {
+      "text": "Mungkin tidak. ...Ayahku adalah pelatih tim.\n Saat itu, mobil ini bahkan tidak cukup...",
       "name": "<username>"
     },
     {
-      "text": "Kayaknya sih nggak. ……Waktu ayahku masih jadi Trainer,\nmobil ini aja nggak cukup lho――",
       "name": "<username>"
     },
     {
       "text": "<username>. Mulai sekarang,\naku serahin peran Trainer Tim <Ascella> ke kamu.\n……Ngerti kan? Kerjain baik-baik.",
-      "name": "Ayah"
-    },
+      "name": "Father"
+    },  
     {
-      "text": "Sejak aku ambil alih tim, anggota malah berkurang ya?\nKalau dipikir lagi, dulu juga pernah cuma tinggal kita berdua…",
-      "name": "<username>"
-    },
-    {
-      "text": "Sejak aku ambil alih tim, anggota malah berkurang ya?\nKalau dipikir lagi, dulu juga pernah cuma tinggal kita berdua…",
-      "name": "<username>"
-    },
+      "name": "<username>",
+            "text": "Sejak aku ambil alih tim ayahku , jumlahnya menurun drastis , \nJadi ingat waktu itu cuma ada aku sama kamu aja di tim ini"
+    },  
+     {
+      "name": "<username>",
+            "text": "Sejak aku ambil alih tim ayahku , jumlahnya menurun drastis , \nJadi ingat waktu itu cuma ada aku sama kamu aja di tim ini"
+    },  
     {
       "text": "Iya juga ya. ……Agak nostalgia.\nDan sekarang timnya udah segede ini――",
       "name": "King Halo"
@@ -161,11 +164,11 @@
       "name": "<username>"
     },
     {
-      "text": "Rhein Kraft dan Cesario beneran bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
+      "text": "Rhein Kraft dan Cesario bener-bener bikin Tim <Ascella> hidup lagi.\nAku masih inget jelas pertama kali ketemu mereka――",
       "name": "<username>"
     },
     {
-      "text": "Sekarang semua Umamusume udah masuk ke gate.\nMereka siap banget nunjukin kemampuan biar dilirik trainer―",
+      "text": "Sekarang semua Uma Musume udah masuk ke gate.\nMasing-masing siap banget nunjukin kemampuan biar dilirik trainer――",
       "name": "Penyiar"
     },
     {
@@ -247,6 +250,10 @@
       "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
       "name": "<username>"
     },
+     {
+      "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
+      "name": "<username>"
+    },
     {
       "text": "(Dia berhasil nyusul……! Apa Cesario bakal terus maju!?\nNggak, Rhein Kraft masih belum nyerah!)",
       "name": "<username>"
@@ -285,6 +292,13 @@
         "(Tapi, mereka berdua――)"
       ]
     },
+      {
+      "text": "(Udah pasti semua tim pengen ngerekrut mereka.\nBahkan trainer paling 『berbakat』 di angkatanku mikir gitu)",
+      "name": "<username>",
+      "choice_data_list": [
+        "(Tapi, mereka berdua――)"
+      ]
+    },
     {
       "text": "Senang kenalan, Trainer!\nAku Rhein Kraft!",
       "name": "Rhein Kraft"
@@ -316,6 +330,10 @@
       "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka berbakat, aku harus usaha lebih keras biar seimbang.",
       "name": "<username>"
     },
+     {
+      "text": "Tapi yaudah, sejak mereka gabung……\naku pengen bantu mereka menang.\nMereka udah berbakat, aku harus usaha lebih keras biar seimbang.",
+      "name": "<username>"
+    },
     {
       "text": "Bener juga. ……Terus gimana menurutmu soal hasil kerja keras kita?\n『Hanshin JF』-nya Kraft, kira-kira ada peluang menang nggak?",
       "name": "King Halo",
@@ -337,6 +355,10 @@
       "name": "King Halo"
     },
     {
+      "text": "Bisa jadi.\nIni kan balapan junior kelas atas……\ntapi kalau Rhein Kraft sih――!",
+      "name": "<username>"
+    },
+     {
       "text": "Bisa jadi.\nIni kan balapan junior kelas atas……\ntapi kalau Rhein Kraft sih――!",
       "name": "<username>"
     },
@@ -368,7 +390,7 @@
       "text": "Kraft……iya.\nDi panggung G1 ini, tunjukin semua kemampuanmu!",
       "name": "<username>"
     },
-    {
+     {
       "text": "Kraft……iya.\nDi panggung G1 ini, tunjukin semua kemampuanmu!",
       "name": "<username>"
     }

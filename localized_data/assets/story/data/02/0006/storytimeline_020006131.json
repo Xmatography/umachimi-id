@@ -73,13 +73,21 @@
     },
     {
       "text": "Semangat ya, Special Week-san！",
-      "name": "Gadis Kuda berpotongan Bob Hitam"
+            "name": "Umamusume Hitam"
     },
     {
       "text": "Kami yakin kamu yang bakal nyampe garis duluan！",
-      "name": "Gadis Kuda berponi rata"
+      "name": "Umamusume Poni"
     },
     {
+      "text": "Gaya kamu pas latihan udah paling bagus sejauh ini, \ntinggal percaya diri aja, hasilnya pasti nyusul.",
+      "name": "<username>",
+      "choice_data_list": [
+        "Tunjukin kalau kamu bisa rebut pialanya！",
+        "Tunjukin kalau kamu bisa rebut pialanya！"
+      ]
+    },
+     {
       "text": "Gaya kamu pas latihan udah paling bagus sejauh ini, \ntinggal percaya diri aja, hasilnya pasti nyusul.",
       "name": "<username>",
       "choice_data_list": [
@@ -92,7 +100,7 @@
       "name": "Special Week"
     },
     {
-      "text": "Yo, Spe-chan. Udah lama ya kita nggak satu balapan, terakhir di 『Kikka Sho』 kan?",
+      "text": "Yo, Spe-chan. Udah lama ya kita \nnggak satu balapan, terakhir di 『Kikka Sho』 kan?",
       "name": "Seiun Sky"
     },
     {
@@ -116,7 +124,7 @@
       "name": "Mejiro Bright"
     },
     {
-      "text": "Siapapun lawanku, aku cuma harus ngelakuin apa yang harus kulakuin…… \nitulah yang aku rasain。",
+      "text": "Siapapun lawanku, aku cuma harus \nngelakuin apa yang harus kulakuin…… \nitulah yang aku rasain。",
       "name": "Mejiro Bright"
     },
     {
@@ -152,7 +160,7 @@
       "name": "Komentator"
     },
     {
-      "text": "Uma Musume udah siap di gerbangnya. 『Spring Tenno Sho』 sekarang ―― Dimulai！",
+      "text": "Uma Musume udah siap di gerbangnya. \n『Spring Tenno Sho』 sekarang ―― Dimulai！",
       "name": "Komentator"
     }
   ]

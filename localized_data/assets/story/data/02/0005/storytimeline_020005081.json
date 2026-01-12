@@ -91,6 +91,10 @@
       "text": "Pake kecepatan gila dari awal buat menjauh, terus sampe finish gitu aja, \nterdengar kayak gaya lari impian.",
       "name": "<username>"
     },
+     {
+      "text": "Pake kecepatan gila dari awal buat menjauh, terus sampe finish gitu aja, \nterdengar kayak gaya lari impian.",
+      "name": "<username>"
+    },
     {
       "text": "Tapi, gaya impian itu sebenernya dipake Suzuka, kan?",
       "name": "Gold Ship"
@@ -113,6 +117,10 @@
       "text": "Ada apa? Lupa sesuatu ya?",
       "name": "<username>"
     },
+     {
+      "text": "Ada apa? Lupa sesuatu ya?",
+      "name": "<username>"
+    },
     {
       "text": "Nggak, aku cuma pengen tau apa balapan berikutnya udah ditentukan. \nAku pikir nggak masalah nanya.",
       "name": "Silence Suzuka"
@@ -131,6 +139,10 @@
       "text": "Berikutnya, aku mikir mau masukin kamu ke [Kinko Sho].",
       "name": "<username>"
     },
+     {
+      "text": "Berikutnya, aku mikir mau masukin kamu ke [Kinko Sho].",
+      "name": "<username>"
+    },
     {
       "text": "[Kinko Sho]… itu balapan 2000m, kan?",
       "name": "Silence Suzuka"
@@ -139,7 +151,15 @@
       "text": "Iya, tapi buat orang kayak Suzuka yang lari top speed dari awal, \njarak lebih panjang bisa bikin agak khawatir.",
       "name": "<username>"
     },
+      {
+      "text": "Iya, tapi buat orang kayak Suzuka yang lari top speed dari awal, \njarak lebih panjang bisa bikin agak khawatir.",
+      "name": "<username>"
+    },
     {
+      "text": "Tapi, dengan kondisi kamu sekarang, Suzuka, aku nggak pikir itu mustahil. \nAku yakin kamu pasti bisa handle middle distance.",
+      "name": "<username>"
+    },
+     {
       "text": "Tapi, dengan kondisi kamu sekarang, Suzuka, aku nggak pikir itu mustahil. \nAku yakin kamu pasti bisa handle middle distance.",
       "name": "<username>"
     },
@@ -156,7 +176,11 @@
       "name": "<username>"
     },
     {
-      "text": "Kalo dapet hasil di sini, middle distance G1 [Takarazuka Kinen] dan [Fall Tenno Sho] juga nggak mustahil!",
+      "text": "Kalo dapet hasil di sini, middle distance G1 \n[Takarazuka Kinen] dan [Fall Tenno Sho] juga nggak mustahil!",
+      "name": "<username>"
+    },
+     {
+      "text": "Kalo dapet hasil di sini, middle distance G1 \n[Takarazuka Kinen] dan [Fall Tenno Sho] juga nggak mustahil!",
       "name": "<username>"
     },
     {
@@ -178,6 +202,10 @@
     {
       "text": "Di jalur yang belum ditempuh ini, pasti banyak \"scenery\" indah, kan?",
       "name": "Silence Suzuka"
+    },
+    {
+      "text": "Aku bakal dukung sepenuhnya. Liat kamu ngejar impianmu, itu juga impianku.",
+      "name": "<username>"
     },
     {
       "text": "Aku bakal dukung sepenuhnya. Liat kamu ngejar impianmu, itu juga impianku.",

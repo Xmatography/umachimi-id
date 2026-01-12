@@ -70,7 +70,11 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Oke, kalian harus hadir di acara penghargaan, jadi nggak bisa berlama-lama di sini.",
+      "text": "Oke, kalian harus hadir di acara penghargaan, \njadi nggak bisa berlama-lama di sini.",
+      "name": "<username>"
+    },
+    {
+      "text": "Oke, kalian harus hadir di acara penghargaan, \njadi nggak bisa berlama-lama di sini.",
       "name": "<username>"
     },
     {
@@ -86,6 +90,13 @@
       "name": "Silence Suzuka"
     },
     {
+      "text": "Memberi dorongan lembut itu tugasku juga. \nDan kamu udah lebih dari sekadar merespon itu—",
+      "name": "<username>",
+      "choice_data_list": [
+        "Selamat datang kembali, Suzuka."
+      ]
+    },
+     {
       "text": "Memberi dorongan lembut itu tugasku juga. \nDan kamu udah lebih dari sekadar merespon itu—",
       "name": "<username>",
       "choice_data_list": [
@@ -113,6 +124,10 @@
       "name": "Agnes Tachyon"
     },
     {
+      "text": "Ya, itu paling tepat.",
+      "name": "<username>"
+    },
+     {
       "text": "Ya, itu paling tepat.",
       "name": "<username>"
     },

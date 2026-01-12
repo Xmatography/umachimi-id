@@ -63,6 +63,10 @@
             "name": "<username>"
         },
         {
+            "text": "(Eh…? A-apa ini…?! Kenapa tiba-tiba gelap…?!)",
+            "name": "<username>"
+        },
+        {
             "text": "Heave-ho, Heave-ho.",
             "name": "???"
         },
@@ -78,11 +82,21 @@
             "text": "D-dimana aku?! Kamu siapa…?!",
             "name": "<username>"
         },
+         {
+            "text": "D-dimana aku?! Kamu siapa…?!",
+            "name": "<username>"
+        },
         {
             "text": "Namaku Agnes Tachyon. Aku cuma pengen ngobrol sebentar, \nmakanya aku ngajak kamu ikut sama aku.",
             "name": "Agnes Tachyon"
         },
         {
+            "text": "Senyum tipis muncul di bibir gadis kuda bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
+            "choice_data_list": [
+                "Terlalu mencurigakan…!"
+            ]
+        },
+         {
             "text": "Senyum tipis muncul di bibir gadis kuda bernama Agnes Tachyon ini. \nKarung goni di kaki- apa dia bawa aku pakai itu?",
             "choice_data_list": [
                 "Terlalu mencurigakan…!"
@@ -100,6 +114,10 @@
             "text": "Ngobrol sama kita?",
             "name": "<username>"
         },
+         {
+            "text": "Ngobrol sama kita?",
+            "name": "<username>"
+        },
         {
             "text": "Iya. Pernah nggak, kamu mikir sebentar soal eksistensi \"gadis kuda\"?",
             "name": "Agnes Tachyon"
@@ -113,6 +131,10 @@
             "name": "Agnes Tachyon"
         },
         {
+            "text": "…misteri gadis kuda dan hubungan mereka dengan manusia?",
+            "name": "<username>"
+        },
+         {
             "text": "…misteri gadis kuda dan hubungan mereka dengan manusia?",
             "name": "<username>"
         },
@@ -195,6 +217,10 @@
             "name": "<username>"
         },
         {
+            "text": "…akan gagal. Maksudmu begitu?",
+            "name": "<username>"
+        },
+        {
             "text": "Aku nggak tau. Aku cuma spekulasi satu kemungkinan. Apakah ada batas, aku juga nggak tau.",
             "name": "Agnes Tachyon"
         },
@@ -236,6 +262,10 @@
             "name": "<username>"
         },
         {
+            "text": "Oke, tanjakan dan lari lurus nggak masalah.",
+            "name": "<username>"
+        },
+        {
             "text": "Lalu, aku pamit dulu.",
             "name": "Silence Suzuka"
         },
@@ -249,8 +279,12 @@
             "text": "(Apa ini artinya dia bakal tembus batas…?)",
             "name": "<username>"
         },
+         {
+            "text": "(Apa ini artinya dia bakal tembus batas…?)",
+            "name": "<username>"
+        },
         {
-            "text": "Sedikit rasa nggak enak mulai muncul di hati, aku coba keras-keras nggak mikirin itu."
+            "text": "Sedikit rasa nggak enak mulai muncul di hati, \naku coba keras-keras nggak mikirin itu."
         }
     ]
 }

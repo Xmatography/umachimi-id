@@ -63,6 +63,10 @@
             "text": "Eh… uh. \nNggak, nggak apa-apa…",
             "name": "<username>"
         },
+         {
+            "text": "Eh… uh. \nNggak, nggak apa-apa…",
+            "name": "<username>"
+        },
         {
             "text": "Haa… Fuu…",
             "name": "Silence Suzuka"
@@ -80,6 +84,10 @@
             "name": "Special Week"
         },
         {
+            "text": "…Ah, iya… betul.",
+            "name": "<username>"
+        },
+         {
             "text": "…Ah, iya… betul.",
             "name": "<username>"
         },
@@ -128,6 +136,10 @@
             "text": "(Artinya, buat gadis kuda, cedera itu kekhawatiran yang selalu ada…)",
             "name": "<username>"
         },
+         {
+            "text": "(Artinya, buat gadis kuda, cedera itu kekhawatiran yang selalu ada…)",
+            "name": "<username>"
+        },
         {
             "text": "Permisi.",
             "name": "Silence Suzuka"
@@ -154,6 +166,17 @@
             "text": "(Nggak, salah… dengan kondisi sekarang, kamu pasti menang [Takarazuka Kinen]. \nMalah, kayaknya nggak ada balapan yang nggak bisa kamu menangin)",
             "name": "<username>"
         },
+         {
+            "text": "(Nggak, salah… dengan kondisi sekarang, kamu pasti menang [Takarazuka Kinen]. \nMalah, kayaknya nggak ada balapan yang nggak bisa kamu menangin)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Aku pengen bilang larinya luar biasa, pasti menang. \nTapi bisa jadi terlalu overwhelming, sampai aku…)",
+            "name": "<username>",
+            "choice_data_list": [
+                "Suzuka…"
+            ]
+        },
         {
             "text": "(Aku pengen bilang larinya luar biasa, pasti menang. \nTapi bisa jadi terlalu overwhelming, sampai aku…)",
             "name": "<username>",
@@ -175,6 +198,10 @@
             "text": "Aku nggak boleh nahan gadis ini yang kejar mimpinya dengan serius, \ntapi pikiranku kacau, bahkan nggak bisa jawab dengan benar."
         },
         {
+            "text": "Yah… nggak ada alasan penting sih. \nSelain itu, kamu kan ada balapan… kaki dan badan nggak masalah, kan?",
+            "name": "<username>"
+        },
+         {
             "text": "Yah… nggak ada alasan penting sih. \nSelain itu, kamu kan ada balapan… kaki dan badan nggak masalah, kan?",
             "name": "<username>"
         },
@@ -210,6 +237,10 @@
             "name": "Silence Suzuka"
         },
         {
+            "text": "Trainer-san, di [Takarazuka Kinen], ayo kita lihat \"pemandangan\" itu bareng-bareng.",
+            "name": "Silence Suzuka"
+        },
+        {
             "text": "\"Pemandangan\" yang aku kejar bareng Silence Suzuka-"
         },
         {
@@ -233,6 +264,20 @@
         {
             "text": "Hah…? Penglihatanku…",
             "name": "<username>"
+        },
+        {
+            "text": "Dengan pemikiran itu, aku kembali meneliti \ndata-data di hadapanku, namun——"
+        },
+        {
+            "name": "<username>",
+            "text": "Apa ini...? Pandanganku tiba-tiba gelap...."
+        },
+        {
+            "text": "Apa ini...? Pandanganku tiba-tiba gelap....",
+            "name": "<username>"
+        },
+        {
+            "text": "※( Entah di isi apa emng begitu dari sananya )"
         }
     ]
 }

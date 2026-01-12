@@ -18,6 +18,10 @@
       "name": "<username>"
     },
     {
+      "text": "Menurutku bisa dapet juara 3 di G1 pertama itu udah keren banget sih……\nTapi ya aku ngerti, kamu masih nggak puas ya.",
+      "name": "<username>"
+    },
+    {
       "text": "Iya! Aku sama sekali belum puas sama hasil ini……!\nAku nggak bisa cuma berhenti di sini!",
       "name": "Rhein Kraft"
     },
@@ -45,7 +49,7 @@
       "name": "Rhein Kraft"
     },
     {
-      "text": "Aku percaya hal yang sama juga pernah mereka dapet dari\nsenpai-senpai mereka……\ndan itu yang bikin mereka semua saling terhubung.",
+      "text": "Aku percaya hal yang sama juga pernah mereka dapet\n dari senpai-senpai mereka……\ndan itu yang bikin mereka semua saling terhubung.",
       "name": "Rhein Kraft"
     },
     {
@@ -53,11 +57,11 @@
       "name": "Rhein Kraft",
       "choice_data_list": [
         "Oh gitu, jadi itu……mimpi kamu",
-                "Oh gitu, jadi itu……impian kamu"
+                "Oh gitu, jadi itu……mimpi kamu"
       ]
     },
     {
-      "text": "Banyak hal yang harus diperbaiki artinya masih ada banyak ruang\nbuat berkembang.  Supaya kamu bisa jadi orang yang kamu pengen,\nayo kita kerja keras, Kraft!",
+      "text": "……Punya banyak hal yang harus diperbaiki artinya \nmasih ada banyak ruang buat berkembang.\nSupaya kamu bisa jadi orang yang kamu pengen, ayo kita kerja keras, Kraft!",
       "name": "<username>"
     },
     {
@@ -76,8 +80,8 @@
       "text": "Tentu saja. ……Trainer, kamu jangan nahan diri ya,\naku malah nunggu-nunggu banget.",
       "name": "Cesario",
       "choice_data_list": [
-        "Oke, ngerti. Kita gaspol latihannya!",
-                "Oke, Aku akan gaspol latihannya!"
+        "Oke, ngerti. Kita Lakukan !",
+                "Oke, ngerti. Kita Lakukan !"
       ]
     },
     {
@@ -97,6 +101,10 @@
       "name": "Penyiar"
     },
     {
+      "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
+      "name": "<username>"
+    },
+     {
       "text": "Cesario! Kerja bagus di debut kamu.\nSelamat juara 1! Itu lari yang bener-bener keren……!",
       "name": "<username>"
     },
@@ -158,6 +166,10 @@
       "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
       "name": "<username>"
     },
+     {
+      "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
+      "name": "<username>"
+    },
     {
       "text": "Serius……ini beneran kamu, Cesario……!?\nGimana ya ngomongnya, um, auranya beda banget……!?",
       "name": "<username>"
@@ -201,6 +213,10 @@
       "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
       "name": "<username>"
     },
+     {
+      "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
+      "name": "<username>"
+    },
     {
       "text": "Hmm……Ah, mantelku ada di gantungan sana, bisa dipake itu?\nMakasih ya, Cesario.",
       "name": "<username>"
@@ -221,6 +237,10 @@
       "name": "<username>"
     },
     {
+      "text": "Aku tadinya mau kasih nanti……\nitu hadiah kecil buat semua orang.\nNggak istimewa banget sih.",
+      "name": "<username>"
+    },
+    {
       "text": "Eh, dari Trainer!? Waaaaah-……!! Makasih banyak-!",
       "name": "Rhein Kraft"
     },
@@ -229,7 +249,7 @@
       "name": "Cesario"
     },
     {
-      "text": "Gimana kalau kemenangan debutku kita anggap aja sebagai\nhadiah buat kamu?\nBisa dimaafin nggak? Hehe.",
+      "text": "……gimana kalau kemenangan\n debutku kita anggap aja sebagai hadiah buat kamu?\nBisa dimaafin nggak? Hehe.",
       "name": "Cesario",
       "choice_data_list": [
         "Nggak, itu udah lebih dari cukup!"
@@ -248,7 +268,15 @@
       "name": "<username>"
     },
     {
-      "text": "(Tapi, tiap inget itu… aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke\ntim <Ascella> yang udah terpuruk?)",
+      "text": "(……sekali lagi aku ngerasa kalau Kraft sama Cesario itu bener-bener baik.\nNggak cuma itu, mereka juga super berbakat……)",
+      "name": "<username>"
+    },
+    {
+      "text": "(Tapi, tiap inget itu……aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke tim <Ascella> yang udah terpuruk?)",
+      "name": "<username>"
+    },
+     {
+      "text": "(Tapi, tiap inget itu……aku jadi makin penasaran.\nKenapa dua orang kayak mereka milih gabung ke tim <Ascella> yang udah terpuruk?)",
       "name": "<username>"
     },
     {

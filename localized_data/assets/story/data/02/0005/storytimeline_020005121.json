@@ -44,6 +44,10 @@
       "name": "<username>"
     },
     {
+      "text": "Setelah bikin kamu khawatir segitu, aku nggak bisa diem lagi…",
+      "name": "<username>"
+    },
+    {
       "text": "Risiko dari gaya lari Suzuka-san…",
       "name": "Mejiro McQueen"
     },
@@ -55,11 +59,19 @@
       "text": "Tapi aku nggak bisa nahan rasa penasaran.\nApa yang nunggu Suzuka… dengan gaya lari sehebat itu?",
       "name": "<username>"
     },
+      {
+      "text": "Tapi aku nggak bisa nahan rasa penasaran.\nApa yang nunggu Suzuka… dengan gaya lari sehebat itu?",
+      "name": "<username>"
+    },
     {
       "text": "…apa yang mungkin terjadi di kasus terburuk.\nItu yang mau kamu bilang, kan?",
       "name": "Mejiro McQueen"
     },
     {
+      "text": "Tentu. Aku nggak akan biarin itu kejadian.\nTapi aku nggak tau… apa yang bisa aku lakuin sekarang…",
+      "name": "<username>"
+    },
+     {
       "text": "Tentu. Aku nggak akan biarin itu kejadian.\nTapi aku nggak tau… apa yang bisa aku lakuin sekarang…",
       "name": "<username>"
     },
@@ -108,6 +120,10 @@
       "name": "Mejiro McQueen"
     },
     {
+      "text": "Aku buktiin…?",
+      "name": "<username>"
+    },
+      {
       "text": "Aku buktiin…?",
       "name": "<username>"
     },
@@ -169,7 +185,17 @@
     {
       "text": "Itulah hidupku sebagai trainer.\nPercaya, dukung, dan dorong mereka dengan lembut."
     },
+      {
+      "text": "Itulah hidupku sebagai trainer.\nPercaya, dukung, dan dorong mereka dengan lembut."
+    },
     {
+      "text": "Kalau begitu, hal yang harus aku lakuin buat Silence Suzuka,\nbukan nambahin kekhawatirannya, tapi-",
+      "choice_data_list": [
+        "<size=33>Liat “pemandangan” yang Suzuka tunjukin ke aku!</size>",
+        "<size=33>Liat “pemandangan” yang Suzuka tunjukin ke aku!</size>"
+      ]
+    },
+     {
       "text": "Kalau begitu, hal yang harus aku lakuin buat Silence Suzuka,\nbukan nambahin kekhawatirannya, tapi-",
       "choice_data_list": [
         "<size=33>Liat “pemandangan” yang Suzuka tunjukin ke aku!</size>",
@@ -182,6 +208,12 @@
     },
     {
       "text": "Silence Suzuka datang ke tim ini, percaya sama aku.\nDemi lihat “pemandangan” itu bareng, dia lari."
+    },
+    {
+      "text": "Silence Suzuka datang ke tim ini, percaya sama aku.\nDemi lihat “pemandangan” itu bareng, dia lari."
+    },
+    {
+      "text": "Meski begitu, aku terlalu lama khawatir dia nggak bisa lari,\nsampai lupa sama “pemandangan” itu-"
     },
     {
       "text": "Meski begitu, aku terlalu lama khawatir dia nggak bisa lari,\nsampai lupa sama “pemandangan” itu-"
@@ -199,6 +231,13 @@
       "name": "<username>"
     },
     {
+      "text": "Suzuka, aku harus minta maaf.",
+      "name": "<username>"
+    },
+    {
+      "text": "Selama ini aku ngajarin kamu lari dan latihan… \nTapi, aku nggak bilang hal paling penting."
+    },
+    {
       "text": "Selama ini aku ngajarin kamu lari dan latihan… \nTapi, aku nggak bilang hal paling penting."
     },
     {
@@ -209,12 +248,24 @@
       "text": "Melihat kamu bahagia aja udah cukup.\nMelihatmu begitu, harapan dan ekspektasiku makin besar.",
       "name": "<username>"
     },
+     {
+      "text": "Melihat kamu bahagia aja udah cukup.\nMelihatmu begitu, harapan dan ekspektasiku makin besar.",
+      "name": "<username>"
+    },
     {
       "text": "Tapi, bersamaan dengan itu kekhawatiranku juga makin besar.\nAku mulai mikir tubuhmu nggak bakal tahan gaya lari itu…",
       "name": "<username>"
     },
+     {
+      "text": "Tapi, bersamaan dengan itu kekhawatiranku juga makin besar.\nAku mulai mikir tubuhmu nggak bakal tahan gaya lari itu…",
+      "name": "<username>"
+    },
     {
-      "text": "Semakin aku liat kamu lari, kasus terburuk malah keliatan kemungkinan terbesarnya.",
+      "text": "Semakin aku liat kamu lari, kasus terburuk malah\n keliatan kemungkinan terbesarnya.",
+      "name": "<username>"
+    },
+     {
+      "text": "Semakin aku liat kamu lari, kasus terburuk malah\n keliatan kemungkinan terbesarnya.",
       "name": "<username>"
     },
     {
@@ -225,11 +276,27 @@
       "text": "Tapi itu sama aja nggak percaya sama kamu.\nAku mulai percaya kamu nggak bisa terus lari.",
       "name": "<username>"
     },
+     {
+      "text": "Tapi itu sama aja nggak percaya sama kamu.\nAku mulai percaya kamu nggak bisa terus lari.",
+      "name": "<username>"
+    },
     {
       "text": "Suzuka… aku mau ikut kemana pun kamu pergi.\nAku mau liat “pemandangan” itu bareng seperti janji kita!",
       "name": "<username>"
     },
+     {
+      "text": "Suzuka… aku mau ikut kemana pun kamu pergi.\nAku mau liat “pemandangan” itu bareng seperti janji kita!",
+      "name": "<username>"
+    },
     {
+      "text": "Makanya, aku percaya sama kamu!\nYang perlu aku lakuin sebagai trainer cuma percaya sama kamu! Makanya-",
+      "name": "<username>",
+      "choice_data_list": [
+        "Lari sepuas hatimu, Suzuka!!",
+        "Lari sepuas hatimu, Suzuka!!"
+      ]
+    },
+     {
       "text": "Makanya, aku percaya sama kamu!\nYang perlu aku lakuin sebagai trainer cuma percaya sama kamu! Makanya-",
       "name": "<username>",
       "choice_data_list": [
@@ -253,6 +320,14 @@
       "text": "Kalau dipikir-pikir, tadi kita ngomong hal memalukan—tapi kata-kata itu ngebuang semua kekhawatiran."
     },
     {
+      "text": "Bisakah kamu janji satu hal lagi?\nTerus lari di depan ke garis finish, dan setelah itu, pasti-",
+      "name": "<username>",
+      "choice_data_list": [
+        "Pasti kembali ke sisiku.",
+        "Pasti kembali ke sisiku."
+      ]
+    },
+     {
       "text": "Bisakah kamu janji satu hal lagi?\nTerus lari di depan ke garis finish, dan setelah itu, pasti-",
       "name": "<username>",
       "choice_data_list": [

@@ -58,7 +58,7 @@
       "name": "Seiun Sky"
     },
     {
-      "text": "Uuuh… padahal yang lain udah pada debut, tinggal aku doang yang belum sempet ikut balapan…",
+      "text": "Uuuh… padahal yang lain udah pada debut, \ntinggal aku doang yang belum sempet ikut balapan…",
       "name": "Tsurumaru Tsuyoshi"
     },
     {
@@ -86,7 +86,7 @@
       "name": "Seiun Sky"
     },
     {
-      "text": "Tenang aja～! Aku malah ngerasa tenagaku kebanyakan sampe bingung mau dipake buat apa～!",
+      "text": "Tenang aja～! Aku malah ngerasa tenagaku \nkebanyakan sampe bingung mau dipake buat apa～!",
       "name": "Tsurumaru Tsuyoshi"
     },
     {
@@ -210,7 +210,7 @@
       "name": "Komentator"
     },
     {
-      "text": "Satu per satu Uma Musume keluar dari paddock, melangkah ke arena besar ini dengan penuh rasa khidmat!",
+      "text": "Satu per satu Uma Musume keluar dari paddock, \nmelangkah ke arena besar ini dengan penuh rasa khidmat!",
       "name": "Komentator"
     },
     {
@@ -238,7 +238,7 @@
       "name": "Seiun Sky"
     },
     {
-      "text": "Kalau dipikir lagi, mimpimu jadi \"Uma Musume nomor satu di Jepang\" itu kan titipan dari kedua Ibumu?",
+      "text": "Kalau dipikir lagi, mimpimu jadi \"Uma Musume \nnomor satu di Jepang\" itu kan titipan dari kedua Ibumu?",
       "name": "Seiun Sky"
     },
     {
@@ -316,6 +316,14 @@
     {
       "text": "Sungguh akhir yang spektakuler, Seiun Sky jadi juara leg pertama Triple Crown!",
       "name": "Komentator"
-    }
+    },
+        {
+            "name": "Komentator",
+            "text": "Seiun Sky memimpin dan melewati garis finis!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Yang berhasil menguasai mahkota pertama Classic adalah Seiun Sky!"
+        }
   ]
 }

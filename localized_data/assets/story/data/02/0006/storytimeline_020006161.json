@@ -133,7 +133,7 @@
       "name": "Special Week"
     },
     {
-      "text": "Dengan semangat yang sama kayak waktu aku menang 『Spring Tenno Sho』, \nkalau soal Grass-chan, aku pasti……!",
+      "text": "Dengan semangat yang sama kayak \nwaktu aku menang 『Spring Tenno Sho』, \nkalau soal Grass-chan, aku pasti……!",
       "name": "Special Week"
     },
     {
@@ -163,6 +163,10 @@
       "text": "Oke, satu putaran lagi buat pendinginan, \nhabis itu ganti menu latihan di pasir.",
       "name": "<username>"
     },
+     {
+      "text": "Oke, satu putaran lagi buat pendinginan, \nhabis itu ganti menu latihan di pasir.",
+      "name": "<username>"
+    },
     {
       "text": "Fuu～…… Siap!",
       "name": "Special Week"
@@ -172,6 +176,10 @@
       "name": "Mejiro McQueen"
     },
     {
+      "text": "Dia bener-bener pengen menang di 『Takarazuka Kinen』. \nPerasaan itu kerasa juga ke aku.",
+      "name": "<username>"
+    },
+     {
       "text": "Dia bener-bener pengen menang di 『Takarazuka Kinen』. \nPerasaan itu kerasa juga ke aku.",
       "name": "<username>"
     },
@@ -190,6 +198,10 @@
     {
       "text": "Oke, ayo rebut 『Takarazuka Kinen』 juga!",
       "name": "Mejiro McQueen"
+    },
+    {
+      "text": "Iya, pasti!",
+      "name": "<username>"
     },
     {
       "text": "Iya, pasti!",

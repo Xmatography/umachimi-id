@@ -20,6 +20,10 @@
       "text": "Kenapa nggak istirahat dulu, pasti capek banget. \nKalau bebannya terlalu berat, kasih tau aku ya.",
       "name": "<username>"
     },
+     {
+      "text": "Kenapa nggak istirahat dulu, pasti capek banget. \nKalau bebannya terlalu berat, kasih tau aku ya.",
+      "name": "<username>"
+    },
     {
       "text": "Mengerti… tapi aku baik-baik aja. \nDaripada terlalu capek, rasanya malah seru.",
       "name": "Silence Suzuka"
@@ -34,7 +38,15 @@
       "text": "Bakatmu udah di level tinggi, jadi kalau poles kemampuan yang kurang, \nstatus keseluruhanmu bakal naik.",
       "name": "<username>"
     },
+     {
+      "text": "Bakatmu udah di level tinggi, jadi kalau poles kemampuan yang kurang, \nstatus keseluruhanmu bakal naik.",
+      "name": "<username>"
+    },
     {
+      "text": "Soalnya, apa yang kamu lakuin ini nggak biasa. \nPastikan fondasinya juga kuat.",
+      "name": "<username>"
+    },
+     {
       "text": "Soalnya, apa yang kamu lakuin ini nggak biasa. \nPastikan fondasinya juga kuat.",
       "name": "<username>"
     },
@@ -147,7 +159,7 @@
       "name": "Matikanefukukitaru"
     },
     {
-      "text": "Oke! Aku kan G1 Title Holder! Walau baru pulih, siap-siap liat balapan wibawa dari aku!",
+      "text": "Oke! Aku kan G1 Title Holder! \nWalau baru pulih, siap-siap liat balapan wibawa dari aku!",
       "name": "Matikanefukukitaru"
     },
     {

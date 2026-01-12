@@ -22,7 +22,7 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Setiap orang pasti ada saatnya lancar, ada saatnya nggak.\nTapi justru karena kamu udah ngalamin keduanya, makanya kamu bisa sampai sini, Suzuka.",
+      "text": "Setiap orang pasti ada saatnya lancar, ada saatnya nggak.\nTapi justru karena kamu udah ngalamin \nkeduanya, makanya kamu bisa sampai sini, Suzuka",
       "name": "Air Groove"
     },
     {
@@ -71,7 +71,11 @@
     },
     {
       "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"gadis kuda #1 Jepang\".",
-      "name": "Trainer Suzuka"
+      "name": "<username>"
+    },
+    {
+      "text": "Dan dimulailah legenda Spe, cewek yang pengen jadi \n\"gadis kuda #1 Jepang\".",
+      "name": "<username>"
     },
     {
       "text": "Iya, kayak gitu deh.",
@@ -191,9 +195,18 @@
     },
     {
       "text": "Kondisimu jelas membaik lewat latihan, tinggal tempur dengan sekuat tenaga.",
-      "name": "Trainer Suzuka",
+      "name": "<username>",
       "choice_data_list": [
-        "<size=40>Lihat baik-baik pemandangan itu!</size>"
+        "<size=40>Lihat baik-baik pemandangan itu!</size>",
+                "<size=40>Lihat baik-baik pemandangan itu!</size>"
+      ]
+    },
+      {
+      "text": "Kondisimu jelas membaik lewat latihan, tinggal tempur dengan sekuat tenaga.",
+      "name": "<username>",
+      "choice_data_list": [
+        "<size=40>Lihat baik-baik pemandangan itu!</size>",
+                "<size=40>Lihat baik-baik pemandangan itu!</size>"
       ]
     },
     {
