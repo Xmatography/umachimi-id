@@ -2,10 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Selamat ya, Brian. Larinya bagus banget."
+      "text": "Selamat ya, Brian. Larinya bagus banget.",
+            "name": "<username>"
     },
     {
-      "text": "Selamat ya, Brian. Larinya bagus banget."
+      "text": "Selamat ya, Brian. Larinya bagus banget.",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
@@ -16,10 +18,12 @@
       "text": "Soalnya, ini pertama kalinya aku bisa benar-benar\nhidup dalam perasaan ingin menang sampai sejauh ini."
     },
     {
-      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu."
+      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu.",
+            "name": "<username>"
     },
     {
-      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu."
+      "text": "Jadi balapan satu lawan satu yang kamu menangkan ini\nternyata segitu berharganya buatmu.",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",

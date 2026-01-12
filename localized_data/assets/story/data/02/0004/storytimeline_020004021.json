@@ -106,7 +106,12 @@
             "text": "“Selection Race” adalah lomba untuk Uma Musume yang belum punya tim agar discout oleh trainer."
         },
         {
-            "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)"
+            "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
+            "name": "<username>"
+        },
+        {
+            "text": "(Karena dia keluar dari tim, dia latihan sendiri sebelumnya. Tapi, ini apaan…)",
+            "name": "<username>"
         },
         {
             "text": "Sambil memikirkan hal itu, \nlomba Narita Brian pun dimulaiー"
@@ -128,7 +133,10 @@
             "text": "Y-Ya!! Aku juga, senang bisa bekerja sama!!"
         },
         {
-            "text": "Sambil para trainer memanggil Uma Musume yang selesai berlari, aku juga menuju 1 Uma Musume."
+            "text": "Sambil para trainer memanggil Uma Musume yang\nselesai berlari, aku juga menuju 1 Uma Musume."
+        },
+        {
+            "text": "Sambil para trainer memanggil Uma Musume yang\nselesai berlari, aku juga menuju 1 Uma Musume."
         },
         {
             "name": "Narita Brian",
@@ -142,13 +150,18 @@
             "text": "…Aku rasa penampilanku tidak ada yang pantas untuk discout."
         },
         {
-            "text": "Seperti yang dia bilang, lomba itu kurang ada spurt dan aku tidak melihat tempat untuk menunjukkannya."
+            "text": "Seperti yang dia bilang, lomba itu kurang ada spurt dan aku\n tidak melihat tempat untuk menunjukkannya."
         },
         {
             "text": "Namun, aku berpikir itu mungkin terkait dengan 'kecanggungan' yang kurasakan sebelumnya, dan mencoba memanggilnya."
         },
         {
-            "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna."
+            "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
+            "name": "<username>"
+        },
+        {
+            "text": "Kekuatan tubuh dan langkah \nsempurna. Dan form-nya sempurna.",
+            "name": "<username>"
         },
         {
             "text": "Tapi aku pikir keduanya tidak cocok."
@@ -158,7 +171,12 @@
             "text": "……"
         },
         {
-            "text": "Form-mu terlalu indah, sehingga menahan kekuatanmu. Aku pikir baik untuk dicoba."
+            "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
+            "name": "<username>"
+        },
+         {
+            "text": "Form-mu terlalu indah, sehingga menahan\n kekuatanmu. Aku pikir baik untuk dicoba.",
+            "name": "<username>"
         },
         {
             "text": "Bagaimana kalau lari lebih bebas dan sisanya serahkan pada angin?"
@@ -193,20 +211,36 @@
             "text": "Luar biasa… Semakin kencang…!?"
         },
         {
-            "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'."
+            "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
+            "name": "<username>"
+        },
+         {
+            "text": "Hahaha… Aku yakin sekarang dia 'Mass of talent'.",
+            "name": "<username>"
         },
         {
-            "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama."
+            "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
+            "name": "<username>"
+        },
+        {
+            "text": "Kalau dia lari seperti itu di lomba sebelumnya, pasti menang pertama.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
-            "text": "Masih ada beberapa yang terlalu kusadari. Kalau terbiasa, aku bisa lebih cepat."
+            "text": "Masih ada beberapa yang terlalu kusadari.\n Kalau terbiasa, aku bisa lebih cepat."
         },
         {
-            "text": "Lebih cepat dari itu… gila kamu."
+            "text": "Lebih cepat dari itu… yang benar saja."
+        },
+         {
+            "text": "Lebih cepat dari itu… yang benar saja."
         },
         {
-            "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau sudah menang 2 kali, bukankah trainer menghargainya?"
+            "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
+        },
+        {
+            "text": "Ngomong-ngomong, kenapa keluar dari tim? Kalau\n sudah menang 2 kali, bukankah trainer menghargainya?"
         },
         {
             "name": "Narita Brian",
@@ -217,20 +251,21 @@
         },
         {
             "name": "Narita Brian",
-            "text": "Aku diberi tahu kalau prestasiku tidak stabil karena tidak bisa menyesuaikan perasaanku."
+            "text": "Aku diberi tahu kalau prestasiku tidak stabil\n karena tidak bisa menyesuaikan perasaanku."
         },
         {
             "name": "Narita Brian",
             "text": "Jadi aku harus meninggalkan balapan sementara."
         },
         {
-            "text": "Penyesuaian perasaan…"
+            "text": "Penyesuaian perasaan…",
+            "name": "<username>"
         },
         {
             "text": "Mungkin berarti tidak bisa mengendalikan 'dirimu' di lomba."
         },
         {
-            "text": "Penting untuk menaruh semangat, tapi ketenangan untuk menilai situasi tak terduga dan membaca perkembangan sangat penting."
+            "text": "Penting untuk menaruh semangat, tapi ketenangan untuk menilai \nsituasi tak terduga dan membaca perkembangan sangat penting."
         },
         {
             "name": "Narita Brian",
@@ -247,18 +282,32 @@
             "text": "Dan dia punya kemampuan untuk mewujudkan perasaannya!"
         },
         {
-            "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya."
+            "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
+            "name": "<username>"
+        },
+         {
+            "text": "Dari sekarang, tidak cukup waktu untuk 'Kyoto Junior Stakes'. \nSetelah itu ada juga 'Asahi Cup FS' segera setelahnya.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
             "text": "…Apa yang kamu bicarakan?"
         },
         {
-            "text": "Mungkin dalam kasusmu, lebih baik jujur dengan balapan daripada menahan keinginan berlari. Jadiー",
+            "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
             "choice_data_list": [
                 "Brian, maukah kamu berlari untuk tim kami?",
                 "Brian, maukah kamu berlari untuk tim kami?"
-            ]
+            ],
+            "name": "<username>"
+        },
+         {
+            "text": "Mungkin dalam kasusmu, lebih baik \njujur dengan balapan daripada menahan keinginan berlari. Jadiー",
+            "choice_data_list": [
+                "Brian, maukah kamu berlari untuk tim kami?",
+                "Brian, maukah kamu berlari untuk tim kami?"
+            ],
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",

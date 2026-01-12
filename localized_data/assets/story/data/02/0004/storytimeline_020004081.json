@@ -45,10 +45,12 @@
             "text": "…Sama-sama."
         },
         {
-            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!"
+            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
+            "name": "<username>"
         },
         {
-            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!"
+            "text": "Selanjutnya “Emperor’s Cup (Spring)”… ini balapan \nyang kakakmu menangkan tahun lalu. \nAyo kita kejar kemenangan buat kakak-beradik!",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -135,10 +137,12 @@
             "text": "…*Hah*."
         },
         {
-            "text": "Kamu keliatan agak capek, nggak apa-apa?"
+            "text": "Kamu keliatan agak capek, nggak apa-apa?",
+            "name": "<username>"
         },
         {
-            "text": "Kamu keliatan agak capek, nggak apa-apa?"
+            "text": "Kamu keliatan agak capek, nggak apa-apa?",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -167,10 +171,12 @@
             "text": "Aku juga ngerasain hal yang sama, \ntapi aku nggak bisa cuma taruh harapan ke dia. \nAku juga harus bisa ngikutin Brian-san."
         },
         {
-            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya."
+            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
+            "name": "<username>"
         },
         {
-            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya."
+            "text": "Aku juga bakal berusaha keras supaya bisa bikin Brian \nsiap tampil di balapan dengan performa terbaiknya.",
+            "name": "<username>"
         },
         {
             "name": "Mejiro McQueen",
@@ -206,10 +212,12 @@
             "text": "Brian-san!?"
         },
         {
-            "text": "A-Ada apa!?"
+            "text": "A-Ada apa!?",
+            "name": "<username>"
         },
         {
-            "text": "A-Ada apa!?"
+            "text": "A-Ada apa!?",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",

@@ -27,10 +27,12 @@
       "text": "Untungnya bukan cedera parah, tapi tetap aja mendingan istirahat musim semi ini."
     },
     {
-      "text": "Iya sih…"
+      "text": "Iya sih…",
+            "name": "<username>"
     },
-    {
-      "text": "Iya sih…"
+     {
+      "text": "Iya sih…",
+            "name": "<username>"
     },
     {
       "name": "Gold Ship",
@@ -41,10 +43,12 @@
       "text": "Oi, Trainer!"
     },
     {
-      "text": "Kenapa, buru-buru banget?"
+      "text": "Kenapa, buru-buru banget?",
+            "name": "<username>"
     },
     {
-      "text": "Kenapa, buru-buru banget?"
+      "text": "Kenapa, buru-buru banget?",
+            "name": "<username>"
     },
     {
       "name": "Hishi Amazon",
@@ -79,20 +83,24 @@
       "text": "Narita Brian emang punya keinginan kuat banget buat lari. \nBahkan pas cedera pun, semangatnya sama sekali nggak berubah…"
     },
     {
-      "text": "Tapi tetep aja aku khawatir. Kalau makin parah, aku bakal pilih nggak ngebolehin kamu lari."
+      "text": "Tapi tetep aja aku khawatir. Kalau makin \nparah, aku bakal pilih nggak ngebolehin kamu lari.",
+            "name": "<username>"
     },
     {
-      "text": "Tapi tetep aja aku khawatir. Kalau makin parah, aku bakal pilih nggak ngebolehin kamu lari."
+      "text": "Tapi tetep aja aku khawatir. Kalau makin \nparah, aku bakal pilih nggak ngebolehin kamu lari.",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
       "text": "…Jadi, mau berhentiin latihan ini juga?"
     },
     {
-      "text": "…Nggak, tugas Trainer itu buat dukung Gadis Kuda. \nAku lebih pengen hargai perasaanmu daripada apa pun."
+      "text": "…Nggak, tugas Trainer itu buat dukung Gadis Kuda. \nAku lebih pengen hargai perasaanmu daripada apa pun.",
+            "name": "<username>"
     },
     {
-      "text": "…Nggak, tugas Trainer itu buat dukung Gadis Kuda. \nAku lebih pengen hargai perasaanmu daripada apa pun."
+      "text": "…Nggak, tugas Trainer itu buat dukung Gadis Kuda. \nAku lebih pengen hargai perasaanmu daripada apa pun.",
+            "name": "<username>"
     },
     {
       "text": "Jadi, aku bakal dampingin latihanmu selama cedera. \nKita cari cara bareng-bareng biar siap buat balapan balik nanti."
@@ -136,16 +144,20 @@
       "text": "Itu bikin tahanan air lebih gede kan? \nYang aku mau itu bukan sekadar jaga otot, tapi ningkatin."
     },
     {
-      "text": "Heh, ide banget tuh khas kamu. Oke, ayo coba!"
+      "text": "Heh, ide banget tuh khas kamu. Oke, ayo coba!",
+            "name": "<username>"
     },
     {
-      "text": "Heh, ide banget tuh khas kamu. Oke, ayo coba!"
+      "text": "Heh, ide banget tuh khas kamu. Oke, ayo coba!",
+            "name": "<username>"
     },
     {
-      "text": "Mulai hari ini, latihan buat bener-bener lari!"
+      "text": "Mulai hari ini, latihan buat bener-bener lari!",
+            "name": "<username>"
     },
     {
-      "text": "Mulai hari ini, latihan buat bener-bener lari!"
+      "text": "Mulai hari ini, latihan buat bener-bener lari!",
+            "name": "<username>"
     },
     {
       "text": "Tapi belum waktunya lari serius. \nKita adaptasi dulu sama lintasan, pakai tanah yang lebih ringan biar nggak terlalu ngasih beban."
@@ -158,10 +170,12 @@
       "text": "Aku tetap ngawasin yang lain juga, santai aja."
     },
     {
-      "text": "Lagipula, ngeliat kamu latihan tuh kayak nonton balapan, aku juga seneng liatnya."
+      "text": "Lagipula, ngeliat kamu latihan tuh kayak \nnonton balapan, aku juga seneng liatnya.",
+            "name": "<username>"
     },
     {
-      "text": "Lagipula, ngeliat kamu latihan tuh kayak nonton balapan, aku juga seneng liatnya."
+      "text": "Lagipula, ngeliat kamu latihan tuh kayak \nnonton balapan, aku juga seneng liatnya.",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
@@ -185,10 +199,12 @@
       "text": "Dokter udah bilang boleh lari…?"
     },
     {
-      "text": "Iya, dibilangin peradangannya udah sembuh total, jadi aman."
+      "text": "Iya, dibilangin peradangannya udah sembuh total, jadi aman.",
+            "name": "<username>"
     },
     {
-      "text": "Iya, dibilangin peradangannya udah sembuh total, jadi aman."
+      "text": "Iya, dibilangin peradangannya udah sembuh total, jadi aman.",
+            "name": "<username>"
     },
     {
       "text": "Dan aku selalu dampingin Brian, dia nggak pernah ngerasain sakit lagi, jadi nggak perlu khawatir."
@@ -198,16 +214,20 @@
       "text": "Mantap! Ayo lari sekarang!! Brian udah balik ke track!!"
     },
     {
-      "text": "Selama ini aku ngeliat latihannya, dan aku makin yakin sama semangatnya buat menang."
+      "text": "Selama ini aku ngeliat latihannya, dan aku makin yakin\n sama semangatnya buat menang.",
+            "name": "<username>"
     },
     {
-      "text": "Selama ini aku ngeliat latihannya, dan aku makin yakin sama semangatnya buat menang."
+      "text": "Selama ini aku ngeliat latihannya, dan aku makin yakin \nsama semangatnya buat menang.",
+            "name": "<username>"
     },
     {
-      "text": "Gorsi juga udah bilang, aku juga udah lama nunggu hari ini! \nKamu nggak bisa lari sampai sekarang, jadi ayo gaspol!"
+      "text": "Gorsi juga udah bilang, aku juga udah lama nunggu hari ini! \nKamu nggak bisa lari sampai sekarang, jadi ayo gaspol!",
+            "name": "<username>"
     },
     {
-      "text": "Gorsi juga udah bilang, aku juga udah lama nunggu hari ini! \nKamu nggak bisa lari sampai sekarang, jadi ayo gaspol!"
+      "text": "Gorsi juga udah bilang, aku juga udah lama nunggu hari ini! \nKamu nggak bisa lari sampai sekarang, jadi ayo gaspol!",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",

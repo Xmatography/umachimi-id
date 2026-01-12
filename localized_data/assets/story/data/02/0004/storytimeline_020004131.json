@@ -77,22 +77,26 @@
       "text": "Iya, lihat aja aku."
     },
     {
-      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー"
+      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー",
+            "name": "<username>"
     },
     {
-      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー"
-    },
-    {
-      "text": "Dan aku yakin ke depannya pengakuan buatmu bakal makin banyak.\nPerasaanmu nggak pernah berubah sejak pertama kali kita ketemu.",
-      "choice_data_list": [
-        "Semangat ya, Brian!!"
-      ]
+      "text": "Brian, kamu udah sering banget bikin semua orang kaget.\nCatatan kemenangan telak, menang besar di panggung besarー",
+            "name": "<username>"
     },
     {
       "text": "Dan aku yakin ke depannya pengakuan buatmu bakal makin banyak.\nPerasaanmu nggak pernah berubah sejak pertama kali kita ketemu.",
       "choice_data_list": [
         "Semangat ya, Brian!!"
-      ]
+      ],
+            "name": "<username>"
+    },
+    {
+      "text": "Dan aku yakin ke depannya pengakuan buatmu bakal makin banyak.\nPerasaanmu nggak pernah berubah sejak pertama kali kita ketemu.",
+      "choice_data_list": [
+        "Semangat ya, Brian!!"
+      ],
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",

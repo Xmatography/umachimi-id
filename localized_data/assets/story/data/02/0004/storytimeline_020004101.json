@@ -29,10 +29,12 @@
             "text": "Aku fokus ngawasin cederamu, jadi latihannya nggak selalu maksimal. \nTapi kondisimu nggak jelek kok."
         },
         {
-            "text": "Dan yang paling penting, semangatmu buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!"
+            "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
+            "name": "<username>"
         },
         {
-            "text": "Dan yang paling penting, semangatmu buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!"
+            "text": "Dan yang paling penting, semangatmu\n buat lari di sini masih sama kayak dulu. \nTunjukin lari terbaikmu!",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -71,10 +73,12 @@
             "text": "Lurusan terakhir… jadi maksudnya gitu."
         },
         {
-            "text": "Iya, tapi ada apa?"
+            "text": "Iya, tapi ada apa?",
+            "name": "<username>"
         },
         {
-            "text": "Iya, tapi ada apa?"
+            "text": "Iya, tapi ada apa?",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",

@@ -8,6 +8,10 @@
       "text": "Spe, latihan udah kelar loh.",
       "name": "<username>"
     },
+     {
+      "text": "Spe, latihan udah kelar loh.",
+      "name": "<username>"
+    },
     {
       "text": "Fue…?! Uwaaa, udah kelar aja?!",
       "name": "Special Week"
@@ -20,6 +24,10 @@
       "name": "Silence Suzuka"
     },
     {
+      "text": "Ternyata, kamu lagi khawatir sama Silence Suzuka ya?",
+      "name": "<username>"
+    },
+     {
       "text": "Ternyata, kamu lagi khawatir sama Silence Suzuka ya?",
       "name": "<username>"
     },
@@ -36,13 +44,24 @@
       "name": "<username>"
     },
     {
+      "text": "Akhir-akhir ini kalo aku liat lombanya, entah kenapa \nkayaknya dia nggak nyaman. Kayak nggak nikmatin lari.",
+      "name": "<username>"
+    },
+    {
       "text": "…Um! Boleh nggak aku di sini sebentar lagi? \nAku pengen nemenin Suzuka-san latihan!",
       "name": "Special Week"
     },
     {
       "text": "Ngurusin urusan Gadis kuda di tim lain mungkin nggak masalahku. \nTapi kadang, aku beneran nggak bisa diem aja-"
     },
+     {
+      "text": "Ngurusin urusan Gadis kuda di tim lain mungkin nggak masalahku. \nTapi kadang, aku beneran nggak bisa diem aja-"
+    },
     {
+      "text": "Kalau gitu, aku ikut sama kamu. Ayo kita ajak ngobrol dia.",
+      "name": "<username>"
+    },
+     {
       "text": "Kalau gitu, aku ikut sama kamu. Ayo kita ajak ngobrol dia.",
       "name": "<username>"
     },
@@ -86,6 +105,10 @@
       "text": "Pas Debut-mu dulu, pasti kayak gitu. Lari ke garis finish dari depan, \nkamu keliatan seneng banget.",
       "name": "<username>"
     },
+     {
+      "text": "Pas Debut-mu dulu, pasti kayak gitu. Lari ke garis finish dari depan, \nkamu keliatan seneng banget.",
+      "name": "<username>"
+    },
     {
       "text": "…Sekarang aku nggak terlalu tau. \nAku pasti ngejar mimpiku sekuat tenaga.",
       "name": "Silence Suzuka"
@@ -125,7 +148,11 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "Ngomong gitu mungkin nggak cocok buat pelatih, tapi lupakan soal menang atau hal berat lainnya. \nDan lari aja.",
+      "text": "Ngomong gitu mungkin nggak \ncocok buat pelatih, tapi lupakan soal menang atau hal berat lainnya. \nDan lari aja.",
+      "name": "<username>"
+    },
+    {
+      "text": "Ngomong gitu mungkin nggak \ncocok buat pelatih, tapi lupakan soal menang atau hal berat lainnya. \nDan lari aja.",
       "name": "<username>"
     },
     {
@@ -187,6 +214,10 @@
       "text": "Kayaknya kamu bener-bener suka lari ya?",
       "name": "<username>"
     },
+     {
+      "text": "Kayaknya kamu bener-bener suka lari ya?",
+      "name": "<username>"
+    },
     {
       "text": "Eh…?",
       "name": "Silence Suzuka"
@@ -196,6 +227,14 @@
       "name": "<username>"
     },
     {
+      "text": "Pas kamu lari sekuat tenaga, kamu liat yang kamu kejar, kan?",
+      "name": "<username>"
+    },
+    {
+      "text": "Ngejar cuma buat menang nggak bakal nganterin kamu ke mimpi. \nNgejar buat senang lari, pasti bisa sampai.",
+      "name": "<username>"
+    },
+     {
       "text": "Ngejar cuma buat menang nggak bakal nganterin kamu ke mimpi. \nNgejar buat senang lari, pasti bisa sampai.",
       "name": "<username>"
     },
@@ -223,10 +262,14 @@
       "name": "Silence Suzuka"
     },
     {
-      "text": "H-hah? Suzuka-san?",
+      "text": "H-hah? Suzuka-san?!",
       "name": "Special Week"
     },
     {
+      "text": "Ada apa? Kalo nggak salah, \ntimmu mau mulai latihan…",
+      "name": "<username>"
+    },
+     {
       "text": "Ada apa? Kalo nggak salah, \ntimmu mau mulai latihan…",
       "name": "<username>"
     },

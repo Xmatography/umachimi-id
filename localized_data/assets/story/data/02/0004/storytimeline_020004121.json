@@ -9,10 +9,12 @@
             "text": "Hari ini lagi, aku nggak bisa dapat juara satu."
         },
         {
-            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok."
+            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok."
+            "text": "Tapi kamu udah kasih semua yang kamu punya.\nNggak jelek kok.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -23,20 +25,24 @@
             "text": "Ada yang mau aku bilang.\nAku sebenarnyaー"
         },
         {
-            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?"
+            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?",
+            "name": "<username>"
         },
         {
-            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?"
+            "text": "Aku udah nggak bisa lari dengan “gaya itu” lagi… kan?",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
             "text": "…Kamu udah tahu?"
         },
         {
-            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan."
+            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan.",
+            "name": "<username>"
         },
         {
-            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan."
+            "text": "Nggak, aku sadar pas lihat kamu balapan.\nLihat caramu lari, kelihatan kamu maksa banget sambil kesakitan.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -57,22 +63,28 @@
             "text": "Maaf aku nutupin ini.\nAku takut kalau bilang, kamu bakal nyuruh aku berhenti lari."
         },
         {
-            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti."
+            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti.",
+            "name": "<username>"
         },
         {
-            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti."
+            "text": "Iya, aku mungkin bakal nyuruh kamu berhenti.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama."
+            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama."
+            "text": "Tapi sekarang beda.\nWalaupun kamu nggak bisa lari kayak dulu, kamu masih tetap sama.",
+            "name": "<username>"
         },
         {
-            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku."
+            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku.",
+            "name": "<username>"
         },
         {
-            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku."
+            "text": "Aku pengen menang, pengen sampai garis akhir.\nNarita Brian yang bikin aku jatuh hati, masih ada di depanku.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -107,10 +119,12 @@
             "text": "Hmm… obrolannya agak susah ya."
         },
         {
-            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya."
+            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya.",
+            "name": "<username>"
         },
         {
-            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya."
+            "text": "Aku nggak punya waktu buat coba semua,\nmakin dipikirin malah makin nggak masuk akal latihannya.",
+            "name": "<username>"
         },
         {
             "name": "Winning Ticket",
@@ -140,10 +154,12 @@
             "text": "Rame banget.\nAku dengar balapan Brian udah ditentuin, jadi aku bawain Onigiri biar tambah semangat."
         },
         {
-            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!"
+            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!",
+            "name": "<username>"
         },
         {
-            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!"
+            "text": "Bener! Selain itu, kita juga harus mikirin lawan Brian!",
+            "name": "<username>"
         },
         {
             "name": "Hishi Amazon",
@@ -157,10 +173,12 @@
             "text": "Aku kepikiran ngajak Biwa Hayahide mikirin bareng\ncara latihan dan lari Brian sekarang."
         },
         {
-            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?"
+            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?",
+            "name": "<username>"
         },
         {
-            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?"
+            "text": "Dan di sisi lawan ada Hishi Amazon,\nyang udah ngerti kamu banget, nggak masalah kan?",
+            "name": "<username>"
         },
         {
             "name": "Hishi Amazon",
@@ -194,10 +212,12 @@
             "text": "Serius, emang begitu orang yang pake kacamata.\nLatihannya nggak ada habisnya."
         },
         {
-            "text": "Kamu pasti bangga sama kakakmu."
+            "text": "Kamu pasti bangga sama kakakmu.",
+            "name": "<username>"
         },
         {
-            "text": "Kamu pasti bangga sama kakakmu."
+            "text": "Kamu pasti bangga sama kakakmu.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -212,10 +232,12 @@
             "text": "Oh! Bukannya sebentar lagi “Penghargaan URA” tahun ini diumumin?"
         },
         {
-            "text": "Harusnya diumumin di acara TV, ayo kita nonton."
+            "text": "Harusnya diumumin di acara TV, ayo kita nonton.",
+            "name": "<username>"
         },
         {
-            "text": "Harusnya diumumin di acara TV, ayo kita nonton."
+            "text": "Harusnya diumumin di acara TV, ayo kita nonton.",
+            "name": "<username>"
         },
         {
             "name": "Penyiar",

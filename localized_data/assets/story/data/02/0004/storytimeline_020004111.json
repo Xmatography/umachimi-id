@@ -20,10 +20,12 @@
             "text": "Hishi Amazon sampai garis duluan dengan jarak 2 panjang badan! \nNarita Brian makin tertinggal, finis di posisi 6!"
         },
         {
-            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー"
+            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
+            "name": "<username>"
         },
         {
-            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー"
+            "text": "Rasanya belum balik juga. Gaya larinya dengan pusat \nberat badan rendah kayak duluー",
+            "name": "<username>"
         },
         {
             "text": "(Tok-Tok)"
@@ -33,10 +35,12 @@
             "text": "Maaf ganggu tiba-tiba, aku masuk ya."
         },
         {
-            "text": "Jarang banget, kamu datang nengokin aku."
+            "text": "Jarang banget, kamu datang nengokin aku.",
+            "name": "<username>"
         },
         {
-            "text": "Jarang banget, kamu datang nengokin aku."
+            "text": "Jarang banget, kamu datang nengokin aku.",
+            "name": "<username>"
         },
         {
             "name": "Biwa Hayahide",
@@ -127,10 +131,12 @@
             "text": "Heh… heh…"
         },
         {
-            "text": "Udahan dulu latihan di lintasan, Brian."
+            "text": "Udahan dulu latihan di lintasan, Brian.",
+            "name": "<username>"
         },
         {
-            "text": "Udahan dulu latihan di lintasan, Brian."
+            "text": "Udahan dulu latihan di lintasan, Brian.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -141,10 +147,12 @@
             "text": "Jadi Trainer… kamu ke sini buat nyuruh aku berhenti latihan?"
         },
         {
-            "text": "Nggak, aku datang buat ketemu kamu."
+            "text": "Nggak, aku datang buat ketemu kamu.",
+            "name": "<username>"
         },
         {
-            "text": "Nggak, aku datang buat ketemu kamu."
+            "text": "Nggak, aku datang buat ketemu kamu.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -158,16 +166,20 @@
             "text": "……"
         },
         {
-            "text": "Aku nggak tahu apa arti dari air matamu."
+            "text": "Aku nggak tahu apa arti dari air matamu.",
+            "name": "<username>"
         },
         {
-            "text": "Aku nggak tahu apa arti dari air matamu."
+            "text": "Aku nggak tahu apa arti dari air matamu.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu."
+            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
+            "name": "<username>"
         },
         {
-            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu."
+            "text": "Tapi aku ngerti kalau “Emperor Prize (Autumn)” \nitu punya arti besar banget buatmu.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",
@@ -203,16 +215,20 @@
             "text": "…Kenapa, kamu ngelakuin itu?"
         },
         {
-            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah."
+            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
+            "name": "<username>"
         },
         {
-            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah."
+            "text": "Karena aku sedikit ngerti arti dari air matamu. \nPerasaanmu nggak akan pernah berubah.",
+            "name": "<username>"
         },
         {
-            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Gadis Kuda."
+            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Gadis Kuda.",
+            "name": "<username>"
         },
         {
-            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Gadis Kuda."
+            "text": "Makanya aku bilang, aku biarin kamu lakuin sesukamu. \nAku ini Trainer yang dukung Gadis Kuda.",
+            "name": "<username>"
         },
         {
             "name": "Narita Brian",

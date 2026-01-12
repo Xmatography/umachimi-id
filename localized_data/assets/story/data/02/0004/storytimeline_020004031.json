@@ -99,7 +99,12 @@
       "text": "Ngomong-ngomong, Trainer-san, bukannya panggilan itu sebentar lagi masuk ya?"
     },
     {
-      "text": "Iya, aku cek dulu. Kalian semua lanjut latihan."
+      "text": "Iya, aku cek dulu. Kalian semua lanjut latihan.",
+            "name": "<username>"
+    },
+     {
+      "text": "Iya, aku cek dulu. Kalian semua lanjut latihan.",
+            "name": "<username>"
     },
     {
       "name": "Gold Ship",
@@ -116,13 +121,15 @@
       "text": "Dan kuncinya ada di nomor dan posisi gateー"
     },
     {
-      "text": "Bohong kan itu…?"
+      "text": "Bohong kan itu…?",
+            "name": "<username>"
     },
     {
-      "text": "Bohong kan itu…?"
+      "text": "Bohong kan itu…?",
+            "name": "<username>"
     },
     {
-      "text": "Gate 8 nomor 17ー Dan itu posisi paling luar. Hoki jelas nggak ada di pihak Narita Brian…"
+      "text": "Gate 8 nomor 17ー Dan itu posisi paling \nluar. Hoki jelas nggak ada di pihak Narita Brian…"
     },
     {
       "name": "Komentator",
@@ -142,34 +149,55 @@
     },
     {
       "name": "Trainer Veteran B",
-      "text": "Yang paling penting itu start! Jadi menangkan balapan dengan manfaatin keuntungan dari posisi gate di dalam!"
+      "text": "Yang paling penting itu start! Jadi menangkan \nbalapan dengan manfaatin keuntungan dari posisi gate di dalam!"
     },
     {
       "name": "Gadis Kuda B",
       "text": "Terima kasih atas semua latihan selama ini! Aku bakal pastiin \nmenang Derby sebagai hadiah buat Trainer!"
     },
     {
-      "text": "Beda sama tribun yang riuh, suasana di belakang panggung tegang banget."
+      "text": "Beda sama tribun yang riuh, suasana di belakang panggung tegang banget.",
+            "name": "<username>"
+    },
+     {
+      "text": "Beda sama tribun yang riuh, suasana di belakang panggung tegang banget.",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
       "text": "…."
     },
     {
-      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Gadis Kuda. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini."
+      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Gadis Kuda. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
+            "name": "<username>"
+    },
+     {
+      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Gadis Kuda. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
+            "name": "<username>"
     },
     {
-      "text": "Selain itu, lawan-lawan juga udah siapin strategi khusus buat kamu, \nplus kamu dapet posisi luar yang katanya nggak menguntungkan."
+      "text": "Selain itu, lawan-lawan juga udah siapin strategi khusus buat kamu, \nplus kamu dapet posisi luar yang katanya nggak menguntungkan.",
+            "name": "<username>"
     },
     {
-      "text": "Faktanya, menang emang nggak gampang…"
+      "text": "Selain itu, lawan-lawan juga udah siapin strategi khusus buat kamu, \nplus kamu dapet posisi luar yang katanya nggak menguntungkan.",
+            "name": "<username>"
+    },
+    {
+      "text": "Faktanya, menang emang nggak gampang…",
+            "name": "<username>"
+    },
+    {
+      "text": "Faktanya, menang emang nggak gampang…",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
       "text": "…Terus kenapa?"
     },
     {
-      "text": "Hah…?"
+      "text": "Hah…?",
+            "name": "<username>"
     },
     {
       "name": "Narita Brian",
@@ -225,7 +253,12 @@
       "text": "Kalau dipikir-pikir… iya juga ya."
     },
     {
-      "text": "Hahaha… Sebenarnya sekuat apa sih kamu…"
+      "text": "Hahaha… Sebenarnya sekuat apa sih kamu…",
+            "name": "<username>"
+    },
+    {
+      "text": "Hahaha… Sebenarnya sekuat apa sih kamu…",
+            "name": "<username>"
     },
     {
       "text": "Bahkan aku sendiri yang jadi Trainer nggak bisa nutupin rasa kagum \natas kemampuanmu yang seakan nggak ada batasnya."
