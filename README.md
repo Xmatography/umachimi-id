@@ -7,8 +7,7 @@ Di sini kamu bisa kontribusi berbagai hal seputar **terjemahan, resource, dan do
 ## 📑 Daftar Isi
 - 📌 [Tentang Proyek](#-tentang-proyek)  
 - 🚀 [Fitur Utama](#-fitur-utama)  
-- 📂 [Struktur Direktori](#-struktur-direktori)    
-- 📝 [Catatan Rilis](#-catatan-rilis)  
+- 📂 [Struktur Direktori](#-struktur-direktori)     
 - 🤝 [Kontribusi](#-kontribusi)
 
 ---

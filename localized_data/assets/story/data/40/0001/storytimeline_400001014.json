@@ -33,7 +33,7 @@
         },
         {
             "text": "Pelatih Kiryūin...!!",
-            "name": "Trainner",
+            "name": "Trainer",
             "color_text_info_list": [
                 "Kiryūin"
             ]
@@ -43,14 +43,14 @@
         },
         {
             "text": "Terima kasih atas kerja kerasnya, Meek.\nItu adalah lari yang sangat baik.",
-            "name": "Trainner Kyurin"
+            "name": "Trainer Kyurin"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Tapi, di akhir tadi fokusmu sedikit terputus.Dengan kemampuanmu sekarang, seharusnya kamu bisa lebih cepat lagi."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Mari kita fokus agar fokusmu tidak putus hingga garis finis.\nTenang saja, kalau kamu, pasti bisa!"
         },
         {
@@ -80,10 +80,10 @@
         },
         {
             "text": "Eh...? Maaf, permisi!!\nJangan-jangan, Anda adalah...!!",
-            "name": "Trainner Kyurin"
+            "name": "Trainer Kyurin"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Sudah kuduga!\nPelatih <username>!",
             "choice_data_list": [
                 "Lah , Gw ?!",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Iya! A-ah, maaf tiba-tiba...!\nTapi, aku, aku sudah lama sekali... mengagumi Anda...!"
         },
         {
@@ -99,22 +99,22 @@
             "text": "...Pelatih.\n...Siapakah ini?"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Aah! Maafkan aku, Meek,\naku tiba-tiba meninggalkanmu sendirian...!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Fuuuh... maaf, aku sedikit\nkehilangan ketenangan tadi. Izinkan aku memperkenalkan diri sekali lagi——"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Senang berkenalan, nama saya Aoi Kiryūin!\nSama seperti Anda, saya seorang pelatih yang tergabung di akademi ini",
             "color_text_info_list": [
                 "Aoi Kiryūin!"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Dan ini adalah Uma Musume yang saya latih, Happy Meek.\nMeek, tolong sapa dia, bisa?"
         },
         {
@@ -125,19 +125,19 @@
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Ehm... Mungkin Pelatih <username>\nbelum mengetahuinya, tapi.."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Sebenarnya, waktu kita ditugaskan ke\nAkademi Pelatihan ini hampir bersamaan, lho."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Jadi... maaf jika ini terlalu berlebihan, tapi pada kamu,\naku selalu merasa... seperti ada ikatan sesama angkatan."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Saya sudah lama\nberpikir untuk berbicara dengan Anda suatu hari nanti."
         },
         {
@@ -145,14 +145,14 @@
             "text": "..............."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Jika kamu mau, apakah dimasa depan kita bisa\nsaling bertukar pendapat dan lain sebagainya?",
             "choice_data_list": [
                 "Baiklah , Tentu saja"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Terima kasih banyak!\nSaya sangat tersanjung"
         },
         {
@@ -160,7 +160,7 @@
             "text": "...................."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Um... Meek?\nTidak sopan menatapku seperti itu..."
         },
         {
@@ -190,26 +190,26 @@
             "name": "Happy Meek"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Hehe... Meek, itu terlihat menyenangkan.\nAku suka akuarium."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Tapi... apakah benar-benar ide yang bagus jika aku ikut juga...?",
             "choice_data_list": [
                 "Apa maksudmu?"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Ah, tidak. Ajaran keluarga Kiryuin...\n\"Buku Putih Pelatih\" juga mengatakan,\n\"Uma Musume harus mendapatkan istirahat yang cukup.\""
         },
         {
-            "name": "Trainner Kyurin ",
+            "name": "Trainer Kyurin ",
             "text": "Namun, aku diberitahu bahwa  sebaiknya menyerahkan hal itu kepada Uma Musume saja, dan membiarkan mereka bersantai juga menikmati waktu luang mereka..."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Apakah sebaiknya aku menemaninya?\nBukankah dia akan sangat tegang sehingga tidak bisa beristirahat...?"
         },
         {
@@ -230,67 +230,67 @@
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Hah...begitu ya?",
             "choice_data_list": [
                 "kupikir penting juga untuk dekat dengan dia"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Jarak..."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Come to think of it... aku...\nbaru tahu hari ini kalau Meek menyukai akuarium."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Aku... apakah aku\nsama sekali belum mengerti dia...?"
         },
         {
             "text": "Setelah menikmati akuarium bersama Pelatih Kiryuin dan yang lainnya, kami kembali ke sekolah dan mengantar Happy Meek kembali ke asrama."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "...Terima kasih untuk hari ini,\nPelatih <username>."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Saya tidak hanya diundang untuk bergabung, tetapi...saya juga diberi beberapa pengajaran yang luar biasa.",
             "choice_data_list": [
                 "Pelajaran……?"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Ya. \"Kamu harus mengenal Uma Musume yang ditugaskan kepada dia dengan baik.\"\nHal itu telah dinyatakan sejak awal dalam \"Buku Putih Pelatih,\" tetapi..."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Aku... aku mengira kalimat itu berarti\n'Kamu harus memahami dengan baik kemampuan fisiknya"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Tapi... ngobrol sama kamu hari ini,\nbuka mata aku, gini. Aku jadi ngerti maksudnya yang beneran",
             "choice_data_list": [
                 "Ini bukan masalah besar..."
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Hehe, bersikaplah rendah hati."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Saya rasa saya mengerti mengapa Ketua Akigawa sangat menghargai Anda."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Tatapan tulus dan sungguh-sungguh yang kamu berikan kepada peserta pelatihan Anda... Itulah kekuatan Anda sebagai seorang pelatih."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Aku juga akan bekerja lebih keras agar tidak tertinggal darimu!"
         },
         {

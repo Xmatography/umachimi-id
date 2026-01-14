@@ -35,11 +35,11 @@
             "text": "Balapan yang dipenuhi senyum para penggemar!\nItulah panggung tempat semua Uma Musume seharusnya bersinar!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Direktur Akikawa… saya bisa memahami apa yang Anda rasakan."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Keinginan untuk bertindak tentu besar, namun…\nlangkah apa yang seharusnya kita ambil…?"
         },
         {
@@ -55,7 +55,7 @@
             "text": "Eh, event URA Finals nih ada perayaannya! Yuk mampir!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Oh, gitu ya...\nKalau boleh tahu, eventnya ngapain aja sih nanti?"
         },
         {
@@ -67,7 +67,7 @@
             "text": "--Tidak ada rencana!!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Lho ? !"
         },
         {
@@ -78,19 +78,19 @@
             "text": "Aduh, maaf banget nih...!! Ternyata bikin repot juga ya...\n\n"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Ah, hahaha... emang bikin bingung sih awalnya. Tapi, nggak mungkin lah aku nyerah gitu aja"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Meek juga bekerja keras untuk menjadi \"Juara Final.\""
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Aku tidak bisa membiarkan usahanya sia-sia!"
         },
         {
-            "text": "Umamusume yang aku tangani juga lagi berjuang keras...\nPerasaan kami sama, kok, sama Trainner",
+            "text": "Umamusume yang aku tangani juga lagi berjuang keras...\nPerasaan kami sama, kok, sama Trainer",
             "choice_data_list": [
                 "Aku juga mau bantu !",
                 "Aku juga mau bantu !"
@@ -105,7 +105,7 @@
             "text": "Cepat! Ada usulan atau ide buat eventnya !?\n\n"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Hmm... kalau ngomongin event buat ngumpulin orang, biasanya sih yang klasik itu talk show atau mini live dari para Uma Musume, ya..",
             "choice_data_list": [
                 "Bebannya berat juga ya ...",
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Iya bener. Soalnya ini kan lagi masa-masa penting banget nih...\n\n",
             "choice_data_list": [
                 "Hm .. ada cara lain ?",
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Hanya kita berdua...?\nTapi kalau begitu, nanti—"
         },
         {
@@ -152,16 +152,16 @@
             "name": "Reporter Otoshi"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Ya, event ini akan kami berdua yang jalankan.\nTapi soal isi acaranya, jangan khawatir—kami sudah siap"
         },
         {
             "text": "Hari ini, kami akan bercerita tentang perjuangan mereka\nmenuju URA Finals—dari sudut pandang kami yang menemani langsung",
-            "name": "Trainner Kyurin"
+            "name": "Trainer Kyurin"
         },
         {
             "text": "Justru karena kami selalu ada di samping mereka...\nJustru karena kami selalu menyaksikan perjalanan mereka..",
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "choice_data_list": [
                 "(Hari ini, kami akan mewakili mereka!)"
             ]
@@ -202,7 +202,7 @@
             "text": "Wah, sekalian aja saya bantu jadi MC-nya, gimana?\nSaya jamin acaranya bakal super seru, deh~!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Y.....ya.... ?"
         },
         {
@@ -213,7 +213,7 @@
             "text": "Oke, kita lanjut! Persembahan berikutnya—\n\n"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kyurin",
             "text": "Huu... umapyoi, umapyoi...!(Dengan nada ragu)\n\n",
             "choice_data_list": [
                 "U, umapyoi, umapyoi...!"

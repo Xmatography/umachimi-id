@@ -12,7 +12,7 @@
     "plural_form": "n == 1 ? 0 : 1",
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
     "ordinal_types": ["$st", "$nd", "$rd", "$th"],
-    "months": ["Jan.", "Feb.", "Mar.", "Apr.", "Mei.", "Jun.", "Jul.", "Agt.", "Sep.", "Okt.", "Nov.", "Des."],
+    "months": ["Jan.", "Feb.", "Mar.", "Apr.", "Mei.", "Jun.", "Jul.", "Agu.", "Sep.", "Okt.", "Nov.", "Des."],
     "month_text_format": "$(half) $(month)",
 
     "text_wrapper": 1,
