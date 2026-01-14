@@ -2972,8 +2972,8 @@
   "ScheduleBook600007": "Partner jalan-jalan kamu diubah.",
   "Shop0001": "Pembelian selesai",
   "Shop0002": "Detail produk",
-  "Shop0007": "Informasi Syarat & Ketentuan",
-  "Shop0008": "Informasi Syarat & Ketentuan",
+  "Shop0007": "<size=26>Info Sistem Pembayaran (JP)</size>",
+  "Shop0008": "<size=26>Info Wajib Transaksi (JP)</size>",
   "Shop0011": "{0}\nDitukar dengan {1}",
   "Shop0013": "Konfirmasi usia",
   "Shop0014": "Jumlah pembelian bulanan ditentukan oleh usia kamu. Harap masukkan tanggal lahir yang benar.",
@@ -5140,5 +5140,6 @@
   "UltimateRace648001": "Wins",
   "UltimateRace648002": "Arsip",
   "UltimateRace648003": "Cannot be used in the Archives.",
-  "UltimateRace648005": "Perparations for a new event are still underway.\nPlease enjoy the archives in the meantime."
+  "UltimateRace648005": "Perparations for a new event are still underway.\nPlease enjoy the archives in the meantime.",
+    "Shop608020": "Toko Carat"
 }
