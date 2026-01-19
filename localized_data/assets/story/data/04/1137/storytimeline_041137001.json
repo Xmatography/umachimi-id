@@ -1,0 +1,302 @@
+{
+    "title": "Aku \"KISEKI\"~",
+    "text_block_list": [
+        {
+            "text": "Di dunia berkecepatan 60km per jam, aku melukiskan ceritaku.",
+            "name": "Narator "
+        },
+        {
+            "name": "Narator",
+            "text": "Turunlah, kilatan inspirasi. Gempur segalanya dengan gegap gempita kegembiraan.Kan kutunjukkan. Kisah tunggal yang tercipta dari kaki-kakiini.\n\n"
+        },
+        {
+            "text": "**★――Edisi berikutnya, Kiseki Melesat! Ukir jejak kaki yang mengguncang jiwa!!**"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Wahh, ekspresinya keren banget! Pakai border putih biar lebih mencolok!  Wuih~, ini sih top banget! Alur cerita kayak gini...!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Pasti kalian juga ikut seneng dan semangat kan...!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "――...Ini adalah 'kisah' milikku."
+        },
+        {
+            "text": "Itu adalah musim di mana pepohonan mulai berubah warna.\nPada suatu hari saat langit cerah musim gugur yang segar terus berlanjut."
+        },
+        {
+            "name": "Para Umamsumume",
+            "text": "\"Istirahat siang udah mulai!\"\n\"Roti yakisoba DX hari ini cuma ada 10 biji!\"\n\"Cuma segitu!? Cepetan ke kantin!!\""
+        },
+        {
+            "text": "Saat istirahat siang ketika para Uma Musume berbondong-bondong ke toko sekolah.Suara langkah kaki yang luar biasa keras pun terdengar.\n\n"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Woooooh! Berputarlah energi, berkobarlah darah—Lepaskan demi cita-cita tertinggi!\nSerangan pamungkas...『Jiwa yang Membara』!!",
+            "choice_data_list": [
+                "(Hah... apa itu?)",
+                "(Wah... apaan tadi?)"
+            ]
+        },
+        {
+            "text": "Lariannya yang makin kencang disertai teriakan misterius. Memang sedikit terlalu dipaksakan, tapi... Dengan langkah besar penuh tekad, kecepatannya terus meningkat selangkah demi selangkah.",
+            "choice_data_list": [
+                "(Uma di akademi, larinya keren banget...!)",
+                "(Uma di akademi, larinya keren banget...!)"
+            ]
+        },
+        {
+            "name": "Senior ",
+            "text": "Kisaki-san, percuma kamu mengawasiku!\nRoti yakisoba itu pasti jadi milikku"
+        },
+        {
+            "text": "Namun satu lagi Uma Musume itu juga meningkatkan kecepatannya — sepertinya urusan perut tak bisa ditawar.\nPerlahan, jarak mereka kembali menyempit, dan"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ah, aduh!? Aaaa~~ahhh~~~!?\n(Suara gesekan sepatu di lantai koridor)\n",
+            "choice_data_list": [
+                "(Sial, nggak cukup jangkaunya...!)"
+            ]
+        },
+        {
+            "text": "Di balik garis finis imajiner itu, bukan cuma roti yakisoba yang diperebutkan — tapi juga sepotong cerita tentang usaha, persaingan, dan keajaiban itu sendiri",
+            "choice_data_list": [
+                "...Larinya tadi keren banget sih"
+            ]
+        },
+        {
+            "text": "Potensinya masih sangat besar. Semoga dia terus mengasah kemampuan larinya dan mencoba lagi —Sebagai trainer akademi, harapan seperti ini wajar saja kumiliki."
+        },
+        {
+            "text": "...Dan keesokan harinya."
+        },
+        {
+            "text": "\"Yaaaaaaaahhhh!!\"\n\"Haaaaaaahhhh!!\"\n(*Para Uma Musume yang sedang berlari)",
+            "name": "Umamusume",
+            "choice_data_list": [
+                "Ya Ampun , Masih saja soal kemarin..."
+            ]
+        },
+        {
+            "name": "Senior",
+            "text": "Ih~ bandel banget! Nyerah aja deh!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Tidak, aku ini Kiseki! Aku nggak akan terima kalau kekalahan ini jadi 'akhir cerita'!\nUrauraurauraurauraurauraaaaaaaa———!"
+        },
+        {
+            "text": "Tapi, perbedaan kekuatan mereka jelas terlihat seperti melihat api.Seberapa gigih pun dia, nasib yang sama seperti kemarin akan kembali menghampiri.",
+            "choice_data_list": [
+                "(Tekadnya patut diacungi jempol sih, tapi...!)"
+            ]
+        },
+        {
+            "text": "...Ya, saat itu kupikir:\nMungkin dia hanya menggeliat karena tak mau menerima kekalahan.\nCerita yang biasa terjadi di kalangan Uma Musume akademi—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Kalau nyerah, semuanya berakhir! Sang protagonis tidak pernah menyerah!!\" \"Karena itulah cerita ini...——akan jadi makin seru!!",
+            "choice_data_list": [
+                "——!? Dia makin cepat!?"
+            ]
+        },
+        {
+            "text": "Bagaimana Mungkin!?\nLagian, posisi dia sekarang—",
+            "name": "Senior"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Aku ambil jalur dalamnya, Senior!\"\n\"Kunci balikkan keadaan yang tersisa untukku ada di tikungan depan ini...!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Tanpa kehilangan momentum, aku akan...!\nMenyalipmu, SEKARANG JUGA!!"
+        },
+        {
+            "text": "Dia membidik jarak terpendek. Lawannya terpaksa melebar ke luar, irama langkahnya pun buyar.\n...Dalam sekejap, pertarungan itu pun berbalik."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Yesss—!! Kemenangan BESAR!\"\n\"…………Hehe…!"
+        },
+        {
+            "text": "Bulu kudukku merinding. Itu adalah keajaiban pembalikan keadaan yang mengubah kekalahan menjadi kemenangan.\n...Tanpa sadar, aku bertepuk tangan dari kejauhan.",
+            "choice_data_list": [
+                "...Tadi seru banget"
+            ]
+        },
+        {
+            "text": "Tak patah arang oleh kekalahan, merancang solusi mengejutkan, dan merebut kemenangan.Lariannya bagaikan sebuah karya seni utuh. ...Dia, mulai besok juga—",
+            "choice_data_list": [
+                "(Apa dia akan terus berlari seperti ini?)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "——Sekarang, di momen ini, 'jangan biarkan aku tersalip'",
+            "choice_data_list": [
+                "(...! Apa yang dia lakukan!?)",
+                "(...! Apa yang dia lakukan!?)"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "tu dia, gaya lari oleng-olengan Keajaiban! Gerak kanan-kiri terus,bikin yang di belakang pusing... eh, eh, dia malah nyalip biasa aja—!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Eeeen~, meski telat start, aku harus tetap jalan!\"\n\"'Lari Sekecepat Mungkin'! Bertahanlah, diriku~!",
+            "choice_data_list": [
+                "Sikap positifnya bagus banget, Kiseki!",
+                "Sikap positifnya bagus banget, Kiseki!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "choice_data_list": [
+                "Ah, itu lagi sandiwara kiseki"
+            ],
+            "text": "Ini dia, shortcut tendangan tembok milik Kiseki datang!"
+        },
+        {
+            "text": "Dan setiap istirahat siang tiba, aku selalu menuju ke depan toko sekolah.Terkadang tertawa, terkadang geleng-geleng kepala, terkadang sekadar mendukung... sesuka hatiku.",
+            "choice_data_list": [
+                "Nah, lari kaya apa yang kiseki tunjukkan hari ini?",
+                "Nah, lari kaya apa yang kiseki tunjukkan hari ini?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Untuk menciptakan hit, kuasai dulu jalur utamanya!\"\n\"Aku juga bisa kok jadi 'Front Runner'———",
+            "choice_data_list": [
+                "Oh begitu, ternyata gaya larinya fleksibel juga..!"
+            ]
+        },
+        {
+            "text": "Setelah berkali-kali menyaksikan, ketertarikanku padanya melonjak berlipat ganda.Akhirnya, sebagai trainer, aku ingin menyapanya—kaki ini pun bergerak—",
+            "choice_data_list": [
+                "Kerja Bagus , Kiseki",
+                "Kerja Bagus , Kiseki"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya, tadi keren banget!\"\n\"—Eh, kamu toh! Yang selalu nonton...!",
+            "choice_data_list": [
+                "(Aku demen liat caramu lari!)",
+                "(Aku demen liat caramu lari!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "————…………! S-suka?\nItu artinya kamu tertarik sama aku...!?",
+            "choice_data_list": [
+                "Ah, jadi itu—!",
+                "Ah, jadi itu—!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Oke, biar aku jelasin! Aku Keajaiban, Uma Musume yang super suka komik,dan pengen ikut balapan yang seru dan heboh kayak di komik!",
+            "choice_data_list": [
+                "Hah!? ...Ngerti aku!?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Komik bikin orang semangat! Kenapa? Karena semuanya ada di sana! Pertemuan dan perpisahan, kemenangan dan kekalahan, penemuan dan kegagalan... bahkan drama konflik, semuanya ada!"
+        },
+        {
+            "text": "Jadi bacanya bikin pengen nyemangatin! Semoga usahamu terbayar!\nBerdoa sambil balik halaman... dan ada balikkan keadaan di spread halaman! Bener-bener bikin semangat banget!",
+            "choice_data_list": [
+                "E, energinya wow banget...!",
+                "E, energinya wow banget...!"
+            ],
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Makanya, aku juga pengen bikin komik sekeren itu!\nPake tablet hadiah ulang tahunku, tiap hari aku gambar komik!",
+            "choice_data_list": [
+                "Lho, kamu juga bisa gambar komik?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya, genre apa aja boleh!\nInspirasi cerita yang kutemukan di sekeliling,\nkutumbuhkan dengan gayaku sendiri"
+        },
+        {
+            "text": "Contohnya, \"lari buat ngejar barang ketinggalan\" atau \" Lari Sekencang Mungkin Dari Trainner \" Atau \" Lari darikejaran rentenir \"",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Waktu aku bawa tim balik dari belakang jadi anchor di estafet juga kepikiran!『Kayaknya aku sekarang mirip tokoh komik ya?』 gitu...!",
+            "choice_data_list": [
+                "Haha, kadang kayak gitu sih",
+                "Haha, kadang kayak gitu sih"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "——Makanya, Trainer!!"
+        },
+        {
+            "text": "Sejak itu, Keajaiban mulai sering mampir ke ruang trainer juga.\nNgomong-ngomong, puluhan komik yang dibawanya pun sudah memenuhi rak buku di sini."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Aku ada komik yang pengen kubaca bareng kamu. Aku yakin... kamu pasti suka.\"",
+            "choice_data_list": [
+                "Komik yang pengen kubaca bareng aku?"
+            ]
+        },
+        {
+            "text": "Dari Kiseki, tablet yang dibawanya disodorkan padamu.\nDi layar tablet itu terpampang sebuah komik...\n\n"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ini komik yang tokoh utamanya... 『Aku di Masa Depan』",
+            "choice_data_list": [
+                "(Kamu jadi tokoh utama...!)",
+                "(Kamu jadi tokoh utama...!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "——E, um! Trainer! Balapan tuh luar biasa lho!\nBisa narik perhatian penonton, bikin mereka kaget, terharu! Itu kan—\n\n"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Bisa kayak di komik! Bikin semua orang heboh, balapan yang super wow, seru, dan penuh semangat kayak komik legendaris, bisa kuciptakan dengan kaki ini"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Aku pengen jadi tokoh utama di karya itu! Menang balapan... dan bersinar sebagai pemenang!"
+        },
+        {
+            "text": "Dari semangatnya, akhirnya kumengerti akar dari beragam gaya lari uniknya selama ini.\nIntinya dia——",
+            "choice_data_list": [
+                "Jadi kamu pengen jadi tokoh utama komik ya~",
+                "Jadi kamu pengen jadi tokoh utama komik ya~"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "…Aku selalu berlari dengan gaya yang seru.\"\n\"Kayak kamu yang selalu antusias nungguin aku—gitu."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Lain kali, datang nonton 'episode utamanya' ya.…………Besok lusa, aku ikut balapan simulasi."
+        },
+        {
+            "text": "Tak ada alasan untuk menolak ajakan Kiseki.\nDua hari kemudian, aku menuju ke lintasan. Di sana—\n\n"
+        }
+    ]
+}

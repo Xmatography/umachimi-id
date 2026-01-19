@@ -1,0 +1,185 @@
+{
+    "title": "Kurokage's",
+    "text_block_list": [
+        {
+            "name": "Monolog"
+        },
+        {
+            "choice_data_list": [
+                "M, metal knuckles...!?"
+            ],
+            "text": "Suatu hari. Kulihat Kiseki memegang ponsel,\nberdiri di belakang gedung sekolah.",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "...Hmm, bukan juga ya.\nHarusnya lebih terasa... aura kuat atau cool gitu..",
+            "choice_data_list": [
+                "(Ah... tunggu, oke.)",
+                "(Ah... tunggu, oke.)"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Melihat Kiseki yang terlihat serius, aku jadi teringat sesuatu. Kalau dipikir-pikir,waktu dia gambar komik bertarung dulu, ada hal serupa juga—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Berkembanglah, kacaukanlah, lingkaran langit.Ukirlah yang satu, melampaui yang nol.Aku—di sini, mencatatkan permulaan.\n『Rikka・Izayoi』!!",
+            "choice_data_list": [
+                "A, ada apa? Tiba-tiba..",
+                "A, ada apa? Tiba-tiba.."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Ah! Maaf, Trainer!\nAku nemu dialog keren, jadi aku rekam di voice memo !"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Tapi... kenapa ya~?\nWaktu ide itu muncul, aku mikir:『Apa aku jenius!!？』 gitu"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Tapi pas didenger ulang, jadi『…Hmm, nggak kepake!』 gitu\nbanyak banget kejadiannya! Misteri banget deh, misteri!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Rupanya, ucapannya tadi juga adalah dialog dari komik.\nSambil penasaran karya barunya akan seperti apa, aku meninggalkan tempat itu"
+        },
+        {
+            "text": "Beberapa hari kemudian. Di toko pakaian yang juga menjual seragam siswa,\nkulihat Kiseki sedang berbincang dengan pegawai toko. Saat kumengamati sebentar—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "\"Wihhh~~! Aku taunya longran sama shortran doang,\nternyata ada semi-tan juga ya! Latar zamannya seru banget!"
+        },
+        {
+            "name": "Kiseki",
+            "text": ".Oke! Aku beli beberapa buat referensi deh!\nKalau gitu, yang longran sama... ada yang namanya bontan nggak?",
+            "choice_data_list": [
+                "Demi komik, sampai segini... hebat juga ya.",
+                "Demi komik, sampai segini... hebat juga ya."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Oh gitu! Jadi hubungan kalian bukan sekadar teman,\ntapi lebih seperti keluarga! Rasanya dekat banget ya kayak keluarga!"
+        },
+        {
+            "name": "Umamusume NPC",
+            "text": "\"Ah, iya sih. ...Eh, diulang?\nDibilang kayak gitu jadi malu sih.."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Wuih~~! Keren, keren banget! Greget! Ikatan lebih dari sekadar persahabatan gitu!Mungkin panasnya genre ini ya di situ juga!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Boleh dengerin ceritanya lagi dikit?\nSelanjutnya, tentang konflik dengan tim lain!",
+            "choice_data_list": [
+                "Dia juga gayanya galak sama anak nakal ya...",
+                "Dia juga gayanya galak sama anak nakal ya..."
+            ]
+        },
+        {
+            "name": "Umamusume NPC",
+            "text": "Oi! Anak-anak Rambi Jirei Shingu dateng\nganggu wilayah kita! Nggak bakal dibiarin... kita selesaiin di balapan! Kiseki, ikut juga!\""
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ah! Serahin aja!\nAku juga bagian dari Suo Ban On!"
+        },
+        {
+            "text": "..Dilecehin gitu, mana mungkin kita diem aja.\nAyo kasih pelajaran ke biarawan kampung itu! Serangan khusus!!",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "(......Kayaknya dia kebanyakan ngomik ya!?)"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Dan di saat itulah... di lintasan balap gaya bebas,\nKiseki dikerubungi anak-anak dengan aura nakal!\n\n"
+        },
+        {
+            "text": "Oi. Ini beneran punyamu?\"\n\"Ha? Jangan main-main!\"\n\"Sana, kasih sini! Giliran gue kan, woi!\"",
+            "name": "Semua"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Eh, bentar!! Ada antrian, antrian!\nTunggu dulu dong~!",
+            "choice_data_list": [
+                "He, he, kayaknya situasinya berbahaya...!"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Jangan-jangan Keajaiban terlalu dekat sama anak-anak nakal itu!?—Dengan panik aku berlari ke arah mereka dan meninggikan suara.",
+            "choice_data_list": [
+                "(H, hentikan!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "…………Hah?\nTrainer?"
+        },
+        {
+            "text": "Ahaha! Nggak ada yang bahaya kok~!\nKomikku lagi dipinjemin satu-satu lewat tablet aja!",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "(O, oh begitu ya... maaf)",
+                "(O, oh begitu ya... maaf)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Bener! Trainer mau baca juga?\nDibuat berkat bantuan semua orang—『Yoroshiku Outsider』!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Ceritanya tentang tokoh utama yang nggak punya tempat di sekolah,dan akhirnya nemuin 'tempatnya' dalam keseharian bareng teman-teman nakal—",
+            "choice_data_list": [
+                "(............Ya, seru!)"
+            ]
+        },
+        {
+            "text": "Yesss—! Horeee—!\n...Ehehe!",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Monolog",
+            "text": "Karya ini memiliki 'detail realistis' di dasar ceritanya,\nyang bisa ada karena keseriusan Keajaiban dalam mencari informasi.",
+            "choice_data_list": [
+                "Kamu memang serius banget sama komik ya.",
+                "Kamu memang serius banget sama komik ya."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya! Emang udah seharusnya gitu kan!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Soalnya, aku pengen semua yang baca bilang 'Seru'!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sejauh ini, aku udah baca banyak banget komik!\nDan di antara karya-karya yang nempel di hatiku, ada 'tekad' di dalamnya."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ke pembaca: 'Pokoknya bakal kubikin kalian bilang \"seru\"\n...Makanya, kompromi nggak mungkin aku lakuin. Soalnya—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Komik yang pengen ku gambar juga yang kayak gitu!!",
+            "choice_data_list": [
+                "(...Oh gitu)"
+            ]
+        },
+        {
+            "name": "Monolog",
+            "text": "Kupikir aku sudah tahu, tapi sekali lagi.\nAku menyentuh kedalaman cintanya pada komik."
+        }
+    ]
+}
