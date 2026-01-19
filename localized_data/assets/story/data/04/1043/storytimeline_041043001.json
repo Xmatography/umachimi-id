@@ -2,14 +2,14 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It had been a short while since I came to Tracen Academy. One \nday, when I was looking for an Uma Musume to train together with―"
+            "text": "It had been a short while since I came to Tracen Academy. One \nday, when I was looking for an Umamusume to train together with―"
         },
         {
             "text": "Chomp!!",
             "name": "Shinko Windy"
         },
         {
-            "text": "I was bitten by an Uma Musume.",
+            "text": "I was bitten by an Umamusume.",
             "choice_data_list": [
                 "(……I'm being bitten!?)"
             ]
@@ -147,7 +147,7 @@
         },
         {
             "text": "Kyaa!?",
-            "name": "Uma Musume"
+            "name": "Umamusume"
         },
         {
             "text": "S-Shinko Windy!? \nIs Shinko Windy interfering!?",

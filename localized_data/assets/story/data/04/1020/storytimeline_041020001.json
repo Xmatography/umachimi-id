@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I came to Tracen Academy a few \ndays ago in order to train Uma Musume."
+            "text": "I came to Tracen Academy a few \ndays ago in order to train Umamusume."
         },
         {
             "text": "I also received a personal trainer's office, \nand as such I was looking over some files there…"
@@ -47,7 +47,7 @@
             "name": "Seiun Sky"
         },
         {
-            "text": "Without waiting for my response, this Uma Musume… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
+            "text": "Without waiting for my response, this Umamusume… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
             "choice_data_list": [
                 "She must be really tired…",
                 "She must be really tired…"
@@ -180,7 +180,7 @@
             "name": "Seiun Sky"
         },
         {
-            "text": "You and I are now trainer \nand Uma Musume. Come on, clap!",
+            "text": "You and I are now trainer \nand Umamusume. Come on, clap!",
             "name": "Seiun Sky",
             "choice_data_list": [
                 "You set me up!"

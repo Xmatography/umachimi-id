@@ -23,29 +23,29 @@
             "text": "I played the video again. \nThe thing that caught my attention was――"
         },
         {
-            "text": "Occasionally, a few Uma Musume that \nwere chatting away in the background \nwould appear on screen."
+            "text": "Occasionally, a few Umamusume that \nwere chatting away in the background \nwould appear on screen."
         },
         {
             "text": "Whooa, they're going hard today too! \nThose 2 really are amazing～!",
-            "name": "Cheerful Uma Musume"
+            "name": "Cheerful Umamusume"
         },
         {
             "text": "No kidding. At that level, it's hard to believe \nthey're our age-……",
-            "name": "Cynical Uma Musume"
+            "name": "Cynical Umamusume"
         },
         {
             "text": "They're so cool, aren't they～? \nYou see them every now and then～.",
-            "name": "Laid-back Uma Musume",
+            "name": "Laid-back Umamusume",
             "choice_data_list": [
                 "(It's that girl……)"
             ]
         },
         {
-            "text": "That silver-haired Uma Musume who seemed \nto have no special characteristics. \nShe's what caught my attention."
+            "text": "That silver-haired Umamusume who seemed \nto have no special characteristics. \nShe's what caught my attention."
         },
         {
             "text": "Oh shoot, let's go～.",
-            "name": "Laid-back Uma Musume"
+            "name": "Laid-back Umamusume"
         },
         {
             "text": "The girls started running a lap around the \ncourse. There didn't seem to be anything \nnoteworthy about them in terms of ability."
@@ -55,7 +55,7 @@
         },
         {
             "text": "Hehe……you don't need to film this.",
-            "name": "Laid-back Uma Musume"
+            "name": "Laid-back Umamusume"
         },
         {
             "text": "……Why? Why was I so curious about her?"
@@ -64,21 +64,21 @@
             "text": "I had no idea. But, there was something that \ndrew me to her―― I decided to go meet this Uma \nMusume in person the next day."
         },
         {
-            "text": "That Uma Musume was doing parallel running \ntraining, but she couldn't seem to keep up. Her \npartner kept pulling farther away.",
+            "text": "That Umamusume was doing parallel running \ntraining, but she couldn't seem to keep up. Her \npartner kept pulling farther away.",
             "choice_data_list": [
                 "(She's running really slowly……)"
             ]
         },
         {
-            "text": "In the end, that Uma Musume finished the run \nwith nothing noteworthy happening, but――"
+            "text": "In the end, that Umamusume finished the run \nwith nothing noteworthy happening, but――"
         },
         {
             "text": "Haa, haa……alright, I won! Just like you \npromised, you're buying the honey drinks……!",
-            "name": "Cheerful Uma Musume"
+            "name": "Cheerful Umamusume"
         },
         {
             "text": "Geh, so you remembered……! Ummmm～, I'm still \nfeeling good now so I'm gonna run another lap～!",
-            "name": "Laid-back Uma Musume"
+            "name": "Laid-back Umamusume"
         },
         {
             "text": "After finishing her run, she started running \nagain. Compared to before, she was running \nlighter than before. ……It was a good run!"
@@ -94,14 +94,14 @@
         },
         {
             "text": "……",
-            "name": "Laid-back Uma Musume",
+            "name": "Laid-back Umamusume",
             "choice_data_list": [
                 "Excuse meー!"
             ]
         },
         {
             "text": "……？ \n…………Huh、you mean me！？",
-            "name": "Laid-back Uma Musume"
+            "name": "Laid-back Umamusume"
         },
         {
             "text": "Are you sure you're talking to the right person? \nI'm not Hishi Amazon-chan or K.S. Miracle-chan, \nI'm Hishi Miracle you know～.",

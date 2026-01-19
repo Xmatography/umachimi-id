@@ -119,7 +119,7 @@
             "name": "Mejiro Dober"
         },
         {
-            "text": "To show everyone that I, as a Mejiro Uma Musume, \nam just as outstanding as them. But……!",
+            "text": "To show everyone that I, as a Mejiro Umamusume, \nam just as outstanding as them. But……!",
             "name": "Mejiro Dober"
         },
         {
@@ -189,8 +189,8 @@
             "text": "……What? Now that you've replaced Trainer, I'll \nget stronger, are you saying it'll be fine? \nThere's no way I can suddenly believe――!",
             "name": "Mejiro Dober",
             "choice_data_list": [
-                "<size=36>Wrong, you're already a strong Uma Musume!</size>",
-                "<size=36>Wrong, you're already a strong Uma Musume!</size>"
+                "<size=36>Wrong, you're already a strong Umamusume!</size>",
+                "<size=36>Wrong, you're already a strong Umamusume!</size>"
             ]
         },
         {
@@ -236,15 +236,15 @@
         {
             "text": "Even now that's true. Mejiro Dober is continuing \nto fight on, even if she has to do it alone. 『Race \nand win』 ――always aiming for that.",
             "choice_data_list": [
-                "<size=31>An Uma Musume who doesn't give up, can't be weak</size>"
+                "<size=31>An Umamusume who doesn't give up, can't be weak</size>"
             ]
         },
         {
             "text": "……!!",
             "name": "Mejiro Dober",
             "choice_data_list": [
-                "<size=41>\"Mejiro Dober\" is a strong Uma Musume</size>",
-                "<size=41>\"Mejiro Dober\" is a strong Uma Musume</size>"
+                "<size=41>\"Mejiro Dober\" is a strong Umamusume</size>",
+                "<size=41>\"Mejiro Dober\" is a strong Umamusume</size>"
             ]
         },
         {
@@ -256,7 +256,7 @@
             ]
         },
         {
-            "text": "Mejiro Dober is a strong Uma Musume, even on her own. But \nstill…… if she ever needs my support, I hope she'll come to me."
+            "text": "Mejiro Dober is a strong Umamusume, even on her own. But \nstill…… if she ever needs my support, I hope she'll come to me."
         },
         {
             "text": "As she ran off, I called out like that with all I could muster."

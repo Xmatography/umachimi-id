@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "『A place where the dreams of many Uma Musume \nlies, The Twinkle Series! Just who will be the \none to leave their name at that summit――!』",
+            "text": "『A place where the dreams of many Umamusume \nlies, The Twinkle Series! Just who will be the \none to leave their name at that summit――!』",
             "name": "Television"
         },
         {
@@ -10,7 +10,7 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "Amazing, amazing! Those Uma Musume are so fast! \nThey go whoosh just like the wind!",
+            "text": "Amazing, amazing! Those Umamusume are so fast! \nThey go whoosh just like the wind!",
             "name": "Laid-back Girl"
         },
         {
@@ -34,8 +34,8 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "What's my dream, is it? Of course, it's to win races! If they're \nan Uma Musume, then I think they'd all say the same thing.",
-            "name": "Scout-seeking Uma Musume",
+            "text": "What's my dream, is it? Of course, it's to win races! If they're \nan Umamusume, then I think they'd all say the same thing.",
+            "name": "Scout-seeking Umamusume",
             "choice_data_list": [
                 "Then――"
             ]
@@ -44,14 +44,14 @@
             "text": "Let's aim for the top together."
         },
         {
-            "text": "My dream is to guide an Uma Musume to win G1s and \ndefeat famous Uma Musume from around the world――",
+            "text": "My dream is to guide an Umamusume to win G1s and \ndefeat famous Umamusume from around the world――",
             "choice_data_list": [
                 "I want to be that kind of Trainer"
             ]
         },
         {
             "text": "I see, I guess a Trainer would have that kind of dream. You're \nfree to have big dreams like that. Let's both do our best! See ya!",
-            "name": "Scout-seeking Uma Musume"
+            "name": "Scout-seeking Umamusume"
         },
         {
             "text": "……I had intended to scout her, but, \nit seems she didn't think I was serious.",
@@ -99,20 +99,20 @@
         },
         {
             "text": "S-so cool~……! So this is what a real run feels like…… \nUm, can I talk to you too……",
-            "name": "Nervous-looking Uma Musume"
+            "name": "Nervous-looking Umamusume"
         },
         {
-            "text": "She noticed the commotion and turned to look. \nThere, there were many trainers and Uma Musume, and――"
+            "text": "She noticed the commotion and turned to look. \nThere, there were many trainers and Umamusume, and――"
         },
         {
             "text": "……Huu. Sorry, I haven't run enough yet. \nI feel bad, but it'll have to wait for next time. See ya.",
             "name": "Mr. C.B."
         },
         {
-            "text": "That Uma Musume retreated from the people around her \nand kept running on the course. Judging by their \nattention, she must be an Uma Musume of some acclaim."
+            "text": "That Umamusume retreated from the people around her \nand kept running on the course. Judging by their \nattention, she must be an Umamusume of some acclaim."
         },
         {
-            "text": "But, for me――I turned my gaze back towards the earlier Uma Musume. \nBut she wasn't there anymore……"
+            "text": "But, for me――I turned my gaze back towards the earlier Umamusume. \nBut she wasn't there anymore……"
         },
         {
             "text": "Haa, haa, haa……!",
@@ -155,10 +155,10 @@
         },
         {
             "text": "Amazing……C.B.ーsan, it's like she's cutting through the wind…… \nKatsuragi Ace-san can't keep up!",
-            "name": "Nervous-looking Uma Musume"
+            "name": "Nervous-looking Umamusume"
         },
         {
-            "text": "It was a run almost like a real race. \nBut only one Uma Musume was the center of attention――"
+            "text": "It was a run almost like a real race. \nBut only one Umamusume was the center of attention――"
         },
         {
             "text": "The was a wonderful run! Mr. C.B., please let me be the one \nto instruct you! With me, you'll be on the road to victory!",
@@ -170,7 +170,7 @@
         },
         {
             "text": "Ah, C.B.ーsan!",
-            "name": "Nervous-looking Uma Musume"
+            "name": "Nervous-looking Umamusume"
         },
         {
             "text": "Everyone that had gathered followed after \nMr. C.B. and left. And then――"

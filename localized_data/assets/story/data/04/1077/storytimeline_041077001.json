@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It had been a few days since I had become a \nPro Trainer at Tracen Academy. Today, too, \nI hadn't found an Uma Musume to be in charge of."
+            "text": "It had been a few days since I had become a \nPro Trainer at Tracen Academy. Today, too, \nI hadn't found an Umamusume to be in charge of."
         },
         {
             "text": "If you slouch like that, won't it make the other party uneasy? \nIt's fine if you have more self-confidence.",
@@ -15,7 +15,7 @@
             "text": "The former trainer who has been mentoring me since I \nstarted aiming to be a Pro Trainer, tried consoling me."
         },
         {
-            "text": "You've been saying it for a long time, that you want \nto help an Uma Musume aim for their dream, right? \nThat's why I've had such high expetations of you.",
+            "text": "You've been saying it for a long time, that you want \nto help an Umamusume aim for their dream, right? \nThat's why I've had such high expetations of you.",
             "name": "Sensei"
         },
         {
@@ -30,7 +30,7 @@
         },
         {
             "text": "Thanks alot, Top Ro-senpai! I really admire senpai's straight-\nforward running……I'm sorry for asking something unreasonable!",
-            "name": "Kouhai Uma Musume"
+            "name": "Kouhai Umamusume"
         },
         {
             "text": "It's fine! I'm not sure if there's really anything you can learn \nfrom my running……but I'll show you as many times as you want.",
@@ -62,7 +62,7 @@
         },
         {
             "text": "Eeh, eeh……that means we'll get to see all 3 of you run!? \nThank you very much! I'm looking forward to it.",
-            "name": "Kouhai Uma Musume"
+            "name": "Kouhai Umamusume"
         },
         {
             "text": "Like I said, don't――",
@@ -95,7 +95,7 @@
             ]
         },
         {
-            "text": "These 3 were all Uma Musume at the academy that were \nthe center of many rumors. Narita Top Road and Admire \nVega, especially, were getting alot of attention.",
+            "text": "These 3 were all Umamusume at the academy that were \nthe center of many rumors. Narita Top Road and Admire \nVega, especially, were getting alot of attention.",
             "choice_data_list": [
                 "――Start!"
             ]
@@ -163,8 +163,8 @@
         {
             "text": "But, I should be sincere and tell her \nstraight-forwardly, just like her run.",
             "choice_data_list": [
-                "I'm looking to scout an Uma Musume",
-                "I'm looking to scout an Uma Musume"
+                "I'm looking to scout an Umamusume",
+                "I'm looking to scout an Umamusume"
             ]
         },
         {
@@ -210,7 +210,7 @@
             "name": "Narita Top Road"
         },
         {
-            "text": "If there are Uma Musume that view me as a rival, then I \nwant to be able to run in a way that won't disappoint them.",
+            "text": "If there are Umamusume that view me as a rival, then I \nwant to be able to run in a way that won't disappoint them.",
             "name": "Narita Top Road"
         },
         {

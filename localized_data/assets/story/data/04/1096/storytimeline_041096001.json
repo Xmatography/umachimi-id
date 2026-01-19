@@ -1,5 +1,5 @@
 {
-  "title": "Supporting the Warlord Uma Musume!",
+  "title": "Supporting the Warlord Umamusume!",
   "text_block_list": [
     {
       "name": "No Reason",
@@ -10,10 +10,10 @@
       "text": "History is written by the victors. And if I win… All that lies beneath the Heavens, will be mine! And then, my name, my way of life— It will be left for future generations to come!"
     },
     {
-      "text": "—I ended up having to go on a business trip, at the behest of my senior. Since I wasn't in charge of any uma musume myself, I've ended up in this situation too often.",
+      "text": "—I ended up having to go on a business trip, at the behest of my senior. Since I wasn't in charge of any Umamusume myself, I've ended up in this situation too often.",
       "choice_data_list": [
-        "I need to scout an uma musume soon…",
-        "I need to scout an uma musume soon…"
+        "I need to scout an Umamusume soon…",
+        "I need to scout an Umamusume soon…"
       ]
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "name": "Chairman Akikawa",
-      "text": "Indeed! You should know that the URA supports any traditional festivities relating to uma musumes. This is a part of that."
+      "text": "Indeed! You should know that the URA supports any traditional festivities relating to Umamusumes. This is a part of that."
     },
     {
       "name": "Chairman Akikawa",
@@ -39,7 +39,7 @@
       "name": "Hayakawa Tazuna",
       "text": "She really wanted to take part in this event so she volunteered. She has gone ahead to help with preparations, so please meet her at the site.",
       "choice_data_list": [
-        "What kind of uma musume is she?"
+        "What kind of Umamusume is she?"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "text": "— There she is."
     },
     {
-      "text": "There was only one uma musume who spoke like a warlord. The other participants were speaking normally. I was certain she's the only one who could match that characteristic.",
+      "text": "There was only one Umamusume who spoke like a warlord. The other participants were speaking normally. I was certain she's the only one who could match that characteristic.",
       "choice_data_list": [
         "Are you No Reason?",
         "Are you No Reason?"
@@ -94,8 +94,8 @@
       "text": "Verily, it does look like one doesn't it! I too will be partaking in the scramble! I'm very excited!"
     },
     {
-      "name": "Yellow Flag Uma Musume",
-      "text": "There you are, No Reason. Our group's uma musume are gathering on the other side, so follow me."
+      "name": "Yellow Flag Umamusume",
+      "text": "There you are, No Reason. Our group's Umamusume are gathering on the other side, so follow me."
     },
     {
       "name": "No Reason",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "name": "Yellow Flag Uma Musume",
+      "name": "Yellow Flag Umamusume",
       "text": "Thank you for helping! So you're going to be recording the \"Scramble\"? If that's the case, make sure not to just focus on the banners, but record the entirety of the battle! Ufu",
       "choice_data_list": [
         "Record everything… got it, I'll do that."
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "text": "No Reason fell and tumbled forward in a spectacular fashion. At that moment, another uma musume came from behind and leisurely picked up the banner."
+      "text": "No Reason fell and tumbled forward in a spectacular fashion. At that moment, another Umamusume came from behind and leisurely picked up the banner."
     },
     {
       "name": "No Reason",
@@ -165,7 +165,7 @@
       "text": "Oh, the wind is much stronger now. \nTaking that into account… it'll land towards the southwest!"
     },
     {
-      "name": "Enemy Uma Musume",
+      "name": "Enemy Umamusume",
       "text": "If it'll land there, then I'm much closer! Here I go! \nUoooooooh!"
     },
     {
@@ -173,7 +173,7 @@
       "text": "Wha- what the heck!?"
     },
     {
-      "name": "Enemy Uma Musume",
+      "name": "Enemy Umamusume",
       "text": "We won't let you get any closer! \nEveryone! Prepare to stop her! That banner will be ours!"
     },
     {
@@ -188,13 +188,13 @@
       ]
     },
     {
-      "text": "Every time she'd call out the spot where the banner would fall, she'd get surrounded by other uma musumes, which allowed someone to take the banners with ease."
+      "text": "Every time she'd call out the spot where the banner would fall, she'd get surrounded by other Umamusumes, which allowed someone to take the banners with ease."
     },
     {
       "text": "So far, she hasn't been able to get a single banner… \nAnd then the final firework was launched."
     },
     {
-      "name": "Enemy Uma Musume",
+      "name": "Enemy Umamusume",
       "text": "Fufufu, too bad for you! You can't get past us. This is where you meet your end!"
     },
     {
@@ -217,11 +217,11 @@
       "text": "Toryaaaaaa! That last banner… is mine!!!!"
     },
     {
-      "name": "Yellow Flag Uma Musume",
+      "name": "Yellow Flag Umamusume",
       "text": "Yo, good job today! Man～, we did great today, didn't we? Look at them, they managed to get 3 banners."
     },
     {
-      "name": "Allied Uma Musume",
+      "name": "Allied Umamusume",
       "text": "Ehehe～, My first time participating and I managed to get 3 banners! I'm su～per happy!"
     },
     {

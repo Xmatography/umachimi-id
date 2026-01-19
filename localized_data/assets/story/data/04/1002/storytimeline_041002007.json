@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Summer training camp is held for the sake of improving the \nabilities of Uma Musume. Silence Suzuka is also working hard \nwith the same goal in mind."
+            "text": "Summer training camp is held for the sake of improving the \nabilities of Umamusume. Silence Suzuka is also working hard \nwith the same goal in mind."
         },
         {
             "text": "There's only a few days left of training camp…",
@@ -103,11 +103,11 @@
         },
         {
             "text": "First up, it's swimming in the open ocean! It may look calm, but \nswimming against the waves is a daunting endeavor!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \nit's on the turf, or in the ocean, she won't give up the lead!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "Suzuka-senpai is awesome!",
@@ -125,11 +125,11 @@
         },
         {
             "text": "We're finally at the Triathalon's finale! \nSilence Suzuka-san is still in the lead!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "However! Since she's been running full speed until now, she's \ngreatly slowed down! The followers are catching up!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "…Haa… haa… ku…!",
@@ -165,15 +165,15 @@
         },
         {
             "text": "Oh! Silence Suzuka-san once again increases her speed!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "The others can't catch up! She's completely running away!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "And just like that she keeps her lead, now - GOAL! The \nTriathalon's winner is Silence Suzuka-san!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Umamusume"
         },
         {
             "text": "(WHOOOOOOOOOA!!!)",

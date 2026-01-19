@@ -2,10 +2,10 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "That Uma Musume's course……could be called a long, long \"journey\". \nEverything I remember about her seems to shine just like gold――"
+            "text": "That Umamusume's course……could be called a long, long \"journey\". \nEverything I remember about her seems to shine just like gold――"
         },
         {
-            "text": "Every one of the Uma Musume she competed with were \ntruly talented and awe-inspiring. Her peers, her \nsenpais, and her kouhais……she just kept chasing after them."
+            "text": "Every one of the Umamusume she competed with were \ntruly talented and awe-inspiring. Her peers, her \nsenpais, and her kouhais……she just kept chasing after them."
         },
         {
             "text": "Without ever giving up, she continued her racing journey, \nseeking victory. Going as far as it would take her……and then――"
@@ -14,16 +14,16 @@
             "text": "Eventually, she obtained it for herself……finally \nobtaining a golden victory for herself. And then, in \nsearch of a new scenery, she set out on her next journey……"
         },
         {
-            "text": "From that day forward, I had decided on my dream. As a trainer, \nI wanted to raise an \"unforgettable\" Uma Musume just like her――",
+            "text": "From that day forward, I had decided on my dream. As a trainer, \nI wanted to raise an \"unforgettable\" Umamusume just like her――",
             "choice_data_list": [
                 "(――Or at least that's what I had hoped…….)"
             ]
         },
         {
-            "text": "I was still green and wasn't training an Uma Musume \nyet. My current situation was that whenever I tried \nto scout a girl that had potential, I was rejected."
+            "text": "I was still green and wasn't training an Umamusume \nyet. My current situation was that whenever I tried \nto scout a girl that had potential, I was rejected."
         },
         {
-            "text": "But that just meant I had to stay positive and work \nhard to be reliable. When I went to the library to \ndo some studying――one Uma Musume caught my attention.",
+            "text": "But that just meant I had to stay positive and work \nhard to be reliable. When I went to the library to \ndo some studying――one Umamusume caught my attention.",
             "choice_data_list": [
                 "(That girl……is very petite)"
             ]
@@ -95,7 +95,7 @@
         },
         {
             "name": "Dream Journey",
-            "text": "Expeditions are just a part of daily life for Uma Musume…… \nso it's quite important. I consider our mission to be to \nfully support everyone on their journey.",
+            "text": "Expeditions are just a part of daily life for Umamusume…… \nso it's quite important. I consider our mission to be to \nfully support everyone on their journey.",
             "choice_data_list": [
                 "(She's a really serious girl……)"
             ]
@@ -105,13 +105,13 @@
         },
         {
             "name": "Dream Journey",
-            "text": "Trainer-san, next time, bring your Uma Musume with you. \nWhatever it may be, I'd be happy to help.",
+            "text": "Trainer-san, next time, bring your Umamusume with you. \nWhatever it may be, I'd be happy to help.",
             "choice_data_list": [
                 "No, I don't have one yet……but"
             ]
         },
         {
-            "text": "I was planning to go talk to a certain Uma Musume \ntomorrow. Although I was anxious, it was still \npossible I could form a contract this time."
+            "text": "I was planning to go talk to a certain Umamusume \ntomorrow. Although I was anxious, it was still \npossible I could form a contract this time."
         },
         {
             "name": "Dream Journey",
@@ -186,7 +186,7 @@
             ]
         },
         {
-            "text": "The Uma Musume I had been cheering for also had a \nsmall build. Even then she raced hard and won big.",
+            "text": "The Umamusume I had been cheering for also had a \nsmall build. Even then she raced hard and won big.",
             "choice_data_list": [
                 "(Wait, she kind of looks like……――)"
             ]
@@ -211,18 +211,18 @@
         },
         {
             "name": "Dream Journey",
-            "text": "A contract between an Uma Musume needs to be formed. It's an \nimportant contract for the sake of running in the Twinkle series……"
+            "text": "A contract between an Umamusume needs to be formed. It's an \nimportant contract for the sake of running in the Twinkle series……"
         },
         {
             "name": "Dream Journey",
-            "text": "That an outstanding trainer like yourself still doesn't \nhave an Uma Musume then……it must be because you're \ncarefully scrutinizing who to make a contract with.",
+            "text": "That an outstanding trainer like yourself still doesn't \nhave an Umamusume then……it must be because you're \ncarefully scrutinizing who to make a contract with.",
             "choice_data_list": [
                 "N-no……that's not……"
             ]
         },
         {
             "name": "Dream Journey",
-            "text": "But, you having to spend that precious time on me……weighs on me. \n……For an Uma Musume like me that noone has any expectations for……",
+            "text": "But, you having to spend that precious time on me……weighs on me. \n……For an Umamusume like me that noone has any expectations for……",
             "choice_data_list": [
                 "……!"
             ]

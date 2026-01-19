@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――Mejiro Ramonu was going to run. Many trainers \nand Uma Musume had gathered in the spectator \nseats to just get a glimpse. Among those――"
+            "text": "――Mejiro Ramonu was going to run. Many trainers \nand Umamusume had gathered in the spectator \nseats to just get a glimpse. Among those――"
         },
         {
             "text": "I'm really looking forward to Ramonu's mock race…… \nBut, doesn't it seem like this was really sudden?",
@@ -25,11 +25,11 @@
         },
         {
             "text": "Uuuu, why is Ramonu-san……I hadn't heard about this!",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "Just her aura is scary……just when we had the chance to run \nin front of a bunch of people……it might be impossible.",
-            "name": "Uma Musume B",
+            "name": "Umamusume B",
             "choice_data_list": [
                 "(They all seemed demoralized……)"
             ]
@@ -47,7 +47,7 @@
         },
         {
             "text": "Eh……？",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "I want to race. However……if it's like this, \nit'll just end up being one-sided.",
@@ -59,14 +59,14 @@
         },
         {
             "text": "Hiii……!",
-            "name": "Uma Musume"
+            "name": "Umamusume"
         },
         {
-            "text": "The Uma Musume were even more intimidated by Ramonu's \nprovocative words…… However, from among them――"
+            "text": "The Umamusume were even more intimidated by Ramonu's \nprovocative words…… However, from among them――"
         },
         {
             "text": "……! Just saying whatever you want……! \nFine, that arrogant attitude…… I'll crush you!",
-            "name": "Uma Musume C"
+            "name": "Umamusume C"
         },
         {
             "text": "……Fufu. You're wonderful――",
@@ -98,7 +98,7 @@
         },
         {
             "text": "Kuuu…… reach her……! \nI don't want to lose……! Aaaahhhhhh!",
-            "name": "Uma Musume C"
+            "name": "Umamusume C"
         },
         {
             "text": "――Aahh……perfect. Yes, this is it…… \nFufuu…… Ahahahaa……!!",
@@ -119,7 +119,7 @@
             "text": "The noise of the crowd sounded far away, drowned out \nby the beating of my own heart…… just like that time――"
         },
         {
-            "text": "――When Symboli Rudolf became an Undefeated Triple Crown \nUma Musume…… No, even more so than any other race before.",
+            "text": "――When Symboli Rudolf became an Undefeated Triple Crown \nUmamusume…… No, even more so than any other race before.",
             "choice_data_list": [
                 "……It has to be her"
             ]
