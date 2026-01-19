@@ -1,23 +1,24 @@
 ## 🌸 UmaChimiID ( Hachimi Bahasa Indonesia + Local Slang ) 🇮🇩
-Selamat datang di repositori **Umachimi**! 🎉  
-Di sini kamu bisa kontribusi berbagai hal seputar **terjemahan, resource, dan dokumentasi** untuk project Hachimi versi Indonesia.
+Selamat datang di repositori **Umachimi**! 🎉
 
----
+Umachimi adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda dengan terjemahan Bahasa Indonesia. 
+
+<center><img src="docs\built-in-gui.webp" width="30%" />  .  <img src="docs\screen1.webp" width="30%" /></center>
 
 ## 📑 Daftar Isi
-- 📌 [Tentang Proyek](#-tentang-proyek)  
-- 🚀 [Fitur Utama](#-fitur-utama)  
+- 📌 [Tentang Proyek](#-tentang-proyek)
+- 🚀 [Fitur Utama](#-fitur-utama)
+- ▶️ [Instalasi](#️-instalasi)
 - 📂 [Struktur Direktori](#-struktur-direktori)     
 - 🤝 [Kontribusi](#-kontribusi)
 
----
 
 ## 📌 Tentang Proyek
-Proyek ini bertujuan untuk menyediakan **versi Indonesia dan daerah** dari berbagai konten di [Hachimi](https://hachimi.leadrdrk.com/).  
-Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem, hingga detail lain dalam bahasa yang lebih familiar 🇮🇩✨.  
+Proyek ini bertujuan untuk menyediakan **versi Indonesia dan daerah** dari berbagai konten di Hachimi.  
+Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem, hingga detail lain dalam bahasa yang lebih familiar 🇮🇩✨.
+
 Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Status Translasi](https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi) dan [Discord Server](https://discord.gg/4zvW4VhrYV)
 
----
 
 ## 🚀 Fitur Utama
 ✨ **Terjemahan Lengkap**: UI, skill, dan deskripsi  
@@ -25,7 +26,14 @@ Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Stat
 🔍 **Optimisasi Nama**: Supaya lebih gampang dikenali  
 ⚡ **Update Berkala**: Menyesuaikan versi terbaru  
 
----
+
+## ▶️ Instalasi
+- Unduh dan pasang [Hachimi Edge](https://hachimi.noccu.art/id/) (PC & Android) kemudian ikuti langkah-langkah instalasinya [disini](https://hachimi.noccu.art/id/docs/hachimi/getting-started). 
+
+(*Note: Hachimi versi lama sudah tidak didukung, jadi gunakanlah Hachimi Edge).
+- Buka menu `Setup Pertama Kali` kemudian pilih repositori Bahasa Indonesia.
+- Enjoy 🎉
+
 
 ## 📂 Struktur Direktori
 ```
@@ -42,25 +50,16 @@ Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Stat
  ┣ 📜 text_data_dict.json                   # Berkas dictionary teks komentator lomba
 ```
 
----
-
----
-
-*(lihat changelog lengkap di [Release Notes](./CHANGELOG.md))*  
-
----
 
 ## 🤝 Kontribusi
-Kami terbuka untuk kontribusi! 🙌  
+Kami sangat terbuka untuk kamu yang ingin join kontribusi! 🙌  
 Kamu bisa bantu lewat:
 - Koreksi terjemahan 📝  
 - Tambah dokumentasi 📚  
 - Memasukkan bahasa daerah 🎨  
 
-Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)  
+Untuk selengkapnya baca tutorial kontribusi di [Wiki](/wiki) dan [Panduan Translasi](https://hachimi.noccu.art/id/docs/translation-guide/welcome) atau join [Discord Komunitas](https://discord.gg/4zvW4VhrYV)
 
-
----
 ## Kontributor Utama
 
 <a href="https://github.com/Xmatography/umachimi-id/graphs/contributors">

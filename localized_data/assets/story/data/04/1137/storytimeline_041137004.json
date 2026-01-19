@@ -1,0 +1,236 @@
+{
+    "title": "Kiseki Step",
+    "text_block_list": [
+        {
+            "name": "Narator",
+            "text": "Lanjutkan Cerita Kemarin ! : Di tengah bimbingan dari berbagai trainer,Kiseki diminta mempertimbangkan kembali strateginya oleh trainer yang dekat dengannya."
+        },
+        {
+            "name": "Narator ",
+            "text": "Tapi itu karena dia percaya bahwa Kiseki 'bisa menciptakan sesuatu yang menarik'.Lalu di hari hujan deras itu, Keajaiban menemukan ide brilian—\n\n"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kini, beberapa minggu kemudian.\nKiseki pun bersemangat dengan ide yang mereka ciptakan bersama"
+        },
+        {
+            "text": "Kini, beberapa minggu kemudian.\nKiseki pun bersemangat dengan ide yang mereka ciptakan bersama",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "...~, Traineeeer!!"
+        },
+        {
+            "text": "Lalu tiba hari balapan simulasi, pertandingan balas dendam."
+        },
+        {
+            "name": "Trainner Akademi",
+            "text": "Kenapa dong, aku ditolak Keajaiban!?\nKalau di bidang yang dia kuasai, aku juga bisa bantu asah skillnya! Tapi—!"
+        },
+        {
+            "name": "Senior",
+            "text": "Ya, itu keputusan Kiseki. ...Hei, trainer muda?\nKamu pasti punya ide untuk membuatnya menang yang tidak kami punya, kan?",
+            "choice_data_list": [
+                "Ya, kami yakin begitu.",
+                "Ya, kami yakin begitu."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "E, Trainer! Boleh minta waktu strategi terakhir nggak?\nItu, sebentar aja! Cuma 2 panel, kok!",
+            "choice_data_list": [
+                "Ah, tentu. Mari redakan ketegangan bersama.",
+                "Ah, tentu. Mari redakan ketegangan bersama."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Huu~... haa~...... Yuk kita pastikan lagi.\nDi hari hujan deras itu, kamu puji tekad dan staminaku"
+        },
+        {
+            "name": "Kiseki",
+            "choice_data_list": [
+                "Eh ....",
+                "Eh ..."
+            ],
+            "text": "Dan berkat ucapanmu itu, aku memutuskan untuk menyiapkan—\nide terkuat yang baru. Sampai di situ nggak salah kan ?"
+        },
+        {
+            "name": "Kiseki",
+            "text": ".Hari ini aku akan menghadapi lawan yang super kuat."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sama seperti sebelumnya, ada Satono Crown, Satono Diamond.\nDan... kakaknya Vibrose, Schwarzer Kran."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Bahkan menghadapi lawan yang menyimpan kekuatan sehebat itu.\nAku akan—",
+            "choice_data_list": [
+                "Menciptakan balapan paling seru, dan menang."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya! Pemenang baru layak jadi tokoh utama!\nApa yang akan terjadi selanjutnya... tungguin aja dengan semangat!"
+        },
+        {
+            "name": "Senior",
+            "text": "Rapat strategi selesai ya. ...Saat menonton balapan sebelumnya, yang kurasa kurang dari Kiseki adalah cara dia menyimpan tenaga dan ketajaman untuk mencolok ."
+        },
+        {
+            "name": "Senior",
+            "text": "Apakah kamu bisa mengajarinya dasar-dasar yang cukup untuk mengatasi itu?",
+            "choice_data_list": [
+                "Tidak. Terkadang hal menarik harus beda!~"
+            ]
+        },
+        {
+            "text": "...Hah? Maksudnya—\"\n\"Balapannya udah mulai! Nah , Kiseki --!",
+            "name": "Para Trainner"
+        },
+        {
+            "name": "Para Trainner",
+            "text": "Hah!? Dia jadi 'front runner'!?"
+        },
+        {
+            "text": "Lari di depan dengan kecepatan tinggi, strategi 'front running' yang kuat.Inilah ide cemerlangnya... alur cerita yang seru."
+        },
+        {
+            "name": "Trainner Akademi",
+            "text": "Nggak, nggak mungkin! Keajaiban tahan?\nStrategi 'front running' kayak gitu, nggak pernah sekalipun dalam latihan...!",
+            "choice_data_list": [
+                "..Ini alur yang bikin deg-degan banget ya."
+            ]
+        },
+        {
+            "name": "Trainner Akademi",
+            "text": "Iya, itu bikin deg-degan banget! Eh tunggu!\nJadi arahanmu adalah mengubah Keajaiban jadi 'front runner'!?",
+            "choice_data_list": [
+                "Tidak, performa bisa berubah setiap balapan."
+            ]
+        },
+        {
+            "text": "Yang Kiseki cari adalah gaya lari yang bikin balapan itu paling seru.Dan meraih kemenangan di balapan yang seru itu—menjadi tokoh utama."
+        },
+        {
+            "text": "Makanya ini adalah gaya lari khusus untuk satu-satunya balapan simulasi ini.Gaya lari untuk kemenangannya yang dia anggap paling seru."
+        },
+        {
+            "name": "Trainner Akademi",
+            "text": "..Itu, itu konyol! Prinsip menang dalam balapan adalah Umamusume memantapkan jalan kemenangannya sendiri! Tapi...—!"
+        },
+        {
+            "name": "Trainner Akademi",
+            "text": "Dengan gaya lari yang benar-benar berbeda dari sebelumnya, apa bisa menang...?Hal seperti itu... —, kalau 'kemungkinan tak terduga' seperti itu bisa terwujud...!",
+            "choice_data_list": [
+                "Ya! Gaya lari bikin ga bisa berhenti nonton!"
+            ]
+        },
+        {
+            "text": "Bersama para trainer yang terpaku pada gaya larinya di tribun penonton,aku mengawasi Kiseki. Dia yang terus melaju sendirian dengan nekat melawan rival-rival kuat."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah... hah... ——... Masih! Masih belum cukup!!"
+        },
+        {
+            "text": "Gaya larinya itu juga berdampak sebagai langkah tak terduga bagi Uma Musume di belakang.\nSemua memperhatikan punggungnya. Semua, kepadanya—",
+            "choice_data_list": [
+                "Gas . Kiseki!!",
+                "Gas . Kiseki!!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "\"—!!\""
+        },
+        {
+            "name": "Kiseki",
+            "text": "Trainer, pasti kamu...\nantusias lagi nonton lari aku, kan?"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Soalnya aku sendiri juga deg-degan banget!\nNggak bisa berhenti, nggak mau berhenti! Terus aja kayak gini—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Menang ! Menang !",
+            "choice_data_list": [
+                "(Menang!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "...Menang...!!",
+            "choice_data_list": [
+                "(Bisa menang!!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "AKU HARUS MENAAAAAAANG——!",
+            "choice_data_list": [
+                "MENAAAANG! KISEKI !!~"
+            ]
+        },
+        {
+            "text": "Dan Kiseki ----"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah... hah...!\n...—Eh, Trainer...!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Aku, juara dua............!!"
+        },
+        {
+            "text": "Escape Kiseki akhirnya disalip di lintasan lurus terakhir.\n...Dia tak mencapai kemenangan."
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Tapi, tapiii! Dibanding balapan simulasi sebelumnya,\naku lebih semangat, lariku lebih greget, dan ngerasa top banget!"
+        },
+        {
+            "text": "..Tapi, tapiii! Dibanding balapan simulasi sebelumnya,\naku lebih semangat, lariku lebih greget, dan ngerasa top banget!",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "choice_data_list": [
+                "Kiseki.....!"
+            ],
+            "text": "Aku pengen menang bareng Berdua Sama kamu...!"
+        },
+        {
+            "name": "Kiseki",
+            "choice_data_list": [
+                "Kiseki ! Mau Ga jadi Pasanganku ?!",
+                "Kiseki ! Mau Ga jadi Pasangan aku ?!"
+            ],
+            "text": "…Waktu kamu perhatiin, aku juga senang kok!\nTapi bikin strategi bareng kamu juga seru banget! Makanya—!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "----!!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "...dan aku menggenggam tanganmu."
+        },
+        {
+            "name": "Kiseki",
+            "text": "---- ini adalah \" My And Your Kisah \"."
+        },
+        {
+            "name": "Kiseki",
+            "text": "あたしとあなたが、創るのは――"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Super seru dan super membara.\nLayaknya komik—kisah Kiseki"
+        }
+    ]
+}

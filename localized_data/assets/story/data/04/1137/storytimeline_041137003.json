@@ -1,0 +1,256 @@
+{
+    "title": "Canter × Canter",
+    "text_block_list": [
+        {
+            "name": "Narasi",
+            "text": "Lanjut Cerita Yang Kemarin : Setelah kalah dari rival kuat, Keajaiban ingin kembali menantang mereka di balapan simulasi dan berhasil mendapat janji pertandingan ulang."
+        },
+        {
+            "name": "Narasi",
+            "text": "Kiseki Bersumpah Kali ini dia pasti akan menciptakan balapan seru dan menang! Dan ternyata, apa yang terjadi!? Tiga orang trainer menawarkan bantuan mereka!"
+        },
+        {
+            "name": "Trainner Senior",
+            "text": "Kiseki , semangat belajarmu benar-benar luar biasa. Tapi posisi tubuh dan akselerasimu masih belum punya dasar yang kuat. Mari kita perbaiki itu! Kamu punya potensi besar!"
+        },
+        {
+            "name": "Trainner Pemula",
+            "text": "Ayo, lari dengan bebas! Semangat dan kreativitasmu akan kujaga! Justru otonomi itulah senjatamu yang paling berharga!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah, hah... Trainer, ini rasanya kayak episode latihan di komik ya!?Kayaknya kemampuan  naik 50.000 poin nih"
+        },
+        {
+            "text": "Memang, Keajaiban sangat bersemangat dengan situasi ini,\ntapi sebagai seorang trainer, perasaanku agak rumit.",
+            "choice_data_list": [
+                "Ini adalah \"pertarungan\" dari sisi trainer"
+            ]
+        },
+        {
+            "text": "Menghadapi Uma Musume menarik seperti Kiseki, bagaimana caraku menunjukkan bahwa'aku adalah trainer yang bisa membimbingnya ke mimpinya?",
+            "choice_data_list": [
+                "(Tak kusangka akan jadi situasi seperti ini...!)"
+            ]
+        },
+        {
+            "text": "Tapi karena aku sudah jatuh cinta dengan gaya larinya, aku tidak boleh kalah.",
+            "choice_data_list": [
+                "(Aku juga akan bantu dengan sepenuh hati!!)",
+                "(Aku juga akan bantu dengan sepenuh hati!!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Dan, ini dia teknik rahasia baruku! Namanya 'Penghindaran Gaya Sentrifugal'!! Pas masuk tikungan, pegang pagar dalam, lalu belok dengan kencang!",
+            "choice_data_list": [
+                "Hmm, oh begitu!....."
+            ]
+        },
+        {
+            "text": "Strategi menyentuh pagar dalam mungkin sulit dari segi keamanan dan peraturan.Tapi sudut pandangnya yang fokus pada pemberian memang menarik. Kalau begitu...—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "...? Trainer ?",
+            "choice_data_list": [
+                "Kenapa Kiseki Bisa kepikiran ide itu",
+                "Kenapa Kiseki Bisa kepikiran ide itu"
+            ]
+        },
+        {
+            "text": "Aku liat di komik balap mobil! Di balapan, kecepatan di tikungan\nsama pentingnya kayak kecepatan maksimum di lintasan lurus! Makanya—",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah? ...Ah, iya juga! Strategi ini\nnggak bakal jalan kalau nggak bisa dapet posisi deket pagar dalam. Gagal deh!",
+            "choice_data_list": [
+                "Nggak, bukan cuma mau nolak aja!"
+            ]
+        },
+        {
+            "text": "Kuminta berhenti pada jawaban yang terlalu sederhana. Dia punya banyak ide baru satu per satu,mungkin karena dia tidak ragu membuang ide yang kurang tepat.",
+            "choice_data_list": [
+                "(Tapi kalau mau bikin idenya makin seru...!)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "...? Hari ini trainer rasanya agak ragu.\nTerus aja nyilangin tangan.",
+            "choice_data_list": [
+                "(Ah, aku cuma pengen serius ngedengerin idemu)",
+                "(Ah, aku cuma pengen serius ngedengerin idemu)"
+            ]
+        },
+        {
+            "text": "Ada sesuatu yang mengganjal. Kalau mau duel akselerasi akhir seperti sebelumnya,biasanya fokusnya ke kecepatan maksimum di lintasan lurus, bukan pemberian."
+        },
+        {
+            "text": "Tapi dia tidak melakukannya. Pasti ada alasannya.\nKalau dia tidak menyadarinya... aku akan bantu merumuskannya, mengubah alam bawah sadarnya menjadi bentuk nyata.",
+            "choice_data_list": [
+                "Coba kembangkan ide itu jadi alternatif lain."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Eh... alternatif lain...?\nHmm... eeeh~...!?",
+            "choice_data_list": [
+                "Kamu pasti bisa nemuin ide yang lebih seru lagi.",
+                "Kamu pasti bisa nemuin ide yang lebih seru lagi."
+            ]
+        },
+        {
+            "name": "Trainer Senior",
+            "text": "Keajaiban, lebih fokus lagi!\nKalau dasar-dasarnya diabaikan, akselerasi akhirmu nggak bakal maksimal!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ah—, iya! Maaf!!~~"
+        },
+        {
+            "text": "..Trainer lain kasih instruksi spesifik.\nSampai aku nggak perlu banyak mikir sendiri. ...Tapi, dia",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Trainner Senior",
+            "text": "Aku ingin Uma Musume lari sesuka hatinya saat balapan.\nMakanya aku nggak kasih instruksi mendetail. Yang mikir harus kamu, Keajaiban"
+        },
+        {
+            "name": "Kiseki",
+            "text": "(Padahal ada orang yang kayak gini, yang nggak ikut campur dan ngasih kebebasan!\nKamu kan dulu cuma pembaca...! Tapi kenapa, aku—)"
+        },
+        {
+            "text": "『Kamu pasti bisa nemuin ide yang lebih seru lagi』"
+        },
+        {
+            "text": "『Kamu pasti bisa nemuin ide yang lebih seru lagi』"
+        },
+        {
+            "name": "Kiseki",
+            "text": "……………….\n~~…………, udah ah—!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sebanyak apa sih ekspektasi kamu!? Kamu ini!!"
+        },
+        {
+            "text": "Malam itu, sketsa komik setebal 48 halaman dari Keajaiban tiba.\nRupanya dia merancang konsep balapannya lewat komik.",
+            "choice_data_list": [
+                "(Ini ditunda, ini dibatalkan...)",
+                "(Ini ditunda, ini dibatalkan...)"
+            ]
+        },
+        {
+            "text": "Beberapa hari setelah memutuskan untuk menghadapinya sepenuh hati. Jujur, kondisiku sekarang.tidak akan aneh kalau tiba-tiba dia memberikan surat \"putus kontrak\"."
+        },
+        {
+            "text": "Kiseki adalah Umamusume Jiwa seniman. Pasti dia ingin mengerjakan karyanya dengan nyaman.Tapi situasi yang membuatnya terjebak seperti ini seharusnya tidak disukainya.\n\n",
+            "choice_data_list": [
+                "Tapi, meski begitu... aku pengen nyelesain ini"
+            ]
+        },
+        {
+            "text": "..Aku ingin dia sepenuhnya menghadapi proses kreatifnya sendiri.Aku mau bantu semampuku. Meski nanti dia jadi benci sama aku—",
+            "choice_data_list": [
+                "Karena kamu pencipta lari terhebat!",
+                "Karena kamu pencipta lari terhebat!"
+            ]
+        },
+        {
+            "text": "(Tik... tik-tik-tik... deras—!)"
+        },
+        {
+            "text": "Akhir pekan. Saat hendak keluar membeli bahan referensi baru untuk Kiseki,tiba-tiba hujan deras datang dan terjebak di luar."
+        },
+        {
+            "text": "Dan hujan makin deras. Perkiraan bahwa hujan akan reda jika ditunggu meleset...Jadwal kereta pun tampaknya kacau balau.\n\n",
+            "choice_data_list": [
+                "(Sial deh... — Hah?)"
+            ]
+        },
+        {
+            "text": "Notifikasi muncul di ponsel.\nSepertinya ini pesan dari Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sekarang ada di mana?\nLampu ruang trainer nyala tadi.'",
+            "choice_data_list": [
+                "Sebenarnya lagi di luar, kehujanan ."
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ah! Ngerti!",
+            "choice_data_list": [
+                "(\"Ngerti\"...?)"
+            ]
+        },
+        {
+            "text": "Terjebak selama beberapa puluh menit. ...Tiba-tiba, terdengar suara langkah kaki yang melesat deras dari suatu tempat.\nDi cuaca seperti ini, ternyata ada orang yang berani juga ya—."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ketemu—aaa, trainee—eeer!!",
+            "choice_data_list": [
+                "Hah, Kiseki!!??"
+            ]
+        },
+        {
+            "text": "Dia berlari menghampiri, tak peduli hujan yang mengguyur tubuhnya.Padahal tadi dia masih bicara soal ruang trainer. Artinya—",
+            "choice_data_list": [
+                "Dia lari dari akademi ke sini!?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah... hah... huu—......\n...Ini!!",
+            "choice_data_list": [
+                "I-ini apa!? Ka-kamu—",
+                "I-ini apa!? Ka-kamu—"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Pertama, liat dulu! Boleh kasih pendapat?\nPagi ini nemu ide yang bikin semangat! Udah nggak sabar nih!"
+        },
+        {
+            "text": "Melepaskan payung dan bahan referensi yang kubawa, aku menerima tablet darinya.\nKaget. Tak kusangka dia akan berlari ke sini—dia benar-benar—",
+            "choice_data_list": [
+                "Sampai Mana Tekad Dan Semangatnya ?!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hehe, mungkin di situ aku agak pede—………………\n………………————Hah!?",
+            "choice_data_list": [
+                "Lah?"
+            ]
+        },
+        {
+            "text": "'...Kenapa Kiseki bisa kepikiran ide itu?'\n'Coba kembangkan ide itu jadi alternatif lain.'\""
+        },
+        {
+            "text": "'...Kenapa Kiseki bisa kepikiran ide itu?'\n'Coba kembangkan ide itu jadi alternatif lain.'"
+        },
+        {
+            "name": "Kiseki",
+            "text": "(——Sebenarnya, kenapa ya dia mikirin tikungan?\nMeski pemberian penting buat akselerasi di lintasan lurus terakhir...)"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Lagian, teknik pemberian kan cuma bisa dipakai buat 'mengejar'!\nTapi kalau dia ngerasa 'Ada peluang menang!' di situ. Itu artinya..!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "—Eh, Trainer! Tetap minta maaf ya!\nItu, sketsa tablet-nya juga tolong diabaikan aja!",
+            "choice_data_list": [
+                "(Hehh, kenapa!?)"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ke, kepikiran ide yang gila nih!\n—Pokoknya dengerin dulu!!"
+        }
+    ]
+}

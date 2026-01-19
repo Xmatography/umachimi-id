@@ -6,6 +6,4 @@ __pycache__
 /.race_jikkyo_message_dict
 /.text_data_dict
 *.bak
-htranslate_conv.py
-htranslate.py
 localized_data/assets/textures/chara/chr*/petit
