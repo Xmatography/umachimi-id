@@ -105,20 +105,20 @@
         },
         {
             "name": "Spectator A",
-            "text": "Hey……did you hear that? \nThat person is making their Uma Musume-chan call them 『King』."
+            "text": "Hey……did you hear that? \nThat person is making their Umamusume-chan call them 『King』."
         },
         {
             "name": "Spectator B",
-            "text": "No way……isn't that kinda wild? \nTreating their Uma Musume-chan like a servant?",
+            "text": "No way……isn't that kinda wild? \nTreating their Umamusume-chan like a servant?",
             "choice_data_list": [
                 "(Ugh……!)"
             ]
         },
         {
-            "text": "I couldn't help but feel taken aback. \nA trainer's job was to protect and support their Uma Musume."
+            "text": "I couldn't help but feel taken aback. \nA trainer's job was to protect and support their Umamusume."
         },
         {
-            "text": "Having an Uma Musume act as my servant would be \nbad not only for me, but for Durandal's public image.",
+            "text": "Having an Umamusume act as my servant would be \nbad not only for me, but for Durandal's public image.",
             "choice_data_list": [
                 "(It might be better to make her stop)"
             ]

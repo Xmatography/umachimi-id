@@ -79,14 +79,14 @@
         },
         {
             "text": "Oi oi oi oi！ Looks like we've got a little bit of a problem here, \nTracen Academy missy！ This here's our 『Turf』, you know～！？",
-            "name": "Delinquent Uma Musume A"
+            "name": "Delinquent Umamusume A"
         },
         {
             "text": "If you wanna pass through, I guess we'll \nhave to extract a 『Toll』 from ya～！！",
-            "name": "Delinquent Uma Musume A"
+            "name": "Delinquent Umamusume A"
         },
         {
-            "text": "Suddenly, what seemed to be some illーtempered \nUma Musume appeared……！"
+            "text": "Suddenly, what seemed to be some illーtempered \nUmamusume appeared……！"
         },
         {
             "text": "…… your 『Turf』, you say? If I recall correctly, I believe this \nplace is considered a part of the riverside park, is it not？",
@@ -94,14 +94,14 @@
         },
         {
             "text": "Shut yer trap～～～！ Don't get smart with me！！ \nAneki, this pinhead is gettin' kinda mouthy！！",
-            "name": "Delinquent Uma Musume A"
+            "name": "Delinquent Umamusume A"
         },
         {
             "text": "……how brave of you. But that spirit, how long will it last? \nIf you don't wanna get hurt, you should probably \ndo what we say―― run―crazed missy.",
-            "name": "Delinquent Uma Musume B"
+            "name": "Delinquent Umamusume B"
         },
         {
-            "text": "The delinquent Uma Musume that looked like the leader started \nreleasing an intimidating aura！ ……since it's come this far I \ncan't stand here and do nothing！！",
+            "text": "The delinquent Umamusume that looked like the leader started \nreleasing an intimidating aura！ ……since it's come this far I \ncan't stand here and do nothing！！",
             "choice_data_list": [
                 "You all need to stop this……！",
                 "You all need to stop this……！"
@@ -109,7 +109,7 @@
         },
         {
             "text": "Huuuh！？ \nWho the hell are you？ Don't order me around――！",
-            "name": "Delinquent Uma Musume A"
+            "name": "Delinquent Umamusume A"
         },
         {
             "text": "――――HAA！！！！",
@@ -131,11 +131,11 @@
         },
         {
             "text": "……Let's go. She's out of our league.",
-            "name": "Delinquent Uma Musume B"
+            "name": "Delinquent Umamusume B"
         },
         {
             "text": "Eh, huh, Aneki！？ \nW-wait for meee～～～！！",
-            "name": "Delinquent Uma Musume A",
+            "name": "Delinquent Umamusume A",
             "choice_data_list": [
                 "(T-they left……)"
             ]
@@ -185,7 +185,7 @@
         },
         {
             "text": "…… \n……Alright, right here―― Haaaaaaa！！",
-            "name": "Participating Uma Musume A"
+            "name": "Participating Umamusume A"
         },
         {
             "text": "！！ …… I wont…… let you……！！",
@@ -197,7 +197,7 @@
         },
         {
             "text": "Fufuu, she took the bait……！",
-            "name": "Participating Uma Musume A",
+            "name": "Participating Umamusume A",
             "choice_data_list": [
                 "(Huh……！？)"
             ]

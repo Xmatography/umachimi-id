@@ -184,11 +184,11 @@
         },
         {
             "text": "Uwah, there goes Helios! \nIf that girl is here, then this race is gonna be wild!",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "She'll just wear herself out eventually. \nSo the ones I need to worry about are――",
-            "name": "Uma Musume B"
+            "name": "Umamusume B"
         },
         {
             "text": "(Ahー, they're falling back? \nI see, I see, so the beat is slow, huh? Got it!)",
@@ -205,11 +205,11 @@
         },
         {
             "text": "Alright, it's about time I make a move……! \nHuh, wha-what's going on!?",
-            "name": "Uma Musume A"
+            "name": "Umamusume A"
         },
         {
             "text": "Helios' pace isn't dropping at all!? \n……Eh, wait, wait, eh, no way……!?",
-            "name": "Uma Musume B"
+            "name": "Umamusume B"
         },
         {
             "text": "(It's here, it's here, it's here!! \nThis is it! The big waveーーーー! Then……!)",
@@ -260,7 +260,7 @@
             "name": "Daitaku Helios"
         },
         {
-            "text": "And so…… I formed a trainer contract with Daitaku Helios, \na bright, lively, fun―loving―― party Uma Musume."
+            "text": "And so…… I formed a trainer contract with Daitaku Helios, \na bright, lively, fun―loving―― party Umamusume."
         },
         {
             "text": "――Right, on to today's training, let's move it☆ \nMove it☆ Move it move it☆",
@@ -306,7 +306,7 @@
         },
         {
             "text": "Eeeeeeeeeeeeeeeeeeeeeeeeeeeh!?",
-            "name": "Uma Musume"
+            "name": "Umamusume"
         }
     ]
 }

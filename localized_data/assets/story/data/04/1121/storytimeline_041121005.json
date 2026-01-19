@@ -48,7 +48,7 @@
             "text": "『Durandal, I beseech thee』"
         },
         {
-            "text": "『——Victory, glory, jubilation. These are the duties of an \nUma Musume. Swear, as a protector, to uphold these values』"
+            "text": "『——Victory, glory, jubilation. These are the duties of an \nUmamusume. Swear, as a protector, to uphold these values』"
         },
         {
             "name": "Durandal",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Formative Trainer",
-            "text": "Trainers are the supporting pillars to an Uma Musume's dream. \nNever forget that you are their \"Steadfast Guide\".",
+            "text": "Trainers are the supporting pillars to an Umamusume's dream. \nNever forget that you are their \"Steadfast Guide\".",
             "choice_data_list": [
                 "……Yes!"
             ]

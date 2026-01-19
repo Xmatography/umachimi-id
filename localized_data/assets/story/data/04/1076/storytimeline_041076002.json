@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I am――the Uma Musume who will win against that \nunbeatable Brian-chan! ……Laurel. I'm Sakura Laurel♪",
+            "text": "I am――the Umamusume who will win against that \nunbeatable Brian-chan! ……Laurel. I'm Sakura Laurel♪",
             "name": "Sakura Laurel"
         },
         {
-            "text": "The Uma Musume that can't run, Sakura Laurel, just declared \nthat she would win against Narita Brian. However……"
+            "text": "The Umamusume that can't run, Sakura Laurel, just declared \nthat she would win against Narita Brian. However……"
         },
         {
             "text": "If you can't run, then you can't win. \nThat part concerned me……",
@@ -25,10 +25,10 @@
         },
         {
             "text": "Wait just a minute!",
-            "name": "2 Uma Musume"
+            "name": "2 Umamusume"
         },
         {
-            "text": "When Sakura Laurel was about to head to the course, \ntwo Uma Musume came rushing towards her."
+            "text": "When Sakura Laurel was about to head to the course, \ntwo Umamusume came rushing towards her."
         },
         {
             "text": "Laurel-san, please don't push yourself~! \nSuddenly running without any kind of warm-up is reckless~.",
@@ -51,7 +51,7 @@
             "name": "Sakura Chiyono O"
         },
         {
-            "text": "Uma Musume from the 『Victory Club』!",
+            "text": "Umamusume from the 『Victory Club』!",
             "name": "Both",
             "choice_data_list": [
                 "Victory……Club!?"
@@ -84,7 +84,7 @@
             "text": "After that, Sakura Bakushin O began \ntelling me about their younger days."
         },
         {
-            "text": "The 『Victory Club』 that we are a part of is a place for \nlittle Uma Musume to gather. It's a famous training club.",
+            "text": "The 『Victory Club』 that we are a part of is a place for \nlittle Umamusume to gather. It's a famous training club.",
             "name": "Sakura Bakushin O"
         },
         {
@@ -93,14 +93,14 @@
         },
         {
             "text": "Ah! Everyone, make way, make way! \nYou are in the presence of the king of Yamato!",
-            "name": "Young Uma Musume A"
+            "name": "Young Umamusume A"
         },
         {
             "text": "No way, no way! Because I'm the king of the world. \nWhen I run, of course, I'm the best in the world~!",
-            "name": "Young Uma Musume B"
+            "name": "Young Umamusume B"
         },
         {
-            "text": "It was a gathering place for Uma Musume with the name O, \nand the attitude of O. And among those girls, Laurel-san was……",
+            "text": "It was a gathering place for Umamusume with the name O, \nand the attitude of O. And among those girls, Laurel-san was……",
             "name": "Sakura Bakushin O"
         },
         {
@@ -136,10 +136,10 @@
             ]
         },
         {
-            "text": "An Uma Musume but she couldn't run…… \nI wonder how stressful that was."
+            "text": "An Umamusume but she couldn't run…… \nI wonder how stressful that was."
         },
         {
-            "text": "An Uma Musume with 『Legs of Glass』, Sakura Laurel. \nBut then, why did she……",
+            "text": "An Umamusume with 『Legs of Glass』, Sakura Laurel. \nBut then, why did she……",
             "choice_data_list": [
                 "Then why did you come to Tracen?"
             ]
@@ -241,7 +241,7 @@
             "name": "Sakura Laurel"
         },
         {
-            "text": "To see if I can really perform in the Twinkle Series, \nand whether I'm an Uma Musume that can fulfill that dream……!",
+            "text": "To see if I can really perform in the Twinkle Series, \nand whether I'm an Umamusume that can fulfill that dream……!",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "Yeah……of course!",

@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Colleague Trainer A",
-            "text": "――Ah, Bubble Gum Fellow, huh? That girl was quite the \nhot topic among Uma Musume who haven't debuted yet.",
+            "text": "――Ah, Bubble Gum Fellow, huh? That girl was quite the \nhot topic among Umamusume who haven't debuted yet.",
             "choice_data_list": [
                 "I see……"
             ]
@@ -29,7 +29,7 @@
         },
         {
             "name": "Colleague Trainer A",
-            "text": "――Aaah～, if only I wasn't a rookie, I'd want to \ntry raising an Uma Musume with potential like her.",
+            "text": "――Aaah～, if only I wasn't a rookie, I'd want to \ntry raising an Umamusume with potential like her.",
             "choice_data_list": [
                 "…………"
             ]
@@ -147,11 +147,11 @@
         },
         {
             "name": "Bubble Gum Fellow",
-            "text": "――will become one. \n――――An Uma Musume strong enough to change the entire racing world."
+            "text": "――will become one. \n――――An Umamusume strong enough to change the entire racing world."
         },
         {
             "name": "Bubble Gum Fellow",
-            "text": "Which means, I should experience it for myself. Directly \nfrom someone who actually did shake up the entire racing \nworld, with the strength to become a 7-crown Uma Musume.",
+            "text": "Which means, I should experience it for myself. Directly \nfrom someone who actually did shake up the entire racing \nworld, with the strength to become a 7-crown Umamusume.",
             "choice_data_list": [
                 "……!"
             ]

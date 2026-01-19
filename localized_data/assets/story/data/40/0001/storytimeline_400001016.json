@@ -32,7 +32,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Balapan yang dipenuhi senyum para penggemar!\nItulah panggung tempat semua Uma Musume seharusnya bersinar!"
+            "text": "Balapan yang dipenuhi senyum para penggemar!\nItulah panggung tempat semua Umamusume seharusnya bersinar!"
         },
         {
             "name": "Trainer Kyurin",
@@ -48,7 +48,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Hmm! Nah, promosi URA Finals nih... Dan, acara besar yang ngebahas gimana para Uma Musume lagi ngegeber usaha buat balapan itu loh--"
+            "text": "Hmm! Nah, promosi URA Finals nih... Dan, acara besar yang ngebahas gimana para Umamusume lagi ngegeber usaha buat balapan itu loh--"
         },
         {
             "name": "Ketua Akikawa",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Trainer Kyurin",
-            "text": "Hmm... kalau ngomongin event buat ngumpulin orang, biasanya sih yang klasik itu talk show atau mini live dari para Uma Musume, ya..",
+            "text": "Hmm... kalau ngomongin event buat ngumpulin orang, biasanya sih yang klasik itu talk show atau mini live dari para Umamusume, ya..",
             "choice_data_list": [
                 "Bebannya berat juga ya ...",
                 "Bebannya berat juga ya ..."
@@ -130,7 +130,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Penampilan para Uma Musume yang berjuang keras menuju start line' —\nKalau begitu, kalianlah yang—! Tunggu, bukan!\n"
+            "text": "Penampilan para Umamusume yang berjuang keras menuju start line' —\nKalau begitu, kalianlah yang—! Tunggu, bukan!\n"
         },
         {
             "text": "Justru karena kalianlah—!!\nPasti bisa menyampaikannya dengan baik!",
@@ -148,7 +148,7 @@
             "text": "Event hari ini akan kami liput juga untuk\nmajalah Gekkan Twinkle, lho"
         },
         {
-            "text": "Ngomong-ngomong... di mana para Uma Musume\nyang biasa kalian tangani?",
+            "text": "Ngomong-ngomong... di mana para Umamusume\nyang biasa kalian tangani?",
             "name": "Reporter Otoshi"
         },
         {
@@ -176,11 +176,11 @@
         },
         {
             "name": "Reporter Otoshi",
-            "text": "Yang paling kami utamakan adalah para Uma Musume yang berjuang keras setiap hari—"
+            "text": "Yang paling kami utamakan adalah para Umamusume yang berjuang keras setiap hari—"
         },
         {
             "name": "Reporter Otoshi",
-            "text": "Para Uma Musume juga butuh istirahat...!\nKami yang akan berjuang untuk mewakili mereka...!"
+            "text": "Para Umamusume juga butuh istirahat...!\nKami yang akan berjuang untuk mewakili mereka...!"
         },
         {
             "name": "Reporter Otoshi",
@@ -188,7 +188,7 @@
         },
         {
             "name": "Reporter Otoshi",
-            "text": "Sebagai pengganti Uma Musume, kami yang akan menangani sesi foto, talk, dan—\n",
+            "text": "Sebagai pengganti Umamusume, kami yang akan menangani sesi foto, talk, dan—\n",
             "choice_data_list": [
                 "Lho~...?"
             ]
@@ -225,7 +225,7 @@
         },
         {
             "name": "Pengunjung B",
-            "text": "Kalian sendiri mau mencoba merasakan jadi bagian dari dunia Uma Musume...\nGaya berpikir kayak gitu, jujur aku salut deh!"
+            "text": "Kalian sendiri mau mencoba merasakan jadi bagian dari dunia Umamusume...\nGaya berpikir kayak gitu, jujur aku salut deh!"
         },
         {
             "name": "Pengunjung C",

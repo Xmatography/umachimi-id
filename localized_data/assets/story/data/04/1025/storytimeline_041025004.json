@@ -55,7 +55,7 @@
             "text": "She's here."
         },
         {
-            "text": "There were a lot of other fast Uma Musume lining \nup that day. She'd be better off concentrating \non them rather than chasing her friend…",
+            "text": "There were a lot of other fast Umamusume lining \nup that day. She'd be better off concentrating \non them rather than chasing her friend…",
             "choice_data_list": [
                 "Just relax and run your own race!"
             ]
@@ -81,7 +81,7 @@
         },
         {
             "name": "Commentator",
-            "text": "All the Uma Musume are in the starting gates, and… \nthey're off!"
+            "text": "All the Umamusume are in the starting gates, and… \nthey're off!"
         },
         {
             "name": "Manhattan Cafe",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(There are many Uma Musume ahead of me…)"
+            "text": "(There are many Umamusume ahead of me…)"
         },
         {
             "name": "Manhattan Cafe",

@@ -8,7 +8,7 @@
             ]
         },
         {
-            "text": "I rushed down to the riverside. An Uma Musume was laying \nthere with her eyes closed. Maybe she was feeling sick……!?",
+            "text": "I rushed down to the riverside. An Umamusume was laying \nthere with her eyes closed. Maybe she was feeling sick……!?",
             "choice_data_list": [
                 "A-are you okay!?",
                 "A-are you okay!?"
@@ -19,39 +19,39 @@
             "text": "…………Huh?"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Eh, ah……no! I'm totally fine. \nI was just sunbathing~……",
             "choice_data_list": [
                 "S-sunbathing……?"
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Mmmmm~~……sorry for confusing you. \nEhehe, thanks for worrying about me.",
             "choice_data_list": [
                 "No, I'm glad it was nothing serious"
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Yeah, rather I feel fully recharged! I was \nable to bask in the sun for so long, my body's \nall warmed up, and all that exhaustion――"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Ah, that's right. \nIf you want, how about you try it too? Sunbathing.",
             "choice_data_list": [
                 "Ehh"
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Fufufuu, sorry for asking that. But, it just seemed like, \njudging by your face……that maybe you were really tired."
         },
         {
             "text": "That's true, lately I've been working almost non-stop…… \njust laying in the sun like that might feel really nice."
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "If you lay down and take it easy, you'll feel better. \nNow, now, if you'd like, just for a little bit.",
             "choice_data_list": [
                 "T-then……maybe a little bit"
@@ -61,32 +61,32 @@
             "text": "And so, I laid in the soft grass beside her. \nThe sunlight was warm and felt nice……"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Howaaa……it's so warm, huh~……"
         },
         {
             "text": "I woke up a short while later. \nMy whole body felt warm and refreshed."
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Upsy-daisy! Onii-san, how was it? \n……Fufuu, looks like you're feeling a lot better!",
             "choice_data_list": [
                 "I guess I was really tired……!"
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Upsy-daisy! Onee-san, how was it? \n……Fufuu, looks like you're feeling a lot better!",
             "choice_data_list": [
                 "I guess I was really tired……!"
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "After relaxing for a bit, if you take a short \nwalk you'll feel even better! After some \nsunbathing I usually wander around over there."
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "If you have time, how about joining me?",
             "choice_data_list": [
                 "Sounds good, okay",
@@ -94,7 +94,7 @@
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "There are always a bunch of families here so it's always lively. \nFufuu, there are so many kids around, they're all so cute~.",
             "choice_data_list": [
                 "It's heartwarming",
@@ -102,19 +102,19 @@
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Isn't it? \nIt almost feels like they're giving me energy……Hm?"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Wah! It's a kitty. Looks like it's used to being around people. \nFufufu, nyaan nyan. Do you want to walk with us?"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "……Hm? What? Where are you going?"
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Wah, so pretty……! I didn't know there was a path like this. \nKitty, did you want to show us this? ……Oh, it's not here.",
             "choice_data_list": [
                 "Haha, it's quite whimsical",
@@ -122,18 +122,18 @@
             ]
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Ahahaa, I guess so. \nI guess I'll have to thank it next time."
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "But, it's really wide open here. Maybe we should walk a \nlap and look……Wah, over there, there's alot of big flowers~!"
         },
         {
             "text": "And like that, we took our time wandering around……before I \nrealized it, because of her, I was feeling fully refreshed."
         },
         {
-            "name": "Carefree Uma Musume",
+            "name": "Carefree Umamusume",
             "text": "Haa, that was alot of fun, wasn't it!? I――ah, now that \nI think about it, I haven't introduced myself yet."
         },
         {
@@ -150,7 +150,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "Ehehe, I haven't debuted yet so I guess it's not \nsurprising you didn't know. Besides, at school there's \nalready lots of other flashy more famous Uma Musume~."
+            "text": "Ehehe, I haven't debuted yet so I guess it's not \nsurprising you didn't know. Besides, at school there's \nalready lots of other flashy more famous Umamusume~."
         },
         {
             "name": "Rhein Kraft",
@@ -161,10 +161,10 @@
             "text": "Nishino Flower-san's 『Oka Sho』 and Mejiro Dober's 『Oaks』 \nand 『Shuuka Sho』! I can't help but admire their running……!"
         },
         {
-            "text": "All the Uma Musume she was talking about with a sparkle in \nher eyes, were all participating in the Triple Tiara rotation.",
+            "text": "All the Umamusume she was talking about with a sparkle in \nher eyes, were all participating in the Triple Tiara rotation.",
             "choice_data_list": [
-                "You really like Tiara Uma Musume",
-                "You really like Tiara Uma Musume"
+                "You really like Tiara Umamusume",
+                "You really like Tiara Umamusume"
             ]
         },
         {
@@ -207,7 +207,7 @@
             "text": "She was so bright it was almost blinding…… \nA few days after that――"
         },
         {
-            "text": "A mock race was held that was open to the public……among the \nUma Musume running on the course was a familiar face.",
+            "text": "A mock race was held that was open to the public……among the \nUmamusume running on the course was a familiar face.",
             "choice_data_list": [
                 "(Is that……Rhein Kraft?)"
             ]

@@ -14,14 +14,14 @@
         },
         {
             "text": "Huh, that trainer is here again! \nHeeey～!",
-            "name": "Cheerful Uma Musume"
+            "name": "Cheerful Umamusume"
         },
         {
             "text": "Aren't they showing up pretty often? \nDoes this mean you're going to debut, Mira-ko?",
-            "name": "Cynical Uma Musume"
+            "name": "Cynical Umamusume"
         },
         {
-            "text": "Heh…… what're you gonna do～? What if I actually have amazing talent, \nand I'm on my way to becoming a Triple Crown Uma Musume……?",
+            "text": "Heh…… what're you gonna do～? What if I actually have amazing talent, \nand I'm on my way to becoming a Triple Crown Umamusume……?",
             "name": "Hishi Miracle"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "text": "Hmmm～…… we're going to pick up the pace now, \nwhat do you wanna do Mira-ko?",
-            "name": "Cheerful Uma Musume"
+            "name": "Cheerful Umamusume"
         },
         {
             "text": "Ahh～……take it easy, the same as usual～. \nMy engine isn't really warmed up just yet～.",
@@ -45,14 +45,14 @@
         },
         {
             "text": "Got it. Make sure you finish in time though, \nor else the instructor is gonna scold you.",
-            "name": "Cynical Uma Musume"
+            "name": "Cynical Umamusume"
         },
         {
             "text": "Aha. Yeah～",
             "name": "Hishi Miracle"
         },
         {
-            "text": "Hishi Miracle was left behind. However―― right around the time when \nthe other Uma Musume were crossing the goal――"
+            "text": "Hishi Miracle was left behind. However―― right around the time when \nthe other Umamusume were crossing the goal――"
         },
         {
             "text": "Huu, huu, huu……",
@@ -70,7 +70,7 @@
         },
         {
             "text": "Ahhh～ I'm tired! \nLet's take it easy with the stretches～.",
-            "name": "Cheerful Uma Musume"
+            "name": "Cheerful Umamusume"
         },
         {
             "text": "After this we still have to do weight training, it's gonna be rough～…… \nBy the way, do you have the English print out from last week?",
@@ -78,7 +78,7 @@
         },
         {
             "text": "I've got it but……did you do something with yours again? \nThe teacher said those would be questions on the test.",
-            "name": "Cynical Uma Musume"
+            "name": "Cynical Umamusume"
         },
         {
             "text": "Weeeell～…… that teacher's print outs are really thin so I get them \nmixed up with other things and end up throwing them away～……",
@@ -140,7 +140,7 @@
             "text": "Considering their previous run, today's condition, and her words \njust now about 『Not finishing in time』. I was convinced."
         },
         {
-            "text": "This Uma Musume named Hishi Miracle―― she had amazing potential, \nit just took longer for her to warm up……the 『Slow Start』 type!",
+            "text": "This Umamusume named Hishi Miracle―― she had amazing potential, \nit just took longer for her to warm up……the 『Slow Start』 type!",
             "choice_data_list": [
                 "You have amazing 『Potential』……!"
             ]

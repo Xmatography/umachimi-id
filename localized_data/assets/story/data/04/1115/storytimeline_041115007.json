@@ -2,25 +2,25 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The middle of summer. \nWhile all the Uma Musume were enjoying their Summer Training camp——"
+            "text": "The middle of summer. \nWhile all the Umamusume were enjoying their Summer Training camp——"
         },
         {
-            "name": "Uma Musume A",
+            "name": "Umamusume A",
             "text": "Hey, is that Orfevre-san's trainer?"
         },
         {
-            "name": "Uma Musume B",
+            "name": "Umamusume B",
             "text": "Ah, they're looking this way! Thanks for your hard work♪",
             "choice_data_list": [
                 "Ah, Ahaha……G-good work……"
             ]
         },
         {
-            "name": "Uma Musume A",
+            "name": "Umamusume A",
             "text": "Ahahaa, they're embarrassed!"
         },
         {
-            "text": "Lately, I've felt that more and more \nUma Musume have been talking to me."
+            "text": "Lately, I've felt that more and more \nUmamusume have been talking to me."
         },
         {
             "text": "It seems like they've seen me being pushed around by Orfevre and \nher unreasonable demands often, and now they're curious about me."
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "name": "Uma Musume C",
+            "name": "Umamusume C",
             "text": "That trainer is really interesting aren't they～? \nWhen I talked to them, they seemed like the shy type."
         },
         {
@@ -60,7 +60,7 @@
             "text": "——How insolent."
         },
         {
-            "name": "Uma Musume D",
+            "name": "Umamusume D",
             "text": "O-Orfevre……-san?"
         },
         {
@@ -72,7 +72,7 @@
             "text": "For a commoner to attempt to take the King's \npossessions……is the height of arrogance."
         },
         {
-            "name": "Uma Musume C",
+            "name": "Umamusume C",
             "text": "No……eh? \nP-possession……?"
         },
         {
@@ -80,7 +80,7 @@
             "text": "……I will not say it again."
         },
         {
-            "name": "Uma Musume D",
+            "name": "Umamusume D",
             "text": "Eh?"
         },
         {
@@ -88,7 +88,7 @@
             "text": "It is forbidden to lay hands on the King's property……!"
         },
         {
-            "name": "Uma Musume D",
+            "name": "Umamusume D",
             "text": "Hiiiii!"
         },
         {
@@ -103,7 +103,7 @@
             "text": "Summer training camp, a day off."
         },
         {
-            "text": "It was a short rest day, so the other Uma Musume \nwere already out enjoying their day off. I was going \nto take it easy and work on some paperwork but——"
+            "text": "It was a short rest day, so the other Umamusume \nwere already out enjoying their day off. I was going \nto take it easy and work on some paperwork but——"
         },
         {
             "name": "Orfevre",

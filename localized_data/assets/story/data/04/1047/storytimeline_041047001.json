@@ -108,14 +108,14 @@
             "text": "……do you like heroic tales?",
             "name": "Zenno Rob Roy",
             "choice_data_list": [
-                "<size=32>I saw a hero-like Uma Musume, so I was interested</size>"
+                "<size=32>I saw a hero-like Umamusume, so I was interested</size>"
             ]
         },
         {
-            "text": "That Uma Musume's running was vividly etched in to my mind, so I \nhad been searching for her this whole time…… is what I told her."
+            "text": "That Umamusume's running was vividly etched in to my mind, so I \nhad been searching for her this whole time…… is what I told her."
         },
         {
-            "text": "『A hero-like』 Uma Musume……",
+            "text": "『A hero-like』 Umamusume……",
             "name": "Zenno Rob Roy"
         },
         {
@@ -123,7 +123,7 @@
             "name": "Zenno Rob Roy"
         },
         {
-            "text": "An Uma Musume that can run like that, right now, is at Tracen \nAcademy is what you're saying, right……!?",
+            "text": "An Umamusume that can run like that, right now, is at Tracen \nAcademy is what you're saying, right……!?",
             "name": "Zenno Rob Roy",
             "choice_data_list": [
                 "Y-yeah……!"
@@ -155,7 +155,7 @@
             "text": "I asked Zenno Rob Roy if helping me would \nget in the way of her training."
         },
         {
-            "text": "I-it's fine, I'll make it work! ……I really want to know what made \nTrainer-san feel like that Uma Musume was 『Hero-like』.",
+            "text": "I-it's fine, I'll make it work! ……I really want to know what made \nTrainer-san feel like that Umamusume was 『Hero-like』.",
             "name": "Zenno Rob Roy"
         },
         {

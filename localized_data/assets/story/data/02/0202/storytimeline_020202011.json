@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Narator OP",
-            "text": "Uma Musume TV!"
+            "text": "Umamusume TV!"
         },
         {
             "name": "MC",
@@ -32,7 +32,7 @@
             "text": "Di depan Rhein Kraft, aku berusaha tenang.\nTapi sebenarnya aku grogi banget tampil di acara gede\nsetelah sekian lama!"
         },
         {
-            "text": "Timku, Team <Ascella>, diwarisin dari ayahku yang dulu\ntrainer terkenal. Tim ini dibangun ulang dari nol,\ndimulai dari King Halo, putri Uma Musume legendaris, tapi――",
+            "text": "Timku, Team <Ascella>, diwarisin dari ayahku yang dulu\ntrainer terkenal. Tim ini dibangun ulang dari nol,\ndimulai dari King Halo, putri Umamusume legendaris, tapi――",
             "choice_data_list": [
                 "",
                 ""
@@ -45,7 +45,7 @@
             "text": "Tapi sekarang, kita punya Rhein Kraft yang baru aja\nmenang dua balapan besar. Kita juga punya Cesario,\ncalon kuat untuk 『Oaks』 yang bakal datang"
         },
         {
-            "text": "Dengan dua bintang baru Uma Musume yang lagi naik daun,\ntim kita tiba-tiba berubah dari catatan kaki\njadi penantang serius.",
+            "text": "Dengan dua bintang baru Umamusume yang lagi naik daun,\ntim kita tiba-tiba berubah dari catatan kaki\njadi penantang serius.",
             "choice_data_list": [
                 "",
                 ""
@@ -92,7 +92,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "Iya……! Tapi Cesario dan dia bukan satu-satunya rivalku.\nDaring Heart-san dan Uma Musume lain yang nggak kejar Tiara juga ada!"
+            "text": "Iya……! Tapi Cesario dan dia bukan satu-satunya rivalku.\nDaring Heart-san dan Umamusume lain yang nggak kejar Tiara juga ada!"
         },
         {
             "name": "Rhein Kraft",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "Kalau begitu, Cesario! Aku percayain padamu.\nKita kejar masa depan di mana Uma Musume Tiara lebih diakui!"
+            "text": "Kalau begitu, Cesario! Aku percayain padamu.\nKita kejar masa depan di mana Umamusume Tiara lebih diakui!"
         },
         {
             "name": "Cesario",

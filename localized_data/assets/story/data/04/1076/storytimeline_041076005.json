@@ -6,7 +6,7 @@
         },
         {
             "text": "In any case, I'm going to make the announcement……! \nAnd you can proceed with installing the machine!",
-            "name": "Student Council Uma Musume A"
+            "name": "Student Council Umamusume A"
         },
         {
             "text": "You two, what's wrong? Did something happen?",
@@ -18,7 +18,7 @@
         },
         {
             "text": "Yes……we announced that 5 would be installed but only 1 made it…… \nEveryone came to see them, but how should I explain it……?",
-            "name": "Student Council Uma Musume B"
+            "name": "Student Council Umamusume B"
         },
         {
             "text": "Did you ask the President?",
@@ -26,7 +26,7 @@
         },
         {
             "text": "The President and Vice President are dealing with another \nmatter today so I can't contact them. Today was supposed \nto be a special event too, and now it'll go to waste――!",
-            "name": "Student Council Uma Musume A"
+            "name": "Student Council Umamusume A"
         },
         {
             "text": "Why's that? Even with just one machine it should be plenty of fun!",
@@ -56,7 +56,7 @@
         },
         {
             "text": "B-but will everyone agree with that……?",
-            "name": "Student Council Uma Musume B",
+            "name": "Student Council Umamusume B",
             "choice_data_list": [
                 "I can help with that! Let's do it!",
                 "I can help with that! Let's do it!"
@@ -100,11 +100,11 @@
         },
         {
             "text": "Alright, I'll go first! \nI'll do it~~!!",
-            "name": "Senior Class Uma Musume"
+            "name": "Senior Class Umamusume"
         },
         {
             "text": "Hmmph! ――Doriyaah! \nGuu-……aaah!!",
-            "name": "Senior Class Uma Musume"
+            "name": "Senior Class Umamusume"
         },
         {
             "text": "――5, 4, 3, 2, 1, that's it! \nYour count is……Ooooh, 22 times!",
@@ -112,15 +112,15 @@
         },
         {
             "text": "Amazing……it really did become 『Fun』…… \neveryone seems motivated……",
-            "name": "Student Council Uma Musume A"
+            "name": "Student Council Umamusume A"
         },
         {
             "text": "Um, I hope this event will be held again! \nIt's really interesting and invigorating!",
-            "name": "Senior Class Uma Musume"
+            "name": "Senior Class Umamusume"
         },
         {
             "text": "O-……Okay! \nThe student council will consider it!",
-            "name": "Student Council Uma Musume B"
+            "name": "Student Council Umamusume B"
         },
         {
             "text": "The event was a great success. Everyone seemed \nto be able to get valuable data, a few of the \ntrainers thanked me for this opportunity too.",

@@ -45,7 +45,7 @@
         },
         {
             "name": "Veteran Trainer",
-            "text": "Your talent is overwhelming! Better than any famous Uma Musume \nfrom the past……! Together let's build a brilliant new legend!"
+            "text": "Your talent is overwhelming! Better than any famous Umamusume \nfrom the past……! Together let's build a brilliant new legend!"
         },
         {
             "text": "Several trainers with far more experience \nthan me ran up and surrounded her……!"
@@ -56,7 +56,7 @@
         },
         {
             "name": "Orfevre",
-            "text": "You will not be the one selecting. Trainer, or Uma Musume, it matters not. \n————It is always I, the \"King\", who will be selecting."
+            "text": "You will not be the one selecting. Trainer, or Umamusume, it matters not. \n————It is always I, the \"King\", who will be selecting."
         },
         {
             "name": "Trainers",
@@ -80,7 +80,7 @@
             "text": "——Excuse me, the trainer over there."
         },
         {
-            "text": "When I turned around, there was an Uma Musume that \nI didn't recognize. She bowed respectfully."
+            "text": "When I turned around, there was an Umamusume that \nI didn't recognize. She bowed respectfully."
         },
         {
             "name": "Orfe's Vassal A",
@@ -102,7 +102,7 @@
             "text": "Well done."
         },
         {
-            "text": "In the place I was brought to there was not only \nOrfevre, but several other Uma Musume attending \nher. They were probably also her vassals……",
+            "text": "In the place I was brought to there was not only \nOrfevre, but several other Umamusume attending \nher. They were probably also her vassals……",
             "choice_data_list": [
                 "(I-it's almost like an Audience……)"
             ]
@@ -132,7 +132,7 @@
             "text": "And that feeling was probably because of…… \nThe day I first met Orfevre. It was the same grim \nexpression she showed in front of that exhibit."
         },
         {
-            "text": "She said it on that day. That she would step past \nthose Triple Crown Uma Musume. Along with that \nself-confidence there was……a competitive spirit.",
+            "text": "She said it on that day. That she would step past \nthose Triple Crown Umamusume. Along with that \nself-confidence there was……a competitive spirit.",
             "choice_data_list": [
                 "(『Competitive Spirit』——)"
             ]

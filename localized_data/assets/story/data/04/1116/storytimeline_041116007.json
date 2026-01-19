@@ -12,7 +12,7 @@
             "text": "That's what they're calling the 『Arm Wrestling Tournament』, \nyou see. Seems like the prize is dinner at a resort."
         },
         {
-            "text": "Tilting my head, I read over the pamphlet that was handed \nto me. The only event is 『Arm Wrestling』. Looks like it's \nseparated in to Uma Musume and Trainer divisions……"
+            "text": "Tilting my head, I read over the pamphlet that was handed \nto me. The only event is 『Arm Wrestling』. Looks like it's \nseparated in to Umamusume and Trainer divisions……"
         },
         {
             "text": "The format is round robin. The winning team is \ndecided by which pair has the most wins combined."
@@ -47,24 +47,24 @@
             "text": "Hmmph!"
         },
         {
-            "name": "Participating Uma Musume A",
+            "name": "Participating Umamusume A",
             "text": "Uwaaaah!?"
         },
         {
             "name": "Organizer",
-            "text": "T-the victor is……Gentildonnaーー! \nThe 『Uma Musume Division』 winner is Gentildonna～～!!"
+            "text": "T-the victor is……Gentildonnaーー! \nThe 『Umamusume Division』 winner is Gentildonna～～!!"
         },
         {
             "name": "Gentildonna",
             "text": "Fuu……child's play."
         },
         {
-            "name": "Participating Uma Musume A",
+            "name": "Participating Umamusume A",
             "text": "No way! I-I couldn't even last a second……!?"
         },
         {
             "name": "Spectator A",
-            "text": "Even against other Uma Musume, there's that much of a difference……? \nShe-……she's in an entirely different dimension……!",
+            "text": "Even against other Umamusume, there's that much of a difference……? \nShe-……she's in an entirely different dimension……!",
             "choice_data_list": [
                 "(I see……)"
             ]
@@ -76,7 +76,7 @@
             "text": "By showing off your power, you could control \nyour own heart. Only then, for the first time, \ncan Power become the ultimate trump card!"
         },
         {
-            "name": "Participating Uma Musume A",
+            "name": "Participating Umamusume A",
             "text": "Kuuu～～! An unexpected defeat……! \nSorry! Trainer!!"
         },
         {

@@ -41,14 +41,14 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Iya iya~ santai dong,\nmasa Uma Musume diperlakukan sekeras itu sih."
+            "text": "Iya iya~ santai dong,\nmasa Umamusume diperlakukan sekeras itu sih."
         },
         {
             "text": "……tapi ya, berkat itu juga\naku jadi bisa ngecek banyak hal, sih.",
             "name": "Seiun Sky"
         },
         {
-            "text": "Para Uma Musume pun tampaknya mulai semakin bersemangat,\nperlahan tapi pasti, menuju URA Finals.",
+            "text": "Para Umamusume pun tampaknya mulai semakin bersemangat,\nperlahan tapi pasti, menuju URA Finals.",
             "choice_data_list": [
                 "(Aku juga harus berusaha lebih keras lagi……!)",
                 "(Aku juga harus berusaha lebih keras lagi……!)"
@@ -138,7 +138,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Pastinya! Aku berharap, agar para Uma Musume yang kusayangi, selalu bisa berlatih dalam lingkungan yang aman dan nyaman"
+            "text": "Pastinya! Aku berharap, agar para Umamusume yang kusayangi, selalu bisa berlatih dalam lingkungan yang aman dan nyaman"
         },
         {
             "name": "Ketua Akikawa",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Dan itulah sebabnya! Jika aku melihat cara bicaramu sehari-hari dan cara\nberinteraksimu dengan Uma Musume yang kamu latih, aku akan mengerti!"
+            "text": "Dan itulah sebabnya! Jika aku melihat cara bicaramu sehari-hari dan cara\nberinteraksimu dengan Umamusume yang kamu latih, aku akan mengerti!"
         },
         {
             "name": "Ketua Akikawa",
@@ -220,7 +220,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Benar! Aku sangat berharap, kau dan Uma Musume yang\nkau latih mau bekerja sama dengan kami untuk meraih kesuksesan di 'URA FINALS'!"
+            "text": "Benar! Aku sangat berharap, kau dan Umamusume yang\nkau latih mau bekerja sama dengan kami untuk meraih kesuksesan di 'URA FINALS'!"
         },
         {
             "name": "Ketua Akikawa",
@@ -228,9 +228,9 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Dengan kata lain, keberadaan 'Star Uma Musume' adalah sesuatu yang mutlak diperlukan.",
+            "text": "Dengan kata lain, keberadaan 'Star Umamusume' adalah sesuatu yang mutlak diperlukan.",
             "choice_data_list": [
-                "Star Uma Musume'... ya."
+                "Star Umamusume'... ya."
             ]
         },
         {
@@ -250,11 +250,11 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Kesuksesan! Dengan sendirinya, jalan untuk menjadi seorang Star Uma Musume akan terbuka!!"
+            "text": "Kesuksesan! Dengan sendirinya, jalan untuk menjadi seorang Star Umamusume akan terbuka!!"
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Teruslah maju! Dengan semangat seperti ini, teruslah berjuang bersama Uma Musume yang kau latih!"
+            "text": "Teruslah maju! Dengan semangat seperti ini, teruslah berjuang bersama Umamusume yang kau latih!"
         },
         {
             "name": "Ketua Akikawa",
