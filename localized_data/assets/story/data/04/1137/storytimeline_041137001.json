@@ -7,7 +7,7 @@
         },
         {
             "name": "Narator",
-            "text": "Turunlah, kilatan inspirasi. Gempur segalanya dengan gegap gempita kegembiraan.Kan kutunjukkan. Kisah tunggal yang tercipta dari kaki-kakiini.\n\n"
+            "text": "\nTurunlah, kilatan inspirasi. Gempur segalanya dengan gegap gempita kegembiraan.Kan kutunjukkan. Kisah tunggal yang tercipta dari kaki-kakiini.\n\n"
         },
         {
             "text": "**★――Edisi berikutnya, Kiseki Melesat! Ukir jejak kaki yang mengguncang jiwa!!**"
@@ -32,14 +32,14 @@
             "text": "\"Istirahat siang udah mulai!\"\n\"Roti yakisoba DX hari ini cuma ada 10 biji!\"\n\"Cuma segitu!? Cepetan ke kantin!!\""
         },
         {
-            "text": "Saat istirahat siang ketika para Uma Musume berbondong-bondong ke toko sekolah.Suara langkah kaki yang luar biasa keras pun terdengar.\n\n"
+            "text": "\nSaat istirahat siang ketika para Uma Musume berbondong-bondong ke toko sekolah.Suara langkah kaki yang luar biasa keras pun terdengar.\n\n"
         },
         {
             "name": "Kiseki",
             "text": "Woooooh! Berputarlah energi, berkobarlah darah—Lepaskan demi cita-cita tertinggi!\nSerangan pamungkas...『Jiwa yang Membara』!!",
             "choice_data_list": [
-                "(Hah... apa itu?)",
-                "(Wah... apaan tadi?)"
+                "<size=42>(Hah... apa itu?)</size>",
+                "<size=42>(Wah... apaan tadi?)</size>"
             ]
         },
         {
@@ -93,7 +93,7 @@
         {
             "text": "Tapi, perbedaan kekuatan mereka jelas terlihat seperti melihat api.Seberapa gigih pun dia, nasib yang sama seperti kemarin akan kembali menghampiri.",
             "choice_data_list": [
-                "(Tekadnya patut diacungi jempol sih, tapi...!)"
+                "<size=34>(Tekadnya patut diacungi jempol sih, tapi...!)</size>"
             ]
         },
         {
@@ -134,7 +134,7 @@
         {
             "text": "Tak patah arang oleh kekalahan, merancang solusi mengejutkan, dan merebut kemenangan.Lariannya bagaikan sebuah karya seni utuh. ...Dia, mulai besok juga—",
             "choice_data_list": [
-                "(Apa dia akan terus berlari seperti ini?)"
+                "<size=32>(Apa dia akan terus berlari seperti ini?)</size>"
             ]
         },
         {
@@ -147,7 +147,7 @@
         },
         {
             "name": "Umamusume A",
-            "text": "tu dia, gaya lari oleng-olengan Keajaiban! Gerak kanan-kiri terus,bikin yang di belakang pusing... eh, eh, dia malah nyalip biasa aja—!"
+            "text": "tu dia, gaya lari oleng-olengan Kiseki! Gerak kanan-kiri terus,bikin yang di belakang pusing... eh, eh, dia malah nyalip biasa aja—!"
         },
         {
             "name": "Kiseki",
@@ -167,15 +167,15 @@
         {
             "text": "Dan setiap istirahat siang tiba, aku selalu menuju ke depan toko sekolah.Terkadang tertawa, terkadang geleng-geleng kepala, terkadang sekadar mendukung... sesuka hatiku.",
             "choice_data_list": [
-                "Nah, lari kaya apa yang kiseki tunjukkan hari ini?",
-                "Nah, lari kaya apa yang kiseki tunjukkan hari ini?"
+                "<size=32>Nah, lari kaya apa yang kiseki tunjukkan hari ini?</size>",
+                "<size=32>Nah, lari kaya apa yang kiseki tunjukkan hari ini?</size>"
             ]
         },
         {
             "name": "Kiseki",
             "text": "Untuk menciptakan hit, kuasai dulu jalur utamanya!\"\n\"Aku juga bisa kok jadi 'Front Runner'———",
             "choice_data_list": [
-                "Oh begitu, ternyata gaya larinya fleksibel juga..!"
+                "<size=32>Oh begitu, ternyata gaya larinya fleksibel juga..!</size>"
             ]
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "Oke, biar aku jelasin! Aku Keajaiban, Uma Musume yang super suka komik,dan pengen ikut balapan yang seru dan heboh kayak di komik!",
+            "text": "Oke, biar aku jelasin! Aku Kiseki, Uma Musume yang super suka komik,dan pengen ikut balapan yang seru dan heboh kayak di komik!",
             "choice_data_list": [
                 "Hah!? ...Ngerti aku!?"
             ]
@@ -224,7 +224,8 @@
             "name": "Kiseki",
             "text": "Makanya, aku juga pengen bikin komik sekeren itu!\nPake tablet hadiah ulang tahunku, tiap hari aku gambar komik!",
             "choice_data_list": [
-                "Lho, kamu juga bisa gambar komik?"
+                "Lho, kamu juga bisa gambar komik?",
+                "Lho , Bisa gambar Komik Juga ?"
             ]
         },
         {
@@ -248,13 +249,13 @@
             "text": "——Makanya, Trainer!!"
         },
         {
-            "text": "Sejak itu, Keajaiban mulai sering mampir ke ruang trainer juga.\nNgomong-ngomong, puluhan komik yang dibawanya pun sudah memenuhi rak buku di sini."
+            "text": "Sejak itu, Kiseki mulai sering mampir ke ruang trainer juga.\nNgomong-ngomong, puluhan komik yang dibawanya pun sudah memenuhi rak buku di sini."
         },
         {
             "name": "Kiseki",
             "text": "Aku ada komik yang pengen kubaca bareng kamu. Aku yakin... kamu pasti suka.\"",
             "choice_data_list": [
-                "Komik yang pengen kubaca bareng aku?"
+                "<size=38>Komik yang pengen kubaca bareng aku?</size>"
             ]
         },
         {
@@ -283,8 +284,8 @@
         {
             "text": "Dari semangatnya, akhirnya kumengerti akar dari beragam gaya lari uniknya selama ini.\nIntinya dia——",
             "choice_data_list": [
-                "Jadi kamu pengen jadi tokoh utama komik ya~",
-                "Jadi kamu pengen jadi tokoh utama komik ya~"
+                "<size=32>Jadi kamu pengen jadi tokoh utama komik ya~</size>",
+                "<size=32>Jadi kamu pengen jadi tokoh utama komik ya~</size>"
             ]
         },
         {
@@ -297,6 +298,9 @@
         },
         {
             "text": "Tak ada alasan untuk menolak ajakan Kiseki.\nDua hari kemudian, aku menuju ke lintasan. Di sana—\n\n"
+        },
+        {
+            "text": "Dan Akhirnya Hari Balapan Simulasi Tiba"
         }
     ]
 }

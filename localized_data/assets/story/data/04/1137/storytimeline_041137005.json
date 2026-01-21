@@ -2,7 +2,11 @@
     "title": "Kurokage's",
     "text_block_list": [
         {
-            "name": "Monolog"
+            "name": "Monolog",
+            "text": "Suatu hari. Aku melihat Kiseki memegang ponsel,\nberdiri di belakang gedung sekolah.",
+            "choice_data_list": [
+                "<size=38>(Hm? Apa dia lagi ngobrol sama seseorang?)</size>"
+            ]
         },
         {
             "choice_data_list": [
@@ -58,8 +62,8 @@
             "name": "Kiseki",
             "text": ".Oke! Aku beli beberapa buat referensi deh!\nKalau gitu, yang longran sama... ada yang namanya bontan nggak?",
             "choice_data_list": [
-                "Demi komik, sampai segini... hebat juga ya.",
-                "Demi komik, sampai segini... hebat juga ya."
+                "<size=38>Demi komik, sampai segini... hebat juga ya.</size>",
+                "<size=38>Demi komik, sampai segini... hebat juga ya.</size>"
             ]
         },
         {
@@ -78,8 +82,8 @@
             "name": "Kiseki",
             "text": "Boleh dengerin ceritanya lagi dikit?\nSelanjutnya, tentang konflik dengan tim lain!",
             "choice_data_list": [
-                "Dia juga gayanya galak sama anak nakal ya...",
-                "Dia juga gayanya galak sama anak nakal ya..."
+                "<size=38>Dia juga gayanya galak sama anak nakal ya...</size>",
+                "<size=38>Dia juga gayanya galak sama anak nakal ya...</size>"
             ]
         },
         {
@@ -94,7 +98,7 @@
             "text": "..Dilecehin gitu, mana mungkin kita diem aja.\nAyo kasih pelajaran ke biarawan kampung itu! Serangan khusus!!",
             "name": "Kiseki",
             "choice_data_list": [
-                "(......Kayaknya dia kebanyakan ngomik ya!?)"
+                "<size=38>(......Kayaknya dia kebanyakan ngomik ya!?)</szie>"
             ]
         },
         {
@@ -109,7 +113,7 @@
             "name": "Kiseki",
             "text": "Eh, bentar!! Ada antrian, antrian!\nTunggu dulu dong~!",
             "choice_data_list": [
-                "He, he, kayaknya situasinya berbahaya...!"
+                "<size=38>He, he, kayaknya situasinya berbahaya...!</size>"
             ]
         },
         {
@@ -150,8 +154,8 @@
             "name": "Monolog",
             "text": "Karya ini memiliki 'detail realistis' di dasar ceritanya,\nyang bisa ada karena keseriusan Keajaiban dalam mencari informasi.",
             "choice_data_list": [
-                "Kamu memang serius banget sama komik ya.",
-                "Kamu memang serius banget sama komik ya."
+                "<size=38>Kamu memang serius banget sama komik ya.</size>",
+                "<size=38>Kamu memang serius banget sama komik ya.</size>"
             ]
         },
         {

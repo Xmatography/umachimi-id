@@ -1,0 +1,305 @@
+{
+    "title": "Trainer 100 ~ 100 Hal Ingin Dilakukan Bersama Trainer~",
+    "text_block_list": [
+        {
+            "name": "Kiseki ?",
+            "text": "...Hah, hah, hah...\nKamu baik-baik saja? Masih bisa lari?",
+            "choice_data_list": [
+                "Hah, hah... ma, masih...!"
+            ]
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Syukurlah... kalau gitu, ayo kita lanjut lagi!\nKalau nggak, mereka—"
+        },
+        {
+            "name": "Zombie",
+            "text": "Ua... Uwaaaahhh!!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "————!!! Bangun!!\nCepetaaan!!"
+        },
+        {
+            "text": "Tahun 2045. Awal musim panas. Sebuah pagi yang cerah.\nKeputusasaan dimulai"
+        },
+        {
+            "text": "Umat manusia hanya dalam waktu kurang dari satu bulan dikuasai oleh mayat—ZBSS—yang melahap segala makhluk hidup... kehilangan keseharian yang damai."
+        },
+        {
+            "name": "Kiseki?",
+            "text": ".Sejauh ini, barikade sudah jadi!\nZBSS juga seharusnya nggak bisa masuk ke sini buat sementara waktu!",
+            "choice_data_list": [
+                "<size=35>Untuk sementara, semoga bisa bertahan 1/2 Hari.</size>"
+            ]
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "..... Di seberang sana ada toko baju.\nKarena ini keadaan darurat. Aku akan ambil baju ganti!"
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Ta-da! Gimana?\nKelihatan keren nggak?",
+            "choice_data_list": [
+                "Ish Lagi Genting begini , masih sempatnya~"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "---- Justru itu "
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Ini mirip sama setelan favoritku dari suatu karakter.\nMakanya aku pilih ini."
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Sampai baju yang dipakai waktu mati pun, nggak bakal aku kasih mereka pilih.",
+            "choice_data_list": [
+                "...........Kamu beneran..",
+                "...........Kamu beneran.."
+            ]
+        },
+        {
+            "text": "Atau lebih tepatnya, ini baru pertama kali tapi... seru ya! Cosplay! Bener juga! Mau coba bareng? Aku bakal pilihkan buat kamu!",
+            "name": "Kiseki ?"
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Bagus! Cocok banget!\nEmang jas tuh, makin dewasa yang pake makin kece ya!",
+            "choice_data_list": [
+                "<size=35>A, yang norak gini kan nggak dipake buat kerja</size>"
+            ]
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Beneran? Kalau gitu mulai sekarang,\nboleh juga tuh dipake buat berangkat kerja!",
+            "choice_data_list": [
+                "<size=36>Jas Ungu Bunga ? Nanti Kaget Rekan Kerjaku!~</size>"
+            ]
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Ahaha! Kalau gitu, berikutnya mau coba yang mana?\nKayak penyihir, atau yang bergenre fantasi? Mau coba ga!?"
+        },
+        {
+            "text": "Bagi ku, waktu itu adalah momen berharga seperti permata.\nMelupakan segalanya, tertawa bersamanya—25 menit terakhir itu"
+        },
+        {
+            "text": "Bagi ku, waktu itu adalah momen berharga seperti permata.\nMelupakan segalanya, tertawa bersamanya—25 menit terakhir itu"
+        },
+        {
+            "text": "Nggak... nggak mau!!\nNggak mau, kayak gitu... nggak mau...!",
+            "name": "Kiseki ?",
+            "choice_data_list": [
+                "(Jangan nangis begitu! Kamu harus hidup!",
+                "(Jangan nangis begitu! Kamu harus hidup!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kita kan udah janji! Ayo kita ke『Pameran Ilustrasi Asli』 lagi! Katanya mau foto sama Ushippi... janji...!"
+        },
+        {
+            "name": "Kiseki ?",
+            "text": "Jangan tinggalin aku...! Mohon...!\nAku juga, ikut.!",
+            "choice_data_list": [
+                "Hadapi , Dan Majulah ! Joanne...",
+                "Hadapi , Dan Majulah ! Joanne...."
+            ]
+        },
+        {
+            "name": "Joanne",
+            "text": "Aaaaaa...! ...Uuuu... hik... .**\n............—Aku nggak akan memaafkan"
+        },
+        {
+            "name": "Joanne",
+            "text": ".Aku akan mengakhiri semuanya. Demi masa depan.\nTunggu aja. Aku akan bertahan hidup seperti itu—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "—GIMANA NIH!!!?"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ah, maaf suaraku kedengeran...! Ehm, itu...\nIni sebenarnya karya yang cukup aku banggakan sih... gi, gimana tadi?"
+        },
+        {
+            "text": "\nSuatu hari selama pelatihan musim panas. Mengoperasikan tablet, ku tutup naskah yang diberikan Kiseki.Untuk kesan karyanya yang berjudul『I'm Last One』—\n\n",
+            "choice_data_list": [
+                "Seru banget! Keren abis!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "-------------"
+        },
+        {
+            "text": "Yess—!! Hore—!!\nTerima kasih banyak!",
+            "name": "Kiseki"
+        },
+        {
+            "text": "Sebagai panic-horror mainstream, karya ini melakukan apa yang seharusnya dilakukan—karya yang solid.Daya gambar zombienya, pesona karakternya bikin ketagihan, dan yang paling utama—",
+            "choice_data_list": [
+                "<size=36>Bagian departemen store di tengah? Sugoi~!</size>"
+            ]
+        },
+        {
+            "text": "Aku jelaskan bahwa adegan itu baru bisa bikin senyum karena interaksi ceria antar karakter hanya bisa muncul setelah ketegangan terus-menerus di bagian sebelumnya."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Waaah~! Senang banget denger itu!\nTerima kasih banyak! ...Waduh, pipiku jadi rileks!\""
+        },
+        {
+            "name": "Kiseki",
+            "text": "Tapi, bener sih! Adegan di mana Joanne dan teman-teman\nbuka festival cosplay di department store itu, juga dapat pujian dari banyak orang!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Atau lebih tepatnya... hehe.\nApa kamu sadar sesuatu?"
+        },
+        {
+            "text": "Saat diingatkan, aku teringat satu hal yang mengganggu.\nJangan-jangan, adegan festival cosplay itu—",
+            "choice_data_list": [
+                "Jadi itu Pengelaman Kemarin ?",
+                "Jadi itu Pengelaman Kemarin ?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya!!! Sebenarnya begitu!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Waktu bikin sketsa, aku mikir 'INI NIH!!'\nTerus aku coba masukin, dan jadilah adegan yang aku juga suka banget!",
+            "choice_data_list": [
+                "Oh gitu! Makanya, di adegan lain juga—"
+            ]
+        },
+        {
+            "text": "Adegan foto bersama maskot, melihat naskah asli komik...\nternyata ada penggambaran yang mirip 'pengalaman di hari itu'—aku jadi paham tapi—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hah? Adegan lain juga?\nNggak, yang aku jadikan referensi itu... cosplay—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Eh? Bener juga ya.\nPenggambaran jalan-jalan ke pameran ilustrasi asli berdua itu juga, persis banget, pengalamanku sama trainer—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "…………………Ah!!!?",
+            "choice_data_list": [
+                "Woah!? A, ada apa?",
+                "Woah!? A, ada apa?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": ".Ehm, itu, sebentar!!\nBoleh nggak aku bawa pulang dulu!?"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Pe, permisi dulu! Assalamualaikum",
+            "choice_data_list": [
+                "Eh , Kiseki"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya. Iya.\nIni, udah... nggak bisa ngeles lagi, gitu."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ahaha, bahaya.\nMuka, panas banget."
+        },
+        {
+            "text": "Malam itu. Dipanggil Kiseki ke pantai,\nsaat tiba di sana—langsung diberi hadiah.",
+            "choice_data_list": [
+                "Ehm , ini Apa maksudnya ?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ini terima kasih. Isinya komik rekomendasi dariku...\nsengaja genre dibuat beragam, jadi pasti ada karya yang kamu suka!",
+            "choice_data_list": [
+                "Makasih! Tapi, terima kasih buat... apa?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "\"Itu, ehm... tadi, juga kamu tunjukin ke trainer kan?\nKomik itu, karena kamu kasih aku kesempatan buat gambar—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sebenarnya~... waktu sketsa komik itu lagi dibuat, semangat nggambar lagi tinggi banget!\nPercaya diri banget bisa jadi karya bagus, tapi... itu—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Itu karena pengalaman bareng trainer\nbener-bener seru banget"
+        },
+        {
+            "text": "Waktu dibaca ulang, ternyata terlalu jelas. Di bagian-bagian yang nggak aku sadari pun,cuma yang digambar cuma soal pameran komik bareng trainer",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ya wajar aja jadi seru!\nSoalnya—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Aku taruh momen yang menurutku 'seru' ke dalam karya itu."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Dari tiap panelnya, terus nempel...\nPerasaan 'Seru banget main bareng trainer"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Makanya... ehehe.\nMakasih banyak."
+        },
+        {
+            "name": "Kiseki",
+            "text": "Sudah memberiku pengalaman yang tak ternilai.",
+            "choice_data_list": [
+                "Oh gitu. Kalau bisa membantu, baguslah!"
+            ]
+        },
+        {
+            "text": "Aku tak bisa menahan rasa senang mendengar kata-kata Kiseki.\nMeski hanya sekadar menghabiskan waktu bersama, rupanya aku bisa menjadi bahan bakar kreatifitasnya.",
+            "choice_data_list": [
+                "Kalau Begitu , Besok Mau Kemana Lagi ?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": ".............Eh?",
+            "choice_data_list": [
+                "Kalau untuk komikmu, aku pasti bantu!",
+                "Kalau untuk komikmu, aku pasti bantu!"
+            ]
+        },
+        {
+            "text": "…Ahaha.\nBeneran deh, trainer—",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kan udah bilang? Udah dapat kata-katamu, lho?\nKalau trainer nggak keberatan, aku bakal ajak ikut lagi!?",
+            "choice_data_list": [
+                "Ah, ayo sini!",
+                "Ah, ayo sini!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Hehe... senyum yang kayak lagi pake satu halaman spread di komik."
+        },
+        {
+            "text": "Nggak bisa ngalahin deh, beneran.",
+            "name": "Kiseki"
+        }
+    ]
+}

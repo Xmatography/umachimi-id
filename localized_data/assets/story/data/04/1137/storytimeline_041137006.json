@@ -1,0 +1,303 @@
+{
+    "title": "Kiseki No Tore",
+    "text_block_list": [
+        {
+            "name": "Kiseki",
+            "text": "Coba liat, Trainer! Dengan dorongan yang bikin garis kecepatan makin kencang! Ayo kita hadapi!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Yang ditunggu-tunggu, 『Pameran Komik』ini!"
+        },
+        {
+            "text": "Hari ini, aku menerima tiket sisa\ndan datang ke 'Pameran Komik' bersama Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Waa—! Liat dong, Trainer!!\nItu tuh! Itu!",
+            "choice_data_list": [
+                "Wah, lucu! Maskot kambing!",
+                "Wah, lucu! Maskot kambing!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Itu Yagyippy dari『Cobalt Seekers』!\nHai! Yagyippy!! Aku fans! Foto bareng yuk—!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Hmm. Bulu Yagyippy ternyata lebih kasar dari yang kubayangkan ya.Itu settingan resmi kah? Atau cuma di kostum itu doang?",
+            "choice_data_list": [
+                "<size=38>.Hah, jadi tadi mau difoto buat referensi?</size>"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Uwaaaaaaaaa...!!!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Naskah asli sensei Shishizaki... berkilau, beneran...!!\nBukan cuma gambar karakternya. Tiap garis efeknya detail banget, halus banget—"
+        },
+        {
+            "text": "Nggak ada keraguan. Dari tahap sketsa aja udah kelihatan wujud akhirnya...\n—Wuih~~!! Aku juga pengen gambar kayak gitu!!",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "Haha. Kamu pasti bisa, semangat!",
+                "Haha. Kamu pasti bisa, semangat!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kereeeeennn—! Detail banget ya, lukisan latar ini!\nCara gambar langit mendung juga jelas disesuain sama tone komik aslinya!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Haha. Beneran, kayak lagi ada di dunia『Pale Gang』!\n...Iya bener! Trainer, ayo kita mainin adegan itu!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "——Aku yang berangkat.\nKalian tunggu di sini, peluk lutut atau apa deh.",
+            "choice_data_list": [
+                "Na... kenapa kamu, sampai segitu!?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "『Ini nyawaku.\nMau dipake buat apa, terserah dong.』"
+        },
+        {
+            "name": "Kiseki",
+            "text": "…………Wuih~~!\nSeru— banget!!",
+            "choice_data_list": [
+                "Btw , aku juga jadi ikutan senang nih"
+            ]
+        },
+        {
+            "text": "Setelah berkeliling ke berbagai area pameran,\nkami beristirahat sebentar di kafe yang menyatu dengan tempat pameran—\n\n"
+        },
+        {
+            "name": "MC Acara",
+            "text": "『Selamat siang, pengunjung sekalian! Hari ini pukul 16.00,\ndi panggung utama, akan diadakan sesi coba cosplay karakter』"
+        },
+        {
+            "name": "MC Acara",
+            "text": "『Kostum dan aksesoris sudah kami sediakan di sini, jadi jangan ragu! Mau coba berdiri di panggung dengan berperan menjadi karakter favorit kalian?』"
+        },
+        {
+            "name": "MC Acara",
+            "text": "『Saat ini masih ada beberapa kursi kosong!\nBagi yang ingin berpartisipasi, silakan ke booth pendaftaran di samping panggung utama—』"
+        },
+        {
+            "name": "Kiseki",
+            "text": "—Oke.\nAku ikutan!",
+            "choice_data_list": [
+                "Wah... agresif ya?",
+                "Wah... agresif ya?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya, soalnya ini pengalaman langka.\nKalau ada kesempatan, harus disikat dong!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Biar bisa gambar komik yang seru!!",
+            "choice_data_list": [
+                "<size=38>Kamu bener-bener penuh gairah sama komik ya!</size>",
+                "<size=38>Kamu bener-bener penuh gairah sama komik ya!</size>"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya! Soalnya— buat ngeluarin cerita yang seru, aku sendiri harus punya 'tabungan' dulu!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kalau hari ini aku coba cosplay, pasti nanti bakal berguna\nwaktu gambar 'karakter yang suka cosplay', kan?"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Kalau gitu, harus coba dulu dong!",
+            "choice_data_list": [
+                "............"
+            ]
+        },
+        {
+            "text": "Aku terdiam sejenak oleh semangatnya.\nSama seperti waktu dia riset untuk komik dulu, sikap Keajaiban terhadap 'proses kreatif' memang sangat serius—",
+            "choice_data_list": [
+                "..Aku juga pengen bantu",
+                "..Aku juga pengen bantu"
+            ]
+        },
+        {
+            "text": "Begitu terpikir, secara alami\naku pun mengajukan tawaran ini pada Keajaiban.",
+            "choice_data_list": [
+                "Itu, boleh juga aku ikut?",
+                "Itu, boleh juga aku ikut?"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Hah, tentu saja!! —Asyik!\nTrainer juga tertarik sama cosplay ya!?"
+        },
+        {
+            "text": "Mendengar kata-kata Keajaiban, aku menggeleng kecil.\nAlasan ingin ikutanku bukan itu—",
+            "choice_data_list": [
+                "<size=38>Karenamu aku bisa dapet pengalaman seru!</size>",
+                "<size=38>Karenamu aku bisa dapet pengalaman seru!</size>"
+            ]
+        },
+        {
+            "text": "Dengan ikut serta dalam sesi cosplay, aku bisa berikan\n'kesan dari sudut pandangku' padanya, dan selain itu—\n\n"
+        },
+        {
+            "text": "Pengalaman 'ikut berdua' itu juga bisa kusumbangkan untuk Keajaiban.Kalau bisa jadi bekal kreatifnya, tak ada alasan untuk tidak ikut"
+        },
+        {
+            "name": "Kiseki",
+            "text": "--------"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Trainer... sampai segitu..."
+        },
+        {
+            "text": "..Haha. Oke—! Ayo kita lakukan!\nKita bakal tampilin cosplay terkeren yang bikin semua orang terpaku!!"
+        },
+        {
+            "text": "Wahhh, gimana nih. Cosplay『Hyoutou no Hitoha』 juga bagus!\nPengen coba kimono... tapi kalau dipikir-pikir soal cinta karakter...!",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "<size=36>Lagi ada kesempatan, cosplay yang kamu pengen aja</size>"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "...Iya! Bener juga ya!\nKalau gitu, yang lagi ngetren banget—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "a-da! Gimana?\nIni『Kiila』 dari『Guns & Gunpowder』!",
+            "choice_data_list": [
+                "Wah , Cakep Banget!",
+                "Wah , Cakep Juga!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Ehehe! Kesan 'Pembunuh kelas 7' ada nggak?\nAku suka banget sama karakter ini~! Soalnya punya estetika sendiri!"
+        },
+        {
+            "text": "Chemistry-nya sama cosplay『Laaky』-nya Trainer juga top banget! Aku yakin mereka berdua yang bisa ngalahin pembunuh terkuat!",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Atau lebih tepatnya, Trainer juga... bagus! Keren kok, cocok!\nEmang jas tuh, makin dewasa yang pake makin kece ya!",
+            "choice_data_list": [
+                "B, beneran? Makasih. ><"
+            ]
+        },
+        {
+            "text": "Sambil merasa malu, aku menerima pujian Keajaiban.\nSetelan jas sekeren ini pun tak pernah kupakai untuk bekerja.\n"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Beneran? Kalau gitu, mulai sekarang!\nBoleh juga tuh dipake buat berangkat kerja!",
+            "choice_data_list": [
+                "Ah yang benar aja , Jas Motif Bunga?!"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Haha, nggak boleh ya~. Kalau gitu,\npenampilan Trainer ini harus langsung kuabadikan nih!"
+        },
+        {
+            "name": "MC Acara",
+            "text": "Selanjutnya, peserta berikutnya datang berpasangan! Dari『Guns & Gunpowder』mari sambut『Kiila』 dan『Laaky』!"
+        },
+        {
+            "name": "MC Acara",
+            "text": "Wah! Keduanya memakai setelan jas yang rapi,\npersis seperti julukan mereka di cerita—『Duo Berdarah』!"
+        },
+        {
+            "name": "MC Acara",
+            "text": "Kalau begitu, sepatah kata!\nSilakan ucapkan dialog andalan kalian!"
+        },
+        {
+            "text": "『Udah telepon bilang 'dada' ke mama belum?\nKalau belum, buruan selesaiin.』",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "<size=37>Lalu,『Itu jadi bakti terakhirmu ke orangtua.』</size>"
+            ]
+        },
+        {
+            "name": "MC Acara",
+            "text": "Terima kasih banyak! Keajaiban-san\ndan trainernya! Mari kita berikan tepuk tangan meriah!!"
+        },
+        {
+            "name": "Kisek",
+            "text": "Wah—, Trainer!\nTadi seru banget ya! Jadi pengalaman yang berharga!"
+        },
+        {
+            "text": ".Aku kayaknya jadi agak ngerti perasaan orang yang cosplay.\nDasarnya cinta sama karakternya—lalu meluap jadi aksi itu.",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Mau ungkapin cinta ini lewat sesuatu!' Salah satu cara setelah itu mungkin adalah cosplay. Waktu berdiri di panggung, aku mikir kayak gitu.",
+            "choice_data_list": [
+                "<size=34>Kayanya hari ini Bakal cukup berharga buatmu ya!</size>"
+            ]
+        },
+        {
+            "name": "Kiseki",
+            "text": "Iya!!!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Dari milih karakter, pose andalan, konsultasi dialog yang dipakai...Kita lakukan berdua, tiap langkahnya seru banget"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Pasti bakal seru juga kalau aku ikut sendirian—\ntapi karena bareng kamu! Pengalamannya jadi lebih dari yang kubayangin!",
+            "choice_data_list": [
+                "Oh gitu. Kalau gitu, baguslah!"
+            ]
+        },
+        {
+            "text": "Haha. Ayo cosplay bareng lagi ya!\nBahkan di akademi lain kali!",
+            "name": "Kiseki",
+            "choice_data_list": [
+                "I, itu boleh dipikir dulu?"
+            ]
+        },
+        {
+            "text": "………………………………Hah!\nWah, aku lagi masuk zone nih! Apa aku jenius~~~!?",
+            "name": "Kiseki"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Memang hari di mana bisa 'dapet pengalaman seru', semangat kreatifnya jadi meluap-luap ya!\nSemua ini juga berkat 'Pameran Komik'—"
+        },
+        {
+            "name": "Kiseki",
+            "text": "..Nggak, mungkin.\nItu juga ada sih."
+        },
+        {
+            "text": "'Itu, boleh juga aku ikut?"
+        },
+        {
+            "text": "'Itu, boleh juga aku ikut?"
+        },
+        {
+            "name": "Kiseki ",
+            "text": "Tentu aja donk.....!"
+        },
+        {
+            "name": "Kiseki",
+            "text": "Pengen pergi lagi, bareng."
+        }
+    ]
+}

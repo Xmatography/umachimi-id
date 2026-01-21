@@ -37,8 +37,8 @@
             "name": "Kiseki",
             "text": "Situasi kayak gini, persis kayak 'scene pembuka' di komik ya...\nPasti penasaran kan『Gimana caranya Kiseki ngadapi rival kuat kayak gini?』... gitu",
             "choice_data_list": [
-                "...Ah, aku pengen liat kamu jadi tokoh utama!",
-                "...Ah, aku pengen liat kamu jadi tokoh utama!"
+                "<size=32>...Ah, aku pengen liat kamu jadi tokoh utama!</size>",
+                "<size=32>...Ah, aku pengen liat kamu jadi tokoh utama!</size>"
             ]
         },
         {
@@ -118,9 +118,9 @@
         },
         {
             "name": "Monolog",
-            "text": "Kiseki tak bisa ikut perebutan posisi atas, malah terus terlempar ke belakang.\n...Tak ada penampilan mencolok yang bisa dia tunjukkan.\n\n",
+            "text": "Kiseki tak bisa ikut perebutan posisi atas, malah terus terlempar ke belakang....Tak ada penampilan mencolok yang bisa dia tunjukkan.\n\n",
             "choice_data_list": [
-                "(Tapi setidaknya usahanya patut diapresiasi...)"
+                "<size=35>(Tapi setidaknya usahanya patut diapresiasi...)</size>"
             ]
         },
         {
@@ -166,8 +166,8 @@
             "name": "Monolog",
             "text": "Memang, mungkin dia tidak punya momen puncak di lomba kali ini.\nTapi sikapnya yang 'berani tantang rival kuat' sebelumnya, membuatku—",
             "choice_data_list": [
-                "(Menurutku, kamu MC yang hebat—!)",
-                "(Menurutku, kamu MC yang hebat—!)"
+                "<size=38>(Menurutku, kamu MC yang hebat—!)</size>",
+                "<size=38>(Menurutku, kamu MC yang hebat—!)</size>"
             ]
         },
         {
@@ -185,7 +185,7 @@
             "name": "Kiseki",
             "text": "Oke... sekarang tinggal ketemu trainer lagi..",
             "choice_data_list": [
-                "Kiseki , Apa yang tadi kamu bicarakan...!"
+                "<size=38>Kiseki , Apa yang tadi kamu bicarakan...!</size>"
             ]
         },
         {

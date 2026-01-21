@@ -24,20 +24,20 @@
         {
             "text": "Memang, Keajaiban sangat bersemangat dengan situasi ini,\ntapi sebagai seorang trainer, perasaanku agak rumit.",
             "choice_data_list": [
-                "Ini adalah \"pertarungan\" dari sisi trainer"
+                "<size=38>Ini adalah \"pertarungan\" dari sisi trainer</size>"
             ]
         },
         {
             "text": "Menghadapi Uma Musume menarik seperti Kiseki, bagaimana caraku menunjukkan bahwa'aku adalah trainer yang bisa membimbingnya ke mimpinya?",
             "choice_data_list": [
-                "(Tak kusangka akan jadi situasi seperti ini...!)"
+                "<size=38>(Tak kusangka akan jadi situasi seperti ini...!)</size>"
             ]
         },
         {
             "text": "Tapi karena aku sudah jatuh cinta dengan gaya larinya, aku tidak boleh kalah.",
             "choice_data_list": [
-                "(Aku juga akan bantu dengan sepenuh hati!!)",
-                "(Aku juga akan bantu dengan sepenuh hati!!)"
+                "<size=38>(Aku juga akan bantu dengan sepenuh hati!!)</size>",
+                "<size=38>(Aku juga akan bantu dengan sepenuh hati!!)</size>"
             ]
         },
         {
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "text": "Aku liat di komik balap mobil! Di balapan, kecepatan di tikungan\nsama pentingnya kayak kecepatan maksimum di lintasan lurus! Makanya—",
+            "text": "Aku liat di komik balap mobil! Di balapan, kecepatan di tikungansama pentingnya kayak kecepatan maksimum di lintasan lurus! Makanya—",
             "name": "Kiseki"
         },
         {
@@ -79,8 +79,8 @@
             "name": "Kiseki",
             "text": "...? Hari ini trainer rasanya agak ragu.\nTerus aja nyilangin tangan.",
             "choice_data_list": [
-                "(Ah, aku cuma pengen serius ngedengerin idemu)",
-                "(Ah, aku cuma pengen serius ngedengerin idemu)"
+                "<size=38>(Ah, aku cuma pengen serius ngedengerin idemu)</size>",
+                "<size=38>(Ah, aku cuma pengen serius ngedengerin idemu)</size>"
             ]
         },
         {
@@ -89,15 +89,15 @@
         {
             "text": "Tapi dia tidak melakukannya. Pasti ada alasannya.\nKalau dia tidak menyadarinya... aku akan bantu merumuskannya, mengubah alam bawah sadarnya menjadi bentuk nyata.",
             "choice_data_list": [
-                "Coba kembangkan ide itu jadi alternatif lain."
+                "<size=38>Coba kembangkan ide itu jadi alternatif lain.</size>"
             ]
         },
         {
             "name": "Kiseki",
             "text": "Eh... alternatif lain...?\nHmm... eeeh~...!?",
             "choice_data_list": [
-                "Kamu pasti bisa nemuin ide yang lebih seru lagi.",
-                "Kamu pasti bisa nemuin ide yang lebih seru lagi."
+                "<size=38>Kamu pasti bisa nemuin ide yang lebih seru lagi.</size>",
+                "<size=38>Kamu pasti bisa nemuin ide yang lebih seru lagi.</size>"
             ]
         },
         {
@@ -118,7 +118,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "(Padahal ada orang yang kayak gini, yang nggak ikut campur dan ngasih kebebasan!\nKamu kan dulu cuma pembaca...! Tapi kenapa, aku—)"
+            "text": "(Padahal ada orang yang kayak gini, yang nggak ikut campur dan ngasih kebebasan! Kamu kan dulu cuma pembaca...! Tapi kenapa, aku—)"
         },
         {
             "text": "『Kamu pasti bisa nemuin ide yang lebih seru lagi』"
@@ -147,7 +147,7 @@
         {
             "text": "Kiseki adalah Umamusume Jiwa seniman. Pasti dia ingin mengerjakan karyanya dengan nyaman.Tapi situasi yang membuatnya terjebak seperti ini seharusnya tidak disukainya.\n\n",
             "choice_data_list": [
-                "Tapi, meski begitu... aku pengen nyelesain ini"
+                "<size=38>Tapi, meski begitu... aku pengen nyelesain ini</size>"
             ]
         },
         {
@@ -215,9 +215,9 @@
             "text": "Pertama, liat dulu! Boleh kasih pendapat?\nPagi ini nemu ide yang bikin semangat! Udah nggak sabar nih!"
         },
         {
-            "text": "Melepaskan payung dan bahan referensi yang kubawa, aku menerima tablet darinya.\nKaget. Tak kusangka dia akan berlari ke sini—dia benar-benar—",
+            "text": "Melepaskan payung dan bahan referensi yang kubawa, aku menerima tablet darinya. Kaget. Tak kusangka dia akan berlari ke sini—dia benar-benar—",
             "choice_data_list": [
-                "Sampai Mana Tekad Dan Semangatnya ?!"
+                "<size=38>Sampai Mana Tekad Dan Semangatnya ?!</size>"
             ]
         },
         {

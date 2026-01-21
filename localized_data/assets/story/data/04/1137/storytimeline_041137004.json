@@ -40,8 +40,8 @@
             "name": "Kiseki",
             "text": "E, Trainer! Boleh minta waktu strategi terakhir nggak?\nItu, sebentar aja! Cuma 2 panel, kok!",
             "choice_data_list": [
-                "Ah, tentu. Mari redakan ketegangan bersama.",
-                "Ah, tentu. Mari redakan ketegangan bersama."
+                "<size=38>Ah, tentu. Mari redakan ketegangan bersama.</size>",
+                "<size=38>Ah, tentu. Mari redakan ketegangan bersama.</size>"
             ]
         },
         {
@@ -62,13 +62,13 @@
         },
         {
             "name": "Kiseki",
-            "text": "Sama seperti sebelumnya, ada Satono Crown, Satono Diamond.\nDan... kakaknya Vibrose, Schwarzer Kran."
+            "text": "Sama seperti sebelumnya, ada Satono Crown, Satono Diamond. Dan... kakaknya Vibrose, Schwarzer Kran."
         },
         {
             "name": "Kiseki",
             "text": "Bahkan menghadapi lawan yang menyimpan kekuatan sehebat itu.\nAku akan—",
             "choice_data_list": [
-                "Menciptakan balapan paling seru, dan menang."
+                "<size=38>Menciptakan balapan paling seru, dan menang.</size>"
             ]
         },
         {
@@ -83,7 +83,7 @@
             "name": "Senior",
             "text": "Apakah kamu bisa mengajarinya dasar-dasar yang cukup untuk mengatasi itu?",
             "choice_data_list": [
-                "Tidak. Terkadang hal menarik harus beda!~"
+                "<size=38>Tidak. Terkadang hal menarik harus beda!~</size>"
             ]
         },
         {
@@ -108,7 +108,7 @@
             "name": "Trainner Akademi",
             "text": "Iya, itu bikin deg-degan banget! Eh tunggu!\nJadi arahanmu adalah mengubah Keajaiban jadi 'front runner'!?",
             "choice_data_list": [
-                "Tidak, performa bisa berubah setiap balapan."
+                "<size=38>Tidak, performa bisa berubah setiap balapan.</size>"
             ]
         },
         {
@@ -125,7 +125,7 @@
             "name": "Trainner Akademi",
             "text": "Dengan gaya lari yang benar-benar berbeda dari sebelumnya, apa bisa menang...?Hal seperti itu... —, kalau 'kemungkinan tak terduga' seperti itu bisa terwujud...!",
             "choice_data_list": [
-                "Ya! Gaya lari bikin ga bisa berhenti nonton!"
+                "<size=38>Ya! Gaya lari bikin ga bisa berhenti nonton!</size>"
             ]
         },
         {
@@ -226,7 +226,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "あたしとあなたが、創るのは――"
+            "text": "Yang Akan Kita Ciptakan Bersama ----"
         },
         {
             "name": "Kiseki",
