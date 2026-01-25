@@ -155,13 +155,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_break_resultpoint_record00/tx_uTex_fl_singlemode_break_resultpoint_record00_0.diff.png",
-      "hash": "a124315cf60a2dbac549f00beb605d8f33be0777304a0dc0511cec7727a051a5",
-      "size": 142210
+      "hash": "dbda680139688a9a6ef25cfae37fe758a30d741ae5fbc1642863c24fb9d196a1",
+      "size": 113784
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_btn_factor_succession00/tx_uTex_fl_singlemode_btn_factor_succession00_0.diff.png",
-      "hash": "b799c32a0442dcb3bc8541ab92c57e122cd1e2f5288277912913a9dc2bd1731c",
-      "size": 72174
+      "hash": "e4e84caae4e61353c5be7c758f20e36181097dd1234d9f9763b5c25d2e6a1af1",
+      "size": 52644
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_btn_trainingmenu00/tx_uTex_fl_singlemode_btn_trainingmenu00_0.diff.png",
@@ -255,18 +255,18 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_activecondition00/tx_uTex_fl_singlemode_eventbonus_activecondition00_0.diff.png",
-      "hash": "4e483d2a0bfaee538606c2c4a8a26be0dedc391a874a75d507458350de9e60fa",
-      "size": 39821
+      "hash": "e4d1a01536aa05685ae7202749a268c7c47a966a8af3153858e0265b008de081",
+      "size": 35780
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_apptraining00/tx_uTex_fl_singlemode_eventbonus_apptraining00_0.diff.png",
-      "hash": "cbf171467ad7790e3cbe2ccf206d00942d9a7d18f13a674d57c753c63fc45cc3",
-      "size": 56087
+      "hash": "961256a414b189b1a50d80389074bc8619be5030cbc8cb0964df8a8c6053a464",
+      "size": 37571
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_dncondition00/tx_uTex_fl_singlemode_eventbonus_dncondition00_0.diff.png",
-      "hash": "545fcefc1e101bca3a80f1b7484b38d5d49dff8eedc278e20321fb3a1584ca8a",
-      "size": 128481
+      "hash": "bcaee55d168f6e687fd9026c1a207012f3fae219cb1eb520f57a0f6e7063a3db",
+      "size": 88952
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_racebonus00/tx_uTex_fl_singlemode_eventbonus_racebonus00_0.diff.png",
@@ -275,13 +275,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_resolvecondition00/tx_uTex_fl_singlemode_eventbonus_resolvecondition00_0.diff.png",
-      "hash": "14dcbfd2190cfdf8bc90cdbe502e6dd555bbbac58bf1c0cfafeb441971b94a60",
-      "size": 38943
+      "hash": "849b5e651f878e2bbc661b87e0054b2ab7d92f60e498c338d2556c5b3a5efc0e",
+      "size": 33834
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_succession00/tx_uTex_fl_singlemode_eventbonus_succession00_0.diff.png",
-      "hash": "73c4db0e7d3f6a2b1ac4048082ff39bd7d1b6de115e3c7b9a0ae599282d3005c",
-      "size": 94858
+      "hash": "39e324318fe7ad9186b3d91bdddfffe577f715d01b3b98605c2abc22b6022b0a",
+      "size": 64897
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_target00/tx_uTex_fl_singlemode_eventbonus_target00_0.diff.png",
@@ -290,28 +290,28 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upcondition00/tx_uTex_fl_singlemode_eventbonus_upcondition00_0.diff.png",
-      "hash": "a157cc476f38822e0d7d62591d715d2f929c1ebbbe2a2e4423d58c9ff8a78611",
-      "size": 134301
+      "hash": "cd5c685f10c31b710d87facb79f58e950c6b21023c09e88aab93551e4edd8ddc",
+      "size": 89160
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upevent00/tx_uTex_fl_singlemode_eventbonus_upevent00_0.diff.png",
-      "hash": "b676725bd6d2aef5f2b1f92ca2816a86fef5ec917f39c0e9ef56d4a18a1e0e24",
-      "size": 79846
+      "hash": "2d9fd7a24771e1d989bfd9549fce6a30206dc4d4447b5ccff5dcb40622a849e1",
+      "size": 50658
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_uphint00/tx_uTex_fl_singlemode_eventbonus_uphint00_0.diff.png",
-      "hash": "82457123b7776e4834f2dd290cb31aa464eb19b1c7b0e60e2f93d418da104445",
-      "size": 126417
+      "hash": "9a867d4591fb18c34b7e270d7aa2eb89eaab828d534d33018fc94fe296f322a6",
+      "size": 126045
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_upskilllv00/tx_uTex_fl_singlemode_eventbonus_upskilllv00_0.diff.png",
-      "hash": "a57d06512b6841c13dc5c332e63875919cf11ff7379e2d20549631dda1d6823a",
-      "size": 138421
+      "hash": "133b1b0310c8bcda82cbce4cf0e6a7d313b1b41a42a973e8894a1a161a87be0c",
+      "size": 95542
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_extrarace_result00/tx_uTex_fl_singlemode_extrarace_result00_0.diff.png",
-      "hash": "d519a00d31a337772b62abf81a0787ccc7d4bd6c00a8485dfc952822b986e9af",
-      "size": 236762
+      "hash": "14a00fc732127e6d26b3f975ae31c4e953234428ffde43afe06f6229e77feb16",
+      "size": 143791
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_free_header_turncounter00/tx_uTex_fl_singlemode_free_header_turncounter00_0.diff.png",
@@ -485,8 +485,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_equipment_get00/tx_uTex_fl_singlemode_onsen_equipment_get00_0.diff.png",
-      "hash": "b8671ef856cfba4cafaad5046ff9c9cd6d488cb16f04aceb8d61a2dcccfcd553",
-      "size": 40699
+      "hash": "fd75e5ba1c8cc16c22d3045fe45e701a09bd3e8ef691c06e02a4914bf4fa2075",
+      "size": 47771
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_hpgauge00/tx_uTex_fl_singlemode_onsen_header_hpgauge00_0.diff.png",
@@ -644,19 +644,24 @@
       "size": 325729
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_chararank00/tx_uTex_fl_singlemode_result_chararank00_0.diff.png",
+      "hash": "f3ed880624f531925e2f545fb5e2a39c2986b003d07285414b1642d9c57142a3",
+      "size": 13001
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sectionstart01/tx_uTex_fl_singlemode_sectionstart01_0.diff.png",
-      "hash": "faa31e9ca7165414ba2fb61f02a6bbef2bd049d3c6eee6571771d397dc9399f8",
-      "size": 53744
+      "hash": "71467fa6dbcd86a963c4ab3614c591923ba5a33c291b0810e22baece6dbce3a3",
+      "size": 38668
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_single_target_achieve00/tx_uTex_fl_singlemode_single_target_achieve00_0.diff.png",
-      "hash": "4d175e10378074ad245cc0eba6a8294350ee23c6e001c748d51a8888435d8e8b",
-      "size": 78205
+      "hash": "2d1fdf5f53a4f2b833ed2538c7e7f74919b5908b8f7caa77d9de82027fbccad5",
+      "size": 57614
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_skillupgrade_skillname00/tx_uTex_fl_singlemode_skillupgrade_skillname00_0.diff.png",
-      "hash": "bc18517c528415d9d58a6aa7ab7b0db328e143b21fc66d64e19ed1e7012023d5",
-      "size": 208459
+      "hash": "0d0aad98eb532664b6e7c19d4fb5cb1a8d3fe746f2c067706ba948b176b870a6",
+      "size": 126086
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sport_btn_trainingmenu00/tx_uTex_fl_singlemode_sport_btn_trainingmenu00_0.diff.png",
@@ -705,13 +710,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_start_succession00/tx_uTex_fl_singlemode_start_succession00_0.diff.png",
-      "hash": "0bf87054fdeb8dd4615a037b2a99e71ec3a82a7bf1c47912e23932d4e81401e5",
-      "size": 69688
+      "hash": "52a4def4b8a52994b46aee2356be8a8686f0b1d2d1d9acd9ea88b830801597bc",
+      "size": 51781
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_start_tagtraining00/tx_uTex_fl_singlemode_start_tagtraining00_0.diff.png",
-      "hash": "c6d68b041e417f5db1ce85719184a7ef3247718834e3db4df1e00207f90737a8",
-      "size": 99789
+      "hash": "480374456106f9660a671a740478a26209a1e573df0639a64c1142e665669f69",
+      "size": 207523
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_teamrace_btn_trainingmenu00/tx_uTex_fl_singlemode_teamrace_btn_trainingmenu00_0.diff.png",
@@ -724,24 +729,39 @@
       "size": 10875
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararank00/tx_uTex_fl_singlemode_title_chararank00_0.diff.png",
+      "hash": "f09eaefa4ed29600f4a1c03796a10159deb409d2203bf0b8335ac9024187dfec",
+      "size": 66513
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararesult00/tx_uTex_fl_singlemode_title_chararesult00_0.diff.png",
+      "hash": "6b3cabceed0946d707e296872d7919d08d6fabdc05eaa0066c7025a4308a1725",
+      "size": 71317
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getfactor00/tx_uTex_fl_singlemode_title_getfactor00_0.diff.png",
+      "hash": "718637038cbb53a2db4f6e565562ab973e529bf2b84354189053e9a24c89f87c",
+      "size": 55482
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getreward00/tx_uTex_fl_singlemode_title_getreward00_0.diff.png",
-      "hash": "15e49802eb915c9634071fb7f0694e6c4d4a951d7e759dcdfe4d0c68f2845cf3",
-      "size": 67574
+      "hash": "0fc0dba383ae4dfcd2cd1f5762aef4df3b77655541ef3585f0f5ca0704b24264",
+      "size": 52470
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_factor_succession00/tx_uTex_fl_singlemode_txt_factor_succession00_0.diff.png",
-      "hash": "42a6129f89bf57324df0ed77fdd1a7695084a8883da66a32d6e7950e17b0fb86",
-      "size": 83222
+      "hash": "f51b7183f67f58ab29e68c8d0e99644e13522e96633fd35b5c6c24c7431c6ec0",
+      "size": 58985
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_tagtrainingresult00/tx_uTex_fl_singlemode_txt_tagtrainingresult00_0.diff.png",
-      "hash": "b7766191b5b29e59928256eb01a6061747be7ee57fb2ef7fd96de2587c3d1eec",
-      "size": 225445
+      "hash": "ebb3218e5f2303c7f86a821b44d52bf4029a03ee380a6f0e041f97863cc27b8b",
+      "size": 444485
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_trainingresult00/tx_uTex_fl_singlemode_txt_trainingresult00_0.diff.png",
-      "hash": "c2a375a48552a0561e5d8fafb388b660f4166768d24f1c066433ac64d3e4de20",
-      "size": 105482
+      "hash": "d8e345bc0a15774b233a66997844deb12e95772426fa5800c960fd181aec8c44",
+      "size": 87718
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_venus_btn_trainingmenu00/tx_uTex_fl_singlemode_venus_btn_trainingmenu00_0.diff.png",
@@ -820,8 +840,8 @@
     },
     {
       "path": "assets/atlas/gacha/gacha.diff.png",
-      "hash": "316ff269f8a82544df13f13da8dff3e16e9bef6c2c5aefce85b8c746ddcfe477",
-      "size": 530647
+      "hash": "f946cf8f721206d52742c50ff60e883c586ee4075bfec314660636a0e29cb3d8",
+      "size": 402745
     },
     {
       "path": "assets/atlas/gacha/gacha.json",
@@ -840,8 +860,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "5ed8045f60af5427d6783ee12d50c286727d583872c3faa848765697c5c95d05",
-      "size": 110420
+      "hash": "11af83d8ad028543c78060d8702cfaf17e75658e01b6463fc92795927dbeab11",
+      "size": 115078
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -880,8 +900,8 @@
     },
     {
       "path": "assets/atlas/race/race.diff.png",
-      "hash": "505008314ddfc36f03173f5458382e85400dd03ec17d94455e8562e454339870",
-      "size": 374921
+      "hash": "5e6a1c026c0d1c3e13a529655b212c2440708d24885e8f649c842c9a95b451ff",
+      "size": 365991
     },
     {
       "path": "assets/atlas/race/race.json",
@@ -1135,8 +1155,8 @@
     },
     {
       "path": "assets/atlas/walking/walking.diff.png",
-      "hash": "bae6b4b8655e5ecbd6fbc19e9f9db6758554d08c74e0c7880764d501d877c982",
-      "size": 25622
+      "hash": "d149de69ab96977195e430eb76529f82b784a6f195174e457e3159b0eb293ff7",
+      "size": 235240
     },
     {
       "path": "assets/atlas/walking/walking.json",
@@ -8035,13 +8055,13 @@
     },
     {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0070.diff.png",
-      "hash": "3c9caa4b77effeb6060a647b97345e95f45b70355fa169c40b2cdf1eaa6790b8",
-      "size": 7333
+      "hash": "95dc4c2cdeca04dac0cc34cc16fd8dd90140c4bf323cc145055a8738562c1fb1",
+      "size": 9889
     },
     {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0071.diff.png",
-      "hash": "e1770b70e6212ad73b409983dbc0ce651630d6a9795824904d9829378e1e8ca0",
-      "size": 7911
+      "hash": "89f40d26bfdf0ceb8cafee6b813a746807c49f6e11c1ffbf01355621709a9640",
+      "size": 10318
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
