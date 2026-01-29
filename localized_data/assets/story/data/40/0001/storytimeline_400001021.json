@@ -1,0 +1,139 @@
+{
+    "text_block_list": [
+        {
+            "text": "Bersama <chrname> terus berlari,\nhari demi hari pun berlalu dengan cepat."
+        },
+        {
+            "text": "Dan—"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Minna ! , Aku Bawa Kabar Gembira!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Umamusume yang kamu latih , dinilai hasil latihannya ~~"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Sugoi~ , Keikutsertaan Peserta 『URA Finals』sudah di putuskan !",
+            "choice_data_list": [
+                "(Terima kasih banyak!)"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Ihh Malu Banget ! Harus nya aku yang berterimakasih!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Kamu sudah memenuhi ekspetasi untuk menciptakan Superstar Umamusume."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Luar Biasa ! , Kamu Sudah Mebuktikannya ?!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Kalau ada umamusume yang bisa melirik orang-orang bergabung , aku yakin balapannya akan menarik!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Aku yakin 『URA Finals』akan menjadi panggung besar impian\nyang bisa dinikmati semua orang!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Mungkin hasil dari kalian melebihi ekspetasiku !"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Pasti nanti banyak sorakan , sudah pasti meriah banget !"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dengan Umamusume binaanmu di 『URA Finals』tidak akan gagal dengan mudah "
+        },
+        {
+            "text": "Oh , Iya . Satu hal lagi",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Justru Karena bantuan kalian semua , URA bisa sampai sejauh ini."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Di lintasan『URA Finals』, Kalian Berlari----"
+        },
+        {
+            "text": "Dan, rumput hijau subur yang ditumbuhkan\nbanyak orang akan melambai ditiup angin!",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Pokoknya , sungguh--- , Aku berterimakasih banyak !!!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "—Nah,『URA Finals』sudah di depan mata!\nAku tunggu performa terbaiknya!",
+            "choice_data_list": [
+                "Akan kubuat pertandingan ini menarik!"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Umu! , Jadikan Lomba ini Impian yang berkesan bagi Umamusume !!"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Selamat Ya ! , \nTrainer <username>!"
+        },
+        {
+            "name": "Happy Meek ",
+            "text": "( Tepuk Tangan )......"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Sebenarnya ya .... , ya kami juga bisa ikut . kebetulan baru dengar kabarnya ."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "... :v"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Aku yakin , Meek pasti akan menang"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Dan.. Sebagai Trainer , aku yakin tidak akan  mengalah !"
+        },
+        {
+            "name": "Trainner Kyurin",
+            "text": "Walaupun Ilmu darimu banyak ku pelajari agar aku bisa setara dengan mu saat ini ."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "... Aku Pasti Bisa "
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Dari Trainer , Maupun umamusume binaanmu , aku tidak akan kalah !"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Trainer-ku Itu Hebat ! , \nSombong Dikit  TvT.........."
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Fufu... Terimakasih , Meek"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Nah... Trainer <username>!\nMari bersama-sama membuat Uma Musume binaan kita bersinar!"
+        },
+        {
+            "text": "Dengan demikian, partisipasi『URA Finals』—tempat berkumpulnya para juara terpilih—telah dipastikan!"
+        }
+    ]
+}

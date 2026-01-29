@@ -1,0 +1,292 @@
+{
+    "text_block_list": [
+        {
+            "text": "Krisis penyelenggaraan『URA Finals』\ntelah menyebarkan keresahan ke segala penjuru...\n\n"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hah, masa sih...『URA Finals』\nbisa jadi batal!?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Seriusan... cih, udah mikirin cara\nngalahin Scarlet dengan telak nih~"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wah, nggak boleh didengerin gitu aja nih!?\nUdah ah, padahal mau selesaiin di balapan...!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Kuooooh, syok banget nih...!!\nDiriku udah latihan keras buat『URA Finals』lho...!!"
+        },
+        {
+            "text": "Aku juga... sayang sekali. Pengen banget lari.",
+            "name": "Oguri Cap"
+        },
+        {
+            "text": "Makanan kaki lima... juga pengen kucoba............!!\"\nSungguh............!!",
+            "name": "Oguri Cap"
+        },
+        {
+            "text": "...Soal pembatalan『URA Finals』.**\nSepertinya ketidakpuasan juga menyebar\ndi antara para murid",
+            "name": "Air Groove"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm...."
+        },
+        {
+            "name": "Warga Pasar 1",
+            "text": "Trainer, bentar!\nBeneran nih『URA Finals』dibatalkan?\nPadahal banyak yang mau disemangatin tuh..."
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Begitu rupanya, rumput pengganti tidak bisa disiapkan."
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Tidak mungkin kita membahayakan peserta dengan rumput yang rusak...\nSayang sekali ya"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Saya dengar soal『URA Finals』...\nSangat disayangkan"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "ni adalah balapan di mana aku dan Meek benar-benar bergandengan tangan\ndan bersama mengincar kemenangan..."
+        },
+        {
+            "text": "Orang-orang yang menantikan『URA Finals』,\nyang menjadikannya target—"
+        },
+        {
+            "text": "Panggung besar yang dimulai dari deklarasi Ketua Akikawa ini, tanpa disadari telah mempengaruhi begitu banyak orang."
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Tapi... kan cuma masalah rumput yang jadi perhatian,\nbelum diputuskan batal sepenuhnya, ya?"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Kalau begitu... Trainer <username>,\nsaya tidak akan menyerah sampai akhir.",
+            "choice_data_list": [
+                "Aku tahu apa yang harus dilakukan!",
+                "Aku tahu apa yang harus dilakukan!"
+            ]
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Iya, mari kita saling bertukar ide!"
+        },
+        {
+            "text": "Adakah cara untuk menyelenggarakan『URA Finals』? , Kami berdua terus memikirkan hal itu..."
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Hmm...."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hah...huh..hah.huh"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Hahh...!!"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Tadi itu, Ketua Akikawa...?\nMau ke mana jam segini...",
+            "choice_data_list": [
+                "Ayo kita kejar!"
+            ]
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Eh, iya...!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Nsho... nsho...!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Huu... kira-kira berapa persen lintasan yang sudah ini ya. 20% mungkin... nggak, 10%... 5%?"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "..Memang mustahil ya, aku yang menumbuhkan\nrumput yang dibutuhkan."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "..Ukk... hikk."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dilarang! Jangan mikir kayak gitu!\nWoooaaahh!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Nsho... nsho...!\nTumbuuhl, rumput! Larilah, larilah, Umausumme~!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Sepertinya ketua lagi coba siapin rumput lintasan sendiri ya."
+        },
+        {
+            "text": "Memang, kalau pakai kebun besar yang dulu dibeli Ketua Akikawa,\nmenanam rumput sendiri mungkin bisa dilakukan.",
+            "choice_data_list": [
+                "Tapi..."
+            ]
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Iya. Bagaimanapun juga, mustahil Ketua sendirian\nbisa bikin rumput yang nutupin lintasan seluas itu"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Tapi... itu artinya, kalau bukan sendirian mungkin bisa dibuat...!"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Bukan satu orang tapi dua...\nKalau minta bantuan lebih banyak orang lagi...!",
+            "choice_data_list": [
+                "Yang harus kita lakukan sudah jelas ya!",
+                "Yang harus kita lakukan sudah jelas ya!"
+            ]
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Iya! Ayo kita langsung berangkat,**\nTrainer <username>!"
+        },
+        {
+            "text": "Lalu , Keesokan Harinya----"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Capek Banget !~~ , Pek -- Capeek , Tapi Bukan sekarang buat nyerah!!!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Eh, oooooooh!?\nApa-apaan ini!? O, orang-orang yang berkumpul ini!?"
+        },
+        {
+            "name": "Warga Pasar A",
+            "text": "Ketua! Katanya lagi nanem rumput buat『URA Finals』? Denger tuh!"
+        },
+        {
+            "name": "Warga Pasar B",
+            "text": "Biar kami juga bantu!\nKan kami juga nungguin balapannya diselenggarain!"
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Di halaman resmi『Gekkan Twinkle』juga\nkami mengumpulkan relawan."
+        },
+        {
+            "name": "Reporter Otoshi",
+            "text": "Sebentar lagi, akan ada lebih banyak tenaga yang terkumpul."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "J-Jangan Bilang ... Kalian !~"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ketua ! Lihat Ke Sana ! Para Umamusume sudah datang !"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Para Uma?~~~"
+        },
+        {
+            "name": "Vodka",
+            "text": "Cih, anak mami sok bisa kerja kebun,\nMemangnya bisa ?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hah?! Enak aja \nApa aja aku bisa lakukan dengan sempurna !"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Waaahhh~ , Keren King ! kerjanya bagus . Apalagi kalau bantu aku angkut tanah ini , makin bagus lagi ~"
+        },
+        {
+            "name": "King Halo",
+            "text": "Eh !~ , itu kan bagianmu .\nKerjain yang bener dong , Ihhh~~~"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Fufu ~ . Kayanya Falcon-san sudah mahir angkut tanah yaaa~~"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "huh , aku ga yakin kalau itu pujian~~~"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Eh , Sebentar .....\n\"Uma Idol Yang Bisa Bertani\"\nItu KEREN! ~~~ ><"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Mu---Murid - Mirid Akademi Juga....?!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ketua. Penyelenggaran 『URA Finals』Juga ini berkat dirimu , siswa akademi jadi semangat!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Karena Permintaan mereka , sebagai ketua OSIS akademi , aku mengumpulkan mereka semua dan datang ke sini"
+        },
+        {
+            "text": "Karena Permintaan mereka , sebagai ketua OSIS akademi , aku mengumpulkan mereka semua dan datang ke sini",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Mengajak ? Mereka ?"
+        },
+        {
+            "text": "Mengajak ? Mereka ?",
+            "name": "Ketua Akikawa"
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Kaichoo--- Maaf Lancang , Aku juga minta bantuan dari departemen budidaya rumput."
+        },
+        {
+            "name": "Trainer Kyurin",
+            "text": "Lalu-- Banyak Juga yang mau bantu ketua , lihat orang-orang yang berkumpul disini."
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Trainer <username>, Trainer Kyurin ....?!",
+            "choice_data_list": [
+                "Semua udah nungguin『URA Finals』"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "...........!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Dengan bantuan sebanyak ini , rumput bisa cepat diperbaiki , dan 『URA Finals』bisa diadakan...!"
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Terimakasih Banyak !!~~\nKarena bantuan kalian , aku sangat senang !!",
+            "choice_data_list": [
+                "Ayo Sukseskan『URA Finals』!"
+            ]
+        },
+        {
+            "name": "Ketua Akikawa",
+            "text": "Tentu !! \nOke ~ . Waktunya Bekerja !!"
+        },
+        {
+            "text": "Semua mau membantu, pasti bukan cuma karena\nnantiin『URA Finals』saja."
+        },
+        {
+            "text": "Justru karena pesan Ketua Akikawa tersampaikan, sebanyak ini orang mau berkumpul—sambil menanam rumput, aku berpikir begitu."
+        }
+    ]
+}
