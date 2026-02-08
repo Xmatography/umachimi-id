@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Pemenang balapan, Mejiro McQueen, sayangnya \nmenghalangi gadis kuda di belakangnya \nsehingga mereka tidak bisa maju di lintasan…",
+            "text": "Pemenang balapan, Mejiro McQueen, sayangnya \nmenghalangi Umamusume di belakangnya \nsehingga mereka tidak bisa maju di lintasan…",
             "name": "Penyiar"
         },
         {
@@ -13,7 +13,7 @@
             "text": "Hari itu, Mejiro McQueen memulai \ndengan luar biasa dan langsung masuk \nke sisi dalam lintasan agar bisa menjaga posisi yang bagus ke depan."
         },
         {
-            "text": "Namun, tindakannya membuat gadis kuda di belakangnya tidak punya ruang, \nsehingga berisiko terjatuh."
+            "text": "Namun, tindakannya membuat Umamusume di belakangnya tidak punya ruang, \nsehingga berisiko terjatuh."
         },
         {
             "text": "Insiden mengerikan ini melibatkan \nMejiro McQueen—yang waktu itu paling difavoritkan untuk menang. \nMaka dari itu, tindakannya ramai diberitakan di media."
@@ -27,7 +27,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Memang benar aku gagal memenuhi harapan para penggemar, \ndan membuat gadis kuda lain di balapan itu dalam bahaya…",
+            "text": "Memang benar aku gagal memenuhi harapan para penggemar, \ndan membuat Umamusume lain di balapan itu dalam bahaya…",
             "name": "Mejiro McQueen"
         },
         {
@@ -44,11 +44,11 @@
         },
         {
             "text": "Aku setuju! Kamu pasti bakal tampil hebat di balapan berikutnya, aku yakin!",
-            "name": "Gadis kuda dengan poni lurus"
+            "name": "Umamusume dengan poni lurus"
         },
         {
             "text": "Kamu bisa kok, McQueen-san!",
-            "name": "Gadis kuda bermata sayu",
+            "name": "Umamusume bermata sayu",
             "choice_data_list": [
                 "<size=42>Mari jadikan ini pelajaran.</size>"
             ]

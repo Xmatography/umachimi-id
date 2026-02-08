@@ -14,7 +14,7 @@
             "name": "Cesario"
         },
         {
-            "text": "Bahwa kamu bakal mengikuti jejak ayahmu yang 『Terkenal』\ndengan jadi pelatih Team <Ascella>.",
+            "text": "Bahwa kamu bakal mengikuti jejak ayahmu yang 『Terkenal』\ndengan jadi Trainer Team <Ascella>.",
             "name": "Cesario",
             "choice_data_list": [
                 "……!"
@@ -29,11 +29,11 @@
             "name": "<username>"
         },
         {
-            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya…\naku yang bakal ambil alih timnya, <Ascella>.",
+            "text": "Dia jadi Trainer top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya…\naku yang bakal ambil alih timnya, <Ascella>.",
             "name": "<username>"
         },
         {
-            "text": "Dia jadi pelatih top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya……\naku yang bakal ambil alih timnya, <Ascella>.",
+            "text": "Dia jadi Trainer top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya……\naku yang bakal ambil alih timnya, <Ascella>.",
             "name": "<username>"
         },
         {
@@ -61,7 +61,7 @@
             "name": "Reporter B"
         },
         {
-            "text": "Ini bukan pertarungan antar pelatih, tapi antar Umamusume. \nTolong diingat itu ya――",
+            "text": "Ini bukan pertarungan antar Trainer, tapi antar Umamusume. \nTolong diingat itu ya――",
             "name": "<username>"
         },
         {
@@ -203,11 +203,11 @@
             "name": "King Halo"
         },
         {
-            "text": "Hei, hei, hei! Apa yang terjadi sama 『Second Generation Duo』!? \nMereka baru aja hancur sama tim pelatih 『Genius』 itu!",
+            "text": "Hei, hei, hei! Apa yang terjadi sama 『Second Generation Duo』!? \nMereka baru aja hancur sama tim Trainer 『Genius』 itu!",
             "name": "Penonton A"
         },
         {
-            "text": "Terus……kenapa dia lari sebagai escape? Panik? \nAtau perintah pelatih? Yang jelas, nggak bagus.",
+            "text": "Terus……kenapa dia lari sebagai escape? Panik? \nAtau perintah Trainer? Yang jelas, nggak bagus.",
             "name": "Penonton B"
         },
         {
@@ -245,14 +245,14 @@
             ]
         },
         {
-            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku pelatih King Halo!)",
+            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku Trainer King Halo!)",
             "name": "<username>",
             "choice_data_list": [
                 "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
             ]
         },
         {
-            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku pelatih King Halo!)",
+            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku Trainer King Halo!)",
             "name": "<username>",
             "choice_data_list": [
                 "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
@@ -391,11 +391,11 @@
             "name": "King Halo"
         },
         {
-            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan pelatih terkenal.",
+            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan Trainer terkenal.",
             "name": "King Halo"
         },
         {
-            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan pelatih terkenal.",
+            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan Trainer terkenal.",
             "name": "King Halo"
         },
         {

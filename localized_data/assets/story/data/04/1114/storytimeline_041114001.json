@@ -127,7 +127,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"— Hah, pilihan jalur karirmu, Akademi Pelatih, serius!? \nDitambah lagi, yang Pusat…!?",
+            "text": "\"— Hah, pilihan jalur karirmu, Akademi Trainer, serius!? \nDitambah lagi, yang Pusat…!?",
             "choice_data_list": [
                 "Ya, sudah kupikirkan sejak lama.",
                 "Ya, sudah kupikirkan sejak lama."
@@ -163,7 +163,7 @@
             "text": "Janji masa kecil kami didasari hanya dorongan hati, tapi\nsejak saat itu mulai memancarkan sinarnya yang paling terang."
         },
         {
-            "text": "Buena Vista sudah diterima di Akademi Tracen. Sedangkan\naku di musim gugur, fokus belajar untuk kualifikasi pelatih."
+            "text": "Buena Vista sudah diterima di Akademi Tracen. Sedangkan\naku di musim gugur, fokus belajar untuk kualifikasi Trainer."
         },
         {
             "name": "Buena Vista",
@@ -171,7 +171,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Dibandingkan dengan jimat untuk ujian akademi pelatih, kali ini\naku merasa membuatnya lebih bagus, lho. … Meskipun ini hanya\npendapatku sendiri. Fufufu",
+            "text": "Dibandingkan dengan jimat untuk ujian akademi Trainer, kali ini\naku merasa membuatnya lebih bagus, lho. … Meskipun ini hanya\npendapatku sendiri. Fufufu",
             "choice_data_list": [
                 "Indah, kok. Makasih, ya.",
                 "Indah, kok. Makasih, ya."
@@ -203,7 +203,7 @@
         },
         {
             "name": "Komentator",
-            "text": "Gadis Kuda lain mengejar mati-matian, namun, Special Week!!\nNomor 13 Special Week, dia yang pertama—GOAL-IN!!"
+            "text": "Umamusume lain mengejar mati-matian, namun, Special Week!!\nNomor 13 Special Week, dia yang pertama—GOAL-IN!!"
         },
         {
             "name": "Komentator",

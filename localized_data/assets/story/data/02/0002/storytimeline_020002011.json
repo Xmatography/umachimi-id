@@ -36,7 +36,7 @@
         },
         {
             "text": "Whoo! Catatan waktuku pecah rekor lagi!",
-            "name": "Gadis Kuda dengan Poni Lurus"
+            "name": "Umamusume dengan Poni Lurus"
         },
         {
             "text": "Panas itu berubah jadi energi, dan para anggota \nterus memperbaiki catatan waktu mereka."
@@ -57,7 +57,7 @@
         },
         {
             "text": "Pasti nggak ada lagi Umamusume yang bisa ngalahin McQueen di jarak jauh!",
-            "name": "Gadis Kuda dengan Poni Lurus"
+            "name": "Umamusume dengan Poni Lurus"
         },
         {
             "text": "Memang benar, mungkin tidak banyak Umamusume \nyang bisa menandinginya di jarak jauh."
@@ -118,11 +118,11 @@
         },
         {
             "text": "Kamu keren banget!",
-            "name": "Gadis Kuda Bermata Sayu"
+            "name": "Umamusume Bermata Sayu"
         },
         {
             "text": "Seperti yang kuduga dari Umamusume 'Tenno Sho', \nace kita! Benar kan, Trainer?",
-            "name": "Gadis Kuda dengan Poni Lurus",
+            "name": "Umamusume dengan Poni Lurus",
             "choice_data_list": [
                 "Ya, dia memang ace kita!",
                 "Ya, dia memang ace kita!"
@@ -214,7 +214,7 @@
             "text": "“Jujur aja, bentar lagi ada race 2400m.\nMasalahnya… hmm, bukan cuma sedikit sih, lawannya kali ini pada jago-jago semua.”"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "“Begitu dia ngomong kayak gitu, semua anggota—kecuali Rice Shower—langsung berubah ekspresi. Kayak mereka ngeh ada sesuatu yang serius.”"
         },
         {
@@ -230,7 +230,7 @@
         },
         {
             "text": "Rice yang kaget dan panik , lalu meluncur melewati lintasan latihan.\nSeakan jadi pertanda, bahwa mulai dari sini dia bakal berlari lebih kencang lagi.",
-            "name": "Monolog"
+            "name": ""
         }
     ],
     "title": "Mejiro McQueen - Arc 1"

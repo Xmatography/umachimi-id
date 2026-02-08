@@ -1,7 +1,7 @@
 {
     "text_block_list": [
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Suatu hari. Melihat ladang di dalam akademi ramai, saat kumengintip ke sana......"
         },
         {
@@ -92,7 +92,7 @@
             "text": "Ngomong-ngomong soal berusaha keras—"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Semuanya, terima kasih atas kerja kerasnya"
         },
         {
@@ -101,25 +101,25 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Wah !, Kyurin ! Meek Juga !\nKebetulan! Kami baru saja membicarakan kalian!"
+            "text": "Wah !, Kiryuin ! Meek Juga !\nKebetulan! Kami baru saja membicarakan kalian!"
         },
         {
             "name": "Ketua Akikawa",
             "text": "<username>Trainer tentu saja,\ntapi perkembangan kalian juga sangat pesat! Luar biasa!"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Terima kasih banyak, Ketua Akikawa."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Kami, berkat Trainer <username>...\nsudah bulat tekad kami",
             "choice_data_list": [
                 "Tekad ?"
             ]
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Iya. Bersama-sama merasakan kegelisahan, bersama-sama melangkah,\nberdua mengincar puncak—itu tekad kami."
         },
         {
@@ -127,7 +127,7 @@
             "text": ".Akan menang. ...Akan membuktikan.\n...Trainer saya, hebat."
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Saya juga akan maju lebih dari sebelumnya untuk memberikan\nkehormatan tertinggi pada Meek"
         },
         {
@@ -139,31 +139,31 @@
             "text": "……Ei ei ooooo~"
         },
         {
-            "name": "Trainner Kyurin",
+            "name": "Trainer Kiryuin",
             "text": "Haha , Ei ei ooo~"
         },
         {
-            "name": "Reporter Otoshi",
+            "name": "Reporter Otonashi",
             "text": ".Ah. Semuanya, ternyata ada di sini."
         },
         {
-            "name": "Reporter Otoshi",
+            "name": "Reporter Otonashi",
             "text": "Halo. Boleh minta waktu sebentar?"
         },
         {
-            "text": "Oh, Otoshi-kun!\nTentu boleh, ada apa?",
+            "text": "Oh, Otonashi-kun!\nTentu boleh, ada apa?",
             "name": "Ketua Akikawa"
         },
         {
-            "name": "Reporter Otoshi",
+            "name": "Reporter Otonashi",
             "text": "Haha...\nSebenarnya, ada yang ingin saya perlihatkan."
         },
         {
-            "name": "Monolog",
-            "text": "Dengan senyuman itu, Reporter Otoshi memperlihatkan artikel『URA Finals』 yang diunggah di web dan—"
+            "name": "",
+            "text": "Dengan senyuman itu, Reporter Otonashi memperlihatkan artikel『URA Finals』 yang diunggah di web dan—"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Komentar yang mewakili suara harapan dari\njumlah penggemar yang luar biasa banyaknya!"
         },
         {
@@ -171,7 +171,7 @@
             "text": "Wah... waaah~!!\nIni...!!"
         },
         {
-            "name": "Reporter Otoshi",
+            "name": "Reporter Otonashi",
             "text": "Berkat kegiatan kalian,\n『URA Finals』menunjukkan antusiasme yang sangat tinggi."
         },
         {
@@ -183,11 +183,11 @@
             "text": "Pasti!!\n『URA Finals』akan sukses!!"
         },
         {
-            "name": "Monolog",
-            "text": "Panggung bagi semua Uma Musume untuk bersinar『URA Finals』—"
+            "name": "",
+            "text": "Panggung bagi semua Umamusume untuk bersinar『URA Finals』—"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Menuju penyelenggaraannya, perasaan semakin membara...!"
         }
     ]

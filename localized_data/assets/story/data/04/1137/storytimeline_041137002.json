@@ -2,94 +2,94 @@
     "title": "Mulai hari ini, aku adalah!!",
     "text_block_list": [
         {
-            "name": "Narasi",
-            "text": "Kiseki , sang Uma Musume yang super suka komik, bertemu dengan seorang trainer yang terpikat pada gaya larinya"
+            "name": "Cerita Sebelumnya",
+            "text": "Cerita sebelumnya！ Umamusume yang sangat menyukai manga, Kiseki, bertemu dengan seorang Trainer yang terpikat oleh gaya larinya."
         },
         {
-            "text": "Lalu, dia mengajak trainer itu menyaksikan balapan simulasinya sendiri!",
-            "name": "Narasi"
+            "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
+            "name": "Cerita Sebelumnya"
         },
         {
-            "text": "Lalu, dia mengajak trainer itu menyaksikan balapan simulasinya sendiri!\"",
-            "name": "Narasi"
+            "text": "Kemudian, dia mengajak trainer itu menyaksikan balapan\nsimulasi yang di ikutinya！",
+            "name": "Cerita Sebelumnya"
         },
         {
-            "name": "Trainner Senior",
-            "text": "Wah, para pesertanya kumpul semua ya... Ada Satono Crown, juara ketiga Derby,dan Satono Diamond, talenta baru yang rencananya debut tahun ini juga ada..."
+            "name": "Trainer Veteran",
+            "text": "Luar biasa peserta yang berkumpul di sini…… Ada Satono Crown yang meraih posisi ke-3 di Derby, bahkan ada Satono Diamond juga, si jenius berbakat yang dijadwalkan debut tahun ini."
         },
         {
-            "text": "Dan yang patut diperhatikan bukan cuma putri keluarga Satono.\nVibrose juga diyakini bakal bersinar di jalur Tiara",
-            "name": "Monolog"
+            "text": "Selain itu, bukan hanya putri dari keluarga Satono saja.\nVivlos pun, potensinya di jalur Tiara terlihat sangat kuat.",
+            "name": ""
         },
         {
             "name": "Kiseki",
-            "text": "Fuuu... haaa...! \nBenar-benar lineup yang punya kharisma ya...!! \nFuuu...!\"",
+            "text": "Fuuuー…… haaaー……！\nMereka benar-benar peserta yang punya kharisma ya！！\nFuuuー……！",
             "choice_data_list": [
-                "Kamu Gapapa , Kiseki ?",
-                "Kamu Gapapa , Kiseki ?"
+                "K-Kamu gak apa-apa? Kiseki！?",
+                "K-Kamu gak apa-apa? Kiseki！?"
             ]
         },
         {
             "name": "Kiseki",
-            "text": "Aku, aku baik-baik aja kok! Dari semalam aja udah melek terus...! M-meski ada rasa gugup, tapi rasa penasarannya juga nggak berhenti-henti!!"
+            "text": "A-Aku baik-baik aja kok！ Dari semalam aja udah melek……！ \nM-meski ada rasa gugup, tapi aku juga merasa deg-degan！！"
         },
         {
             "name": "Kiseki",
-            "text": "Situasi kayak gini, persis kayak 'scene pembuka' di komik ya...\nPasti penasaran kan『Gimana caranya Kiseki ngadapi rival kuat kayak gini?』... gitu",
+            "text": "Situasi ini, mirip kayak 'Hiki' di dalam manga...\nJadi bikin berharap, kan. Kayak...\n\"Gimana cara Kiseki mengalahkan musuh kuat?\" gituu...",
             "choice_data_list": [
-                "<size=32>...Ah, aku pengen liat kamu jadi tokoh utama!</size>",
-                "<size=32>...Ah, aku pengen liat kamu jadi tokoh utama!</size>"
+                "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>",
+                "<size=38>...Ah, aku pengen liat kamu jadi tokoh utama!</size>"
             ]
         },
         {
-            "name": "Monolog",
-            "text": "Lalu Kiseki dipanggil oleh petugas starter,\ndan dia menuju posisinya, sama seperti Uma Musume lainnya."
+            "name": "",
+            "text": "Kemudian Kiseki dipanggil oleh petugas start,\ndia menuju posisinya, sama seperti Umamusume lainnya."
         },
         {
-            "name": "Monolog",
-            "text": "Lalu arena pun hening—\nDAN GATE TERBUKA!!"
+            "name": "",
+            "text": "Lalu suasana arena pun seketika hening――\ndan GERBANG TERBUKA！！"
         },
         {
-            "name": "Monolog",
-            "text": "Para favorit seperti Satono Diamond saling mengawasi dari posisi belakang. Sepertinya mereka saling mengintimidasi, sama-sama mengandalkan kecepatan akhir.",
+            "name": "",
+            "text": "Satono Diamond dan yang lainnya jadi pusat perhatian, saling mengawasi di posisi belakang dengan mengandalkan kecepatan akhir, tampaknya mereka sedang saling menahan diri",
             "choice_data_list": [
-                "Dan... Mana Kiseki ?"
+                "(Dan kemudian, dimana Kiseki……?)"
             ]
         },
         {
-            "name": "Monolog",
-            "text": "Posisi Keajaiban sekarang adalah kedua dari belakang.\n...Cukup jauh di belakang. Mungkin dia telat start."
+            "name": "",
+            "text": "Posisi Kiseki sekarang ke-2 dari belakang.\n…Benar-benar di belakang. Apakah dia tadi telat start?"
         },
         {
-            "name": "Trainner Akademi",
-            "text": "Oh, rupanya ada Uma Musume yang belum dikontrak juga ikut lari. Tapi posisinya susah banget... Hah, cuma anak muda yang bisa lari tanpa mikir panjang.\"",
+            "name": "Trainer Menengah",
+            "text": "Oh, rupanya ada Umamusume yang belum dikontrak juga ikut. \nTapi posisinya terlihat sulit... Hah, cuma anak muda yang bisa lari tanpa mikir panjang ya",
             "choice_data_list": [
-                "Salah , Kiseki Punya Strategi!~",
-                "Salah , Kiseki Punya Strategi!~"
+                "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>",
+                "<size=38>(Salah, Kiseki pasti sudah merencanakannya)</size>"
             ]
         },
         {
-            "name": "Monolog",
-            "text": "Dia bilang: 'Dengan lari, aku bisa bikin orang semangat'.\nKalau begitu, pasti dia sudah punya strategi buat ngalahin rival kuat ini."
+            "name": "",
+            "text": "Dia bilang: \"Dengan lari, aku bisa bikin orang semangat'.\nKalau begitu, pasti dia sudah punya strategi buat mengalahkan musuh kuat ini"
         },
         {
             "name": "Kiseki",
-            "text": "(Di depannya cuma ada rival kuat yang jago sprint...!\nKalau cuma ambil posisi depan pake cara biasa, pasti cuma jadi 'alur klasik kekalahan'.)"
+            "text": "(Di mataku, isinya musuh-musuh yang ahli dalam spurt……！\nKalau mengambil posisi barisan depan dengan cara normal, \nitu hanya akan menjadi \"Alur Cerita Kekalahan yang Klise\"）"
         },
         {
             "name": "Kiseki",
-            "text": "(Kalau begitu, cuma bisa bikin kaget dengan strategi tak terduga!Bikin rival kuat goyah, cari celah...dan sambungin itu jadi kemenangan sang tokoh utama!)\n\n"
+            "text": "(Kalau gitu, gaada pilihan lain selain mengejutkan mereka！\nGoyahkan para pelari kuat itu, cari celahnya... dan tunjukkan kemenangan sang tokoh utama！)"
         },
         {
             "name": "Kiseki",
-            "text": "Gas! Di serangan ini!\n—Tarik bendera pembalikan keadaan!!"
+            "text": "(Bertaruhlah! Pada serangan ini ――Tariklah \n\"bendera\" pembalikan keadaan itu ke tanganmu!!)"
         },
         {
-            "name": "Monolog",
-            "text": "Mata Kiseki Penuh dengan Tekad Yang ada di ujung pandangannya... adalah celah sempit antara dua pelari di depannya.",
+            "name": "",
+            "text": "Mata Kiseki penuh dengan tekad bulat. Yang ada di ujung pandangannya adalah... celah sempit antara dua pelari di depannya.",
             "choice_data_list": [
-                "Kiseki -----Jangan Jangan.....",
-                "Kiseki -----Jangan Jangan....."
+                "（Kiseki, jangan-jangan kamu――）",
+                "（Kiseki, jangan-jangan kamu――）"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "name": "Kiseki"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Kiseki tak bisa ikut perebutan posisi atas, malah terus terlempar ke belakang....Tak ada penampilan mencolok yang bisa dia tunjukkan.\n\n",
             "choice_data_list": [
                 "<size=35>(Tapi setidaknya usahanya patut diapresiasi...)</size>"
@@ -159,11 +159,11 @@
             "text": "\"~~~... ...Malu... banget..."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Setelah balapan simulasi, aku berlari ke seluruh penjuru akademi demi menyapanya\nyang masih menahan wajah penuh kekecewaan"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Memang, mungkin dia tidak punya momen puncak di lomba kali ini.\nTapi sikapnya yang 'berani tantang rival kuat' sebelumnya, membuatku—",
             "choice_data_list": [
                 "<size=38>(Menurutku, kamu MC yang hebat—!)</size>",
@@ -178,8 +178,8 @@
             ]
         },
         {
-            "name": "Monolog",
-            "text": "Melihat ke luar jendela, Keajaiban sedang membungkuk penuh semangat kepada para Uma Musume yang baru saja dihadapi hari ini. Lalu berikutnya, matanya berbinar—"
+            "name": "",
+            "text": "Melihat ke luar jendela, Keajaiban sedang membungkuk penuh semangat kepada para Umamusume yang baru saja dihadapi hari ini. Lalu berikutnya, matanya berbinar—"
         },
         {
             "name": "Kiseki",
@@ -209,24 +209,24 @@
         },
         {
             "name": "Kiseki",
-            "text": "Aku pasti—bisa jadi Uma Musume yang jadi tokoh utama...!",
+            "text": "Aku pasti—bisa jadi Umamusume yang jadi tokoh utama...!",
             "choice_data_list": [
                 "Kiseki ....."
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Keajaiban pasti... akan melakukan 'hal seru' lagi.\nSekali lagi, dia akan membuat penontonnya tak bisa berhenti menanti"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Karena kita pun tak bisa menahan harapan.\nAgar larinya menemukan bentuk—dan ingin menyaksikan momen itu.",
             "choice_data_list": [
                 "....Kiseki , Eh !"
             ]
         },
         {
-            "name": "Para Trainner",
+            "name": "Para Trainer",
             "text": "\"Boleh aku bantu kamu?\"\n\"Boleh aku bantu kamu?\"",
             "choice_data_list": [
                 "( ...Hah? )"

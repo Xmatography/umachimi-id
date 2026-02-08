@@ -2,19 +2,19 @@
     "title": "Canter × Canter",
     "text_block_list": [
         {
-            "name": "Narasi",
+            "name": "",
             "text": "Lanjut Cerita Yang Kemarin : Setelah kalah dari rival kuat, Keajaiban ingin kembali menantang mereka di balapan simulasi dan berhasil mendapat janji pertandingan ulang."
         },
         {
-            "name": "Narasi",
+            "name": "",
             "text": "Kiseki Bersumpah Kali ini dia pasti akan menciptakan balapan seru dan menang! Dan ternyata, apa yang terjadi!? Tiga orang trainer menawarkan bantuan mereka!"
         },
         {
-            "name": "Trainner Senior",
+            "name": "Trainer Senior",
             "text": "Kiseki , semangat belajarmu benar-benar luar biasa. Tapi posisi tubuh dan akselerasimu masih belum punya dasar yang kuat. Mari kita perbaiki itu! Kamu punya potensi besar!"
         },
         {
-            "name": "Trainner Pemula",
+            "name": "Trainer Pemula",
             "text": "Ayo, lari dengan bebas! Semangat dan kreativitasmu akan kujaga! Justru otonomi itulah senjatamu yang paling berharga!"
         },
         {
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "text": "Menghadapi Uma Musume menarik seperti Kiseki, bagaimana caraku menunjukkan bahwa'aku adalah trainer yang bisa membimbingnya ke mimpinya?",
+            "text": "Menghadapi Umamusume menarik seperti Kiseki, bagaimana caraku menunjukkan bahwa'aku adalah trainer yang bisa membimbingnya ke mimpinya?",
             "choice_data_list": [
                 "<size=38>(Tak kusangka akan jadi situasi seperti ini...!)</size>"
             ]
@@ -113,8 +113,8 @@
             "name": "Kiseki"
         },
         {
-            "name": "Trainner Senior",
-            "text": "Aku ingin Uma Musume lari sesuka hatinya saat balapan.\nMakanya aku nggak kasih instruksi mendetail. Yang mikir harus kamu, Keajaiban"
+            "name": "Trainer Senior",
+            "text": "Aku ingin Umamusume lari sesuka hatinya saat balapan.\nMakanya aku nggak kasih instruksi mendetail. Yang mikir harus kamu, Keajaiban"
         },
         {
             "name": "Kiseki",

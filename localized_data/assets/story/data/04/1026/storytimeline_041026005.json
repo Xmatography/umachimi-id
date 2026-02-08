@@ -7,14 +7,14 @@
         },
         {
             "text": "E-Excuse me... Are you Mihono Bourbon?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
-            "text": "It was a normal day of training when a lone horse girl \ngalloped up to Mihono Bourbon."
+            "text": "It was a normal day of training when a lone Umamusume \ngalloped up to Mihono Bourbon."
         },
         {
             "text": "I'm sorry for interrupting... I know you're \nalways doing such tough trainings, so...",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
             "text": "Worry not. I'm open to 'conversation.' \nWhat did you want to discuss?",
@@ -22,7 +22,7 @@
         },
         {
             "text": "Umm, so... You used to do short races, right? \nI'm just impressed that you managed to do so well \nin a medium distance race!",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
             "text": "That girl looks quite excited. Mihono Bourbon on the \nother hand is staring at her motionlessly."
@@ -33,7 +33,7 @@
         },
         {
             "text": "Huh?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
             "text": "I concluded that you must have some sort of reason \nto reach out to me during my break.",
@@ -45,14 +45,14 @@
         },
         {
             "text": "R-Reason...?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
             "text": "As the girl was thinking over Mihono Bourbon's \nquestion, her face turned a little red."
         },
         {
             "text": "Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going!",
-            "name": "Honest Horsegirl"
+            "name": "Honest Umamusume"
         },
         {
             "text": "That's not what I...",
@@ -87,7 +87,7 @@
             "name": "Mihono Bourbon"
         },
         {
-            "text": "I spent my childhood training with my father, so I never \ninteracted with other horse girls of my age.",
+            "text": "I spent my childhood training with my father, so I never \ninteracted with other Umamusume of my age.",
             "name": "Mihono Bourbon"
         },
         {
@@ -99,7 +99,7 @@
             "name": "Mihono Bourbon"
         },
         {
-            "text": "They are right. Good social skills are a necessity for \nhorse girls. We need it for interviews and \ninteracting with fans.",
+            "text": "They are right. Good social skills are a necessity for \nUmamusume. We need it for interviews and \ninteracting with fans.",
             "name": "Mihono Bourbon",
             "choice_data_list": [
                 "(Hmm...)"
@@ -150,7 +150,7 @@
             "text": "...She sprints back to the racecourse."
         },
         {
-            "text": "As a horse girl, she is growing very well. Yet she \ncontinues to be somewhat out of touch with \nthe world, for better or worse."
+            "text": "As a Umamusume, she is growing very well. Yet she \ncontinues to be somewhat out of touch with \nthe world, for better or worse."
         },
         {
             "text": "As she continues to run towards the horizon, I can \nonly wish that one day, she will understand \nwhat her parents really meant."

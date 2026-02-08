@@ -19,12 +19,12 @@
         },
         {},
         {
-            "name": "Horsegirl A",
+            "name": "Umamusume A",
             "text": "Ah～～～ It's prime eating season… Oh, wait, \nisn't the <i>Festival of Illustrious Equines</i> coming up? \nWonder what's on the agenda this year."
         },
         {
-            "name": "Horsegirl B",
-            "text": "Aren't responsibilities for the various performances rotated \nbetween the different horsegirl communities? I'm curious if \nTracen Academy has received its assignments yet～"
+            "name": "Umamusume B",
+            "text": "Aren't responsibilities for the various performances rotated \nbetween the different Umamusume communities? I'm curious if \nTracen Academy has received its assignments yet～"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Affirmative! The Votive Stage Play is a play offered to the three \ngoddesses! A traditional ceremonial performance art, enacting \nhorsegirl folklore passed down from ancient times!"
+            "text": "Affirmative! The Votive Stage Play is a play offered to the three \ngoddesses! A traditional ceremonial performance art, enacting \nUmamusume folklore passed down from ancient times!"
         },
         {
             "name": "Tsurumaru Tsuyoshi",
@@ -152,7 +152,7 @@
         },
         {
             "name": "King Halo",
-            "text": "As a first-class horsegirl, I must deliver a first-class \nrendition of this \"Votive Stage Play\"……!"
+            "text": "As a first-class Umamusume, I must deliver a first-class \nrendition of this \"Votive Stage Play\"……!"
         },
         {
             "name": "Haru Urara",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Votive Play Instructor",
-            "text": "I'm with the Horsegirl Ritual Arts Association, and I will \nbe serving as your instructor for this preparation camp. \nI look forward to working with you all."
+            "text": "I'm with the Umamusume Ritual Arts Association, and I will \nbe serving as your instructor for this preparation camp. \nI look forward to working with you all."
         },
         {
             "name": "All Together",

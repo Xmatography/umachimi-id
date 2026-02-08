@@ -42,7 +42,7 @@
             "choice_data_list": [
                 "(Ramainya seperti biasa……!)"
             ],
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Ah, duh, semua, kalian nyusul nggak!? \nJawab kalau bisa denger aku-!",
@@ -54,7 +54,7 @@
         },
         {
             "text": "Gila, ramainya~……kita sampe sesak banget, aku\n pikir semua osechi yang aku makan tadi bakal keluar~……",
-            "name": "Gadis kuda A"
+            "name": "Umamusume A"
         },
         {
             "text": "Aku punya saran. Di pengamatanku, kepadatan mereda di sisi kanan.\nAntrian belum kebentuk, jadi sebaiknya kita pindah sekarang.",
@@ -70,7 +70,7 @@
         },
         {
             "text": "Dan akhirnya, walaupun rame banget, kita berhasil\nselesaiin kunjungan ke kuil dengan aman.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "(……tahun ini, aku bakal berusaha dukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka dapet hasil yang diinginkan――)",
@@ -98,11 +98,11 @@
         },
         {
             "text": "Ah, nggak masalah……atau malah, denger kouhai \nbilang mau lari, susah deh bilang \"Kita pulang~\"……",
-            "name": "Gadis kuda A"
+            "name": "Umamusume A"
         },
         {
             "text": "Kamu bodoh! Sebaiknya bilang aja itu memotivasi \nkamu, walaupun bohong! ……Ah, tapi, itu bukan bohong juga!!",
-            "name": "Gadis kuda B"
+            "name": "Umamusume B"
         },
         {
             "text": "Pokoknya, aku rasa ini ide bagus.\nBanyak balapan sekali seumur hidup……\nbuat tahun Classic jadi istimewa.",
@@ -137,7 +137,7 @@
             "name": "Cesario"
         },
         {
-            "text": "……Selain itu, banyak Umamusume yang sukses di Triple Tiara jadi pelatih \ngenerasi berikut, nyambungin semuanya ke masa depan.",
+            "text": "……Selain itu, banyak Umamusume yang sukses di Triple Tiara jadi Trainer \ngenerasi berikut, nyambungin semuanya ke masa depan.",
             "name": "Cesario"
         },
         {

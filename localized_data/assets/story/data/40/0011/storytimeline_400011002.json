@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "text": "Proyek Pulau Tak Berpenghuni!\nAktivitas pertama para Umamusume adalah—",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Mejiro Ryan",
@@ -21,7 +21,7 @@
             "text": "Kalau gitu, aku robohin pohon kelapanya ya! Hati-hati—! —— yoo, hiaaap!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Duarr!! Oke gas"
         },
         {
@@ -61,7 +61,7 @@
             "text": "Di sini mah santai aja, tarik napas yang panjang~. Kalau lagi gabut, aku bisa nemenin ngobrol kok ♪"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Pekerjaan pembukaan wilayah pun berjalan dengan rukun dan penuh keakraban."
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "text": "(Grrr……)",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Gold City",
@@ -144,7 +144,7 @@
             "name": "Mejiro Ryan"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "(……sunyi……)"
         },
         {
@@ -156,7 +156,7 @@
             "text": "Besok masih bisa bangun nggak ya……\njangan-jangan malah…… retire aja begini…… ahaha……"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "(……sunyi……)"
         },
         {
@@ -188,7 +188,7 @@
             "text": "Sumanget aing full, euy! Neng—\nurusan ieu aing nu bereskeun, maneh tinggal nonton wae di ditu!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Dan begitulah, Tamamo Cross pun berlari—\nmenyusuri laut, mendaki bukit, dan melesat pergi…!",
             "color_text_info_list": [
                 "Tamamo Cross "
@@ -315,7 +315,7 @@
             "text": "Oh... Oh! Kalo gitu mah, serahkan sama aing aja we ! Aing usahakan sebaik mungkin!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Maka, dengan antusiasme yang baru, proyek pulau terpencil itu pun berjalan maju!"
         }
     ]

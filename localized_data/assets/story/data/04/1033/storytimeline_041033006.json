@@ -31,14 +31,14 @@
         },
         {
             "text": "Planetarium. Aku tahu dia suka bintang, jadi aku datang kesini untuk \nmempelajari sesuatu yang bisa kami perbincangkan.",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "Cantiknya..."
             ]
         },
         {
             "text": "Ternyata aku menikmatinya. Aku putuskan untuk belajar tentang \nbintang, jadi aku ke toko suvenir mencari buku bergambar, lalu..",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Ah…",
@@ -57,7 +57,7 @@
         },
         {
             "text": "Admire Vega bertanya padaku. Langka sekali dia memulai percakapan.",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "Aku pengen belajar soal bintang."
             ]
@@ -68,7 +68,7 @@
         },
         {
             "text": "Percakapannya masih jalan, dong! Aku tak boleh menyiakannya. \nAku perlu memikirkan hal lucu…",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "Soalnya aku suka Ayabe-san!"
             ]
@@ -89,7 +89,7 @@
         },
         {
             "text": "Aku malah mengatakan hal aneh karena terburu-buru. Aku langsung \nmembenarkannya, harusnya \"Karena kamu suka bintang.\"",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Ah… begitu, ya. Mikir dulu kalau mau ngomong.",
@@ -151,7 +151,7 @@
         },
         {
             "text": "Admire Vega mengatakan itu setelah sadar ada buku di tanganku. \nDia lalu pergi diam-diam tanpa berkata-kata.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "………",

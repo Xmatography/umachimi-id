@@ -46,7 +46,7 @@
             "text": "It's late, you should head back.\nI cannot let a curfew breaker go\nunnoticed!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Ughh… I know I'm not supposed to be \ndoing this. \nBut I'm running out of time!!",
             "choice_data_list": [
                 "What do you mean?",
@@ -54,11 +54,11 @@
             ]
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "I have to leave the Academy. Because my \nfather was transferred overseas――"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "That's why I wanted to practice for my\nlast race… a mock race, so I wouldn't\nhave any regrets."
         },
         {
@@ -66,7 +66,7 @@
             "text": "Last race…"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "I never ended up growing, and I never\nhad a trainer… But I want to finish\neverything off with contentment!"
         },
         {
@@ -133,11 +133,11 @@
             "text": "Ha, haah… Looks like… fuuh, that's about \nit… for today!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Thanks, Baku-chan! \nAnd your Trainer, too…"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "I think I have a good feeling about\ntoday's training. I'm sure I'll get\ngood results!"
         },
         {
@@ -145,7 +145,7 @@
             "text": "That's… above all else――"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Baku-chan!? \n……Wait, are you sleeping?"
         },
         {
@@ -179,7 +179,7 @@
             "text": "Now, then, let us find the impeccable\ntiming for this Bakushin!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Alright, got it!"
         },
         {
@@ -197,7 +197,7 @@
             "text": "Your training has paid off, and you've\ngot the timing of your Bakushin down to\na tee!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Yeah, I've got a good feeling about\nthis! I'll make sure I get a good\nresult!"
         },
         {
@@ -205,7 +205,7 @@
             "text": "I'm counting on you! \nBakushin is the solution to everything!"
         },
         {
-            "name": "Freckled Horsegirl",
+            "name": "Freckled Umamusume",
             "text": "Fufu, thanks. \nYou're always there for me, Baku-chan."
         },
         {

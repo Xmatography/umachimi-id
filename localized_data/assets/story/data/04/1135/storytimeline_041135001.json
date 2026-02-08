@@ -14,29 +14,29 @@
             "text": "……Karena ada kesempatan, bagaimana kalau kita menengoknya sebentar.Perjalanan ini……bagaimana awal mulanya sampai kita\ntiba di sini."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "――Suatu hari. 『Aku ingin melihat pemandangan indah di \ndaerah terpencil yang sepi』. Keinginan kuat itu tiba-tiba \nmuncul dari dalam diriku."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "……Dan sekarang, mengikuti dorongan itu, aku sedang berjalan di\njalan menuju daerah terpencil. Saat baru saja selesai \nmenyeberangi jembatan gantung tua itu――"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "（KRAK……KRAK KRAK KRAK!!!）",
             "choice_data_list": [
                 "Wah!? Jembatan gantungnya……!"
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "……Tiba-tiba jembatan gantung runtuh, membuatku\nkehilangan jalan pulang dan kebingungan. Saat aku\nberpikir apakah harus menunggu bantuan――",
             "choice_data_list": [
                 "（…………Suara harmonika?）"
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Aku menelurusi suara itu, aku melihat seorang Umamusume sedang\nbermain musik. Pemandangan itu begitu misterius, sampai-sampai\naku tanpa sadar terpaku mendengarkannya……"
         },
         {
@@ -102,7 +102,7 @@
             "text": "Bisa saja ada binatang yang tiba-tiba meloncat keluar.\nKalau kamu diserang dari belakangku, teriak yang keras ya.\nKalau lagi mood, mungkin akan kutolong."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "……Jalan menuju tujuan penuh dengan medan berat, jelas bukan\nperjalanan yang mudah. Namun, entah kenapa saat berjalan\nbersamanya, rasanya tidak terlalu melelahkan――"
         },
         {
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Tanah terbuka dan langit luas berpadu,\nterasa begitu menyegarkan. Tak heran ini bisa disebut \n“pemandangan yang membuatmu ingin berlari”…!"
         },
         {
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Tak lama kemudian, cuaca berubah drastis.\nAwan hitam menyelimuti langit dengan\nkecepatan yang terasa seperti lelucon――"
         },
         {
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Kami hanya bisa tertawa. Hujan deras\nyang tiba-tiba dan tak masuk akal ini\nmenghanyutkan seluruh semangat untuk melawan."
         },
         {
@@ -153,7 +153,7 @@
             "text": "Haa………… rasanya seperti tersambung\ndengan langit……――\nNah…… kau mau bagaimana?"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "……Sepertinya dia menikmati kejadian tak terduga ini sepenuh\nhati. Melihatnya begitu menikmati, entah kenapa \nterasa menyenangkan dan sedikit membuat iri――",
             "choice_data_list": [
                 "Baiklah……kalau begitu, aku juga―!!",
@@ -161,14 +161,14 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Aku meletakkan barang, berlari tanpa tujuan,\nhujan menghantam tubuhku dengan\nnikmat――dorongan itu kian membesar.",
             "choice_data_list": [
                 "WAAAAAAAAAAAAAAH!!!!!!!!!!!!"
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Aku berteriak sekuat tenaga ke arah langit.\nBerlawanan dengan hujan ini, hatiku justru terasa semakin cerah."
         },
         {
@@ -180,11 +180,11 @@
             "text": "――Bagus juga itu. Kelihatannya seru!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Dalam sekejap dia menyusulku, dan di detik\nberikutnya aku sudah diangkat dan digendong\ndi punggungnya――"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "――Rasanya seperti menjadi angin.\nHujan, pemandangan, semuanya melesat\nke belakang dengan kecepatan luar biasa……!",
             "choice_data_list": [
                 "Hebat……! Lari macam apa ini……!",
@@ -192,7 +192,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Aku bahkan lupa bahwa aku sedang\ndigendong, karena larut dalam sensasi lari tajam\nyang menghantam seluruh tubuh ini――"
         },
         {
@@ -207,15 +207,15 @@
             "text": "Nah, gitu dong! Hahaha!!\nKita kebut habis-habisanーーーーーーーーー!!!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Begitulah, kami berdua terus berteriak dan\nbermain di tengah hujan. Melepaskan seluruh\nindera, bertindak sesuka hati, tanpa terikat apa pun."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Lupa akan waktu……seperti anak kecil――"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "…………Dan kemudian, malam pun tiba."
         },
         {
@@ -226,11 +226,11 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Berkat dirinya, aku bisa melihat pemandangan yang kuinginkan.\nSelain itu, aku juga merasakan pengalaman yang tak mungkin \nkurasakan dalam keseharian."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Waktu itu begitu menyenangkan dan menyilaukan\nsampai semua terasa tak penting. Itu benar-benar\nwaktu tak terduga yang jujur ingin kusampaikan."
         },
         {

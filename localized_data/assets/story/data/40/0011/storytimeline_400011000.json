@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "text": "Di siang hari yang indah .....",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Ines Fuujin",
@@ -55,7 +55,7 @@
         },
         {
             "text": "\"Pas lagi lihat poster yang bikin heboh seantero sekolah bareng <chrname>――\"\n",
-            "name": "monolog"
+            "name": ""
         },
         {
             "name": "Direktur Akikawa",
@@ -355,7 +355,7 @@
         },
         {
             "text": "Hutan lebat dan air sebening kristal.\nDesir pepohonan dan teriakan hewan.\nHutan belantara yang sepenuhnya tak tersentuh tangan manusia.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "<chrname> tampaknya dapat sedikit bersantai di lingkungan yang benar-benar berbeda ini.",

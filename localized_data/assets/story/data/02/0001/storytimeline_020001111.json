@@ -15,7 +15,7 @@
         },
         {
             "text": "Y-Ya! Cara kamu lari tadi tetap bikin kagum kok, McQueen-san!",
-            "name": "Gadis kuda dengan poni lurus"
+            "name": "Umamusume dengan poni lurus"
         },
         {
             "text": "Daripada murung, gimana kalau sekarang Trainer traktir kita makanan enak? \nBener kan, Trainer?",
@@ -221,15 +221,15 @@
         },
         {
             "text": "Aku akan cek apakah McQueen-san ada di sekitar kampus!",
-            "name": "Gadis kuda dengan poni lurus"
+            "name": "Umamusume dengan poni lurus"
         },
         {
             "text": "Aku akan coba mencari di sekitar arena balapan!",
-            "name": "Gadis kuda bermata sayu"
+            "name": "Umamusume bermata sayu"
         },
         {
             "text": "Kalau begitu aku akan coba cari di sekitar kuil.",
-            "name": "Gadis kuda berpotongan bob hitam",
+            "name": "Umamusume berpotongan bob hitam",
             "choice_data_list": [
                 "Semuanya… Baiklah, ayo berangkat!",
                 "Kalian… Baiklah, ayo berangkat!"

@@ -53,11 +53,11 @@
         },
         {
             "text": "Haaaaaa!",
-            "name": "Sumo-loving horsegirl A"
+            "name": "Sumo-loving Umamusume A"
         },
         {
             "text": "Eh?! Uwaaa?!",
-            "name": "Sumo-loving horsegirl B"
+            "name": "Sumo-loving Umamusume B"
         },
         {
             "text": "An underarm throw, beautifully executed~. \nWonderful!",
@@ -65,7 +65,7 @@
         },
         {
             "text": "Waaaaaah! You were staggering \nso I thought it was my chance!",
-            "name": "Sumo-loving horsegirl B"
+            "name": "Sumo-loving Umamusume B"
         },
         {
             "text": "Yeah, there are times when that's a feint. If the opponent is \ncoming low, you should be vigilant about your legs!",
@@ -73,7 +73,7 @@
         },
         {
             "text": "I see… \nThanks, Chiyo-chan!",
-            "name": "Sumo-loving horsegirl B",
+            "name": "Sumo-loving Umamusume B",
             "choice_data_list": [
                 "You know alot about Sumo",
                 "You know alot about Sumo"
@@ -104,7 +104,7 @@
         },
         {
             "text": "Just once is fine! We want to get even stronger…!",
-            "name": "Sumo-loving horsegirl A"
+            "name": "Sumo-loving Umamusume A"
         },
         {
             "text": "Even… stronger…",
@@ -112,7 +112,7 @@
         },
         {
             "text": "I lost agaaaain~. \nIt seems like being short is really a bad thing, huh…?",
-            "name": "Sumo-loving horsegirl B"
+            "name": "Sumo-loving Umamusume B"
         },
         {
             "text": "That's not true! With a small body, you can make smaller \nand more precise movements. If I remember correctly, \nwith the tactics my dad taught me- ",
@@ -120,11 +120,11 @@
         },
         {
             "text": "Chiyo-chan! \nI won a practice match! It's my first victory…!",
-            "name": "Sumo-loving horsegirl A"
+            "name": "Sumo-loving Umamusume A"
         },
         {
             "text": "Really, thank you!! \nIt's all thanks to Chiyo-chan!!",
-            "name": "Sumo-loving horsegirl B"
+            "name": "Sumo-loving Umamusume B"
         },
         {
             "text": "It's because both of you worked so hard…! \nReally, congratulations!",

@@ -52,12 +52,12 @@
             "text": "…Ya. Suatu hari nanti, kita juga pasti—!”"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "『Ya, kita bisa……！！』"
         },
         {
             "text": "『Ya, kita bisa……！！』",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Buena Vista",
@@ -128,14 +128,14 @@
         },
         {
             "name": "Buena Vista",
-            "text": "(Sudah bukan lagi. Soalnya dia\nsudah menjadi seorang pelatih.)"
+            "text": "(Sudah bukan lagi. Soalnya dia\nsudah menjadi seorang Trainer.)"
         },
         {
             "name": "Buena Vista",
             "choice_data_list": [
                 "<size=36>Oke, istirahat selesai! Terakhir, pace 15 detik!</size>"
             ],
-            "text": "(....Dengan begini, Kau telah \nmenjadi pelatihku.)"
+            "text": "(....Dengan begini, Kau telah \nmenjadi Trainerku.)"
         },
         {
             "name": "Buena Vista",

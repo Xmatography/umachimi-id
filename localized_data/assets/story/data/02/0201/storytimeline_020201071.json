@@ -22,7 +22,7 @@
         },
         {
             "text": "Uwaah~! Serius!? Itu juga waktu rekor kan!? Keren banget~~……!!",
-            "name": "Gadis kuda Aw"
+            "name": "Umamusume Aw"
         },
         {
             "text": "Tunggu……ini……gila banget.\nCesario-san……gadis itu, sejauh apa dia bakal――",
@@ -60,10 +60,10 @@
             ]
         },
         {
-            "text": "Aku udah bingung mau bilang apa.\nJelas karena aku pelatih Rhein Kraft dan Cesario sekaligus."
+            "text": "Aku udah bingung mau bilang apa.\nJelas karena aku Trainer Rhein Kraft dan Cesario sekaligus."
         },
         {
-            "text": "Buat bikin menu latihan yang fokus buat menang di 『Oka Sho』.\nIni tugas penting sebagai pelatih mereka. Tapi――"
+            "text": "Buat bikin menu latihan yang fokus buat menang di 『Oka Sho』.\nIni tugas penting sebagai Trainer mereka. Tapi――"
         },
         {
             "text": "Buat Rhein Kraft, inti menunya bakal fokus ke 『Cara menghadapi Cesario』."
@@ -224,7 +224,7 @@
             "text": "(Dengan 1600m, Kraft mungkin ada peluang. Tapi lomba berikutnya, Oaks……\ndi 2400m, jujur bakal susah……)",
             "name": "<username>",
             "choice_data_list": [
-                "Nggak, aku nggak bisa! Sebagai pelatih――"
+                "Nggak, aku nggak bisa! Sebagai Trainer――"
             ]
         },
         {
@@ -376,11 +376,11 @@
             "name": "<username>"
         },
         {
-            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
+            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku Trainer kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
             "name": "<username>"
         },
           {
-            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku pelatih kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
+            "text": "……Aku yakin ini nggak terakhir kali.\nTapi, aku Trainer kalian. Aku nggak bisa biarin kalian \nngerjain semuanya……boleh aku bantu?",
             "name": "<username>"
         },
         {

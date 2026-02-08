@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The \"Selection Race\" - it's an important stage for horse girls \nto appeal to trainers as they aim to make their debut."
+            "text": "The \"Selection Race\" - it's an important stage for Umamusume \nto appeal to trainers as they aim to make their debut."
         },
         {
             "name": "Commentator",
@@ -13,11 +13,11 @@
             "text": "You! If you're in my charge, you can \nwin a Graded Race… no, a G1 race!"
         },
         {
-            "name": "First Place Horse Girl",
+            "name": "First Place Umamusume",
             "text": "Oh, thank you very much! I'll do my best!"
         },
         {
-            "text": "That's why the horse girls do their best, and their trainers \nmust be ready to bear their dreams with them."
+            "text": "That's why the Umamusume do their best, and their trainers \nmust be ready to bear their dreams with them."
         },
         {
             "text": "I want to help them reach their dreams! I was so enthusiastic, \nbut when it came time to scout, I couldn't help but shy away."
@@ -31,7 +31,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "“Are you having trouble finding your ideal horse girl?\"",
+            "text": "“Are you having trouble finding your ideal Umamusume?\"",
             "choice_data_list": [
                 "You are…?",
                 "You are…?"
@@ -59,10 +59,10 @@
         },
         {
             "name": "Super Creek",
-            "text": "But I'm sure there are horse girls waiting to be scouted by \nyou, so please have courage."
+            "text": "But I'm sure there are Umamusume waiting to be scouted by \nyou, so please have courage."
         },
         {
-            "text": "I can't believe that instead of encouraging the horse girls, \nI'm being encouraged by one… I pondered that."
+            "text": "I can't believe that instead of encouraging the Umamusume, \nI'm being encouraged by one… I pondered that."
         },
         {
             "name": "Super Creek",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "text": "The thought that a trainer with more experience than me would \nbe better for the horse girls who are seriously pursuing their \ndreams… I conveyed those feelings."
+            "text": "The thought that a trainer with more experience than me would \nbe better for the Umamusume who are seriously pursuing their \ndreams… I conveyed those feelings."
         },
         {
             "name": "Super Creek",
@@ -147,10 +147,10 @@
             "text": "Oh my gosh, to be asked by such a famous \ntrainer. It's such an honor!"
         },
         {
-            "text": "It makes sense… an incredible horse girl of her \nstature should be more than happy to go with a \ntrainer who has what it takes to train her."
+            "text": "It makes sense… an incredible Umamusume of her \nstature should be more than happy to go with a \ntrainer who has what it takes to train her."
         },
         {
-            "text": "If you put the horse girl first, surely you can \nget the best out of her… With those thoughts in \nmy head, I was ready to take my leave, until―"
+            "text": "If you put the Umamusume first, surely you can \nget the best out of her… With those thoughts in \nmy head, I was ready to take my leave, until―"
         },
         {
             "name": "Super Creek",
@@ -181,7 +181,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "Will you have me as your horse girl?",
+            "text": "Will you have me as your Umamusume?",
             "choice_data_list": [
                 "I-it would be my pleasure."
             ]

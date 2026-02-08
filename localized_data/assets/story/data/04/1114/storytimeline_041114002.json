@@ -5,7 +5,7 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "......Oh? Hei. Di\nkerumunan para pelatih itu—"
+            "text": "......Oh? Hei. Di\nkerumunan para Trainer itu—"
         },
         {
             "name": "Nakayama Festa",
@@ -36,11 +36,11 @@
             "text": "――Nah, balapan eksibisi akhirnya memasuki babak akhir! Tersisa\n400 meter, dari sisi luar datanglah Buena Vista!\nBuena Vista, larinya tajam sekali!"
         },
         {
-            "name": "Pelatih Veteran",
+            "name": "Trainer Veteran",
             "text": "Oh! Dia punya sprint akhir yang cukup bagus ya...! Jika sudah di tahap ini... Fufu, dia sepertinya akan sangat\nbersinar jika diasah."
         },
         {
-            "name": "<size=36>Pelatih Tingkat Menengah</size>",
+            "name": "<size=36>Trainer Tingkat Menengah</size>",
             "text": "Gosipnya, balapan eksibisi kali ini diisi oleh talenta-talenta \nyang cukup bagus... Tapi, Buena Vista benar-benar menonjol di \nantara mereka, ya!!"
         },
         {
@@ -66,7 +66,7 @@
         {
             "text": "Saat hari-hariku di akademi pelatihan yang kumasuki setelah\nbelajar mati-matian, ternyata jauh lebih berat dan keras dari \nyang kubayangkan. Aku cuma terus berjuang dan terombang-ambing\nsaja.",
             "choice_data_list": [
-                "<size=38>( Seakan mimpi jadi pelatih begitu jauh)</size>"
+                "<size=38>( Seakan mimpi jadi Trainer begitu jauh)</size>"
             ]
         },
         {
@@ -94,7 +94,7 @@
             "text": "......Tidak mungkin kami bisa saling menyemangati. Dia yang\nkulihat dari kejauhan, dari balik pagar di luar Akademi telah\nmenjadi bunga di puncak gunung yang sangat tinggi."
         },
         {
-            "text": "Seolah-olah sudah lama meninggalkan diriku yang bahkan\ndiragukan bisa menjadi pelatih... dia mulai bersinar sebagai\npelari yang sangat menjanjikan di masa depan.",
+            "text": "Seolah-olah sudah lama meninggalkan diriku yang bahkan\ndiragukan bisa menjadi Trainer... dia mulai bersinar sebagai\npelari yang sangat menjanjikan di masa depan.",
             "choice_data_list": [
                 "(Tapi...bukannya selalu begitu?)"
             ]
@@ -215,7 +215,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Oleh karena itu, aku akan memilih pelatih yang paling cocok\nuntuk mencapai hal itu. Itulah yang akan kulakukan."
+            "text": "Oleh karena itu, aku akan memilih Trainer yang paling cocok\nuntuk mencapai hal itu. Itulah yang akan kulakukan."
         },
         {
             "name": "Buena Vista",

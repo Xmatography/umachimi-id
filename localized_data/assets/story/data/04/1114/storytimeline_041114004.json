@@ -40,7 +40,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Setiap kali ia tersenyum dari atas paddock, penonton \nlangsung bersorak. Setelah menatap pemandangan\nitu dengan saksama—"
         },
         {
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Sambil berbicara, aku berdiri tepat di depannya\nsedikit lebih dekat dari biasanya. Lalu, menatapnya lurus-\nlurus, aku berkata pelan.",
             "choice_data_list": [
                 "<size=38>Sebelum berangkat, ayo fokus sebentar.</size>"
@@ -67,11 +67,11 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Umamusume punya pendengaran yang\nsangat baik. Bahkan di lorong bawah tanah ini,\nsuara sorakan dari luar terdengar jelas."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Namun pendengaran hebat itu punya arah. Karena itu, aku\nmemanggilnya perlahan dan jelas.",
             "choice_data_list": [
                 "<size=35>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
@@ -103,7 +103,7 @@
             "text": "Tapi aku sudah oke! Terima kasih. Aku berangkat\ndulu, ya. Aku akan menang dan kembali padamu, Trainer-san!"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Dan akhirnya… kompetisi pertandingan cabang pun dimulai."
         },
         {
@@ -153,7 +153,7 @@
             "text": "(Sakit… tapi! Aku tidak mau menyerah!\nAku ingin menang! Ingin menang!!\nSetidaknya untuk yang kali ini saja——！）"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "（Waaaaaaaaaaaaaaaーーー！！）"
         },
         {
@@ -177,7 +177,7 @@
             "text": "Hah… Hah… —Sudah selesai, ya."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "…Aku hanya mengangguk tanpa kata. Aku meremehkan \nsemuanya, itu saja. Dipenuhi rasa frustrasi dan rasa\nbersalah, aku hendak meminta maaf—"
         },
         {
@@ -246,15 +246,15 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Lalu aku menyadarinya. Sepertinya… dia sudah\njauh lebih dulu sampai pada jawaban yang\nseharusnya kutemukan."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Dia sudah lebih dulu melihat jawaban yang\nharus kami raih. Padahal aku lebih tua darinya.\nAku merasa sedikit malu… lalu membuka mulut."
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Sekali lagi. Berkali-kali. Aku ingin bisa\nmengejarnya, dan menopang punggungnya\nyang selalu berlari di depan.",
             "choice_data_list": [
                 "Buena, izinkan aku katakan suatu hal!",
@@ -284,7 +284,7 @@
             "text": "Kalau mau diulang, aku ingin dari awal. …Boleh?"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Dan begitu. Kami kembali berdiri\nberhadapan di tempat janji itu.",
             "choice_data_list": [
                 "Maaf menunggu. Buena...aku..",
@@ -292,7 +292,7 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "…Iya.",
             "choice_data_list": [
                 "<size=38>Maukah kamu membuat kontrak denganku?</size>",

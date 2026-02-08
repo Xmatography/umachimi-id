@@ -10,7 +10,7 @@
         },
         {
             "text": "Ah, you two over there! Are you free tonight? We're planning \na test of courage tonight, so we're looking for participants!",
-            "name": "Horsegirl A"
+            "name": "Umamusume A"
         },
         {
             "text": "Oh, a test of courage? I've heard about them, but I've never \nreally had a chance to participate before.",
@@ -18,7 +18,7 @@
         },
         {
             "text": "Hey, wait a second! If you ask her so suddenly, it'll trouble \nher you know? I mean… Ardan-senpai, probably wants to take \ncare of her physical condition…!",
-            "name": "Horsegirl B"
+            "name": "Umamusume B"
         },
         {
             "text": "Oh… thank you for your consideration. There aren't any problems \nwith my physical condition but… let's see…",
@@ -37,14 +37,14 @@
         },
         {
             "text": "Got it! But, make sure to take it easy, okay? \nIf you need to leave part way through, that's fine!",
-            "name": "Horsegirl B"
+            "name": "Umamusume B"
         },
         {
             "text": "And so, we decided to participate in the test of courage, but―"
         },
         {
             "text": "Boooooo～～～!!!!",
-            "name": "Ghost Role Horsegirl A"
+            "name": "Ghost Role Umamusume A"
         },
         {
             "text": "KYAAAAA―――!!!! \n \nIYAAAA～～～～～!!!!",
@@ -63,7 +63,7 @@
         },
         {
             "text": "Booooo～～～～!!!! ……Oh, Ardan-senpai?! \nS-sorry, are you okay?!",
-            "name": "Ghost Role Horsegirl A"
+            "name": "Ghost Role Umamusume A"
         },
         {
             "text": "Yes, there are no problems. Thank you for being so conscientious.",
@@ -71,7 +71,7 @@
         },
         {
             "text": "I'm～…… gonna～…… curse～… you～…… \n……Senpai～ , please watch your step～.",
-            "name": "Ghost Role Horsegirl B"
+            "name": "Ghost Role Umamusume B"
         },
         {
             "text": "Thank you very much. \nYou too, be careful of getting bitten by any insects.",

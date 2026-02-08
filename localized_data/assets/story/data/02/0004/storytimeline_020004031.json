@@ -9,7 +9,7 @@
     },
     {
       "name": "Reporter A",
-      "text": "Dari balapan sebelumnya, suara-suara soal triple crown makin kenceng!! \nKalau jadi orang ke-5 yang masuk sejarah “Triple Crown Gadis Kuda”, seberapa yakin kamu!?"
+      "text": "Dari balapan sebelumnya, suara-suara soal triple crown makin kenceng!! \nKalau jadi orang ke-5 yang masuk sejarah “Triple Crown Umamusume”, seberapa yakin kamu!?"
     },
     {
       "name": "Narita Brian",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Reporter B",
-      "text": "Gadis Kuda yang nggak ikut di “SatsukiShou” juga bakal turun di Derby. \nAda strategi khusus buat lawan yang belum pernah ketemu sebelumnya!?"
+      "text": "Umamusume yang nggak ikut di “SatsukiShou” juga bakal turun di Derby. \nAda strategi khusus buat lawan yang belum pernah ketemu sebelumnya!?"
     },
     {
       "name": "Narita Brian",
@@ -58,7 +58,7 @@
       "text": "Di panggung besar yang namanya Derby, gimana caranya hadapin tekanan jadi favorit nomor 1… \nItu gunung pertama yang harus didaki."
     },
     {
-      "name": "Gadis Kuda A",
+      "name": "Umamusume A",
       "text": "Latihan tanjakan, boleh aku coba sekali lagi!?"
     },
     {
@@ -70,7 +70,7 @@
       "text": "Derby itu 2400m, biar badanmu hafal cara bagi tempo!"
     },
     {
-      "name": "Gadis Kuda B",
+      "name": "Umamusume B",
       "text": "Baik, saya mengerti!"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "Winning Ticket",
-      "text": "Katanya Derby itu balapan di mana “Gadis Kuda paling beruntung yang menang”, kan? \nPanggilan ini buat ngecek, Brian bakal dapet hoki apa nggak."
+      "text": "Katanya Derby itu balapan di mana “Umamusume paling beruntung yang menang”, kan? \nPanggilan ini buat ngecek, Brian bakal dapet hoki apa nggak."
     },
     {
       "text": "Narita Brian jagonya lari di depan sambil ikutin irama lawan. \nJadi penting banget tahu seberapa bagus dia bisa dapet posisi tanpa buang banyak tenaga."
@@ -144,7 +144,7 @@
       "text": "Sekarang kamu lagi dalam kondisi terbaik! Jadi lari dengan percaya diri!"
     },
     {
-      "name": "Gadis Kuda A",
+      "name": "Umamusume A",
       "text": "Baik! Aku bakal jalani semua yang udah aku latih sampai hari ini!"
     },
     {
@@ -152,7 +152,7 @@
       "text": "Yang paling penting itu start! Jadi menangkan \nbalapan dengan manfaatin keuntungan dari posisi gate di dalam!"
     },
     {
-      "name": "Gadis Kuda B",
+      "name": "Umamusume B",
       "text": "Terima kasih atas semua latihan selama ini! Aku bakal pastiin \nmenang Derby sebagai hadiah buat Trainer!"
     },
     {
@@ -168,11 +168,11 @@
       "text": "…."
     },
     {
-      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Gadis Kuda. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
+      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Umamusume. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
             "name": "<username>"
     },
      {
-      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Gadis Kuda. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
+      "text": "Seperti yang kamu tahu, Derby itu sesuatu yang spesial buat Umamusume. \nSemua orang latihan mati-matian demi bisa meraih kejayaan ini.",
             "name": "<username>"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "name": "Komentator",
-      "text": "Narita Brian, double crown! Jarak 5 panjang badan lebih unggul dari “SatsukiShou”! \nGadis Kuda yang luar biasa! Balapan yang spektakuler!"
+      "text": "Narita Brian, double crown! Jarak 5 panjang badan lebih unggul dari “SatsukiShou”! \nUmamusume yang luar biasa! Balapan yang spektakuler!"
     },
     {
       "text": "(Soraaak～～!!)"
@@ -242,7 +242,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Derby dan Triple Crown Gadis Kuda itu cuma titik lewat doang."
+      "text": "Derby dan Triple Crown Umamusume itu cuma titik lewat doang."
     },
     {
       "name": "Gold Ship",

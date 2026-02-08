@@ -1,7 +1,7 @@
 {
   "conversation": [
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Malam Tahun Baru, aku, Winning Ticket, Narita Taishin, \ndan Biwa Hayahide bareng-bareng ke kuil buat doa pertama tahun ini."
     },
     {
@@ -24,11 +24,11 @@
       "text": "Nanti mungkin dia bilang mesin cuci aja ributnya kayak Derby."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Meski begitu, kalian bertiga berhasil meraih hasil bagus tahun ini."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Winning Ticket menang 2 balapan berturut-turut setelah kemenangan pertamanya. \nDua yang lain juga berhasil."
     },
     {
@@ -48,7 +48,7 @@
       "text": "Kalau aku beneran nggak dapet cuma karena itu, kasian banget sih!"
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Kalian bertiga bakal bisa ikut classic race sebentar lagi. \nBangga aja sama itu."
     },
     {
@@ -68,11 +68,11 @@
       "text": "Abis itu! Bisa lari bareng Taishin dan Hayahide! \nAsik banget!"
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Teman-teman yang udah janji lari bareng di balapan yang sama—\nini tujuan yang udah mereka kejar sejak jadi temen sekelas."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Dan tujuan itu bakal tercapai lebih cepat dari perkiraan."
     },
     {
@@ -100,15 +100,15 @@
       "text": "Trainer! Aku pengen ningkatin top speed pas sprint terakhir…"
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Yang kamu omongin makin spesifik. \nBukti kalau kamu ngerti latihan apa yang pengen ditingkatin."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Ada rival itu bikin Winning Ticket makin semangat, secara positif."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Keberadaan yang nggak tergantikan, saling bikin lebih baik… \nbuat ngejar itu, Narita Taishin—",
       "choice_data_list": [
         "Ayo semangat!"
@@ -120,7 +120,7 @@
     },
     {
       "speaker": "Komentator",
-      "text": "Hari ‘Yayoi Prize’ tiba! \nSetiap Horse Girl mulai masuk ke turf!"
+      "text": "Hari ‘Yayoi Prize’ tiba! \nSetiap Umamusume mulai masuk ke turf!"
     },
     {
       "speaker": "Winning Ticket",
@@ -167,12 +167,12 @@
       "text": "Iya, aku siap."
     },
     {
-      "speaker": "Narasi",
+      "speaker": "",
       "text": "Dan akhirnya, di konfrontasi pertama bareng temen di ‘Yayoi Prize’, \nsorak sorai fans bergema."
     },
     {
       "speaker": "Komentator",
-      "text": "Siapa yang bakal menang ‘Yayoi Prize’? \nSemua Horse Girl sekarang udah di gate—"
+      "text": "Siapa yang bakal menang ‘Yayoi Prize’? \nSemua Umamusume sekarang udah di gate—"
     },
     {
       "speaker": "Komentator",

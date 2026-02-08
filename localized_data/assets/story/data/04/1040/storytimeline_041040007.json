@@ -46,11 +46,11 @@
             "text": "Are we all cooking today? Huh? I have never cooked \nbefore. Wait, I can’t! I can’t! I can’t!"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Umamusume A",
             "text": "It will be okay! Just calm down. Eh, I’ve never \nseen such a panicked face before. Hehe."
         },
         {
-            "name": "Horsegirl B",
+            "name": "Umamusume B",
             "text": "City-chan! Let’s go again, all lively from the morning!"
         },
         {
@@ -62,7 +62,7 @@
             "text": " Then, let’s run 1 more time! But, this time I’ll win!"
         },
         {
-            "name": "Horsegirl C",
+            "name": "Umamusume C",
             "text": "…Interesting. I won’t lose. You can bet 3 high-grade carrots."
         },
         {
@@ -98,7 +98,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Even if I participated in the middle, I learned a lot. I was also \nable to know what the other horse girls are like."
+            "text": "Even if I participated in the middle, I learned a lot. I was also \nable to know what the other Umamusume are like."
         },
         {
             "name": "Gold City",
@@ -244,7 +244,7 @@
         },
         {
             "name": "Gold City",
-            "text": "That I’m not just a pretty doll, but an amazing horse girl!",
+            "text": "That I’m not just a pretty doll, but an amazing Umamusume!",
             "choice_data_list": [
                 "The effect of running on both paths is great",
                 "The effect of running on both paths is great"

@@ -18,61 +18,61 @@
             ]
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "Ahahah! Sorry, did I startle you? I was taking a nap over there \nin the shade, but I couldn't help being curious."
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "So, something making you feel down? Wanna tell me about it? \nJust putting it into words can make you feel better.",
             "choice_data_list": [
                 "<size=32>Ah, it's not really something to discuss with students…</size>"
             ]
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "Hm-hmm, that so～ Must be a work-related problem then? \nOr, could it be… that you witnessed some dark secrets \nof the academy that you can't disclose?!",
             "choice_data_list": [
                 "No, it's work-related…"
             ]
         },
         {
-            "name": "Jolly Horsegirl",
-            "text": "Ahahaa! I see, I see. So it <i>is</i> work-related～ \nBeing a trainer sounds like a tough job. \nAre you in charge of any horsegirls right now?",
+            "name": "Jolly Umamusume",
+            "text": "Ahahaa! I see, I see. So it <i>is</i> work-related～ \nBeing a trainer sounds like a tough job. \nAre you in charge of any Umamusume right now?",
             "choice_data_list": [
                 "I-I did have a girl who caught my eye, but…"
             ]
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "But? I'll assume you didn't end up as her trainer. \nSo what happened? Tell me more."
         },
         {
             "text": "Before I knew it, I found myself gradually being swept by the \nflow of the conversation… As I began to open up and share my \nthoughts, it felt like a weight had been lifted off my shoulders."
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "How about going for a change of pace first, and then \ntrying your luck again at the next Selection Race?",
             "choice_data_list": [
                 "Thanks, I'll try that."
             ]
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "Hehe, then I'll see you there! \n'Cause guess who's running in the next race～!"
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "Ahaha. And it's my carefully timed debut race to boot! \nCurious yet～? …Heh, I gotta self promote a lil', right? \nWell anyway, feel free to come and see me race!"
         },
         {
-            "text": "Charmed by the horsegirl's playful aura and contagious \nlaughter, a question slipped from my mouth…",
+            "text": "Charmed by the Umamusume's playful aura and contagious \nlaughter, a question slipped from my mouth…",
             "choice_data_list": [
                 "Wait — what's your name?",
                 "Wait — what's your name?"
             ]
         },
         {
-            "name": "Jolly Horsegirl",
+            "name": "Jolly Umamusume",
             "text": "Hmm, mine? It's ——"
         },
         {
@@ -81,16 +81,16 @@
         },
         {
             "name": "Experienced Trainer B",
-            "text": "Huh? Is that another Mejiro horsegirl next to her? \nWhat was her name, again…? Mejiro something…",
+            "text": "Huh? Is that another Mejiro Umamusume next to her? \nWhat was her name, again…? Mejiro something…",
             "choice_data_list": [
                 "(It's Mejiro Palmer…)"
             ]
         },
         {
-            "text": "—— The horsegirl I met on the rooftop earlier \ncame from the prestigious Mejiro family."
+            "text": "—— The Umamusume I met on the rooftop earlier \ncame from the prestigious Mejiro family."
         },
         {
-            "text": "The Mejiro family is a prestigious family that has produced \nnumerous exceptional horsegirls bearing the name \"Mejiro\"."
+            "text": "The Mejiro family is a prestigious family that has produced \nnumerous exceptional Umamusume bearing the name \"Mejiro\"."
         },
         {
             "text": "Among them, Mejiro Ryan, Mejiro McQueen, and a few other \nparticularly exceptional talents have gripped public attention \nsince their enrollment."
@@ -105,7 +105,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "… But hey, watch me. After all, I'm a Mejiro horsegirl as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?",
+            "text": "… But hey, watch me. After all, I'm a Mejiro Umamusume as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?",
             "choice_data_list": [
                 "Y-Yeah…… I'm rooting for you!",
                 "Y-Yeah…… I'm rooting for you!"
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "text": "As each horsegirl unleashed their final spurt, they overtook \nher one by one. Her visibly strained expression contrasted \nwith her beautiful and perfectly composed form."
+            "text": "As each Umamusume unleashed their final spurt, they overtook \nher one by one. Her visibly strained expression contrasted \nwith her beautiful and perfectly composed form."
         },
         {
             "text": "It was as if she was \"running too properly\", or playing it safe ——",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "That's terrible! For a Mejiro horsegirl \nto perform like this… everyone will ——"
+            "text": "That's terrible! For a Mejiro Umamusume \nto perform like this… everyone will ——"
         },
         {
             "name": "Experienced Trainer A",

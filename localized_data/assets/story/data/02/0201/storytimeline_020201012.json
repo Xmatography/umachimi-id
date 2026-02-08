@@ -129,7 +129,7 @@
       "name": "King Halo"
     },
     {
-      "text": "Mungkin tidak. ...Ayahku adalah pelatih tim.\n Saat itu, mobil ini bahkan tidak cukup...",
+      "text": "Mungkin tidak. ...Ayahku adalah Trainer tim.\n Saat itu, mobil ini bahkan tidak cukup...",
       "name": "<username>"
     },
     {
@@ -276,7 +276,7 @@
         "<size=41>Gila……mereka berdua gila banget……!!</size>",
         "<size=41>Gila……mereka berdua gila banget……!!</size>"
       ],
-            "name": "Monolog"
+            "name": ""
     },
     {
       "text": "(Udah pasti semua tim pengen ngerekrut mereka.\nBahkan trainer paling 『berbakat』 di angkatanku mikir gitu)",
@@ -368,7 +368,7 @@
     },
     {
       "text": "Setelah perjalanan panjang, dan malam singkat――\nakhirnya tiba waktunya.\nHari 『Hanshin JF』-nya Rhein Kraft……",
-            "name": "Monolog"
+            "name": ""
     },
     {
       "text": "Suuu……――Huuuu.\n……Oke, siap!",

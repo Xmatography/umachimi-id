@@ -1,38 +1,38 @@
 {
     "text_block_list": [
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Perjalananku Untuk Taklukan Twinkle Series<n>Dengan Spe Chan Akhirnya Dimulai Sekarang",
             "choice_data_list": [
                 "Jadi , Apa yang harus kulakukan Untukmu?"
             ],
             "color_text_info_list": [
-                "Spe Chan",
+                "Special Week",
                 "Twinkle Series"
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Antusias yang penuh ,aku langsung ke<n>kantin untuk sarapan , sampai..."
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Ah ...! , Hmm , Kurasa aku punya tempat untuk <n> Sedikit.."
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Permisiiii!.... Butuh Pertolongan .....!"
         },
         {
-            "name": "Gadis Kuda I",
+            "name": "Umamusume I",
             "text": "Heh?! dia pengen<i>Lagi?!</i> Dia makan<n>\nSebanyak<i>ton</i> Makanan! Dia bukan hanya<n>Berbeda level, Dia juga bentuknya Berbeda<n>Pastinya!"
         },
         {
             "text": "Ini Bencana ! Tidak Hanya Pantry<n>\nBeneran Kosong, Saryuran dari<n>Kebun akademi menghilang juga!",
-            "name": "Gadis Kuda II"
+            "name": "Umamusume II"
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Terdengar Suara Berisik Di Dalam , Sepertinya <n>Kerumunan banyak banget !"
         },
         {
@@ -56,35 +56,35 @@
             ]
         },
         {
-            "name": "Monolog",
+            "name": "",
             "text": "Aku melihat ke balik tumpukan piring yang menggunung <n> lalu mereka menemukan..."
         },
         {
             "text": "<i>Gulp!</i> Hmmm, Ternyata masih ada ruang<n>lebih!",
-            "name": "Spe Chan"
+            "name": "Special Week"
         },
         {
-            "name": "Spe-Chan",
+            "name": "Special Week",
             "text": "Permisi !! Dua Piring <n> Makanan lagi!",
             "choice_data_list": [
                 "Loh Spe ?!"
             ]
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Hoh ? Owh , Hi Trainer -0w0-"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Hehe , Maaf Membuatmu Kaget "
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Aku baru ingat kalau quest kita untuk <n>twinkle series Sudah mulai hari ini...."
         },
         {
             "text": "Aku benar-benar tidak bisa diam! Aku bisa merasakan semangat<n>juangku\nberkobar di perutku!",
-            "name": "Spe Chan",
+            "name": "Special Week",
             "choice_data_list": [
                 "Jadi,kenapa kamu makan berlebihan ?",
                 "ih kamu makan rakus banget!"
@@ -92,77 +92,77 @@
         },
         {
             "text": "Yup! Aku Bersemangat dan siap berangkat!",
-            "name": "Spe Chan"
+            "name": "Special Week"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Uh..Maksudku , a-aku sangat bersemangat<n>dan siap untuk Latihan!"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Aku ga mau pengen <n>berat badanku bertambah di awal karirku!"
         },
         {
             "text": "Dia butuh latihan yang sangat banyak untuk <n>membakar\nsemua itu, tapi aku memutuskan untuk<n>tidak menyebutkannya.",
-            "name": "Monolog"
+            "name": ""
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Baiklaaah, Waktunya kita lati—"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Sebentar! ada sesuatu, \n<n>akan kutunjukan",
             "choice_data_list": [
                 "Ah yang bener ?"
             ]
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Ya iya la , masa ya iya dong"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Ini . Surat Dari Ibuku untukmu !"
         },
         {
             "text": "Surat itu ditulis dengan sangat sopan. Surat itu mengungkapkan\nrasa terima kasih atas perhatiannya terhadap Spe Chan dan meminta\nagar saya \"membantunya meraih mimpinya.\"",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "Ibumu Baik Banget Ya !",
                 "Wah , Ibumu Baik Banget!"
             ]
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Ya! Aku bangga banget bisa memanggil dia <n>ibuku!"
         },
         {
-            "name": "Spe Chan",
-            "text": "Dan itulah kenapa ia ingin aku jadi <n>Gadis Kuda Terbaik No.1 Di Jepang"
+            "name": "Special Week",
+            "text": "Dan itulah kenapa ia ingin aku jadi <n>Umamusume Terbaik No.1 Di Jepang"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Kedua ibuku membesarkanku dan satu lagi <n> ibuku yang melahirkanku."
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Aku akan tunjukin sebanyak apa aku berkembang <n> dan bagaimana meraihnya dan aku <n>ingin mereka bangga",
             "choice_data_list": [
                 "Baiklah,Berikan semua yang kamu punya !"
             ]
         },
         {
-            "name": "Spe chan",
+            "name": "Special Week",
             "text": "Oke! Pertama-tama,kita harus fokus<n>pada balapan debutmu"
         },
         {
-            "name": "Spe Chan",
+            "name": "Special Week",
             "text": "Ayo Lakukan , Trainer!"
         },
         {
-            "text": "Maka, dimulailah perjalananku bersama Special Week\nupayanya untuk menjadi Gadis Kuda terbaik di seluruh\nJepang!",
-            "name": "Monolog"
+            "text": "Maka, dimulailah perjalananku bersama Special Week\nupayanya untuk menjadi Umamusume terbaik di seluruh\nJepang!",
+            "name": ""
         }
     ]
 }

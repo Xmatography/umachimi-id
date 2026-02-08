@@ -3,7 +3,7 @@ Selamat datang di repositori **Umachimi**! 🎉
 
 Umachimi adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda dengan terjemahan Bahasa Indonesia. 
 
-<center><img src="docs\built-in-gui.webp" width="30%" />  .  <img src="docs\screen1.webp" width="30%" /></center>
+<img src="docs\built-in-gui.webp" width="30%" />  .  <img src="docs\screen1.webp" width="30%" />
 
 ## 📑 Daftar Isi
 - 📌 [Tentang Proyek](#-tentang-proyek)
@@ -17,7 +17,7 @@ Umachimi adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda
 Proyek ini bertujuan untuk menyediakan **versi Indonesia dan daerah** dari berbagai konten di Hachimi.  
 Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem, hingga detail lain dalam bahasa yang lebih familiar 🇮🇩✨.
 
-Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Status Translasi](https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi) dan [Discord Server](https://discord.gg/4zvW4VhrYV)
+Semua progres translasi yang dikerjakan para kontributor dapat dilihat di [Status Translasi](https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi) dan [Discord Server](https://discord.gg/4zvW4VhrYV)
 
 
 ## 🚀 Fitur Utama
@@ -30,7 +30,7 @@ Semua progress translasi yang dikerjakan para kontributor dapat dilihat di [Stat
 ## ▶️ Instalasi
 - Unduh dan pasang [Hachimi Edge](https://hachimi.noccu.art/id/) (PC & Android) kemudian ikuti langkah-langkah instalasinya [disini](https://hachimi.noccu.art/id/docs/hachimi/getting-started). 
 
-(*Note: Hachimi versi lama sudah tidak didukung, jadi gunakanlah Hachimi Edge).
+  (*Note: Hachimi versi lama sudah tidak didukung, jadi gunakanlah [Hachimi Edge](https://hachimi.noccu.art/id/)).
 - Buka menu `Setup Pertama Kali` kemudian pilih repositori Bahasa Indonesia.
 - Enjoy 🎉
 

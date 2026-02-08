@@ -11,22 +11,22 @@
         },
         {
             "text": "Sudah beberapa hari sejak aku menjadi Trainer-nya.",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "<i>Aku masih lembut padanya, sih...</i>"
             ]
         },
         {
             "text": "Aku membuat catatan bagaimana Admire Vega berlari. \nAku akan menggunakan ini sebagai basis latihan kedepannya, tapi...",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Akankah dia mendengarkanku?",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Dia bisa menerima saran kecil, tapi saat latihan yang \nmembutuhkan dua orang…",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Aku...tidak apa-apa sendiri. Aku lebih suka sendiri.",
@@ -38,14 +38,14 @@
         },
         {
             "text": "Bakal susah menyakinkan dia untuk latihan yang \nmembutuhkan bantuanku.",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "<i>Tapi…</i>"
             ]
         },
         {
             "text": "Aku adalah Trainer-nya. Aku bilang ke dia untuk membuktikan \nbahwa aku bisa membantunya apapun itu!",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Aku mau lari dulu…",
@@ -60,7 +60,7 @@
         },
         {
             "text": "Dia sudah keluar sebelum aku bereaksi. \nAku ingin mengejarnya, tapi dia terlalu cepat.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Hahh, hah, haa…!",
@@ -80,14 +80,14 @@
         },
         {
             "text": "Aku sangat sibuk menata catatanku sampai aku tidak sadar sudah malam.",
-            "name": "Monolog",
+            "name": "",
             "choice_data_list": [
                 "Tapi, tinggal sedikit lagi..."
             ]
         },
         {
             "text": "Aku berharap perasaanku bisa mencapai Admire Vega besok. \nDan berharap aku bisa menjadi berguna buat dia juga.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "Kamu disini lagi.",
@@ -103,11 +103,11 @@
         },
         {
             "text": "\"Dia sepertinya suka bintang.\" \"Haruskah kuubah waktu latihannya?\" \n\"Tempat yang bagus untuk melihat bintang, ya?\" Tanya Tazuna aja, deh.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "\"Demi 'dia' ――?\"",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "text": "\"Apa yang bisa kuperbuat untuk dia\"……？",
@@ -151,7 +151,7 @@
         },
         {
             "text": "Sepertinya ada seseorang menyelimutiku dengan selimut.\nAku tidak membuka mataku, tapi dalam tidurku, aku mendengar \nlangkah kaki yang samar.",
-            "name": "Monolog"
+            "name": ""
         }
     ],
     "title": "Getaran Di Malam Yang Berkilau"

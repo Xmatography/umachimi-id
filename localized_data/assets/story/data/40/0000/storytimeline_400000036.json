@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "text": "—Setelah balapan, dalam perjalanan kembali ke\nruang tunggu, Aku bertemu seorang reporter.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Otonashi Etsuko",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "... Jadi Pelatih , Bagaimana Rencanamu \nUntuk Race Berikutnya ?",
+            "text": "... Jadi Trainer , Bagaimana Rencanamu \nUntuk Race Berikutnya ?",
             "choice_data_list": [
                 "Aku serius soal hasilnya saat ini!",
                 "Gass Terus donk !"
@@ -42,7 +42,7 @@
         },
         {
             "text": "Saya memberi tahu <chrname> setelah lomba\nbahwa wawancaranya sukses dan berterima kasih atas\nusahanya.",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "name": "Otonashi Etsuko",
@@ -54,7 +54,7 @@
         },
         {
             "text": "Kali ini, sepertinya aku\ntidak mampu banyak memengaruhi para wartawan…",
-            "name": "Monolog"
+            "name": ""
         },
         {
             "color_text_info_list": [
@@ -68,7 +68,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Hebat sekali! Anda pelatih Tracen Academy yang sejati!"
+            "text": "Hebat sekali! Anda Trainer Tracen Academy yang sejati!"
         },
         {
             "name": "Otonashi Etsuko",

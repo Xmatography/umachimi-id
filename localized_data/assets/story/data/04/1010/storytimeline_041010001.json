@@ -21,7 +21,7 @@
         },
         {
             "text": "Eh?! M-me…? I'll have to decline…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Oh, is that so? Too bad, so sad, \nmaybe next time then.",
@@ -76,14 +76,14 @@
         },
         {
             "text": "Uuu… my head is spinning…",
-            "name": "Timid-looking Horsegirl",
+            "name": "Timid-looking Umamusume",
             "choice_data_list": [
                 "(Wasn't she in the race with Taiki…?)"
             ]
         },
         {
             "text": "Kyaa…!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "It looked like she was in bad shape, she stumbled \nand looked like she was about to collapse. In a \npanic, I was about to run up to her when-"
@@ -101,7 +101,7 @@
         },
         {
             "text": "Eh…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Like a gust of win, with startling speed Taiki Shuttle ran up \nbeside her, and splendidly caught her in her arms…!"
@@ -112,7 +112,7 @@
         },
         {
             "text": "Ehh, eh, eh? Taiki Shuttle-san…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "You didn't look too good during the race either. \nPushing yourself too hard is a no no! Don't do it!",
@@ -120,7 +120,7 @@
         },
         {
             "text": "Y-you noticed…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Yes, of course!",
@@ -132,7 +132,7 @@
         },
         {
             "text": "Huh…?",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Okay!…it's an emergency! \nComing throuuuuuuuugh!",
@@ -140,7 +140,7 @@
         },
         {
             "text": "Hyaaaaaaaaa-?!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "Once again, she took off with amazing speed! With speed like that \nit's hard to believe she's carrying another Umamusume…!"
@@ -154,7 +154,7 @@
         },
         {
             "text": "Yeah! Thank you Taiki-san, see you later…!",
-            "name": "Timid-looking Horsegirl"
+            "name": "Timid-looking Umamusume"
         },
         {
             "text": "See you~!!",

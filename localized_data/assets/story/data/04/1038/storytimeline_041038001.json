@@ -36,25 +36,25 @@
         },
         {
             "text": "Hey, isn't this like the best spot!? \nI told you it was hella close!!",
-            "name": "Stylish Horsegirl"
+            "name": "Stylish Umamusume"
         },
         {
             "text": "It was super worth getting up early to get this spot!! \nIf I'm lucky, I might get to take a selfie with her…",
-            "name": "Bandwagon Horsegirl",
+            "name": "Bandwagon Umamusume",
             "choice_data_list": [
                 "So uh… What's going on here?"
             ]
         },
         {
             "text": "Eh!? You haven't heard, Trainer-san!? \nToday's the day that <i>the</i> famous Umastagrammer \n\"Curren\" is transferring to this academy!!",
-            "name": "Stylish Horsegirl",
+            "name": "Stylish Umamusume",
             "choice_data_list": [
                 "Curren…?"
             ]
         },
         {
             "text": "Hold on! You haven't heard of THE Selfie Goddess herself!? The \none who despite all the competition managed to get 3 million \nfollowers on Umastagram!  You haven't heard of <i>THAT</i> Curren!?",
-            "name": "Bandwagon Horsegirl"
+            "name": "Bandwagon Umamusume"
         },
         {
             "text": "It seems like they're excited because an idol of sorts is \ntransferring here.  I stuck around, out of curiousity…"
@@ -80,15 +80,15 @@
         },
         {
             "text": "You're kidding…! \nCurren only uses a filter on her background!?",
-            "name": "Stylish Horsegirl"
+            "name": "Stylish Umamusume"
         },
         {
             "text": "Her aura is so bright…!! She's definitely \nthe real deal, the real Umasta Curren…!",
-            "name": "Stylish Horsegirl"
+            "name": "Stylish Umamusume"
         },
         {
             "text": "Umm… W-Would it be okay if I took a \nselfie with you…!? I-I'm y-your biggest fan!",
-            "name": "Bandwagon Horsegirl"
+            "name": "Bandwagon Umamusume"
         },
         {
             "text": "Of course it's okay! Hmm… \nI know, we'd look super cute posing like this!",
@@ -96,7 +96,7 @@
         },
         {
             "text": "Woah, this is like a once in a lifetime shot… \nGod, thank you for this blessing…!!",
-            "name": "Bandwagon Horsegirl"
+            "name": "Bandwagon Umamusume"
         },
         {
             "text": "Just getting to see everyone happy makes me super happy ♪ But \ndon't forget, if you're gonna upload it add #CurrenChan, okay?",
@@ -204,11 +204,11 @@
         },
         {
             "text": "Is that person really gonna say no to \nTHE Curren even though she's begging them…?",
-            "name": "Stylish Horsegirl"
+            "name": "Stylish Umamusume"
         },
         {
             "text": "I mean, if they're not training anyone \nthey could at least hear her out, ya know?",
-            "name": "Bandwagon Horsegirl"
+            "name": "Bandwagon Umamusume"
         },
         {
             "text": "Her fans' piercing stares made \nme hesitate, and when I did…"
@@ -237,11 +237,11 @@
         },
         {
             "text": "What's all the fuss about…?",
-            "name": "Serious Horsegirl"
+            "name": "Serious Umamusume"
         },
         {
             "text": "Umastagrammer and what not… Students here \nare meant to be serious about racing, you know?",
-            "name": "Race-loving Horsegirl"
+            "name": "Race-loving Umamusume"
         },
         {
             "text": "I guess standing out really does invite more criticism. \nAnd here, the best way to respond \nis to let your racing do the talking."

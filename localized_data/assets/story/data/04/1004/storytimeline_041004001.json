@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The Selection Race. One of the largest events at the academy, \nwhere horsegirls display their abilities to prospective trainers."
+            "text": "The Selection Race. One of the largest events at the academy, \nwhere Umamusume display their abilities to prospective trainers."
         },
         {
             "text": "Among the many eager girls trying their hardest, one ran at \ntremendous pace, all the while carrying a relaxed expression."
@@ -55,11 +55,11 @@
         },
         {
             "text": "Maruzenskyyyy! I didn't expect anything \nless! You're amazing! You're awesome!",
-            "name": "Junior Horsegirl A"
+            "name": "Junior Umamusume A"
         },
         {
             "text": "I-I've never seen a time like this before…!",
-            "name": "Junior Horsegirl B"
+            "name": "Junior Umamusume B"
         },
         {
             "text": "Oh my, you girls! Thanks for all your support!!",
@@ -67,7 +67,7 @@
         },
         {
             "text": "You inspire me! I want to be as fast as \nyou! Please run with me again sometime!",
-            "name": "Junior Horsegirl A"
+            "name": "Junior Umamusume A"
         },
         {
             "text": "Eheheh, sure thing! We could do it right after \nthis if you like! I'm always up for a run♪",
@@ -100,7 +100,7 @@
             "text": "But—"
         },
         {
-            "text": "Maruzensky, you can be an undefeated Triple \nCrown horsegirl! Come make it big with me!",
+            "text": "Maruzensky, you can be an undefeated Triple \nCrown Umamusume! Come make it big with me!",
             "name": "Rookie Trainer A"
         },
         {
@@ -108,7 +108,7 @@
             "name": "Maruzensky"
         },
         {
-            "text": "You will be a legendary horsegirl one day! Let \nme help you make your mark on history!!",
+            "text": "You will be a legendary Umamusume one day! Let \nme help you make your mark on history!!",
             "name": "Average Trainer A"
         },
         {
@@ -120,15 +120,15 @@
         },
         {
             "text": "Maruzensky… She's constantly been approached \nby trainers long before the Selection Race. \nI wonder why she turns them all down…?",
-            "name": "Junior Horsegirl B"
+            "name": "Junior Umamusume B"
         },
         {
             "text": "I'm sure she has her sights set way higher \nthan even those trainers have!",
-            "name": "Junior Horsegirl A"
+            "name": "Junior Umamusume A"
         },
         {
             "text": "I- I see, of course…! I can't wait to \nsee her find a trainer who suits her and take to the big stages…",
-            "name": "Junior Horsegirl B"
+            "name": "Junior Umamusume B"
         },
         {
             "text": "………………",

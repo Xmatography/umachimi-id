@@ -2,24 +2,24 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": " At Tracen Academy, an event called the \"Classification Event\"\nis held, where the horse girls race in different fields."
+            "text": " At Tracen Academy, an event called the \"Classification Event\"\nis held, where the Umamusume race in different fields."
         },
         {
-            "text": "As the event draws nearer, many of the horse girls are working\nfeverishly on their training for the competition."
+            "text": "As the event draws nearer, many of the Umamusume are working\nfeverishly on their training for the competition."
         },
         {
             "name": "???",
             "text": "Haa…Haaa!\nJust a bit more…"
         },
         {
-            "text": "Here was another horse girl who was exhausted,\nbut still determined to reach the goal."
+            "text": "Here was another Umamusume who was exhausted,\nbut still determined to reach the goal."
         },
         {
             "name": "???",
             "text": "Goaaaaal…\nHaa…Haa…"
         },
         {
-            "text": "I ran to the horse girl who had fallen down\nright after crossing the finish line. ",
+            "text": "I ran to the Umamusume who had fallen down\nright after crossing the finish line. ",
             "choice_data_list": [
                 "Are you okay!?",
                 "Are you okay!?"
@@ -82,7 +82,7 @@
         },
         {
             "name": "Commentator",
-            "text": "As the race enters the final straight, each\nhorse girl makes her last spurt! Urara is falling\nbehind, and the gap is widening!"
+            "text": "As the race enters the final straight, each\nUmamusume makes her last spurt! Urara is falling\nbehind, and the gap is widening!"
         },
         {
             "name": "Haru Urara",
@@ -93,7 +93,7 @@
             "text": "The lead group is in a chaotic fight!\nThat's a close one! It's going to be a photo finish!"
         },
         {
-            "text": "All the horse girls except for Urara reached the finish line,\nbut she still kept running desperately."
+            "text": "All the Umamusume except for Urara reached the finish line,\nbut she still kept running desperately."
         },
         {
             "name": "Haru Urara",

@@ -1,5 +1,5 @@
 {
-    "title": "Kiseki Step",
+    "title": "Satu Langkah Keajaiban",
     "text_block_list": [
         {
             "name": "Narator",
@@ -25,7 +25,7 @@
             "text": "Lalu tiba hari balapan simulasi, pertandingan balas dendam."
         },
         {
-            "name": "Trainner Akademi",
+            "name": "Trainer Akademi",
             "text": "Kenapa dong, aku ditolak Keajaiban!?\nKalau di bidang yang dia kuasai, aku juga bisa bantu asah skillnya! Tapi—!"
         },
         {
@@ -88,24 +88,24 @@
         },
         {
             "text": "...Hah? Maksudnya—\"\n\"Balapannya udah mulai! Nah , Kiseki --!",
-            "name": "Para Trainner"
+            "name": "Para Trainer"
         },
         {
-            "name": "Para Trainner",
+            "name": "Para Trainer",
             "text": "Hah!? Dia jadi 'front runner'!?"
         },
         {
             "text": "Lari di depan dengan kecepatan tinggi, strategi 'front running' yang kuat.Inilah ide cemerlangnya... alur cerita yang seru."
         },
         {
-            "name": "Trainner Akademi",
+            "name": "Trainer Akademi",
             "text": "Nggak, nggak mungkin! Keajaiban tahan?\nStrategi 'front running' kayak gitu, nggak pernah sekalipun dalam latihan...!",
             "choice_data_list": [
                 "..Ini alur yang bikin deg-degan banget ya."
             ]
         },
         {
-            "name": "Trainner Akademi",
+            "name": "Trainer Akademi",
             "text": "Iya, itu bikin deg-degan banget! Eh tunggu!\nJadi arahanmu adalah mengubah Keajaiban jadi 'front runner'!?",
             "choice_data_list": [
                 "<size=38>Tidak, performa bisa berubah setiap balapan.</size>"
@@ -118,11 +118,11 @@
             "text": "Makanya ini adalah gaya lari khusus untuk satu-satunya balapan simulasi ini.Gaya lari untuk kemenangannya yang dia anggap paling seru."
         },
         {
-            "name": "Trainner Akademi",
+            "name": "Trainer Akademi",
             "text": "..Itu, itu konyol! Prinsip menang dalam balapan adalah Umamusume memantapkan jalan kemenangannya sendiri! Tapi...—!"
         },
         {
-            "name": "Trainner Akademi",
+            "name": "Trainer Akademi",
             "text": "Dengan gaya lari yang benar-benar berbeda dari sebelumnya, apa bisa menang...?Hal seperti itu... —, kalau 'kemungkinan tak terduga' seperti itu bisa terwujud...!",
             "choice_data_list": [
                 "<size=38>Ya! Gaya lari bikin ga bisa berhenti nonton!</size>"
@@ -136,7 +136,7 @@
             "text": "Hah... hah... ——... Masih! Masih belum cukup!!"
         },
         {
-            "text": "Gaya larinya itu juga berdampak sebagai langkah tak terduga bagi Uma Musume di belakang.\nSemua memperhatikan punggungnya. Semua, kepadanya—",
+            "text": "Gaya larinya itu juga berdampak sebagai langkah tak terduga bagi Umamusume di belakang.\nSemua memperhatikan punggungnya. Semua, kepadanya—",
             "choice_data_list": [
                 "Gas . Kiseki!!",
                 "Gas . Kiseki!!"

@@ -2,14 +2,14 @@
     "text_block_list": [
         {
             "name": "Special Week",
-            "text": "[ Champion Meet ]\nShuzuka - san, Ini apa ?"
+            "text": "[ Champion Meet ]\nSuzuka-san, Ini apa ?"
         },
         {
-            "name": "Silence Shuzuka",
+            "name": "Silence Suzuka",
             "text": "Jadi ini Turnamen yang dimana umamusume kelas tertentu akan bersaing untuk Juara ~~"
         },
         {
-            "name": "Silence Shuzuka",
+            "name": "Silence Suzuka",
             "text": "Dari sini kamu bisa bersaing umamusume dari Trainer lain , aku ga sabar buat acara ini digelar !"
         },
         {
@@ -17,7 +17,7 @@
             "text": "Wah...!\nAku juga mulai ~ ~ bersemangat!"
         },
         {
-            "name": "Silence Shuzuka",
+            "name": "Silence Suzuka",
             "text": "Tapi Disini Cuma 3 Umamusume yang bisa daftar untuk lomba . jadi pilih baik baik uma yang ingin ikut lomba !"
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "text": "Hehehe... baiklah, ayo berangkat.",
-            "name": "Silence Shuzuka"
+            "name": "Silence Suzuka"
         }
     ]
 }

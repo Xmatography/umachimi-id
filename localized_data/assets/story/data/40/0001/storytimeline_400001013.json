@@ -157,7 +157,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "...Maaf, Pelatih.\nItu tidak enak dilihat.",
+            "text": "...Maaf, Trainer.\nItu tidak enak dilihat.",
             "choice_data_list": [
                 "T-tidak, tidak..."
             ]
@@ -196,7 +196,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hehe. Ketua Yayasan Akikawa, sejak dulu\nsudah memperhatikan Anda, para pelatih, lho.",
+            "text": "Hehe. Ketua Yayasan Akikawa, sejak dulu\nsudah memperhatikan Anda, para Trainer, lho.",
             "choice_data_list": [
                 "Bagiku...?",
                 "Bagiku...?"
@@ -204,7 +204,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Benar. Sejak zaman ketua yayasan sebelumnya—yaitu ibu saya—\nmemimpin akademi ini,\naku telah melihat banyak sekali pelatih."
+            "text": "Benar. Sejak zaman ketua yayasan sebelumnya—yaitu ibu saya—\nmemimpin akademi ini,\naku telah melihat banyak sekali Trainer."
         },
         {
             "name": "Ketua Akikawa",
@@ -212,11 +212,11 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Tak bisa salah! Dirimu, sebagai seorang pelatih——\nadalah tiang penyangga yang kokoh, yang akan menopang cita-cita luhur para UmaMusume!"
+            "text": "Tak bisa salah! Dirimu, sebagai seorang Trainer——\nadalah tiang penyangga yang kokoh, yang akan menopang cita-cita luhur para UmaMusume!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ya, saya sependapat dengan Ketua Yayasan.\nOleh karena itu, kami sangat berharap, kepada para pelatih.."
+            "text": "Ya, saya sependapat dengan Ketua Yayasan.\nOleh karena itu, kami sangat berharap, kepada para Trainer.."
         },
         {
             "name": "Ketua Akikawa",

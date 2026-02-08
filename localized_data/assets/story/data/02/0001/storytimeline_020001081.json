@@ -76,7 +76,7 @@
         },
         {
             "text": "McQueen-san, dengar deh!\nJumlah Umamusume yang ingin pindah ke sini semakin bertambah!",
-            "name": "Gadis kuda dengan Poni Lurus"
+            "name": "Umamusume dengan Poni Lurus"
         },
         {
             "text": "Sepertinya memang begitu sejak Kyōto Daishōten, ya.",
@@ -84,15 +84,15 @@
         },
         {
             "text": "Itu semua berkat kerja kerasmu yang luar biasa, McQueen-chan.",
-            "name": "Gadis kuda dengan Bob Hitam"
+            "name": "Umamusume dengan Bob Hitam"
         },
         {
             "text": "Kalau kamu berhasil menang di Tenno Sho Musim Gugur nanti,\nkamu akan jadi Umamusume kedua yang pernah memenangkan Tenno Sho Musim Semi dan Gugur!",
-            "name": "Gadis kuda dengan Poni Lurus"
+            "name": "Umamusume dengan Poni Lurus"
         },
         {
             "text": "Jumlah anggota pasti bakal makin banyak setelah itu!",
-            "name": "Gadis kuda bermata sayu"
+            "name": "Umamusume bermata sayu"
         },
         {
             "text": "Hadeh… Itu semua hanya kalau aku menang.",
@@ -108,11 +108,11 @@
         },
         {
             "text": "Kita akan jadi tim besar lagi!",
-            "name": "Gadis kuda dengan Poni Lurus"
+            "name": "Umamusume dengan Poni Lurus"
         },
         {
             "text": "Aku akan dukung kamu dari barisan depan!",
-            "name": "Gadis kuda bermata sayu"
+            "name": "Umamusume bermata sayu"
         },
         {
             "text": "Aku mengerti, semuanya.\nAku akan pastikan menang di balapan berikutnya juga.",
@@ -167,11 +167,11 @@
         },
         {
             "text": "Ah, kalau gitu aku juga mau satu putaran lagi!",
-            "name": "Gadis kuda bermata sayu"
+            "name": "Umamusume bermata sayu"
         },
         {
             "text": "Aku juga!\nKalau McQueen-chan kasih segalanya, aku juga harus begitu!",
-            "name": "Gadis kuda dengan Bob Hitam"
+            "name": "Umamusume dengan Bob Hitam"
         },
         {
             "text": "Eh? Kalian tidak harus memaksakan diri hanya karena aku…",
@@ -179,7 +179,7 @@
         },
         {
             "text": "Tidak apa-apa, jangan khawatirkan kami!\nSoalnya, kami suka banget melihat cara kamu berlari.",
-            "name": "Gadis kuda dengan Poni Lurus",
+            "name": "Umamusume dengan Poni Lurus",
             "choice_data_list": [
                 "<size=36>Semuanya, pastikan jangan sampai memaksakan diri ya.</size>"
             ]
