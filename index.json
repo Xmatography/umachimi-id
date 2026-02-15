@@ -35,8 +35,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_badge00/tx_uTex_fl_cmn_badge00_0.diff.png",
-      "hash": "5707887f184c8c68991cc0d9b4aab6627b84740ded5b59c172d3e8698c2f42bd",
-      "size": 1143
+      "hash": "6a097e8a976fac0f87f24ca5ccb3dd76a6f2f9dffb37a4146b8892a436b29ce5",
+      "size": 1265
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_txt_event_reward00/tx_uTex_fl_cmn_txt_event_reward00_0.diff.png",
@@ -490,8 +490,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_hpgauge00/tx_uTex_fl_singlemode_onsen_header_hpgauge00_0.diff.png",
-      "hash": "2fc5bccb7bad54acffc56e08b862c95f7e0121c062b7d31b587dd4420e48a04a",
-      "size": 2713
+      "hash": "fa7710513ba8e386a1f74da0121c26aac50f103677222a0342278ccacabda14e",
+      "size": 6697
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_turncounter00/tx_uTex_fl_singlemode_onsen_header_turncounter00_0.diff.png",
@@ -559,9 +559,9 @@
       "size": 6184
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0.diff.png",
-      "hash": "104b403555bf86a97b247ecd293c38e83c31f08e2f34d3ad357c19222d9c012e",
-      "size": 4633
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0_A.diff.png",
+      "hash": "85f2d6d6d35e6c441b4c2080310f8ca6c32e1aad5d36cc5397deec4fdef7695e",
+      "size": 10856
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete00/tx_uTex_fl_singlemode_pioneer_island_complete00_0.diff.png",
@@ -820,8 +820,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "95826fdf657e9c6e3d55e5ce2d0b15ac12e8ad038118ef665bb8d7075374887c",
-      "size": 337663
+      "hash": "b1f9b2be5722aef8fa8ff73fc70ef43da79c28b30497041dd99ea33b56a6a198",
+      "size": 333446
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -840,8 +840,8 @@
     },
     {
       "path": "assets/atlas/gacha/gacha.diff.png",
-      "hash": "f946cf8f721206d52742c50ff60e883c586ee4075bfec314660636a0e29cb3d8",
-      "size": 402745
+      "hash": "057e42ec9d13fea1565719591c5283f35d97956fe28a0ff9dbf9c1735600e1a8",
+      "size": 423016
     },
     {
       "path": "assets/atlas/gacha/gacha.json",
@@ -1055,8 +1055,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.diff.png",
-      "hash": "62345445ffa46dcab20f95fcc3ad10c7e628a676bf80924d9cb0f90b15c48371",
-      "size": 740335
+      "hash": "497f9e87ffddf802550cfd0a4b2c6dcb81428eb67f66f1c96f192d644f955b1d",
+      "size": 740912
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.json",
@@ -9989,6 +9989,66 @@
       "size": 287426
     },
     {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_01.png",
+      "hash": "fb47adb0bfbf1e7dd5d23b7ee6048a570117b074010a755378ea178770ed8970",
+      "size": 184498
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_02.png",
+      "hash": "004f397d229026491dff7dedf43f2baf1cac8f9fd0760a7d7af46cf61c9ea3f6",
+      "size": 186445
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_03.png",
+      "hash": "a45fcb0e70b134a9562879a14dbb439951c717e757f97e180f4c2867f0d69411",
+      "size": 186798
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_04.png",
+      "hash": "1c9f74287e791fd1bd0838461b65ae354123fc18aa292cefef83596f01dfa6f6",
+      "size": 185183
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_05.png",
+      "hash": "df5e178ae839bb1df04126b4b26b2b8e53da8e92d6f275a4fbbb21d90d8e9715",
+      "size": 185655
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_06.png",
+      "hash": "52b2e4a29baeced394c774c73b3d2d011914f019e48839fa26d0b49364a0c554",
+      "size": 185145
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_07.png",
+      "hash": "2daab1047566030387733068513e28445ed3effa396c65e160f33cb29b313e22",
+      "size": 186800
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_08.png",
+      "hash": "a91577d67a4d79a9273a5a2a519bbe2e1a4af7686436b0dae41336a05fb8a8b8",
+      "size": 184822
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_09.png",
+      "hash": "521d64114e40088ffad81a658937c91d6e7851cad8acdf8cda76e629b71bd072",
+      "size": 185841
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_10.png",
+      "hash": "b1d811fdfe86c3bb4fbd605ec4dfad318c6e4bda87347d90abcdb05012202661",
+      "size": 186603
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_11.png",
+      "hash": "0409cfd67785c6b9102a97b843d9a38d0f6f687acaff1986051908d9fae21ef8",
+      "size": 187699
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_btn_home_race_champions_12.png",
+      "hash": "8edcd6968b85d3851f2dce7b83918d3361beec88312f68e937eef0526193a21a",
+      "size": 189525
+    },
+    {
       "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_00.png",
       "hash": "f353516ed575d64758826fcd0427f3f08346316503672bec5cd74c16c6a19e6b",
       "size": 48423
@@ -10017,6 +10077,26 @@
       "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_05.png",
       "hash": "e12a0d854b60dae8dc51470261552ae8dd7763ff43be084ddd735e4bf646b017",
       "size": 61359
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_aggregate_01.png",
+      "hash": "b0211c5a13dda4af7da6060eaf8ce3aa2d13771d63de5016cec8a16f2325b708",
+      "size": 144476
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_down_01.png",
+      "hash": "99d06cc2dda2b324b1f5ddcbe770c7435aae35f3d7bc33d2e1c76e5cfeb5bf2a",
+      "size": 151802
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_keep_01.png",
+      "hash": "bf82b45ef5f26798423043583c059bc669cd71e0178c4d52479806742853c050",
+      "size": 148161
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_up_01.png",
+      "hash": "19c359888cbaaadbcab60e36b832073ef597ce6e9fbe7baddd9534c651a30ab1",
+      "size": 156219
     },
     {
       "path": "assets/textures/outgame/campaign/walking/utx_txt_campaign_stroll_03.png",
@@ -10094,6 +10174,61 @@
       "size": 87413
     },
     {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_01.png",
+      "hash": "b612eaed44aab61a2c1581540b482a93605fcb471b8ed3262a71a1aebb7ac116",
+      "size": 93214
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_02.png",
+      "hash": "b4ec73b2abd49527c5270f6c74250f1b3179114ea6d958e1711f3dd9769594de",
+      "size": 101533
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_03.png",
+      "hash": "8f44842248aa9ae1d73a4c7de596df7211b3d9da7cf5271351ea69de7ece1d2f",
+      "size": 100246
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_04.png",
+      "hash": "40dd03e963bf65773017cb13b97b1c55d8004bec0fb30c575c29667a202066ab",
+      "size": 86575
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_11.png",
+      "hash": "89027347e88d6eb60da4c965a2bcb17b713fdce2e76198a29e18340644c93b21",
+      "size": 101264
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_12.png",
+      "hash": "149fb9b57f1e6b2944a7b0fce2cfeb71fc65b076be7b5a92e333b96bf6219d4b",
+      "size": 109782
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_13.png",
+      "hash": "d6454f3e46f56c20e12dec29e1ca9eab203515a0e40d332d02f142d5a10362d5",
+      "size": 148586
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_14.png",
+      "hash": "3aa51758ac37dd44017600e2b9dbce24945d2ee34896ed51a384a40b8932a545",
+      "size": 138468
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_15.png",
+      "hash": "795b86d135aa4379f1bfcfdfbf3b5212c3e32e008b3f4f287c6365ed83e22244",
+      "size": 149563
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_16.png",
+      "hash": "b5e0bc8870540e78989d599e7bdde30346a37758d82d6cfc1d90f91cea59d12a",
+      "size": 142675
+    },
+    {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_17.png",
+      "hash": "319d957a38e05983629be0403695c9eb8379225ef06b4b149ec95ce0b551a0b9",
+      "size": 139661
+    },
+    {
       "path": "assets/textures/race/champions/texture/banner/banner_champions_text_00.png",
       "hash": "1310189b277b0efabae1de9d643e91a4b72c462f736dd00adc9ea4ae7c8413a4",
       "size": 57926
@@ -10124,6 +10259,51 @@
       "size": 73173
     },
     {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_10_01.png",
+      "hash": "6836e29b3e64cff08e0b4d33615886995d41200e89e03c10b1a3d1e65824b9b8",
+      "size": 139352
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_10_01_s.png",
+      "hash": "ff9f2ebdfa4ec1907cb4beaf672d966e630c100a20cd303cc96c1c0d2a9d049e",
+      "size": 55746
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_10_02.png",
+      "hash": "a4e3fd91d2bf6e1d85bcf359117eae96121858d3bf1b81d31835cc75da013084",
+      "size": 116367
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_11_01.png",
+      "hash": "ec96fed25c9b2636c6835cbe0739b5bf5c7a6e61318b464cb7d145f8fde95168",
+      "size": 153361
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_11_01_s.png",
+      "hash": "6258a09270ec8766566e3c12b866c63e0549657efda56d5a1c90c88de999292e",
+      "size": 60804
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_11_02.png",
+      "hash": "c6f5c7b92a771b4f5bb2237214cf201c32516d6205e6f34dfc7386c65fa83e22",
+      "size": 123264
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_12_01.png",
+      "hash": "106d188d16c86838e9d040da08f0188e431c48148ed7cabc325d946985958f04",
+      "size": 165720
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_12_01_s.png",
+      "hash": "e9935477e7d4df6064ae54a186f25de64bd181d90b5d344ebff5d7bcbd9f2d6b",
+      "size": 67928
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_12_02.png",
+      "hash": "8f52100449bb4cb65795992cb1836fe2ac61975a0754873130376f09b16e9dd8",
+      "size": 123423
+    },
+    {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_13_01.png",
       "hash": "918cf2262f8dee7c169eeea8bde4a40ea1f527ae13486bcc121e013d32651ed8",
       "size": 568864
@@ -10132,6 +10312,11 @@
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_13_01_s.png",
       "hash": "d047da0bcefc6908691b25b0eff821b67a5e8213bf2194798ee0dd3171a94666",
       "size": 192423
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_13_02.png",
+      "hash": "c2433816b0f6a41eba15df422df6c561837488fb41d177f1cf815c9542d00bf7",
+      "size": 124242
     },
     {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_14_01.png",
@@ -10144,6 +10329,11 @@
       "size": 142736
     },
     {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_14_02.png",
+      "hash": "575ee4142915e735da13425fdd006831ff9570b027ca8ec999126c910607dccf",
+      "size": 123847
+    },
+    {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_01.png",
       "hash": "c054767643cb1d579f0b861500c43f59d14bb2a032b56633e34b04c0e40dfb7d",
       "size": 570996
@@ -10152,6 +10342,11 @@
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_01_s.png",
       "hash": "865a3ed38d68314fe315eb9b9c075f8bbe0159227ad81d1672e0730ac8c8a81f",
       "size": 194026
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_02.png",
+      "hash": "926bba90d11967f5f72c6b9f80c468dc6bdd63ced8997e8b4201f2ffd9e14e9a",
+      "size": 126250
     },
     {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_16_01.png",
@@ -10164,6 +10359,11 @@
       "size": 158930
     },
     {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_16_02.png",
+      "hash": "da942a052b8a578f95e67bbe1c93a8955079835bd370748ac418ee9db24e5e12",
+      "size": 118750
+    },
+    {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_17_01.png",
       "hash": "ecdb7990fd393a5fd7f5149aa88f32284b79de41e25d6590027e5430bb13e8b6",
       "size": 473396
@@ -10172,6 +10372,4291 @@
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_17_01_s.png",
       "hash": "e65c2fd124f10dfb0c2d8798b8e7ac99b3ab1acba3b9e2a8b7319ce91bf45736",
       "size": 161660
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_17_02.png",
+      "hash": "05c359c1c5f406cd0a8af079cf8ebe46bc0b8698363258e2a4ba3a310b73cf90",
+      "size": 112904
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_1_01.png",
+      "hash": "c84ec4bd0bac9cb12cd582297c8bbb6f99831a8efa21066b1124dff82f92a9d5",
+      "size": 161331
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_1_01_s.png",
+      "hash": "63e2a24f363f089d7c7b1ce91f8df47b08aa79adb945688d6124faf431a0fc9e",
+      "size": 64148
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_1_02.png",
+      "hash": "6e8692c496e3678e349fa2a2c0b97629ece358b3a6991e274e4e352c98d02e11",
+      "size": 118300
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_2_01.png",
+      "hash": "37e921c618899bf35e3f47cb2571f7f7919abf904634120402e0a81e0984f208",
+      "size": 160431
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_2_01_s.png",
+      "hash": "bc2f0dfe4c839ec1788494669ab5ce1efa722adc4d632a5ffde9dfa8f312a056",
+      "size": 64360
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_2_02.png",
+      "hash": "4c00838e260310bdce1bbc0db4a51e58106d559e689361344f723609b79da7db",
+      "size": 119197
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_3_01.png",
+      "hash": "af02dd8b71e2af134d5ff7292178cf2f0de895b18665deb5d8c712153119aab6",
+      "size": 216989
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_3_01_s.png",
+      "hash": "19396dd044331c53b78748338c9173bede4c527ddb6b9225c818432d209e318d",
+      "size": 59428
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_3_02.png",
+      "hash": "1369ed553b37d525484a6e6178aec3f58ce7fd310e574a732ab6ac1bd19fb618",
+      "size": 117647
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_4_01.png",
+      "hash": "64baa1cc58b256e2e57c90041c36d54738578bb1591fb16a42e2d5f8661277f5",
+      "size": 131339
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_4_01_s.png",
+      "hash": "fd189de225098bbdf0ffa5fbbeb4ee38635b69f0283bc182a1773bbea62dd5b4",
+      "size": 53183
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_4_02.png",
+      "hash": "01a2aac2195e401ba9e2ca8ee4c356726ccfeeba7a86903a9346d6b7f328bfc1",
+      "size": 113367
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_5_01.png",
+      "hash": "fc900edba13b421a347714f289e939913a8c150e35fc431daa7d761895257f2f",
+      "size": 147882
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_5_01_s.png",
+      "hash": "e146a11fba7fcfe68fe4cce277da6cef27fa4d875d58bb7835c2aa13c0493325",
+      "size": 58938
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_5_02.png",
+      "hash": "696ba5485760ef35e0caa98a98eadfd4abf8624e0fe46758bba4ffb0b940e5e9",
+      "size": 119153
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_6_01.png",
+      "hash": "7e4dceed7b0450290d70a129cc3ea959ffe30e0fd7d0777f0530b26dcc071960",
+      "size": 156693
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_6_01_s.png",
+      "hash": "755f5a5b9ec421ed795fcc55c6680e576a614f4588807268233cf1d734b91659",
+      "size": 61156
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_6_02.png",
+      "hash": "e672ea7c8b874322a30a27ee303dd5f49dae37e735fff1165fd54b131f3a45c2",
+      "size": 119586
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_7_01.png",
+      "hash": "074afbf9f6295ef6656792ac629e9dce8897ccdb6fe761ca697860f4ac17fc77",
+      "size": 152319
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_7_01_s.png",
+      "hash": "f2d2543bbb9b4701e657ecae74be52af603a9ab702dcf45eae0985907f8a9fb7",
+      "size": 60605
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_7_02.png",
+      "hash": "010db082ca7de5cdef2e6fcef6be84bf7cd913d0468f7aa446b66afd357b14c0",
+      "size": 122429
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_8_01.png",
+      "hash": "cc78ba9e49e36c384d93b074ab15870ac20c0c08984fcf3748966189ee6bf62b",
+      "size": 123597
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_8_01_s.png",
+      "hash": "60a065c51d9deedca9b34703b457edc769d9f57910b4a8f8b3aea09c92a2eb1c",
+      "size": 49291
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_8_02.png",
+      "hash": "cc782156f4808b457f0876bb59f6e8ec726a0f411a943b0325d4ab1b66c9cbb0",
+      "size": 118789
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_9_01.png",
+      "hash": "957fe189f34609d16e21ea3dcb08414ba69ae5681ea8397fd32ce713a1c4d9df",
+      "size": 145392
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_9_01_s.png",
+      "hash": "dfe4351d5200abb214b6c6dbc6a9171316874050264476600bd95df6709cecf8",
+      "size": 57626
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_9_02.png",
+      "hash": "a699d8bfb90895e9ccf6031bb8970ef98e219dc6d1596a7d698e1579bd82e25a",
+      "size": 115901
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_frm_raceinfo_logobase_01.png",
+      "hash": "8588d4e4da846a09ae2e89e826fab7440b48c07e97715f3f0d0d31e7638cda93",
+      "size": 200790
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_frm_raceinfo_logobase_02.png",
+      "hash": "efa69931a71476ccb1f52d5db6226ac1fe577f34e88e8cb8e2766cc4f00c9957",
+      "size": 275449
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_frm_raceinfo_logobase_03.png",
+      "hash": "2f16d52b9465101d97cf1b816aebc8e0e19e5edcc18b05978dfcaf91b17190b5",
+      "size": 310115
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_frm_raceinfo_logobase_15.png",
+      "hash": "791acc410c3cb40abd7d2b762f387176d5420e4533e28a4301ee426553ceb7e6",
+      "size": 202822
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_01.png",
+      "hash": "1da09364086fe593a7891821771d3d3c822fe69d481a8144b3d923d3e80438d8",
+      "size": 86294
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_02.png",
+      "hash": "82875dae011e9b5c5e6a3fd2fb9a75d8bff615a9ad0f6e1b934c987620f644f3",
+      "size": 96292
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_03.png",
+      "hash": "6672cb0554b2c4b9e9e78fa0fbe24215e98e4edcd6a898cff2fb5005c252b9c7",
+      "size": 99706
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_04.png",
+      "hash": "82faf9f6445e853bdf2909b283945dc67934c1d2ec39485e0ddb0be0fd26db82",
+      "size": 90802
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_10000_05.png",
+      "hash": "e584b4f1e2b9be9fc995a2edec541a214c29614c3646899f83b3800b91671b20",
+      "size": 98030
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1001_00.png",
+      "hash": "cbadc4e53793bf842e4978bd6256c8e41eded5993286401c4e9fd8a4ee26f14d",
+      "size": 295556
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1002_00.png",
+      "hash": "e85e245e4e90a09345cb34804118054ad92688894df14ea8b8e6ad23c1a3fa2a",
+      "size": 400937
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1003_00.png",
+      "hash": "c5dc5b1685f8d5c60d629126dbd8fe0d03ba6841f1b6603d1b59cc5272eccf20",
+      "size": 277659
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1004_00.png",
+      "hash": "679e1d9f82327d03aa92e781f1c68d5e4b5cb10ffc16d3af9b4297249874f040",
+      "size": 380034
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1005_00.png",
+      "hash": "dcbe146384dcc4fc61dbb97bde217d6b008ef8bff745baf756b48885c52c7b19",
+      "size": 346404
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1006_00.png",
+      "hash": "ae042f1e731218fbb89b768ff9662c9c0d386bb0444d9dff953ce6908884004a",
+      "size": 359619
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1007_00.png",
+      "hash": "323c3321ba576cb1a7030620f68151f93a1423694f5f58298803ba5715a44586",
+      "size": 235115
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1008_00.png",
+      "hash": "41cab3d49195f1266f67d8117a55cc1673098342b6b35407ccebc8e6aeb6a669",
+      "size": 442613
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1009_00.png",
+      "hash": "28656f8f2cf1b926c899ee5f1cca0e2e51c2a9f57b99d3614379de61a0b6caeb",
+      "size": 344251
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1010_00.png",
+      "hash": "a1c1eb4a16d220b07a1edf30da1622710dbfcb2f0379cf4941508eede9289f0f",
+      "size": 647486
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1011_00.png",
+      "hash": "aa5107a5c1b290f60edd726e8c54ddb5fdb46fa5eaf646511efef8550d5df1cd",
+      "size": 260638
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1012_00.png",
+      "hash": "20f1818d9a60a6f3c74a6688425c1255f62f04db4a4960bcda769a7681632312",
+      "size": 375995
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1013_00.png",
+      "hash": "7a9f86aa23a73090ee9b5f69ff1b43119eb355da3309e7b4c2c5c5c90d3b8dda",
+      "size": 177052
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1014_00.png",
+      "hash": "86149bc25ba93429bf7e97325852e8adcd869a9dfa17575da0baf66372acc8a6",
+      "size": 303595
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1015_00.png",
+      "hash": "9217d065008d830424e64037518f738e65563d3fd8901f3d7dcfa676a1812bc5",
+      "size": 500827
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1016_00.png",
+      "hash": "d2b74c51047353f86fc02cb172450e4adcb1ec846e106df79bb2cc75385289da",
+      "size": 372986
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1017_00.png",
+      "hash": "48d88258e66ddc1922f0adf3c41c6e4216f62d0c74f75f1007713d8d28d22ed3",
+      "size": 393528
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1018_00.png",
+      "hash": "f5c11456f45d75133eda899003de74147d5ad212c0699fb5763d4d234e30e1db",
+      "size": 369378
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1019_00.png",
+      "hash": "685e14fcb1a6498ae78ebfb52ced3ceaf67388e5e7865506bf816fe790b96a08",
+      "size": 443173
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1020_00.png",
+      "hash": "1ba7f630f60d54dfe9104404728a4e4fc4cc5f6900f5fd28e6d4ca9365db4a07",
+      "size": 420967
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1021_00.png",
+      "hash": "2c89d36305775a66c8a179f937e6e66a6d209d6359e0a9fdbf2375d168eb9dfb",
+      "size": 255944
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1022_00.png",
+      "hash": "4d291d3ed7b693332e72aff63d0b10af5acbd4d86206df4fcdb2b41f1e68f799",
+      "size": 275273
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1023_00.png",
+      "hash": "f494fcf36851acc0b4559442638a0fff7f87e1791a0816cd62597f8535fe2558",
+      "size": 527667
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1024_00.png",
+      "hash": "1ec7b45f9c75b13b9dc57bee3056ad25b12e63420e09c88b1da048aa8659bce9",
+      "size": 286456
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1025_00.png",
+      "hash": "79332fdea5c5d96e4f7d82b66cd2369d5c4dd6ac71a821b89fbcf01bc594596f",
+      "size": 387865
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1026_00.png",
+      "hash": "9217d065008d830424e64037518f738e65563d3fd8901f3d7dcfa676a1812bc5",
+      "size": 500827
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1027_00.png",
+      "hash": "ae042f1e731218fbb89b768ff9662c9c0d386bb0444d9dff953ce6908884004a",
+      "size": 359619
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1028_00.png",
+      "hash": "dcbe146384dcc4fc61dbb97bde217d6b008ef8bff745baf756b48885c52c7b19",
+      "size": 346404
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_11001_00.png",
+      "hash": "9c88330ba56f8249a564abbc202cde12cd96151571c93fcec54b341288732174",
+      "size": 352379
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_11002_00.png",
+      "hash": "4f5b6610041b621d88148a4750b42672d5d35dd18ee38370749cb3673aa97aa5",
+      "size": 331479
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_11003_00.png",
+      "hash": "41158f60a6b98755451223604c4ebf5769e723027def20efd67e5fe132b3dfda",
+      "size": 318996
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1101_00.png",
+      "hash": "ed833c5d8830f0049b623eda2df5d7b18351032277c9d19593a7d21ea391f6f7",
+      "size": 500693
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1102_00.png",
+      "hash": "8ddf326436b8ee124657309ceaa9d022eaf5db90624ad751fedd893a02f43d58",
+      "size": 331473
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1103_00.png",
+      "hash": "398c5d9a30bc9e5cc62085ce988284fc69934b674e09049a64d969c0b8d9b024",
+      "size": 353777
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1104_00.png",
+      "hash": "cf8a789d689d7b806bd162e2aa455191ba53573c51c31fd22537d509ee49801f",
+      "size": 341768
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1105_00.png",
+      "hash": "9216edf8af962d373f33c2bdce60119905a2213959cf6a26a2cbcbe20653e7e7",
+      "size": 351156
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1106_00.png",
+      "hash": "2a1b28a88a915f3fe731dbda313578d142a686454702e4ef09bde94b6a2e7cd5",
+      "size": 602670
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_15001_00.png",
+      "hash": "342fb9e9d6ad42759567dc9dc80d00555c486e46908f073aee5a34e2e41bea2e",
+      "size": 154494
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2001_00.png",
+      "hash": "f56261f708d141e84203db039357022fbc148d87613b326a551bb65b8e308b24",
+      "size": 215757
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2002_00.png",
+      "hash": "195408863866858e7fe768a5394929c971c31f54dd1b3db844af82a72a81ecf4",
+      "size": 159060
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2003_00.png",
+      "hash": "5557b172683e2763bafabf2eaf8492efcf1386793f9f8dd9ddf1b2a40ca13141",
+      "size": 170301
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2004_00.png",
+      "hash": "ee22b1f063a6e1f40b635e123c168a27d2e0c94cf5d03ae290b8563b9ed6ede7",
+      "size": 145280
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2005_00.png",
+      "hash": "2113bf14e2db782f503d1994ab8c06ef3e2464d138a2fb213c5397df36746876",
+      "size": 187370
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2006_00.png",
+      "hash": "ef59c92db8fe4c4f248a72febbd1fbd04c225bf7f13f94d44d5acac36b2233af",
+      "size": 132919
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2007_00.png",
+      "hash": "6fb5d24284243fca5329f0238d5d73c6f9b05d3e3dbfb932a4d57c17ccfe6b09",
+      "size": 125093
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2008_00.png",
+      "hash": "7448dd8328ac5e1b38b6132405ee50c796acf69483f33c816ab61867c1a518f8",
+      "size": 145614
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2009_00.png",
+      "hash": "1e2b31a9e3afdcc7d60ebec5c155eeee1f44291498d1fb48acd6e6fadc104182",
+      "size": 199153
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2010_00.png",
+      "hash": "4c7dc400202cc4d7cdc6a30fbf2531474c80240981f85c871078a5311d516595",
+      "size": 180775
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2011_00.png",
+      "hash": "a77cad522de5e9fbd26d31933f86de60803d849b76ae2491b3ab394053061b38",
+      "size": 131953
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2012_00.png",
+      "hash": "dfd56c61de77c9d2889ee882b3f5a1e80ac997040491d3dda7bf364afe4f5f8f",
+      "size": 226237
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2013_00.png",
+      "hash": "90ec2a11b29200423964eebeeb92a4a356948f24ad2fcf88ff19e7c68c90ab11",
+      "size": 227140
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2014_00.png",
+      "hash": "06b216c7cce2e0ee166890e16e98394083007f74f54f25b26c522fcb5776f5c6",
+      "size": 135317
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2015_00.png",
+      "hash": "b35032199ebfe59e425d4450674e9bc6a726e97fc891cf4b18bd787c0802b631",
+      "size": 153255
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2016_00.png",
+      "hash": "8b6e602fb0e871e77c902b3ea0b52bd1934b6423781b97fab077c331a4073c74",
+      "size": 125595
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2017_00.png",
+      "hash": "787769ea8341cc042171415d91215a62b13d1c6fe27549ac2d7d770f653f097a",
+      "size": 214124
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2018_00.png",
+      "hash": "b02553f61f12f1683251d1544a15f9e58dc53c6c13899a0fcea7b5fbd3fdf253",
+      "size": 239644
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2019_00.png",
+      "hash": "fb403f5574313da14da1fb8b2b6a181f08fda99790ae4887ebc183fa70815c29",
+      "size": 160875
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2020_00.png",
+      "hash": "0ce6c9afe2811d33796d96967e48c534c2d1a115dcae719b36069f3572a098ee",
+      "size": 168980
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2021_00.png",
+      "hash": "342d173053028e15c622909cc3d61a44fbad198138343d4199380be739e043d8",
+      "size": 182899
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2022_00.png",
+      "hash": "f2697fee8e69c83afd487e3b893e0d11b1f70a1a807090302e59c7eb1b66e645",
+      "size": 154250
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2023_00.png",
+      "hash": "65674048d99600ec83ac755e0e87680e34190593171d7d19bd1cf66d83ba6bea",
+      "size": 149808
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2024_00.png",
+      "hash": "6aae9ceab312b8a8f8045f1bcbc2673661084bf260865eaca3a345e0fe57a892",
+      "size": 208387
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2025_00.png",
+      "hash": "92ebec3d5bfcb3258e636978a37f077a0e1d2cc6cedfd632a8d9e7ba92fc3a22",
+      "size": 130167
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2026_00.png",
+      "hash": "792e8146285be9bbe68bd58549b4e239a174b979458cb9043408266f0ff32f58",
+      "size": 163184
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2027_00.png",
+      "hash": "5f14dde8a06b2d84eadb9516547730fe47cb6e65a21251b0b82ce7ebde903397",
+      "size": 192906
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2028_00.png",
+      "hash": "de2de6feb7e5670ba83297337a3ac2e62e8586f27e3139fe20d38d3a9485fb8c",
+      "size": 216976
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2029_00.png",
+      "hash": "077c117d80500e0516b20fd85b749a90490f0a19591d66a33c45431d2bfbfeaa",
+      "size": 155341
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2030_00.png",
+      "hash": "6a177bce13582270e29bb3fbd178b9556c64798bcb2d665a9deb33694179e971",
+      "size": 253407
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2031_00.png",
+      "hash": "14648815c1abf1e74a36a6c450175ddfd497c75110ecabd2463e085c9e92947d",
+      "size": 286365
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2032_00.png",
+      "hash": "e273d15b9c11a2a6d0e10e57ac4ca4501b2200478dfa2e88b7032612c3666d19",
+      "size": 261596
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2033_00.png",
+      "hash": "716b5012aa495373e1051d8e3106ff323276ed19adf55003b357793d7859a89b",
+      "size": 190711
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2034_00.png",
+      "hash": "6696feb25c0b332cb2576f90da0571a3ad63604df0db38ba47f066dc92ad2853",
+      "size": 146151
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2035_00.png",
+      "hash": "48b2cedaefd9d541827a5a9525dfef52aed605866dbcc4d1b2f056772af38370",
+      "size": 180706
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3001_00.png",
+      "hash": "5c1707ee71db92157a2ae7642eb1aa86c28ddc93c0c9b60e2f7fe275b053ed79",
+      "size": 166843
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3002_00.png",
+      "hash": "fbf762cb0e823143ed891b2b772ba08d64fd4b89f63123049fb0272082ce4f6b",
+      "size": 208465
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3003_00.png",
+      "hash": "777f71b8b0abe551b6b1d9e70302ac310c1708e3ebd1f3f2b907bec654a9080f",
+      "size": 152885
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3004_00.png",
+      "hash": "5e7cc33343071b95e8d7140fa712cacc16deab62c8f909eb3f1f1a96dc6ff826",
+      "size": 162587
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3005_00.png",
+      "hash": "d6a033a3c3b6e449ea889314ea0dbbad421c31dcb05c02f65847e88e3fd2ddfd",
+      "size": 114130
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3006_00.png",
+      "hash": "4e31389ae2158f2cf7bb482af857b685d6e1186c8b7bb63c6d9a5e47008c64f0",
+      "size": 124434
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3007_00.png",
+      "hash": "339f02d00676aeac84421a5a66ef869836ba8f2ed3250b64fcfa83cc6fceefb9",
+      "size": 207804
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3008_00.png",
+      "hash": "0fe740ef7a3616c6cb08fbc2fac788290169f2911eabf30adfa7a0a75af8c1ab",
+      "size": 196927
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3009_00.png",
+      "hash": "45ed8e8a059705f62cfaba20c52dc838cdabc638c04bdf96205bd4e600696c42",
+      "size": 169559
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3010_00.png",
+      "hash": "3c22c2f51b04f02ad642ae40fad3610d647ee9f86b2a45fe437a0d3a5111e782",
+      "size": 216159
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3011_00.png",
+      "hash": "0456b0265c4caca32074362a689bff28334c9912804d94ff1ee3720c5a882391",
+      "size": 143343
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3012_00.png",
+      "hash": "bc77100c5acc3b3da3e53e7ce9064d13bb69b7c97d2d901241ad38fe842712ce",
+      "size": 196799
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3013_00.png",
+      "hash": "0ab15c565e9942fbb14cb1d65b128342b6f385ffb88f9c597c4f37ce01674966",
+      "size": 228960
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3014_00.png",
+      "hash": "aafa314f260730f9ae2e53d8f84c1e6798bcf1277f66c9d882d24f909e925a3e",
+      "size": 193186
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3015_00.png",
+      "hash": "8f3495eaca17808b5c1caf3cf83450fc91f9b978792a64685e0d97f9fa5a1260",
+      "size": 202994
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3016_00.png",
+      "hash": "04ef56ce8cef84f97d5a9d54e8215fdf082d7ba5de80e01a266b9b86fb370070",
+      "size": 176500
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3017_00.png",
+      "hash": "c7cc142a43f9454f527e99380eaf097d17b5bc5976f647ed7230e549aa71da48",
+      "size": 136984
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3018_00.png",
+      "hash": "0f827843fba26cda7fb50dbba74c9990994c7e3900a0f11d00c56a050bffc2e0",
+      "size": 116512
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3019_00.png",
+      "hash": "bd6d96a78c5b4badc76709eb257b9bdc1924587689bdfe574c6622e96d1e2c3c",
+      "size": 175060
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3020_00.png",
+      "hash": "9f63551bdfe5ecf3e1b418aea9967d720f8cae809afe5d46218adb84b1b7b029",
+      "size": 259939
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3021_00.png",
+      "hash": "06e161a1f14993ff8dd3b12947048fe604c76e65038707ce652655e2a0761e90",
+      "size": 170426
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3022_00.png",
+      "hash": "7e3df01ed756d64deb639b30eaefc271b8ed99753fd6cf0826186ecabedb6bee",
+      "size": 140628
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3023_00.png",
+      "hash": "89b7a9d9afec65ef87badf2344a64e5bc192b18858dc4cb990d91d728753c9ae",
+      "size": 143959
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3024_00.png",
+      "hash": "8b905a12efc2a01cb4aac8af9b52e6dfaf187454d83f1b51da301adb034b503a",
+      "size": 172239
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3025_00.png",
+      "hash": "2a92aeeaab006fb757cd8580fa9164b2d4ab956bbb749ee566c982f45e0f4b5f",
+      "size": 254396
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3026_00.png",
+      "hash": "43c3e3e65b136172d23f83743ef4e0d1d507a80a5b623372f7ee37c2757b6a28",
+      "size": 179984
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3027_00.png",
+      "hash": "6adaae0c903c5992d33ff13c9cf77ae8c506173fb3a58ef70fc67fb853ad8315",
+      "size": 249815
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3028_00.png",
+      "hash": "cee189b22b749226225743aea2bd63cc7fd7ef8d12ca6f5868647da68ddf2336",
+      "size": 210245
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3029_00.png",
+      "hash": "248c71f243323b79050d67e0d47c41a1c8a576f2a92b8e48f1955b749345a0a5",
+      "size": 157759
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3030_00.png",
+      "hash": "69a93c767f2cae97b49e86361ef11b2c82b46fa4c13e263136de2845f7f9369c",
+      "size": 144482
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3031_00.png",
+      "hash": "5a8261996b58cf77017288b5e59b54e4a3435de5f93f1d2bb33017206761113b",
+      "size": 195954
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3032_00.png",
+      "hash": "b7c6b9013fffa4677a226def5aa31b779c573a9cc5a03039f85cd328a1d71515",
+      "size": 139987
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3033_00.png",
+      "hash": "f4ee70626acefca12f12c5a535075f20b62fa72f2a62ab1ca066cde75185fc32",
+      "size": 181300
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3034_00.png",
+      "hash": "291214694ac9635aa582efa91ba80fa9b375120e0e74b8ffa09643e260fd0f61",
+      "size": 273301
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3035_00.png",
+      "hash": "36ae3edf6d957c8ad503806120113cb2af73d7ff0724dfde675e4745e8a97668",
+      "size": 126447
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3036_00.png",
+      "hash": "017d455d118bbf6a6dd10b666ac199675f0bd766271e6d1ae5f3b7e1f67819b0",
+      "size": 202947
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3037_00.png",
+      "hash": "60c9326b6d1ec20fc842f09fc7a88bbe1afd525fe8c65e47f039e3d645f86f78",
+      "size": 194092
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3038_00.png",
+      "hash": "81af18ebc47182e21ab37ea057d2341dff5b973309649b062ff3fb7ca9216cfb",
+      "size": 165225
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3039_00.png",
+      "hash": "2e1e73a59cbb20c369e02e371a3b6f53b17d4a9eeef6142a02cc85066e0c5ff5",
+      "size": 178744
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3040_00.png",
+      "hash": "78c9c92986c9fd159b3f6c94eeb65d47ff240f3cc397dc108b043c6161c4cf20",
+      "size": 165191
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3041_00.png",
+      "hash": "1646f7dae1fedeba5cfff5117f42c790df38689747e61ad992f218a4c9c34f4f",
+      "size": 269296
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3042_00.png",
+      "hash": "5159a8f4fb54c3949a6eb8b6d922a18ff47bbcfd639316313540565c074cc4f6",
+      "size": 200123
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3043_00.png",
+      "hash": "ac40cc62c03a70718b8c430f3434026137b59bbc4bed15322c267430cbaf5953",
+      "size": 177004
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3044_00.png",
+      "hash": "4653d9357fa9d0ccd8a23a39dfd79bf2a1d77e7eb0f782a919ec46b7234a1ceb",
+      "size": 147191
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3045_00.png",
+      "hash": "09a69357c0ca7bda81709bba792be7cf6e745697b4db48d7287831b00f2c7e2c",
+      "size": 184994
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3046_00.png",
+      "hash": "f0c73b063982139f519e5b1449bb6bb46474261f65ababe98c99af70c42cb92e",
+      "size": 164277
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3047_00.png",
+      "hash": "a477bc2becdb9831fa6f16199e580b69dd7ebb1318e0acbf3676eb05bb16c07a",
+      "size": 135673
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3048_00.png",
+      "hash": "8522105e51752c8fa94500e836d8af31a17b52042fa610c3cde4a5265df50b02",
+      "size": 196309
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3049_00.png",
+      "hash": "acd94fe55a3a0258b477d31d2763609f65452f84d5b9a49e037a9ce6c3774692",
+      "size": 256834
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3050_00.png",
+      "hash": "3c1a8f7531cd1e163ee33fc33d373b650b443394722bc0c8ffaf0e68e6ec0bdf",
+      "size": 172858
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3051_00.png",
+      "hash": "7281481f4257af597d2e4d4bd1b0dc97efa24d16681f078c05b060ce90d4e265",
+      "size": 267084
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3052_00.png",
+      "hash": "b0dedc1370ab96099b561fc86d55b3785dda75bb9123569000494b85e2df128b",
+      "size": 247641
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3053_00.png",
+      "hash": "76e18beff7c5abb74e0d07bca93a41bc77c9f117174c8e556c8e1020798c42f2",
+      "size": 165860
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3054_00.png",
+      "hash": "9b267c7b873b48ada9e75213c98a3297240ce9ba409ceef23e096cd31cb18f8d",
+      "size": 166085
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3055_00.png",
+      "hash": "0f2e0049659e92bf3619156922829bf2ad1c7a03ba485891a3e801e6b76ac559",
+      "size": 227956
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3056_00.png",
+      "hash": "90109fdad3e7dcaf61aacb42138e11293680e030cb1dd35e02970791a8160204",
+      "size": 163969
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3057_00.png",
+      "hash": "eaa5c9ebb0e8abf22465a53aebc5a9215e2388384a67048b120f6154f02d6322",
+      "size": 278222
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3058_00.png",
+      "hash": "11bbe21ba8e699f44ffb3635a5f33f6a9a59d69f40fdbda61948ed6b65df8b41",
+      "size": 144674
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3059_00.png",
+      "hash": "738170df4a02e7b77eca366a239c1987551df1f4c8d732a5c0e12ddcbb9f1af9",
+      "size": 176634
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3060_00.png",
+      "hash": "c6b57d962699a5d968f283f1405498c979d73e0f419526aec993e6c9dc53bc96",
+      "size": 187684
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3061_00.png",
+      "hash": "a88374cf9126b9e4c1f6dcd6a27c8d5b63caca34df5d40805e37d36a4edf496f",
+      "size": 189567
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3062_00.png",
+      "hash": "0ce03c85758bf65798388025236becba24230c3f8301ad4676fde99fc556f495",
+      "size": 217062
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3063_00.png",
+      "hash": "ef43a67f84f792b46d2373b14c5116a91a6c355c7a7b99f65de6043ce708a01f",
+      "size": 182439
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3064_00.png",
+      "hash": "963f936f94a50e85f8512991866b422ed9beb5955c6e43354a248cb98c65a11a",
+      "size": 282563
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3065_00.png",
+      "hash": "bff578f4b2d1a3a6b9d6d5b271150e2eacdc6bc00af1898dc71e6feaa0ccb3eb",
+      "size": 242247
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3066_00.png",
+      "hash": "2482f18b60073b9105b17331ab47c2694a0d168c42727b95edc6a9cd63ba4019",
+      "size": 124748
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3067_00.png",
+      "hash": "72a718d6f5403070e00f951492a1d8e09ffb8f14f9733b21fc9ad35f51188b09",
+      "size": 182707
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3068_00.png",
+      "hash": "731bfad044640e19b82d90fdfbace0c3a4a2acabfb1ae5056522fb10b5256637",
+      "size": 234960
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3069_00.png",
+      "hash": "24606c53c301e40b90538e8506e4d99fa07f990c3556c4b67b1f093f2e68067a",
+      "size": 188625
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3070_00.png",
+      "hash": "640080b80115aa1f4a1030c5aee0de5f1886c50e3c5d30469a89ae3a9b5223af",
+      "size": 206268
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4001_00.png",
+      "hash": "fef5970673472e07150119b3d68fa9f627e63c4b404850b78a21db39e7a18e9b",
+      "size": 178820
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4002_00.png",
+      "hash": "f1238c88a73e2c3cded2062d210b05a935eda53b5ee8f5fdb2d4f21b78f421dd",
+      "size": 136246
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4003_00.png",
+      "hash": "b46eded43c2974e73a446c8317544337068c556d90ea59f85c2fb25880dbce2f",
+      "size": 201934
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4004_00.png",
+      "hash": "448803a97f1289aa07fcca446905918a7e03f0cc4d40663f8a736550c874b262",
+      "size": 163778
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4005_00.png",
+      "hash": "690d5e81f921d8ee4dbba779c9dc96eb666b6c5565ee763fd2fd6fd513809f74",
+      "size": 188336
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4006_00.png",
+      "hash": "4a561074e1bbd06f2dc186c21affaaa1ae8bee9a55cfc5fb84020eea7b879b99",
+      "size": 206246
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4007_00.png",
+      "hash": "5e64e679c7a54d38cd01ec741eae4782ee69e2a761c023e1453193145adaec53",
+      "size": 168163
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4008_00.png",
+      "hash": "a26545374d2cec95b2784608d018911783cd6845f4bf6bc27275dc3421923e46",
+      "size": 181984
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4009_00.png",
+      "hash": "b03adb18fbe1182e7c7c8d3acd87e619405c3baf7ec0eceb58baa7b1de84d9bf",
+      "size": 228766
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4010_00.png",
+      "hash": "e31d69704242eb7339535cc93001e56996859cf11e90b71f62454cfa5584e85e",
+      "size": 216510
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4011_00.png",
+      "hash": "91d749c85eae7a54a0fe7635ca28d9341ebf50cf4d844238f31c1d3ea426914d",
+      "size": 202107
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4012_00.png",
+      "hash": "2cc7358e6e3aa20e5291bbef584f363bc7c2726655040404743cbd1661b14d7a",
+      "size": 176820
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4013_00.png",
+      "hash": "3e5a2ce6c15cc7b213b84d73911a5dfb26510e92aaf78c0cc93070eb3789eba4",
+      "size": 181197
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4014_00.png",
+      "hash": "85d8e38c506e0fb2b5dccc23b571ff99efc64f1547e39d4d1b24aeeac9d8da2e",
+      "size": 142913
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4015_00.png",
+      "hash": "0819d641f71b0e28771d99a6f2025f944af8f73c4c80b15d2d74dbae2c9abaf6",
+      "size": 187587
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4016_00.png",
+      "hash": "acd08345cb290886f2edf2b59a8cdcf67c9148acbf0aa708f5e832c4879d585d",
+      "size": 212410
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4017_00.png",
+      "hash": "4d2d84530710864f1f60522cca0d12e7a4bbe680ffdd8b478089151b1c1b56d3",
+      "size": 203413
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4018_00.png",
+      "hash": "4a8ec0658d587e4d6edbfda5dabbd0babceee5b27426e86cd936b4fefd0b7318",
+      "size": 197109
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4019_00.png",
+      "hash": "4304bfd04814d99e73ae49bca2cc14b0bda787dfa26c85eb4139995dd642a3d6",
+      "size": 166723
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4020_00.png",
+      "hash": "97f89fb32f38a55045fa680e8764b66b827d2eead34e7a56df7b6627f9c9fd46",
+      "size": 177086
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4021_00.png",
+      "hash": "41a421c8881754f9bc1bbd973a0f285883042631e8daf70cc4b24a0ce0b6c654",
+      "size": 201110
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4022_00.png",
+      "hash": "59bd2016a92f0d33b21667a6da69f27ce75bd36a9c0030e0ceceb76c6bad9817",
+      "size": 176937
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4023_00.png",
+      "hash": "7bc184f97686b2eead1abc2bf955ec39f59c1eb9f692694200668e21e890892c",
+      "size": 189696
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4024_00.png",
+      "hash": "fc5bfa6a2bc98fe1d684d66592bab8a8de343a0524663371f2c3738430cb3060",
+      "size": 189626
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4025_00.png",
+      "hash": "c2e5e8e361ac6274efffc7166684e0d919c1dc7ce28c11d6e8874fed396e23be",
+      "size": 184846
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4026_00.png",
+      "hash": "6b9a0cff123985fdf0991880404b0dc50e73656a0b901417f841e52beeae443f",
+      "size": 166180
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4027_00.png",
+      "hash": "077efd54223bd0867bed77e10836441d707ca8480e8ece5feb6b622a8622d077",
+      "size": 194307
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4028_00.png",
+      "hash": "3d0b9abb871f2773d77d1da46e9aabcfe57f210e08bc53ed50966e8e3c56acfb",
+      "size": 168411
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4030_00.png",
+      "hash": "d7442454564d73de7a7229d0ddf72798f8a4cba0c9a2158292987e13d0e85a51",
+      "size": 168835
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4031_00.png",
+      "hash": "611251cbef21ac4c58db0badbd0d67cbb5e097583694f3c69db1377f64dd2be1",
+      "size": 166835
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4032_00.png",
+      "hash": "f1c417a24d65d3cb0f18484e97bfc712a42967f2ff240d7865ba61718772a77b",
+      "size": 227621
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4033_00.png",
+      "hash": "680c7ad99be789a634d87bbe946c3d716344b1bf9fe422fbbe3879674129ca13",
+      "size": 186019
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4035_00.png",
+      "hash": "513851f1ba91cbea8c6027638778b9f0fb8623a2c3f1e6a77b571bffdb5c02e6",
+      "size": 227951
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4036_00.png",
+      "hash": "b1e1343274cab6ffcac7449961db160e265b7ff8ebfc41927d6793459e9321d4",
+      "size": 172040
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4037_00.png",
+      "hash": "fad5ff45ad1c952e590e525bad070dec23ceb2e77c7b2873b0dcdd5c7eddffcd",
+      "size": 179161
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4038_00.png",
+      "hash": "4c716d4c5ea034e0b40e53710bfb0b4e3cbea451d21da5210378aa739d440bb7",
+      "size": 226264
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4039_00.png",
+      "hash": "f3e0d54614ad8e9fa93c4b36f3b9c1366649d9072c2f8ef631d1a8b64d27dd45",
+      "size": 211090
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4040_00.png",
+      "hash": "794b97022aa0732f1fcca22a44258d84eb6254a5b5e8e594f32c70d501a83e3b",
+      "size": 163195
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4041_00.png",
+      "hash": "e239b900cc77a42e2d8df3dc3f72ae502de6d1a08cf649f4a40e53dec530aa55",
+      "size": 190737
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4042_00.png",
+      "hash": "4df649c333257e3272d42fec1a3e3f03dd88a719d4eb2bb5a097ff8e99aafbcc",
+      "size": 173201
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4043_00.png",
+      "hash": "b99c929685814d4f9221a1a369317b298ca402f0e82495e64b0a981dc766033d",
+      "size": 211892
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4044_00.png",
+      "hash": "18eb6064550acd736c03e5dc5e3f86ec5a6e29c07c5ea6399aa12bfe698c5514",
+      "size": 251518
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4045_00.png",
+      "hash": "02383fe1fa7f685794dcc781914e55a8ce6691a169d231bd5808827c4121cb4d",
+      "size": 197395
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4046_00.png",
+      "hash": "60d50a59029e9a09346644972b8575957b465ea70225bb0de31b6f236448ad89",
+      "size": 237520
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4047_00.png",
+      "hash": "b5b5651da28ccae78bd7a43a24e3fa3e33ccb02f58a9be07afbbb2c1a82782db",
+      "size": 177537
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4048_00.png",
+      "hash": "fe6f4faa743b07f17c38561b9cf5d8bb085163d68c8567c112617728a45c002c",
+      "size": 178664
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4049_00.png",
+      "hash": "4bf70d2a48ceb8714982747200212162cbc1d5618860699388402529b6e7ac5e",
+      "size": 217041
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4050_00.png",
+      "hash": "4f229edb9f7943e9e7859af0212a5acd4adbad8724f405412a6257b169bf9e3e",
+      "size": 144305
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4051_00.png",
+      "hash": "a63282e826e7cc1279a22da66a6578cbf0a3537d05cc5494645aaab4cb8c68cb",
+      "size": 157779
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4052_00.png",
+      "hash": "85fa52f0d0e066aa6d4c0842ff83fdbe1da0b2dc533100cb64c26298ede6f52d",
+      "size": 182910
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4053_00.png",
+      "hash": "00c537beb21b4db5970a7a144c3fc85ccad74e4701960d6c17e03abf779ad1eb",
+      "size": 154203
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4054_00.png",
+      "hash": "e21d74f143a99af9dda2c8f6a089f0f741a04bdb8fa6e2d1f4a98c657ccbb74f",
+      "size": 145163
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4055_00.png",
+      "hash": "ae59730ece7849777d271dd8f60f226467f140eda80799cfb35c253bb5b54680",
+      "size": 165503
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4056_00.png",
+      "hash": "579083c854635bfed202e329a6f53dc1d186870b5133d4a311374b5043078457",
+      "size": 209516
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4057_00.png",
+      "hash": "51da82c7670b514b01ec5d56da966f09cb5e92db55c5f197ec75c756de469f1b",
+      "size": 174300
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4058_00.png",
+      "hash": "331a36213b4af1dd5156ffc22c75217e6874131dc8ff305fa244dd8b37185864",
+      "size": 200389
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4059_00.png",
+      "hash": "6ee3b06cf9ab1d1bfe4f767979465581682e2f5b961b76e9a204cdbcdfe4f543",
+      "size": 212077
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4060_00.png",
+      "hash": "469f61cd565c03fb3075bd8cb5454212b478977babaa6ae77566c20e824779d2",
+      "size": 199339
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4061_00.png",
+      "hash": "6db007a5dc59545277e74aa60962919f952624af955a1fa6912d1f567db2ed1f",
+      "size": 189786
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4062_00.png",
+      "hash": "0bff4ddeb729e8de83bfbeccbaabedf9954c4b11725c24c4926c438b8cf4028d",
+      "size": 171437
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4063_00.png",
+      "hash": "395d775157dd708f25664e790cb962eea423879ca692bdae196803e0b3adad47",
+      "size": 199767
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4064_00.png",
+      "hash": "541372a6191e8212f0cab368aa44415815ed6e36831331327635bafdec99ce84",
+      "size": 133383
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4065_00.png",
+      "hash": "c4feb3575a28c9587c98eef48d70fe8f5fc2733b5da7ea3cc2a733ad1fe4633d",
+      "size": 175466
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4066_00.png",
+      "hash": "46197adbfac839da9ea02efc27a0552aab4e9e990d6b4da6344f0fbdc84481dc",
+      "size": 147909
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4068_00.png",
+      "hash": "5c570a6dc3eb4ca5c42c62af13b16b71902f7722c09bb23ab5825f6505a599bb",
+      "size": 257758
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4069_00.png",
+      "hash": "8817ce3f501886d3369ff84f70ed58ccbedc8f8a4d4fc49fb6b69b9df3f049ce",
+      "size": 216411
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4070_00.png",
+      "hash": "2123932f2fe7647cd980512c52ea4af21f8e0c679af34a2b834fabc21d2811e6",
+      "size": 136215
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4071_00.png",
+      "hash": "422dbe928699b06a1aaaf294df9782ac9499ce7de1e5410d6c344f4ddb84a27c",
+      "size": 239742
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4072_00.png",
+      "hash": "9c8feff615410ee8224e926aac81996b739f2a3a4f48b9f5dfa161b16029764b",
+      "size": 110971
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4073_00.png",
+      "hash": "f7f08775703ef4d8bc2cee537aa7d63bd1e44e41dc92d57f2e9ac9b46e69bf0f",
+      "size": 149066
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4074_00.png",
+      "hash": "405262f96a2017cbd4f39f4182ff65933e31fc27f49a33888d662d40ef0b07f8",
+      "size": 145877
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4075_00.png",
+      "hash": "21e7461b19e2f588e469b247df4ced0cd7f58555f53f7afacad0213a58f57844",
+      "size": 154495
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4076_00.png",
+      "hash": "3fcb3ea898c6475868fdd314044e15c2d8ddbcf52a12cef8f2513b2134b32cef",
+      "size": 116399
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4077_00.png",
+      "hash": "c7c00bdc784d3c49e5633c2de4e1a776bebdd41c0c09f26fe34cdd132cf301a4",
+      "size": 140672
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4078_00.png",
+      "hash": "754dbe09b2a5726a0d2782b3bb6c275022d2bc3dabff0139c9a8a6d57829678a",
+      "size": 158053
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4079_00.png",
+      "hash": "d171673c2ea7e1232d1e21edef9de6278d99160da95b9f3a6499a3b4d5db9afe",
+      "size": 120464
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4080_00.png",
+      "hash": "899b69f73e7338c94427fe0f21f376b40a2228e718960ed5533bfa68b1486c4a",
+      "size": 222029
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4081_00.png",
+      "hash": "3796db27020319ea4f609ee23d21f72d8193202812636dab4a86d2cb61761d1a",
+      "size": 144808
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4082_00.png",
+      "hash": "10727c07de521e2834b21e6b326b0770995f19d14c5881d958d05f3f749678cc",
+      "size": 171726
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4083_00.png",
+      "hash": "1b47841cd9d45123252a2ec543c87771c54ed7d4e4c83d5b8dd99cbebca4d986",
+      "size": 148453
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4084_00.png",
+      "hash": "504a08280a6bebcaa162704895c3d992145383665b4b28db24af6beb61ca4bbe",
+      "size": 141582
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4085_00.png",
+      "hash": "142716d0efff376d557b5299192c037f2b585905b3bd53c70f2b7c808586ae0a",
+      "size": 201221
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4086_00.png",
+      "hash": "fae9f769f1a160118235bb34c3a712ca902ce4587470fd4a80b5fa0f98d4ee36",
+      "size": 207707
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4087_00.png",
+      "hash": "58f44e5d7b6a25694b2e26d30309e50dec90f78c54b6c7549ea9e673c0b2fe79",
+      "size": 170694
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4088_00.png",
+      "hash": "c92e02f19b78a08cd935cd1dd371f51ddbf59edd260c61580c764ac28b56bf19",
+      "size": 161783
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4089_00.png",
+      "hash": "9acc486dfb8b96b08cc7b132672be881662717f8edadc83bf6a617606161d4b3",
+      "size": 170960
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4090_00.png",
+      "hash": "26d8e715289b3430d15ecd9b604abd228ec8f499e04d5f85782241c757e64149",
+      "size": 213564
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4091_00.png",
+      "hash": "0390be94a2ed0aa9f1ee9b1ff01e99bdeee830db57445b980cab62b5a641a90b",
+      "size": 157901
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4092_00.png",
+      "hash": "d79f965b27bb38c6e3e9aa83967c800c5190efc54e5c04b3d8aabf0cbaf13304",
+      "size": 218987
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4093_00.png",
+      "hash": "363f0c94826f28d7cdd1149a5c217d8c71256cd571a87958e2e414a43a69b8a8",
+      "size": 175593
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4094_00.png",
+      "hash": "b355e69b9e394b34720294828a8c3362d7f03b74099691b3ef47c3463abc5519",
+      "size": 190540
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4095_00.png",
+      "hash": "c3506f6ffceff18154b3886312c1d803fe03656f390357644e06fc0d7e96abfd",
+      "size": 198900
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4096_00.png",
+      "hash": "28f88a7dc5e7363fcb3924dd8034b835e19ac155bc4d5a03fb3335c76372c39c",
+      "size": 141624
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4097_00.png",
+      "hash": "de78c49f969e6152fbf8c1a09a382c757fb7f6c32c071c8f425b4d98f3e13f33",
+      "size": 215872
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4098_00.png",
+      "hash": "162219a6490e3e078430a937f9da4acc0cc7952c193ad08240414ce2f0ae8717",
+      "size": 129271
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4099_00.png",
+      "hash": "c1a9d7972c75ffb993fdc1017bdbe9df102f5b5bd182d34947b64ddb1f0a2e45",
+      "size": 159087
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4100_00.png",
+      "hash": "0d1349b5fd93a16637e60b60dc7121d02bd89ac3fd88a63b845f0253565147fa",
+      "size": 259814
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4101_00.png",
+      "hash": "8926b1180c83cc09501e891e8fbff308911fa7b9cad2eac6fb5e9c83a1d86180",
+      "size": 226248
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4102_00.png",
+      "hash": "1735d73b1579afdc5d62088bba7fc2a33d8b5fb286c9a8f65477839ce2043fd0",
+      "size": 118590
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4103_00.png",
+      "hash": "a151b90e4731f4713030210e35cea9b316e01aa2ed52a61c8d7cb54ff8b4ecec",
+      "size": 271300
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4104_00.png",
+      "hash": "8415c9daac8a41c0ed60e23db644b35dcd110766318cc345a6b0c643ef03428f",
+      "size": 222253
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4105_00.png",
+      "hash": "75288ae9851aaa44d2e2e0998d144cdde92e3abf87bf382b2b23e34778929b39",
+      "size": 222519
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4106_00.png",
+      "hash": "be838aac3ddcfab0ff60c799e68d5c73d5a326b91ff7f3f4ac669c5f1f9a33a0",
+      "size": 239272
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4107_00.png",
+      "hash": "6a7db355317560fa23b5441aa5fa5acf5fbe72cd8c173c70f21dc8b6ef98711c",
+      "size": 181347
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4108_00.png",
+      "hash": "47c92e97f06e843d6a26a7124caa8bff855788193dc9efabeb35fe7ba73e963a",
+      "size": 225525
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4109_00.png",
+      "hash": "da944d7cf08515c193c04e961063e7f675d2e8b27c27c271b47128c14b19fd6f",
+      "size": 220097
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4110_00.png",
+      "hash": "fe4f4be4f8429fb601f8931a5866e58be33927a003521d05ba240b86a1599655",
+      "size": 182534
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4111_00.png",
+      "hash": "ca5c9628e9aa62795defa795414de7ceb7656dcfb03cb9f730e960594b45a1db",
+      "size": 164671
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4112_00.png",
+      "hash": "fead5f9d06acf85bf8795423867e40c62543e7e4f84a5a1af4125aa229290aed",
+      "size": 199294
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4113_00.png",
+      "hash": "d62b5564de6436fef5f41d47235db28401d18aa4385437bf53800a5bd584e28d",
+      "size": 207270
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4114_00.png",
+      "hash": "118dd6144fec0d74cfb73cfbdd647ca4e979c10e1e46540314ea3ea7640d6d81",
+      "size": 213428
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4115_00.png",
+      "hash": "55f1f7337d08926f0399f4af041034885f70abd0c8d93dbd15c10f294e3d8540",
+      "size": 187775
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4116_00.png",
+      "hash": "0448d273bc18fa30e4715d075a3f04fd68dbcda581579a16a1b4f46de76b94e3",
+      "size": 232700
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4117_00.png",
+      "hash": "56b8df131370bd2824668a1e38e98125c945d58f7f191efb6b7a1274f753f10a",
+      "size": 244604
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4118_00.png",
+      "hash": "8c57ef7f9f0a9e4f9e795d4a50bdb66e29c57aff901124089fe04ea8e3bfdbfb",
+      "size": 231036
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4119_00.png",
+      "hash": "0ce96164564f7f3aee47c01bdedb8fb4f690852ca14e8c87c5fcaa9ea7774598",
+      "size": 182276
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4120_00.png",
+      "hash": "5589ad7eff70203c3d070fee0b971b39c66289d044656171c265f1edd6b0e1f3",
+      "size": 230038
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4121_00.png",
+      "hash": "4546eec504b8cf2473f17d64aba84b80cde1841adde06a17971e00feacae11c0",
+      "size": 183183
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4122_00.png",
+      "hash": "411833ba147b0db351ddfb307be7d64609f295244bf8d7e53e572e90b0989be7",
+      "size": 218223
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4123_00.png",
+      "hash": "acd500fe49a8ed528bf406c01616b1f437ae62f67ea276aa1cb2bbfe3ebf7fbc",
+      "size": 195836
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4501_00.png",
+      "hash": "63d8e13d8ed8bc60f898a07216e617dfea20354a7909d6652dae32d0fe471b6b",
+      "size": 128239
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4502_00.png",
+      "hash": "8aabf1f0bc49ffebcc7c6597fce6c1716114d35a73c6c99da10d3f3b56d805ee",
+      "size": 148987
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4503_00.png",
+      "hash": "727edefc4bb236c3c9d7a47df0c313a4d5defdc1f0675006bdeceb570864a990",
+      "size": 126006
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4504_00.png",
+      "hash": "c9269c755b6ff7b14636214e1ad7a39348e5376cfda7731485bce0fbe9bd701a",
+      "size": 154488
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4505_00.png",
+      "hash": "34b99895b42e229c54aeca42b4ca71915e52578089a14368b64cc9eba1d0b392",
+      "size": 154046
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4506_00.png",
+      "hash": "0d6f19d379f2567eb63a3bb596d55033929d581a90983b0760f0c2b12f485703",
+      "size": 179172
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4507_00.png",
+      "hash": "0508bf932e2f7ced3159216f781b89da955ae00321e36523d22198418cfbaa0d",
+      "size": 269663
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4508_00.png",
+      "hash": "28aecec5625b05a37fa070885044b47c4ef0138489b3eb6a22fbb601e5feca9a",
+      "size": 247354
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4509_00.png",
+      "hash": "285e1918bdd0ed135a3de391698cd3dc3a73fe2ea348d9031df658a44fee1474",
+      "size": 143157
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4510_00.png",
+      "hash": "001fe113fa2591a744b73d7e85d1bdfbefd57e36ef2a47dbb44079f0c636281a",
+      "size": 143357
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4511_00.png",
+      "hash": "7e8bda1d4db06297bb6cd0671941a05a2743ce98284bb0d65d03c02fa771c0db",
+      "size": 174377
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4512_00.png",
+      "hash": "7ab1a216462a6542bcc56eeaa580d603ebf818f7a40c24f868f66af6a078e1f3",
+      "size": 169973
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4513_00.png",
+      "hash": "1f153a419e08c9f74db4ecb685cd008d22b18260ee12c5899f89990102d7ea2a",
+      "size": 200718
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4514_00.png",
+      "hash": "3596f401d1db0d1bdab82ba2f8611a997dc49dafa62f1cb19e0e510077308322",
+      "size": 170835
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4515_00.png",
+      "hash": "da37f9c66598cda680c4b7fc87d7d3423f3b75858997808f0edd39c5adffaa7e",
+      "size": 160576
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4516_00.png",
+      "hash": "4dc36a1738e8a0713fbed2c0b4eb5f9470519623712934a1b575dad0b0eb4e67",
+      "size": 176365
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4517_00.png",
+      "hash": "d299178add2a518d7a1b690eb3f0a93d886e8ff6c53c6d6b7365adaf2b64343c",
+      "size": 155562
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4518_00.png",
+      "hash": "f6f11a85779f64c47074c05ff6a2a0ce3d9221d30813310127e1b4daefbad213",
+      "size": 173472
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4519_00.png",
+      "hash": "d8b2cc0ff698f57a7290270e040f39fc7b5d37b0322a5c7a534c911a826633fe",
+      "size": 151537
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4520_00.png",
+      "hash": "79028b5c37f84944754077e467811afb2253b06df974ba16ae193da31f8a9167",
+      "size": 180256
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4521_00.png",
+      "hash": "b8d066743a7dfac8c1a647e0fe545e3cefb83ecab0d6484261ac54f8db70ef36",
+      "size": 122710
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4522_00.png",
+      "hash": "e6857fc99ab8f8763a8c61fd7c08f7b907154fb8b91fcc84f06da1c6c3430730",
+      "size": 177227
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4523_00.png",
+      "hash": "9e116e3bb7b98395787f2dfa7597adc0ae42ced6da752d25c0cdc0ac85a8adaa",
+      "size": 143540
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4524_00.png",
+      "hash": "e598a8265f0942ddbb8b37d0047550e1723fda1f12d97fd3a2485f5b685c6661",
+      "size": 154382
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4525_00.png",
+      "hash": "acff512d6a31a61e5611c6e1685ac127a40242ef0065573cf26503038fef330b",
+      "size": 187529
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_4526_00.png",
+      "hash": "6bf1a25fef1748ba79b3f52cef847c28c93fa90da9f7991c3c34a7f7bf28be4c",
+      "size": 151503
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5002_00.png",
+      "hash": "ad138a05e6050da471c86d8b581f6559e0aa244842df392ed50d71beca3486b5",
+      "size": 116742
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5200_00.png",
+      "hash": "983e3efd11734ff5c411cbe0b3e9b661d25f5c30ae67fae8c74ba107b87b2cc8",
+      "size": 155353
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5801_00.png",
+      "hash": "4bf48266545118df1b7f45cab62e164979e0fd15502ef408e8978708bb124860",
+      "size": 424921
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5802_00.png",
+      "hash": "b3d36118834a3004d79075ec6b953cf4c75aaeb6df9020f8697f9394e40e43b7",
+      "size": 364801
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5803_00.png",
+      "hash": "0c36e75fae13bf611f5ade7804e95286240ac5e30eb26c14da62721002b08206",
+      "size": 369912
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5804_00.png",
+      "hash": "a5ed4386b8c3239a6f3979f36885d09e6446d2201651af888b31874525b911e9",
+      "size": 380526
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5831_00.png",
+      "hash": "088443f0325237647168493ad37f0a8a42223af0aa5ad48abd17e729d911bb58",
+      "size": 317108
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5832_00.png",
+      "hash": "8d1693cb6dd4dea0f18ba7f5c767824b68e88385aa7fa77e7fe0f73cc82bf9a3",
+      "size": 267445
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5833_00.png",
+      "hash": "c7072f451338633cac4b6879c76ae6a65f7292eb8c3443399e4a0e378e54b75b",
+      "size": 265077
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5834_00.png",
+      "hash": "fd63597c54c2c50fa1d5053491f25aad888c88e54afe6eaed526b5127a09916e",
+      "size": 286081
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5920_03.png",
+      "hash": "9206dd74e88520e9c941787ac024f9f1c4ad9ca3f9fd8bc0aa4d2eb2606b0f82",
+      "size": 253843
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5921_03.png",
+      "hash": "9206dd74e88520e9c941787ac024f9f1c4ad9ca3f9fd8bc0aa4d2eb2606b0f82",
+      "size": 253843
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5922_03.png",
+      "hash": "5d74b39df3455c816faeaf81b2eef52d4a3299130acbc9df76404a3440892403",
+      "size": 246339
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5930_03.png",
+      "hash": "24902e92981bf5b882f35c7789ca4031fe2d5f273a941579333f85d08e0bb7f6",
+      "size": 346720
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5935_03.png",
+      "hash": "a90ac8e6f33588188050328af8470da644329cb5e9d9b441ed4ef6b669ca4633",
+      "size": 458077
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5940_03.png",
+      "hash": "8a3fc40800235e45c95237e0acddf280bb52231fa0657e47489c61222dd4d467",
+      "size": 403558
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5945_03.png",
+      "hash": "34484047b0afcd762ababcfa38fe318ac7fbd2fe720af1bad4e6f63746d950c6",
+      "size": 391628
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5946_03.png",
+      "hash": "5f3170381b33c0b1c2ece086260460919bcfae8f5c7794fa29c3e537304875a0",
+      "size": 380303
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5947_03.png",
+      "hash": "5f3170381b33c0b1c2ece086260460919bcfae8f5c7794fa29c3e537304875a0",
+      "size": 380303
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5950_03.png",
+      "hash": "e9410f5c3f3474443baa390049f40330ef3567523aca0966d0ddecfd842214d5",
+      "size": 267330
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5955_03.png",
+      "hash": "cdf3b265079fc8c5624e47dc7736f82cdab686a77bd095a96b8ff50ac4b9e90e",
+      "size": 269311
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5960_03.png",
+      "hash": "8aee05ae689cefadf254799c291e31efd81f0a4b1d527c1fe0dc9f431341c1ea",
+      "size": 268149
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5960_04.png",
+      "hash": "c9247ceb9efdaab59aee98b84a5fd683e69f49b4e13cdea657e4b3e04b7d7b26",
+      "size": 303655
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5965_03.png",
+      "hash": "51efe084c221ef2eddd3272bce2b126c563291067a2b9c276207fd965ce299f7",
+      "size": 316073
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5970_03.png",
+      "hash": "a3f343d55ca0125152543ea7cf90c245828010ac9aed9ff7ad1ef09168bffe4b",
+      "size": 233937
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_5975_03.png",
+      "hash": "1e69a05ee23b34fe0275ecf1acd7b49dcf4abbb30bf987b5ed62a0f4c454bd14",
+      "size": 289601
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_11.png",
+      "hash": "4eb13b0fcdbbd7df3be8a56367bebcfb3a1f7f7e87463951bbf210eb1aa2c1f3",
+      "size": 293395
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_12.png",
+      "hash": "9804eaf11891812f405bb69e3d751a40d1dbd541289ba20343c8d9b631dfeb1e",
+      "size": 297967
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_13.png",
+      "hash": "ab01ee0e58963587e134f44c4f1bf2637fd25e412450d6d4fdf5605a474bd61f",
+      "size": 302960
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_14.png",
+      "hash": "f6fef44afb9444f10f9bd85dfb121be4033c30bed7c904646939e72d511cdfac",
+      "size": 295771
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_15.png",
+      "hash": "a416ec299d4ee76fd867d35cb24e2bfddaf7bd3fb36243f483a3a1691f2bb052",
+      "size": 300067
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_21.png",
+      "hash": "fe1764f8315e535afd060350daf6ae3479399c773d79d6ca3a76c51d0221b6a2",
+      "size": 301255
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_22.png",
+      "hash": "8687c2dcc6b09581294b204b4ca8f2f9e767f7c212f8f01f4e165f24ae4e4b99",
+      "size": 305252
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_23.png",
+      "hash": "630e6f28b718376d79fd59399e24f8159071b6726bf86fbbe9a859ba166de5f5",
+      "size": 309179
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_24.png",
+      "hash": "1f5ea80b4a3c22d2d6bbeaedb76c241b711d0fa9d55f8ec4e57e11b2053b605f",
+      "size": 302836
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_25.png",
+      "hash": "c7e7bebf682374b5b98d192d9fdd7c47cbf1daf718a9482f16b87aac975382ad",
+      "size": 307605
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6001_31.png",
+      "hash": "6870160adfe140598f87333f8634225987a7e8ae00c58ee78cbabe4183691a8c",
+      "size": 297867
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_11.png",
+      "hash": "b3d3f8f8279664db2119f08e98d10334720c3c77698e72be76b8be205319eaeb",
+      "size": 276647
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_12.png",
+      "hash": "fa09fb2c65f3338e9f9beed26a6cc897406212ad12f1ed446fcea5942a396d73",
+      "size": 283797
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_13.png",
+      "hash": "b71205df2354a60f7a989befc94c18611dacb9bc70ba1b195e733bb497243e51",
+      "size": 287673
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_14.png",
+      "hash": "2caf523ee188dd70000eed1fc68826e06dd48adc82c559de472e39cac49e450b",
+      "size": 281217
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_15.png",
+      "hash": "2ecf421d362bf1760890e4e9cc0e4d34a687f198d4a57a4af64bac34f0861f54",
+      "size": 285528
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_21.png",
+      "hash": "2d796aa4b88a1f6e128c73ab99a6715c59b8bff2edfa3b0987510396e133032a",
+      "size": 286217
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_22.png",
+      "hash": "f0b2648e737a745c4ddab74713ea6c3448312afb32738a35e20c8723f21d38be",
+      "size": 292652
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_23.png",
+      "hash": "65e0ceb1d02d684e38756bb697a27faa738fb53c243dd0cd2e41773443479fd5",
+      "size": 295705
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_24.png",
+      "hash": "482999150d495bc8ba9f1613dd22bd1c08b24c1ff8d20a72624fcbcb09957ebf",
+      "size": 289477
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_25.png",
+      "hash": "b84d62508416e9cd9d98af77404ad459d5419e1d7f0f9b78da4a25cb9de09720",
+      "size": 294771
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6002_31.png",
+      "hash": "7141186341ff725531d7cc1c7a164eff02cab1f033583afc9ab61ab8d674b8fc",
+      "size": 283383
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_11.png",
+      "hash": "6f77fbccac921ee3bf6f528fbcc2f4a60206900ad5f76eba4c7828235d406f16",
+      "size": 255375
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_12.png",
+      "hash": "4b3ae3cc677304faf23411b1e5236d5699d767620922c83bc959e511f1c63b46",
+      "size": 264269
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_13.png",
+      "hash": "e206e7e9f3040b435deb9f56d65478c5db6e707e3cecf62a977f586040d5a8f8",
+      "size": 266761
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_14.png",
+      "hash": "226de215acfff0462508ca0198db38fffd69b3c9228b55777c60ffb0e31146a6",
+      "size": 261106
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_15.png",
+      "hash": "351ba71edfcd2002454bf03889be206139bfb5cf311900596db7cfd6eb723cfa",
+      "size": 265323
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_21.png",
+      "hash": "29277304823cb2a61c7d3988a639ad9111a1311fb9db32e163943d1024421a57",
+      "size": 265715
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_22.png",
+      "hash": "ff3cd9d9be04a2e3c41b840523992824164ed797e3dd65b6b2ad7f3d9f353162",
+      "size": 271049
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_23.png",
+      "hash": "4226577e6af75e6d545544c04f1b4dd12cf1cc46e9b717051c3c5c484b0c17b7",
+      "size": 275025
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_24.png",
+      "hash": "932bf46b2518061247251035d6ea397e2309680526c8ca1022bc02dcc102056f",
+      "size": 269730
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_25.png",
+      "hash": "6dfebca1ed7e7fb6d36c894d0ecc9c0b87251d32b6ea7581e1d202bb61c4a16c",
+      "size": 273096
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6003_31.png",
+      "hash": "a82486d09dda4a139c6d965f9438d275e8f01336cfc9bb31f9b22f67a0ef07f3",
+      "size": 196777
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_11.png",
+      "hash": "af272bca98cd83e5c275d73790b837225f6fa2e28f4ae3a1d9a531ae16a5b0db",
+      "size": 246169
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_12.png",
+      "hash": "08e09d9a330b257ed03de9d54a508f77b5a2d765e7f42d287645efb871aa833c",
+      "size": 255302
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_13.png",
+      "hash": "0aebe863e07d9eed750b795e1d1f22f5ad3f3255fc7a225bdc7c9112fadb0c69",
+      "size": 257788
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_14.png",
+      "hash": "4945cb979e436de3ba4fff2cce873a6c8c186fadf528a00ea93eb17450536d51",
+      "size": 251081
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_15.png",
+      "hash": "3093c4cec079420e4d20fc792f420787e46e213d27b173b7462572ff25c003f0",
+      "size": 256358
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_21.png",
+      "hash": "3f14ded395fe187b45123bd742b83205d74ef38730c6107d00f545e32623d55f",
+      "size": 255807
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_22.png",
+      "hash": "83519d9b0e7d1428d7c9e440137c9fc01d737e295cc93c1298c0fc8efea958bf",
+      "size": 262529
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_23.png",
+      "hash": "3f1027700288d29ff2856a0bf16d66d56eb9e6937b7203a05a1c4d7002b748e1",
+      "size": 266237
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_24.png",
+      "hash": "1a8f3749f349a11f8a517002f0d9b883a64ca67b135ab00c82325f5df37591a0",
+      "size": 259859
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_25.png",
+      "hash": "cbf1df23ca99b876083d48f5545dbc46d0ded0f266764fec2a7021aca569ab8a",
+      "size": 264424
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6004_31.png",
+      "hash": "9d2bf32cf3dfe1f38037abd60fae25c72b619781a43df61382aac8a2bd5effc6",
+      "size": 185401
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_11.png",
+      "hash": "20a8181fa9bbd80fb0f1ec1081f213ed8e06a37fa4a6a640805b058818e6c58e",
+      "size": 266589
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_12.png",
+      "hash": "88f690a2db66d7c22b4b2b139b7340e8ca58e7a645e7c07aeeab62a2791e623b",
+      "size": 276306
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_13.png",
+      "hash": "fc982a02b6541bc2a7d1fabb0bf165d6229cb4af9f20b3d0d92ce51bb177cf7b",
+      "size": 279750
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_14.png",
+      "hash": "22caf97e089dbbd450bd35dcc4feac9fba9e0f04d84f636fdcd6ae5e10ea561a",
+      "size": 273493
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_15.png",
+      "hash": "7fca76ddc9bd850e9e19939716c39a7360f27e98cf42c07ec6d5215e822f1d99",
+      "size": 276470
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_21.png",
+      "hash": "a694d54666e7cb3b8653f162ddfabba4ae7bee59dcc8e4bee672524f55fb15be",
+      "size": 280848
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_22.png",
+      "hash": "3af76d89920e06b5679d738859f8e2a1e64a0f338c44a07c4f9c748d49ee53c1",
+      "size": 290076
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_23.png",
+      "hash": "9e02aa6578b2f8c2574a06021fc40e53815900ccfabf1e4c6f019ee2ff7d3dc6",
+      "size": 291905
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_24.png",
+      "hash": "cf11f149de6b2f94b12ec8ac020893997b210859441d2111da8acca42b03dca7",
+      "size": 286740
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_25.png",
+      "hash": "2828e328e1dbfd83e47447718455467d6d941d98844b027cb16f287683cfb5fc",
+      "size": 290728
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6005_31.png",
+      "hash": "f0175cc7c9c67e0d7b159d9652b81805b30f5ed1201c56a21f66709eea3a4d8a",
+      "size": 266512
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_11.png",
+      "hash": "7d0d0d56a754841719eb02cf2e0dfd9a86ccd5f6a590edc6c806a5aec86847bd",
+      "size": 269084
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_12.png",
+      "hash": "3dbabcfa8dfc142397db946dafe9c92dcd299a23d61925b1aa0c1af0b0a5cea5",
+      "size": 280152
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_13.png",
+      "hash": "c600c86aa44736f1f8612a63210a30215ca20d85887722b07e4d53f1601fba06",
+      "size": 280474
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_14.png",
+      "hash": "1eda478e688bebb5ae69b8033bebf1bf42fd15a69fce5dc4ba016724685d11fc",
+      "size": 274223
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_15.png",
+      "hash": "72d6fac74b7ff8b354a46bd4d2a7cf4704b3acd9377200fbc5ca1e0dab126610",
+      "size": 277191
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_21.png",
+      "hash": "ea589112218e78d10cf975132b560bf66e3ed431f6280c3c8b1444bcfe8ae769",
+      "size": 279102
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_22.png",
+      "hash": "1ab0ab1b0671cb36bc52e385364553f8b6bff96a2925fda37516d20364ea8388",
+      "size": 287413
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_23.png",
+      "hash": "3be37d17ccba901a3fc2441dfb05f716fb9f69bd8cd5d6e6dc7c2271cbc8b55d",
+      "size": 290469
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_24.png",
+      "hash": "fddb744c5ee6056e8e7afedb7954515ec5df2ad5f07ac122bf20fe025a9c5898",
+      "size": 286730
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_25.png",
+      "hash": "5f58a69576dde2e6c30993cd2f9985e0bda7047a605378908f45a40fb52c2236",
+      "size": 290691
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6006_31.png",
+      "hash": "36b370100d0d8c3d68f439f7ff4aa415a4d7bfcc3b8b0ac74492449d5bc50946",
+      "size": 265426
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_11.png",
+      "hash": "dfd9423161aa40948049613a1c912732ea5b1b3fca8550463368966b18a93a10",
+      "size": 273332
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_12.png",
+      "hash": "1465d8e30ace56732eb241e995fbe4f5b6f8db6b7c242898fe3d4cfcfe8fba1e",
+      "size": 284037
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_13.png",
+      "hash": "559062c0c0ec83aaac873783a55725da09d348cab354bd2483ebc575d69fab41",
+      "size": 286347
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_14.png",
+      "hash": "b65a9d5cee0afde758bbd2bb32fccad4fd7a77ae4fb47d3d9e367e7efca91260",
+      "size": 280047
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_15.png",
+      "hash": "d5d03547594f99c92d289aeb9db7161bdb58bdf0825564adc70a975a64e1fa01",
+      "size": 284360
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_21.png",
+      "hash": "1dd91f043d49111b0d68c25a75e285ae3ce9f99d00ec48bf6497fc5734a2a17c",
+      "size": 284845
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_22.png",
+      "hash": "fc09b1fbc477648193019fea2ace9e38fd730117eb633d372851b3a5ea63e0ef",
+      "size": 295435
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_23.png",
+      "hash": "75678eb7497e552516a4ef3a3af82599ac79dae2f45bb41b4f762a732ff562cc",
+      "size": 297983
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_24.png",
+      "hash": "ff0a44e0d744da74a7c60bea3bdc64d6bc3813227fbb041410c7c92b39fd4c6f",
+      "size": 294230
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_25.png",
+      "hash": "dbf6fd130f20487f2cab4d8d3f87750557b7ba01683236f29db3a641e3d5610c",
+      "size": 298425
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6007_31.png",
+      "hash": "b62b87511f99d59d25a1413de66b924e48e72e70e8ba013df62f655b59e32907",
+      "size": 275472
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_11.png",
+      "hash": "2e719940f7cdb595a352e123e97b1e16cf6e2372f1a2cdd94389720979dc38f6",
+      "size": 225824
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_12.png",
+      "hash": "3994b4b1408d3dae32d8dbbed48c0adf27cc5e62ccfe880a47649a8b7b3afb8f",
+      "size": 233361
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_13.png",
+      "hash": "7f5ab9e92b4c00c65d728fa8cc8877168b84bd4fb3d32d433b4496e59b2c6196",
+      "size": 237402
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_14.png",
+      "hash": "ac4802428d45570ed94581fb519a2ef765725bf2c8b08fc8677473947d8986a9",
+      "size": 230766
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_15.png",
+      "hash": "a7f243351cb82f66302cc1556e96442bb427b6082e219da7dfe5dd5ee27efd6b",
+      "size": 234721
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_21.png",
+      "hash": "a50536f1a05c956bfe4c9a9c0908ddcc27f7a5448cf2ea3a571818ef7ab9b5ee",
+      "size": 235496
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_22.png",
+      "hash": "fda11a1a2ca8dc8a860a223d2e88ab185d7ce30ad1d87e37ac1338fc0598d096",
+      "size": 242144
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_23.png",
+      "hash": "412e4bde98f675d5c13ce92c60553eceecd0a05bb64ced01a488903ef93a3a12",
+      "size": 245644
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_24.png",
+      "hash": "cd9958ed0c3b4145d5ed8772bde01f76fb04254b73309f0ed008bc38f260d551",
+      "size": 239386
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_25.png",
+      "hash": "5676496e5fc6a5a39eb293aea230552c02608d1055167b101e5690fed6b12984",
+      "size": 244062
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6008_31.png",
+      "hash": "6f8a4a80199fac9f3ef8f7ad36113fe33b9a6ab006f4c886c9b03aa3ca00c2c5",
+      "size": 162775
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_11.png",
+      "hash": "15fa63818811142fa2bfe70fff1899937aab24aadd290708b1272064eb6f9aae",
+      "size": 257725
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_12.png",
+      "hash": "fdbef6e543c7023d824d5f14283001067d5271e796b6f8c11740976e68ca0c27",
+      "size": 265216
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_13.png",
+      "hash": "e4345c63c44d31f6619cc2e47ad44c8d8019f165285858fa047776281a66e127",
+      "size": 269351
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_14.png",
+      "hash": "92e9e0a7b8a9a2cef8ded1d853ae9121d93ad7eaa3929ac4e67e91fee08e7c78",
+      "size": 262730
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_15.png",
+      "hash": "ac809542d15bc882c9412efa4f806b9eadc9234a673d0938de05fd2cdc255f7d",
+      "size": 266652
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_21.png",
+      "hash": "a0df38b9ee63f94316eee0f5750c1a88cf07604906333aad62ceed74e03d2802",
+      "size": 267720
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_22.png",
+      "hash": "69526364be77bc1fdd0e1859bd972476687f963fc866a8e9a2ebbcf71431f4ae",
+      "size": 274108
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_23.png",
+      "hash": "dad90de0e73c762d6f740f3ee4f708c58b29b070af5322b49c224fc7ea14dfb4",
+      "size": 277372
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_24.png",
+      "hash": "95cce46006425ad79b7de9d057bee9c754123c5514bbbf2b89092f7346a766e3",
+      "size": 271211
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_25.png",
+      "hash": "39903849c2aec97ea05b670ca82dfdda04f467f215cfaa868fe3b567b9679ff6",
+      "size": 276139
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6009_31.png",
+      "hash": "01d21b16c0acde4384e41b0223b254d6448122771c911065d3adf928578ddba6",
+      "size": 197597
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_11.png",
+      "hash": "2322a86512dbe0f521465b407c0c68a0eeb0693df696db13c0f95f71ae5d44aa",
+      "size": 237919
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_12.png",
+      "hash": "2fb67cfa1f15de3524506d764619806b8e5b79a0a18810e9beb5d72167c7eea0",
+      "size": 245430
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_13.png",
+      "hash": "4b34fb920ef8ad2ba2b3e506058e88279697a5f66cc49712c3ac84860c4f130a",
+      "size": 249495
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_14.png",
+      "hash": "d48e5feb91c5b79e340d86e2bccc55f8faeb22acded837f8d132f6900d93cc1b",
+      "size": 242655
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_15.png",
+      "hash": "8ba8bea751b40ce6d3ab5cc65a6af3f49c715178d6eb4e68cd920501b14c72d1",
+      "size": 246749
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_21.png",
+      "hash": "5fa67103065788c616cae9110eb6797bd75bc83c9d84957b2b5fa23e5263aaa6",
+      "size": 247651
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_22.png",
+      "hash": "61f6fabf62355f7909f8be8b94c477f70c388ae54236c0163e4d8882fd3c0a68",
+      "size": 254161
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_23.png",
+      "hash": "5cc566dcbd090af47161e2873e2e66b300afaaf0455f1808564d959ec9056eac",
+      "size": 257242
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_24.png",
+      "hash": "6b847b63a8fefa0716eab5058e1a22f7cb9cd628a961f5ebae3f491ed8dad1d0",
+      "size": 251229
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_25.png",
+      "hash": "99c4f29f8e90d170e6693b051c07f2895206fb49fed241c4991de117379d8dc6",
+      "size": 255935
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6010_31.png",
+      "hash": "a5580bc85661f9d54c96ef777dbb5a60bf1dc59bd69325ea82e48cc818791a8a",
+      "size": 176134
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_11.png",
+      "hash": "731992119e0ca3cbd8200f9bfaacb09a9007c178e1d50e6def3b9af3bfce9cd4",
+      "size": 279467
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_12.png",
+      "hash": "989f8b5db7da5af958d351fb7c833300cd6d94a558bb5f7b6307b5e2751f2c3f",
+      "size": 289250
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_13.png",
+      "hash": "be3910e6e2edf068992bdb29ab09e8bfeffc6ef6e9bf24651d3d75a2b6c78b38",
+      "size": 293065
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_14.png",
+      "hash": "1ab53583ccd32136542d3c07a088bcdf39410fa421c292bcad2ac6b07c7ebef5",
+      "size": 287274
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_15.png",
+      "hash": "dc5a5005b64b5a18210db4b6f2506c073d9f1129a35eea29a9d3831b516aa0ed",
+      "size": 290309
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_21.png",
+      "hash": "b09259c8148f21ed1467f6cda6af617cbb163f694a0c86bc3d99ba20cc7f60a9",
+      "size": 291694
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_22.png",
+      "hash": "bb335e16230b46f1328f722ba75ff95842744ee28eb61b818f7e3142977dac43",
+      "size": 300317
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_23.png",
+      "hash": "3fc202e6f52b2e9f2e9b96db857be4da8792aed5a7304f1d95e1b27fab5f6375",
+      "size": 303140
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_24.png",
+      "hash": "30d530df21937f99c9f9aa73ca464b1bb64206b25b7e3d21ae94963afd5019ff",
+      "size": 297392
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_25.png",
+      "hash": "bdf15dabcf4b272df4e0c92bb044b3dcdc87401a6d0f37f41a74d6059abcbc90",
+      "size": 301326
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6011_31.png",
+      "hash": "56ee094fb6d0e387e0b71c35425bd8a8e11f94ceedba8deb48d37a15f767a61c",
+      "size": 298411
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_11.png",
+      "hash": "8087c41f14e8785c5ae0295ca53b2b93c77d057f6eac9c0f6e620ff9c40b5370",
+      "size": 327853
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_12.png",
+      "hash": "927327a7ee070d6444dd80a61da0e989b7e98e135baa1450743ef362e8704c14",
+      "size": 330923
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_13.png",
+      "hash": "91a9406a89171f6ec30ec73a84bfb7038bc7a77d5cb0c6e0390f18988afe6fb4",
+      "size": 336223
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_14.png",
+      "hash": "bebcd29b590fb87d5401e0eed68441317f1a866f6a2d9b2f41ae200e5b516d5f",
+      "size": 329354
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_15.png",
+      "hash": "3ae564079d40c7ffa84f206a1f4a71d193c2d02369127450eb60a2e5c3e1959a",
+      "size": 334156
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_21.png",
+      "hash": "7104cf7480d26da65f2a9efbd092d94299672b73f55f8c48d5109e3ec7f64326",
+      "size": 335082
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_22.png",
+      "hash": "f16aa59c2de2337be540f72c248029bc33c895a56258ee36e91fe697b11987cb",
+      "size": 337530
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_23.png",
+      "hash": "eeabcd3938fd19a2aa3dc6239fcbb6653b9c2cce75196189bf766452b043acbe",
+      "size": 342090
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_24.png",
+      "hash": "e67a880d4e369e3f5415ccefb389b4ce4bef9a00ebcead440ee874168b36a371",
+      "size": 335723
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_25.png",
+      "hash": "8f1b98907e7bd4fcfbb5052ba2079a393fe0affd214f20b42848939a172ce24a",
+      "size": 341327
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6012_31.png",
+      "hash": "369c6bdde4ac1f9b7fa08f86bd96ff458c7de8db94abd6d3b5e46fa2f859ed22",
+      "size": 335695
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_01.png",
+      "hash": "e8f9fd6ae842945ddafaa07fc97005f8c78a45f491461cfd9e029c7b5873d2aa",
+      "size": 83743
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_02.png",
+      "hash": "80b6cb2e5a0f909896e2ae42470f975a358ace7553fb367088e99c046c8b8276",
+      "size": 93433
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_03.png",
+      "hash": "431752e061342c1cfc4e2eecae77ab90a240361e59d86dc86d267a565bf06240",
+      "size": 96732
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_04.png",
+      "hash": "e51a50171c82f2e2c787d68d45ca58655878177008440b98bccbb53212117f6e",
+      "size": 88957
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_05.png",
+      "hash": "39b1b11f4fdaf14d5d024592f03fcbb043fb1ac8bdb47c90c50311c8d5715861",
+      "size": 95063
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6101_01.png",
+      "hash": "4b5e609c54e02f5e0aa773c8d86368c83c9c1d28b5ed9e56acebc193e6987a31",
+      "size": 86712
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6101_02.png",
+      "hash": "7aa611dee4a302c72793dc52cd3df51a5ab70dd1632a9007a106cfe3439b5022",
+      "size": 97223
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6101_03.png",
+      "hash": "f8617b4d559c53af1019dea43c1f6d660dbf912b459a8155ad413239fa40593d",
+      "size": 100430
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6101_04.png",
+      "hash": "7a7b654145e7738724d56288e15ffd24a3d0e9bb1cb8dbd18478ff8b408dd9e7",
+      "size": 91206
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6101_05.png",
+      "hash": "e438c09041b9b06d8ccd4f6039138b5fd021ff8c0fe80c64b8c9e97ae1f498dc",
+      "size": 98548
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_01.png",
+      "hash": "220fad636c7c83381370dc15edc8670668c69db1819639ca3a256dcb2d242b0a",
+      "size": 83059
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_02.png",
+      "hash": "68b04681407cfb5de45f802ad4bbf0a88278f78e84ed3dac9778c89551ece238",
+      "size": 93394
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_03.png",
+      "hash": "fa4d879ed1e1ed5b1a4d19f65c73a0c19a310ce56bbf04e7665fda41c1b61fc6",
+      "size": 95578
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_04.png",
+      "hash": "396d9c3117905541d7e73dc62cd306adda8b006c188752223c71b3dd51707f06",
+      "size": 88291
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_05.png",
+      "hash": "a78a2a4fa536a8482b523fcc1982d3d6efc54b22b97882d87c6115a19b68454f",
+      "size": 94546
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7001_00.png",
+      "hash": "c7678a19b0c7ad832f4375c241d5d681113fe624a80e2d45c613e1702050165a",
+      "size": 162251
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7002_00.png",
+      "hash": "91f9eaac3693e7a809cab704280eb4b37324e85feda0077098111ef0bce14246",
+      "size": 347152
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7003_00.png",
+      "hash": "4b3de10a5e6c323f12e74feb859cd136fc571521a57f3e7b1e9eff8489411c1e",
+      "size": 151608
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7004_00.png",
+      "hash": "75f66652d1ddb1ecc06fe274d389328be255c29db5becd62e91b4a282a7a0ba9",
+      "size": 165438
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7005_00.png",
+      "hash": "c30e27c5bda41a7f08c150146febedbdf9178df8107f1ae8bdceb68a1e4b01c3",
+      "size": 163387
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7007_00.png",
+      "hash": "3295674524f3e104d86e0ec51b28ede20642695cc676b5335786a0b232c57260",
+      "size": 195375
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7008_00.png",
+      "hash": "a5d0c239bba1ce6694ef6a0655ba6dcbdc127110f29ed03404e22fa3187453d4",
+      "size": 167409
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7011_00.png",
+      "hash": "42bd2ef93d453de6beeca7aa569f646db91519f6cb32c362dc7a522a68062626",
+      "size": 289801
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7012_00.png",
+      "hash": "463b081a377447080dc855a8013d9c156178bee1f1feb75ea6c238f3945ade9a",
+      "size": 176749
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7015_00.png",
+      "hash": "f5802f24524dddfe67fb502520998efb2ff8433c00776f4d788ff6b9b8e83cfd",
+      "size": 382417
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7016_00.png",
+      "hash": "bfe82bb923973929c43b81d090e3ed0643c0eb8afad12f2a9b07714cc82194ab",
+      "size": 263786
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7018_00.png",
+      "hash": "1024611717ac50d3e346034e40522f14d947a42a7bde3b9d8ff2481829c6bf1f",
+      "size": 145342
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7021_00.png",
+      "hash": "c8e729c1d1d0f124e4a8abb466a960aa1f0737444e27611c8b260efea5571de4",
+      "size": 242340
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_7022_00.png",
+      "hash": "28231c0f130e42b7a8ed4c4fdab7d0b31158839c54b113282ee67af92f60dc83",
+      "size": 336911
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9001_00.png",
+      "hash": "b8e2fc0dad10c30c0a3b0e698872b58a80a0e281e7ed4b58a1c14b1175af2211",
+      "size": 298465
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9002_00.png",
+      "hash": "53b165cb76f8cce335a7487ad73ade761f0e5181e4cee20c285d81625b2f99e1",
+      "size": 220162
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9003_00.png",
+      "hash": "1d9c5ac3395863a42d352df2373ec8190eb6d02903016557dbc951d3bbffec24",
+      "size": 221511
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9005_00.png",
+      "hash": "0c712b7bd9c87576f6e650ba5c67bb8dac0b828855b53316ae569e15ca4fb7c0",
+      "size": 244925
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9010_00.png",
+      "hash": "0100d0b2d569f229cd89c8277375cb89a6daa3f9040b93b6e14596e7e239e3cb",
+      "size": 353882
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9020_00.png",
+      "hash": "025d54db25ea096c3e43434764c0dc9bddccdf62825d5b2972d9831dc3eb7b83",
+      "size": 345043
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9030_00.png",
+      "hash": "9ef21e818d26b1cd3f6120da7266a1ada07f84c9b90bb258f83360e0f8937ce5",
+      "size": 376706
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1001_00.png",
+      "hash": "50bdba289eab92f1dea61cbc955b82b83dcf4c7768bcec1199d7a8a4d52d8876",
+      "size": 199896
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1002_00.png",
+      "hash": "010874a54472384075f29a17abf9b853891810aba96fb58d99a7a3eed4d44183",
+      "size": 130339
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1003_00.png",
+      "hash": "d7b84e8897b67fa775d5ce5edf9812d6c1bf5179dbba795341272681ece0cedb",
+      "size": 189827
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1004_00.png",
+      "hash": "7042604bdf3fe530dcb992168c1fa7849566f924f1879fed03d33881f6a0d610",
+      "size": 139985
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1005_00.png",
+      "hash": "98179fe2bf169b6f6f47e1ff8d386ccbb7d29cf1737efc640c1f26abe9669ed9",
+      "size": 145091
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1006_00.png",
+      "hash": "5da48fff575cc392937bcfe0a3bbffc2fdcb57ac5be1c1921157b0a96aeabe5c",
+      "size": 172481
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1007_00.png",
+      "hash": "73684b46cee4d542d2b20db3f3a562583b003209f9b00f6e1aa16d9afb5e273c",
+      "size": 166958
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1008_00.png",
+      "hash": "65c3c9880a709730477105c02f6dc4055189dd83b8e25f34b2872cc65c67e3fc",
+      "size": 176621
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1009_00.png",
+      "hash": "f98224afe7ed8ee2cbc88c27563847603f41b79350387be837cefd16067ec638",
+      "size": 174176
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1010_00.png",
+      "hash": "acd9a6b6d9c8e7fbf1ad2e506d66b9943e27ab994d6b62ab1fb1d445c1bf2d6d",
+      "size": 153575
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1011_00.png",
+      "hash": "a667996c94e33e1f5e9ace37a25d694eac04b544d3183701e004b2c40122492e",
+      "size": 146167
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1012_00.png",
+      "hash": "988981bc161f55d1650c124560dfefff341cb9389045c15d5877667a6d998de6",
+      "size": 154977
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1013_00.png",
+      "hash": "1c9774a1a8742aec95769a7a23871dfa40bd7cf83e5f8c53231d5fc5c05d66ed",
+      "size": 103860
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1014_00.png",
+      "hash": "fb1e78875c0e7c8e64b76236c3a46103b9747e47d12c6cb1b37430038aabac09",
+      "size": 188020
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1015_00.png",
+      "hash": "c51c1c2a7f519c46401c918c988f29d902afd330696a2c2d30aabdea3a10fd88",
+      "size": 213548
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1016_00.png",
+      "hash": "fa0e6fb54f82b69b8c5a18e64757ac84c55d7a77665f2c0d48bc89430752d9ab",
+      "size": 171408
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1017_00.png",
+      "hash": "88baa505b768d3efa8260feef5ee391b19f8d0baf21ee6bc17342de1851841f1",
+      "size": 195648
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1018_00.png",
+      "hash": "0157ac5a54aefc1ca8ffdaf9a0ec2cf4ad1616856a9a482bd93ac516e7e4da0c",
+      "size": 180293
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1019_00.png",
+      "hash": "9f379409306aad63dfbd6770783f43a5ac6e278185aa024d2d687661e1481afb",
+      "size": 126863
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1020_00.png",
+      "hash": "cbe82e2c7fe8caae866af7eeb4a97ecbf9d1e498df5a43dc5ed2374c0e363c5c",
+      "size": 150212
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1021_00.png",
+      "hash": "e9e60d5ec909a39af1c3871653df8e1402fcb670ffc55d2eff2434f653129540",
+      "size": 137219
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1022_00.png",
+      "hash": "830cc0d08853bb04ddb583c4f088cfce83f0b6f932bcf352f64738e4f52f98c8",
+      "size": 158927
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1023_00.png",
+      "hash": "62a657c55ed78586aaadea3d344768babf8c5834c83aa0da2f93a6f6e6812633",
+      "size": 167729
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1024_00.png",
+      "hash": "8d6bbdc9be8864c400b33069aab5cdae79a0dd92bb328ffd57a5cffe7d115869",
+      "size": 124989
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1027_00.png",
+      "hash": "5da48fff575cc392937bcfe0a3bbffc2fdcb57ac5be1c1921157b0a96aeabe5c",
+      "size": 172481
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1028_00.png",
+      "hash": "98179fe2bf169b6f6f47e1ff8d386ccbb7d29cf1737efc640c1f26abe9669ed9",
+      "size": 145091
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1101_00.png",
+      "hash": "f61027f1384857da241590a84671f41950331da3fa9124fac46818abfb87d2fd",
+      "size": 168957
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1102_00.png",
+      "hash": "3cf2d98567993524a011515997b320bcb33bcd010405151f456956a3e65c1c6d",
+      "size": 146955
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1103_00.png",
+      "hash": "dd9f302707765de2d7383c40d727ecad34547d6685cb12e9b00a00b4c4f77cce",
+      "size": 128512
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1104_00.png",
+      "hash": "ace6dd9fe1db245c999728d0ed0bc30533a51f27776552e358dcbb359b88c288",
+      "size": 121398
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1105_00.png",
+      "hash": "aa6ab6795ef7416c7f8e4faa37c9377c4756dc2c08ab48f93acee1e8462aa547",
+      "size": 127238
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1106_00.png",
+      "hash": "c3e74ec4fcff4115919d794e6b1d09701b0686d3a95d26919a8ea2084cd76aa7",
+      "size": 154945
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2001_00.png",
+      "hash": "573f0b2a45214968d03d3df56f0cc8b32d9eae63aaa21d09f30af4d983703718",
+      "size": 107958
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2002_00.png",
+      "hash": "2df9fba1a9fd78ff8f057ad16b1d208fef07a548fbcb3c6c050dc1b661f7a8f1",
+      "size": 100459
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2003_00.png",
+      "hash": "f95ac5219a370f65460e7c4039463266c74c9a9fbd8ff437581275e1f9f2c4c2",
+      "size": 101540
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2004_00.png",
+      "hash": "189252be689b8cf674cb8d0a4af5f01f90eec6f05e70db347757c6320718c373",
+      "size": 97823
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2005_00.png",
+      "hash": "14ef9cafb03bfbdb8be8a1e6bfb2f784910619df97ad661cd8d73383dd309746",
+      "size": 105980
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2006_00.png",
+      "hash": "6221d2ee3a872000a50335dc1e22d889217583709b455206f03c1bc34f2baf78",
+      "size": 95581
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2007_00.png",
+      "hash": "df0bcd3c4a626eb8bed45a5fbd4decaab20d8c17a686d69d1fe683faff475d3a",
+      "size": 94993
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2008_00.png",
+      "hash": "a37d5491790186e4054fab714098847993f57bbfef94b51d09a8749afe36c4b3",
+      "size": 99024
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2009_00.png",
+      "hash": "d82c320054ef0656ced6f6c77b2424c35ba36203b0eecbd1dd9711f38ecca9e4",
+      "size": 106682
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2010_00.png",
+      "hash": "198eafc401edfc5a07e8726bdb54158cce6d6d7eca438946afda12e8bd641f70",
+      "size": 102827
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2011_00.png",
+      "hash": "68c800476580f926402dc292b5cc2ce0de50d672fcd52019dfeb346ec23c7492",
+      "size": 96571
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2012_00.png",
+      "hash": "3da90eeed952fe2053095f166225b1e4e23e3e8be65a471522d626375116ff1b",
+      "size": 121366
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2013_00.png",
+      "hash": "335ed121fb6d684a5c702893555fd570a81157d9dc1eb05d27d8d86a29c04f12",
+      "size": 111908
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2014_00.png",
+      "hash": "5ad4976f1c5fb93b4fa549fac9403cc4d6cff7034f620c728c0e3bfaf892a3c6",
+      "size": 96732
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2015_00.png",
+      "hash": "3762d0bc205e0a851f14e5b8495221b99e6a60eb6313a4697f4d83bcc6794975",
+      "size": 99231
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2016_00.png",
+      "hash": "e81be559298226d4d207e07ab42a3afca0c2d85fd595ff925ee8857481b155cc",
+      "size": 95138
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2017_00.png",
+      "hash": "d637a927b9ed5116a12f97b56f4dde1667ba41998176fb5ce249026d3893727f",
+      "size": 107516
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2018_00.png",
+      "hash": "d165dce0e6894f5b2453bf873abc014225f604cd07b9fba0fabeb9eaec00165a",
+      "size": 112035
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2019_00.png",
+      "hash": "f3551e962a0239d81a04df02a5782b00efc46eddb63c13e4de227601762c98a0",
+      "size": 99924
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2020_00.png",
+      "hash": "e3c652961c09e1c391d27424011e7dd9a0dab7c5badf92ef37ec2fadf6723c6b",
+      "size": 100460
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2021_00.png",
+      "hash": "a1d0e567ac366005a92edc2669dadba39a8ee60de21c1bbd94e0a4e85e5ce525",
+      "size": 103152
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2022_00.png",
+      "hash": "14b7e03f5117ca5a81ad0e3583dd452e9a725f3f8f7931999b589b603aae9982",
+      "size": 99660
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2023_00.png",
+      "hash": "426b0473977dae3d1b9165e3024e93ff90f7ae7b054e4d987de26b9602bc2b99",
+      "size": 99550
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2024_00.png",
+      "hash": "17079acc8f66bf7c7859e82ae9cf2fcf040d9dd55bbd832c8a1c25c8b4031ac5",
+      "size": 106369
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2025_00.png",
+      "hash": "0acf2a1775e2cc7eff482b45e832f6e8f69af5de4eeca1239bb087d01f3fd5ec",
+      "size": 96344
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2026_00.png",
+      "hash": "3cd27f996e710e0107fb58a47da21e322cc9db5e5ec794a72ad3d2c916a5c50f",
+      "size": 100035
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2027_00.png",
+      "hash": "7ba09a7ce169a50090184a9db85eacdc27b0a49186b630c28912d455b03d6960",
+      "size": 106819
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2028_00.png",
+      "hash": "4e5040b2d9d87e2bb84417dd7ff0a4b4ae5fdda21bbf6077bbbe3da396b30245",
+      "size": 119818
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2029_00.png",
+      "hash": "5c164bb00ad1580caf930d2e443d6836bb589c553d7f2429c235e140956e4880",
+      "size": 100610
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2030_00.png",
+      "hash": "4fd0a9833bb133d8dbbe49c4314e1d7a87cfa4ade8d9e115d6b0a5fca06ce2f6",
+      "size": 113475
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2031_00.png",
+      "hash": "376800cd824c0d3f412bda55152bec62fcbe4defb234193456673d4203b1ae1b",
+      "size": 118597
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2032_00.png",
+      "hash": "f46f1f5bc1a0d69c1f456c3bb4f7189ce3ce687874a49c5df6a598f8c7de1198",
+      "size": 114524
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2033_00.png",
+      "hash": "78cd61681b204491e82f935432cb48549730ce0c3390a374192d764657b9f7fd",
+      "size": 103931
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2034_00.png",
+      "hash": "7827a858e7542b4e0bf3e41a7b819f4cce30a6bab1499ba5d0aa36ed271ca307",
+      "size": 97424
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3001_00.png",
+      "hash": "9d558cb66186d71aaacfd4ce057e20b6ccea7938c8f7ed7f6aa2956cfc311fd1",
+      "size": 106836
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3002_00.png",
+      "hash": "f956129fafc3c8060c5c0544131ee26c216ed978312a9ebfab4b160a96b0c020",
+      "size": 115977
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3003_00.png",
+      "hash": "923313cfd7284617a22b2b8f9e80f806cef385a0a313dae6d7ee41764033d799",
+      "size": 103882
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3004_00.png",
+      "hash": "7de8ce34dc3100e0819eb342a8696b8b5fa95453127c37c4cd1820ea768c96b2",
+      "size": 106291
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3005_00.png",
+      "hash": "5f580a0de527727afdd150b59d381b26be976cb63a33df3c8af27da4ffd7f234",
+      "size": 97578
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3006_00.png",
+      "hash": "11b6728e99c1e26ec78144bfe070108ceb45ba39ebb013581b67adff1b738c98",
+      "size": 100408
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3007_00.png",
+      "hash": "54b4874f06729607e4b9d089efc56b7ec5a416ccfef6bc1b751c6c2dc5f9da24",
+      "size": 115330
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3008_00.png",
+      "hash": "e1df74e39c65984119fef4d66c4dfec623a84b687f61d0bc7853afb3209f6862",
+      "size": 110722
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3009_00.png",
+      "hash": "4466ae49e29d596129adaa34352a911340993d1aaa2cbed73cb96c7278c17e46",
+      "size": 106734
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3010_00.png",
+      "hash": "e1051da310910ffb1e2aa6aaf568b2994d6a2ce2a224853d163d1cd081995f0a",
+      "size": 114783
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3011_00.png",
+      "hash": "d76ccaee4272b4d754fa854bfa5451cf9b511e53edf35b9f60cc04e2bf66366e",
+      "size": 103091
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3012_00.png",
+      "hash": "3a5622d1bdb936aae76765e54c8816e446e33be05e955c9787b266543e09ad06",
+      "size": 115040
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3013_00.png",
+      "hash": "9681dd4455f0844b4eceb0807fc9ed6ce11cd61696e7cbf70bb69d6bfb79748c",
+      "size": 130090
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3014_00.png",
+      "hash": "b862d466e1ced5f6bad8a617364f321c2d8a4eb1dc1805480f460e83c0669711",
+      "size": 112341
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3015_00.png",
+      "hash": "1da410fa3383610969fa7f4d6efda6c920e466eb389e7cc711945a8613089c0d",
+      "size": 114708
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3016_00.png",
+      "hash": "459e593957b1e5cefbfca57e1d54a2e18f3d3f5c022f7df9741fb0b2200033b2",
+      "size": 107767
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3017_00.png",
+      "hash": "eba7c5ebb254f3cc5fd3719714a262672c3062f7110f5893e2da1bb3c8433f81",
+      "size": 101825
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3018_00.png",
+      "hash": "2d5bae465df17b2c75f04d9ab8063cd9cdb7dd2b8f08df6c6f7af9b1af04c9ad",
+      "size": 92808
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3019_00.png",
+      "hash": "23ab259357fc4329776b315b4c1e40f0a0a7444cbc833ef776f9ba102d019bdc",
+      "size": 107944
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3020_00.png",
+      "hash": "a662f3e765aed70bcd41bb618c42c5d4b32368520d28a1a3504525768982deb3",
+      "size": 135112
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3021_00.png",
+      "hash": "7ff2109a846f379be9c6f68a9498701c7ec23554cb389fea554708ece094dd1d",
+      "size": 106858
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3022_00.png",
+      "hash": "047f4a277d056d50c84c6813e958a0cb1b116da1e66e64bf163bb8710202ef96",
+      "size": 102919
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3023_00.png",
+      "hash": "700b1134f81169de70ca15a2e7b24ef26453f55c2bfe83e6eaa1220c1591eab5",
+      "size": 104112
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3024_00.png",
+      "hash": "b4aee5b0b08ff1b6217869be74c012d079fe1a8d056065b95a57db92a9db7059",
+      "size": 107654
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3025_00.png",
+      "hash": "8e947058db3a10cda420f8e1ac882aa7f3751fc14bc8b11801d861464527a468",
+      "size": 135029
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3026_00.png",
+      "hash": "b85d9f3dc070e79eefd2c20bcf2b2809bc9a4c85ed50be80c69a91c892f1396b",
+      "size": 109465
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3027_00.png",
+      "hash": "6593156c6a042d1135b5b2d6457dbb1dcbf627c4809f9818e87f89e40e4a80f9",
+      "size": 132163
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3028_00.png",
+      "hash": "e9097edc30caa567f7dafb3967e480bc023c02da23c2d60e42112bcbe02f958f",
+      "size": 116750
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3029_00.png",
+      "hash": "61f8a210a325e2c88f4ed9cf370acb492a871bd9269e9b57bc18d073e0911795",
+      "size": 105489
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3030_00.png",
+      "hash": "969cc55970c95aaba9c21c39d91f03f6e15f99b199337425b54a89ab4ad9a048",
+      "size": 103517
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3031_00.png",
+      "hash": "d76840f5eb64be7cb3abcabdea947ee5c0955ea7771e20c490f1bf3a45e686a6",
+      "size": 113607
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3032_00.png",
+      "hash": "a0f79138482a5968622ee8b1feda9747ab07bda36d0c642cf9cbf4b41e846b07",
+      "size": 102294
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3033_00.png",
+      "hash": "04d4f687078299f0b8e0f7a41f43f881f2d3dfe879f3592ce0476ddebdbe3d33",
+      "size": 107541
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3034_00.png",
+      "hash": "d343b12e6c22fe628ce447dc381a3a940c52c1167de0a449d18c26f41976ea1b",
+      "size": 125010
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3035_00.png",
+      "hash": "27c9b728b5b33a27602ba63d77e20518501a105a110cfc277216d057bfb255c6",
+      "size": 100682
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3036_00.png",
+      "hash": "b32d47f4450b21d2050e4a6feb1960b02a33a486bb95d2f489561c3da097b761",
+      "size": 114573
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3037_00.png",
+      "hash": "90707dc37f3a05b242e05ad4519f7ce6e9ca247f186a873cff7b997783bb843e",
+      "size": 109716
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3038_00.png",
+      "hash": "c9a8c8962e9aa86a2f2d403abc68f4db9f98f25748c47f723bdc8fe3edb9bd68",
+      "size": 105528
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3039_00.png",
+      "hash": "feb9a38a43a1eac53350160771ca33944fa0f3a77f1b15aa3297344f0d5d8ceb",
+      "size": 110999
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3040_00.png",
+      "hash": "4857d43aad4a43149466d9bc2441e88f90a424de6e7c1c753493c24882b00505",
+      "size": 106452
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3041_00.png",
+      "hash": "83a748eb8e0df2c5e3bd911826e67a1a1339e1973daa98d0b98a81d445e97665",
+      "size": 124188
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3042_00.png",
+      "hash": "0a55db65e51a689ae01a1543f7e9cdd3895b65e306f876f114f72dfb24cafe1e",
+      "size": 108553
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3043_00.png",
+      "hash": "7e86fd9b005184da1d880a08ef7e98436d0d6c667c61493a78edb8c82f0cda90",
+      "size": 107996
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3044_00.png",
+      "hash": "deed840a69ccf83f3ee85317d52a402a2277b2a6f320ed45335529eb94d7fbc6",
+      "size": 104616
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3045_00.png",
+      "hash": "08e21f3845d326573e7f08e1aebce0bc4771a0418414dfe50cb63fd87e9322b6",
+      "size": 109258
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3046_00.png",
+      "hash": "e7bc4af5be9a5c3a737d2c35ef03f7fb8b3ced12bf199cf3fe54861c4aaed786",
+      "size": 105938
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3047_00.png",
+      "hash": "27f5d36bc5f349e3adb7d026c672f2b5cf828fb99341e58eb604098529b4d1cd",
+      "size": 101627
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3048_00.png",
+      "hash": "d9d9559dc9b4e08e61b7769d032d2221484ba424a5ae137b53526d3430e353fc",
+      "size": 113698
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3049_00.png",
+      "hash": "78c571fa74144b886c00808e5e93fa416c5bb68d0af11e1d573b616047e160a4",
+      "size": 122683
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3050_00.png",
+      "hash": "118aba100cd5e754806e00e55c54c54d6166a30d581c48caf3c4768314079ecc",
+      "size": 107114
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3051_00.png",
+      "hash": "923269b1c821a209fbb602d9ae0932681cb30b4b2e7726721044f66c65d37af9",
+      "size": 123776
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3052_00.png",
+      "hash": "de9500a95a4c0c5d2ec461424cbe8857071a60946bcea02eefbb24a5516475da",
+      "size": 120443
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3053_00.png",
+      "hash": "ec435e4e3d411cf4d7cb8d7038925b75387080838f54f261c2d92b3e433ae688",
+      "size": 106330
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3054_00.png",
+      "hash": "755145741a56b226ba4b03e3e2193be64d5ea170dfa4ea35f507db4c3fc46d0a",
+      "size": 106174
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3055_00.png",
+      "hash": "09778943a9884fbeb977bc9f5cc24df4200a2d776462be7c29d55cdc3882f196",
+      "size": 126522
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3056_00.png",
+      "hash": "446ec477c3f28cd19af8a2ba72fa64aad063de497c228505515590c76fbdab07",
+      "size": 106920
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3057_00.png",
+      "hash": "c9cda12663abd85d876145d028e776b0aae87686e6a38dcfd0bc4a53480c901a",
+      "size": 126210
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3058_00.png",
+      "hash": "2d7a98bf40ca143fd372c487dd7319b9f435aeb6bf329acb03e2193265192fd9",
+      "size": 97554
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3059_00.png",
+      "hash": "7e50aa5e5d4a74107b2ded62f48b3350e5ddb05e78deb31acb86ba96ba89db81",
+      "size": 109347
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3060_00.png",
+      "hash": "b6e8bcb511c2ec97fc66539087179c862247d9dc9507bb6276ca5c8c27044f58",
+      "size": 109426
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3061_00.png",
+      "hash": "a4722df4cd16ee8e7073ea20fd5869e951b114e7b21cd5b1a5923233ddd5f2cc",
+      "size": 105601
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3062_00.png",
+      "hash": "3182ce8b22a5dbe0e96e412cc194008cd7100b8f57d13fc7554f6a51e98d23b8",
+      "size": 116197
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3063_00.png",
+      "hash": "1acf76c3753a18280cde625109da55b1bf00f87a335e45036ffbd31a153cd433",
+      "size": 110270
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3064_00.png",
+      "hash": "61728c71c16f5928ab737cab263b453f2a6987dad6856926afa42a63676ab616",
+      "size": 137636
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3065_00.png",
+      "hash": "3931bf1e2e3259743c9339c4066fcc7821ebeadd0ef668367c79c547fc2d46ff",
+      "size": 119293
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3066_00.png",
+      "hash": "673b8f461d117be97c744c120b17a0aaec72e3a46a244a80cacf59bc9addc558",
+      "size": 100270
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3067_00.png",
+      "hash": "a8d4354c6d0dec546173123c45dfab2b078e39e7610e8af469c43f71a16571af",
+      "size": 108908
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3068_00.png",
+      "hash": "9effd50129143d3ed7abc2c34513119ae19ef3e3c5b1aef19378c3d36a98e0f6",
+      "size": 117390
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3069_00.png",
+      "hash": "d9636c308be20ccb899f2bc2500ad6b5ca9fc94bd239a372689ae8dd64c7aab9",
+      "size": 109598
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3070_00.png",
+      "hash": "e5751da9e02cc72a4fff339f43ed96e5370c8577ef9414ef3b48cb10615a1f92",
+      "size": 114834
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4001_00.png",
+      "hash": "a8850cbb158f104fc436d90382eef67c1cb7160eaec147b9a4f67ac0a017e5d6",
+      "size": 106208
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4002_00.png",
+      "hash": "2fbee6b0f7466c7ff8edd592746e177da322fd75ccc8a9f111af44d84d4ba7f8",
+      "size": 99853
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4003_00.png",
+      "hash": "a7cb4f0af12bf9c3f7719b23e4aea645eeb327f2b0127ec92a0acdb5381672cb",
+      "size": 124429
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4004_00.png",
+      "hash": "e3ac2617f12532723dbeec5507ef4fa99e7b74b402a1a07a16a1d8a64be2487f",
+      "size": 104728
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4005_00.png",
+      "hash": "9fbe2a1a0c82e0ca6e11a79e91630ac7513d65a413e81ffe2dd63c73a63beed9",
+      "size": 110815
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4006_00.png",
+      "hash": "addecbdf73c810e15eabca3749fc27b631340fde6e9977ae2ce7276d6c2476cf",
+      "size": 114374
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4007_00.png",
+      "hash": "4e7b7796dddff0104a1df7f6d099100e3c64c2dbf80601d6e092e2ab15dc45af",
+      "size": 105812
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4008_00.png",
+      "hash": "c58cf2efe6d6b6cc8d4d0ab14a5d591da61ee2a6905335311ef674aa1eedb342",
+      "size": 106614
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4009_00.png",
+      "hash": "9b8f14a6d756fe6666ea08e8741a34c528c31424b3a1d3f693eb9a87b6627aff",
+      "size": 114988
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4010_00.png",
+      "hash": "b2b23f7a82ad5e4b8a168ab615a3b5425452ee588df248da080ac390cfe98e00",
+      "size": 114435
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4011_00.png",
+      "hash": "51a01a67e11378e79d71390823ec1df163a3aaa7e2b5e9af95ccaee5dd8a06d4",
+      "size": 112763
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4012_00.png",
+      "hash": "b5d5d1d9d0685fb661124c0346974c94aa0c498d0939be9ab981fe8f4773ecd2",
+      "size": 107661
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4013_00.png",
+      "hash": "f6e5f31629089ea6d8ca388a489e7b51eff3314ab4f295a1e7bf58de5d95ccb3",
+      "size": 106397
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4014_00.png",
+      "hash": "fa7a05dcf06212e538dbeb0218aa5ab0706928fb81f2452e25d4428a03a1d0b1",
+      "size": 101505
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4015_00.png",
+      "hash": "556a15d141ceeb3f3a013f86dc9b6c42199da0eecbfe1d86049d101e59876c7f",
+      "size": 107052
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4016_00.png",
+      "hash": "816729c86e0f2f96ba406d82a46f7bbc8c37a690af043d349449a4e949d605cf",
+      "size": 114071
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4017_00.png",
+      "hash": "3ad59bdfc8e4a25332cef8bb8c567187a81c2c2d6a16002b11c7038146351553",
+      "size": 112409
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4018_00.png",
+      "hash": "fa3f0c351e8d3fdfdaa5e6c78cecb4be0ffdab18cc5e2fd518311f5a2bcb1287",
+      "size": 111730
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4019_00.png",
+      "hash": "3d4b1ee4417b22e4f4cf8c9be47fd6fdaad15c5bf6bdca8f0948840c8fe60764",
+      "size": 104664
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4020_00.png",
+      "hash": "058a0f2cd30047b1c8bbfb1d50c4a6d1971c94b231a4f4e5cc5c74f00b161287",
+      "size": 106163
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4021_00.png",
+      "hash": "a6b48caa283984477aef1af4827cbcf72a5adadb4add876927445f541bc26344",
+      "size": 108972
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4022_00.png",
+      "hash": "79ac259eebfa940b2aeea03a7edf7f9f83a7864290ee1197966a3709cd42b9d6",
+      "size": 106088
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4023_00.png",
+      "hash": "94d1a6423cf8f638529d15ff4128e1a2b0b392376b23d137f84b824c1ddb954f",
+      "size": 108160
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4024_00.png",
+      "hash": "3eda37fa507f70d83b53a18d0fd5e21f157f70c7d467ab90158bf8e76072c994",
+      "size": 110754
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4025_00.png",
+      "hash": "82ef9319f3e70f1c2ea45ce471bbc0c9d451878843354582d601a475d7ff1b4f",
+      "size": 106967
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4026_00.png",
+      "hash": "789ad929af4565b93feca50e3c4c220f0fa645b353260ca34442c2753e92077e",
+      "size": 105244
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4027_00.png",
+      "hash": "eb8426362235986ffc066f359fb149bec5661d1a02caad551991b904486448e4",
+      "size": 109090
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4028_00.png",
+      "hash": "b3b4eafa5f909341727d2f30f0b52be2bcbd5c37d57ec9c2dd390fb6555b9de6",
+      "size": 105548
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4030_00.png",
+      "hash": "46e248c86fa594f8594d2812cbecc620b15424a30779b506a4a88e931e22ecd8",
+      "size": 102790
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4031_00.png",
+      "hash": "051e53ef5e43473bd6b7378f811badeaaf8b4bea2ea6dab0c2313c3256293188",
+      "size": 105400
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4032_00.png",
+      "hash": "a59a482344823ef3112706aafd4f557391ef21a123247c04fde34e710fbfcea0",
+      "size": 116480
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4033_00.png",
+      "hash": "af7b1f0595eac96046084f331d461d38189f27181aaa96c5e9f30244ac957478",
+      "size": 110566
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4035_00.png",
+      "hash": "f6e8cb1cb81dd1b92b6d3eb0cf817ba208d697b51c60f09b4b962b551917def5",
+      "size": 114593
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4036_00.png",
+      "hash": "c84447f0858defff7d74dcc7941e93b3d15a253cc31c1cffb68d82eabb747875",
+      "size": 105724
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4037_00.png",
+      "hash": "07045220b39a55ee1e959cb032b7724994dddc7439b09cb4a44ddcd9e8cacbf7",
+      "size": 106226
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4038_00.png",
+      "hash": "81c8a8f96564cfae074f99a2c804897577cc893dea71f225fee395116977acd9",
+      "size": 115572
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4039_00.png",
+      "hash": "37f109422d5c6c686016a30c3cd614d67f78660ed6cc9fa7cabacf7211797646",
+      "size": 112509
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4040_00.png",
+      "hash": "9337c5eb3656117f68414b4f769645f7e45e72bec6c3a02ffa9a64e4bf17d21a",
+      "size": 105650
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4041_00.png",
+      "hash": "0aacf0e7bdba0266642038a242bf05b0e8392dd32975fea6961f56c0645f6031",
+      "size": 109877
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4042_00.png",
+      "hash": "43649bc311a6f9b1e454805041114484badfbaba49745ff7a2b553770359db76",
+      "size": 105320
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4043_00.png",
+      "hash": "41af50045fcfb7f85e2893a1105cbe02d4961ae20298f09f4d819a6bec004c8d",
+      "size": 115235
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4044_00.png",
+      "hash": "c44b1106617f86b6a7fb7dd8be94661319a61d8403f283733a27211636c89a83",
+      "size": 120019
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4045_00.png",
+      "hash": "391fbdd7e2cd43e6704b9f2dfe0870cf77fb5a2d185179aaf7c78b7206c1031d",
+      "size": 111963
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4046_00.png",
+      "hash": "fd1b7d230bc091bc980884fbf384f10a39b20af28f4845f37090b4559cf1f71a",
+      "size": 117825
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4047_00.png",
+      "hash": "f7fc7bd6e9520ea1dd42f8cd4c04974abf0c9cf921cd5f48aa22559142083461",
+      "size": 105393
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4048_00.png",
+      "hash": "9ce80cae818d26b057c0d898501a830667b5b2787bdec5ceaa32a9fd8ad0489f",
+      "size": 106191
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4049_00.png",
+      "hash": "801ed0e352e05d7032d6260d40f4a2742ba96ffa383190582d0cd98dcf3ae0f9",
+      "size": 115863
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4050_00.png",
+      "hash": "e823d9a7baf958d2a5c8c25767cd7920257d3cdcbe9b7c704af5f32ff921971f",
+      "size": 103365
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4051_00.png",
+      "hash": "f4ba1ea5c62007f86435629abc8109f2895b336abd1ef2323a99ef5225e1d9aa",
+      "size": 103372
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4052_00.png",
+      "hash": "a0e5fb14e9abd820ba2a800b419c7820fa3b71a6a19c41558c22200bd17d7054",
+      "size": 106890
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4053_00.png",
+      "hash": "6aaab875cf7d19f384aa7b2bd43ea2bfec8f07b3b0f771e7be8d877a775ecc3f",
+      "size": 103065
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4054_00.png",
+      "hash": "c001732f7015c9abb195f598159a18e7ce2c48099fb02bac6cb06d9eaf0ca51f",
+      "size": 103057
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4055_00.png",
+      "hash": "a4d3640cb9f5425330a657ddf563e56b764840e8a5a07acb73aac15ae0db6113",
+      "size": 104950
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4056_00.png",
+      "hash": "ffe309f86048e5f503a1b1f661a14e1692d45bcd93d22c779047f41bc31139aa",
+      "size": 112886
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4057_00.png",
+      "hash": "cda26fa9607765e1b5fcae1481cd3d4928ffa27bf4b914346969172cbfeee5e2",
+      "size": 107174
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4058_00.png",
+      "hash": "9b15ce6500c2ffbaaa30089587276bb4163124155074d9a0d8d9ec05407ba048",
+      "size": 112994
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4059_00.png",
+      "hash": "b36a5ca673cebb7b28dbebc862041ae111d90cb0a9ddcbeb3d25f12a8ee6873c",
+      "size": 113985
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4060_00.png",
+      "hash": "9faa9e3126299584de344b8670df7b2a217eae56ce28fdeb43404e452a64f00e",
+      "size": 111665
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4061_00.png",
+      "hash": "4ec4172a5f8616b1041d574e5791197b925c73a60b5e0c5036a92e993fe846d4",
+      "size": 107468
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4062_00.png",
+      "hash": "ec4b64f053e8717ab1b04fefdc38f5f8a50593da61f1252dc41271b7583c813b",
+      "size": 105518
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4063_00.png",
+      "hash": "2e2e56bd9685696ef3f71c6758de63e15d045b2e7731768d70da37ac2452d7f7",
+      "size": 112393
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4064_00.png",
+      "hash": "15f7320fcd96535e8f29209e1d66974c18a172c8941429ff064a51c9e9bf4872",
+      "size": 99705
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4065_00.png",
+      "hash": "23a04ab9c6c532179ad3a29702c8be2987bae62aa9851fa924e2803b0d7176e2",
+      "size": 106489
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4066_00.png",
+      "hash": "766cc2ad370d909f5653134554054dfa90124147b9e8465ea4dd22bdeb60d8ed",
+      "size": 102753
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4068_00.png",
+      "hash": "391804e6ad3f54779c11dc6e9db3ae225ca70b101532cd803b4d05000f4716ee",
+      "size": 120483
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4069_00.png",
+      "hash": "8c413d5c7a90f681835cfa6e97f265b002d70eb5d58baa20c33b8f059d985e15",
+      "size": 114345
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4070_00.png",
+      "hash": "197c6d072acc1ae6c8fcca601a734508ddf5c667738a84acfe74be5920692c8c",
+      "size": 100041
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4071_00.png",
+      "hash": "c8c22c53375bef2937d3ffc0755534ef45ccb0621bcb53eef4832d8862f4f981",
+      "size": 119315
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4072_00.png",
+      "hash": "96805b898c3b6f5732afb382c56c4a7a5f88f40075ca4c9c974b6dbffb8deaee",
+      "size": 96083
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4073_00.png",
+      "hash": "18d9dd916f60fb05b50018372e9bb26e8d58525f64942d0cd80e8d48532b562b",
+      "size": 102347
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4074_00.png",
+      "hash": "abcdf0f417ff356cc444339b7cf1e5dade1fbcf81db285ab7823b24112c53c3a",
+      "size": 101785
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4075_00.png",
+      "hash": "7e1914e396d71349af363b0552747fe39ee51cd97480bc94f539964018146c6f",
+      "size": 103017
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4076_00.png",
+      "hash": "99e4de4f38e15fe4766a1a0fd02c5b7b4cf037cc6f5b08653741f88bbf8380ad",
+      "size": 97432
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4077_00.png",
+      "hash": "2f931db7ea4a971d4252b508dc2fb12468a277bd0c56b99c61b610ab99122af4",
+      "size": 101281
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4078_00.png",
+      "hash": "3c926ff16a3849471f48b398747c535c2ae3559a112824fef357b7dd2a71d982",
+      "size": 103738
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4079_00.png",
+      "hash": "66e0bd34f90ab9d30ff33414a64d16b579b7d9c156bd95c294356f9256f40423",
+      "size": 97585
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4080_00.png",
+      "hash": "392b4ae288de6f0cde7ae5fb5f3339fcad7bf095b5ae5f715951ac9a7339c5f9",
+      "size": 116393
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4081_00.png",
+      "hash": "afa0505c8ba5cf11b16902c677042a1b076d3eaa4731272ca84810572253659f",
+      "size": 102518
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4082_00.png",
+      "hash": "6b910a9d335b7a2d17f9e9bfce72afdf91c561517565300d381bc4607d32c46b",
+      "size": 105902
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4083_00.png",
+      "hash": "bdc04fe96522069f3ec53a6790acc5868f85df0d86fe3f8cd7e68a38babdf6fa",
+      "size": 101881
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4084_00.png",
+      "hash": "7e20f324a91b380e9f7bff1c1b8d1af6ea9d7d898f5339ddfe0d123c51c3ec6e",
+      "size": 101342
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4085_00.png",
+      "hash": "17b4c1d6ee1ff36ed783d3506eab6c91309d548c9ef061105955f24270e6ab30",
+      "size": 113682
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4086_00.png",
+      "hash": "85fcb649eab88c0192c92d53b65b7fc246caf51b043ea1a08fcfefed4470a8aa",
+      "size": 112225
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4087_00.png",
+      "hash": "aecaff242a2a5455a8277123364178d180b7ef83062b0aa30c7f4c3802981bda",
+      "size": 105484
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4088_00.png",
+      "hash": "bc43cbf47431bcd86f9aa0e5a6f2264552bfdceb1db7df1cc384170e67801095",
+      "size": 103406
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4089_00.png",
+      "hash": "47f48247c9529484a6764027b106c4adf9c902b8cf973b2760dc92a43e0c5413",
+      "size": 105367
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4090_00.png",
+      "hash": "765116fb19167bfcb15006e07579bf9b3b0a4406b0b67ad38da27d1855b54218",
+      "size": 114574
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4091_00.png",
+      "hash": "257a45cef541741b4dde8f79320b0a8c5971ce98ab9c035562840fc3f653cb5d",
+      "size": 103934
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4092_00.png",
+      "hash": "f8578a2e180f701c2ef92828ec7f7bf9e8453a62f04920c96a955ad63058c96e",
+      "size": 113391
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4093_00.png",
+      "hash": "bd860108d14dfb17269f108d1fcb3cf43757b83bbf4e1e03c96b132b174bb651",
+      "size": 105745
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4094_00.png",
+      "hash": "68774e2008713a7e360ecbb58267962878d9a2578e6e74c039857022cc19dfed",
+      "size": 109271
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4095_00.png",
+      "hash": "37419ecdb4baec1a5aaa0dced75c30b4835b1aad82654ef7853bb00b7b6da030",
+      "size": 111609
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4096_00.png",
+      "hash": "77ab86b428b81c4798da73e9be6ce5aea2333fd00b805d570ecf68e6863ac10a",
+      "size": 101456
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4097_00.png",
+      "hash": "320aae565a831492fcdb1d248155b72d3146682dead0204eccb794f7e9cf9ed1",
+      "size": 114039
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4098_00.png",
+      "hash": "d4d87082773d74f08e23e6ba4d9af3daa8097be147b88027be7fc17201cabb3e",
+      "size": 99302
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4099_00.png",
+      "hash": "b4a2cb8991322ede0fc5ec4d423c1e89f17f498f68acc735fcbffd23d5f13365",
+      "size": 103490
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4100_00.png",
+      "hash": "4f7b9ee82ded8296ec22f5b46fad649b0a2e09715e4a9d74dd00ffe4d2a6f39c",
+      "size": 117170
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4101_00.png",
+      "hash": "a38af2bee1cec6c24455f206d15f10ffd3a631c284232025f59765bd37cdd2bf",
+      "size": 114809
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4102_00.png",
+      "hash": "aeebe67086cb6b70ef0565cfc34f811e2cbc3e2f72579c71e584f611c485fbc0",
+      "size": 98068
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4103_00.png",
+      "hash": "e468d2fedac8e6aac21f6421a2e72a20085ef7b1c7ec5ccf5e5bb8e2325f6e37",
+      "size": 120975
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4104_00.png",
+      "hash": "4a5aa20d2c237eeea2228e5742538bd6e0c7f4ff3e32cd5f2d4bf6bc12c489ec",
+      "size": 115431
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4105_00.png",
+      "hash": "75717840ad3cff039b3aec113e01ea41bc08973d60978e473a44baf7ba30686f",
+      "size": 114308
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4106_00.png",
+      "hash": "fb201300b62425b2b4cb432ce7278821441372c17490bec04e17c3c88506bd63",
+      "size": 116990
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4107_00.png",
+      "hash": "b642a099b7613dd03fd1880002ab48fc8d2b1307f853fb040289eec7ba2b0bcd",
+      "size": 107752
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4108_00.png",
+      "hash": "849d3ea3adcd0178f6f00bcbfbac39433f5ab672263bf0764452fe061d999dd9",
+      "size": 113414
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4109_00.png",
+      "hash": "87b05b78c370d8119f956293f6a926e9838e1185460732adc768187c429d197b",
+      "size": 115108
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4110_00.png",
+      "hash": "cbb413dbf944e30b7248a7dcd5947ef234ef5c08d9637fc752c0b21712949d31",
+      "size": 108222
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4111_00.png",
+      "hash": "5c579937c72478436109479f12a2b751dac86538fec985b12379702eef0b2e76",
+      "size": 104575
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4112_00.png",
+      "hash": "17a86dfcd30da25e32f289b0901cf7c2238ed0cf44cd20d859d2bffff4cda376",
+      "size": 111613
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4113_00.png",
+      "hash": "47b2d0a57e72e2514af70d51341d2b5b682d58636f3c12a8cb3ed26bc3b8101d",
+      "size": 113198
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4114_00.png",
+      "hash": "995996828617fb63e44bbcdcbd6febebea27d5bd1b4236a1aaed3e12ee812e15",
+      "size": 124365
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4115_00.png",
+      "hash": "99a1d58071335b68c9f2bc6bcd05eabdcfd41914805edb436331064a629703fc",
+      "size": 107820
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4116_00.png",
+      "hash": "86b10c5341e953038c9b58dc0f1abe25e35784d2f28102ce15665762993ebe2e",
+      "size": 115993
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4117_00.png",
+      "hash": "b320892297d53377dc38edd9c0f2aebbea31530684879011d1a2ed07096a7d15",
+      "size": 131282
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4118_00.png",
+      "hash": "67ad3ce65515f35a6e1157ef82eccca6fe9737b292d048b1020ac2f7f0a25edc",
+      "size": 117223
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4119_00.png",
+      "hash": "8974eea37bd9d365238a236bddb1877ad737b4f5f3bcb43eb68270bd40b1d756",
+      "size": 106688
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4120_00.png",
+      "hash": "9a44cf8ff2bb6292b257de591d4f13265e27a191c718b207b5de04ff52f5835f",
+      "size": 114794
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4121_00.png",
+      "hash": "f062933d1b5169205d5277ea846134cb96cbaa8e1b3495094b13d6feaf7ce4f7",
+      "size": 107219
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4122_00.png",
+      "hash": "a06897d5953107c129f2b716bc57698293d805a4652749b15efecaac8fe6f56e",
+      "size": 115573
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4123_00.png",
+      "hash": "513d67620804e19f74595baf1205e6ce4bbb4930319885abfd689d10e207ca92",
+      "size": 110481
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4501_00.png",
+      "hash": "fac0af0e62f52f6ae144674ceb74f74298aeae49fe2a4dd84e9f3d8854fa10e8",
+      "size": 99509
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4502_00.png",
+      "hash": "273091f5a1031c729b7e433e3a5514125336b31aa9ac404f527777429c10b50a",
+      "size": 101674
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4503_00.png",
+      "hash": "b17c1beaeee75a806cc530ecc35ff38af7af5658ad4942b0168f9a4e89c86bc7",
+      "size": 98626
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4504_00.png",
+      "hash": "7f1bcae584e1a99522ac9c7d69448329f47fa0432ab1a8fc26806e014ac0f124",
+      "size": 102537
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4505_00.png",
+      "hash": "9450ac606a199a2ff8a09918345d7db9487a3a8364acaf18fe3e4468d82f3d79",
+      "size": 102610
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4506_00.png",
+      "hash": "87b2456a50d262b739f0c63d5a633cde75308a9a4360d3efdfef0c8899315e86",
+      "size": 106372
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4507_00.png",
+      "hash": "14daec46b1b682ddee40e88692f56a852eeb7b6129980de82f4c80afd4aa312c",
+      "size": 121540
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4508_00.png",
+      "hash": "da9bc8b0aa378446807fa6c66331b1f7b84fa9429f7418d370a7aa5acfc1bcc9",
+      "size": 115871
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4509_00.png",
+      "hash": "e15a3686bd9b4712d3f4f8e327229b213208bb1b631f49190a6fda2bf82bc050",
+      "size": 101314
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4510_00.png",
+      "hash": "938af3ed0e007e81b3b4a3cfeae816a71cd601d86cb5a43296be6ce337d510db",
+      "size": 101178
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4511_00.png",
+      "hash": "605edc993b80c7eec181812dc47869f3c59bda9ff306d7b71a529e45b7fdba8f",
+      "size": 105733
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4512_00.png",
+      "hash": "15d305239425768fe9bf99f67df5e5c8673cd5f82b3f66a92775bfc47413af93",
+      "size": 105278
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4513_00.png",
+      "hash": "e14a4e96fcefa49fe6a611b5691f6ddd8e0719c2bee1cdb289d004df2cca4cad",
+      "size": 109311
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4514_00.png",
+      "hash": "b85dccd2d2bf9502aee0ba7a30d13ce9963941782cadd8579568d28c8db5b916",
+      "size": 105296
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4515_00.png",
+      "hash": "1e9812a377057c92d393cd1042c95c51ab259cd22d56f60c4c007c1703278faa",
+      "size": 103366
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4516_00.png",
+      "hash": "1b26fe616fb6903793c7d87cc091b61c0791e6acad9461e3cfa1f1c3fd794dba",
+      "size": 104092
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4517_00.png",
+      "hash": "226f08d83f24371714ebabaa827edf42ef69b43804866aa2551275e1ee9783d0",
+      "size": 102999
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4518_00.png",
+      "hash": "c38a04227cf44195b55b9c9b367bbf3d92836e22a598f4e805c2f867a16e84ac",
+      "size": 105592
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4519_00.png",
+      "hash": "8d9d9fb916f88ab4df425abceca34596d5db0c2ecabc699cffbb99ae264da187",
+      "size": 102645
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4520_00.png",
+      "hash": "591a1cfedef9c04b6389738c04ebbcd3ae84f62f32b525f04b4b78ee52aaeee8",
+      "size": 107445
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4521_00.png",
+      "hash": "a65f1f146376ce78843b175c3743b89e42b15c30787944110ef955e31aac5fc2",
+      "size": 98276
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4522_00.png",
+      "hash": "39fa33e245710f5adbdda2b44048c4b6ff0249726a6ce8afcb159015e60a3ecd",
+      "size": 106170
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4523_00.png",
+      "hash": "241c4ae7f8082449a6792fcd6a22c24a987a7a1e6b11996b06a3431e5ed3b321",
+      "size": 100983
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4524_00.png",
+      "hash": "c7f3a33d07a377c530cc2885856e7d0096ecc779745f62e62c73f17db5b1908d",
+      "size": 101734
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4525_00.png",
+      "hash": "09f84f9631654c8a876b15d74f7db900d89bd744cd7d2c5068ee73d71880768f",
+      "size": 109336
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4526_00.png",
+      "hash": "5bb24170f69148d0126b1831cfb1240f52f117026034c3a01facae92920b12e4",
+      "size": 101779
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5002_00.png",
+      "hash": "3787a77acc70ad556805080b1b0f7ca1ac30e247399202b0ea6f62fdbcd3ee24",
+      "size": 96238
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5200_00.png",
+      "hash": "9219ad0fcc47fc1ec98b9b04ee0fa28c04081da4b48161df3ff709dbe1423ee0",
+      "size": 105763
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5801_00.png",
+      "hash": "d476208cdbee7b96ca612d85b5691c87504437db5cbc4ef09bd625f13d8ecf49",
+      "size": 112708
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5831_00.png",
+      "hash": "a2a75cf579a58e2f07821360894aeb63628571b2be850227be673d1d79ed9018",
+      "size": 109242
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5920_00.png",
+      "hash": "3017cef9255ae1a2dcd13c8d6b705026645197cae239a99e0e4006c85f1bb509",
+      "size": 98686
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5930_00.png",
+      "hash": "b275af8edf64da9dc05e998dc44e3ecdde905573ea71908f080a318ec69f0551",
+      "size": 108740
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5935_00.png",
+      "hash": "1a8913641b4ac016987f38736f639cd9a846ffbc675514058af0bac84e1e9069",
+      "size": 122159
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5940_00.png",
+      "hash": "6ea5c79fb6b3567a49f0d16b155da2b3cc7eb9a989e72d3f21e958a9492fc919",
+      "size": 108640
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5945_00.png",
+      "hash": "5bb58eb613fc3bad1afb5ccca955828be379e5ce4f173a7c916e339e893387cf",
+      "size": 106228
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5950_00.png",
+      "hash": "dec8f8ee767a759c66054212ef1bb22a86e8fbace8667ecb7d78b0a612076641",
+      "size": 98827
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5955_00.png",
+      "hash": "b9e63a3dfbdca649318518d137e39edfe382013f1615b563c2e9b41832168721",
+      "size": 99394
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5960_00.png",
+      "hash": "f8dde7f9ab87dc184e385b4519913b378ed3fa8d1629e1081ea5aaa691cea935",
+      "size": 122575
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5965_00.png",
+      "hash": "c92d0506f2e6632a91a0f2a7d0179aeb02f7142b1a30d1113cf9058056d62330",
+      "size": 108233
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5970_00.png",
+      "hash": "91dc8d6dc13f3b7649c5acb5f7cdaad412b05ad8a47cccd6da4776fb59cd25c2",
+      "size": 114457
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5975_00.png",
+      "hash": "91fd798502e233ce9a9ecd113f501a8ddd81fb420198cf6192857f8c7a4dfabe",
+      "size": 100773
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_01.png",
+      "hash": "45d274b16aad91909f63d60f14106358801b677de5c754d27c321c79f6b80b3f",
+      "size": 89278
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_02.png",
+      "hash": "68bea5a0a57bf9c96b525529ff6f0fa9a0cd3d0f51c9f3294bd35367aa2a6805",
+      "size": 90838
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_03.png",
+      "hash": "dbd155ce26b6d6648c628e4b8760b283d2b63e78a201978049ee74fdf5e9bed6",
+      "size": 91321
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_04.png",
+      "hash": "f685bc5c73a2069ef0f6c35e35bc9b430209e094872bf987895ea9bbc53fd320",
+      "size": 90131
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_05.png",
+      "hash": "30cde6bb70f0caa69d3bd5cc11ec9e873b3d374af2d92577c92f310af4ebebcb",
+      "size": 90700
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6101_01.png",
+      "hash": "849903be2ada5166a865e8bc41ce6ec643ad99b8d48bae7c429a53eb623c9e81",
+      "size": 96109
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6101_02.png",
+      "hash": "32985da8e2e53c9274efbc1e3784ac3549752d51bc21c22588d5ee679c846baa",
+      "size": 97968
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6101_03.png",
+      "hash": "71a6c2ca6e0b9fb2cdb55b5b4beb587f87222b9dfcf4a058d126c88b274836d2",
+      "size": 98412
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6101_04.png",
+      "hash": "64b4059be0cb937e6dab85e0987f54f348dea629d019ea7e9100e7f5bc83b9cc",
+      "size": 97014
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6101_05.png",
+      "hash": "86cc875134a017adf44dd8f1201982f5a6d8e95c722bb9f43f30bc1a090537f4",
+      "size": 97840
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6102_01.png",
+      "hash": "38a5a8f6d5520aee382c3d9732e052ed4a3a7d3f9a597b24306dfbac84deae1d",
+      "size": 90584
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6102_02.png",
+      "hash": "6c826bf2e0f93f3c0df772cf2791677fc6b6fa943320ecbfb79f85d242d7a31c",
+      "size": 92038
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6102_03.png",
+      "hash": "c05e7d31b62eae3f2008412a9bccdcc5be3e0c33740ab8bc21edf236f9147828",
+      "size": 92410
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6102_04.png",
+      "hash": "25a156b77a7cdf2883ba6d92d9b7a09f6bc96ae2bccd14b5c006fc9c3c8784c4",
+      "size": 91351
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6102_05.png",
+      "hash": "94b6dd22432149ec51813650c9255cb7e0dd68b78008ea85f06412de09113630",
+      "size": 91923
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7001_00.png",
+      "hash": "4e0eba09cb3713370fdfafbe874c88e44769bcc5aeb5d075f76818f53a68982e",
+      "size": 101470
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7002_00.png",
+      "hash": "c461c1b8a283f7d704bbf4b09bfac3e5b7a39e9f4aec419dc2b2885cd776922d",
+      "size": 117831
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7003_00.png",
+      "hash": "31fba5365fbf8ea60466b8fb01a82192c0270b9ddc9561cfe5e8c8c2242849a4",
+      "size": 101113
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7004_00.png",
+      "hash": "637f71e14c994e737e2bd3ffc71a0531c3b2dd517c0fc8d6b41169a373ace4e1",
+      "size": 102108
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7005_00.png",
+      "hash": "4e0eba09cb3713370fdfafbe874c88e44769bcc5aeb5d075f76818f53a68982e",
+      "size": 101470
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7007_00.png",
+      "hash": "57e1daeff4dc7078f894c57ae044d53e808148565c6d991525932ebdea52e4c2",
+      "size": 105473
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7008_00.png",
+      "hash": "7dadee1517d35fac4281f1f7ad5db41aca7bbea1e65a68098288bbe29084bf0f",
+      "size": 101661
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7011_00.png",
+      "hash": "68885e672cd662b29f7daa6df41dd77818938f856b7d2af75cdbfcea78b46b24",
+      "size": 117930
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7012_00.png",
+      "hash": "3a7d74eae070e72678f0efdf56e40ec67c5118c25bdd0494b7e4504a7ef78122",
+      "size": 102602
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7015_00.png",
+      "hash": "64a9bf4f8c849735c3cdb91831bb55e549a3ab439c469fe258b92bae5b9d5c2f",
+      "size": 111054
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7016_00.png",
+      "hash": "1b3076f6cd0f6a2c66f213b8cccdb0870157979fef619f198f791bbdecfa6bcd",
+      "size": 118798
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7018_00.png",
+      "hash": "b2eb69be1814a503ddded14e6fcdc5d670164ac93f7e24b6c9403f8d3ba6d4d6",
+      "size": 95587
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7021_00.png",
+      "hash": "88ef804cc8c2c522e21921850431e5477630ebad382ea4153d24e5ac0ca34768",
+      "size": 112315
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_7022_00.png",
+      "hash": "84ac24a659addf22dfa50de574fd97c9489f19f29b1acdbb7f93a20419f7a0d8",
+      "size": 111066
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9001_00.png",
+      "hash": "77782f974e0a631230f688dfc34fc93145499ae35e828a8769df07cdbadd269a",
+      "size": 171601
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9002_00.png",
+      "hash": "81a46dbd92c550a96eef797ce3b0c7a5186c52a86019c997dac249388d5c7af4",
+      "size": 120346
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9003_00.png",
+      "hash": "e52fb848166d3c0665eb06d23344c69b7946fae33d584fe141f695ddf047528b",
+      "size": 120694
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9005_00.png",
+      "hash": "f2890988ac4b371e73d50140015a00b630d43b781df3df2c2cee6d88ba031ca2",
+      "size": 125129
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9010_00.png",
+      "hash": "38ee67c91e5a38682612f12edbe90c49011b5fcd0b32918da30ae3ab02003daa",
+      "size": 139129
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9020_00.png",
+      "hash": "6a6ea6e04c01648ee52cc177364efed76f74ecaf3488b61ac35be4281d5e41ec",
+      "size": 138823
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9031_00.png",
+      "hash": "48b30f633a99bbfe143b23f43697e7419c1271ae6236cf0f89206d678fe6f165",
+      "size": 210499
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9032_00.png",
+      "hash": "41ce0199e34ba958008dedffbc9c655826931dec2418cfa48ea6fcdb64329dfb",
+      "size": 210634
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9033_00.png",
+      "hash": "c01fbbd0a68e5f68ce48ce7b6fdd97b315f86cdc4aecbafa875182e594323643",
+      "size": 210598
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9901_00.png",
+      "hash": "4e0eba09cb3713370fdfafbe874c88e44769bcc5aeb5d075f76818f53a68982e",
+      "size": 101470
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9902_00.png",
+      "hash": "c461c1b8a283f7d704bbf4b09bfac3e5b7a39e9f4aec419dc2b2885cd776922d",
+      "size": 117831
     },
     {
       "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_00.png",
