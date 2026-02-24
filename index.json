@@ -60,8 +60,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "af8b367ea3e39ef25a21ac55319da9637924bb66cfd79592a97f3b32522f0975",
-      "size": 87370
+      "hash": "f62b02f5606e6b0332c04933a80029cf6344d25009c3b03ce260ed3808b7f426",
+      "size": 67934
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -820,8 +820,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "b1f9b2be5722aef8fa8ff73fc70ef43da79c28b30497041dd99ea33b56a6a198",
-      "size": 333446
+      "hash": "3fa1485948000fba1228079f8f34c9ee760f0b349ec5799e202e127a81682dc3",
+      "size": 432862
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -860,8 +860,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "11af83d8ad028543c78060d8702cfaf17e75658e01b6463fc92795927dbeab11",
-      "size": 115078
+      "hash": "ec1d0464486e87fdc79db64db0e22c1127da711a140ff355c3aa3cf41f9a424d",
+      "size": 267928
     },
     {
       "path": "assets/atlas/home/home.json",
