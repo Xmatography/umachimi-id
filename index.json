@@ -2000,8 +2000,8 @@
     },
     {
       "path": "assets/lyrics/m1092_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "a920566a8671d42f8601d41d2a18a3ecf2aa115ccc1ec73291f97daf9fbf7e74",
+      "size": 1631
     },
     {
       "path": "assets/lyrics/m1094_lyrics.json",
@@ -2020,8 +2020,8 @@
     },
     {
       "path": "assets/lyrics/m1151_lyrics.json",
-      "hash": "83b327353b38b0a0162c55332132f32664cf6f6fba3c40cef35c6debf282bf29",
-      "size": 2071
+      "hash": "4a502ef76b7571999202b3231d13a6a4dd9d21f873011359b6d1c97e7ac4bc13",
+      "size": 2337
     },
     {
       "path": "assets/lyrics/m1152_lyrics.json",
@@ -2065,8 +2065,8 @@
     },
     {
       "path": "assets/lyrics/m1177_lyrics.json",
-      "hash": "ad45957391e43020f66ceecf51d9999d5ecc4a7002774b221ebaf402d5a03b4c",
-      "size": 1622
+      "hash": "d9bbdb0b52f7095949c4f0a741bc1fb2b550d073f312a91abf053a058f6f9f75",
+      "size": 1799
     },
     {
       "path": "assets/lyrics/m9051_lyrics.json",
@@ -15295,8 +15295,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8b46034cbef59014be13be7fa02ef27f566b133c9d43daa12fa36c2607f56432",
-      "size": 2356921
+      "hash": "f9b68f48562c2c06cd7461967926a14f84efb7f898d8f2984ccd6a9dc3d3ebf5",
+      "size": 2357619
     }
   ]
 }
