@@ -9,7 +9,6 @@ Umachimi adalah proyek translasi komunitas untuk sebuah game simulasi gadis kuda
 - 📌 [Tentang Proyek](#-tentang-proyek)
 - 🚀 [Fitur Utama](#-fitur-utama)
 - ▶️ [Instalasi](#️-instalasi)
-- 📂 [Struktur Direktori](#-struktur-direktori)     
 - 🤝 [Kontribusi](#-kontribusi)
 
 
@@ -35,22 +34,6 @@ Semua progres translasi yang dikerjakan para kontributor dapat dilihat di [Statu
 - Enjoy 🎉
 
 
-## 📂 Struktur Direktori
-```
-📁 localized_data
- ┣ 📂 assets                                # Aset ikon, texture dll
- ┣ 📄 includes_android                      # Aset khusus android
- ┣ 📄 includes_win                          # Aset khusus windows
- ┣ 📜 character_system_text_dict.json       # Berkas interaksi karakter
- ┣ 📜 config.json                           # Berkas konfigurasi
- ┣ 📜 hashed_dict.json                      # Berkas dictionary aset dalam hash
- ┣ 📜 localize_dict.json                    # Berkas dictionary lokalisasi
- ┣ 📜 race_jikkyo_comment_dict.json         # Berkas dictionary komentator lomba
- ┣ 📜 race_jikkyo_message_dict.json         # Berkas dictionary teks komentator lomba
- ┣ 📜 text_data_dict.json                   # Berkas dictionary teks komentator lomba
-```
-
-
 ## 🤝 Kontribusi
 Kami sangat terbuka untuk kamu yang ingin join kontribusi! 🙌  
 Kamu bisa bantu lewat:
@@ -60,7 +43,10 @@ Kamu bisa bantu lewat:
 
 Untuk selengkapnya baca tutorial kontribusi di [Wiki](/wiki) dan [Panduan Translasi](https://hachimi.noccu.art/id/docs/translation-guide/welcome) atau join [Discord Komunitas](https://discord.gg/4zvW4VhrYV)
 
-## Kontributor Utama
+## 💝 Terima Kasih
+Terima kasih kepada [Hachimi Edge](https://hachimi.noccu.art/id/) dan [UmaTL](https://github.com/UmaTL/hachimi-tl-en) yang menjadi wadah agar proyek ini dapat terlaksana, dan terima kasih juga kepada para kontributor yang telah mendedikasikan waktu mereka untuk ikut berkontribusi mengembangkan proyek ini!
+
+## Kontributor
 
 <a href="https://github.com/Xmatography/umachimi-id/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Xmatography/umachimi-id" />

@@ -2261,7 +2261,10 @@
     "1091": "None",
     "1156": "Lirik : Ichihashi Takuya & Satō Haruka (Cygames)\\nKomposisi & Aransemen: Ichihashi Takuya (Cygames)",
     "1175": "Lirik & Komposisi : Ikeda Takehito (Cygames)\\nAransemen : Kohei Tsukada\\nAransemen string : Ichihashi Takuya (Cygames)\n",
-    "9051": "None"
+    "9051": "None",
+        "1092": "Lirik, Komposisi, dan Aransemen: Hamada Kouki",
+        "1151": "Lirik, Komposer, Aransemen : Takuya Kakehashi (Cygames)",
+        "1177": "Lirik, Komposisi, Aransemen：Lucas Nainemoutou (Cygames)"
   },
   "23": {
     "1": "Sepatu Sprint",
@@ -28620,7 +28623,10 @@
     "1091": "None",
     "1156": "Berkat kalian semua―『Aku sudah tumbuh sebesar ini♡』Terima menu ucapan terima kasihku yang penuh cinta ini♡ Silakan dinikmati ya♪",
     "1175": "$(nb)Hari-hari saat kita berjuang. Tak terasa, kita melangkah sejauh ini. Ikatan yang berdampingan, akan membawa kita melampaui mimpi yang tak berujung—",
-    "9051": "None"
+    "9051": "None",
+        "1092": "Panen raya! menanam sayuran, masak-masak, lalu makan. \nAyo berlari dengan penuh semangat! Hari ini, bersyukur atas kelezatan dan kasih sayang, selamat makan!",
+        "1151": "Kuberitahukan kepada semua yang terlahir di era ini――\nTeriakan sorak-soraimu. Jadilah pelaku utama dari \"Legenda\" ini!",
+        "1177": "Di festival yang mewah dan megah, yang akan dibuktikan adalah ikatan tim.\nDengan Unity ini, menuju puncak dunia! Raihlah, American Dream!"
   },
   "130": {
     "1": "Putri Rintik Hujan",
