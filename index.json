@@ -645,8 +645,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_chararank00/tx_uTex_fl_singlemode_result_chararank00_0.diff.png",
-      "hash": "f3ed880624f531925e2f545fb5e2a39c2986b003d07285414b1642d9c57142a3",
-      "size": 13001
+      "hash": "1ecf3224f83e31d86d091a25cf250334c50273d8e944f9a22ad07f3d0bf67502",
+      "size": 21368
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sectionstart01/tx_uTex_fl_singlemode_sectionstart01_0.diff.png",
@@ -900,8 +900,8 @@
     },
     {
       "path": "assets/atlas/race/race.diff.png",
-      "hash": "5e6a1c026c0d1c3e13a529655b212c2440708d24885e8f649c842c9a95b451ff",
-      "size": 365991
+      "hash": "a3cf6a2004632678c85f15c703ba5244aa778b3e38af9b5e6168669e5caa73ca",
+      "size": 336426
     },
     {
       "path": "assets/atlas/race/race.json",
@@ -960,8 +960,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.diff.png",
-      "hash": "dcca72aa950fa7d0879476348d180572eca05ab07a1a736230ff60ad83650ce1",
-      "size": 227861
+      "hash": "781451847e3e5f68f4e8c383fc74958b92f1b499b6abd715912b71b9c21b1d2e",
+      "size": 203681
     },
     {
       "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.json",
@@ -970,8 +970,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.diff.png",
-      "hash": "2cab1da13661442dbcca628d8103471fb2cd352bd0638f3e258c0b6217c273d2",
-      "size": 334681
+      "hash": "9aefb3bdaf585eeea95a8b5a3e509b94641fc10dedf6c037e1e38826a11004e3",
+      "size": 301939
     },
     {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.json",
@@ -980,8 +980,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.diff.png",
-      "hash": "fa974d73d7aa2c052931e9490a6a65edf3935bdf77fc43f6b809c1bb76bd7e4a",
-      "size": 404901
+      "hash": "bc31287460d51b2d7873c65053f9ae3384a54066061234e6901ba72f4ad44ea5",
+      "size": 377615
     },
     {
       "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.json",
@@ -1000,8 +1000,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
-      "hash": "9c049ad7cbe020fa040354af8816872a8f2060ec287abddaf2e6f0040bf78c03",
-      "size": 324007
+      "hash": "bedfdf45d15e50356d2b6b9ea277c59332de4b488500c9518eeccc9a2aadab67",
+      "size": 299122
     },
     {
       "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.json",
@@ -1010,8 +1010,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.diff.png",
-      "hash": "17556c52aaf17292df3f4a5c1a9392b3174bdd7a7a772c3d2048e4be23921f3b",
-      "size": 110937
+      "hash": "0855106c869478013e42a96279faff411475e84a150d38b101dc33d243ba22c3",
+      "size": 99761
     },
     {
       "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.json",
@@ -1020,13 +1020,13 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.diff.png",
-      "hash": "faefcbf5d6d8dce5f0bc33d10acbf03dfce27f172c5e132f1117e8e95b97cf32",
-      "size": 358138
+      "hash": "4032dc97310a218751b4f2534ee7f4f917c833f8ecc7965818ad39d7e610085d",
+      "size": 365866
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
-      "hash": "1cbbdf9a59d12a52655287e861e2569babf0aeefc540031493bfbedf43627b8f",
-      "size": 398743
+      "hash": "3b04ae26db2f6d0d14577bab015bd5c02445443a7aa25508c7dedcc1e1c3dd65",
+      "size": 330985
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.json",
@@ -1065,8 +1065,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.diff.png",
-      "hash": "e60a0438b7499ec2b46f6ff2dc09f4b2122903abd85d2f4f158443424f56be94",
-      "size": 152064
+      "hash": "76119b1e6b1e282808286fd723fe198ebbf899047346359813a6cf3c72fd3583",
+      "size": 143755
     },
     {
       "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.json",
@@ -1115,8 +1115,8 @@
     },
     {
       "path": "assets/atlas/teamstadium/teamstadium.diff.png",
-      "hash": "0cef50684171432b6d214e9ced1d3757469ef037cfb426332d6e5a27764e637d",
-      "size": 712062
+      "hash": "72e1585f6f21950a4359b4d3b72cfcc6bb0a27c1719aea840250c3059922c456",
+      "size": 657147
     },
     {
       "path": "assets/atlas/teamstadium/teamstadium.json",
