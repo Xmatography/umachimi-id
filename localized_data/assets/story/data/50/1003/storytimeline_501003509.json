@@ -1,0 +1,30 @@
+{
+    "text_block_list": [
+        {
+            "text": "Balapan telah usai, dan Tokai Teio pun\nkembali ke ruang tunggu……\ntapi tidak seenergik biasanya."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hah…….",
+            "choice_data_list": [
+                "Kamu baik-baik saja?",
+                "Kamu oke?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm~, kenapa ya……."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Waktu lari sih senang,\ndan kalau menang terus dipuji juga bahagia…… tapi."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Entah kenapa desahan ini nggak bisa berhenti~.\nAku kenapa ya……?"
+        },
+        {
+            "text": "Mungkin karena efek balapan berturut-turut,\nTokai Teio tampaknya cukup kelelahan.\nSebaiknya jadwal ke depan perlu ditinjau ulang."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Yukino Bijin",
+            "text": "Latihan hari ini ngapain ya?\nSama kayak kemarin aja boleh kan."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Kenapa mukanya gitu?\nAku ngomong yang aneh ya?",
+            "choice_data_list": [
+                "Mungkin logat daerahnya agak kental……"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Eh!? Masa aku selogat itu!?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Maaafkan aku!\nKayaknya aku nggak bisa jadi 'Gold City' deh!"
+        },
+        {
+            "text": "Akibat balapan berturut-turut, Yukino Bijin\ntampaknya sangat kelelahan.\nSebaiknya jadwal ke depan perlu ditinjau ulang……."
+        }
+    ]
+}

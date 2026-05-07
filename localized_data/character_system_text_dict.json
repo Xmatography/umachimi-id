@@ -313,7 +313,9 @@
         "90021": "Happy Valentine's Day",
         "140008": "Fufu",
         "140009": "Ha ha!",
-        "140017": "Much: ……"
+        "140017": "Much: ……",
+        "20021": "Balapan lagi… Aku tak keberatan untuk tampil, namun… kau sudah memikirkan apa yang terjadi setelahnya, bukan?",
+        "20022": "…Seberapa pun agungnya sang 'Maharaja', balapan yang terus-menerus tidaklah baik, tahukah kau. Jika kondisiku ambruk, kau yang akan kerepotan, bukan?"
     },
     "1016": {
         "11": "Cygames",
@@ -1281,8 +1283,8 @@
         "20009": "I feel like I have to do my best, but my heart is still heavy… I guess I'm still immature…",
         "20010": "I need to be more positive… Ugh… I thought I got back on track after reading the book…",
         "20011": "A scene where you have to work hard… heroes aren't supposed to stand still.",
-        "20021": "Um… maybe we should take a break. … Even in war stories, there are many cases where overdoing it will lead to worse situation.",
-        "20022": "The path of a hero starts with a single step, but if you can't move even one step, it's like putting the cart before the horse…",
+        "20021": "Um... sebaiknya kita istirahat sebentar... Dalam kisah perang pun, banyak kasus di mana memaksakan diri justru membuat keadaan semakin buruk...",
+        "20022": "Perjalanan seorang pahlawan pun dimulai dari satu langkah, tapi... kalau sampai tidak bisa melangkah sama sekali, itu namanya sudah terbalik-balik...",
         "20023": "I will make this race a legend that will be passed down from generation to generation…!",
         "20024": "Trainers… my readers. Please witness my tale of heroism…!",
         "20025": "I have the winning story in my head. All I have to do is trace it…!",
@@ -2530,7 +2532,9 @@
     },
     "1065": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Balapan terus emang lucu deh~!\nPelatihku spartan banget nggak sih!?",
+        "20022": "Hah!? Ikut balapan keseringan nggak tuh!?\nUdah pièen, udah paon, sekarang gyaon nih~!"
     },
     "1066": {
         "11": "Cygames",

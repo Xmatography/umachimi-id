@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "text": "Belakangan ini balapan terus-menerus, jadi aku keluar jalan-jalan untuk menyegarkan pikiran… dan tiba-tiba seorang fan menyapaku."
+        },
+        {
+            "name": "T.M Opera O",
+            "text": "Fufufu, terima kasih atas dukunganmu! Izinkan aku membalasnya……――dengan Opera Tanda Terima Kasih!",
+            "choice_data_list": [
+                "Eh, sekarang juga!?"
+            ]
+        },
+        {
+            "name": "T.M Opera O",
+            "text": "Hah……hah……k-kau lihat senyum mereka tadi? Tampaknya kali ini pun, aku berhasil membalas dengan cahaya kemilauanku!",
+            "choice_data_list": [
+                "Tiap kali berterima kasih selalu pakai opera, kamu tidak lelah?"
+            ]
+        },
+        {
+            "name": "T.M Opera O",
+            "text": "Noblesse oblige……bahkan di balik langit mendung sekalipun, sang mentari terus terbit untuk menerangi dunia."
+        },
+        {
+            "text": "Bersamaan dengan jadwal balapan yang padat, ia juga menanggung kelelahan dari pelayanan kepada para fan. ……Mungkin sudah saatnya aku meninjau ulang jadwal startnya ke depan."
+        }
+    ]
+}
