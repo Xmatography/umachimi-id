@@ -65,8 +65,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "f62b02f5606e6b0332c04933a80029cf6344d25009c3b03ce260ed3808b7f426",
-      "size": 67934
+      "hash": "6d04729884fce90e139aeba5a279cc761b79da60a8ca6a05d4e2afb6a12da60c",
+      "size": 85869
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -187,6 +187,16 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_header_turncounter00/tx_uTex_fl_singlemode_breeders_header_turncounter00_0.diff.png",
       "hash": "f86077f1e4eb09f9e1d9e54d2c58f9779df219efe82d094d8a69af7b4b6189cb",
       "size": 9460
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_next_target00/tx_uTex_fl_singlemode_breeders_next_target00_0.diff.png",
+      "hash": "2848f5f436f2bf06a0b33b2e1535eb527730af55359118885d41a87e022b8c45",
+      "size": 99634
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_remind_turn00/tx_uTex_fl_singlemode_breeders_remind_turn00_0.diff.png",
+      "hash": "9cb5de9cfcfc92feb76432f8c636b277d78fe0c2f0fd3bbab8cb5b1d333ead53",
+      "size": 21777
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teammeeting_graph00/tx_uTex_fl_singlemode_breeders_teammeeting_graph00_0.diff.png",
@@ -645,8 +655,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_remind_turn00/tx_uTex_fl_singlemode_pioneer_remind_turn00_0.diff.png",
-      "hash": "d748bafae6b93ed73338f4afd840846e4d49e4f79c8f00981943496266627817",
-      "size": 24570
+      "hash": "32061e0f533127e66c7681f783e972b3bfd84a10f3f38dc999059afd400109ec",
+      "size": 19346
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_shimatraining_acquire00/tx_uTex_fl_singlemode_pioneer_shimatraining_acquire00_0.diff.png",
@@ -905,8 +915,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "ec1d0464486e87fdc79db64db0e22c1127da711a140ff355c3aa3cf41f9a424d",
-      "size": 267928
+      "hash": "918a74bd8ba4341379a5f793f8b18b05bac3ab947f85fda23e91f8a392fe29fc",
+      "size": 269245
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -985,8 +995,8 @@
     },
     {
       "path": "assets/atlas/schedulebook/schedulebook.diff.png",
-      "hash": "c86d44176f3b1dfc241b7b6e76986d04a967ff9cf829a0bbdf49ca5621cef60c",
-      "size": 16700
+      "hash": "ba84eeeec79fd4826a2554440bfb8eb279d9c322bd0ffec605b4de75e8db43b7",
+      "size": 16752
     },
     {
       "path": "assets/atlas/schedulebook/schedulebook.json",
