@@ -1,0 +1,167 @@
+{
+    "text_block_list": [
+        {
+            "text": "(――Ada lubang kosong.\nDi hatiku... Gelap, dan begitu dalam.)"
+        },
+        {
+            "text": "(Hatiku mendesak――\nuntuk segera menutupinya)"
+        },
+        {
+            "text": "(Meski tiada hasil yang menanti)"
+        },
+        {
+            "text": "(Meski ujungnya tak kasatmata)"
+        },
+        {
+            "text": "(—Karena hanya itu\ncara yang kuketahui.)"
+        },
+        {
+            "text": "Para pelatih sering membicarakan 'bakat generasi baru',\ntapi akhir-akhir ini, satu nama terus disebut.",
+            "choice_data_list": [
+                "'Admire Groove'…… ya?"
+            ]
+        },
+        {
+            "text": "Ya. Dia luar biasa. Dijuluki 'jenius' sejak kecil.\nBahkan saat menang di balapan besar,\ndia menganggapnya hal biasa.",
+            "name": "Pelatih Senior"
+        },
+        {
+            "name": "Rekan Pelatih",
+            "text": "Benar-benar kandidat utama GⅠ klasik masa depan…….\nAku juga ingin melatih anak sepertinya……."
+        },
+        {
+            "text": "Penasaran dengan sang 'jenius',\naku pergi ke lapangan dan kebetulan dia akan lari."
+        },
+        {
+            "text": "……suu……haa…….\n……suu……."
+        },
+        {
+            "text": "――Hup!"
+        },
+        {
+            "name": "Umamusume yang Ceria",
+            "text": "……Cepat sekali!\nLari kami benar-benar beda level…….",
+            "choice_data_list": [
+                "(――Benar. Formasinya……!)"
+            ]
+        },
+        {
+            "text": "Formasinya sempurna tanpa gerakan sia-sia. Semua gerakannya\nmenjadi dorongan. Semua orang menahan napas."
+        },
+        {
+            "text": "Bahkan di antara Uma Musume profesional, hampir\ntidak ada yang bisa melakukan formasi itu."
+        },
+        {
+            "text": "Belum debut saja sudah sehebat itu. Pasti dia berlatih\nbersama rival dan teman yang sepemikiran――",
+            "choice_data_list": [
+                "(――begitulah pikirku… tapi…)"
+            ]
+        },
+        {
+            "text": "Ah, permisi… Arv-san!\nAku juga menargetkan debut tahun ini…!",
+            "name": "Uma Musume Ceria"
+        },
+        {
+            "text": "Aku ingin belajar dari Aruvu-san――formasi,\nritme, semuanya! Bolehkah kita berlatih bersama…!",
+            "name": "Uma Musume Ceria"
+        },
+        {
+            "text": "……. Aku tidak berniat berkelompok.\nHarapanmu tak bisa kupenuhi. Carilah yang lain.",
+            "choice_data_list": [
+                "(……Dinginnya……)"
+            ]
+        },
+        {
+            "text": "Ajakan itu ditolak mentah-mentah.\nMeninggalkan kecanggungan… dia kembali lari sendirian."
+        },
+        {
+            "text": "Haaaah……!"
+        },
+        {
+            "text": "Haa… haa…!\nTiga putaran lagi…… pasti bisa――kuh……."
+        },
+        {
+            "text": "Hmm…? Admire Groove…?\nAda apa, kau baik-baik saja?"
+        },
+        {
+            "text": "Yang menghampiri Admire Groove yang terhuyung adalah――\nAir Groove. Umamusume elit dengan segudang prestasi."
+        },
+        {
+            "text": "……haa… haa….\n……Tak masalah."
+        },
+        {
+            "text": "Hmph… semangat yang bagus. Kedisiplinanmu selalu \nmembuatku kagum. Tapi jika bersama yang lain,\nkau bisa belajar sambil istirahat."
+        },
+        {
+            "text": "Jika mau, mampirlah ke tempat kami. Belajar sendiri\ntak buruk, tapi belajar kelompok pun ada gunanya――"
+        },
+        {
+            "text": "……Tak perlu repot-repot.\nAku punya jadwal latihan sendiri."
+        },
+        {
+            "text": "Hanya aku yang bisa membuatku kuat……\n…Aku masih harus latihan. Permisi."
+        },
+        {
+            "text": "Perkataan Air Groove pun tak digubrisnya.\nBenar-benar tertutup."
+        },
+        {
+            "text": "Admire Groove menyelesaikan latihannya dan pulang.\nIni mungkin terkesan ikut campur――",
+            "choice_data_list": [
+                "Ehm, permisi――",
+                "Hei, kau――"
+            ]
+        },
+        {
+            "text": "……Lencana itu, kau pelatih?\nAda perlu apa?",
+            "choice_data_list": [
+                "Air Groove memanggilmu, kan?"
+            ]
+        },
+        {
+            "text": "……Bukan berarti aku berbuat onar.\nAku cuma menolak ajakan latihan."
+        },
+        {
+            "text": "Hal seperti itu merepotkan.\nLagi pula, dia tak perlu repot-repot memanggilku.",
+            "choice_data_list": [
+                "Mungkin dia khawatir sebagai senior."
+            ]
+        },
+        {
+            "text": "……."
+        },
+        {
+            "text": "Pintar dan jago olahraga, kau bisa segalanya ya.\nSemua guru berharap banyak padamu, anak hebat.",
+            "name": "Staf Panti"
+        },
+        {
+            "text": "Ya.\nAku akan rajin belajar dan berlari.",
+            "name": "Aruvu Kecil"
+        },
+        {
+            "text": "Tak kusangka hari ini kau akan masuk Tracen Academy.\nSejak dulu kau bisa melakukan apa saja……\nKau pasti akan baik-baik saja.",
+            "name": "Kepala Panti"
+        },
+        {
+            "text": "……Pengetahuan dan kemampuan dasar sudah kupelajari di sini.\nAku juga punya prestasi di balapan anak-anak. Jadi――"
+        },
+        {
+            "text": "――Itu tak perlu."
+        },
+        {
+            "text": "Tatapannya sedingin es."
+        },
+        {
+            "text": "Ikatan dan pertemanan tak ada hubungannya dengan kemajuanku.\nAda atau tidaknya, itu tidak pengaruh."
+        },
+        {
+            "text": "Apalagi kasih sayang…… sama sekali tak kubutuhkan.\nJadi――"
+        },
+        {
+            "text": "――Jangan bicara seolah kau tahu segalanya."
+        },
+        {
+            "text": "Percakapan pertamaku dengan sang 'jenius', Admire Groove――\nterasa dingin dan menyakitkan, layaknya menyentuh balok es."
+        }
+    ],
+    "title": "Umamusume Bersorot Mata Es"
+}
