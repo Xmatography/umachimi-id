@@ -2585,13 +2585,13 @@
     },
     {
       "path": "assets/story/data/01/0002/storytimeline_010002017.json",
-      "hash": "69674635400621e8cca2c732e76b8529758ed682ae80ade93122d66cd3166766",
-      "size": 1006
+      "hash": "0417799c02c69d8462127f40fac593886fb23fc2c0aa83746c6e627c5fa82236",
+      "size": 1005
     },
     {
       "path": "assets/story/data/01/0002/storytimeline_010002018.json",
-      "hash": "a2ab86b16a2c15260571a7b16ff70495a9976096c48d537c1a17aa907d382b4a",
-      "size": 378
+      "hash": "420a40fb099d370e46711e260c1994c3668444ea6b0806b1a96f0df698594dab",
+      "size": 377
     },
     {
       "path": "assets/story/data/01/0002/storytimeline_010002019.json",
@@ -7605,7 +7605,7 @@
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011000.json",
-      "hash": "4a341533e8ac3fe96aa15ca06a68f60a04d3a5e6ed12b3e4e65111be5f6f98d7",
+      "hash": "bfae9526a7bdde7b722f356c3ef5056e6cddfe8cdf673a5b2d32ec8eeaf9f8cc",
       "size": 16796
     },
     {
@@ -7615,52 +7615,52 @@
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011002.json",
-      "hash": "40c3c1b04e24e3d7122d5abdaf9bb72dff3303f73a8f4d50af11b7b613c9b303",
+      "hash": "e6868865efc767a479fd2fc27ebc8e826c75cd87ae0077a77e783ac23ebd8752",
       "size": 12091
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011003.json",
-      "hash": "61128bf8e1bfaa4b5e4be2f3191d2f28dd648e52c626227e2b4c44fdc2807e95",
+      "hash": "0d5f7ba09def943f11bcd09283e3b254a3413ff46f006b0cc21316e659a66dda",
       "size": 2539
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011004.json",
-      "hash": "576ed46bb2661a1d55ca7928f72d9bc8524e68c593683c66fb9c8582257644d9",
+      "hash": "a97d6f3b730009e103df112ef75c1d2e81333f286395bfda1cd1ba8528f7ee18",
       "size": 1371
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011005.json",
-      "hash": "47a054e57cbda4908340a58cb6e69edbf0788802da8f42a8f6d1f7858f90a622",
+      "hash": "819268830b65906feb355bdca77d264f97cc6b46fadb85d2a06ff28e60c69deb",
       "size": 1476
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011007.json",
-      "hash": "a2f4593d3f93edf5d9eb282a3bb8c9cb837be7353b42383bf376e4c6329a8f54",
+      "hash": "ccc9e9e18845d3d20e242710e2a4772e10c78b090e56417f96c1bcfb297cf095",
       "size": 2066
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011008.json",
-      "hash": "5c6cc4eeebfeb4ee716572fc27a781da1a1e802cc7cd4db065efae894880fd54",
+      "hash": "cb969fcdeba48c93729de654213c8f6125729a029ea4c3917c0a472e97875048",
       "size": 1737
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011009.json",
-      "hash": "d7746840a0e955d39bca1ab6e2fdc28b166a7a8c9c3f58f4bcef0e797a111281",
+      "hash": "92ebd0bcac5a15e7141602374797468cb30da34c89e3527ca29077fd617e373e",
       "size": 1711
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011011.json",
-      "hash": "f3c6217a31b70cafd24eba6c97ec073a5d7bc9f66c1cd5249474cb85266af267",
+      "hash": "fffffd08c6fb08c8fdec2cc73e6f6680f5bf430baa63374fd62ba5d5132e25e4",
       "size": 2087
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011012.json",
-      "hash": "86340e5b54995a6a76761e713a9937aa66373328e423b48f5344f1e12c7030d6",
+      "hash": "be94b4beea76bc07eaca8c9f99f21b84a290ed253595b470a811a40e5f84e116",
       "size": 2821
     },
     {
       "path": "assets/story/data/40/0011/storytimeline_400011013.json",
-      "hash": "b9c3d64d7933c3eaefbeb54ccd2f3e42e3e0a28937c0c817b760993dbe91b4bb",
+      "hash": "02d520f643a6e61bea1b047a764a478642e66f2da7a530dd95abc550a2a26030",
       "size": 2950
     },
     {
@@ -14975,8 +14975,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_header_turncounter00.json",
-      "hash": "82483bfaa25b7a6c8960adc7ab0dc34d176794f0174939090a8020c39b54cada",
-      "size": 2159
+      "hash": "ecca0bd54c90b5cd73c3d89ee22be484ebc811cf55f30e7473141c4f8b02e751",
+      "size": 2163
     },
     {
       "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_speech_bubble00.json",
@@ -15035,8 +15035,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_header_turncounter00.json",
-      "hash": "171e5c2a53e24341abcca55368a2632ba2d2ae2edd394ea59de2a3c80aa9bc36",
-      "size": 2273
+      "hash": "eba84ee4c877e52b4cac895fda3fa8203010bab86de3ff6f85a38fc3f08e2091",
+      "size": 2277
     },
     {
       "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_premonition00.json",
@@ -15065,8 +15065,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/free/pf_fl_singlemode_free_header_turncounter00.json",
-      "hash": "11c8b3e154f6e86799a03f840281ba01f43d97e89c5e2c5e45741fe3f5088542",
-      "size": 762
+      "hash": "f7bc7abd1aeb168921389d0ace789ac80ed33b5962c4091aa6973c1d419693e7",
+      "size": 766
     },
     {
       "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_btn_trainingmenu00.json",
@@ -15075,8 +15075,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_header_turncounter00.json",
-      "hash": "881a009354dc8f99fc8cd4358122c37d890ed0b08d57039bad3ce860de4f9f5d",
-      "size": 2157
+      "hash": "a323839424f42ef88e35577b7cfe54d7474148b5587d37763913d2b84216af5a",
+      "size": 2161
     },
     {
       "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_overdrive00.json",
@@ -15105,8 +15105,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_turncounter00.json",
-      "hash": "c73d6a5a95a32633cb43352a66365297735a5435e49f7d5955350825960fe350",
-      "size": 2160
+      "hash": "e7ca3551753c0df4d497b85dac94aa5ca93d1779ac8d8c632bebceecf8dcf17d",
+      "size": 2164
     },
     {
       "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_overdrive_recovery00.json",
@@ -15265,8 +15265,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter00.json",
-      "hash": "ae2bf69124c5da2ab0e9795e4b8fea7fe21107609b4928e73a65a41db1bb724a",
-      "size": 762
+      "hash": "2f6f77c78e79575e4e67787342f4e8cb0848120a834f4839202582390aab13f5",
+      "size": 766
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_hint00.json",
@@ -15340,8 +15340,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
-      "hash": "4266335bffe5ee7f9c7978b9c3a5edc079558cce0572114d26573edc56abc2e3",
-      "size": 1428
+      "hash": "743cf348e18d335e908c02d21751979a7f1cffff11cf6a6fd3721b0a0ab8b994",
+      "size": 1432
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_complete01.json",
@@ -15375,8 +15375,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_header_turncounter00.json",
-      "hash": "30ae893730368f95fe2e33ab6f508ec9e2998fab2ee60d2e49078b8e5e3193c5",
-      "size": 2161
+      "hash": "42d77157baeea4beb3fc94909a1f4479538b73924dd75c5dd4fbe3c0fc3866a8",
+      "size": 2165
     },
     {
       "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_remind_turn00.json",
@@ -15400,8 +15400,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/teamrace/pf_fl_singlemode_teamrace_header_turncounter00.json",
-      "hash": "3ff4297a9eb0c5d9bd90950059894b177edf6960867b7f5ef88b6b4d8c29b9e7",
-      "size": 2159
+      "hash": "6528e94a6416342e525d86e364316d76e9089b359ab8d5aef53df8ec8d43aec0",
+      "size": 2163
     },
     {
       "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_btn_trainingmenu00.json",
@@ -15410,23 +15410,23 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_header_turncounter00.json",
-      "hash": "c175b7f4cefb39e72a95f968e53d9e17430b55befa28c3bcda1357e9d16d4717",
-      "size": 2995
+      "hash": "68b5bbc216d224d434c00c5b864191e53acb1b879b0b3d25f6c86c677f87b374",
+      "size": 2999
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "752092fa7a9431884f9b55e9281f4b8ca10c478de8f70afba1390e5b5afcdffb",
-      "size": 227673
+      "hash": "fffa07b5e966500a3c6d96136f0319a84cb4ea36c86c2f97d6fda9084d4d140d",
+      "size": 229660
     },
     {
       "path": "config.json",
-      "hash": "6fb18352cca8e1920b90552c5028e4217136a635cf1b12d32ef55a9b788c3abe",
-      "size": 1566
+      "hash": "a6f79d7b006356be9650dbf11f9e565ac8c26dd06d31dd221993d4bf9281c5e9",
+      "size": 1745
     },
     {
       "path": "hashed_dict.json",
-      "hash": "e35f6713c925992efde2663d3827b76b0fa4918fcf46f4c5dde9200f5e655796",
-      "size": 6961
+      "hash": "4745f2dbb8e9f0efc57d3aa1428b30f60c37da65868ef3816c3acc4721fea8a8",
+      "size": 14287
     },
     {
       "path": "includes_android",
@@ -15439,19 +15439,14 @@
       "size": 1805441
     },
     {
-      "path": "includes_win_temp",
-      "hash": "426cb1cddc0dde712927361d43438ed9a502a0c1182aa08ef7aea9f3a09c9c18",
-      "size": 4309744
-    },
-    {
       "path": "localize_dict.json",
-      "hash": "c103723c0f365188cb9d3d19dd7a938900b5c15940903d86bccbe0c7f8b05b34",
-      "size": 301944
+      "hash": "5caa1e82e343740acee40ff99d9272127ab455543dacbecb180789dffe2d0e50",
+      "size": 422335
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "bb77c423443b3c50c14198524cf6b34768b2dc75f56a434227d673eb8d39b333",
-      "size": 23469
+      "hash": "eddc741caf58a671fcc1d8056c2061302a3cd384110491c3ba84dbb891c1579c",
+      "size": 29453
     },
     {
       "path": "race_jikkyo_message_dict.json",
@@ -15460,8 +15455,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "99389c2c3fa3a153c15265049f6319df49c7ded21852effa093f1e95d0936bae",
-      "size": 2618489
+      "hash": "3319360866d67bc76c200d9069515007a9b12373730ea9b65f080c1ea73de5c6",
+      "size": 2714615
     }
   ]
 }
