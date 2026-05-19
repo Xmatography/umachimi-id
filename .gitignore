@@ -7,3 +7,4 @@ __pycache__
 /.text_data_dict
 *.bak
 localized_data/assets/textures/chara/chr*/petit
+logs/

@@ -6,8 +6,8 @@
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
     "assets_dir": "assets",
-    "extra_asset_bundle": {"windows": "includes_win_temp", "android": "includes_android"},
-    "replacement_font_name": "assets/rwanpaku-umachimi880120750.otf",
+    "extra_asset_bundle": {"windows": "includes_win", "android": "includes_android"},
+    "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
 
     "plural_form": "n == 1 ? 0 : 1",
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
@@ -18,6 +18,7 @@
     "text_wrapper": 1,
     "use_text_wrapper": true,
     "line_width_multiplier": 1.95,
+    
 
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
@@ -25,11 +26,19 @@
     "text_frame_font_size_multiplier": 0.9,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": true,
+    
+    "skill_formatting": {
+        "name_length": 16,
+        "desc_length": 22,
+        "name_short_lines": 2,
+        "name_short_mult": 0.75,
+        "name_sp_mult": 0.7
+    },
 
     "remove_ruby": true,
     "character_note_top_gallery_button": {
         "text": "     Galeri\n  Event Karir",
-        "font_size": 38,
+        "font_size": 41,
         "line_spacing": 0.6
     },
     "character_note_top_talk_gallery_button": {
