@@ -47,7 +47,7 @@
             ]
         },
         {
-            "text": "Haaa. Whatever~. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
+            "text": "Haaa. Whatever～. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "Of course, gladly."
@@ -62,7 +62,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Hmmmm~, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
+            "text": "Hmmmm～, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "<size=42>We probably shouldn't go much further</size>"
@@ -73,7 +73,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to~?)",
+            "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to～?)",
             "name": "Hishi Miracle"
         },
         {
@@ -88,7 +88,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Uhh~~~……well, you see. It's just something \nthat I've been thinking about for a while now.",
+            "text": "Uhh～～～……well, you see. It's just something \nthat I've been thinking about for a while now.",
             "name": "Hishi Miracle"
         },
         {
@@ -167,7 +167,7 @@
             "name": "Hishi Miracle"
         },
         {
-            "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know~?",
+            "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know～?",
             "name": "Hishi Miracle",
             "choice_data_list": [
                 "Yeah, I was really happy"

@@ -27,7 +27,7 @@
             "name": "Mejiro Ramonu"
         },
         {
-            "text": "Oh, there you are~. Hey, did you hear? \nSeems like there's going to be a festival tonight.",
+            "text": "Oh, there you are～. Hey, did you hear? \nSeems like there's going to be a festival tonight.",
             "name": "Trainer Colleague",
             "choice_data_list": [
                 "Really?",
@@ -99,7 +99,7 @@
             "name": "Mejiro Ramonu"
         },
         {
-            "text": "Heeeeeey~, finished with training~? \nAbout the festival, what're you gonna do?",
+            "text": "Heeeeeey～, finished with training～? \nAbout the festival, what're you gonna do?",
             "name": "Trainer Colleague",
             "choice_data_list": [
                 "Sorry, I'll have to pass"
@@ -125,7 +125,7 @@
             "name": "Mejiro Ramonu"
         },
         {
-            "text": "Okay……! Then, next time when we get a chance~~!",
+            "text": "Okay……! Then, next time when we get a chance～～!",
             "name": "Trainer Colleague"
         },
         {
@@ -138,7 +138,7 @@
             "text": "In any case, this was probably fine. I wasn't invited so, \nI was thinking of just waiting for her nearby."
         },
         {
-            "text": "Aaaah~~! Ramonu-san! I've been waiting for you…… \nOh, that badge…… are you Ramonu-san's trainer!?",
+            "text": "Aaaah～～! Ramonu-san! I've been waiting for you…… \nOh, that badge…… are you Ramonu-san's trainer!?",
             "name": "Ramonu Fan"
         },
         {

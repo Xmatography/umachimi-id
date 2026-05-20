@@ -55,7 +55,7 @@
         },
         {
             "name": "Umamusume",
-            "text": "Huh~ Kura-chan, what are you doing? \nOh, what's this? Some kind of event?"
+            "text": "Huh～ Kura-chan, what are you doing? \nOh, what's this? Some kind of event?"
         },
         {
             "name": "Satono Crown",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Umamusume D",
-            "text": "And did you hear? In the next mock race, she'll \nbe racing against that Crown-san. A showdown between \nelites, huh!? Uwaaah~ who's gonna win~?"
+            "text": "And did you hear? In the next mock race, she'll \nbe racing against that Crown-san. A showdown between \nelites, huh!? Uwaaah～ who's gonna win～?"
         },
         {
             "name": "Satono Crown",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "It was that time! Uwaaah, I've gone and done it now~!!"
+            "text": "It was that time! Uwaaah, I've gone and done it now～!!"
         }
     ]
 }

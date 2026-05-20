@@ -78,7 +78,7 @@
         },
         {
             "name": "Buena Kecil",
-            "text": "Hiks, uuu~…! Sakit, ya? Sulit, ya…? Dari tadi\nbatuk terus… dan juga demam… uuu~…",
+            "text": "Hiks, uuu～…! Sakit, ya? Sulit, ya…? Dari tadi\nbatuk terus… dan juga demam… uuu～…",
             "choice_data_list": [
                 "Aku baik-baik saja kok, Buena.",
                 "Aku baik-baik saja kok, Buena."
@@ -106,7 +106,7 @@
         },
         {
             "name": "<size=32>Trainer dari Klub</size>",
-            "text": "Oke, kalau begitu! Lomba simulasinya kita mulai, ya~! Semuanya\nsudah siap, kan? Kalau begitu, bersiap… mulai!!"
+            "text": "Oke, kalau begitu! Lomba simulasinya kita mulai, ya～! Semuanya\nsudah siap, kan? Kalau begitu, bersiap… mulai!!"
         },
         {
             "name": "Buena Kecil",

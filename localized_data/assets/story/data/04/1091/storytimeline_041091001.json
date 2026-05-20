@@ -12,7 +12,7 @@
         },
         {
             "name": "A Certain Young Umamusume",
-            "text": "『Papa, Mama! I really like it here! \nI'm……gonna live here~~!』"
+            "text": "『Papa, Mama! I really like it here! \nI'm……gonna live here～～!』"
         },
         {
             "text": "On a day off, I just felt like walking around town……and a \ncar stopped right in front of me. From what I could tell, \nit seemed to be a really expensive one. And from inside――"
@@ -23,7 +23,7 @@
         },
         {
             "name": "???",
-            "text": "I'm serious though? Do your best at work, come and \nmeet me again soon! I love you Mama~ chuu! Bye bye♪",
+            "text": "I'm serious though? Do your best at work, come and \nmeet me again soon! I love you Mama～ chuu! Bye bye♪",
             "choice_data_list": [
                 "(She seems really glitzy……)"
             ]
@@ -38,7 +38,7 @@
         },
         {
             "name": "???",
-            "text": "You~! \nYou're a trainer from the academy, right?",
+            "text": "You～! \nYou're a trainer from the academy, right?",
             "choice_data_list": [
                 "I am……"
             ]
@@ -51,7 +51,7 @@
         },
         {
             "name": "???",
-            "text": "Nope! You see, lately~, \nI've been checking out all the trainers!",
+            "text": "Nope! You see, lately～, \nI've been checking out all the trainers!",
             "choice_data_list": [
                 "Checking out?"
             ]
@@ -80,7 +80,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "So that's not a no, right? Then that means it's okay! \nAnd that's that♪ This way, this way~!",
+            "text": "So that's not a no, right? Then that means it's okay! \nAnd that's that♪ This way, this way～!",
             "choice_data_list": [
                 "Ah……!"
             ]
@@ -90,7 +90,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Kyaa~, that shoulder bag is so cute! \nHey, isn't it really great?",
+            "text": "Kyaa～, that shoulder bag is so cute! \nHey, isn't it really great?",
             "choice_data_list": [
                 "(I-isn't this super high-end……!?)",
                 "(I-isn't this super high-end……!?)"
@@ -113,11 +113,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, Celebs! Isn't it great and isn't it cool!? It's fabulous \nand everyone wants them! I want to become a Celeb real soon~♪"
+            "text": "Yeah, Celebs! Isn't it great and isn't it cool!? It's fabulous \nand everyone wants them! I want to become a Celeb real soon～♪"
         },
         {
             "name": "Vivlos",
-            "text": "And~, that bag, I think it fits me perfectly! \nLet's go look closer, Trainer-san! C'mon, this way~!"
+            "text": "And～, that bag, I think it fits me perfectly! \nLet's go look closer, Trainer-san! C'mon, this way～!"
         },
         {
             "text": "Apparently, Vivlos really loved acting like a celeb, \nand when we entered a different store……",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Thank you very much! Hmmm~ as I thought, it's \nso cute! But……looking at it, it might be too \nbig. Looks like the waist will be really loose."
+            "text": "Thank you very much! Hmmm～ as I thought, it's \nso cute! But……looking at it, it might be too \nbig. Looks like the waist will be really loose."
         },
         {
             "name": "Shop Assistant",
@@ -146,11 +146,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "『It looks good on you!』 or maybe~, 『It looks cute!』 or something♡ \nMake sure you're ready for that, okay!?"
+            "text": "『It looks good on you!』 or maybe～, 『It looks cute!』 or something♡ \nMake sure you're ready for that, okay!?"
         },
         {
             "name": "Vivlos",
-            "text": "Mmmmm~……so sweet~♪ \nThanks for the treat, Trainer-san!",
+            "text": "Mmmmm～……so sweet～♪ \nThanks for the treat, Trainer-san!",
             "choice_data_list": [
                 "Well, this isn't a big deal……"
             ]
@@ -184,7 +184,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Haaa~, that was fun~♪ \nThanks, Trainer-san.",
+            "text": "Haaa～, that was fun～♪ \nThanks, Trainer-san.",
             "choice_data_list": [
                 "(I-I'm exhausted……)"
             ]
@@ -209,7 +209,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ehehe, as expected of my Onee-chan! \nSuper famous~. A real Celeb♪",
+            "text": "Ehehe, as expected of my Onee-chan! \nSuper famous～. A real Celeb♪",
             "choice_data_list": [
                 "Onee-chan? Which means……"
             ]
@@ -234,7 +234,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "It was a real coincidence that I happened to bump in to the person \nI was thinking of~, and I spent the whole day investigating!"
+            "text": "It was a real coincidence that I happened to bump in to the person \nI was thinking of～, and I spent the whole day investigating!"
         },
         {
             "name": "Vivlos",
@@ -249,7 +249,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Together with you――I'm going to Dubai~~♪"
+            "text": "Together with you――I'm going to Dubai～～♪"
         }
     ]
 }

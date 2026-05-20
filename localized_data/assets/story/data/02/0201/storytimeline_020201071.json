@@ -21,7 +21,7 @@
             "name": "Penyiar"
         },
         {
-            "text": "Uwaah~! Serius!? Itu juga waktu rekor kan!? Keren banget~~……!!",
+            "text": "Uwaah～! Serius!? Itu juga waktu rekor kan!? Keren banget～～……!!",
             "name": "Umamusume Aw"
         },
         {
@@ -53,7 +53,7 @@
             "name": "MC"
         },
         {
-            "text": "Hari ini, kita kedatangan pelatih <Ascella>!\nTrainer-san, untuk 『Oka Sho』 yang bakal datang, apa saran yang udah dikasih ke mereka!?",
+            "text": "Hari ini, kita kedatangan Trainer <Ascella>!\nTrainer-san, untuk 『Oka Sho』 yang bakal datang, apa saran yang udah dikasih ke mereka!?",
             "name": "MC",
             "choice_data_list": [
                 "……Yah, itu――"
@@ -298,7 +298,7 @@
             "text": "Maaf datang nggak diundang.\n……Trainer, kelihatan pucat? Kalian oke?",
             "name": "Cesario",
             "choice_data_list": [
-                "Y-iya~, nggak, ummmmm……"
+                "Y-iya～, nggak, ummmmm……"
             ]
         },
         {
@@ -306,7 +306,7 @@
             "name": "Rhein Kraft"
         },
         {
-            "text": "Prank berhasil~!",
+            "text": "Prank berhasil～!",
             "name": "Kraft&Cesario",
             "choice_data_list": [
                 "………………eh?"

@@ -16,7 +16,7 @@
             ]
         },
         {
-            "text": "You're studying on your days off too!? \n……Haa~, sounds like being a trainer is pretty rough.",
+            "text": "You're studying on your days off too!? \n……Haa～, sounds like being a trainer is pretty rough.",
             "name": "Katsuragi Ace",
             "choice_data_list": [
                 "Well, it's not work-related though――"
@@ -47,7 +47,7 @@
             "name": "Young Ace"
         },
         {
-            "text": "There, go for it, go for it! \nWaahaaha! You were really fast, huh~.",
+            "text": "There, go for it, go for it! \nWaahaaha! You were really fast, huh～.",
             "name": "Neighborly Old Man"
         },
         {
@@ -149,7 +149,7 @@
             "text": "Several days later――"
         },
         {
-            "text": "……Hmmm~, like this, there's too much leftover. \nWhen thinning these out, it's fine to go rougher!",
+            "text": "……Hmmm～, like this, there's too much leftover. \nWhen thinning these out, it's fine to go rougher!",
             "name": "Katsuragi Ace",
             "choice_data_list": [
                 "I-is that so……?",
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "text": "Alright! Guess that's about it for this spot. \n……Trainer-san! How's it looking over there~?",
+            "text": "Alright! Guess that's about it for this spot. \n……Trainer-san! How's it looking over there～?",
             "name": "Katsuragi Ace",
             "choice_data_list": [
                 "W-with just a bit more time……!"
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "text": "Hm? ……Oooh, awesome! Did you do this entire line!? The balance \nis perfect. Trainer-san you're a pretty quick learner, huh~.",
+            "text": "Hm? ……Oooh, awesome! Did you do this entire line!? The balance \nis perfect. Trainer-san you're a pretty quick learner, huh～.",
             "name": "Katsuragi Ace"
         },
         {
@@ -184,7 +184,7 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "Hahaa, seems like you're a little lacking here, huh~!",
+            "text": "Hahaa, seems like you're a little lacking here, huh～!",
             "name": "Katsuragi Ace"
         },
         {
@@ -192,11 +192,11 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "――And you see, on those leaves was another caterpillar, \nbut, this time Trainer-san got it and released \nit themself without so much as a peep~.",
+            "text": "――And you see, on those leaves was another caterpillar, \nbut, this time Trainer-san got it and released \nit themself without so much as a peep～.",
             "name": "Katsuragi Ace"
         },
         {
-            "text": "『Oh~ isn't that amazing!? Last time you told \nme they just fell all over themself, too』",
+            "text": "『Oh～ isn't that amazing!? Last time you told \nme they just fell all over themself, too』",
             "name": "Ace's Mom"
         },
         {
@@ -204,7 +204,7 @@
             "name": "Ace's Mom"
         },
         {
-            "text": "『Guess it really is better to work the fields \ntogether with someone, huh~. I'd be really \nlonely if I was alone too, you know!』",
+            "text": "『Guess it really is better to work the fields \ntogether with someone, huh～. I'd be really \nlonely if I was alone too, you know!』",
             "name": "Ace's Mom"
         },
         {
@@ -212,7 +212,7 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "Alright, before Trainer-san gets here, \nguess I'll do a quick check for bugs~……oh, ah.",
+            "text": "Alright, before Trainer-san gets here, \nguess I'll do a quick check for bugs～……oh, ah.",
             "name": "Katsuragi Ace",
             "choice_data_list": [
                 "M-morning, Ace! It's cold today, huh",

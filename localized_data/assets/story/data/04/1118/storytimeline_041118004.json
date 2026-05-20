@@ -1,13 +1,13 @@
 {
     "text_block_list": [
         {
-            "text": "――Sejak saat itu, aku terus memikirkan makna perkataan Neo Universe."
+            "text": "――Sejak saat itu,\naku terus memikirkan makna perkataan Neo Universe."
         },
         {
             "text": "\"Jendela\" milikmu adalah―― \"Pemulihan\"…….\n\"Jendela\" Admire Groove adalah―― \"Kehilangan\"……."
         },
         {
-            "text": "Jujur saja, aku tak mengerti apa maksudnya.\nBegitu pula dengan mimpi misterius yang kualami \nbersamaan dengan Admire Groove.",
+            "text": "Jujur saja, aku tak mengerti apa maksudnya.\nBegitu pula dengan mimpi misterius yang kualami bersamaan\ndengan Admire Groove.",
             "choice_data_list": [
                 "……Tapi――"
             ]
@@ -18,38 +18,38 @@
         {
             "text": "Mimpi buruk tentang Still in Love yang terus berulang.\nJika dia tersiksa oleh hal itu――",
             "choice_data_list": [
-                "<size=35>(Pertama-tama…… singkirkan penyebabnya!)</size>"
+                "<size=39>(Pertama-tama…… singkirkan penyebabnya!)</size>"
             ]
         },
         {
             "text": "……Ada perlu apa kali ini?\nMembawa setumpuk dokumen begini…… tentang Still-san.",
             "choice_data_list": [
-                "<size=35>Kalau kau berniat melawannya, bacalah ini</size>"
+                "<size=40>Kalau kau berniat melawannya, bacalah ini</size>"
             ]
         },
         {
-            "text": "(……Orang ini tahu kalau aku pernah bertarung dengannya…….\nEntah kenapa dia juga tahu kalau lawanku di mimpi buruk adalah dia……)",
+            "text": "(……Orang ini tahu kalau aku pernah bertarung dengannya…….\nEntah kenapa dia tahu kalau lawanku di mimpi buruk adalah dia…)",
             "choice_data_list": [
                 "Buang saja kalau dirasa tak berguna"
             ]
         },
         {
-            "text": "……Baiklah.\nTapi…… tolong ini yang terakhir kalinya kau ikut campur urusanku."
+            "text": "……Baiklah.\nTapi… tolong ini yang terakhir kalinya kau ikut campur urusanku."
         },
         {
             "text": "――Ini…… data ini…….\nAntara aku dan…… dia……?",
             "choice_data_list": [
-                "<size=26>Itu perbandingan kekuatan saat ini, termasuk perkembangannya</size>",
-                "<size=26>Itu perbandingan kekuatan saat ini, termasuk perkembangannya</size>"
+                "<size=27>Itu perbandingan kekuatan saat ini, termasuk perkembangannya</size>",
+                "<size=27>Itu perbandingan kekuatan saat ini, termasuk perkembangannya</size>"
             ]
         },
         {
-            "text": "Seharusnya hampir tak ada data resmi miliknya seperti catatan waktu.\n……Apa kau terus mengikutinya untuk mengukur data sebanyak ini?"
+            "text": "Harusnya hampir tak ada data resmi miliknya seperti catatan waktu.\n……Apa kau terus mengikutinya untuk mengukur data sebanyak ini?"
         },
         {
             "text": "……Lagipula, dia berkembang sangat pesat\nsebulan terakhir ini……. Apa mungkin ada pemicunya……?",
             "choice_data_list": [
-                "<size=38>Entahlah. Mungkin lingkungannya berubah</size>"
+                "<size=40>Entahlah. Mungkin lingkungannya berubah</size>"
             ]
         },
         {
@@ -61,23 +61,23 @@
         {
             "text": "……Maksudmu, aku harus mengubah strategi.",
             "choice_data_list": [
-                "<size=35>Ya, menurutku kau harus pakai strategi 'Late'</size>",
-                "<size=35>Ya, menurutku kau harus pakai strategi 'Late'</size>"
+                "<size=38>Ya, menurutku kau harus pakai strategi 'Late'</size>",
+                "<size=38>Ya, menurutku kau harus pakai strategi 'Late'</size>"
             ]
         },
         {
-            "text": "(――Pace yang hancur karena hilangnya fokus……\nHanya dari melihat balapan tanpa rekaman itu,\ndia bisa menganalisis sedetail ini……)"
+            "text": "(――Pace yang hancur karena hilangnya fokus……\nHanya dari melihat balapan tanpa rekaman itu, dia bisa menganalisis sedetail ini……)"
         },
         {
             "text": "(Kalau berlari di depan, kemungkinan besar akan tertekan.\nJadi strateginya menyalip sekaligus dari belakang agar hal itu tak terjadi…… ya)"
         },
         {
-            "text": "(……Memang benar. Waktu di mana rasanya ada taring mengincar leher,\nlebih baik dipersingkat meski hanya sedetik)"
+            "text": "(Memang benar. Waktu di mana rasanya ada taring mengincar leher,\nlebih baik dipersingkat meski hanya sedetik)"
         },
         {
-            "text": "Tapi untuk melakukannya, aku harus lebih menahan\npace di paruh awal, dan butuh tenaga kaki yang cukup\nuntuk menyalipnya yang terus berkembang.",
+            "text": "Tapi untuk melakukannya, aku harus menahan pace di paruh awal,\ndan butuh tenaga kaki yang cukup untuk menyalipnya yang\nterus berkembang.",
             "choice_data_list": [
-                "<size=34>Aku sudah menyusun semua menu latihannya</size>"
+                "<size=38>Aku sudah menyusun semua menu latihannya</size>"
             ]
         },
         {
@@ -90,8 +90,8 @@
         {
             "text": "Tapi―― kau bukan pelatihku.\nKau tak punya kewajiban atau alasan untuk melakukan ini.",
             "choice_data_list": [
-                "<size=30>Itu tak penting. Kau mau ikut rencanaku atau tidak</size>",
-                "<size=30>Itu tak penting. Kau mau ikut rencanaku atau tidak</size>"
+                "<size=35>Itu tak penting. Kau mau ikut rencanaku atau tidak</size>",
+                "<size=35>Itu tak penting. Kau mau ikut rencanaku atau tidak</size>"
             ]
         },
         {
@@ -115,7 +115,7 @@
         {
             "text": "……AhahahahaHAHAhaha!!\nLagi, lagiii!! Mari kita bersenang-senang!?",
             "choice_data_list": [
-                "Atmosfernya berubah drastis……!?"
+                "Auranya berubah drastis……!?"
             ]
         },
         {
@@ -139,8 +139,8 @@
         {
             "text": "……Sepertinya dia ingin menyelesaikannya di Triple Tiara.\nApa dia berniat…… mewujudkan ulang mimpi buruk itu?",
             "choice_data_list": [
-                "<size=38>(Sesuai dugaan, penentuannya di Tiara ya)</size>",
-                "<size=38>(Sesuai dugaan, penentuannya di Tiara ya)</size>"
+                "<size=40>(Sesuai dugaan, penentuannya di Tiara ya)</size>",
+                "<size=40>(Sesuai dugaan, penentuannya di Tiara ya)</size>"
             ]
         },
         {
@@ -153,16 +153,17 @@
             ]
         },
         {
+            "text": "……？",
             "choice_data_list": [
-                "Mau menjadikanku sebagai pengumpul data dan analis?",
-                "Mau menjadikanku sebagai pengumpul data dan analis?"
+                "Mau menjadikanku sebagai analis data?",
+                "Mau menjadikanku sebagai analis data?"
             ]
         },
         {
             "text": "Itu―― maksudnya, kau ingin mengikat kontrak denganku?"
         },
         {
-            "text": "(……Kemampuannya sebagai pelatih memang nyata…….\nDia juga paham seberapa berbahayanya Still in Love……)"
+            "text": "(……Kemampuannya sebagai Trainer memang nyata…….\nDia juga paham seberapa berbahayanya Still in Love……)"
         },
         {
             "text": "……Sekadar mengingatkan, aku hanya mencari keuntungan.\nHubungan yang terlalu akrab…… itu tidak perlu."
@@ -176,26 +177,27 @@
         {
             "text": "……?",
             "choice_data_list": [
-                "<size=32>Kalau targetmu cuma buat beresin urusan sama dia,</size>",
-                "<size=32>Kalau targetmu cuma buat beresin urusan sama dia,</size>"
+                "<size=34>Kalau targetmu cuma buat beresin urusan sama dia</size>",
+                "<size=34>Kalau targetmu cuma buat beresin urusan sama dia</size>"
             ]
         },
         {
+            "text": "……。",
             "choice_data_list": [
-                "<size=34>Kontrak ini hanya sampai saat itu pun tak apa</size>"
+                "<size=38>Kontrak ini hanya sampai saat itu pun tak apa</size>"
             ]
         },
         {
             "text": "……Ya, benar. Itu yang kuharapkan."
         },
         {
-            "text": "Tujuannya―― memenangkan pertarungan melawannya.\nJangka waktunya―― sampai ajang Triple Tiara yang ia tentukan berakhir."
+            "text": "Tujuannya―― memenangkan pertarungan melawannya.\nJangka waktunya― sampai Triple Tiara yang ia tentukan berakhir."
         },
         {
             "text": "……Mari kita sepakati. Kontrak sesaat――\nsampai aku bisa menyelesaikan urusanku dengannya."
         },
         {
-            "text": "――Itulah kontrak pertamaku dengan\nsang Uma Musume Bermata Es."
+            "text": "―Itulah kontrak pertamaku dengan sang Umamusume Bermata Es."
         },
         {
             "text": "Dia, demi mengalahkan Still in Love.\nDan aku…… demi tidak membiarkannya bertarung sendirian."
@@ -213,7 +215,7 @@
             "text": "――Ah, lupakan saja.\nAnggap aku tak pernah bertanya."
         },
         {
-            "text": "――\"Jendela\" \"Pemulihan\"…… Konsentrasi \"Ether\", meningkat.\nStatus \"Observasi\"…… dipertahankan."
+            "text": "――\"Jendela\" \"Pemulihan\"… Konsentrasi \"Ether\", meningkat.\nStatus \"Observasi\"…… dipertahankan."
         },
         {
             "text": "Admire Groove…… semoga bisa…… \"Pulih\"."

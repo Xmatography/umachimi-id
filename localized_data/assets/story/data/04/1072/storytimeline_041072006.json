@@ -123,7 +123,7 @@
             "name": "Yaeno Muteki"
         },
         {
-            "text": "Baaaaaaa~! Eehiihii, were you scared?",
+            "text": "Baaaaaaa～! Eehiihii, were you scared?",
             "name": "Monster?"
         },
         {
@@ -131,10 +131,10 @@
             "name": "Yaeno Muteki"
         },
         {
-            "text": "Ueeeeehh~!?!?",
+            "text": "Ueeeeehh～!?!?",
             "name": "Monster?",
             "choice_data_list": [
-                "Wait wait stop~!"
+                "Wait wait stop～!"
             ]
         },
         {

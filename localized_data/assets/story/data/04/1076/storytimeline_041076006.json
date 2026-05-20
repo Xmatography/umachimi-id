@@ -5,7 +5,7 @@
             "text": "A day off――I was planning on heading out \nsomewhere when I spotted Sakura Laurel."
         },
         {
-            "text": "『Good morning, Victory~♪ \nSalutations, Full of energy, Today's also A-okay~♪』",
+            "text": "『Good morning, Victory～♪ \nSalutations, Full of energy, Today's also A-okay～♪』",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "Sounds like fun, going somewhere?",
@@ -50,7 +50,7 @@
             "text": "Tall ceilings with large windows to let in a lot of light―― \nThat's what this style was developed for.",
             "name": "Sakura Laurel",
             "choice_data_list": [
-                "Ooooh~! What else?"
+                "Ooooh～! What else?"
             ]
         },
         {
@@ -132,11 +132,11 @@
             "text": "Though I said that……the menu is very French indeed. \nHonestly, it all looks like gibberish to me……!"
         },
         {
-            "text": "I wonder what I should get today~. \nMaybe bourguignon?",
+            "text": "I wonder what I should get today～. \nMaybe bourguignon?",
             "name": "Sakura Laurel"
         },
         {
-            "text": "Trainer-san, what about――……Ooooh, do you prefer delicacies? \nThat section is almost all French food. You've got quite the eye~!",
+            "text": "Trainer-san, what about――……Ooooh, do you prefer delicacies? \nThat section is almost all French food. You've got quite the eye～!",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "Y-yeah!",
@@ -147,14 +147,14 @@
             "text": "I was initially intimidated when she pointed that out \nbut, that means it should be the best parts of French \ncuisine. I'll take it as a challenge and try it out!"
         },
         {
-            "text": "Sorry for the wait~. \nThis is the andouillette and the Roquefort salad.",
+            "text": "Sorry for the wait～. \nThis is the andouillette and the Roquefort salad.",
             "name": "Cafe Staff"
         },
         {
             "text": "These delicacies were more impressive than I expected……! \nA unique-looking sausage and blue cheese……I couldn't help \nbut feel lost when faced with unfamiliar ingredients."
         },
         {
-            "text": "Wah~ it looks delicious! Thanks for the meal!",
+            "text": "Wah～ it looks delicious! Thanks for the meal!",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "T-thanks for the meal――……!?"
@@ -189,7 +189,7 @@
             "text": "I tried what she said――the mustard did a good job masking \nthe pungent scent……the taste was strong but it was tasty!"
         },
         {
-            "text": "Next I'll explain the salad~! \nFirst, try eating one of those purple leaves.",
+            "text": "Next I'll explain the salad～! \nFirst, try eating one of those purple leaves.",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "Okay! ……Bitter!",
@@ -197,7 +197,7 @@
             ]
         },
         {
-            "text": "Ahahahaa, isn't it~!? Now, with that bitter taste in your mouth, \nwhat happens when you add a little bit of that dressing~?",
+            "text": "Ahahahaa, isn't it～!? Now, with that bitter taste in your mouth, \nwhat happens when you add a little bit of that dressing～?",
             "name": "Sakura Laurel",
             "choice_data_list": [
                 "It's good!!"

@@ -20,14 +20,14 @@
         },
         {
             "name": "Carefree Umamusume",
-            "text": "Eh, ah……no! I'm totally fine. \nI was just sunbathing~……",
+            "text": "Eh, ah……no! I'm totally fine. \nI was just sunbathing～……",
             "choice_data_list": [
                 "S-sunbathing……?"
             ]
         },
         {
             "name": "Carefree Umamusume",
-            "text": "Mmmmm~~……sorry for confusing you. \nEhehe, thanks for worrying about me.",
+            "text": "Mmmmm～～……sorry for confusing you. \nEhehe, thanks for worrying about me.",
             "choice_data_list": [
                 "No, I'm glad it was nothing serious"
             ]
@@ -62,7 +62,7 @@
         },
         {
             "name": "Carefree Umamusume",
-            "text": "Howaaa……it's so warm, huh~……"
+            "text": "Howaaa……it's so warm, huh～……"
         },
         {
             "text": "I woke up a short while later. \nMy whole body felt warm and refreshed."
@@ -95,7 +95,7 @@
         },
         {
             "name": "Carefree Umamusume",
-            "text": "There are always a bunch of families here so it's always lively. \nFufuu, there are so many kids around, they're all so cute~.",
+            "text": "There are always a bunch of families here so it's always lively. \nFufuu, there are so many kids around, they're all so cute～.",
             "choice_data_list": [
                 "It's heartwarming",
                 "It's heartwarming"
@@ -127,7 +127,7 @@
         },
         {
             "name": "Carefree Umamusume",
-            "text": "But, it's really wide open here. Maybe we should walk a \nlap and look……Wah, over there, there's alot of big flowers~!"
+            "text": "But, it's really wide open here. Maybe we should walk a \nlap and look……Wah, over there, there's alot of big flowers～!"
         },
         {
             "text": "And like that, we took our time wandering around……before I \nrealized it, because of her, I was feeling fully refreshed."
@@ -142,7 +142,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "I-I just realized it, but……! Are you a trainer at the academy? \nI'm also a student at Tracen Academy~!",
+            "text": "I-I just realized it, but……! Are you a trainer at the academy? \nI'm also a student at Tracen Academy～!",
             "choice_data_list": [
                 "You are?",
                 "You are?"
@@ -150,7 +150,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "Ehehe, I haven't debuted yet so I guess it's not \nsurprising you didn't know. Besides, at school there's \nalready lots of other flashy more famous Umamusume~."
+            "text": "Ehehe, I haven't debuted yet so I guess it's not \nsurprising you didn't know. Besides, at school there's \nalready lots of other flashy more famous Umamusume～."
         },
         {
             "name": "Rhein Kraft",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Rhein Kraft",
-            "text": "They're all so beautiful and dignified! It's like \na dream that I can go to the same school as them…… \nI can't help but get excited when I walk by them~!",
+            "text": "They're all so beautiful and dignified! It's like \na dream that I can go to the same school as them…… \nI can't help but get excited when I walk by them～!",
             "choice_data_list": [
                 "You're aiming for the Tiara too?",
                 "You're aiming for the Tiara too?"

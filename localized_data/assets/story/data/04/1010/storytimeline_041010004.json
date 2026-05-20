@@ -11,7 +11,7 @@
             "text": "And so, I headed to the training course. \nTaiki Shuttle was standing there and looked really depressed…"
         },
         {
-            "text": "Uu… \nUuuuUuu~…!",
+            "text": "Uu… \nUuuuUuu～…!",
             "name": "Taiki Shuttle",
             "choice_data_list": [
                 "Taiki, sorry I'm so late!",
@@ -196,7 +196,7 @@
             "name": "Mejiro Dober"
         },
         {
-            "text": "Doberrrrrrr~~~!!",
+            "text": "Doberrrrrrr～～～!!",
             "name": "Taiki Shuttle"
         },
         {
@@ -210,7 +210,7 @@
             "text": "…looks like Taiki Shuttle still \nhas a long, long way to go."
         },
         {
-            "text": "Oh, sorry~☆",
+            "text": "Oh, sorry～☆",
             "name": "Taiki Shuttle"
         }
     ]

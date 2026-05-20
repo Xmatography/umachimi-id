@@ -14,7 +14,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "No way~! You're wrong! \nBesides, Trainer-san is a really nice person, you know?"
+            "text": "No way～! You're wrong! \nBesides, Trainer-san is a really nice person, you know?"
         },
         {
             "name": "Vivlos",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "I'll be doing my real best! So don't miss a thing, okay? \nMake sure you're only looking at me~!"
+            "text": "I'll be doing my real best! So don't miss a thing, okay? \nMake sure you're only looking at me～!"
         },
         {
             "text": "And then, the mock race that Vivlos \nwas participating in began, however――"
@@ -102,7 +102,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ehehee, Tore-cchi~~~~! \nI'm amazing, aren't Iーーーー!"
+            "text": "Ehehee, Tore-cchi～～～～! \nI'm amazing, aren't Iーーーー!"
         },
         {
             "text": "As she pushed through the other Umamusume in the straight, \nshe took a dominant position. It was no contest――",
@@ -144,7 +144,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Tore-cchi~~~~! \nYou were talking with Chevacchi just now weren't you!?",
+            "text": "Tore-cchi～～～～! \nYou were talking with Chevacchi just now weren't you!?",
             "choice_data_list": [
                 "(Tore-cchi and now Chevacchi……)"
             ]
@@ -170,7 +170,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ain't that right~♪ \nThen, you'll be my trainer right?",
+            "text": "Ain't that right～♪ \nThen, you'll be my trainer right?",
             "choice_data_list": [
                 "Well……"
             ]
@@ -185,7 +185,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Hmmmm~…… \nTore-cchi, what do you want to know?"
+            "text": "Hmmmm～…… \nTore-cchi, what do you want to know?"
         },
         {
             "text": "After seeing her abilities, the other thing I wanted \nto know about was her \"dream\". Like what was she aiming \nfor, why was she running? The only keyword was……",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "You've seen races in Dubai, right? They're so sparkly, \nand there are so many Celebs, right? It's the best~",
+            "text": "You've seen races in Dubai, right? They're so sparkly, \nand there are so many Celebs, right? It's the best～",
             "choice_data_list": [
                 "……Is that it?"
             ]
@@ -211,7 +211,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "……Trainer-san, you want to know more right? \nYou can ask me anything! Ah, but who I like is~ a secret♡",
+            "text": "……Trainer-san, you want to know more right? \nYou can ask me anything! Ah, but who I like is～ a secret♡",
             "choice_data_list": [
                 "(I know her dream, then after this……)"
             ]
@@ -232,7 +232,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eeeeh!? \nBut whyyy~~~~!?"
+            "text": "Eeeeh!? \nBut whyyy～～～～!?"
         }
     ]
 }

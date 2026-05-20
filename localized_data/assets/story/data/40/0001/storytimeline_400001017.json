@@ -41,7 +41,7 @@
         },
         {
             "name": "Pengunjung A",
-            "text": "Hmm, apa pertumbuhannya mandek?\nAyo dong tunjukkan yang terbaik~ Trainer yang bertanggung jawab…"
+            "text": "Hmm, apa pertumbuhannya mandek?\nAyo dong tunjukkan yang terbaik～ Trainer yang bertanggung jawab…"
         },
         {
             "name": "",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Happy Meek",
-            "text": "Permisi ........~",
+            "text": "Permisi ........～",
             "choice_data_list": [
                 "Meek , Tumbern Sendiri ?..",
                 "Meek , Tumbern Sendiri ?.."
@@ -120,10 +120,10 @@
         },
         {
             "name": "Happy Meek",
-            "text": "………Jadi, aku tidak tahu harus berbuat apa...~"
+            "text": "………Jadi, aku tidak tahu harus berbuat apa...～"
         },
         {
-            "text": "Happy Meek tampak begitu murung.\nTapi memang, ini cerita yang khas dari\nPelatih Kirishien yang serius dan sangat menyayangi Umamusume binaannya",
+            "text": "Happy Meek tampak begitu murung.\nTapi memang, ini cerita yang khas dari\nTrainer Kirishien yang serius dan sangat menyayangi Umamusume binaannya",
             "name": ""
         },
         {
@@ -216,7 +216,7 @@
         },
         {
             "name": "Trainer Kiryuin",
-            "text": "Y...Ya?~~",
+            "text": "Y...Ya?～～",
             "choice_data_list": [
                 "Kamu yakin beban ini tanggung sendirian?"
             ]
@@ -231,7 +231,7 @@
         },
         {
             "name": "Trainer Kiryuin",
-            "text": "...Meek?~ (mata berkaca-kaca)"
+            "text": "...Meek?～ (mata berkaca-kaca)"
         },
         {
             "name": "Happy Meek",
@@ -255,7 +255,7 @@
         },
         {
             "name": "Trainer Kiryuin",
-            "text": "Meek .......~"
+            "text": "Meek .......～"
         },
         {
             "name": "Trainer Kiryuin",

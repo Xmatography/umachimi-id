@@ -6,7 +6,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Oh, it's Tore-cchi? Yohoo yohoo~♡ \nTore-cchi, are you doing some shopping??",
+            "text": "Oh, it's Tore-cchi? Yohoo yohoo～♡ \nTore-cchi, are you doing some shopping??",
             "choice_data_list": [
                 "No, just killing some time",
                 "No, just killing some time"
@@ -14,7 +14,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eeeeh~! Even though it's a day off? \nJust walking around is a real waste!"
+            "text": "Eeeeh～! Even though it's a day off? \nJust walking around is a real waste!"
         },
         {
             "name": "Vivlos",
@@ -37,7 +37,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eeeh! Tore-cchi, it'll look good on you though~. Ah, then how \nabout that!? It looks like something you could use everyday so――"
+            "text": "Eeeh! Tore-cchi, it'll look good on you though～. Ah, then how \nabout that!? It looks like something you could use everyday so――"
         },
         {
             "name": "Vivlos",
@@ -48,14 +48,14 @@
         },
         {
             "name": "Vivlos",
-            "text": "Awwww! They said the new smart phone is all sold out. It has all \nthe latest functionality and I wanted to recommend it though~."
+            "text": "Awwww! They said the new smart phone is all sold out. It has all \nthe latest functionality and I wanted to recommend it though～."
         },
         {
             "text": "After that we kept looking around but, nothing caught \nmy eye so I ended up not buying anything――"
         },
         {
             "name": "Vivlos",
-            "text": "Tadaaaa!! We're here! It's the street market~!"
+            "text": "Tadaaaa!! We're here! It's the street market～!"
         },
         {
             "name": "Vivlos",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Anyways, we should probably hurry or everything \nmight be sold out too!? Tore-cchi, hurry, hurry~!!",
+            "text": "Anyways, we should probably hurry or everything \nmight be sold out too!? Tore-cchi, hurry, hurry～!!",
             "choice_data_list": [
                 "W-wah!? Wait a――"
             ]
@@ -77,11 +77,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eh? ……Ah~~~~~~!?!?"
+            "text": "Eh? ……Ah～～～～～～!?!?"
         },
         {
             "name": "Vivlos",
-            "text": "Uuuu~~~……I'm really really sorry, Tore-cchi……",
+            "text": "Uuuu～～～……I'm really really sorry, Tore-cchi……",
             "choice_data_list": [
                 "No, it's fine"
             ]
@@ -101,11 +101,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Um…… umm~~! ……Ah!! How about that shop!?"
+            "text": "Um…… umm～～! ……Ah!! How about that shop!?"
         },
         {
             "name": "Vivlos",
-            "text": "Look, they've got one on display! It's got a real antique \nfeel to it, isn't it great? I wonder which brand it is~♪"
+            "text": "Look, they've got one on display! It's got a real antique \nfeel to it, isn't it great? I wonder which brand it is～♪"
         },
         {
             "text": "True, that bag had a nice aesthetic to it. It had a nice \ntexture as well. When we asked the stall attendant about it――"
@@ -183,7 +183,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "『Ahahahaa! To think your bag would get stuck in the door! \nAren't you glad we were able to still get off~?』",
+            "text": "『Ahahahaa! To think your bag would get stuck in the door! \nAren't you glad we were able to still get off～?』",
             "choice_data_list": [
                 "『Yeah, I could have been late……!』"
             ]
@@ -202,11 +202,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "『D-don't cry, it's fine~! With something like juice, you \njust have to wipe it off and it'll be OK! And um……um!』"
+            "text": "『D-don't cry, it's fine～! With something like juice, you \njust have to wipe it off and it'll be OK! And um……um!』"
         },
         {
             "name": "Vivlos",
-            "text": "『Ah, look!? See? The stain on the bag! \nIt's heart-shaped~! It's cute♡』",
+            "text": "『Ah, look!? See? The stain on the bag! \nIt's heart-shaped～! It's cute♡』",
             "choice_data_list": [
                 "『It's really fancy, thanks!』"
             ]

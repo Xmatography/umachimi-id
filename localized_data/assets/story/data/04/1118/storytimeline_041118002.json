@@ -5,23 +5,23 @@
         },
         {
             "name": "Narasi Program",
-            "text": "『――Tantangan demi mimpi masa kecilnya itu, tahun ini pun\nberakhir dengan air mata. Tim liputan mewawancarainya di ruang ganti……』"
+            "text": "『――Tantangan demi mimpi masa kecilnya itu, tahun ini berakhir\ndengan air mata. Tim liputan mewawancarainya di ruang ganti……』"
         },
         {
             "name": "Tim Liputan",
             "text": "『――Setelah balapan kali ini…….\nAyah, Ibu, bagaimana perasaan kalian?』"
         },
         {
-            "name": "Ayah Uma Musume",
+            "name": "Ayah Umamusume",
             "text": "『Kami sudah melihatnya sejak kecil. Dia bilang ingin bersinar\ndi balapan besar……. Meski kalah, putri kami tetap bersinar, kan!』"
         },
         {
-            "name": "Ibu Uma Musume",
-            "text": "『Dia bilang ingin tampil keren…… Dia tumbuh jadi anak yang sangat\nmenyayangi kami……! Bagi kami, melihatnya berlari dengan bahagia saja sudah cukup.』"
+            "name": "Ibu Umamusume",
+            "text": "『Dia bilang ingin tampil keren…… Dia tumbuh jadi anak yang sangat\nmenyayangi kami……! Bagi kami, melihatnya berlari dengan bahagia\nsaja sudah cukup.』"
         },
         {
-            "name": "Uma Musume yang Kalah",
-            "text": "『U…… Uu…… Terima kasih…… Ayah, Ibu……!\nAku akan terus berjuang……!』"
+            "name": "Umamusume yang Kalah",
+            "text": "『U…… Uu…… Terima kasih…… Ayah, Ibu……！\nAku akan terus berjuang……！』"
         },
         {
             "name": "Narasi Program",
@@ -36,14 +36,14 @@
         },
         {
             "name": "Aruvu Kecil",
-            "text": "『Baik…… terima kasih.\nAku akan rajin belajar.』"
+            "text": "『Baik…… terima kasih.\nAku akan, rajin belajar.』"
         },
         {
-            "name": "Uma Musume Kecil",
+            "name": "Umamusume Kecil",
             "text": "『Hiks. Aku kalah dari anak itu…….\nPapa, Mama, maafkan aku……』"
         },
         {
-            "name": "Ayah Uma Musume Kecil",
+            "name": "Ayah Umamusume Kecil",
             "text": "『Bicara apa kau! Kau tadi sangat keren!\nBagi Papa dan Mama, juara berapa pun tidak masalah!』"
         },
         {
@@ -71,12 +71,12 @@
             "text": "『――Tapi,』"
         },
         {
-            "name": "MC Event",
-            "text": "『Event Balap Khusus Sponsor URA・Divisi Junior!\nJuara pertama, Admire Groove! Mempertahankan gelar dari sebelumnya……!』"
+            "name": "Pembawa Acara",
+            "text": "『Event Balap Khusus Sponsor URA・Divisi Junior!\nJuara pertama, Admire Groove! Mempertahankan gelar\ndari sebelumnya……!』"
         },
         {
             "name": "Aruvu Kecil",
-            "text": "『……Aku tidak kalah dari siapa pun.\nBaik dari anak yang dielus Papanya, maupun dipeluk Mamanya.』"
+            "text": "『……Aku tidak kalah dari siapa pun.\nDari anak yang dielus Papanya, atau dipeluk Mamanya.』"
         },
         {
             "name": "Aruvu Kecil",
@@ -87,8 +87,8 @@
             "text": "『Aku pasti tidak butuh―― \"Papa\" maupun \"Mama\".』"
         },
         {
-            "name": "<size=30>Uma Musume Bersama Orang Tua</size>",
-            "text": "『Ehehe~♪ Aku akan berjuang demi Papa dan Mama!』"
+            "name": "<size=30>Umamusume Bersama Orang Tua</size>",
+            "text": "『Ehehe～♪ Aku akan berjuang demi Papa dan Mama!』"
         },
         {
             "name": "Admire Groove",
@@ -116,13 +116,13 @@
         },
         {
             "name": "Penyiar",
-            "text": "『Juara pertama jatuh kepada――――!\nAdmire Groove kembali menelan kekalahan setelah――――……』"
+            "text": "『Juara pertama jatuh kepada――――!\nAdmire Groove kembali menelan kekalahan setelah――……』"
         },
         {
-            "text": "――Mimpi buruk yang belakangan sering kualami.\nDan Uma Musume yang selalu menghalangiku di sana――"
+            "text": "――Mimpi buruk yang belakangan sering kualami.\nDan Umamusume yang selalu menghalangiku di sana――"
         },
         {
-            "text": "(――…………Ugh. Memangnya dia itu siapa……?\nLama-lama aku bisa gila.)"
+            "text": "(――………Ugh. Memangnya dia itu siapa……?\nLama-lama aku bisa gila.)"
         },
         {
             "text": "Aku…… sudah muak.\nPenyebab mimpi buruk ini…… harus kusingkirkan."
@@ -143,7 +143,7 @@
             "text": "(……Hawanya lemah seperti biasa……)"
         },
         {
-            "text": "Tanpa ada kekuatan untuk membuktikan dia \"ada\" di sana――\nSeharusnya dia hanyalah keberadaan sepele\nyang sekadar menahan napas."
+            "text": "Tanpa ada kekuatan untuk membuktikan dia \"ada\" di sana―\nSeharusnya dia hanyalah keberadaan sepele yang sekadar\nmenahan napas."
         },
         {
             "text": "『Kemenangan…… kehormatan…… dan jati diriku……』"
@@ -158,6 +158,7 @@
             "text": "(Mimpi buruk ini kuakhiri hari ini……!\nAkan kuhancurkan dia! Kelenyapkan dari dalam diriku――)"
         },
         {
+            "name": "？？？",
             "text": "――Ke・te・mu――"
         },
         {
@@ -179,7 +180,7 @@
             "text": "Tapi, um…… kalau kau tidak keberatan.\nAku ingin…… kita berlari lagi. P-Permisi――"
         },
         {
-            "text": "…………Ada apa ini. Apa yang sebenarnya terjadi……?\n――Bukannya aku…… akan menang dan memutus mimpi buruk itu……?"
+            "text": "…………Ada apa ini. Apa yang sebenarnya terjadi……?\nBukannya aku… akan menang dan memutus mimpi buruk itu……?"
         },
         {
             "text": "Kalau begitu…… kenapa aku jadi…… begini……!\nPerasaan gundah ini―― apa maksudnya……!?"

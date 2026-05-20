@@ -84,7 +84,7 @@
         },
         {
             "name": "Trainer Kiryuin",
-            "text": "Sudah kuduga!\nPelatih <username>!",
+            "text": "Sudah kuduga!\nTrainer <username>!",
             "choice_data_list": [
                 "Lah , Gw ?!",
                 "Lho , Saya ?!"
@@ -253,7 +253,7 @@
         },
         {
             "name": "Trainer Kiryuin",
-            "text": "...Terima kasih untuk hari ini,\nPelatih <username>."
+            "text": "...Terima kasih untuk hari ini,\nTrainer <username>."
         },
         {
             "name": "Trainer Kiryuin",

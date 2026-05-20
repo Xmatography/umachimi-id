@@ -49,7 +49,7 @@
             "name": "Marvelous Sunday"
         },
         {
-            "text": "So c'mon, let's go☆ \nAllllll~ that's Marvelous, Trainer, it's time for a show!",
+            "text": "So c'mon, let's go☆ \nAllllll～ that's Marvelous, Trainer, it's time for a show!",
             "name": "Marvelous Sunday"
         },
         {
@@ -59,11 +59,11 @@
             "text": "I couldn't say no to that, because I wanted \nto know the truth about 『Marvelous』, but――"
         },
         {
-            "text": "Nature~! Laurel~! Ahahahaa, Marvelous!",
+            "text": "Nature～! Laurel～! Ahahahaa, Marvelous!",
             "name": "Marvelous Sunday"
         },
         {
-            "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work~, I guess.",
+            "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work～, I guess.",
             "name": "Nice Nature",
             "choice_data_list": [
                 "You're……",
@@ -75,11 +75,11 @@
             "name": "Nice Nature"
         },
         {
-            "text": "I'm Sakura Laurel♪ Marve-chan's…… Hmmm~, I guess \nyou could say friendly rival, something like that?",
+            "text": "I'm Sakura Laurel♪ Marve-chan's…… Hmmm～, I guess \nyou could say friendly rival, something like that?",
             "name": "Sakura Laurel"
         },
         {
-            "text": "Ahahaa, inevitable rivals! Sounds fun~! \nIt's like fate, so very Marvelous☆, isn't it!?",
+            "text": "Ahahaa, inevitable rivals! Sounds fun～! \nIt's like fate, so very Marvelous☆, isn't it!?",
             "name": "Marvelous Sunday"
         },
         {
@@ -99,11 +99,11 @@
             "name": "Nice Nature"
         },
         {
-            "text": "I was looking forward to parallel training but…… Hmmmmm~? Marve-chan, \nare you hiding something from us? Like you're feeling off or――",
+            "text": "I was looking forward to parallel training but…… Hmmmmm～? Marve-chan, \nare you hiding something from us? Like you're feeling off or――",
             "name": "Sakura Laurel"
         },
         {
-            "text": "Not a bit~! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore~ Marvelous★",
+            "text": "Not a bit～! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore～ Marvelous★",
             "name": "Marvelous Sunday",
             "choice_data_list": [
                 "<size=43>But, your hands were really warm……?</size>"
@@ -117,7 +117,7 @@
             "name": "Sakura Laurel"
         },
         {
-            "text": "Eeeeeeh, why!? \nWhat about Marvelous? What about training~!?",
+            "text": "Eeeeeeh, why!? \nWhat about Marvelous? What about training～!?",
             "name": "Marvelous Sunday"
         },
         {
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "text": "Hmmmm~…… usually it doesn't get as bad as a fever. The current \nMarve-chan doesn't have a particularly weak constitution.",
+            "text": "Hmmmm～…… usually it doesn't get as bad as a fever. The current \nMarve-chan doesn't have a particularly weak constitution.",
             "name": "Sakura Laurel"
         },
         {

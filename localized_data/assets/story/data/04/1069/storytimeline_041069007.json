@@ -55,7 +55,7 @@
             "name": "Fellow Camp Umamusume B"
         },
         {
-            "text": "Haa, haa… \nToday's menu, is finished~!",
+            "text": "Haa, haa… \nToday's menu, is finished～!",
             "name": "Sakura Chiyono O"
         },
         {
@@ -99,7 +99,7 @@
             "text": "And so the Summer Training Camp came to a close. And then-"
         },
         {
-            "text": "So they were holding a festival this close by, huh~. \nThank you very much for bringing me along!",
+            "text": "So they were holding a festival this close by, huh～. \nThank you very much for bringing me along!",
             "name": "Sakura Chiyono O",
             "choice_data_list": [
                 "<size=36>It's a reward for working so hard during camp</size>"
@@ -114,7 +114,7 @@
             "name": "Sakura Chiyono O"
         },
         {
-            "text": "It's so cute~…! \nWanwan, do you want to come home with me, wan?",
+            "text": "It's so cute～…! \nWanwan, do you want to come home with me, wan?",
             "name": "Sakura Chiyono O",
             "choice_data_list": [
                 "I think it looks more like you, though",
@@ -199,7 +199,7 @@
             "name": "Sakura Chiyono O"
         },
         {
-            "text": "Ehehe~! \nYour name is [Sakura Wanko O] now~. Wan wan!",
+            "text": "Ehehe～! \nYour name is [Sakura Wanko O] now～. Wan wan!",
             "name": "Sakura Chiyono O",
             "choice_data_list": [
                 "It really is like you",
@@ -243,7 +243,7 @@
             "name": "Sakura Chiyono O"
         },
         {
-            "text": "…well, um~… \nA-at least that's what Wanko O thinks, wan…",
+            "text": "…well, um～… \nA-at least that's what Wanko O thinks, wan…",
             "name": "Sakura Chiyono O",
             "choice_data_list": [
                 "I agree with Wanko O",
@@ -251,7 +251,7 @@
             ]
         },
         {
-            "text": "~~~~!! I-I'll definitely fulfill my dream! Even \nif I have to take a different path from others, \neven if it takes time, definitely…!",
+            "text": "～～～～!! I-I'll definitely fulfill my dream! Even \nif I have to take a different path from others, \neven if it takes time, definitely…!",
             "name": "Sakura Chiyono O"
         },
         {

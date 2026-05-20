@@ -8,7 +8,7 @@
             ]
         },
         {
-            "text": "All the veggies at this stall are really good, huh~. \nThe flavor is rich, and they've got a nice shape.",
+            "text": "All the veggies at this stall are really good, huh～. \nThe flavor is rich, and they've got a nice shape.",
             "name": "Katsuragi Ace"
         },
         {
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "Oooh~! ……But, I'm pretty particular about my tomatoes! \nWant to take a look?",
+            "text": "Oooh～! ……But, I'm pretty particular about my tomatoes! \nWant to take a look?",
             "name": "Local"
         },
         {
@@ -156,7 +156,7 @@
             "name": "Local"
         },
         {
-            "text": "I'm glad~, looks like were able to make it work! That old man, \nhalfway through he had gotten back on his feet and was having fun.",
+            "text": "I'm glad～, looks like were able to make it work! That old man, \nhalfway through he had gotten back on his feet and was having fun.",
             "name": "Katsuragi Ace",
             "choice_data_list": [
                 "I was having fun too",
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "text": "Haha! Trainer-san, seems like you've gotten a \nbit more reliable~. Even though in the very \nbeginning you fell on your butt because of a bug.",
+            "text": "Haha! Trainer-san, seems like you've gotten a \nbit more reliable～. Even though in the very \nbeginning you fell on your butt because of a bug.",
             "name": "Katsuragi Ace"
         },
         {
@@ -214,7 +214,7 @@
             ]
         },
         {
-            "text": "Hmmm~……biceps? Where? \nPretty sure if anyone had them, it would be me――",
+            "text": "Hmmm～……biceps? Where? \nPretty sure if anyone had them, it would be me――",
             "name": "Katsuragi Ace"
         },
         {
@@ -224,11 +224,11 @@
         {
             "text": "I couldn't help but laugh along with Katsuragi Ace. \nMaybe that's why I realized, I was suddenly really tired.",
             "choice_data_list": [
-                "Fuwaaa~~"
+                "Fuwaaa～～"
             ]
         },
         {
-            "text": "……Fuwaaa~~ \nFufu, Trainer-san, I see you passed that yawn along.",
+            "text": "……Fuwaaa～～ \nFufu, Trainer-san, I see you passed that yawn along.",
             "name": "Katsuragi Ace"
         },
         {
@@ -236,11 +236,11 @@
             "name": "Katsuragi Ace"
         },
         {
-            "text": "Waah! Ace and Trainer-san are leaning against each other \nand sleeping? Ehh~ it's just like a youthful drama~♪",
+            "text": "Waah! Ace and Trainer-san are leaning against each other \nand sleeping? Ehh～ it's just like a youthful drama～♪",
             "name": "Ace's Classmate A"
         },
         {
-            "text": "Seriously, they get along so well~. \nI'll snap a pic and show her later.",
+            "text": "Seriously, they get along so well～. \nI'll snap a pic and show her later.",
             "name": "Ace's Classmate B"
         }
     ]

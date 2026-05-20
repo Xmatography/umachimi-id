@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad~! \nOf all times, it had to be my turn to take the trash out……!",
+            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad～! \nOf all times, it had to be my turn to take the trash out……!",
             "name": "Classmate Umamusume"
         },
         {
@@ -73,7 +73,7 @@
             "name": "Crow"
         },
         {
-            "text": "Hiiii!! \n……~~~~~~",
+            "text": "Hiiii!! \n……～～～～～～",
             "name": "Narita Top Road",
             "choice_data_list": [
                 "Are you……bad with crows?",
@@ -108,7 +108,7 @@
             "name": "Narita Top Road"
         },
         {
-            "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
+            "text": "Aaah～, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
             "name": "Narita Top Road",
             "choice_data_list": [
                 "This isn't a big deal though……"
