@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Trainer! Selamat pagi~ ...hachii!"
+        },
+        {
+            "text": "Ugh~, hidungnya geli...",
+            "choice_data_list": [
+                "Masuk angin?"
+            ]
+        },
+        {
+            "text": "Mm... King-chan tuh,\nngolesin sesuatu ke jerawatku."
+        },
+        {
+            "text": "Tapi lengket banget,\nbaunya juga... bikin geli gimana gitu... uu."
+        },
+        {
+            "text": "Semoga jerawatnya cepet sembuh deh~."
+        },
+        {
+            "text": "Sepertinya Haru Urara sedang mengalami masalah dengan kulitnya......"
+        }
+    ]
+}

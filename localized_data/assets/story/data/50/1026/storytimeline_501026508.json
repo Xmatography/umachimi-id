@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Baru saja memulai latihan bersama\nMihono Bourbon……"
+        },
+        {
+            "text": "Hah……hah……\nMendeteksi bad status 『Rasa Lelah』……."
+        },
+        {
+            "text": "Kerusakan pada bagian tubuh……tidak terdeteksi.\nPenyebab diprediksi……kelelahan ringan akibat balapan. "
+        },
+        {
+            "text": "――Masalah ringan. Latihan dapat dilanjutkan.\nSesuai jadwal, akan melanjutkan lari.",
+            "choice_data_list": [
+                "Jangan memaksakan diri, ayo berhenti untuk hari ini."
+            ]
+        },
+        {
+            "text": "…………Baik.\nMohon maaf karena tidak dapat menyelesaikan perintah."
+        },
+        {
+            "text": "Demi dirinya yang cenderung memaksakan diri meski kelelahan,\nsepertinya jadwal keikutsertaan balapannya perlu ditinjau ulang……"
+        }
+    ]
+}

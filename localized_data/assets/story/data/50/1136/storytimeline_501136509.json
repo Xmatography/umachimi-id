@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "text": "Di tengah rapat dengan Red Desire——"
+        },
+        {
+            "text": "——Pergi kau!",
+            "choice_data_list": [
+                "Eh, kenapa tiba-tiba begitu!?",
+                "Eh, kenapa tiba-tiba begitu!?"
+            ]
+        },
+        {
+            "text": "M, maaf… Gangguan dari sesuatu yang jahat masuk… Aku harus segera mengusirnya, mo—\nto——",
+            "choice_data_list": [
+                "Di, Dizaia……"
+            ]
+        },
+        {
+            "text": "Hah!? P, pergi kau!"
+        },
+        {
+            "text": "Tampaknya kelelahan sudah menumpuk hingga ia tidak mampu bertahan tetap terjaga.\nMeninjau ulang jadwal balapan mungkin sudah mendesak."
+        }
+    ]
+}

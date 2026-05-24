@@ -1,0 +1,29 @@
+{
+    "text_block_list": [
+        {
+            "text": "Sedang membereskan dokumen——\nWali kelas Mayano Top Gun menghubungi,\nmemberi tahu bahwa dia membolos tanpa izin……"
+        },
+        {
+            "text": "Ah, jejak pesawat……\nKalau bisa naik, kira-kira bisa deg-degan nggak ya……",
+            "choice_data_list": [
+                "……Kayaknya nggak bersemangat",
+                "……Kayaknya nggak bersemangat ya"
+            ]
+        },
+        {
+            "text": "Ah…… Kak Trainer……"
+        },
+        {
+            "text": "……Maya, nggak mau masuk kelas.\nSoalnya, membosankan sih."
+        },
+        {
+            "text": "Balapan, belanja, ngobrol.\nPadahal Maya dulu suka banget…… semuanya jadi membosankan."
+        },
+        {
+            "text": "Makin lama…… rasanya berat banget,\nbadan Maya jadi makin berat gitu deh……"
+        },
+        {
+            "text": "Belakangan ini balapannya terus-terusan,\npasti karena kelelahan dari itu.\nSepertinya perlu meninjau ulang jadwal startnya……"
+        }
+    ]
+}
