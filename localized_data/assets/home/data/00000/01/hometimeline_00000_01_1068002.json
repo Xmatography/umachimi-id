@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Kitasan Black",
-            "text": "Hmm, mm, yeah, and you know what, Mom! \nI have fans too now!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I even got a letter saying \n\"Your running is an inspiration\"! \nRight? I feel a little more like dad!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "……? Huh? Sorry Mom, the reception's bad. \nWhat did you say…? …―!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Ehehe… that's right～♪ I'm everyone's\nbeloved Umamusume now, I'll chase\nafter my shining dreams until the day a\nbrocade adorns my chest.…… ehehe～♪"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kitasan Black",
+      "text": "Hmm, iya iya, terus tau gak Mah!\nSekarang aku juga punya fans loh!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Aku bahkan dapet surat yang bilang,\n\"Lari kamu ngasih semangat buat aku\"!\nKeren kan? Rasanya aku jadi makin mirip Ayah!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "……? Hah? Maaf Ma, sinyalnya jelek.\nMama tadi ngomong apa…? …―!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ehehe… iya ya～♪ Sekarang aku udah jadi\nUma Musume kesayangan semua orang.\nAku bakal terus ngejar mimpi itu sampai bisa\nbikin semua orang bangga… ehehe～♪"
+    }
+  ]
 }
