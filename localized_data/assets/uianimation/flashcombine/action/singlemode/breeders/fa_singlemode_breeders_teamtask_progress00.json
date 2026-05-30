@@ -1,0 +1,22 @@
+{
+  "windows": {
+    "bundle_name": "HAHYCESCSDVWYIDINUOGMFZXMT6C6VEL"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "2": {
+          "text_param_list": {
+            "0": {
+              "position_offset": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

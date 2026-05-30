@@ -1,211 +1,211 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "――Seorang filosofi kuno pernah berkata:",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "――Seorang filsuf kuno pernah berkata:"
         },
         {
-            "text": "<i>\"Untuk mendapatkan kegembiraan melalui kejadian yang membangkitkan rasa iba dan takut;</i> \n<i>Itu, penyucian emosi, disebut katarsis.\"</i> \nDengan kata lain――",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "\"Kesenangan yang diperoleh melalui rasa iba dan ketakutan, sejatinya adalah pemurnian emosi—sebuah katarsis\". Maknanya——"
         },
         {
-            "text": "<i>\"Moe\"</i> adalah perwujudan jiwa suciku!!! Cinta dan kekaguman\nterhadap idolaku menerangi jiwaku seperti sinar harapan――!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Bagiku, \"Moe\" adalah pemurnian jiwa！！！！ Rasa cinta, hormat, dan takjub kepada Oshi-ku membawa cahaya ke dalam jiwa ini, dan berubah \nmenjadi seberkas harapan——!"
         },
         {
-            "text": "――Ah, cuma mimpi, toh..",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "――Ah, cuma mimpi, toh……"
         },
         {
-            "text": "(Namaku adalah Agnes Digital. Hanya\nUmamusume yang normal seperti biasanya.)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Namaku Agnes Digital. Hanya Umamusume yang bisa kamu temukan \ndimana saja)"
         },
         {
-            "text": "(Hari ini, seperti biasa, aku menghirup udara\nmelalui filter yang tak terlihat. \nKarena aku di――)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Hari ini pun, aku menghirup udara melalui filter yang tak terlihat. Karena tempat ini adalah――)"
         },
         {
-            "text": "(Tempat yang penuh dengan para favoritku sampai aku bahkan tak berani\nmenghirup udara yang sama―― Akademi Tracen! Di surga Umamusume-chan\nseperti ini, pasti ada sesuatu yang bakal terjadi...!)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Tracen Academy ini isinya Oshi semua, rasanya tidak pantas menghirup udara yang sama! Di surga yang penuh para Umamusume ini, mustahil kalau tidak terjadi apa-apa……!)"
         },
         {
-            "text": "Woi kau! Berapa lama kau mau ngikutin aku terus?!",
-            "name": "Daiwa Scarlet"
+            "name": "Daiwa Scarlet",
+            "text": "Heh kamu! Mau sampai kapan kamu ngikutin aku terus?!"
         },
         {
-            "text": "Mana ada! Aku juga pengen ke trek!\nAku yang harusnya bilang kau jangan ikutin aku!",
-            "name": "Vodka"
+            "name": "Vodka",
+            "text": "Mana ada! Aku juga pengen ke lintasan!\nKamu sendiri yang harusnya jangan ngikutin aku!"
         },
         {
-            "text": "(Ehhhh!? Mereka pura-pura bertengkar cuma biar punya alasan\nberhenti dan ngobrol!? Serius...!?)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Ehhhh!? Mereka pura-pura berantem biar punya alasan buat berhenti trus ngobrol, ya kan...!?)"
         },
         {
-            "text": "(Padahal mereka bisa langsung lari tanpa sepatah kata pun?!\nApa sih ini?! Perasaan macam apa yang mendorong mereka?!)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Padahal mereka bisa langsung lari tanpa sepatah kata pun?!\nApa sih ini?! Perasaan macam apa itu sebenarnyaaa?!)"
         },
         {
-            "text": "(Pasti...mereka...saling suka!!!?)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Ternyata, mereka...saling memikirkan!!!?)"
         },
         {
-            "text": "(<i>Ha～～ UENAK COYY! ! ! ! !</i>)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(<i>Haaahh～～ GAK KUAAAATTTTT! ! ! ! !</i>)"
         },
         {
-            "text": "(――Benar, aku masuk sekolah ini demi melihat para favoritku dari dekat!!\nAku berdiri di sini demi merasakan “Momen Terbaik Para Favoritku\"!!)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(――Benar, aku masuk ke sini demi melihat para Oshi-ku dari dekat!!\nAku berdiri di sini demi menyaksikan “Momen Terbaik\" para Oshi-ku!!)"
         },
         {
-            "text": "(Akademi Tracen memang\nTERBAIKKKKK!!!!!)",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "(Akademi Tracen memang…… TERBAIIIIIIKKKKK!!!!!)"
         },
         {
-            "text": "Kerja bagus hari ini, Trainer-san. \nApa kamu sudah mulai terbiasa dengan akademi?",
-            "name": "Tazuna Hayakawa"
-        },
-        {
-            "text": "Ada begitu banyak Umamusume berbakat di sini. \nSilakan cari seseorang yang ingin kamu latih ♪",
             "name": "Tazuna Hayakawa",
+            "text": "Trainer-san, terima kasih kerja kerasnya hari ini. \nApakah Anda sudah mulai terbiasa dengan kehidupan akademi?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ada begitu banyak Umamusume dengan berbagai bakat di sini. \nJadi, silakan cari seseorang yang ingin Anda latih, ya♪",
             "choice_data_list": [
                 "Baik, aku akan berusaha!"
             ]
         },
         {
-            "text": "――Akademi Tracen. Tempat yang didedikasikan untuk melatih para\nUmamusume yang berkompetisi di Twinkle Series."
+            "text": "――Akademi Tracen. Sebuah lembaga pendidikan yang mendidik dan \nmelatih para Umamusume yang berkompetisi di \"Twinkle Series\"."
         },
         {
-            "text": "Aku bekerja keras dan akhirnya berhasil menjadi Trainer di sini.\nMeski belum berpengalaman, aku berharap tekadku bisa menutupi kekuranganku.",
+            "text": "Setelah perjuangan yang panjang, akhirnya aku berhasil menjadi Trainer resmi di akademi ini. Pengalamanku memang masih minim, tetapi tekad dan semangatku tidak akan kalah dari siapa pun.",
             "choice_data_list": [
-                "(Gaskeun!)",
-                "(Gaskeun!)"
+                "(Yosh, hari ini juga harus semangat!)",
+                "(Yosh, hari ini juga harus semangat!)"
             ]
         },
         {
-            "text": "Aku membangkitkan semangat dan pergi mengamati para Umamusume\nyang sedang berlari. Melihat mereka berjuang sekuat tenaga, aku tak bisa\nmenahan diri untuk mengangkat tangan dan bersorak.",
+            "text": "Dengan semangat, aku pergi mengamati para Umamusume yang sedang berlari di lintasan. Menyaksikan kesungguhan mereka, tanpa sadar tanganku mengepal ke atas dan spontan aku bersorak.",
             "choice_data_list": [
-                "GASSS!!!"
+                "SEMANGAAAATTTT!!!"
             ]
         },
         {
-            "text": "Ghh... Dia benar-benar bikin aku kesel...! \nSelalu ikut campur urusanku――",
-            "name": "Daiwa Scarlet"
+            "name": "Daiwa Scarlet",
+            "text": "Ughh... Nyebelin banget...! \nSelalu saja dia datang nyelonong masuk ke tempatku――"
         },
         {
-            "text": "Nggak mungkin aku kalah dari <i>dia</i>!!",
-            "name": "Daiwa Scarlet"
+            "name": "Daiwa Scarlet",
+            "text": "Pokoknya, aku NGGAK MAU KALAH dari dia～～～！！"
         },
         {
-            "text": "Ya――! Kau mungkin berdiri di antara yang kuat! \nTapi kau tak bisa disangkal adalah seorang dewi tersendiri!!",
-            "name": "？？？"
+            "name": "？？？",
+            "text": "Benar――! Jikalau ada rival lain yang berdiri menyaingimu, fakta bahwa kamu adalah satu-satunya Dewi yang tiada duanya tetaplah takkan \npernah tergoyahkan――!!"
         },
         {
-            "text": "Aku ada untuk bersujud di hadapan cahaya keagunganmu!",
-            "name": "？？？"
+            "name": "？？？",
+            "text": "Hamba hanyalah sosok yang pasrah bersujud di hadapan kilauan \ncahayamu yang begitu agung!"
         },
         {
-            "text": "Kebenaran! Keimutan! \nKau adalah dewi suci kamiiiiii～～～～～～!!!!",
-            "name": "？？？"
+            "name": "？？？",
+            "text": "Keindahan!! Kesucian!! Dewi kita semuaaaa～～～!!!!"
         },
         {
-            "text": "Dengan sorakan kami di belakangnya, dia menembus trek lurus terakhir\nsecepat kilat...!!"
+            "text": "Berkat sorakan penyemangat yang kuberikan sekuat tenaga, dia melesat dengan kecepatan luar biasa menembus lintasan lurus terakhir……!!"
         },
         {
-            "text": "Merasa puas, aku melirik ke samping dengan penasaran――"
+            "text": "Dengan rasa lega dan puas, tiba-tiba perhatianku teralihkan saat melirik ke samping――"
         },
         {
-            "text": "Huee.. Hueee... hah.... hah....",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Dia merasakan ancaman dari pengejarnya, tapi mengubah rasa takut itu\nmenjadi kekuatan. Kekuatan yang cukup untuk melewati tiga furlong terakhir...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Dan saat dia melewati garis akhir, dia tak bisa menahan senyum!\nAhhh, senyum suci itu adalah hadiah ilahi untuk kita!\nYa, kan!?",
             "name": "Agnes Digital",
+            "text": "Huee…… Huee…… hah…… hah……"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Dengan ilusi musuh tangguh yang terus mendekat, dia membalikkan kesulitan menjadi kekuatan untuk melesat di 3 Furlong terakhir……"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Begitu melewati garis finis, senyuman di wajahnya langsung lepas…! Haaah, senyuman itulah yang jadi hadiah terindah bagi kita semua! Benar kan!?",
             "choice_data_list": [
                 "Hah?"
             ]
         },
         {
-            "text": "Apa?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Ah. Maaf. Para <i>asura</i> dalam diriku lagi ngamuk...\nUmamusume-chan memang terbaik, kan? Hehehhe...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Aku bisa merasakannya, tahu. Kamu juga mengisi sorakanmu\nDengan <i>karma</i> yang penuh hasrat. Sebagai sesama pejalan di jalan karma ini,\naku tak boleh kalah...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Aku kebawa suasana, tapi penasaran juga apa yang dia lakukan.\nLah, dia nggak lari juga?",
-            "choice_data_list": [
-                "Maaf, kamu punya waktu?"
-            ]
-        },
-        {
-            "text": "Hah- Nggak mungkin. ...Eh, sekarang mereka lari bareng!?\nTapi bukannya tadi kamu bilang \"dia bikin aku kesel\"<i>...!!!?</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Jadi artinya, dia menyembunyikan perasaan aslinya!? \n<i>WHAAA～!</i> Ini kah yang namanya buah terlarang!! \n<i>Perpaduan</i> antara manis dan pahit―",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Hellow, permisi!?"
-            ]
+            "text": "Ehh?"
         },
         {
-            "text": "――Oh. Iya!? Ada apa...!?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Duh, suaraku kekencangan ya?\nMau kutebus dengan cerita Umamusume-chan?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Kamu gak lari?",
-                "Kamu gak lari?"
-            ]
+            "text": "Ah. Maaf, Dewa <i>Asura</i> dalam diriku sedang bangkit……\nPara Umamusume-chan memang terbaik, ya kan? Hehehe……"
         },
         {
-            "text": "...Lah? Saya?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Apaaan? Nggak nggak!! Kamu <i>baru saja</i> lihat Umamusume-chan\nberlari, terus kamu nanya hal kayak <i>itu!?</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Nggak ah, nggak bisa! Aku nggak bakal lari! \nNggak! Nggak! Sama sekali nggak!",
             "name": "Agnes Digital",
+            "text": "Aku bisa merasakan karma yang penuh hasrat dari sorakanmu. \nSebagai sesama orang yang memikul karma yang sama, aku tidak \nboleh kalah darimu……"
+        },
+        {
+            "text": "Aku malah kebawa suasana karena semangatnya, sebenarnya apa sih \nyang sedang dia lakukan? Lagipula, dia sendiri kan tidak ikut lari?",
             "choice_data_list": [
-                "Kamu kan murid disini."
+                "Anu, bisa minta waktunya sebentar?"
             ]
         },
         {
-            "text": "Emang! Tapi aku tetap tidak mau!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Ehh, demi apa…… Bentar, sekarang mereka lari berdampingan!? \nPadahal tadi dia baru bilang \"ngeselin banget\" tahu……!!!?"
         },
         {
-            "text": "Itu bakal kayak jatuhnya Menara Babel! Armageddon terakhir!\nKalau aku turun ke trek tanpa mental baja, pasti bakal kacau balau――\nAh sudahlah! Pokoknya!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Jadi, ucapan tadi itu adalah kebalikan dari isi hatinya!? Ueeeee～～!! Ini benar-benar buah terlarang yang sesungguhnya!! Perpaduan \nantara rasa manis dan pahit yang sempurna――",
+            "choice_data_list": [
+                "Permisi, minta waktunya sebentar?!"
+            ]
         },
         {
-            "text": "Melihatku berlari setelah menyaksikan larinya Umamusume-chan\nyang terlalu suci dan berharga itu,\nitu sama saja seperti makan natto setelah dessert!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "――Oh, iya!? Ada apa ya……!?"
         },
         {
-            "text": "100% tidak direkomendasikan! \nKalau begitu. Sampai jumpa lagi, Trainer pecinta Umamusume-chan!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Ah, apakah suaraku terlalu keras dan mengganggu……?\nSebagai permintaan maaf, bagaimana kalau aku menceritakan hal \ntentang indahnya para Umamusume……",
+            "choice_data_list": [
+                "Kamu sendiri gak ikut lari?",
+                "Kamu sendiri gak ikut lari?"
+            ]
         },
         {
-            "text": "...Dan dia pun pergi."
+            "name": "Agnes Digital",
+            "text": "……Hah? Aku?"
         },
         {
-            "text": "Ada yang aneh dari dia. Aku penasaran gimana\njadinya kalau dia benar-benar lari."
+            "name": "Agnes Digital",
+            "text": "Eehhh, nggak bentar dulu!! Kenapa Anda mengatakan itu setelah kita menyaksikan larian para Umamusume yang begitu berharga ini!?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nggak ah, nggak boleh! Larianku itu gak ada bagus-bagusnya! \nNggak! Gak ada! Pokoknya gak ada!",
+            "choice_data_list": [
+                "Tapi, kamu kan murid Akademi Tracen."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Biar begitu, pokoknya aku tetap gak mau!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Bagaikan runtuhnya Menara Babel……! Armageddon akhir zaman! \nAku belum siap mental, lagipula semuanya masih nanggung――\npokoknya nggak!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Melihatku berlari setelah menyaksikan larinya para Umamusume\nyang terlalu suci dan berharga itu, sama saja seperti makan natto setelah pencuci mulut!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Pokoknya gak direkomendasikan banget! \nKalau begitu, sampai jumpa lagi Trainer-san sesama pecinta para Umamusume!"
+        },
+        {
+            "text": "...Dia malah pergi."
+        },
+        {
+            "text": "Seorang Umamusume yang agak aneh. Aku penasaran gimana jadinya \nkalau dia benar-benar lari."
         }
     ]
 }

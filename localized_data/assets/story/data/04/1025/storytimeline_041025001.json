@@ -1,209 +1,209 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Apa kau percaya pada sesuatu\nyang tak terlihat?"
+            "text": "Apa kamu percaya pada sesuatu yang tak terlihat?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "…Fufu, cepat sekali.\nAku harus berlatih\nlebih giat lagi…"
+            "text": "……Fufu. Seperti dugaanku, kau cepat ya.\nAku juga, harus berlatih lebih giat lagi……"
         },
         {
-            "text": "Sesuatu yang hanya bisa\ndilihat oleh indra keenam—"
+            "text": "Sesuatu yang hanya bisa dilihat oleh mata orang lain—"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Untuk mencapainya…\n\"temanku\"…"
+            "text": "……Agar aku bisa mengejar \"Temanku\"."
         },
         {
-            "text": "Sebenarnya…\nsiapa dirimu…?"
+            "text": "Kalau kamu, menyebutnya apa?"
         },
         {
-            "text": "Aku baru sadar ponselku hilang,\nsementara hari mulai gelap."
+            "text": "――Aku baru sadar ponselku hilang, sementara hari mulai gelap."
         },
         {
-            "text": "Aku tadi melihat Umamusume\nberlatih. Pasti tertinggal di sana."
+            "text": "Kemungkinan besar aku meninggalkannya saat melihat latihan para Umamusume siang tadi."
         },
         {
-            "text": "Aku bergegas ke sana dan\nmenemukannya dari kedipan indikator baterai.",
+            "text": "Begitu aku kembali lagi ke sana, ponselku seakan memberi tahu keberadaannya lewat lampu indikator yang berkedip-kedip karena \nbaterai lemah.",
             "choice_data_list": [
-                "Ketemu!"
+                "Syukurlah, ketemu di si―"
             ]
         },
         {
             "name": "???",
-            "text": "Heehee…"
+            "text": "Hehee……"
         },
         {
             "name": "???",
-            "text": "…lari… hehe…\nkejar……"
+            "text": "……Seru ya…… hehe…… \nBagaimana…… bisa…… ketahuan ya……"
         },
         {
-            "text": "Tawa aneh memecah keheningan.\nUmamusume yang berlatih selarut ini…?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Ha… aku tak apa… masih bisa berlari…"
+            "text": "……Tiba-tiba terdengar suara tawa.\nJam segini…… Apakah ada Umamusume yang masih latihan?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "…Ya, lagi dan lagi… Sudah berapa kali ini terulang…"
+            "text": "Hah…… Tidak apa-apa…… Aku, masih bisa berlari."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Aku suka berlari… bersamamu…",
+            "text": "……Ehm, sekali lagi……\nBiarkan aku…… untuk mencoba lagi."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……一Karena aku suka…… berlari bersamamu……",
             "choice_data_list": [
-                "(Dia bicara dengan siapa…?)"
+                "(……Dia, sedang bicara dengan siapa?)"
             ]
         },
         {
-            "text": "Tak ada siapa pun. Cukup gelap, tapi jelas\ndia itu sendirian. Dengan penasaran, aku mendekat…"
+            "text": "Tidak ada siapa pun di sini. Sepertinya bukan karena suasana yang gelap jadi mereka tidak kelihatan. Merasa heran, saat aku hendak mendekat――"
         },
         {
-            "text": "(buk!!)",
+            "text": "(BRUKK!!)",
             "choice_data_list": [
-                "Lah…?!"
+                "……Ehh?!"
             ]
         },
         {
-            "text": "Seolah ada yang menghantam\nbahuku keras. Aku menoleh—tapi tak ada siapa pun.",
+            "text": "Sensasi aneh seolah didorong sesuatu tiba-tiba menghantam pundakku.\n……Tentu saja, tidak ada siapa pun di sekitar sini.",
             "choice_data_list": [
-                "(M-Mungkin aku cuma kelelahan…)"
+                "(……M-Mungkin aku cuma kelelahan)"
             ]
         },
         {
-            "text": "Umamusume berbicara dengan kehampaan.\nDan pukulan, dari udara kosong."
+            "text": "Seorang Umamusume bicara dengan \"seseorang\" yang tak terlihat.\nSensasi seolah didorong oleh \"sesuatu\" yang tak terlihat."
         },
         {
-            "text": "Aku merasa angin dingin menembus tubuhku.\n\"Pikiranku pasti salah,\" kataku, lalu pulang."
+            "text": "Hawa dingin menyelimuti tubuhku…… Aku menggelengkan kepala, \nmeyakinkan diri kalau itu \"cuma perasaanku saja\", lalu pergi meninggalkan tempat itu."
         },
         {
-            "name": "Rekrutan Umamusume",
-            "text": "Serius?! Terima kasih! Ini impianku\nmemenangkan GI!"
+            "name": "Umamusume Rekrutan",
+            "text": "Serius?! Terima kasih banyak……！ Ini impianku memenangkan GI!"
         },
         {
-            "name": "Trainer Berpengalaman A",
+            "name": "Trainer Senior A",
             "text": "Tentu! Aku akan mendukungmu sepenuh hati.\nMari kejar mimpi itu bersama!"
         },
         {
-            "name": "Nervous Umamusume",
-            "text": "I… iya! Aku ingin berlomba\ndi Twinkle Series! Lebih dari apa pun!"
+            "name": "Umamusume Yang Gugup",
+            "text": "I-iya! Aku sangat ingin berlomba di Twinkle Series…… Makanya!"
         },
         {
             "name": "Trainer Veteran A",
-            "text": "Baik. Kualifikasi segera tiba.\nTunjukkan kemampuanmu di sana."
+            "text": "Ah, baiklah. Kebetulan sebentar lagi ada balapan seleksi, bagaimana kalau aku lihat kemampuan larimu lagi di sana?"
         },
         {
             "name": "Manhattan Cafe",
             "text": "……",
             "choice_data_list": [
-                "Itu dia…yang tadi malam…"
+                "Gadis itu…… yang kemarin……"
             ]
         },
         {
-            "name": "Kolega A",
-            "text": "Hei <username>! Bagaimana scouting-nya?\nAda kandidat bagus?"
+            "name": "Rekan Trainer A",
+            "text": "Oyy,  <username>！\nSudah menemukan Umamusume yang mau kamu rekrut?"
         },
         {
-            "name": "Colleague A",
-            "text": "Oh, yang itu menarik, ya?\nFormasinya bagus. Mau beri tawaran?",
+            "name": "Rekan Trainer A",
+            "text": "Oh, jadi kamu lagi merhatiin yang itu?\n……Heh, gaya larinya bagus juga ya. Terus, bakal kamu rekrut?",
             "choice_data_list": [
-                "Eh...aku belum yakin…"
+                "B-Bukan, bukan begitu……"
             ]
         },
         {
-            "name": "Kolega A",
-            "text": "Serius? Siapa dia?\nCoba kulihat catatanku…"
+            "name": "Rekan Trainer A",
+            "text": "Masa sih? Tapi, apa dulu ada yang kayak dia ya?……\nBentar, mana ya…… berkas, berkas."
         },
         {
-            "name": "Kolega A",
-            "text": "\"Manhattan Cafe\", ya. Kalau terus seperti itu,\npasti banyak yang melirik. Kalau kamu tak mau,\nbiar aku saja…"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Merekrut… aku…?"
-        },
-        {
-            "name": "Kolega A",
-            "text": "Betul! Kalau belum punya trainer,\nbagaimana kalau kita buat tim?\nKita taklukkan Twinkle Series!"
+            "name": "Rekan Trainer A",
+            "text": "Manhattan Cafe, ya? Gaya larinya emang menarik perhatian, sih. \nKalau kamu gak mau merekrutnya, aku duluan yang samperin, ya."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Twinkle… Series……"
+            "text": "……Mau…… merekrut……?"
         },
         {
-            "name": "Kolega A",
-            "text": "Aku akan melatihmu jadi Umamusume terkuat!"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Ter… kuat…? Bahkan… lebih kuat\ndaripada… dia?"
-        },
-        {
-            "name": "Kolega A",
-            "text": "\"Dia\"? Maksudmu siapa? Ada Uma\nMusume lain yang kau incar?"
+            "name": "Rekan Trainer A",
+            "text": "Iya! Kalau kamu belum punya Trainer, ayo kita mengincar puncak \nTwinkle Series bersama-sama!"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Iya…… Dia cepat… sangat cepat……\nDia… ada di sana…"
+            "text": "Twinkle Series……"
         },
         {
-            "name": "Kolega A",
-            "text": "Eh? Tak… tak ada siapa-siapa\ndi sana…? Kamu bercanda?"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Temanku…… Wajahnya mirip denganku…\nDia membawaku ke sini…\nDia sangat berarti bagiku……"
+            "name": "Rekan Trainer A",
+            "text": "Aku akan melatihmu jadi Umamusume yang lebih kuat dari siapa pun!"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Sejak kecil… tak pernah berubah… Selalu berlari… selalu\nsedikit di depanku… Dialah yang ku kejar."
+            "text": "……Lebih dari siapa pun……?\n…………. Apakah itu …… lebih kuat dari dia juga?"
         },
         {
-            "name": "Kolega A",
+            "name": "Rekan Trainer A",
+            "text": "Dia? Dia tuh siapa……?\nAh, maksudnya ada Umamusume yang lagi pengen kamu kejar?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Ya…… dia, begitu cepat……\nUmamusume yang selalu aku kejar…… ada di sana……"
+        },
+        {
+            "name": "Rekan Trainer A",
+            "text": "Eh…… Tapi di sana nggak ada siapa-siapa. \nSebenarnya, apa yang kamu――"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "\"Teman\"…… yang mirip sekali denganku…… \nDia selalu menuntunku…… seseorang, yang sangat berharga…"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "……Sejak aku masih kecil, tidak pernah berubah……\nUmamusume yang terus berlari di depanku… dialah… panutanku…"
+        },
+        {
+            "name": "Rekan Trainer A",
             "text": "――――"
         },
         {
-            "name": "Kolega A",
-            "text": "Yah, buang-buang waktu saja.\nSepertinya dia tak tertarik\npunya Trainer. Atau bahkan berbicara.",
+            "name": "Rekan Trainer A",
+            "text": "Hah~…… Percuma saja. Kayaknya dia nggak ada niat buat direkrut, \ndiajak ngomong baik-baik saja nggak mau.",
             "choice_data_list": [
-                "Maksudmu?"
+                "Gimana maksudnya?"
             ]
         },
         {
-            "name": "Kolega A",
-            "text": "Entahlah. Dia ngomong ngawur,\nseolah ingin mengusirku. Aku tahu ini tak pantas,\ntapi…"
+            "name": "Rekan Trainer A",
+            "text": "Dia malah ngomongnya ngawur, terus aku kayak dicuekin gitu aja…… Gimana ya bilangnya. Duh…… nggak enak sih ngomongnya, tapi……"
         },
         {
-            "name": "Kolega A",
-            "text": "Dia agak… menyeramkan.",
+            "name": "Rekan Trainer A",
+            "text": "……Agak menyeramkan euy.",
             "choice_data_list": [
-                "Eh?"
+                "Eh……"
             ]
         },
         {
-            "name": "Colleague A",
-            "text": "Pokoknya! Lebih baik jauhi dia.\nJangan buang waktumu."
+            "name": "Rekan Trainer A",
+            "text": "Ahh pokoknya! Mendingan jangan kamu deketin.\nYang ada cuma bakal bikin susah doang…… kayaknya."
         },
         {
-            "text": "\"Menyeramkan\"… Aku teringat kejadian semalam."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "Lagi… dan lagi… sebanyak apa pun…"
+            "text": "Kata-kata itu membuatku teringat kejadian semalam."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Aku suka berlari… bersamamu…"
+            "text": "……Ehm, sekali lagi……\nBiarkan aku…… untuk mencoba lagi."
         },
         {
-            "text": "Aku bilang itu cuma khayalanku.\nTapi aku tak bisa berhenti memikirkannya."
+            "name": "Manhattan Cafe",
+            "text": "……一Karena aku suka…… berlari bersamamu……"
         },
         {
-            "text": "Kenapa dia bahkan tak menghiraukan temanku?\nApa dia benar-benar tak ingin berlomba?"
+            "text": "……Semalam aku memang menganggapnya \"cuma perasaanku saja\", \ntapi mau bagaimana lagi, rasanya mustahil untuk tidak kepikiran."
         },
         {
-            "text": "Misteri Manhattan Cafe terus berputar\ndi kepalaku, hingga malam tiba."
+            "text": "Tapi tetap saja, apa maksudnya dengan \"dicuekin\" tadi……?\n……Apakah dia punya alasan tersendiri sampai tidak mau direkrut?"
+        },
+        {
+            "text": "Di tengah misteri tentang Manhattan Cafe yang semakin mendalam, \nmalam pun kembali datang."
         }
     ]
 }
