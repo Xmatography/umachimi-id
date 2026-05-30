@@ -1365,8 +1365,8 @@
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1002003.json",
-      "hash": "ae1f74c2f93578fdf6177d293e03324de4831a16c9b6dd738e233a0a3f1d8090",
-      "size": 735
+      "hash": "60c23af2113f32163ecece82586fb9e5c435c12dcb2cc36f7f0ecd6557183626",
+      "size": 734
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1004001.json",
@@ -2159,11 +2159,6 @@
       "size": 857
     },
     {
-      "path": "assets/lyrics/m1010_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
-    },
-    {
       "path": "assets/lyrics/m1012_lyrics.json",
       "hash": "879daccc63b0a610092b8ef103fa134605aa412d31f2f3af2472b2b72faecaf8",
       "size": 1693
@@ -2219,11 +2214,6 @@
       "size": 1930
     },
     {
-      "path": "assets/lyrics/m1035_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
-    },
-    {
       "path": "assets/lyrics/m1036_lyrics.json",
       "hash": "10d639b2cc6870f07d670e1b057da8ea3c952b668e0b9da1254eac4d13c8c459",
       "size": 1328
@@ -2267,11 +2257,6 @@
       "path": "assets/lyrics/m1060_lyrics.json",
       "hash": "b99934a50d97d353e0306e4af66446aa4126aa62c6a782b26960156e769efc80",
       "size": 1796
-    },
-    {
-      "path": "assets/lyrics/m1080_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
     },
     {
       "path": "assets/lyrics/m1081_lyrics.json",
@@ -2337,11 +2322,6 @@
       "path": "assets/lyrics/m1152_lyrics.json",
       "hash": "66b98881e5ea5b6d66e2e6b66ff49e260c1fb5c61ed75464963968c6527a4f9d",
       "size": 2260
-    },
-    {
-      "path": "assets/lyrics/m1153_lyrics.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
     },
     {
       "path": "assets/lyrics/m1154_lyrics.json",
@@ -3260,8 +3240,8 @@
     },
     {
       "path": "assets/story/data/02/0006/storytimeline_020006063.json",
-      "hash": "a7138e45e4b32dc8ff1fb5a8fa1cc2add68d0e4c0014a24210ef3884f5bfb41f",
-      "size": 5883
+      "hash": "314b7c757ec3bd982617f1a49f0180e50a78cc735f0c6d7fe4fc48bcc0de457a",
+      "size": 5882
     },
     {
       "path": "assets/story/data/02/0006/storytimeline_020006071.json",
@@ -4050,8 +4030,8 @@
     },
     {
       "path": "assets/story/data/04/1019/storytimeline_041019001.json",
-      "hash": "55d1200f682d11ec30cc2bfa4a7a36d978dec6635249abbc7fe97c302d9f417a",
-      "size": 8545
+      "hash": "a6054e4545605a5389fd78c277649a99612d0d8864b6ac87d6dc376713348f4c",
+      "size": 9182
     },
     {
       "path": "assets/story/data/04/1019/storytimeline_041019002.json",
@@ -4225,8 +4205,8 @@
     },
     {
       "path": "assets/story/data/04/1025/storytimeline_041025001.json",
-      "hash": "d1a0b511d1ff3933582209a41ff311fb8258bc850426d99426444d46bb688c1d",
-      "size": 6867
+      "hash": "9c6fd5f806dfd6af08fbc3d619fa994a5c55a3a6cd3d1a3dc300703d0b6272f3",
+      "size": 8096
     },
     {
       "path": "assets/story/data/04/1025/storytimeline_041025002.json",
@@ -5600,13 +5580,13 @@
     },
     {
       "path": "assets/story/data/04/1090/storytimeline_041090001.json",
-      "hash": "15cf1431faf96d3afb6db8e05f61c7954fc7aacb4944e41224ac73f31bf6a994",
-      "size": 8998
+      "hash": "c300f91897e93f5d9ab541e55e2227c2753854931e736090cd74c09ad0293130",
+      "size": 9021
     },
     {
       "path": "assets/story/data/04/1090/storytimeline_041090002.json",
-      "hash": "28e814d18504545f73c784e4d2d6655b79e6b2597cd1c3899e057f281a974d41",
-      "size": 8869
+      "hash": "a07cd6df65dd470776530a8ce4d1f1ef0b9fb9639a60300fed8eef25c3c82f80",
+      "size": 8853
     },
     {
       "path": "assets/story/data/04/1090/storytimeline_041090003.json",
@@ -15534,6 +15514,11 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_header_turncounter00.json",
+      "hash": "13cb221c47225b2c6a65471a2840a7d8aadb6c30c4c6b4a4436c8aea4869bb1e",
+      "size": 868
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_badge_garden_reinforcement00.json",
       "hash": "b411e2d376fe9f39cb77182bb58c4f3daffebe0b52ed2af5c15a8ca9dce59d9f",
       "size": 166
@@ -15739,6 +15724,21 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
+      "hash": "766be663dbb7993b40cdb6c3fd47df072e3de0abe8c8d71449c714ea43d399cb",
+      "size": 985
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_hotspring_map_name00.json",
+      "hash": "947b33673a921f98e9103a1614c12a12ef832444ca407c717e7397411a5baf68",
+      "size": 327
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ticket_btn00.json",
+      "hash": "6c8c3086449e780e5bbb3c3e8180846328ec4aea92a490c7442765e32f48ff40",
+      "size": 495
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
       "hash": "f45ac2771234eef7322da7c075fd0fe0f2c531b47014ddd32ad4e40a5aa83450",
       "size": 166
@@ -15895,7 +15895,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_complete01.json",
-      "hash": "8923231aec8c34d159f840bd1a4693a6ab2ce8f5ce66699190773c98f6cdabc3",
+      "hash": "67ff155a04e4dc3859f87b2fa20027d38494a0ec735190fbc7169c18fc9693a1",
       "size": 372
     },
     {
@@ -15964,9 +15964,34 @@
       "size": 2999
     },
     {
+      "path": "assets/uianimation/flashcombine/action/campaign/valentine/fa_cnp_valentine_messagecard00.json",
+      "hash": "c73f1efe13cbd1430213689b50b379311f0ad535d0cded68ffac40420018e2c7",
+      "size": 544
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/singlemode/breeders/fa_singlemode_breeders_teamtask_progress00.json",
+      "hash": "2e6186d184fa0a7d442216cad5feadd5cccb055153dc88f6814e83782235c16a",
+      "size": 387
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/singlemode/fa_singlemode_txt_auto_training00.json",
+      "hash": "7aca3ded35baebd01f011d4a6cdf0d1184bca95c3c544cb708314f274653574d",
+      "size": 1310
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
+      "hash": "94a64f74d06117020666b69e402b96088335b317057d27d567eae0389c401dc4",
+      "size": 1120
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/singlemode/pioneer/fa_singlemode_pioneer_badge_shimatraining00.json",
+      "hash": "904c192085cf34f7b540198ebcc3779938e457253a42021873ef9533353e59d9",
+      "size": 480
+    },
+    {
       "path": "character_system_text_dict.json",
-      "hash": "9ca14ce1f365625832bec401e253ca3afbeb38b6fe731c599a7ceab7cb69fb08",
-      "size": 241266
+      "hash": "300836cab5dbb53979e8bb68513d4d7fc80ce9b74c3a7a8d7b1d7cc2b92771fe",
+      "size": 241534
     },
     {
       "path": "config.json",
@@ -15990,13 +16015,13 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "7f3e5fe54d36e521115e88e5e3d9fbacc26f4a2bd578c11ed5c3300e176fdfb7",
-      "size": 424241
+      "hash": "d7c484b6a76c16ad8ff092ca1e902a6556acac33d43db86f3e8ef6896b2f752b",
+      "size": 424160
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "62ff910fc95cd089eb36f288350777f0e48a5927363864991e3dce34ce7d43b3",
-      "size": 40414
+      "hash": "7be5e962d7b3337115e3238541399ee1a499a3fe5c31401df1f5ecc85849d247",
+      "size": 42759
     },
     {
       "path": "race_jikkyo_message_dict.json",
@@ -16005,8 +16030,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "62a33e9399d91cb9a06edc1a7efe69f172b037a5d5c10a1543140535c6190fc6",
-      "size": 2715322
+      "hash": "b29c75ed2a0c0230ce9289f5323a1c8c4660c6e6f2d8f8cd91acd5a5b8f67f6c",
+      "size": 2707383
     }
   ]
 }
