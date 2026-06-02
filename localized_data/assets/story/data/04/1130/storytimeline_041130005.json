@@ -1,0 +1,192 @@
+{
+    "title": "Meski Bunga Mekar Terselubung Awan",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Lucky Lilac",
+            "text": "——Ambo rasa ini lari yang terakhir untuk hari ini? \nAmbo percayakan stopwatch-nya di tanganmu."
+        },
+        {
+            "text": "Dia pun memulai lari terakhirnya hari ini. Aku ingin dia mengeluarkan \nseluruh kemampuannya. Dan demi membantunya, aku menegangkan \nseluruh tubuhku dan——",
+            "choice_data_list": [
+                "GOOD \"LUCK\", \"LUCK\"Y LI-\"LUCK\"!!",
+                "GOOD \"LUCK\", \"LUCK\"Y LI-\"LUCK\"!!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………… \n——Tentu saja. Ambo permisi dulu."
+        },
+        {
+            "text": "Lucky Lilac menyimpan daya ledak tersembunyi di dalam dirinya. \nDan aku menyadari kalau aku bisa memancing kekuatan itu keluar… \ndengan cara bertingkah konyol."
+        },
+        {
+            "text": "Setiap kali dia merespons lawakanku, kekuatan itu bangkit. \nKebiasaannya menahan diri membuat daya yang dilepaskannya jadi \njauh lebih kuat saat dia benar-benar lepas kendali.",
+            "choice_data_list": [
+                "(Tapi… lawakan terakhir tadi kayaknya garing deh.)"
+            ]
+        },
+        {
+            "text": "Sambil mencatat waktu larinya, aku juga menulis hal lain. \n\"Jangan cuma ngelawak... Jadilah pelawak yang lebih niat!\"",
+            "choice_data_list": [
+                "(Meski aku belum tahu gimana persisnya.)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Trainer-san—— Hmm? \nKok wajahmu kelihatan stres bana?",
+            "choice_data_list": [
+                "Oh, maaf! Cuma lagi mikirin sesuatu…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm… Gimana kalau kita jalan-jalan cari angin? \nKebetulan ambo juga baru nio istirahat."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Terlalu stres itu ndak elok buat kesehatan. \nAmbo emang bukan psikolog, tapi ambo siap kok mendengarkan.",
+            "choice_data_list": [
+                "(! Oh iya. Aku bisa sekalian ngetes reaksi Luck.)"
+            ]
+        },
+        {
+            "text": "Untungnya, aku udah nulis banyak materi di buku catatanku. \nAku pun memutuskan untuk menguji lawakan itu dengan dia \nsebagai penonton tesnya."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Ambo kadang mampir ke taman bunga ini. \nPemandangannya rancak bana (bagus sekali)\nkalau bunganya lagi mekar semua.",
+            "choice_data_list": [
+                "<size=36>Bikin aku pengen TANCAP KELOPAK GASPOL!</size>",
+                "<size=36>Bikin aku pengen TANCAP KELOPAK GASPOL!</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Eh? …Ya sudahlah, bagus kalau Trainer-san suka. \nNgomong-ngomong… Ada tempat yang nio Pelatih kunjungi lagi?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Studio tari? \n…Pelatih nio nyanyi kencang-kencang buat santai? \nAmbo cuma bercand——",
+            "choice_data_list": [
+                "Enggak… Aku cuma… PENGEN BANGET NARI!",
+                "Enggak… Aku cuma… PENGEN BANGET NARI!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hah?",
+            "choice_data_list": [
+                "\"Terimalah seluruh pesonaku♡\" <size=30>[Lagu Menishuki]</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……………… \n——Ondeh mandeh. \nTernyata Pelatih jago juga narinya.",
+            "choice_data_list": [
+                "\"Makasiii! Kyun ♡\" <size=30>[Tenkyun-kyun!]</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………… \n——Ehem. Kayaknya udah cukup deh santai-santainya, ya kan?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"Master Lawak\" rahasia yang sembunyi di Akademi…? \n…Maaf, apo pulak yang kamu——",
+            "choice_data_list": [
+                "Mau daftar jadi muridnya bareng aku, Luck?",
+                "Mau daftar jadi muridnya bareng aku, Luck?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………………… \n——Oh, ndak usah, ambo skip aja.",
+            "choice_data_list": [
+                "Katanya lawakan mereka bisa ngeluarin petir lho.",
+                "Katanya lawakan mereka bisa ngeluarin petir lho."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………………!"
+        },
+        {
+            "text": "Sambil keliling, aku terus menguji lawakanku… Entah mana yang berhasil, tapi setidaknya aku bisa mencatat reaksi Luck. \nSaat aku mau sembunyi-sembunyi nulis di buku—"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Permisi, Pelatih—— \n…Tunggu, apo yang sadang Pelatih tulis tuh?",
+            "choice_data_list": [
+                "Oh!! Ini, uh, bukan apa-apa… WAAAK!"
+            ]
+        },
+        {
+            "text": "Aku terlompat kaget dan menjatuhkan catatanku… \nBukunya jatuh pas di depan kakinya, \nterbuka lebar dan bisa dibaca dengan jelas."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"Menishuki 〇: Lawakan energi tinggi sepertinya ampuh\" \n\"Serangan lawakan receh beruntun efektif?\" \n…Buku apo pulak ini?",
+            "choice_data_list": [
+                "………………"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Jadi dari tadi Pelatih sibuk nyatet beginian soal lawakan?",
+            "choice_data_list": [
+                "………………Iya."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………………!"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Trainer beneran nih alih profesi jadi pelawak kah??!! \nIni bukan kerjaanmu tahu ndak!",
+            "choice_data_list": [
+                "(Nah, itu dia reaksi yang kucari-cari!)"
+            ]
+        },
+        {
+            "text": "……Gawat, aku harus buruan jelasin. \nKalau nggak, dia bakal ngira aku nggak niat kerja!",
+            "choice_data_list": [
+                "Aku cuma… ingin jadi pelawak yang lebih baik buat kamu.",
+                "Aku cuma… ingin jadi pelawak yang lebih baik buat kamu."
+            ]
+        },
+        {
+            "text": "Aku teringat saat dia masih mencari pengakuan Orfevre. \nSejak aku pertama memancingnya dengan kekonyolan, \ndan melihatnya melesat kencang layaknya peluru, aku tahu…"
+        },
+        {
+            "text": "…Kalau lari Lucky Lilac punya potensi tak terbatas. \nKalau bertingkah konyol bisa membuka jalan baru untuknya, \ndan memberinya peluang sekecil apa pun——",
+            "choice_data_list": [
+                "Maka aku akan jadi pelawak paling konyol yang pernah ada!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………! ……Ambo hargai niatnya.\nBatua-batua (Sungguh) ambo hargai. Tapi——",
+            "choice_data_list": [
+                "<size=36>PELAWAK PALING KONYOL SE-ALAM SEMESTA!</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Skalanya kejauhan tahu ndak!!"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Ondeh mandeh, hari yang aneh… \nAmbo pun ndak sanggup kalau dicecar lawakan sebanyak itu.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Tapi… Semua lawakan itu demi balapanku, kan? \nDan bukunya sampai penuh materi begitu… \nIronisnya, Pelatih ternyata seserius itu.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Ampun deh… Dia ndak terpaksa kan?"
+        }
+    ]
+}

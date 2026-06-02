@@ -1,0 +1,225 @@
+{
+    "title": "Tunas yang Melambai dengan Anggun",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Sudah beberapa waktu berlalu sejak aku mulai mengamati \nbalapan Lucky Lilac dengan Orfevre.",
+            "choice_data_list": [
+                "(Aku harus mulai bekerja juga)",
+                "(Aku harus mulai bekerja juga)"
+            ]
+        },
+        {
+            "text": "Buku catatan di tanganku sudah penuh dengan tulisanku. Melihatnya \nterus menantang Orfevre tanpa menyerah telah menginspirasiku… \nTanpa sadar, aku mulai menganalisis balapan mereka.",
+            "choice_data_list": [
+                "<size=42>(Kalau dia butuh pengakuan Orfe, dia harus…)</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Terima kasih… banyak yo. Ambo harap…\nAnda mau balapan dengan ambo lagi minggu depan.",
+            "choice_data_list": [
+                "(Dia kalah lagi… Tapi…)"
+            ]
+        },
+        {
+            "text": "Semakin aku melihatnya… Balapannya terasa semakin sempurna. \nDia punya postur luar biasa bak murid teladan, tak pernah \nkehilangan ketenangannya, bahkan di lintasan.",
+            "choice_data_list": [
+                "<size=32>(Satu-satunya yang mungkin kurang darinya hanyalah pengalaman.)</size>"
+            ]
+        },
+        {
+            "text": "Kerumunan orang sudah menyusut seiring waktu, tapi aku \ntetap di kursi, berpikir keras. Balapan ini berakhir dengan Orfevre \nyang melesat jauh di jalur lurus terakhir, seperti balapan sebelumnya.",
+            "choice_data_list": [
+                "<size=36>Mencoba mengalahkan Orfe di jalur lurus terakhir itu sangat…</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Itu sama saja dengan bunuh diri, kan?",
+            "choice_data_list": [
+                "…L-Lucky Lilac!?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Panggil Lala saja ndak apa. Yang lain juga memanggil ambo \nbegitu. Ngomong-ngomong, buku catatan yang kamu pegang itu… \nWah, ambo memang merasa ada yang mengamati, tapi ya ampun…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm… Ada catatan waktu, strategi, dan banyak hal di sini. \nDan analisis kamu juga sangat detail yo. \n…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"Cara agar Lucky Lilac diakui oleh Orfevre…\"",
+            "choice_data_list": [
+                "…Setelah melihatmu, aku jadi terbawa suasana.",
+                "…Setelah melihatmu, aku jadi terbawa suasana."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…… Trainer-san, ambo mau ke ruang ganti dulu untuk ganti baju. \n…Nanti kalau sudah selesai, apa ambo boleh minta waktumu sebentar?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Orfe-san, dia itu… \nInspirasi ambo."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Dulu ambo pikir balapan itu cuma sekadar hiburan. \nUmamusume berlari, dan tidak lebih dari itu. \nTapi di tengah pemikiran itu, ambo melihat <i>dia</i> berlari…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Dia berdiri dengan elegan, tinggi dan bangga. Setiap langkahnya \nterasa seperti menyebarkan badai bunga yang mekar di \nbawah kakinya. Itu membuat hati ambo berdebar."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"Ambo ingin jadi pembalap seperti dia. Umamusume yang memikat \nhati semua orang… Bunga primadona. Bintang pertunjukan.\" \n…Tanpa sadar, inspirasi ambo berubah jadi mimpi."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Sejak saat itu, ambo mendedikasikan diri untuk berlatih. \nSampai akhirnya ambo mencapai titik di mana para guru bilang \nambo bisa debut kapan saja ambo mau."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Tapi… Debut biasa ndak akan membuat ambo jadi bintang yang \nambo inginkan. Kalau ambo mau bersinar seperti emas, seperti dia… \n…Sekadar jadi hebat saja ndak akan cukup.",
+            "choice_data_list": [
+                "Dan itu sebabnya kamu balapan dengan Orfe?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Iya. Ambo mau debut sebagai pembalap yang diakui oleh \nOrfe-san. Jadi ambo meminta untuk balapan dengannya… \ndan dia berbaik hati mengizinkannya.",
+            "choice_data_list": [
+                "<size=36>(Dia berhasil membuat SANG Tiran mau balapan dengannya…)</size>"
+            ]
+        },
+        {
+            "text": "Bahkan orang yang mendominasi seperti Orfevre rela meluangkan \nakhir pekannya untuk membalap Lucky Lilac. Fakta itu saja harusnya \nsudah lebih dari cukup untuk membuktikan nilainya sebagai pembalap."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Lagipula… Ambo sama sekali ndak tahu apa sebenarnya yang \nkurang dari ambo. Tapi pasti ada cara supaya ambo bisa \nmendapatkan pengakuannya…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Dan tentang itu, ambo ingin bertanya padamu, Trainer-san. \nApa kamu kebetulan menemukan sesuatu saat menonton balapan kami?",
+            "choice_data_list": [
+                "Belum… belum ada. Maaf."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Begitu yo. Ambo tetap menghargai perhatianmu kok. \nAmbo akan coba cari tahu sendiri kalau bisa."
+        },
+        {
+            "text": "Aku tidak melihat sedikit pun raut kekecewaan atau kekhawatiran \ndari senyumnya. Kalau dia tidak sedang berpura-pura tegar… \nKegigihannya benar-benar luar biasa.",
+            "choice_data_list": [
+                "Kenapa kamu terlalu memaksakan diri?",
+                "Kenapa kamu terlalu memaksakan diri?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Menurut ambo, kegigihan itu adalah\nkeindahan. Itu sebabnya."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Nah, kalau kamu terpikirkan sesuatu, jangan ragu untuk \nmemanggil ambo. Selama Orfe-san belum menyerah terhadap ambo, \nambo akan selalu ada di lintasan.",
+            "choice_data_list": [
+                "Tentu…",
+                "Tentu…"
+            ]
+        },
+        {
+            "text": "…Aku sama sekali tidak membantunya. Seandainya saja ada \nsesuatu, meski kecil, yang bisa kulakukan… Aku berpikir keras \ndan lama, dan pada adrenaline yang terlintas di pikiranku adalah——",
+            "choice_data_list": [
+                "(Mungkin aku bisa membantunya rileks…?)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Trainer-san? \nApa ada yang mau kamu sampaikan ke ambo?",
+            "choice_data_list": [
+                "....Gak ada. Selamat malam. Zzz..."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……——",
+            "choice_data_list": [
+                "<size=36>Ka..Karena udah malam, jadi...</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…… \nHaha. Kamu cukup ceria juga yo, Trainer-san?"
+        },
+        {
+            "text": "Senyum lembutnya malah membuatku merasa sangat canggung… \nMeskipun aku ingin membantunya, seharusnya aku tidak melakukan \nhal aneh yang tidak biasa kulakukan."
+        },
+        {
+            "text": "Kalau aku benar-benar ingin membantunya… Cuma ada satu hal yang \nbisa kulakukan. Dan itu adalah menuntaskan pekerjaanku \nsebagai pelatih sampai akhir.",
+            "choice_data_list": [
+                "<size=36>…Bolehkah aku mulai mengamatimu lebih dekat?</size>",
+                "<size=36>…Bolehkah aku mulai mengamatimu lebih dekat?</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Maksudmu… Balapan ambo dengan Orfe-san? \nAtau kamu bicara tentang ambo?",
+            "choice_data_list": [
+                "Tolong, tunjukkan padaku bagaimana kamu berlatih.",
+                "Tolong, tunjukkan padaku bagaimana kamu berlatih."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Sepertinya kamu memang serius yo.",
+            "choice_data_list": [
+                "Aku juga ingin tahu apa yang kurang darimu.",
+                "Aku juga ingin tahu apa yang kurang darimu."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Ambo menghargainya. Ambo sangat berterima kasih. \nSejujurnya, ambo sendiri juga mulai kebingungan."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Ambo menantikan bantuanmu yo, Trainer-san. \nMari kita cari bersama apa sebenarnya yang kurang dari ambo.",
+            "choice_data_list": [
+                "Aku akan berjuang sebaik mungkin. Mohon kerja samanya!",
+                "Aku akan berjuang sebaik mungkin. Mohon kerja samanya!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Sepertinya ambo menemukan sekutu yang ndak terduga. Semua \norang pikir mendapat pengakuan Orfe-san itu cuma mimpi belaka…)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Tapi pelatih itu mau membantu ambo mencari jalan. \nSudut pandang baru mungkin adalah hal yang ambo butuhkan.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(…Orang yang cukup menarik, pelatih itu. \nDalam banyak hal…)"
+        },
+        {
+            "text": "\"....Gak ada. Selamat malam. Zzz...\""
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………Karena waktunya tidur. \n……………"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "NGECEK AWAK KO!\n<size=12>(APA MAKSUDNYA!)</size>"
+        }
+    ]
+}

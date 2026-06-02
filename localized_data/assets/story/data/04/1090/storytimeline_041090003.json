@@ -1,180 +1,180 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Vivlos",
-            "text": "C'mon, Trainer-san! Spread your legs wider! \nAnd then move your back liiiiiiike this!",
+            "text": "Ayo dong, Trainer-san! Buka kakinya lebih lebar! Terus \ngerakin punggungnya giniiih!",
             "choice_data_list": [
-                "Even if you say……ow ow ow!!!!"
+                "Biar kamu bilang gitu juga... aduh duh sakit!!!!"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Ahahaa, that was fun～♪ \nTrainer-san, you were making so many funny faces!",
+            "text": "Ahaha, seru banget~♪ Muka Trainer-san kocak deh tadi!",
             "choice_data_list": [
-                "I didn't think we'd be doing Yoga"
+                "Kirain kita nggak bakal main Yoga."
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Geez～, if you're like that, we won't be able to \ndo everything planned, you know? Next is piano! \nAnd after that are calligraphy and English!",
+            "text": "Dih~ kalau gitu terus, rencana kita nggak bakal kelar lho! Habis ini piano, terus kaligrafi sama bahasa Inggris!",
             "choice_data_list": [
-                "G-go easy on me……!"
+                "P-pelan-pelan dong...!"
             ]
         },
         {
-            "text": "Today, I was invited by Vivlos to tag along with her. \nIf you were to ask why, then――"
+            "text": "Hari ini aku diajak Vivlos nemenin dia. Kalau ditanya kenapa――"
         },
         {
             "name": "Vivlos",
-            "text": "――About Onee-chan? Why do you want to ask me about her?",
+            "text": "――Soal Kakak? Kok nanyanya ke aku?",
             "choice_data_list": [
-                "Before scouting, I want to know more"
-            ]
-        },
-        {
-            "name": "Vivlos",
-            "text": "Ehh～～ so you wanna know that badly, huh? \nLet's see～ just what should I do♪～?"
-        },
-        {
-            "name": "Vivlos",
-            "text": "Then, Trainer-san～ \nYou should listen to everything I say! Okay♪?"
-        },
-        {
-            "text": "Even if only a little, I wanted to know more about \nVerxina and find out why she was so flustered. For \nsome reason, I thought that was incredibly important."
-        },
-        {
-            "name": "Vivlos",
-            "text": "C'mon, c'mon, you want to know more about Onee-chan right!? \nThen you need to come with me! Let's go, let's go～!"
-        },
-        {
-            "name": "Vivlos",
-            "text": "Last up is Tea lessons! This is～, \nsomething special I'll teach you♪ I learned right from Onee-chan!"
-        },
-        {
-            "text": "I breathe a sigh of relief at the word 『Last』. It was a long day, \nfilled with exercise, music, and linguistic learning."
-        },
-        {
-            "name": "Vivlos",
-            "text": "So～. How was it? \nDo you understand Onee-chan a little better now?",
-            "choice_data_list": [
-                "……What do you mean?"
-            ]
-        },
-        {
-            "text": "I had certainly experienced a lot today. \nBut I don't think we talked about Verxina at all――"
-        },
-        {
-            "name": "Vivlos",
-            "text": "No way, you mean you didn't realize it at all!? \nEverywhere we went to today is something that Onee-chan has learned!",
-            "choice_data_list": [
-                "Eh……?"
+                "Pengen tahu lebih banyak sebelum mulai scouting."
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Onee-chan is super kind, you know."
+            "text": "Ehh~~ pengen banget tahu ya? Hmmm~ enaknya ngapain ya♪~?"
         },
         {
             "name": "Vivlos",
-            "text": "Whenever I said I wanted to try \nsomething, she'd always do it with me――"
+            "text": "Kalau gitu, Trainer-san~ Harus turutin semua omonganku ya! Oke♪?"
         },
         {
-            "name": "Young Verxina",
-            "text": "You want to learn piano? \n――Okay, I'll learn with you."
-        },
-        {
-            "name": "Young Verxina",
-            "text": "Yoga? Fufuu, because of you, \nI get to challenge so many different things."
+            "text": "Aku pengen sedikit lebih tahu soal Verxina dan kenapa dia bisa\nsalah tingkah gitu. Kayaknya ini penting banget deh."
         },
         {
             "name": "Vivlos",
-            "text": "And you see, even if I got bored and stopped, \nOnee-chan would still continue on……"
+            "text": "Ayo, ayo, katanya mau tahu soal Kakak!? Ikut aku yuk! Berangkat~!"
         },
         {
             "name": "Vivlos",
-            "text": "Saying that once she started, she wanted to do it perfectly. \nAnd then, after she continued on like that――"
+            "text": "Terakhir, kelas bikin teh! Ini spesial lho, aku ajarin ya♪ Belajar langsung dari Kakak nih!"
+        },
+        {
+            "text": "Aku lega banget pas dengar kata 『Terakhir』. Hari ini panjang banget,\nsedari olahraga, musik, sampai belajar bahasa."
         },
         {
             "name": "Vivlos",
-            "text": "If I ever wanted to do something again, she continued on so she \ncould teach me. Even though it was really hard to continue on."
+            "text": "Nah~ Gimana? Udah lebih paham soal Kakak belum?",
+            "choice_data_list": [
+                "...Maksudnya gimana?"
+            ]
+        },
+        {
+            "text": "Emang sih hari ini ngelakuin banyak hal. Tapi kan\nkita nggak ngomongin Verxina sama sekali――"
         },
         {
             "name": "Vivlos",
-            "text": "That's the kind of Onee-chan that I know. \nSerious, hard-working and――"
+            "text": "Masa sih nggak sadar!? Semua tempat\nyang kita datengin hari ini tuh tempat Kakak belajar lho!",
+            "choice_data_list": [
+                "Eh...?"
+            ]
         },
         {
             "name": "Vivlos",
-            "text": "And kinder than anyone!"
+            "text": "Kakak tuh baik banget."
+        },
+        {
+            "name": "Vivlos",
+            "text": "Tiap aku mau nyoba sesuatu, dia pasti nemenin――"
+        },
+        {
+            "name": "Verxina Kecil",
+            "text": "Mau belajar piano? ――Oke, Kakak temenin belajar ya."
+        },
+        {
+            "name": "Verxina Kecil",
+            "text": "Yoga? Fufu, gara-gara kamu, Kakak jadi\nnyoba banyak hal baru nih."
+        },
+        {
+            "name": "Vivlos",
+            "text": "Terus ya, biarpun aku bosan dan berhenti,\nKakak bakal tetap lanjutin..."
+        },
+        {
+            "name": "Vivlos",
+            "text": "Katanya, kalau udah mulai, harus tuntas\ndan sempurna. Terus, pas dia lanjutin itu――"
+        },
+        {
+            "name": "Vivlos",
+            "text": "Dia lanjut terus biar bisa ngajarin aku kalau sewaktu-waktu aku mau\ncoba lagi. Padahal pasti berat banget buat terus konsisten."
+        },
+        {
+            "name": "Vivlos",
+            "text": "Itulah Kakak yang aku kenal. Serius, pekerja keras, dan――"
+        },
+        {
+            "name": "Vivlos",
+            "text": "Dan paling baik sedunia!"
         },
         {
             "name": "Cheval Grand",
-            "text": "Eh…………Nee-san, is it……?"
+            "text": "Eh... Kakak, ya...?"
         },
         {
             "name": "Cheval Grand",
-            "text": "She's completely different from……me. \nElegant, and refined……"
+            "text": "Dia beda banget sama... aku. Elegan dan anggun..."
         },
         {
             "name": "Cheval Grand",
-            "text": "Perfect in anything she does, \nnever cutting corners…… That's why――",
+            "text": "Sempurna di segala hal, nggak pernah\nsetengah-setengah... Makanya――",
             "choice_data_list": [
-                "That's why?"
+                "Makanya?"
             ]
         },
         {
             "name": "Cheval Grand",
-            "text": "No, sorry. \nThat's why……Well, she must――"
+            "text": "Eh, maaf. Makanya... ya, dia pasti――"
         },
         {
             "name": "Cheval Grand",
-            "text": "――See me as someone pitiable……then. \nThat's just how much she worries about me……"
+            "text": "――Ngasihani aku. Saking khawatirnya dia sama aku..."
         },
         {
-            "name": "Young Verxina",
-            "text": "Understand, Cheval? \nNo matter how fast you want to be, you can't rush it."
+            "name": "Verxina Kecil",
+            "text": "Paham kan, Cheval? Mau \nsecepat apa pun, nggak boleh asal buru-buru."
         },
         {
-            "name": "Young Verxina",
-            "text": "So you don't get injured, you need to properly stretch. \n……C'mon, Nee-san will show you how."
-        },
-        {
-            "name": "Cheval Grand",
-            "text": "To avoid injuries, to not push myself too hard…… \nAlways, Nee-san worries about me……"
+            "name": "Verxina Kecil",
+            "text": "Biar nggak cedera, harus pemanasan\nyang bener. ...Sini, Kakak ajarin caranya."
         },
         {
             "name": "Cheval Grand",
-            "text": "……I do get it though. \nThat Nee-san is always thinking about me."
+            "text": "Biar nggak cedera, nggak maksain diri...\nKakak emang selalu khawatirin aku..."
         },
         {
             "name": "Cheval Grand",
-            "text": "That's why, someday I want to prove it…… \nShe doesn't have to worry about me. That――I'll be fine."
+            "text": "...Aku paham kok. Kakak selalu mikirin aku."
         },
         {
-            "text": "In the end, what I learned from her younger sisters was \njust how much Verxina cared about them as an older sister."
+            "name": "Cheval Grand",
+            "text": "Makanya, kapan-kapan aku pengen buktiin...\nDia nggak perlu khawatir. Kalau... aku bakal baik-baik aja."
         },
         {
-            "text": "The more I learn about her personality, the more it seems \nlike it doesn't match with her goal of aiming for the 『Peak』……",
+            "text": "Ujung-ujungnya, dari adik-adiknya ini aku\njadi tahu seberapa pedulinya Verxina sebagai kakak."
+        },
+        {
+            "text": "Makin aku tahu sifat aslinya, makin kerasa\nnggak cocok sama tujuannya buat ngejar 『Puncak』...",
             "choice_data_list": [
-                "(……No, is that true though?)",
-                "(……No, is that true though?)"
+                "(...Eh, masa iya sih?)",
+                "(...Eh, masa iya sih?)"
             ]
         },
         {
-            "text": "The first time that I saw Verxina, I couldn't take my \neyes off her as she steadfastly aimed for greater heights."
+            "text": "Pas pertama kali lihat Verxina, aku nggak bisa berhenti \nmerhatiin dia yang gigih banget ngejar posisi atas."
         },
         {
-            "text": "『Don't ever look away』 \nMaybe that feeling was more like a prayer from her than a demand."
+            "text": "『Jangan pernah palingkan pandanganmu』 \nMungkin itu lebih ke doa dari dia, bukan sekadar tuntutan."
         },
         {
-            "text": "But, who was that prayer for――",
+            "text": "Tapi, doa itu buat siapa――",
             "choice_data_list": [
-                "Verxina……maybe you……",
-                "Verxina……maybe you……"
+                "Verxina... jangan-jangan kamu...",
+                "Verxina... jangan-jangan kamu..."
             ]
         },
         {
-            "text": "Just what was it that drove her to aim for the 『Peak』? \nI think I finally had an idea of what that truly was."
+            "text": "Sebenarnya apa yang bikin dia ambisius banget ngejar 『Puncak』?\nKayaknya aku mulai paham deh alasannya."
         }
     ]
 }

@@ -1,267 +1,267 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "――There was something that I had been thinking about for a while \nnow. As Verxina's trainer, could I really stay the way I was――"
+            "text": "――Udah lama aku kepikiran. Sebagai pelatih Verxina, masa aku gini-gini aja――"
         },
         {
-            "text": "As a role model to her younger sisters, she continued to strive for \nthe 『Peak』……Am I currently someone that Verxina can rely on?"
+            "text": "Dia terus ngejar 『Puncak』 buat jadi panutan adik-adiknya...\nApa sekarang aku udah bisa diandelin sama Verxina?"
         },
         {
-            "text": "No. I had to try to become someone \nshe could truly rely on. To do that――"
-        },
-        {
-            "name": "Verxina",
-            "text": "――Did I arrive too early?"
+            "text": "Nggak. Aku harus jadi orang yang beneran bisa dia andelin. Makanya――"
         },
         {
             "name": "Verxina",
-            "text": "And instead of on campus, \nwhy am I waiting by the main road――"
+            "text": "――Aku kepagian ya?"
         },
         {
             "name": "Verxina",
-            "text": "……Oh?",
+            "text": "Terus kok aku nunggunya di pinggir\njalan raya, bukan di akademi――"
+        },
+        {
+            "name": "Verxina",
+            "text": "...Eh?",
             "choice_data_list": [
                 "Yo――Verxina"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san……what's with this car? \nAnd why are you wearing those sunglasses?――",
+            "text": "Trainer-san... ini mobil apa? Terus\nngapain pakai kacamata hitam segala?――",
             "choice_data_list": [
-                "Heh……"
+                "Heh..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "……heh?",
+            "text": "...heh?",
             "choice_data_list": [
-                "It's fine――I just got here too",
-                "It's fine――I just got here too"
+                "Santai――aku juga baru nyampe kok",
+                "Santai――aku juga baru nyampe kok"
             ]
         },
         {
             "name": "Verxina",
-            "text": "……I guess you did?",
+            "text": "...Oh gitu?",
             "choice_data_list": [
-                "Well――just get in"
+                "Udah――masuk aja"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Oh, okay. Please excuse me."
+            "text": "Oh, oke. Permisi ya."
         },
         {
-            "text": "Alright――everything's going well so far. Just like that \ne-book, 『100 Ways to Become a Reliable Person』 said."
+            "text": "Sip――sejauh ini aman. Persis kayak kata\ne-book 『100 Cara Jadi Orang yang Bisa Diandalkan』."
         },
         {
-            "text": "……the car's a rental though."
+            "text": "...walau ini mobil sewaan sih."
         },
         {
             "name": "Verxina",
-            "text": "Wow……you can see the whole city. It's beautiful……!",
+            "text": "Wah... kelihatan seisi kota. Bagus banget...!",
             "choice_data_list": [
-                "I'm glad you like it"
+                "Syukurlah kalau kamu suka"
             ]
         },
         {
             "name": "Verxina",
-            "text": "When you're surrounded by trees, it's a completely different scent \ncompared to in the city, isn't it? The breeze feels nice too――"
+            "text": "Aroma di sini beda banget ya sama di kota,\nbanyak pohon sih. Anginnya juga sejuk――"
         },
         {
-            "text": "I knew about this nice spot that was perfect for relaxation. \nThis was just one part of being a reliable adu――",
+            "text": "Aku tahu tempat nongkrong yang asyik buat santai.\nIni juga bagian dari jadi orang dewa――",
             "choice_data_list": [
-                "!? ……A bee!"
+                "!? ...Ada lebah!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "……Let's stay calm."
+            "text": "...Tenang aja."
         },
         {
             "name": "Verxina",
-            "text": "If we stay calm, it won't sting us. \nLet's just wait until it moves away.",
+            "text": "Kalau kita tenang, dia nggak bakal nyengat.\nTunggu aja sampai dia pergi.",
             "choice_data_list": [
-                "But it flew towards you……!",
-                "But it flew towards you……!"
+                "Tapi dia terbang ke arahmu...!",
+                "Tapi dia terbang ke arahmu...!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Don't worry. I'll be fine."
+            "text": "Nggak apa-apa. Aku aman kok."
         },
         {
             "name": "Verxina",
-            "text": "In the off chance it does try to sting me…… \nAt that moment, I'll crush it."
+            "text": "Kalaupun dia coba nyengat... Bakal langsung aku geprek."
         },
         {
-            "text": "And so――the bee landed on Verxina. \nShe remained calm and eventually the bee flew away."
+            "text": "Terus――lebahnya hinggap di Verxina. Dia tetap santai sampai lebahnya pergi sendiri."
         },
         {
             "name": "Verxina",
-            "text": "I'm glad. ……everything ended without something unfortunate happening.",
+            "text": "Syukurlah. ...nggak ada kejadian aneh-aneh.",
             "choice_data_list": [
-                "……so you're calm even with Bees",
-                "……so you're calm even with Bees"
+                "...kamu santai banget sama lebah ya",
+                "...kamu santai banget sama lebah ya"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Fufuu. It's because I'm the expert bug \nexterminator in our home. Just leave it to me.",
+            "text": "Fufu. Aku kan jagonya basmi serangga di rumah. Serahin aja ke aku.",
             "choice_data_list": [
-                "(H-……how reliable……!)"
+                "(B-bisa diandelin banget...!)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Oh. \nSo at this lake you can feed the ducks, huh?",
+            "text": "Oh. Di danau ini bisa ngasih makan bebek ya?",
             "choice_data_list": [
-                "Let's try hand-feeding them"
+                "Coba kasih makan langsung dari tangan yuk"
             ]
         },
         {
-            "name": "Ducks",
-            "text": "Quack-Quack♪"
+            "name": "Bebek",
+            "text": "Kwek-kwek♪"
         },
         {
             "name": "Verxina",
-            "text": "Waah. Fufu, seeing them digging in with \nsuch gusto is really cute, isn't it?"
+            "text": "Wah. Fufu, lucu banget ya lihat mereka makan lahap gini."
         },
         {
-            "name": "Ducks",
-            "text": "『Quack-Quack-!』『Quack?』『Quack quack quack!?』 \n『Quack!!!!』『Quaaaaack!! Quaaaaack!!』",
+            "name": "Bebek",
+            "text": "『Kwek-kwek-!』『Kwek?』『Kwek kwek kwek!?』 \n『Kwek!!!!』『Kweeeek!! Kweeeek!!』",
             "choice_data_list": [
-                "Hahaha――Wai-……Ow ow ow!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Trainer-san! Spread the food on the ground!"
-        },
-        {
-            "name": "Verxina",
-            "text": "See? The tasty food is over there!"
-        },
-        {
-            "name": "Ducks",
-            "text": "Quack, quack～……",
-            "choice_data_list": [
-                "T-thanks, you saved me……"
+                "Hahaha――Eh-... Aduh duh!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Fufuu, no, no. ……Maybe I should try feeding them too. \nWould you mind sharing a bit of that food with me?"
+            "text": "Trainer-san! Sebar aja makanannya ke tanah!"
         },
         {
-            "text": "……this wasn't going so well. Rather than showing how reliable \nI was, it was more like I was showing how reliable Verxina was――",
+            "name": "Verxina",
+            "text": "Tuh lihat! Makanannya di sana lho!"
+        },
+        {
+            "name": "Bebek",
+            "text": "Kwek, kwek~...",
             "choice_data_list": [
-                "(N-not good――)"
+                "M-makasih, aku terselamatkan..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "……The smell of the salt breeze is comforting isn't it? \nIt brings back memories of playing on the beach as a kid.",
+            "text": "Fufu, santai aja. ...Aku juga mau coba ah.\nBoleh minta makanannya dikit?"
+        },
+        {
+            "text": "...Kacau nih. Niatnya pamer biar kelihatan bisa diandalkan, malah Verxina yang pamer kehebatan――",
             "choice_data_list": [
-                "Y-you're right!",
-                "Y-you're right!"
-            ]
-        },
-        {
-            "text": "……Even her casual words felt like consideration towards me. \nI could feel things getting more awkward when――"
-        },
-        {
-            "text": "In addition to the wind blowing earlier, \nit started to lightly rain."
-        },
-        {
-            "name": "Verxina",
-            "text": "Oh…… What should we do? \nIs there somewhere around here we can take shelter――",
-            "choice_data_list": [
-                "Leave it to me!",
-                "Leave it to me!"
-            ]
-        },
-        {
-            "text": "I'm glad I brought a collapsible umbrella with me just in case――"
-        },
-        {
-            "text": "………… \nBut as soon as a strong breeze blew, the umbrella broke."
-        },
-        {
-            "name": "Verxina",
-            "text": "……Oh dear……",
-            "choice_data_list": [
-                "……No, in that case!"
+                "(G-gawat――)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "!? What's wrong, Trainer-san? \nWhy are you taking off your jacket――",
+            "text": "...Aroma angin lautnya enak ya?\nJadi ingat pas kecil main di pantai.",
             "choice_data_list": [
-                "We'll use this as an umbrella……!"
+                "B-bener banget!",
+                "B-bener banget!"
+            ]
+        },
+        {
+            "text": "...Omongan santainya aja kerasa kayak dia lagi ngertiin aku. \nSuasana makin canggung pas――"
+        },
+        {
+            "text": "Selain anginnya kencang, sekarang mulai gerimis."
+        },
+        {
+            "name": "Verxina",
+            "text": "Aduh... Gimana nih? Ada \ntempat neduh nggak ya di sekitar sini――",
+            "choice_data_list": [
+                "Serahin ke aku!",
+                "Serahin ke aku!"
+            ]
+        },
+        {
+            "text": "Untung aku bawa payung lipat buat jaga-jaga――"
+        },
+        {
+            "text": "............ \nTapi pas kena angin kencang, payungnya langsung patah."
+        },
+        {
+            "name": "Verxina",
+            "text": "...Waduh...",
+            "choice_data_list": [
+                "...Tenang, kalau gitu!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "But, then Trainer-san will…… \nFor me, this isn't a big deal――",
+            "text": "!? Kenapa, Trainer-san? Kok jaketnya dilepas――",
             "choice_data_list": [
-                "……It's fine. I'm……strong!",
-                "……It's fine. I'm……strong!"
+                "Kita pakai ini buat payungan...!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "…………"
-        },
-        {
-            "name": "Verxina",
-            "text": "(……why is it? I feel a little nostalgic. \n……That's right. If I remember, before……――)"
-        },
-        {
-            "name": "Verxina",
-            "text": "(When we were younger, playing in the park with my younger sisters. \nAnd suddenly――it started raining heavily……)"
-        },
-        {
-            "name": "Young Verxina",
-            "text": "Oh no! C'mon! Over here! \nVivlos, Cheval, come get under Onee-chan's jacket!"
-        },
-        {
-            "name": "Young Verxina",
-            "text": "……I'll get completely soaked? \nIt's fine! Onee-chan is strong!"
-        },
-        {
-            "name": "Verxina",
-            "text": "(……It feels like, the me from back then―― \nIs just like Trainer-san now――)"
-        },
-        {
-            "name": "Verxina",
-            "text": "……I understand. Then I'll take you up on that offer."
-        },
-        {
-            "text": "……Thankfully, there was a mall a few minutes walk away. \nBut still, I was completely soaked……"
-        },
-        {
-            "name": "Verxina",
-            "text": "…………",
+            "text": "Tapi, nanti Trainer-san malah...\nKalau aku sih nggak masalah――",
             "choice_data_list": [
-                "Are you okay? You didn't get too wet?",
-                "Are you okay? You didn't get too wet?"
+                "...Nggak apa-apa. Aku kan... kuat!",
+                "...Nggak apa-apa. Aku kan... kuat!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Oh, yeah! Thanks to you, I'm alright. \nThank you very much.",
+            "text": "............"
+        },
+        {
+            "name": "Verxina",
+            "text": "(...Kok aneh ya? Rasanya familier. ...Oh iya. Dulu tuh...――)"
+        },
+        {
+            "name": "Verxina",
+            "text": "(Pas masih kecil, lagi main di taman sama adik-adikku. Tiba-tiba――hujan deras banget...)"
+        },
+        {
+            "name": "Verxina Kecil",
+            "text": "Gawat! Ayo! Sini! \nVivlos, Cheval, masuk ke dalam jaket Kakak!"
+        },
+        {
+            "name": "Verxina Kecil",
+            "text": "...\"Kakak basah kuyup dong?\" \nNggak apa-apa! Kakak kan kuat!"
+        },
+        {
+            "name": "Verxina",
+            "text": "(...Rasanya, aku yang dulu―― \nPersis kayak Trainer-san sekarang――)"
+        },
+        {
+            "name": "Verxina",
+            "text": "...Oke deh. Aku ikut kamu aja."
+        },
+        {
+            "text": "...Untungnya ada mall dekat sini.\nTapi tetep aja, aku basah kuyup..."
+        },
+        {
+            "name": "Verxina",
+            "text": "............",
             "choice_data_list": [
-                "……I'm dripping wet……sorry"
+                "Kamu nggak apa-apa? Nggak terlalu basah kan?",
+                "Kamu nggak apa-apa? Nggak terlalu basah kan?"
             ]
         },
         {
             "name": "Verxina",
-            "text": "――Fufu. No, there's no problem."
+            "text": "Oh, iya! Berkat kamu aku aman. Makasih banyak ya.",
+            "choice_data_list": [
+                "...Aku basah kuyup nih... maaf ya"
+            ]
         },
         {
             "name": "Verxina",
-            "text": "It felt――a little nostalgic though."
+            "text": "――Fufu. Santai aja, nggak masalah kok."
+        },
+        {
+            "name": "Verxina",
+            "text": "Rasanya――bikin kangen masa lalu deh."
         }
     ]
 }

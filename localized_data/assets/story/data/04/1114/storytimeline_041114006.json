@@ -1,0 +1,253 @@
+{
+    "text_block_list": [
+        {
+            "text": "……Ah, lagi ngecek menu ya. Hehe, serius banget mukanya."
+        },
+        {
+            "text": "……Trainer-san yang kayak biasanya."
+        },
+        {
+            "text": "……Huft.",
+            "choice_data_list": [
+                "Buena, ada waktu bentar?"
+            ]
+        },
+        {
+            "text": "……! Iya. Istirahatnya udah kelar?",
+            "choice_data_list": [
+                "Enggak, cuma kepikiran aja, ada apa..."
+            ]
+        },
+        {
+            "text": "Eh? Ah…… nggak, nggak ada apa-apa kok!\nHabisnya agak panas, jadi agak ngelamun aja."
+        },
+        {
+            "text": "Ngomong-ngomong, habis ini latihan di kolam renang kan? \nSyukurlah! Pasti seger banget kalau nyebur sekarang.",
+            "choice_data_list": [
+                "（Dia kelihatan agak kaku…… Kalau di sini nggak bisa ngobrol bebas）"
+            ]
+        },
+        {
+            "text": "……Eh? Pas hari libur? Iya, aku kosong kok. Ada apa?"
+        },
+        {
+            "text": "Eh? Mau pulang ke kampung halaman? Bareng aku……?"
+        },
+        {
+            "text": "Wah…… udah lama banget……! \n――Ah, lihat deh toko buku itu."
+        },
+        {
+            "text": "Dulu kita sering beli buku pelajaran bareng. Terus beli \nkroket di toko daging situ dan bagi dua……"
+        },
+        {
+            "text": "……Semuanya masih sama kayak dulu ya.",
+            "choice_data_list": [
+                "――Gimana kalau keliling bentar?"
+            ]
+        },
+        {
+            "text": "……Boleh!"
+        },
+        {
+            "text": "Hehe, rumputnya masih lebat aja. Di sini juga nggak berubah ya."
+        },
+        {
+            "text": "Kita sering banget main petak umpet.\nTutup mata di pohon itu, terus ngitung satu, dua……"
+        },
+        {
+            "text": "Kamu selalu sembunyi di tempat yang sama.\n……Eh, sebenarnya sengaja 'ngalah', kan?",
+            "choice_data_list": [
+                "……Gimana ya?"
+            ]
+        },
+        {
+            "text": "Hehe, rahasia nih ceritanya? \n……Yaudah, aku nggak nanya lagi deh."
+        },
+        {
+            "text": "……Terus, kita juga sering berdoa bareng\nke kuil ya. Minta macem-macem."
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hiks, uwaa…… Luka lecetnya \nAbang, tolong cepet sembuhin……!",
+            "choice_data_list": [
+                "Semoga cepat sembuh total dan bisa main bareng lagi"
+            ]
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Hiks, uwaa…… Luka lecetnya Kakak, tolong cepet sembuhin……!",
+            "choice_data_list": [
+                "Semoga cepat sembuh total dan bisa main bareng lagi"
+            ]
+        },
+        {
+            "name": "Buena Kecil",
+            "text": "Besok pas festival olahraga! Semoga cuacanya cerah banget! Hmm~~!",
+            "choice_data_list": [
+                "Semoga cuacanya enak buat lari"
+            ]
+        },
+        {
+            "text": "……Lumayan banyak doa kita yang terkabul ya.\nOh iya, sekalian ngucapin terima kasih ke sana yuk.",
+            "choice_data_list": [
+                "Bener juga, kita udah banyak dibantu",
+                "Bener juga, kita udah banyak dibantu"
+            ]
+        },
+        {
+            "text": "Eh…… gitu ya? Akhir-akhir ini juga?"
+        },
+        {
+            "text": "……Gitu toh. Yaudah, kita makin harus bilang makasih ke sana!"
+        },
+        {
+            "text": "Siang! Bibi, udah lama nggak ketemu ya."
+        },
+        {
+            "name": "Pemilik Toko",
+            "text": "Eh, Buena! Ya ampun, kalian berdua udah gede-gede banget \nsekarang~! Seneng deh kalian mampir lagi!"
+        },
+        {
+            "text": "Aku juga seneng bisa ketemu Bibi lagi. Oh iya,\nmanju yomogi-nya masih jual nggak?"
+        },
+        {
+            "name": "Pemilik Toko",
+            "text": "Masih dong, kalian suka banget kan dulu? Hari ini mau beli?"
+        },
+        {
+            "text": "……! Iya! Trainer-san juga mau yang sama kan?"
+        },
+        {
+            "name": "Pemilik Toko",
+            "text": "Ah, iya. Yokan juga ada lho. Abangmu akhir-akhir ini suka beli kan?"
+        },
+        {
+            "name": "Pemilik Toko",
+            "text": "Ah, iya. Yokan juga ada lho. Kakakmu akhir-akhir ini suka beli kan?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eh, yokan……? Bukannya dulu bilang nggak suka karena kemanisan……?",
+            "choice_data_list": [
+                "Sekarang manisnya malah bikin tenang……"
+            ]
+        },
+        {
+            "text": "……Gitu ya, emang enak sih! Kalau gitu\nsekalian beli itu juga aja."
+        },
+        {
+            "text": "……Ah, toko yang di situ udah tutup ya……"
+        },
+        {
+            "text": "――Yah. Di sini juga udah beda……",
+            "choice_data_list": [
+                "……Masih belum semangat ya?"
+            ]
+        },
+        {
+            "text": "! Enggak kok. ……Atau jangan-jangan,\nkamu lagi ngawatirin aku ya?"
+        },
+        {
+            "text": "Sempat heran kenapa kamu ngajak ke sini…… ternyata gitu toh."
+        },
+        {
+            "text": "……Eh, mampir kuil sekali lagi boleh nggak?\nAda yang mau didoain nih.",
+            "choice_data_list": [
+                "……Boleh"
+            ]
+        },
+        {
+            "text": "（Kring, kring――Prok, prok）"
+        },
+        {
+            "text": "（……Aku bukan anak kecil lagi. Aku bakal cepet dewasa.\nRasa kesepian ini juga bakal kuatasi.）"
+        },
+        {
+            "text": "（Jadi, tolong lindungi aku terus. Biar nggak bikin dia khawatir lagi. Biar aku bisa selalu senyum ceria……!）"
+        },
+        {
+            "text": "（――Klotak）",
+            "choice_data_list": [
+                "……Barusan bunyi apa ya?"
+            ]
+        },
+        {
+            "text": "Eh, dari sebelah sini…… ah, ada \nema (papan doa) yang jatuh! Talinya putus ya……"
+        },
+        {
+            "text": "Hmm? Eh, tulisan ini――kayak pernah lihat……"
+        },
+        {
+            "text": "――Pasti dia kenal tulisannya. Soalnya itu papan\nyang baru aja aku tulis belakangan ini……!",
+            "choice_data_list": [
+                "Ah, itu……!"
+            ]
+        },
+        {
+            "text": "『Semoga aku bisa jadi orang yang\npantas buat Buena』. ……Eh?"
+        },
+        {
+            "text": "……Ini maksudnya apa? Boleh jelasin ke aku……?"
+        },
+        {
+            "text": "――Aku pun cerita semuanya. Rasa kaget saat lihat larinya yang\nsekarang. Aku mati-matian belajar dan berdoa biar bisa sejajar sama\nsosoknya yang makin bersinar……",
+            "choice_data_list": [
+                "……Kepingin banget buat ngewujudin itu"
+            ]
+        },
+        {
+            "text": "……Kamu terus berjuang sambil mikirin hal itu?"
+        },
+        {
+            "text": "……Padahal kita udah lama nggak ketemu.\nBanyak juga hal yang udah berubah……",
+            "choice_data_list": [
+                "Tapi, yang ini nggak pernah berubah kok"
+            ]
+        },
+        {
+            "text": "……!",
+            "choice_data_list": [
+                "Harapanku buat terus di sampingmu"
+            ]
+        },
+        {
+            "text": "……Kita nggak pernah menjauh rupanya."
+        },
+        {
+            "text": "Kamu tetep kamu yang dulu…… \nHatimu selalu ada di sampingku……"
+        },
+        {
+            "text": "……Eh, ada yang lain lagi nggak?",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "text": "Ah, hehe, maaf tiba-tiba nanya."
+        },
+        {
+            "text": "Tiba-tiba pengen denger aja. \n……Cerita soal kamu selama kita nggak bareng."
+        },
+        {
+            "text": "Sisi dirimu yang belum aku tahu.",
+            "choice_data_list": [
+                "……Akhirnya kamu bisa senyum lepas lagi"
+            ]
+        },
+        {
+            "text": "He-em!"
+        },
+        {
+            "text": "Maaf ya. Sekarang aku udah nggak apa-apa kok.\n……Akhirnya aku bisa lulus.",
+            "choice_data_list": [
+                "Lulus…… dari apa?"
+            ]
+        },
+        {
+            "text": "……Mmm, apa ya."
+        },
+        {
+            "text": "Lulus dari \"Buu-chan si kesepian\", mungkin?"
+        }
+    ]
+}

@@ -1,285 +1,285 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It was already summer. \nWe were all here for special training."
+            "text": "Udah masuk musim panas nih. Kita semua ngumpul buat latihan spesial."
         },
         {
             "name": "Umamusume A",
-            "text": "Oh man, this is really hard, huh…… \nIt's hot and my feet keep slipping……!"
+            "text": "Aduh, berat juga ya... Panas banget,\nkaki juga kepeleset mulu...!"
         },
         {
             "name": "Umamusume B",
-            "text": "It's hard to maintain your form, isn't it～…… \n……Hm?"
+            "text": "Susah ya jaga postur tubuh... ...Hm?"
         },
         {
             "name": "Verxina",
-            "text": "Fuuu……!"
+            "text": "Fuuu...!"
         },
         {
             "name": "Umamusume A",
-            "text": "Ooooh～……! As expected of Verxina-san…… \nJust like when we see her at the academy, her form is beautiful……!"
+            "text": "Ooooh~...! Emang beda ya Verxina-san... Persis kayak di \nakademi, posturnya cakep banget...!"
         },
         {
             "name": "Umamusume B",
-            "text": "Even on the sand, it's almost like a painting…… \nAlright, let's stay motivated a bit longer!"
+            "text": "Di atas pasir aja udah kayak lukisan...\nOke, ayo semangat dikit lagi!"
         },
         {
             "name": "Verxina",
-            "text": "……Fuu. Sorry about that Trainer-san. \nHaving you get this for me."
+            "text": "...Fuu. Maaf ya, Trainer-san. Ngerepotin ambil ini segala."
         },
         {
             "name": "Verxina",
-            "text": "With this, beach training is all wrapped up. ……It felt like \nthe training load was a bit lighter than usual though――"
+            "text": "Latihan di pantai selesai deh. ...Tapi rasanya\nporsi latihannya agak lebih ringan dari biasanya ya――"
         },
         {
             "name": "Verxina",
-            "text": "……Dashing on the beach is pretty effective. \nBut, since it's poor footing, doing it for extended \nperiods could be risky……is that about right?",
+            "text": "...Lari di pantai emang efektif. Tapi karena pijakannya susah, \nbahaya kalau kelamaan... bener gitu kan?",
             "choice_data_list": [
-                "That's right!"
+                "Bener banget!"
             ]
         },
         {
-            "text": "――Of course. This time, I put quite \na lot of effort in to the contents."
+            "text": "――Tentu aja. Kali ini, aku mikirin banget menu latihannya."
         },
         {
-            "text": "As a trainer, that was expected of me, but…… \nTo be honest, I wanted to make up for last time……"
+            "text": "Sebagai pelatih sih wajar ya, tapi... Sebenarnya,\naku pengen nebus yang waktu itu..."
         },
         {
             "name": "Verxina",
-            "text": "Next on the menu was swimming right……? \nHow much longer should I rest?",
+            "text": "Habis ini renang kan...? Aku istirahat berapa lama lagi?",
             "choice_data_list": [
-                "About 3 minutes!"
-            ]
-        },
-        {
-            "name": "Verxina",
-            "text": "Understood. Then…… \nIt's about time I did something light, right?"
-        },
-        {
-            "text": "Right. Today I'd do things perfectly for sure. I was keeping a close \neye on times and providing towels and hydration in a timely manner."
-        },
-        {
-            "text": "So I could be a reliable trainer for Verxina."
-        },
-        {
-            "name": "Verxina",
-            "text": "Good work, Trainer-san. \nOnce again, thank you for your guidance.",
-            "choice_data_list": [
-                "Ah, yeah……good work……",
-                "Ah, yeah……good work……"
+                "Sekitar 3 menit!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "……You seem really tired. \nAre you okay?",
+            "text": "Ngerti. Kalau gitu... Waktunya pemanasan ringan kali ya?"
+        },
+        {
+            "text": "Sip. Hari ini aku bakal kerja sempurna. Aku pantau terus \nwaktunya, siapin handuk sama minum tepat waktu."
+        },
+        {
+            "text": "Biar aku bisa jadi pelatih yang bisa diandelin Verxina."
+        },
+        {
+            "name": "Verxina",
+            "text": "Kerja bagus, Trainer-san. Makasih lagi ya bimbingannya.",
             "choice_data_list": [
-                "Maybe I was a little too enthusiastic",
-                "Maybe I was a little too enthusiastic"
+                "Ah, iya... kerja bagus...",
+                "Ah, iya... kerja bagus..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "That's true for both of us. It seems like a tough \nenvironment gets me feeling more motivated."
-        },
-        {
-            "name": "Verxina",
-            "text": "Right, right. \nWe talked about having a barbeque tonight."
-        },
-        {
-            "name": "Verxina",
-            "text": "I'm starting to get hungry now…… \nMaybe today I'll ask for some extra.",
+            "text": "...Kamu kelihatan capek banget. Nggak apa-apa?",
             "choice_data_list": [
-                "That sounds fun",
-                "That sounds fun"
+                "Kayaknya aku terlalu semangat deh.",
+                "Kayaknya aku terlalu semangat deh."
             ]
         },
         {
-            "text": "And so, we returned from training camp with high expectations――"
+            "name": "Verxina",
+            "text": "Sama dong. Lingkungan yang keras bikin aku makin termotivasi."
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh iya. Nanti malam kan mau barbekyuan."
+        },
+        {
+            "name": "Verxina",
+            "text": "Mulai lapar nih... Nanti porsinya agak banyak ah.",
+            "choice_data_list": [
+                "Asyik tuh.",
+                "Asyik tuh."
+            ]
+        },
+        {
+            "text": "Akhirnya, kita balik dari tempat latihan dengan semangat tinggi――"
         },
         {
             "name": "Umamusume A",
-            "text": "Wha……there's no fire starter!?!? Or lighters!?"
+            "text": "Loh... nggak ada pemantik api!?!? Korek juga!?"
         },
         {
             "name": "Umamusume B",
-            "text": "The meat……won't be cooked? We can't cook……? The meat……?"
+            "text": "Dagingnya... nggak bisa mateng dong?\nNggak bisa masak...? Dagingnya...?"
         },
         {
             "name": "Umamusume C",
-            "text": "No waaay～!! We'll only be eating raw veggies thenー!"
+            "text": "Nggak mauuu~!! Masa cuma makan sayur mentah doangー!"
         },
         {
             "name": "Verxina",
-            "text": "Calm down! Everyone!"
+            "text": "Tenang! Semuanya!"
         },
         {
             "name": "Verxina",
-            "text": "……It'll be fine. I'll do something about it."
+            "text": "...Nggak apa-apa. Biar aku yang urus."
         },
         {
             "name": "Verxina",
-            "text": "……No firewood or lighters, huh. \nSo, what should we do……?"
+            "text": "...Nggak ada kayu bakar atau korek ya. Terus, gimana nih...?"
         },
         {
             "name": "Verxina",
-            "text": "To start with, we should probably figure \nout how we're going to start a fire, huh?",
+            "text": "Pertama-tama, kita harus cari cara bikin api dulu kan?",
             "choice_data_list": [
-                "……You can leave that to me!",
-                "……You can leave that to me!"
+                "...Serahin aja ke aku!",
+                "...Serahin aja ke aku!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Ehh……Trainer-san, \ndid you have something in mind?",
+            "text": "Eh... Trainer-san, ada ide?",
             "choice_data_list": [
-                "You can count on me!",
-                "You can count on me!"
+                "Bisa diandelin kok!",
+                "Bisa diandelin kok!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "…………"
+            "text": "............"
         },
         {
             "name": "Verxina",
-            "text": "――Got it. Well then, \nI guess I'll start by gathering some firewood."
+            "text": "――Oke. Kalau gitu, aku kumpulin kayu bakar dulu ya."
         },
         {
-            "text": "……Well, that's what I said but, \nI'm not really sure on the proper method."
+            "text": "...Tadi sih ngomong gitu, tapi aku nggak gitu tahu cara pastinya."
         },
         {
-            "text": "But when it came to fires, there was a standard way to start one. \nFirst you needed a wooden stick to start with.",
+            "text": "Tapi kalau bikin api, ada cara standarnya kan.\nPertama butuh tongkat kayu dulu.",
             "choice_data_list": [
-                "Alright……I think I've got it!"
+                "Oke... Kayaknya aku paham!"
             ]
         },
         {
-            "text": "――And 15 minutes later…… \nI was already exhausted but still hadn't started a fire."
+            "text": "――Terus 15 menit kemudian... Aku udah\ncapek tapi apinya belum nyala juga."
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san. Everyone helped out \nand we prepared a lot of firewood."
+            "text": "Trainer-san. Semuanya udah bantu\nkumpulin banyak kayu bakar nih."
         },
         {
             "name": "Verxina",
-            "text": "The fire……is still in progress it seems. \nWould you like my help?",
+            "text": "Apinya... kayaknya masih diproses ya. Mau dibantuin?",
             "choice_data_list": [
-                "Thanks! But just a little longer!"
+                "Makasih! Tapi bentar lagi kok!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "…………"
+            "text": "............"
         },
         {
-            "name": "Young Verxina",
-            "text": "No, no, it's too early for both of you to use matches. \nJust leave it to Onee-chan."
+            "name": "Verxina Kecil",
+            "text": "Nggak boleh, kalian masih terlalu kecil\nbuat main korek. Serahin ke Kakak aja."
         },
         {
-            "name": "Their Mother",
-            "text": "Ara ara～. Will you be okay? \nYou can leave it to Mama, you know～?"
+            "name": "Ibu Mereka",
+            "text": "Ara ara~. Kamu bisa nggak? Biar Mama aja yang nyalain, ya~?"
         },
         {
-            "name": "Young Verxina",
-            "text": "I-I can do it! \nI was able to do it before――"
+            "name": "Verxina Kecil",
+            "text": "B-bisa kok! Sebelumnya juga bisa――"
         },
         {
-            "name": "Their Mother",
-            "text": "……Fufuu. Then, I guess I'll leave it to you. \n\"Onee-chan\", right?"
+            "name": "Ibu Mereka",
+            "text": "...Fufu. Ya udah, Mama serahin ke kamu ya. Kan \"Kakak\"."
         },
         {
-            "name": "Young Verxina",
-            "text": "H-here we go……taaa!"
+            "name": "Verxina Kecil",
+            "text": "B-bersiap... taaa!"
         },
         {
             "name": "Verxina",
-            "text": "……Fufu. \nDo your best, Trainer-san.",
+            "text": "...Fufu. Semangat ya, Trainer-san.",
             "choice_data_list": [
-                "……Yeah!",
-                "……Yeah!"
+                "...Iya!",
+                "...Iya!"
             ]
         },
         {
-            "text": "And then――when the sun was starting to set――"
+            "text": "Terus――pas matahari mulai terbenam――"
         },
         {
             "name": "Verxina",
-            "text": "…………It lit!"
+            "text": "............Nyala!"
         },
         {
             "name": "Umamusume A",
-            "text": "Oh man～ for a while there, I was worried. \nThe meat's good～."
+            "text": "Aduh~ sempat panik tadi. Dagingnya enak~."
         },
         {
             "name": "Umamusume C",
-            "text": "It really is……thanks to Verxina-senpai \nwe aren't stuck with raw veggies～."
+            "text": "Iya nih... untung ada Verxina-senpai,\nkita nggak jadi makan sayur mentah~."
         },
         {
             "name": "Verxina",
-            "text": "No. I didn't do anything though, really. \nThe one who lit the fire was Trainer-san after all."
+            "text": "Nggak kok. Aku nggak ngapa-ngapain.\nKan yang nyalain api Trainer-san."
         },
         {
             "name": "Umamusume B",
-            "text": "Mumumu……that's true! Trainer-san! \nYou'll be the Savior of the Meats from now on!",
+            "text": "Mmm... bener juga! Trainer-san! \nMulai sekarang kamu itu Pahlawan Daging!",
             "choice_data_list": [
-                "Hahaha……"
+                "Hahaha..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "Truly, thanks for the hard work today. \nTrainer-san.",
+            "text": "Beneran, makasih kerja kerasnya hari ini. Trainer-san.",
             "choice_data_list": [
-                "……Was I reliable today?",
-                "……Was I reliable today?"
+                "...Aku bisa diandelin nggak hari ini?",
+                "...Aku bisa diandelin nggak hari ini?"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Was Trainer-san? \n…………"
+            "text": "Trainer-san ya? ............"
         },
         {
             "name": "Verxina",
-            "text": "Fufuu.",
+            "text": "Fufu.",
             "choice_data_list": [
-                "……I guess not"
+                "...Kayaknya nggak ya."
             ]
         },
         {
             "name": "Verxina",
-            "text": "That's not it. \nIt was just that you asked something so obvious."
+            "text": "Bukan gitu. Kamu nanya hal yang udah jelas banget."
         },
         {
             "name": "Verxina",
-            "text": "You always have been. Since you became my \ntrainer, Trainer-san has been a point of pride."
+            "text": "Kamu selalu bisa diandelin. Sejak jadi pelatihku,\naku bangga banget sama Trainer-san."
         },
         {
             "name": "Verxina",
-            "text": "Incredibly earnest. Always hard working――",
+            "text": "Jujur banget. Selalu kerja keras――",
             "choice_data_list": [
-                "……I'd say that describes you though",
-                "……I'd say that describes you though"
+                "...Tapi itu lebih cocok buat kamu deh.",
+                "...Tapi itu lebih cocok buat kamu deh."
             ]
         },
         {
             "name": "Verxina",
-            "text": "Then, I guess that makes us two of a kind."
+            "text": "Berarti kita sama dong."
         },
         {
             "name": "Verxina",
-            "text": "……Ever since I met Trainer-san――I think I've \ncome to understand the way my sisters see me.",
+            "text": "...Semenjak ketemu Trainer-san――\nKayaknya aku mulai paham pandangan adik-adikku ke aku.",
             "choice_data_list": [
-                "Think you can start relying on me?",
-                "Think you can start relying on me?"
+                "Kira-kira kamu bisa mulai ngandelin aku nggak?",
+                "Kira-kira kamu bisa mulai ngandelin aku nggak?"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Yes. Then, maybe I'll take you up on that offer――"
+            "text": "Iya. Kalau gitu, aku terima tawarannya deh――"
         },
         {
             "name": "Verxina",
-            "text": "――Think you can grill up some more delicious meat then?"
+            "text": "――Bisa tolong panggangin daging enak lagi nggak?"
         }
     ]
 }
