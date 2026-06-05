@@ -1,235 +1,235 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It was a few days after the Selection Race, in \nwhich Agnes Tachyon ultimately did not participate."
+            "text": "Beberapa hari setelah Balapan Seleksi, di mana \nAgnes Tachyon pada akhirnya tidak ikut serta."
         },
         {
-            "text": "I caught sight of her in the hall and, fearing I might \nbe dragged off to her laboratory for some hideous experiment, \ntried to sneak past unnoticed when—"
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "So… you've decided? To leave…"
-        },
-        {
-            "text": "\"To leave\"… Wait, she doesn't mean \"drop out\", does she? \nI stopped for a moment and listened intently."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "That's about the size of it. Apparently telling me to run in that \nrace was intended as some sort of ultimatum."
+            "text": "Aku melihatnya di lorong, dan untuk menghindari terlibat \ndalam eksperimen aneh lainnya, aku mencoba melarikan diri \ndengan diam-diam——"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Why not… just run… \nOr, maybe… show up for class a little more often…"
+            "text": "Jadi……kamu sudah memutuskan? Untuk pergi……"
+        },
+        {
+            "text": "『Untuk pergi』……Apakah dia bermaksud『putus akademi』? \nAku berhenti sejenak dan mendengarkan dengan seksama."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I don't appreciate my research being interrupted time and again. \nAnd I believe I was in class as much as time allowed, was I not?"
+            "text": "Ya, kurasa begitu. Sepertinya akademi memaksa saya untuk \nmengikuti seleksi terakhir adalah cara mereka memberi saya \nkesempatan terakhir."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "But… if you drop out, you'll never run in the Twinkle Series… \nWhat about your research…?"
+            "text": "Mengapa tidak……hanya berlari…… \nAtau, mungkin……datang ke kelas lebih sering……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It will continue, naturally. I still \nhave this brain, and this body…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Besides, races that attract highly skilled Umamusume \ndo exist beyond the Twinkle Series."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I could even take my activities abroad! England, France, \nAmerica, Dubai — boundless possibilities surely await!"
+            "text": "Saya tidak menyukai penelitian saya terus-menerus terganggu. \nDan saya yakin saya sudah berada di kelas sebanyak mungkin \nwaktu yang memungkinkan, bukankah begitu?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Abroad… that's a… bold proposition…"
+            "text": "Tapi……jika kamu keluar, kamu tidak akan pernah bisa ikut \ndalam Twinkle Series……Bagaimana dengan penelitianmu……?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hahaha! All in the name of science!"
+            "text": "Tentu saja saya akan melanjutkan. Saya masih memiliki \notak dan tubuhku di sini, bagaimanapun juga."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "In any case, I, Agnes Tachyon, will continue \nto use this body to search for the outer limits \nof speed. That much will never change."
+            "text": "Dan bukan seolah-olah Twinkle Series adalah satu-satunya \ntempat untuk balapan melawan Umamusume terbaik."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mungkin saya harus memindahkan laboratorium saya ke \nluar negeri！ Inggris, Prancis, Amerika, Dubai——\nkemungkinannya tak terbatas！"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "… I… see"
+            "text": "Di luar negeri……itu adalah……usulan yang berani……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hm? Hmm hmm?! Could it be that you were worried about me?"
+            "text": "Ha-ha-ha！ Apa pun demi penelitianku！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Or perhaps after all of our experiments together \nyou've formed a habit!? You needn't worry, I'd \nbe more than happy to send you your dose!"
+            "text": "Bagaimanapun, saya berencana menggunakan tubuh Umamusume-ku \nini, milik Agnes Tachyon, untuk menemukan apa yang ada di luar \nkecepatan tertinggi. Itu tidak berubah sedikit pun."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "No… if it means escaping your crazy \nexperiments, you can go… wherever you like…"
+            "text": "……Benarkah begitu?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Eeeeh!!"
+            "text": "Hmm……Hmm hmm? Apakah kamu khawatir tentangku?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mungkinkah setelah menjadi subjek eksperimen begitu \nbanyak kali, kamu akhirnya berubah pikiran！? Jangan khawatir,\nsaya bersedia mengirimkan obat-obatan masa depan saya kepadamu！"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "But… if you can continue your research, \nthen… that's good. …Goodbye then."
+            "text": "Tidak……Aku hanya berharap……Aku tidak akan terlibat \ndalam eksperimen aneh lagi selamanya……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Aah, wait, Cafe! There's just one last test \nI wanted to… she's not listening, is she.",
+            "text": "Apa！！"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tapi……Saya senang Anda terus melanjutkan \npenelitianmu……Selamat tinggal."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah! Cafe, tunggu！ Aku punya satu eksperimen terakhir…… \nTapi sepertinya dia sudah pergi.",
             "choice_data_list": [
-                "Are you really going to drop out…?",
-                "Are you really going to drop out…?"
+                "<size=40>Kamu akan keluar dari Tracen Academy?</size>",
+                "<size=40>Kamu akan keluar dari Tracen Academy?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well, well, rookie. Our paths seem to cross a lot of late."
+            "text": "Nah, Trainer pemula. Kita sudah sering bertemu \nbelakangan ini, bukankah begitu?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But, well, the answer is yes. My potential was enough to get me \nin, and they have been very patient regarding my activities… but \nit seems that patience has finally run out."
+            "text": "Kamu benar-benar berhasil. Aku bisa masuk karena harapan semua \norang padaku, dan mereka bahkan mengabaikan kelakuanku \nyang aneh——tapi sepertinya kesabaran mereka akhirnya habis."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The Japan Umamusume Training Center Academy is the premier \ntraining institute for Umamusume, and famous for valuing \nstudent independence."
+            "text": "Akademi ini terkenal karena memprioritaskan kebebasan \npara Umamusume dan melakukannya dengan menyediakan \nfasilitas pelatihan terdepan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But one thing is not negotiable — you find a trainer and you make \nyour debut in professional racing. And if you won't do that, then \nthe academy has no need of you."
+            "text": "Tapi akademi tidak membutuhkan pelajar yang tidak \ndirekrut atau tidak melakukan debut resmi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And, well, what with skipping classes and refusing \nto find a trainer because it might interfere with \nmy research… that counts me out."
+            "text": "Karena itu, dengan bolos kelas dan menolak mencari \npelatih karena mungkin mengganggu penelitianku……\nitu membuatku tidak bisa ikut."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "So here we are. I've received the recommendation to withdraw.",
+            "text": "Pada akhirnya, akademi menyarankan agar saya \nmengundurkan diri.",
             "choice_data_list": [
-                "And you're going to…?",
-                "And you're going to…?"
+                "<size=38>Apakah Anda berencana untuk ikut serta?</size>",
+                "<size=38>Apakah Anda berencana untuk ikut serta?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Admittedly, being unable to race in the Twinkle \nSeries could be a setback to my research."
+            "text": "Sayang sekali, saya tidak bisa ikut serta dalam Twinkle Series. \nDan penelitian saya pasti akan melambat juga."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But… it's preferable to letting all the other distractions keep \nme from doing any research at all."
+            "text": "Namun……tetap lebih baik daripada membiarkan penelitianku \nterhambat karena akademi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I suppose it was inevitable that this was going to happen. \nIn fact, perhaps I've been awaiting the day. So it's a—"
+            "text": "Aku tahu hari ini akan datang. Mungkin aku menunggunya. \nSebenarnya, ini adalah——"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "\"Actually a good thing\"? Come now, there's \nno need to put it like that."
+            "text": "Aku tidak akan membiarkanmu mengatakan sesuatu yang \nsedih seperti『Ini adalah berkah』。"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well well! The student council president makes \nan appearance! To what do we owe the honor?"
+            "text": "Oh? Ini dia kejutannya. Kalau bukan salah satu petinggi akademi."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Pardon the interruption. I need to borrow her for a moment. \nAgnes Tachyon, is your mind made up about leaving?"
+            "text": "Maaf mengganggu, tapi aku ada urusan dengan dia. \n……Agnes Tachyon, apakah kau benar-benar berniat \nmeninggalkan akademi ini?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As always, my mind is on whatever is best for \nmy research, Ms. President. Any further questions?"
+            "text": "Seperti biasa, pikiran saya tertuju pada apa yang terbaik untuk \npenelitian saya, Presiden. Ada pertanyaan lain?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "… No, no more questions. \nInstead I have a request."
+            "text": "Ya, itu saja. Oleh karena itu, saya memiliki \npermintaan untuk Anda."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "A request, you say? Hmm, what might that be?"
+            "text": "Sebuah permintaan? Hmm, apa ya?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Run with me, Agnes Tachyon."
+            "text": "Ayo ikut berlari bersamaku, Agnes Tachyon."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, and look who it is. Just here to watch the \nsunset I presume? You're pretty bold, rookie.",
+            "text": "Nah, sekarang……kamu ada di tribun.\nKamu memang cukup berani juga ya, Trainer.",
             "choice_data_list": [
-                "Don't mind me…"
+                "Jangan pedulikan aku……"
             ]
         },
         {
-            "text": "I couldn't pass up the chance to watch her, so \nregarded for her pure running ability, race against \n\"The Emperor\" Symboli Rudolph herself…"
+            "text": "Agnes Tachyon yang dikabarkan berlari bersama『Kaisar』、\nSymboli Rudolf? Tidak ada yang bisa membuatku berhenti \nmenonton."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm. Fair enough. I can respect a man who \nfollows his curiosity. Watch away."
+            "text": "Hmm. Baiklah, Saya menghargai seseorang yang mengikuti rasa \ningin pengetahuan, Silakan tonton sebanyak yang Anda inginkan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I imagine it's likely the last time you'll \nsee me running this course anyway."
+            "text": "Karena ini adalah kali terakhir saya berlari di lintasan ini."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Sorry to keep you waiting, Agnes Tachyon. Fortunately we have the \ncourse all to ourselves… and our only spectator is this rookie \ntrainer. Looks like we can enjoy a quiet bout."
+            "text": "Maaf sudah membuatmu menunggu, Agnes Tachyon. \nHanya kita berdua……dan Trainer pemula ini. Sepertinya \nkita bisa menikmati duel kita dengan tenang."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Isn't that why you chose this time of day? \nThough I know not what you're hoping to get out of this."
+            "text": "Bukankah itulah sebabnya kamu memilih waktu ini? \nMeskipun aku tidak tahu apa yang kamu harapkan dari ini."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Heh… Now then, does 2000m on the turf course \nsound good to you?"
+            "text": "Hmm……Nah, bagaimana kalau 2.000 meter di lapangan Turf?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Whatever you want. I'm sure I owe you a great \ndeal, so it's the least I can do."
+            "text": "Apa pun tidak masalah bagiku. Aku yakin aku sangat berhutang \nbudi padamu, jadi aku akan dengan senang hati membalas budi."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "…I don't think you owe me anything. \nAfter all, I couldn't help you in the end."
+            "text": "Tidak ada alasan untuk berterima kasih padaku.\nPada akhirnya, aku tidak bisa membantu Anda."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ha ha ha! Always so serious!! No matter. \n2000m on turf it is. Let us prepare."
+            "text": "Ha-ha-ha！ Kamu selalu terlalu serius！！ Bagaimanapun, \n2.000 meter di lapangan turf, kan? Aku akan bersiap-siap."
         },
         {
             "name": "Symboli Rudolf",
             "text": "………",
             "choice_data_list": [
-                "What is it?",
-                "Something up?"
+                "Ada apa?",
+                "Ada apa?"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "She needs to compete in the Twinkle Series for her research, and \nthat's why she joined the academy. But if being a student here \ninterferes with that research, she has no choice but to leave."
+            "text": "Dia mendaftar di Tracen untuk mengikuti Twinkle Series dalam \nrangka penelitiannya. Namun, jika tugasnya sebagai pelajar di sini \nmenghalangi penelitiannya, maka kepergiannya tak terhindarkan."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "She's not wedded to the Twinkle Series per se, so she chooses \nto go and find that level of competition elsewhere."
+            "text": "Dia tidak terikat pada Twinkle Series secara khusus, jadi dia memilih \nuntuk mencari tingkat persaingan yang sama di tempat lain."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It all sounds so logical… but don't you think \nthere's one thing that's not quite right?"
+            "text": "Segala yang dilakukannya begitu logis, yang membuatnya \nsemakin aneh, kan?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Why did she stay at the academy this long in the first place?"
+            "text": "Mengapa dia memilih untuk tetap tinggal di akademi \nini hingga titik jenuh."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Why stay here, where she can't get around the \ntrainers — or \"hindrances\", as she calls them?"
+            "text": "Mengapa tinggal di sini, di mana dia tidak bisa menghindari \npara Trainer yang dia sendiri sebut sebagai gangguan, kenapa?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "… What do you think?"
+            "text": "……Apa pendapatmu?"
         },
         {
-            "text": "And so, with no one to see it but me, Agnes Tachyon \nand Symboli Rudolph lined up to race…!"
+            "text": "Begitulah, perlombaan antara Agnes Tachyon dan Symboli Rudolf \ndimulai, dengan saya sebagai penonton tunggalnya！"
         }
     ]
 }

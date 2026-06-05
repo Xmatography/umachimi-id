@@ -1,242 +1,242 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It was Sunday. I was out doing my shopping when…"
+            "text": "Di hari liburku, aku pergi ke distrik perbelanjaan \nuntuk berbelanja."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well, well, if it isn't my dear trainer."
+            "text": "Wah, ternyata kamu, Trainer！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Are you here to carry my bags for me? \nHahaha, very good! Hop to it, then, come on!",
+            "text": "Apa kamu kemari untuk membawakan tas-tasku? \nHeh-heh, aku tersentuh！ Sekarang bekerjalah sepuas hatimu.",
             "choice_data_list": [
-                "Actually I'm just here to do my own shopping…",
-                "Actually I'm just here to do my own shopping…"
+                "<size=34>Aku ke sini untuk berbelanja kebutuhan pribadi……</size>",
+                "<size=34>Aku ke sini untuk berbelanja kebutuhan pribadi……</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Come now, I'll allow you to do both! I don't mind! \nI am, after all, a kind and understanding Umamusume."
+            "text": "Tak perlu khawatir, aku tidak keberatan. Kamu bisa urus itu \nsambil di jalan. Seperti yang kamu tahu, aku ini sangat \nrendah hati！"
         },
         {
-            "text": "And so I ended up accompanying Agnes \nTachyon as she did her shopping."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "You know, a single tomato contains a surprising amount of \nnutrients. In an ideal world that would be enough, but this \nimperfect body demands so much more…"
+            "text": "Pada akhirnya, aku terseret ke dalam perjalanan \nbelanja Agnes Tachyon."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Let's get tomatoes… and three steamed chicken fillets. Muscle \ngrowth is impossible without adequate protein intake."
+            "text": "Satu buah tomat memberikan nutrisi yang tidak sedikit, \ntapi tetap saja tubuh merepotkan ini masih menuntut lebih."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ugh, what an absolute bore. If only we could live on dietary \nsupplements, then we wouldn't have to waste time worrying about \nall this food nonsense.",
+            "text": "Jadi aku akan ambil tomat……dan tiga dada ayam kukus untuk \ndibuat salad. Aku tidak boleh mengabaikan asupan protein jika \ningin melihat pertumbuhan otot."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aduh, merepotkan sekali. Andai saja aku bisa bertahan \nhanya dengan suplemen.",
             "choice_data_list": [
-                "But supplements don't taste of anything…",
-                "But supplements don't taste of anything…"
+                "Suplemen rasanya tidak enak, kan?",
+                "Suplemen rasanya tidak enak, kan?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And? The purpose of eating is to replenish \nthe body's supply of nutrients."
+            "text": "Hei, bukankah makan hanyalah tindakan untuk mengisi \nulang nutrisi kita?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The major nutrient types can be digested raw. Licopin and such \ncan be obtained most readily from processed food products."
+            "text": "Kebanyakan sumber nutrisi bisa diserap bahkan dalam \nkeadaan dasarnya. Dalam beberapa kasus seperti likopen, \nmengonsumsi makanan olahan lebih efisien."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As if I would have time for \"cookery\". I just buy what I need, \nthrow it in the mixer, and drink it down."
+            "text": "Tentang memasak. Biasanya, aku cuma memasukkan semua \nyang kubeli ke <i>food processor</i> dan selesai."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I do not wish to spend any more time than necessary on the \noptional processes around food consumption. Because time, \nmy dear, is a finite resource."
+            "text": "Kalau bisa, aku tidak ingin membuang sedetik pun untuk \npengisian ulang lewat mulut. Waktu itu terbatas, Trainer-kun！"
         },
         {
-            "text": "The more I heard about Agnes Tachyon's dietary \nhabits, the more worried I became."
+            "text": "Semakin aku mendengar tentang pola makan Agnes Tachyon, \nsemakin khawatir aku jadinya."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "If only the cafeteria were open 24 hours, I wouldn't have to \ntrouble myself with food shopping at all…",
+            "text": "Haaah…… Kalau kantin selalu buka, aku tidak perlu \nmembuang waktuku untuk berbelanja.",
             "choice_data_list": [
-                "How about I make you something?",
-                "How about I make you something?"
+                "Mau aku masakin untukmu?",
+                "Mau aku masakin untukmu?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "\"Make\"? You? Such dedication! I don't know \nwhether to be impressed or disgusted."
+            "text": "Kamu, masak? Haha！ Haruskah aku memanggilmu \n『berbakti』 atau hanya 『penurut』?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Could it be that over the course of our many experiments, you \nhave developed some kind of addiction to serving me?"
+            "text": "Aku tidak bisa menyingkirkan kemungkinan bahwa kamu \nmungkin telah kecanduan melayaniku setelah semua \neksperimen."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Alright, you're on. As long as I don't have \nto do anything, I think it's a fine idea."
+            "text": "Heh-heh, tidak masalah bagiku. Itu akan membebaskan hariku. \nBukan ide yang buruk sama sekali."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Very well then. You can begin be preparing \nmy dinner tonight. Don't hold back, now!"
+            "text": "Sudah diputuskan—aku akan serahkan makan malam padamu. \nLayani aku sepenuh hatimu！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, and don't try to fob me off with a load of empty calories. I \ntrust you will give due consideration to nutritional balance."
+            "text": "Ah, dan jangan buat apa pun yang terlalu tinggi kalorinya. \nPastikan untuk menyiapkan sesuatu yang seimbang secara nutrisi."
         },
         {
-            "text": "And that's how I ended up preparing Agnes Tachyon's dinner."
+            "text": "Dan sekarang aku yang bertanggung jawab atas \npersiapan makanan Agnes Tachyon."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Why on earth did you call me out here at this ungodly hour?",
+            "text": "Ada apa, memanggilku pada jam seperti ini?",
             "choice_data_list": [
-                "I brought you some dinner!",
-                "I brought you some dinner!"
+                "Aku bawakan makanan untukmu",
+                "Aku bawakan makanan untukmu"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, that's right! I was so engrossed in my research \nthat I scarcely noticed the time."
+            "text": "Oooh, benar juga！ Aku terlalu asyik dengan \npenelitianku sampai lupa makan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I decided to go back to basics, you see. I realized that if we \nwish for a Umamusume to travel at light speed, we must consider \nher momentum not classically but as a Lorentz-covariant four- \nvector! And…",
+            "text": "Begini, aku memutuskan untuk kembali ke dasar. Seperti \npengejaran kecepatan melebihi cahaya, membuka potensi \nUmamusume membutuhkan penggunaan empat-momentum——",
             "choice_data_list": [
-                "L… let's talk about that after you've eaten…!"
+                "B-bentar, berhenti dulu！"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Alright, alright, no need to get worked up. I just mean to say \nthat my work is progressing well. You'll have to wait a little \nlonger until I can test these theories on you, but… well, \nthat's something for you to look forward to!"
+            "text": "Kamu kok sampai heboh begitu? Bagaimanapun, penelitianku \nsedang dalam kondisi baik. Aku tidak akan membutuhkanmu \nuntuk sementara waktu, tapi kamu bisa menantikannya juga."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I'll take that back to the lab with me. There is still much to do \nbefore I can retire for the night."
+            "text": "Aku akan ambil makanan itu darimu, tapi aku harus segera \nkembali ke labku—penelitianku menuntut penyelesaian."
         },
         {
-            "text": "Then, the next morning…"
+            "text": "Keesokan paginya——"
         },
         {
-            "text": "(rattle)"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Morning, trainer. Here, let me give you these back."
-        },
-        {
-            "text": "Agnes Tachyon pressed the empty food trays \nfrom the previous night into my hands."
+            "text": "(Gemerincing)"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Vitamins, minerals, protein, fat, sugar… All present and correct, \nand in appropriate quantities. Well done.",
+            "text": "<i>Huah……</i> Selamat pagi, Trainer-kun. Ini, kotak makanku."
+        },
+        {
+            "text": "Agnes Tachyon menyodorkan kotak makan kosong ke \ntanganku."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Vitamin, mineral, protein……Lipid dan karbohidrat juga. \nSemua ada. Aku beri nilai A untuk keseimbangannya.",
             "choice_data_list": [
-                "And…? How did it taste?"
+                "Bagaimana rasanya?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It was fine. However, considering this particular \nuse case, I will suggest two improvements."
+            "text": "Tidak terlalu buruk. Tapi ada dua hal yang bisa kamu \nperbaiki untuk lain kali."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Number one. It is most inconvenient to use chopsticks while \nconducting my tests. Do something about that."
+            "text": "Pertama—aku menyantap makanan di waktu jeda antara \neksperimen, tapi harus menggunakan sumpit ternyata \nmerepotkan. Tolong cari cara agar lebih mudah."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Number two. Not enough rice in proportion to the other \nitems. Add more to correct this imbalance."
+            "text": "Kedua—nasi yang menyertai lauknya terlalu sedikit. \nTambahkan lagi untuk menyeimbangkan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I appreciate it's too late for today, but be sure to implement \nthese improvements from tomorrow.",
+            "text": "Aku berasumsi porsi hari ini sudah tak tertolong, tapi \naku harap kekurangan ini diperbaiki ke depannya.",
             "choice_data_list": [
-                "\"Today\"? What do you mean \"today\"?"
+                "Porsi hari ini?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Today's breakfast, of course. You DID bring it, didn't you?"
+            "text": "Sarapanku, tentu saja. Kamu membawanya, kan?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I need to hurry back to the lab. Quickly now, hand it over.",
+            "text": "Saatnya aku kembali ke lab. Ayo, serahkan.",
             "choice_data_list": [
-                "I don't have anything for you today."
+                "<size=36>Aku tidak membawakan apa pun untukmu……</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "W… what did you just say!?"
+            "text": "Ha—apa！?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "No breakfast? Is this supposed to be some kind of \nJOKE!? And after I interrupted my research to drag \nmyself all the way here to collect it…!"
+            "text": "Kamu tidak buatkan aku sarapan！? Kamu bercanda kan！ \nKamu bilang aku meninggalkan penelitianku untuk ini……！?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Did you or did you not promise to prepare my food for me?",
+            "text": "Bukankah kamu berjanji akan menyiapkan makananku！?",
             "choice_data_list": [
-                "Well, yesterday's, yeah…"
+                "<size=44>Hari ini aku belum melakukannya……</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Huh—!?"
+            "text": "Ha—！?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Are you telling me that I am to negotiate every \nmeal with you ahead of time? How inefficient!"
+            "text": "Apa aku harus minta padamu untuk setiap kali makan！? \nItu akan sangat tidak efisien！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Your job is to look after my needs! Now hurry up! Feed me!",
+            "text": "Tugasmulah untuk mengurusku！ Jadi berikan aku \nsesuatu untuk dimakan, sekarang！",
             "choice_data_list": [
-                "Alright, I'll get you something by lunch time!"
+                "<size=30>Aku akan coba buatkan sesuatu sebelum makan siang……</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Now. I am hungry now!"
+            "text": "Aku bilang sekarang！ Aku mau makan sekarang！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "This hunger can only be satiated by giving me my \nbreakfast, or giving your body up for experimentation \nfor the remainder of the morning."
+            "text": "Aku hanya bisa meredam keinginan ini dengan makanan——\natau eksperimen dengan mengorbankanmu."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "So… which will it be? Will you cook… or will you submit…?",
+            "text": "Sekarang, pilih yang mana. buatkan aku makanan, atau penuhi \nperanmu sebagai kelinci percobaanku.",
             "choice_data_list": [
-                "Cook! Cook!!"
+                "A-aku akan buatkanmu makanan！"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Very well. We'll just have to experiment on you \nthis afternoon instead. For now, breakfast.",
+            "text": "Tidak apa bagiku. Aku akan pindahkan eksperimen kita ke siang, \njadi cepatlah dengan sarapan itu, ya……",
             "choice_data_list": [
-                "Wait, you're going to experiment on me anyway!?",
-                "Wait, you're going to experiment on me anyway!?"
+                "<size=42>Kamu masih akan mengeksperimenku！?</size>",
+                "<size=42>Kamu masih akan mengeksperimenku！?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Naturally! That is a guinea pig's job, is it not? \nJust as managing my nutrition is a trainer's job."
+            "text": "Tentu saja, itu tugasmua sebagai kelinci percobaanku. \nMembuatkan aku makanan adalah tugasmu sebagai Trainer."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The cafeteria is so very, very far… until breakfast \nis ready, I believe I will take a nap."
+            "text": "Pergi jauh-jauh ke kantin terlalu merepotkan. Kurasa aku akan \ntidur siang, jadi bangunkan aku kalau makanannya sudah siap."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, come now, I'm not asking much. I don't mind if \nyou use whatever you have left over from yesterday. \nYou do HAVE something left over, don't you?"
+            "text": "Hei, aku tidak meminta banyak. Silakan gunakan sisa bahan \ndari makanan kemarin. Kamu masih menyimpannya, kan?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hurry up. Come on. \nI said hurry! Get cooking, go!"
+            "text": "Ayo, cepatlah！ Cepatlah <i>buatkan aku makanan！</i>"
         },
         {
-            "text": "It's good that she was finally getting a balanced diet… even if \nit meant I had to make all her meals for her…"
+            "text": "Aku senang Tachyon kembali tertarik pada makanan, \ntapi apa dia benar-benar berharap aku membuatkan \nmakanan untuknya setiap hari?"
         }
     ]
 }

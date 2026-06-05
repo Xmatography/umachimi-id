@@ -1,254 +1,254 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It was time for the summer training camp, when \nall Umamusume go to the academy's seaside \nlodge for a period of intense training."
+            "text": "Hari ini, perkemahan musim panas kita dimulai. \nKita akan menghabiskan beberapa minggu ke depan \ndengan latihan yang bagus di tepi pantai."
         },
         {
-            "text": "Or that's the idea, anyway…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "The time has come! Time to test all these theories, these many \nhypotheses composed over many sleepless nights…"
+            "text": "——Seharusnya begitu, tapi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "My dear Trainer, how are you feeling? \nDid you take your temperature, what did \nyou have for breakfast, how long did you sleep?"
+            "text": "Aku tiba-tiba ingin membuktikan teori yang telah kususun \nhingga membuatku sulit tidur. Tapi sebelum kita memulai \neksperimen……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "All could have a bearing on the outcome of our experiment! We \nmust take care to note down every detail before we proceed!",
+            "text": "Trainer-kun, bagaimana perasaanmu！? Suhu tubuhmu? Jam tidur? \nMakanan yang dikonsumsi?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Kondisimu bisa sangat memengaruhi hasil, lho. \nKarena itu, aku harus mencatat data ini sebelum eksperimen！",
             "choice_data_list": [
-                "So… were you planning on doing some training today, or…"
+                "Bukannya kita akan latihan hari in—"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The theory we will be verifying pertains to running \nperformance, so yes! You might say it's a SORT of \ntraining that we will be conducting…!"
+            "text": "Heh-heh……Teoriku berkaitan dengan peningkatan kecepatan \nberlari. Kamu bisa menyebutnya bentuk latihan lain！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Although by \"we\", I of course mean \"you\".",
+            "text": "Tapi, kamu yang akan melakukan pekerjaannya.",
             "choice_data_list": [
-                "Uuuugh…"
+                "Tidak mungkin……"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, come now, relax! I'll be sure to \nstop before you lose consciousness!"
+            "text": "Ahahaha！ Jangan khawatir, aku tidak akan membiarkanmu \ntidak sadar."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "We shall begin by measuring your organs' energy \nconsumption under extreme stress and cardiac \nload. Then we will proceed to a phased…"
+            "text": "Baiklah, pertama kita akan mengukur konsumsi energi \norgan-organmu di bawah tekanan ekstrem. Lalu kita akan \ntingkatkan langkah demi langkah——"
         },
         {
-            "text": "Agnes Tachyon continued to reel off her test plan. \nIt seemed she had no intention of doing any kind \nof conventional training herself today."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "…and that is why, rather than being bound by convention and \nspending these precious few days aimlessly running about in the \nsand, we must open our minds!"
+            "text": "Tachyon terus bicara pada dirinya sendiri. Sepertinya dia \ntidak punya niat untuk mengikuti latihan normal."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As long as we pursue the limits of the possible… we have not a \nmoment to waste! So! Let the experimentation begin!!"
+            "text": "……Oleh karena itu, ketika Kamu datang ke perkemahan musim panas, \njangan berpikiran yang tidak orisinal seolah-olah berlari di pantai \nadalah aturan yang ketat, dan gunakan otakmu secara fleksibel."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "First, we will use this incline here to give your \ncardiopulmonary functions a little nudge."
+            "text": "Tidak ada waktu bagi kita untuk berpangku tangan ketika \nkita harus mengejar batas kecepatan. Sekarang, mari kita \nmulai eksperimennya！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "To gather the data we need, I think three laps from \nhere to the beach and back should suffice."
+            "text": "kita akan manfaatkan kemiringan jalan ini untuk \nmerangsang fungsi kardiopulmonermu！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Is the pulse oximeter securely in place? Remember, \nI need a solid reading at the end of each lap!"
+            "text": "Untuk mendapatkan data yang bagus, kamu perlu lari ke \npantai dan kembali setidaknya tiga kali."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And no matter how much it hurts, I need you to keep going! Data \nfrom your absolute physiological limit is best.",
+            "text": "Apa alat pengukuranmu sudah siap? Itu akan mencatat \nkadar oksigenmu sekali setiap putaran, jadi jangan lupa bawa."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Juga, tidak peduli seberapa lelah kamu—jangan berhenti berlari. \nAku ingin data darimu saat mendekati batasmu.",
             "choice_data_list": [
-                "Is this really necessary!?"
+                "Itu gila……"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What? All you need to do is move your arms and \nlegs for me. Like a hamster in a wheel!"
+            "text": "Kenapa? Yang harus kamu lakukan hanyalah mengosongkan \npikiran dan berlari seperti hamster di roda！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "That said, you are only a guinea pig. I suppose it's not \nrealistic to expect a hamster's level of physical conditioning."
+            "text": "Tapi kamu hanya kelinci percobaan, jadi aku \ntidak mengharapkanmu berlari sebaik hamster."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But worry not! I will be close at hand. Someone has \nto stop you staggering off course after all."
+            "text": "Jangan takut, aku akan menemanimu. Seseorang harus \nmemastikan kamu tidak menyimpang dari jalur."
         },
         {
-            "text": "It didn't look like I was going to get out of this one."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "More! More, trainer…! \nGet those knees up!! Don't let your speed drop, now!"
+            "text": "……Dan lenyaplah harapan terakhirku untuk kabur."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Steady, regular breaths! If you break the \nrhythm it's only going to hurt more!",
+            "text": "Ayo, kamu pasti bisa, Trainer-kun！ Angkat pahamu lebih tinggi! \nBenar, pertahankan kecepatan ini！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Jaga napasmu tetap stabil！ Kalau tidak, kamu akan \nmembuatnya lebih sulit untuk dirimu sendiri.",
             "choice_data_list": [
-                "Easy for you to say…!"
+                "Aku…… butuh…… napas……"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Excellent, excellent! I see you're close to your \nlimit, keep it up! Just two more laps to go!!"
+            "text": "Ahaha! Bagus, apakah kamu sudah mendekati batasmu? \nMasih ada dua putaran lagi！ Sedikit lagi！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm. It seems the onset of muscle fatigue was somewhat faster \nthan expected. I wouldn't call it \"cramp\" exactly, but I think \njust standing up is hard enough for you at the moment,"
+            "text": "Hm……Kamu mengalami kelelahan otot yang lebih besar \ndari yang kuduga. Kakimu tidak gemetaran, tapi aku bisa \nlihat kamu berusaha keras untuk tetap berdiri."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Never mind. We shall proceed to the next test. I need you to run \nup that incline again in your current state so that I can collect \ndata on your respiratory function."
+            "text": "Oke kalau begitu, mari kita lanjut ke eksperimen berikutnya. \nAku ingin mengumpulkan data organ pernapasanmu saat kamu \nberlari menanjak dalam kondisi ini."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "This is very important data. It could, in fact, be the very key \nwe seek, that unlocks the doors of untold possibility!",
+            "text": "Heh-heh, ini akan menjadi data yang penting！ Ini mungkin \nbisa membuka pintu menuju potensi yang harus kita cari！",
             "choice_data_list": [
-                "I… I'll do my best…!",
-                "I… I'll do my best…!"
+                "Aku akan lakukan yang kumampu……",
+                "Aku akan lakukan yang kumampu……"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "However… looking at the color of you, I'd say we are not so much \n\"close\" to your physiological limit as were are… over it."
+            "text": "……Atau, seharusnya begitu. Melihatmu, kamu bukan hampir \nmencapai batasmu, kamu sudah melampauinya."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Can't be helped I suppose. I must reexamine the test procedure. I \ncan't get the data I need from you in this condition, so let's \nsave that for another time.",
+            "text": "Sepertinya kalkulasiku meleset. Karena kita tidak bisa \nmendapatkan data sekarang, kita harus menjadwalkan \nulang eksperimennya.",
             "choice_data_list": [
-                "Are you sure?",
-                "Are you sure?"
+                "Apa kamu yakin tidak apa-apa?",
+                "Apa kamu yakin tidak apa-apa?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "If you wish to suffer further, I won't stop you. \nBut rather than collecting useless data, we should \nperhaps direct our efforts elsewhere…"
+            "text": "Aku tidak keberatan kalau kamu ingin melanjutkan. Tapi aku \nlebih suka menggunakan waktu ini untuk melakukan \neksperimen lain daripada merekam data yang tidak perlu."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But what can we do instead…? I didn't bring \nthe necessary equipment for anything else.",
+            "text": "……Namun, sepertinya aku tidak membawa apa pun yang \nberguna. Hmm……",
             "choice_data_list": [
-                "The sea's right there. Can't we use that somehow?"
+                "<size=32>Bisakah kita menggunakan air laut untuk sesuatu?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The sea, eh. I could have you swim in it, but without any of my \nequipment I'm not sure what that would accomplish."
+            "text": "……Air laut, ya? Tentu, berenang bukan satu-satunya hal yang \nbisa dilakukan di laut. Tapi bagaimana caranya memanfaatkan \nair laut tanpa peralatan apa pun?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You're not offering to drink it or something, are you?",
+            "text": "Jangan-jangan kamu berpikir untuk meminumnya?",
             "choice_data_list": [
-                "How about… muscle icing?"
+                "<size=34>Bagaimana dengan mengompres otot dengan es?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Icing, you say? Sunny day like this, I'd say \nthe water temperature's probably around 25 celsius… \nHardly the ideal temperature, but…"
+            "text": "Mengompres……Mempertimbangkan cuaca hari ini, suhu laut \npasti di atas 25 derajat Celsius. Suhu airnya tidak sesuai, tetapi……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It's not going to win you any prizes, but it is an idea, at least. \nAnd, admittedly, it had not occurred to me."
+            "text": "Hmm, idemu biasa saja tapi ada manfaatnya. Lagipula, aku sendiri \ntidak menyadarinya."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "We could focus our attention on muscle contraction…? \nOr better yet, the insulating effect of the warm water… hmm…"
+            "text": "Dengan memusatkan air pada kontraksi ototmu, kita bisa \nmengumpulkan data baru…… Ah, bukan, itu hanya akan \nmempertahankan panas……Hmm."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I've got it! We will investigate the combined effect of buoyancy, \nsalinity and the mechanical action of the waves on your body."
+            "text": "Baiklah！ Laut memiliki salinitas, daya apung, dan gesekan \npasang surutnya sendiri. Kita harus memverifikasi bagaimana \ntubuhmu akan bereaksi terhadap elemen-elemen ini！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Interesting, very interesting. I gathered some fascinating data. \nNot quite enough to prove or disprove my hypothesis, but…"
+            "text": "Oh, begitu, ini memang data yang sangat menarik. \nMeskipun belum cukup untuk membuktikan teoriku……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But with some further work, this too might be the \nkey that opens the doors of untold possibility!"
+            "text": "Tapi jika aku fokuskan penelitian ke arah ini, \nmaka pasti ada terobosan baru……！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Yes… yes…!! Trainer, dear, come with me! \nWe must record these findings!"
+            "text": "Heh-heh-heh……Ini akan berhasil, aku yakin！ Trainer-kun, \nwaktunya mengompilasi data！ Bantu aku！"
         },
         {
-            "text": "We went back to the lodge. While I wrote up the day's results, \nI helped Agnes Tachyon with her work until long after lights-out."
+            "text": "Kami kembali ke asrama dan mulai menyaring data hari ini. \nTentu saja, kami juga begadang semalaman untuk bereksperimen."
         },
         {
-            "text": "Then, the next morning…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Beautiful morning, don't you think, trainer?"
+            "text": "Lalu, Keesokan harinya——"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Thank you again for your help yesterday. Thanks to you I was \nable to formulate a new serum based on my theory."
+            "text": "<i>Huah……</i> Selamat pagi, Trainer-kun！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "On paper, at any rate. Without my equipment here, we shall have \nto wait until we return to the academy to prototype it."
+            "text": "Aku harus menyampaikan rasa terima kasih atas kerjasamamu. \nBerkatmu, aku bisa mengembangkan obat baru berdasarkan \nteoriku."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Before that, though, I'd like to pick your brain a little more. \nAny insights based on our work so far?",
+            "text": "Sayangnya, itu masih hanya di atas kertas. Aku tidak \nmembawa peralatanku ke perkemahan, jadi produksinya \nharus menunggu sampai kita kembali ke akademi."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tapi sebelum itu, aku ingin mendengarkan berbagai pendapatmu \njuga, apakah ada hal yang kamu sadari dari penelitian yang kamu \nlakukan sampai pagi ini?",
             "choice_data_list": [
-                "Huh?"
+                "Hah?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I want to target increased oxygen uptake efficiency \nduring muscle contraction, and I'd like any opinions \nyou may have on the subject."
+            "text": "Aku terutama ingin mendengar cara-cara untuk meningkatkan \nefisiensi penyediaan oksigen ke otot selama kontraksi. \nCeritakan semua yang kamu tahu."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You have a fresh perspective. As a layperson, \nI find you sometimes pick up on things that I do not. \nYou have an eye for the small details."
+            "text": "Begini, ada nilai tertentu dalam pendapat seorang amatir. \nPendapatmu itu baru, bahkan pertanyaan sederhanamu \nmemicu ketertarikanku."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And most of all, you're the only one willing to assist me in my \nexperiments like this every day. You might say you're my \n\"guinea-pig-slash-assistant\"!",
+            "text": "Yang terpenting, kamu satu-satunya yang mau mengikuti \neksperimenku. Aku mengharapkan banyak hal darimu, \nasisten kelinci percobaanku！",
             "choice_data_list": [
-                "Did you say \"assistant\"!?"
+                "Asisten！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Not only are you a valuable test subject, your viewpoint is \nvaluable too. Taken together, I don't think it's too much of a \nstretch to call you my \"assistant\"."
+            "text": "Kamu adalah subjek uji yang cakap, dan sudut pandangmu \nsangat berharga. Secara holistik, apa lagi kamu kalau \nbukan asistenku?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Both of those things are indispensable requirements for my \nresearch. So! Don't be shy! What do you have for me?",
+            "text": "Kelinci percobaan dan asisten sama-sama tak ternilai bagi \nseorang peneliti sepertiku. Jadi jika kamu punya pemikiran \nyang menarik, bagikan denganku！ Aku akan menyimaknya！",
             "choice_data_list": [
-                "It's just… I don't think you've ever asked for my opinion before…",
-                "It's just… I don't think you've ever asked for my opinion before…"
+                "<size=34>Akhirnya, Kamu mendengarkan apa yang kukatakan</size>",
+                "<size=34>Akhirnya, Kamu mendengarkan apa yang kukatakan</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Is that so? Well, in that sense, perhaps we really have pushed \nback the boundaries of possibility!"
+            "text": "Oh, benarkah begitu? Hmm, kalau begitu, ini juga bisa dikatakan \nsebagai kemajuan menuju potensi yang kita cari."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Rejoice, my dear! Because this could be \nthe first step on a grand journey for you!"
+            "text": "Bergembiralah, Trainer-kun！ Langkah tunggal ini pasti akan \nmembawa kita ke jalan yang lebih besar."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Right then! With that out of the way, we should proceed to \ntoday's experiment. Time, after all, is a finite resource!"
+            "text": "Baiklah, kalau sudah diputuskan begitu, mari kita lanjutkan \neksperimen kita！ Waktu kita di sini terbatas, bagaimanapun."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I misjudged the intensity ramp-up yesterday, but I'm sure that \nthis time we will observe your body at its absolute physiological \nlimit! Let us away, trainer!!"
+            "text": "Aku salah hitung kemarin, tapi kali ini aku akan kerahkan \ntenagamu sampai ke ujung batasmu！ Mari kita mulai, Trainer-kun！"
         },
         {
-            "text": "I ended up running until night fell, and became \nall too familiar with my physiological limit…"
+            "text": "……Tachyon memaksaku berlari meski kurang tidur, dan \nsebelum aku sadar, aku sudah mencapai batasku sekali lagi……"
         }
     ]
 }

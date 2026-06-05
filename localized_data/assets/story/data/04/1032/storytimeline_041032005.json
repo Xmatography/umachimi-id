@@ -1,158 +1,158 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "My body felt leaden… like I'd been dragged out \nof a swimming pool with my clothes on…"
+            "text": "Hah? Tubuhku terasa berat, seperti ikan di darat."
         },
         {
-            "text": "Slowly I opened my eyes. I could make out the familiar \nshapes of a classroom in the darkness… and the figure \nof Agnes Tachyon standing before me…"
+            "text": "Aku membuka mata dan mendapati diriku berada di ruang kelas \nkosong di malam hari, dengan Agnes Tachyon di hadapanku."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Subject is sweating profusely. Body \ntemperature… appears to be rising.",
+            "text": "Kamu berkeringat sangat deras. Suhu tubuhmu…… \nHmm, kamu lumayan demam.",
             "choice_data_list": [
-                "Eh… eh…!?"
+                "Eh…… Eh！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Guinea pig you may be, but your body's febrile response is \nunquestionably human. Which is fine for our purposes, of course…"
+            "text": "Meskipun hanya kelinci percobaan, tapi tubuhmu melepaskan \npanas sama seperti manusia. Tapi kurasa akan jadi masalah \nkalau tidak."
         },
         {
-            "text": "I looked down. My body was entangled with all manner of \nunfamiliar devices and strange instruments…"
+            "text": "Aku melihat ke bawah ke tubuhku……dan mendapati diriku terikat \npada alat misterius！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ah, this is just like the day we first met…! Only \nthis time we have the laboratory all to ourselves. \nNobody will interfere with my experiment!",
+            "text": "Ini mengingatkanku pada saat pertama kita bertemu. Tapi \nsekarang sedikit berbeda. Ini adalah laboratorium pribadiku. \nDi sini, tak ada yang akan menghalangiku！",
             "choice_data_list": [
-                "Laboratory…? But this is just an ordinary classroom…!",
-                "Laboratory…? But this is just an ordinary classroom…!"
+                "<size=36>Laboratorium……Ini cuma ruang kelas biasa！?</size>",
+                "<size=36>Laboratorium……Ini cuma ruang kelas biasa！?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ahh, not so! I am only here because you agreed \nto take part in this experiment."
+            "text": "Tidak sama sekali！ Aku di sini karena kamulah \nyang menginginkan eksperimen！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And this space is entirely of YOUR creation… \nso in that sense, it's quite accurate to call \nthis our \"laboratory\", don't you agree?",
+            "text": "Kamulah yang mempersiapkan lingkungan ini. Oleh karena itu, \nbukankah pantas untuk menamai tempat ini sebagai \nlaboratoriumku?",
             "choice_data_list": [
-                "I don't understand…!"
+                "Aku tidak mengerti……！"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "A-hahahaa! Then understand this. A guinea pig's job is to be \nsubjected to whatever conditions the test requires."
+            "text": "Ahahaha！ Ketahuilah, tugas kelinci percobaan adalah \nmenerima semua fenomena sebagai eksperimen yang \nmenunggu untuk terjadi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And you volunteered to be my guinea pig, did you \nnot? If you wish to renegotiate the terms of your \nemployment, perhaps now is not the best time."
+            "text": "Kamulah yang memilih menjadi kelinci percobaanku. \nApa menurutmu kamu berada di posisi untuk menuntut kapan, \ndi mana, atau bagaimana eksperimenku berlangsung?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "To probe beyond the limits… to reveal the true potential \nof Umamusume… this requires tireless effort and research, \nof which testing is an indispensable part!"
+            "text": "Jika aku harus melampaui batasku dan mewujudkan potensi \ntersembunyi dari jenis Umamusume, maka aku harus mengabdikan \ndiri pada penelitian……dengan kata lain, lebih banyak eksperimen！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Now! Perhaps it's time I let you try a rather enjoyable new serum \nI have created. It has an intense blue glow which I think you \nwill find quite pleasing!"
+            "text": "Sekarang, aku akan membuatmu menelan ciptaan terbaruku. \nLihat, yang ini bersinar biru yang menyenangkan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heeheehee… and with this your muscular strength will increase \nseveral fold… Your body will be blessed with unimaginable \nstrength, strength surpassing the most fearsome monster…!",
+            "text": "Heh-heh-heh……Dengan ini, kekuatan ototmu akan meningkat \nseribu kali lipat, melahirkan tubuh yang melampaui monster \nmana pun！",
             "choice_data_list": [
-                "!?"
+                "Tunggu, apa！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Now… open wide…"
+            "text": "Baiklah, buka mulutmu……"
         },
         {
-            "text": "There was nothing I could do to stop her. She was right, after \nall. I was the one who volunteered to be her guinea pig."
+            "text": "Aku tak berdaya di hadapannya. Bagaimanapun, \naku memang sukarela jadi kelinci percobaannya."
         },
         {
-            "text": "I gathered my resolve, closed my eyes… and opened my mouth…"
+            "text": "Aku bersiap dan perlahan membuka mulut——"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well, well. Good morning my little guinea pig."
+            "text": "Selamat pagi, kelinci percobaanku."
         },
         {
-            "text": "The sunlight burned as it flooded my eyes. But \nthat must mean everything up to now had been…",
+            "text": "Aku menyipitkan mata saat sinar cahaya menyerang pupilku. \nMungkinkah obat tadi……",
             "choice_data_list": [
-                "H…… huh!? A dream…!?"
+                "<size=40>H-hah！? Apakah tadi semuanya mimpi！?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm? You seem troubled. Some kind of… nightmare, perhaps?"
+            "text": "Hmm? Kamu terlihat cukup ketakutan, lho? Apa kamu \nmimpi buruk atau sesuatu?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Curious… the light level in here hasn't changed, but there is a \npronounced dilation in your pupils… Intriguing… most intriguing. \nWhy don't you tell me what you saw."
+            "text": "Pencahayaan belum berubah, tapi pupilmu membesar. \nHeh-heh-heh……Kamu membuatku penasaran. Ayo, ceritakan \nsemuanya padaku."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "There is still much we do not understand neurologically about the \ndreaming brain… But if we apply the principles of depth \npsychology to your experience…"
+            "text": "Bahkan sampai sekarang, ilmu pengetahuan modern \nbelum bisa menjelaskan mekanisme pasti bagaimana kita \nbermimpi. Namun, dari sudut pandang psikologi mendalam……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It seems as though you see me as a Umamusume who \nmight at any moment subject you to horrifying experimentation, \nwithout warning or consent…!"
+            "text": "Kita bisa menyimpulkan bahwa citra diriku dalam alam bawah \nsadarmu adalah『seorang Umamusume yang bereksperimen \npada orang tanpa mempertimbangkan perasaan mereka』、"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I see… that is the Agnes Tachyon that resides in your psyche.",
+            "text": "Begitu ya……Aku tidak percaya aku melakukan \nsemua itu dalam mimpimu.",
             "choice_data_list": [
-                "Sorry I, uh… didn't mean anything by it…",
-                "Sorry I, uh… didn't mean anything by it…"
+                "<size=36>Maaf, aku tidak bermaksud menyinggungmu……</size>",
+                "<size=36>Maaf, aku tidak bermaksud menyinggungmu……</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hahaha…! To think that I would go to the trouble of ASKING you to \nopen your mouth! The Agnes Tachyon of your dreams clearly has \nmore time to waste than I do…"
+            "text": "Heh-heh……Aku benar-benar bilang,『Buka mulutmu……』、\nTachyon dalam mimpimu benar-benar merepotkan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "One does not ask the guinea pig's PERMISSION to \ncommence the experiment, good gracious no!",
+            "text": "Seolah-olah kelinci percobaan punya pilihan dalam hal itu！",
             "choice_data_list": [
-                "Um."
+                "Hah?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hahahaha! Oh, what are you gawping at now? Did you forget that \nyou willingly donated your body to my research?"
+            "text": "Ahahaha！ Kenapa terlihat kaget? Apa kamu lupa bahwa \nkamu adalah subjek percobaanku?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And I was so close, too. Why, a few moments longer and you would \nhave been sleeping like a baby… and I could have slipped serum \nbeta down your throat without you even noticing!",
+            "text": "Sayang sekali soal tadi. Sedikit lagi dan aku akan diam-diam \nmenuangkan sedikit Obat-β ke tenggorokanmu.",
             "choice_data_list": [
-                "Huh…!?"
+                "Hah！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ah, yes, this. For what it's worth, on this occasion I was \nactually trying to do you a service. I have high hopes for serum \nbeta's effectiveness, you see, but it tastes quite revolting…"
+            "text": "Sekadar klarifikasi, aku berusaha menunjukkan belas kasihan. \nMeskipun β sangat manjur, itu datang dengan konsekuensi \nrasanya yang buruk."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh well, now that you're awake I won't need to worry about \nspilling these 120ml… Because you can use those precious \nopposable digits of yours to do the job yourself!"
+            "text": "Tapi daripada aku berusaha menuangkan 120 mililiter β ke \ntenggorokanmu tanpa tumpah, lebih baik kamu saja untuk \nmenelannya sendiri."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It certainly makes MY life easier… and that's what counts.",
+            "text": "Jauh lebih mudah daripada harus membuka mulutmu paksa！",
             "choice_data_list": [
-                "Wait, I… um…"
+                "Eh, tunggu dulu——"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Is there a problem, guinea pig? Your tasks are as follows. One: \nreceive the serum. Two: Drink the serum. Did I miss anything?"
+            "text": "Ada apa, kelinci percobaanku yang manis?『Langkah satu—\nambil obat dari tanganku』『Langkah kedua—minum』、\nCukup mudah, kan?"
         },
         {
-            "text": "*chattering*"
+            "text": "Sebuah bisikan……"
         },
         {
-            "text": "For some time after, I went about my business… trying my best to \nignore the stares as my thighs glowed blue through my trousers."
+            "text": "Akibat efek samping β, aku harus menerima pahaku yang \nbersinar biru dan menjadi tontonan orang-orang yang \nmemandang dari kejauhan——untuk waktu yang cukup lama."
         }
     ]
 }

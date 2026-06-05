@@ -1,241 +1,241 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Today is the \"Selection Race\". An important day for upcoming \nUmamusume to display their blossoming running abilities to \nthe trainers present."
+            "text": "Hari ini adalah 『hari seleksi』。Umamusume yang siap balapan \nakan menunjukkan kemampuan mereka kepada calon Trainer \ndengan harapan dapat direkrut."
         },
         {
-            "text": "I, as well, was eager to discover the potential \nof the future Umamusume here and scout for \none to take under my wing. Just then…"
+            "text": "Adapun saya, saya juga sedang mencari Umamusume yang \nmenjanjikan untuk direkrut dan dilatih."
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Color me surprised. Did you see the updated start list they \njust handed out? I wondered what was up, and it turns out \nAgnes Tachyon's been added to it…!"
+            "name": "Trainer Veteran A",
+            "text": "Kamu bercanda. Aku baru saja melihat brosur baru dan \naku tidak percaya dengan mata kepalaku sendiri——Agnes \nTachyon ikut serta！"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "What? Agnes Tachyon!? That… talented girl, \nwho — rumour has it — is quite the hazardous presence!?",
+            "name": "Trainer Baru A",
+            "text": "Huh, Agnes Tachyon！? Yang katanya sama\nberbahayanya dengan bakatnya……！?",
             "choice_data_list": [
-                "(Agnes Tachyon…!?)"
+                "(Agnes Tachyon……！?)"
             ]
         },
         {
-            "text": "I remembered what had a happened in the infirmary a few days \nearlier, and a chill ran down the length of my spine. But—"
+            "text": "Sebuah getaran dingin menjalar di punggungku saat aku \nmengingat kembali peristiwa beberapa hari yang lalu. Namun——"
         },
         {
-            "name": "Selection Race Official",
-            "text": "Ms. Tachyon, Ms. Agnes Tachyon!? That's strange… \nMs. Cafe, have you seen Ms. Tachyon!?"
+            "name": "Seleksi Staf",
+            "text": "Tachyon, Agnes Tachyon！? Aneh……Cafe, apakah kamu \nmelihat Tachyon！?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Ehh… d-don't ask me…"
+            "text": "Ehh……ja-jangan tanya aku……"
         },
         {
-            "name": "Selection Race Official",
-            "text": "Huuuh… what are we supposed to do now…"
+            "name": "Seleksi Staf",
+            "text": "Apaaa? Apa yang harus aku lakukan……"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "Aww. Sounds like Tachyon's not going to show up today either. \nI was hoping to see her fabled \"superluminal \" final spurt."
+            "name": "Trainer Baru A",
+            "text": "Oh, jadi Tachyon tidak datang lagi. Sayang sekali, aku \ningin melihat『ledakan kecepatan akhir yang sangat cepat \nitu』yang selalu dibicarakan orang."
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "But why? Her mother won Oka Sho, her grandmother \nwon Oaks… Even among her prestigious lineage she was \npraised as their \"magnum opus\" before enrolling here."
+            "name": "Trainer Veteran A",
+            "text": "Neneknya memenangkan『Oaks』、dan ibunya memenangkan『Oka Sho』\nSebelum dia bergabung dengan Tracen, semua orang mengatakan \ndia adalah permata dari garis keturunan yang terhormat……"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "If only she wasn't so… unusual."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Pardon me, Manhattan Cafe. \nIs Agnes Tachyon… not coming?"
+            "name": "Trainer Veteran A",
+            "text": "Tapi keanehannya sedikit merusak suasana……"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It's my understanding that the academy has informed her that \nparticipation in this Selection Race is mandatory."
+            "text": "Permisi, Manhattan Cafe. Agnes Tachyon……\ntidak ada di sini, ya?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Dia seharusnya menerima pemberitahuan resmi dari \nakademi yang memberitahunya bahwa partisipasi dalam \nseleksi hari ini wajib."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Ah, yes… The notification did reach her, \nand I know she requested details… But, well…"
+            "text": "Ah, ya……Pemberitahuan itu memang sampai padanya, \ndan aku melihatnya pergi untuk bertemu dengan mereka……\nTapi, ya……"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "But she chose not to race anyway…? \nUnderstood, thank you."
+            "text": "Mangkir lagi……Saya mengerti. Terima kasih, saya mengerti \nsituasinya."
         },
         {
-            "text": "I could see that Symboli Rudolph was deeply concerned. What would \nhappen to Agnes Tachyon if she missed this race…?",
+            "text": "Ekspresi Symboli Rudolf terlihat aneh dan suram. Apakah \nAgnes Tachyon akan baik-baik saja jika melewatkan audisi \nhari ini?",
             "choice_data_list": [
-                "(… Let me go look for her)"
+                "(……Biarkan aku pergi mencarinya)"
             ]
         },
         {
-            "text": "I decided to leave the track for a \nbit and search for Agnes Tachyon."
+            "text": "Saya meninggalkan audisi dan mulai mencari \nkeberadaan Agnes Tachyon."
         },
         {
             "name": "Air Shakur",
-            "text": "Haa…? What the hell are you doing here, Tachyon?"
+            "text": "Oi……Apa yang kamu lakukan di sini, Tachyon?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What an uncharacteristically illogical question, my dear Shakur. \nAs a student of the academy, is it somehow unusual for me to be \nseen here on the academy grounds?"
+            "text": "Sebuah pertanyaan yang tidak masuk akal datang dari Anda, Shakur. \nSaya, seorang pelajar dari akademi ini, sedang berdiri di kampus. Apa ada alasan untuk menanyakan niatku?"
         },
         {
             "name": "Air Shakur",
-            "text": "No, dang it! Ain't you supposed \nto be in the Selection Race today!"
+            "text": "Cih, bukan itu maksudku！！ Bukankah kamu sudah \nterdaftar untuk audisi hari ini！?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ha ha ha! There's no need for that attitude! \nAre you running a little low in serotonin?"
+            "text": "Ha-ha-ha！ Tidak perlu begitu marah！ Apakah tingkat \nserotoninmu menurun?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The answer is simple. I judged it unnecessary. \nI have my objectives and, unfortunately, competing \nin the race does not serve them."
+            "text": "Jawabannya sederhana, saya menyimpulkan bahwa tidak ada \nalasan untuk ikut serta. Sayangnya, tujuanku tidak sejalan \ndengan tujuan seleksi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And good lord, did you see what happened last time I did one of \nthose things? Trainers swarming all over me like guinea pigs on \nfreshly-thrown cabbage…"
+            "text": "Lagipula, terakhir kali aku ikut, hasilnya tidak bagus. \nSemua Trainer itu menyerbu aku seperti kelinci \npercobaan ke kubis."
         },
         {
             "name": "Air Shakur",
-            "text": "… Ain't that 'cause they were so impressed with your running?"
+            "text": "……Bukankah itu karena mereka sangat terkesan \ndengan lari Anda?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I know, but… the training schedules those people \ncome up with… so inefficient! I can't just be \nthrowing away precious research time."
+            "text": "Masalahnya, semua jadwal pelatihan mereka memiliki \npemborosan waktu yang berlebihan. Membuang waktu penelitian \nyang berharga begitu saja adalah hal yang tidak bisa saya terima."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "They get to apply their standards, pick and choose the \nUmamusume they like… don't we have a right to choose as well?"
+            "text": "Trainer menilai kami, Umamusume, berdasarkan standar \nmereka sendiri, jadi kami juga harus bisa menilai mereka. \nBukankah begitu?"
         },
         {
             "name": "Air Shakur",
-            "text": "Ugh! Alright, whatever!! I don't wanna hear, \nI don't care. Skip all the races you want."
+            "text": "Aduh！ Baiklah, terserah！！ Aku nggak mau dengar, \naku nggak peduli. Pergilah dan bolos sepuasnya."
         },
         {
             "name": "Air Shakur",
-            "text": "…But y'know, research this, experiment that. If \nyou keep missing classes, refuse to race, refuse \nto get a trainer, never make your debut…"
+            "text": "……Tapi tahu kan, riset ini, eksperimen itu. Kalau kamu terus \nbolos kelas, menolak ikut balapan, menolak setiap tawaran \nTrainer—semua itu berarti kamu tidak akan bisa debut."
         },
         {
             "name": "Air Shakur",
-            "text": "… they're not gonna to let you keep hanging around here."
+            "text": "——Mereka tidak akan membiarkan kamu terus-terusan \nberkeliaran di sini."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm. She said \"I don't care\" and to do whatever \nI want but she still wants to give me advice… \nOh, my dear Shakur, you do amuse me."
+            "text": "Hmm. Dia bilang padaku untuk『melakukan apa yang aku \nsuka』、lalu diakhiri dengan peringatan……Heh-heh, kau \nbenar-benar menyenangkan, Shakur."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And, oh…? You… Well, if it isn't the \njunior trainer from the other day!"
+            "text": "Oh? Bukankah itu Trainer pemula yang kemarin！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Have you come back voluntarily, to offer up your \nbody in the name of science? Truly, the soul of \na guinea pig! Quite, quite extraordinary!",
+            "text": "Apakah Anda kembali secara sukarela, untuk menyerahkan tubuh Anda \ndemi ilmu pengetahuan！? Luar biasa, Semangat kelinci percobaan yang \nluar biasa！ Saya terharu hingga tak bisa berkata-kata！",
             "choice_data_list": [
-                "Nononono!"
+                "Tidak tidak tidak, kamu salah besar！"
             ]
         },
         {
-            "text": "I desperately managed to calm her down and explained I was there \nto try and persuade her to participate in the Selection Race."
+            "text": "Aku berusaha sekuat tenaga menenangkannya dan menjelaskan \nbahwa aku ada di sana untuk mencoba meyakinkannya agar ikut \nserta dalam Balapan Seleksi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, is that all. Sorry to disappoint you, but \nI have no intention of participating."
+            "text": "Ah, hanya itu saja. Sayangnya, saya bahkan tidak memiliki \nsedikit pun keinginan untuk berpartisipasi."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "That race is a place for Umamusume to show off their potential, \njust as much as a place for trainers to find new prospects."
+            "text": "Balapan itu adalah tempat bagi Umamusume untuk menunjukkan \npotensi mereka, sama seperti tempat bagi para Trainer untuk \nmenemukan calon baru."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And at this moment in time, I have no need to prove my \ncapabilities to anyone at present. Therefore, I will not \nparticipate. That is all I will say on the matter."
+            "text": "Dan pada saat ini, saya tidak perlu membuktikan kemampuan \nsaya kepada siapa pun. Oleh karena itu, saya akan menahan \ndiri. Selesai."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "—Now then, let us instead continue with our experiment!"
+            "text": "——Baiklah, mari kita lanjutkan eksperimennya！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I just so happen to have put the finishing touches to a \nneuromuscular monitor of my own invention just last night. \nA thousand times greater resolution than conventional equipment—",
+            "text": "Tadi malam, saya menyelesaikan prototipe perangkat yang \ndapat mengukur fungsi otot. Dengan ini, saya dapat \nmengumpulkan data seribu kali lebih rinci daripada——",
             "choice_data_list": [
-                "You're really all about the experiments, huh!?",
-                "You really only care about your experiments, don't you!?"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "The limits of what is possible can only by probed \nthrough rigorous experimentation. It takes time, \nand the more time the better. Am I wrong?",
-            "choice_data_list": [
-                "What researching could be that important…?",
-                "What research could be so important…?"
+                "<size=32>Apakah eksperimenmu hanya yang kamu pikirkan！?</size>",
+                "<size=32>Apakah eksperimenmu hanya yang kamu pikirkan！?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "\"The potential of Umamusume\"."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "More accurately, \"the physiological potential that lies dormant \nwithin the organism known as the Umamusume\". In essence,\"the \nabsolute limits of speed\"— no, what lies \"beyond the limits\".",
+            "text": "Hanya melalui eksperimen kita dapat menemukan berbagai \nkemungkinan. Anda tidak pernah memiliki cukup waktu \nuntuk penelitian——apakah saya salah?",
             "choice_data_list": [
-                "Beyond…?"
+                "<size=40>Penelitian apa yang bisa begitu penting?</size>",
+                "<size=40>Penelitian apa yang bisa begitu penting?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "There is so-called conventional wisdom on this topic \nof course. But what is conventional wisdom if not \nthe enemy of discovery?! We must reexamine—"
+            "text": "Saya meneliti『potensi Umamusume』。"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Why, even the very nature of Umamusume is itself \na profound question, my dear trainer."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "While this body may be superficially similar to a human's, our \nears and tails are highly developed, and it possesses \nextraordinary strength for its mass."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "In particular, our running ability is outstanding even in the \nanimal kingdom, possessing speed superior to most species."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "—Ahahaha!! Truly… TRULY fascinating, do you not agree?!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "In short, my dear, my guiding motivation is a simple one. \n\"How fast can we go?\", \"How vast is our potential?\""
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I, with this body, aim to find the outer limits \nof our potential! The outer limits of speed!",
+            "text": "Lebih spesifik,『potensi fisik yang terpendam dalam makhluk bernama Umamusume』、yaitu『kecepatan tertinggi』——atau lebih tepatnya,『melampaui batas tertinggi』itu sendiri……",
             "choice_data_list": [
-                "That's what your research was for…!?"
+                "<size=36>『melampaui batas tertinggi』itu sendiri……?</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It's fair to say the the Umamusume who are able \nto push their performance the furthest are those \nwho pursue high-level competition."
+            "text": "Orang-orang memandang kecepatan tertinggi Umamusume \nsebagai sesuatu yang pasti, tetapi pengetahuan umum adalah \nmusuh kemajuan. Mengekstrapolasi tanpa prasangka……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The higher the level, the stronger the competition, and that is \nindispensible to extracting peak performance."
+            "text": "Kami menyadari bahwa keberadaan kami, Umamusume, \nadalah sebuah misteri, Iyakan?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "So, of course, getting to race in the Twinkle Series \nwould be a boon to my research. Hence why I came \nto this academy in the first place."
+            "text": "Meskipun mirip dengan manusia, kami memiliki telinga dan \nekor yang berfungsi dengan baik, serta kekuatan yang tak \nterkira meskipun massa otot kami rendah."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But, well—"
-        },
-        {
-            "name": "Teacher",
-            "text": "Agnes Tachyon. …Academy management wants to see you. Come."
+            "text": "Dan ketika berbicara tentang berlari, kita dapat mencapai \nkecepatan yang hampir tidak tertandingi di alam semesta."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmmm, it seems I have been summoned. \n…Well then, I'll have to excuse myself, rookie."
+            "text": "Ahahaha！！ Menarik sekali！！ Apakah kamu tidak merasa \nitu menarik！?"
         },
         {
-            "text": "The teacher, a grave expression on \nhis face, led Agnes Tachyon away…"
+            "name": "Agnes Tachyon",
+            "text": "Pada dasarnya, impuls yang mengalir melalui korteks serebralku \nsangat sederhana.『Seberapa cepat kita bisa berlari！?』\n『Seberapa jauh potensi kita bisa mencapai！?』"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Saya nyatakan！ Dengan tubuh ini, aku akan menemukan \nbatas kecepatan！！",
+            "choice_data_list": [
+                "Itulah tujuan penelitianmu……！?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dikatakan bahwa Umamusume tercepat adalah yang siap balapan—\nartinya, tubuh mereka telah dipersiapkan untuk mencapai \nkecepatan tertinggi dalam hidup mereka."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Untuk meningkatkan kecepatan saya, mengikuti balapan yang \nmelelahkan dan menghadapi lawan yang tangguh akan menjadi \nhal yang tak terhindarkan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oleh karena itu, lolos ke Twinkle Series tentu akan menjadi\nlangkah besar bagi penelitian saya. Itulah mengapa saya \ndatang ke akademi."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Namun, sayangnya——"
+        },
+        {
+            "name": "Guru",
+            "text": "Agnes Tachyon. Akademi ingin berbicara dengan Anda.\n……Ikutlah dengan saya."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "hmm, jadi mereka menemukanku. \n……Maaf, Trainer pemula, saya harus pergi."
+        },
+        {
+            "text": "Agnes Tachyon mengikuti guru itu, dan aku tak bisa menahan\nperasaan tidak enak di perutku……"
         }
     ]
 }

@@ -1,253 +1,253 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Symboli Rudolf",
-            "text": "So, Agnes Tachyon… are you prepared?"
+            "text": "Kalau begitu. Apakah kamu sudah siap, Agnes Tachyo?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Just say the word, Ms. President."
+            "text": "Saya siap kapan saja, Ketua."
         },
         {
-            "text": "Agnes Tachyon. The culmination of generations of the finest \nbreeding and training. She may be rebellious, but there's no \ndenying her pure speed."
+            "text": "Agnes Tachyon adalah permata dari garis keturunan terhormat, \ndengan bakat yang begitu besar sehingga orang-orang \nmengabaikan perilakunya yang biasanya sering membolos."
         },
         {
-            "text": "Against Symboli Rudolph. The emperor. An extraordinary talent, \nthe pinnacle of the academy's hierarchy."
+            "text": "Dan dia berhadapan dengan Symboli Rudolf, Sang『Kaisar』\nyang memerintah Tracen Academy dengan kehebatannya \nluar biasa."
         },
         {
-            "text": "I was about to witness a clash between two unstoppable forces. \nFrom the moment they exploded from the start line, the \natmosphere was transformed, the air crackling with electricity."
+            "text": "Dan di sini saya, saksi tak terduga dari pertarungan antara \nraksasa ini, intensitas balapan ini membuat bulu kudukku \nmerinding……！"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hah, haa…!"
+            "text": "Hah, haa……！！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heh… They don't call her the Emperor for nothing…"
+            "text": "Hah…… Memang pantas disebut『Kaisar』！"
         },
         {
-            "text": "Neither held back an ounce of strength, but Symboli \nRudolph opened an early gap, a gap which stretched, \ninexorably, inch by inch…"
+            "text": "Keduanya beradu kekuatan, tetapi Symboli Rudolf \nterlihat lebih unggul."
         },
         {
-            "text": "Until… at the top of the home straight, \nTachyon made her move…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "(The existence of particles that can move faster \nthan light without violating special relativity \nhas yet to be conclusively disproven…)"
+            "text": "Dan sekarang mereka memasuki garis akhir！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "(And while conventional wisdom says that the physiological limit \nto a Umamusume's speed is about 70 km/h… it has never been \nconclusively proven that we too cannot go even faster!)"
+            "text": "(Eksistensi partikel virtual yang bergerak lebih cepat dari cahaya \ntanpa bertentangan dengan relativitas khusus masih belum \nterbantahkan.)"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "(Can't you see? The potential! In these legs…! In this \nbody…! They overflow with possibilities yet unknown!!)"
+            "text": "(Kecepatan tertinggi seorang Umamusume secara teori adalah \nsekitar 70 kilometer per jam, tetapi tidak ada data yang \nmenolak kemungkinan untuk melampauinya！)"
         },
         {
-            "text": "At that moment, something changed in Agnes Tachyon's eyes…"
+            "name": "Agnes Tachyon",
+            "text": "(Mengerti? Ini tentang potensi！！ Tubuhku！ dan kakiku！！ \npenuh dengan potensi！！)"
+        },
+        {
+            "text": "Ekspresi Agnes Tachyon berubah tiba-tiba."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Kuh…!?"
+            "text": "huh……！？"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Faster… faster…!! FASTER!!!"
+            "text": "Lebih cepat！ Lebih cepat！！ LEBIH CEPAT！！！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The untapped power that sleeps in the Umamusume \nbody… The true outer limits of speed…!"
+            "text": "Potensi tersembunyi dalam kaki seorang Umamusume！ \nBatas kecepatan tubuh ini！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "We have yet to see the barest shadow of what \nlies beyond the veil of our understanding!"
+            "text": "Aku bahkan belum melihat secuil pun dari keduanya, \nkarena aku tahu mereka terletak di luar cakrawala……！！"
         },
         {
-            "text": "Her eyes radiated the innocence of a young girl, yet also the \nmadness of an infernal being possessed by its desires—"
+            "text": "Matanya berkilau seperti gadis polos……atau mungkin seorang \nilmuwan gila yang tenggelam dalam hasratnya sendiri——"
         },
         {
-            "text": "A sight so enchanting my breath ceased for a moment."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Haa… heh… fuu…!!"
+            "text": "Gairahnya membuatku terengah-engah."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I'm exhausted! Really, you gave me \nquite a workout, Agnes Tachyon!"
+            "text": "Haa……heh, huu……！！"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Aku kelelahan！！ Benar-benar luar biasa, Agnes Tachyon！！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heh… really, you're too kind. After all, you won in the end."
+            "text": "Heh-heh, baik sekali kamu. Tapi, kamulah pemenangnya."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Only by a nose… if that. The things you could be capable of…"
+            "text": "Hanya selisih tipis……bahkan, kita hampir selesai pada waktu \nyang sama. Kau lawan yang tangguh."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "To think we're going to have to let you go. It'll be a terrible \nloss. I suppose you still have your heart set on leaving?"
+            "text": "Inilah mengapa melepasmu akan menjadi kerugian besar. \nApakah hatimu sudah berubah? Sedikit saja mungkin?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ms. President, surely you're not trying to appeal to my sense of \nloyalty to the academy? If so, then I'm afraid you're wasting \nyour time. My mind is quite made up."
+            "text": "Apakah lari tadi upayamu untuk membuatku merindukan \nakademi ini? Jika iya, aku menyesal memberitahumu——\naku sudah punya tekadku."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I see… And I suppose there's no point in asking \nthe opinion of your friend here…?"
+            "text": "Begitu ya…… Kalau begitu, bagaimana setelah mendengar \nceritanya?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I see… And I suppose there's no point in asking \nthe opinion of your friend here…?"
+            "text": "Begitu ya…… Kalau begitu, bagaimana setelah mendengar \nceritanya?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hm? Him…?"
+            "text": "Hmm? Cerita siapa……?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hm? Her…?"
+            "text": "Hmm? Cerita siapa……?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "…heh.",
+            "text": "……Heh.",
             "choice_data_list": [
-                "Agnes Tachyon…"
+                "Agnes Tachyon……"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ah… you. What's that face for?"
+            "text": "……Hmm? Kenapa ekspresimu seperti itu?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You're looking a little… off-color…"
+            "text": "Bagaimana ya——kamu terlihat cukup bergairah. \nBahkan mungkin terdorong hingga kegilaan?"
         },
         {
-            "text": "I couldn't stop thinking about the performance I'd just seen…"
+            "text": "Aku tidak bisa berhenti memikirkan bagaimana Agnes Tachyon \nberlari dalam balapan tadi."
         },
         {
-            "text": "And if she was right, about the \"untapped power of the Uma \nMusume body\"… that would mean she could go faster still…"
+            "text": "Dan dia bilang batasnya terletak『di luar cakrawala』Artinya——\nAgnes Tachyon masih bisa berlari jauh, jauh lebih cepat."
         },
         {
-            "text": "Faster… faster!!!",
+            "text": "Lebih cepat……lebih cepat！！！",
             "choice_data_list": [
-                "(I want to see it… I too want to see \nwhat lies beyond our understanding!)",
-                "(I want to see it… I too want to see \nwhat lies beyond our understanding!)"
+                "<size=28>(Aku ingin melihatnya……Aku ingin melihat masa depan itu！)</size>",
+                "<size=28>(Aku ingin melihatnya……Aku ingin melihat masa depan itu！)</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hey! Idiot! What are you gawping at?"
+            "text": "Hei, jangan pura-pura tidak denganku！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, please. You're not going to ask to be my trainer \nor something are you? Give me a break. I have no \nintention of delaying my work any further."
+            "text": "Kamu ingin merekrutku, kan? Ya, hentikan——aku tidak perlu \nlagi penundaan untuk penelitianku."
         },
         {
-            "text": "Of course, Agnes Tachyon wasn't looking for a trainer. For her, \ntraining is nothing more than one element of her research."
+            "text": "Benar, Agnes Tachyon tidak mencari seorang Trainer biasa. \nBaginya, bahkan latihan sehari-hari hanyalah sisi lain dari \npenelitiannya."
         },
         {
-            "text": "But if that's the case…",
+            "text": "Tapi kalau begitu——！",
             "choice_data_list": [
-                "Do you still have that serum from before?",
-                "Do you still have that serum from before?"
+                "Obatnya yang tadi masih ada?",
+                "Obatnya yang tadi masih ada?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What are you going on about? Yes, but…"
+            "text": "Ada, tapi kenapa?"
         },
         {
-            "text": "She pulled out three vials of mysterious liquid, each a more \ntroubling color than the last. I grabbed them and…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "H… hey! What are you…"
-        },
-        {
-            "text": "And downed all three!"
+            "text": "Aku meraih obat berwarna mencurigakan itu langsung dari \ntangan Agnes Tachyon yang terulur."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well I'll be…"
+            "text": "H-hei！ Apa yang Kamu……"
+        },
+        {
+            "text": "Dan menghabiskan ketiganya sekali teguk！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well how do you like that! Haaahahaha!"
+            "text": "…………Aku terkejut."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I've never seen anyone so eager to subject themselves \nto testing! You truly are a born guinea pig!",
+            "text": "Bagaimana menurutmu. Ha……Ha！ AHAHAHAHAHAHAHA！"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Aku belum pernah melihat kelinci percobaan yang begitu rela！！ \nApa kamu dulu kelinci percobaan di kehidupan sebelumnya！?",
             "choice_data_list": [
-                "That's fine by me!"
+                "Aku kelinci percobaan <i>milikmu！</i>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "—Hmm?"
+            "text": "——Hmm?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You do say some amusing things, don't you? Are \nyou sure you want to be my lab rat? To relinquish \nyour human rights in the name of science?"
+            "text": "Kamu memang bicara hal-hal yang menyenangkan. \nJadi kamu setuju jadi kelinci percobaanku? Kamu setuju \naku mencabut hak asasimu? Heh-heh-heh！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Tell me, what has brought on this sudden change of heart?",
+            "text": "……Apa yang membuat perubahan hati ini?",
             "choice_data_list": [
-                "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!",
-                "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!"
+                "<size=32>Aku juga ingin melihat apa yang ada di luar batasmu</size>",
+                "<size=32>Aku juga ingin melihat apa yang ada di luar batasmu</size>"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmmmmmmmmm…",
+            "text": "Hmmm……",
             "choice_data_list": [
-                "Let me be your trainer!",
-                "Let me be your trainer!"
+                "Izinkan aku menjadi Trainermu！",
+                "Izinkan aku menjadi Trainermu！"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I've heard those words before… but not quite like this…"
+            "text": "Nah itu dia. Benar-benar terdorong hingga kegilaan……ya? \nHeh-heh."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Then it's decided! Come with me.",
+            "text": "Baiklah. Ikuti aku.",
             "choice_data_list": [
-                "Where to…?"
+                "Ke mana……?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Do try to keep up. To the staff room, of course! \nNow that I have my trainer, we can put an end \nto this talk of leaving the academy…",
+            "text": "Lambat menangkap, ya? Tentu saja, ke ruang staf. Aku tidak \nbisa keluar kalau ada Trainer yang mengandalkanku, kan?",
             "choice_data_list": [
-                "So… I can be your trainer?!",
-                "So… I can be your trainer?!"
+                "Jadi kamu menerima tawaranku?",
+                "Jadi kamu menerima tawaranku?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Your position will be that of \"guinea pig\"… or maybe a step \nbelow that… If you're happy with that, then come with me."
+            "text": "Heh-heh, kamu akan jadi kelinci percobaanku, bahkan mungkin \nlebih buruk dari itu. Tapi kalau kamu setuju, ikutlah denganku."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Come with me… and I will show you things \nnone have dared to dream possible…"
+            "text": "Akan kutunjukkan apa yang ada di luar batas kita, \nyang belum pernah disaksikan siapa pun."
         },
         {
-            "text": "And so began our research…!"
+            "text": "Dan begitu, hari-hariku bereksperimen bersama \nAgnes Tachyon dimulai！"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmmm… hold on. We should probably wait for your \nsymptoms to subside first. Better to avoid any unnecessary \nconfusion and misunderstanding.",
+            "text": "……Hm, tunggu sebentar. Setidaknya sampai \nefek sampingnya hilang. Akan merepotkan kalau kamu \nmenyebabkan kebingungan atau kekacauan yang tidak perlu.",
             "choice_data_list": [
-                "Huh?"
+                "Ha?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Haven't you noticed? You're luminescing! A beautiful lime green!"
+            "text": "Kamu tidak sadar? Kamu bersinar！ Warna Kehijauan \nkeemasan yang indah！"
         }
     ]
 }
