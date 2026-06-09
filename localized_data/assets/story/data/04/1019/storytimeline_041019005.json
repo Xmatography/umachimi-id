@@ -1,160 +1,160 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
+            "name": "Agnes Digital",
             "text": "Muhuhu. Muhuhuehuehue......",
+            "choice_data_list": [
+                "...Ada apa nih?",
+                "...Ada apa nih?"
+            ]
+        },
+        {
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "...Something up?",
-                "...Something up?"
-            ]
+            "text": "Oops. Maaf ya. \nAku cuma kepikiran soal \"fangirling\" pas hari libur, jadinya senyum-senyum sendiri."
         },
         {
-            "text": "Oops. Sorry about that. \nI was just thinking about all the \"fangirling\" I'll be doing on \nmy day off and couldn't help myself.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I've been putting a lot more into enjoying things than usual, see! \nKeeping my steeled will in mind――!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...You're right. I did put in the effort. \nDay by day, giving love to my goddesses, worshipping them, \nbuilding up my virtue――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Right! I've steeled my will!! I, Digitan, will become an all-rounder! \nFor the sake of witnessing ALL my faves with my own two eyes!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "\"To worship Umamusume-chans is to gather virtue\" ...and \nfangirling is one form of that worship. \nSo, basically! Fangirling is an important part of my training!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "No idea what she meant by \"fangirling\", but if she says so, then...",
-            "choice_data_list": [
-                "Mind if I tag along?",
-                "Mind if I tag along?"
-            ]
-        },
-        {
-            "text": "Huh? Tag along? For fangirling? \nWell, if you ask me, you're more than welcome to, but...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...A-are you sure you can handle it? This is pretty high \npower-level otaku stuff. Force yourself out of your comfort zone \nand you're liable to get exhausted...",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "I won't do anything too crazy."
-            ]
+            "text": "Aku lagi nikmatin banget hal-hal begini dari biasanya lho! \nSambil jaga tekad bulatku ini――!"
         },
         {
-            "text": "...All right, I can tell, you're ready for this! \nNow, let's set off together―― on our \"Faves Racing \nCompletionist Tour\"!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Gaaaaah! Coming out to Hanshin was so worth it～!! \nThat debut was next level...!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "You know the winning Umamusume-chan? Turns out her older \nsister retired last year, so she's taking up the torch! And it burns \nso haaawwttttt...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Neither one of them's giving in! The two rivals, neck and neck! \nBut Nakayama's famous for its narrow straights, you know<i>--!?</i> \n<i>GWAAAAAHHH!?</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Oogh... Oooghh.... It'sh sho magnificent... \nTheir clashing feelings, transcending the theoretical bounds of \ntheir aptitudes... Just & peak...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――The dirt track here at Ooi Racecourse is longer than most. \nThe overwhelming betweener and chaser strategies tend to have \nan advantage here.",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "What's this all of a sudden?"
-            ]
+            "text": "...Bener juga. Aku emang udah usaha. \nTiap hari ngasih cinta ke dewi-dewiku, muja mereka, ngumpulin amal ibadahku――"
         },
         {
-            "text": "She wanted to kick conventional wisdom to the curb and outrun \nthem all―― That was her pride. \nSo she ended things with a smile. Even if she finished fourth...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Are you feeling it!? The Umamusume-chans' dazzling, \nunrelenting passion?! When they're full of life and happy, \nDigitan's happyyyyyyyyy!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Heck yeah! Time to go buy a crap ton of merch!! \nOn your mark, Trainer-san!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "You're pretty hyped up.",
-                "You're pretty hyped up."
-            ]
+            "text": "Sip! Tekadku udah bulat!! Aku, Digitan, bakal jadi all-rounder! \nBiar bisa lihat SEMUA oshi-ku dengan mata kepalaku sendiri!"
         },
         {
-            "text": "Whoa, hang on!? ...Trainer-san, aren't you looking a little tired!? \nTake five and let me handle the shopping!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...She hadn't come back in a bit. \nI got worried and went looking for her――"
-        },
-        {
-            "text": "I can't believe I'd run into you here! \nI'm, like, a huge fan! Hyped as heck to see you!",
-            "name": "？？？"
-        },
-        {
-            "text": "What made you decide to run both turf and dirt!? \nGotta be something out of this world, right!?",
-            "name": "Fan"
-        },
-        {
-            "text": "Eh!? ....Uh.... well..... t-that's... \nY'know, really, I, uh... \nYeeeaap....",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Looks like that fan was asking a ton of questions she couldn't \nreally handle.",
-            "choice_data_list": [
-                "To answer your question――"
-            ]
-        },
-        {
-            "text": "...! T- Trainer-saaaaaann!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Wahhh... Thanks a ton, Trainer-san. \nI'm not used to getting called out in public like that...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Oh, yeah, what are you doing all the way over here?? \nYou get lost?",
             "name": "Agnes Digital",
+            "text": "\"Muja Umamusume-chan itu sama dengan ngumpulin amal\" ...dan \nfangirling itu salah satu bentuk pujiannya. \nJadi intinya! Fangirling itu bagian penting dari latihanku!"
+        },
+        {
+            "text": "Nggak paham apa maksudnya \"fangirling\", tapi kalau kata dia gitu, ya udahlah...",
             "choice_data_list": [
-                "You were gone for a while, so..."
+                "Boleh ikutan nggak?",
+                "Boleh ikutan nggak?"
             ]
         },
         {
-            "text": "......!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "W-wow... You really made the trip all the way over here, even \nthough you're so exhausted......Trainer-san――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "You <i>really</i> wanted the merch that much!?",
             "name": "Agnes Digital",
+            "text": "Eh? Ikutan? Fangirling bareng? \nBoleh banget sih, tapi..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...K-kamu yakin kuat? Ini level otaku tingkat dewa lho. \nKalau maksa keluar zona nyaman, nanti kamu malah tepar...",
             "choice_data_list": [
-                "......Huh?"
+                "Tenang, aku nggak bakal macem-macem kok."
             ]
         },
         {
-            "text": "Oh, come on, you! You don't need to explain yourself! \nYou want the merch in your hands ASAP! \nI know that feel all too well!!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "...Oke deh, kelihatan kok kamu udah siap! \nAyo berangkat bareng―― ke \"Tur Balapan Komplit Oshi\"!"
         },
         {
-            "text": "I get you, I get you. Yessiree. \nI'm so unbelievably touched by how deep you've gone in our \nfandom today.",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Gwaaaa! Jauh-jauh ke Hanshin nggak sia-sia~!! \nDebut tadi pecah banget...!!"
         },
         {
-            "text": "No, I just came to get you because I was worried... \nBut she looked so happy talking, I let the misunderstanding slide \nand let her keep on going."
+            "name": "Agnes Digital",
+            "text": "Tahu Umamusume-chan yang menang tadi? Ternyata kakaknya \npensiun tahun lalu, jadi dia nerusin jejaknya! Bikin merinding bangeeeet..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Sama-sama nggak mau ngalah! Dua rival ini sengit banget! \nTapi Nakayama kan terkenal jalur lurusnya sempit lho<i>--!?</i> \n<i>GWAAAAAHHH!?</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oogh... Oooghh.... Luar biasa bangeeet... \nPerasaan mereka yang beradu, nembus batas teori bakat \nmereka... Asli keren abis..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――Lintasan tanah di arena Ooi ini lebih panjang dari biasanya. \nStrategi betweener dan chaser yang dominan biasanya lebih diuntungin di sini.",
+            "choice_data_list": [
+                "Kok tiba-tiba ngomongin ginian?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Dia pengen dobrak hal-hal biasa dan ngalahin semuanya―― Itulah kebanggaannya. \nMakanya dia ngakhirin ini sambil senyum. Biarpun dia finis keempat..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kerasa nggak!? Semangat pantang menyerah Umamusume-chan yang \nmenyilaukan?! Kalau mereka penuh semangat dan seneng, \nDigitan ikutan senengggggg!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Asyik! Waktunya borong merch!! \nBersiaplah, Trainer-san!",
+            "choice_data_list": [
+                "Kamu semangat banget ya.",
+                "Kamu semangat banget ya."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wah, tunggu!? ...Trainer-san, kamu kelihatan capek deh!? \nIstirahat aja, biar aku yang belanja!"
+        },
+        {
+            "text": "...Udah lumayan lama dia belum balik. \nAku mulai khawatir dan pergi nyariin dia――"
+        },
+        {
+            "name": "???",
+            "text": "Nggak nyangka ketemu di sini! \nAku ngefans banget! Seneng banget bisa ketemu!"
+        },
+        {
+            "name": "Fans",
+            "text": "Apa yang bikin kamu mutusin lari di rumput sama tanah!? \nPasti alasannya luar biasa kan!?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eh!? ....Uh.... yah..... i-itu... \nTahu sendiri lah, sebenernya, aku, uh... \nYaa begitulah...."
+        },
+        {
+            "text": "Kayaknya fans itu nanya banyak hal yang bikin dia kewalahan.",
+            "choice_data_list": [
+                "Biar aku yang jawab――"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...! T-Trainer-saaaaaann!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wahhh... Makasih banyak, Trainer-san. \nAku nggak biasa disapa orang di tempat umum kayak tadi..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh iya, ngapain kamu jauh-jauh ke sini?? \nNyasar ya?",
+            "choice_data_list": [
+                "Habisnya kamu perginya lama, jadi..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "......!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "W-wow... Kamu beneran nyusulin sampai sini, padahal \nkamu capek banget......Trainer-san――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kamu <i>sebenernya</i> pengen banget merch-nya ya!?",
+            "choice_data_list": [
+                "......Hah?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ya ampun, kamu ini! Nggak usah jelasin lagi! \nKamu pengen cepet-cepet pegang merch-nya kan! \nAku paham banget rasanya!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Paham, paham. Yoi. \nAku terharu banget ngelihat seberapa dalam kamu nyelam di \nfandom kita hari ini."
+        },
+        {
+            "text": "Padahal aku nyusul gara-gara khawatir... \nTapi lihat dia seseneng itu ceritanya, aku biarin aja dia salah paham \ndan lanjut ngomong."
         }
     ]
 }

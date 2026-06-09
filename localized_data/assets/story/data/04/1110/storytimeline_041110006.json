@@ -1,233 +1,233 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "On a day off. While wandering around town, I happened to spot \nCesario. When she noticed me, she started walking towards me."
+            "text": "Pas hari libur. Waktu lagi jalan-jalan di kota, kebetulan aku lihat Cesario. Pas dia nyadar, dia langsung nyamperin aku."
         },
         {
             "name": "Cesario",
-            "text": "Good afternoon! \nTrainer are you heading somewhere?",
+            "text": "Siang! Trainer-san mau ke mana nih?",
             "choice_data_list": [
-                "I just did some shopping, what about you?",
-                "I just did some shopping, what about you?"
+                "Habis belanja nih, kamu sendiri?",
+                "Habis belanja nih, kamu sendiri?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "I'm heading to go see a comedy♪ \nIt's a popular work called 『Dreams of a Restless Lord』",
+            "text": "Mau nonton teater komedi♪ Judulnya lagi tren, 『Mimpi Tuan Tanah yang Gelisah』.",
             "choice_data_list": [
-                "Ohh, that sounds fun!"
+                "Wah, seru tuh!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes. It's a performance I've always wanted to see…… \nI was so excited I could barely sleep yesterday."
+            "text": "Iya. Udah lama banget pengen nonton... Saking senangnya, semalam sampai susah tidur."
         },
         {
-            "text": "A sudden thought entered my mind upon seeing Cesario in such a \nhappy mood. Wasn't this a good chance to get to know her better?",
+            "text": "Lihat Cesario sesenang itu, aku tiba-tiba kepikiran. Ini kesempatan bagus buat lebih kenal dia kan?",
             "choice_data_list": [
-                "Hey, are tickets still being sold?",
-                "Hey, are tickets still being sold?"
+                "Eh, tiketnya masih ada nggak?",
+                "Eh, tiketnya masih ada nggak?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Eh? Umm, on the website it says that tickets are \nbeing sold there……Ah, Trainer, are you perhaps――!",
+            "text": "Eh? Umm, di web sih katanya masih ada yang jual di sana... Ah, Trainer-san, jangan-jangan――!",
             "choice_data_list": [
-                "If you're okay with it, let's see it together"
+                "Kalau kamu nggak keberatan, nonton bareng yuk."
             ]
         },
         {
             "name": "Cesario",
-            "text": "Waaah……! \nFufuu, of course! Please!"
+            "text": "Waaah...! Fufu, boleh banget! Ayo!"
         },
         {
             "name": "Cesario",
-            "text": "It's all open seating, so we can sit together! \nC'mon, let's get going!"
+            "text": "Tempat duduknya bebas kok, jadi kita bisa duduk bareng! Yuk, berangkat!"
         },
         {
-            "name": "Actor A",
-            "text": "This can't be happening, it's impossible that my mansion \nwas seized! I can't believe it! ……this has to be a dream, \nwithout a doubt! Hurry and wake me from this dream-!"
-        },
-        {
-            "name": "Cesario",
-            "text": "……Hehe."
-        },
-        {
-            "name": "Actor B",
-            "text": "Oh dear, you've said the same thing everyday, how \nare you not tired of it…… You are not dreaming. You've \nlost your mansion and now have nowhere to sleep."
+            "name": "Aktor A",
+            "text": "Nggak mungkin! Masa rumahku disita!? Nggak masuk akal! ...ini pasti cuma mimpi! Buruan bangunin aku-!"
         },
         {
             "name": "Cesario",
-            "text": "Ahaa……Fu, fufuu."
+            "text": "...Hehe."
         },
         {
-            "text": "Cesario seemed to be having fun, expressing \nvarious emotions, including her childish-side. \nHer usual seriousness was nowhere to be seen."
+            "name": "Aktor B",
+            "text": "Aduh, tiap hari ngomong gitu terus, nggak capek apa... Kamu nggak lagi mimpi. Rumah besarmu udah melayang, sekarang kamu nggak punya tempat tidur."
         },
         {
             "name": "Cesario",
-            "text": "Haaa～, I don't think I'll be able to sleep much tonight \neither. I think I'll just keep thinking about this, fufu♪",
+            "text": "Ahaa... Fu, fufu."
+        },
+        {
+            "text": "Cesario kelihatan asyik banget, ekspresinya gonta-ganti sampai sisi kekanakannya keluar. Sifat seriusnya yang biasa hilang entah ke mana."
+        },
+        {
+            "name": "Cesario",
+            "text": "Haaa~, kayaknya malam ini bakal susah tidur lagi deh. Pasti kepikiran terus, fufu♪",
             "choice_data_list": [
-                "You were laughing the whole time",
-                "You were laughing the whole time"
+                "Kamu ketawa terus dari tadi.",
+                "Kamu ketawa terus dari tadi."
             ]
         },
         {
             "name": "Cesario",
-            "text": "Ah……well, I just couldn't hold it in…… \nSorry, was I too noisy?",
+            "text": "Ah... abisnya nggak tahan... Maaf ya, aku terlalu berisik ya?",
             "choice_data_list": [
-                "No way! I'm glad you were having fun!"
+                "Nggak lah! Aku malah senang lihat kamu asyik gitu!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "I'm glad…… Besides, it really was entertaining, after all. \nMy cheeks are still sore. I wonder if I'll have cramps later.",
+            "text": "Syukurlah... Lagian emang selucu itu sih. Pipiku sampai pegal. Jangan-jangan nanti kram lagi.",
             "choice_data_list": [
-                "How about heading to a cafe next?"
+                "Mau mampir ke kafe habis ini?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yeah. Let's do that, Fufuu."
+            "text": "Boleh. Ayo deh, fufu."
         },
         {
-            "text": "While drinking coffee, we took a breather. \nBut it didn't seem like Cesario was any less excited.",
+            "text": "Kita rehat sejenak sambil ngopi. Tapi semangatnya Cesario masih belum turun juga.",
             "choice_data_list": [
-                "You must have really liked that comedy",
-                "You must have really liked that comedy"
+                "Kamu suka banget ya sama komedi tadi.",
+                "Kamu suka banget ya sama komedi tadi."
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes. \nEver since I was little I've loved them."
+            "text": "Iya. Udah suka dari kecil kok."
         },
         {
             "name": "Cesario",
-            "text": "……right about when I first started looking up to \nmy parents, and wanting to become a 『Guiding Light』"
+            "text": "...sekitar pas aku mulai kagum sama orang tuaku, dan pengen jadi 『Cahaya Penuntun』."
         },
         {
             "name": "Cesario",
-            "text": "I have a dream I want to accomplish―― \nthat's all my head was filled with at the time."
+            "text": "Aku punya mimpi yang harus diwujudin――cuma itu yang ada di kepalaku waktu itu."
         },
         {
             "name": "Cesario",
-            "text": "But at that time, I couldn't properly put my \nfeelings in to words. I was tense all the time."
+            "text": "Tapi waktu itu, aku belum bisa ngungkapin perasaanku dengan benar. Bawaannya tegang terus."
         },
         {
             "name": "Cesario",
-            "text": "And so the fatigue started to accumulate…… \nto the point I collapsed.",
+            "text": "Jadinya kecapekan... sampai akhirnya aku tumbang.",
             "choice_data_list": [
-                "So something like that happened……"
+                "Ternyata pernah kejadian gitu ya..."
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes. But I was still young. My parents both took \nthe day off and decided to take me to the theater."
+            "text": "Iya. Namanya juga masih kecil. Orang tuaku langsung ambil cuti dan ngajak aku nonton teater."
         },
         {
-            "name": "Young Cesario",
-            "text": "But, I want to stay home and study……"
+            "name": "Cesario Muda",
+            "text": "Tapi, aku mau di rumah aja buat belajar..."
         },
         {
-            "name": "Cesario's Father",
-            "text": "You're a good girl so today won't you tag along with us on \nour day off? This play is supposed to be really interesting!"
+            "name": "Ayah Cesario",
+            "text": "Anak pintar, hari ini ikut Ayah Ibu jalan-jalan ya? Katanya drama ini seru banget lho!"
         },
         {
-            "name": "Cesario's Mother",
-            "text": "Right, today, let's not talk about studying. Or our work. \nLet's just laugh. ――Look, it's starting……!"
+            "name": "Ibu Cesario",
+            "text": "Iya, hari ini lupain dulu soal belajar. Ibu juga libur kerja. Kita ketawa-ketawa aja. ――Tuh, udah mulai...!"
         },
         {
-            "name": "Actor C",
-            "text": "Master, these are sunny-side up eggs that were made from an \negg with two yolks. A sign of good luck. Please enjoy."
+            "name": "Aktor C",
+            "text": "Tuan, ini telur mata sapi dari telur kuning ganda. Pertanda bagus nih. Silakan dinikmati."
         },
         {
-            "name": "Actor D",
-            "text": "What are you saying!? Isn't this a bad omen!? If good luck \nwere to visit us here, then only trouble would follow!"
+            "name": "Aktor D",
+            "text": "Ngomong apa kamu!? Ini malah pertanda buruk tau! Kalau ada keberuntungan datang, habis itu pasti ada masalah!"
         },
         {
-            "name": "Young Cesario",
-            "text": "……"
+            "name": "Cesario Muda",
+            "text": "......"
         },
         {
-            "name": "Young Cesario",
-            "text": "Pfft…… \nFufuu, ahahahaa♪"
-        },
-        {
-            "name": "Cesario",
-            "text": "At first I thought it was a waste of time \nbut, before I knew it――I was drawn in!"
+            "name": "Cesario Muda",
+            "text": "Pfft... Fufu, ahahaha♪"
         },
         {
             "name": "Cesario",
-            "text": "Just like today, by the time the play was over, \nmy cheeks were hurting. ……and all that tension was gone."
-        },
-        {
-            "name": "Cesario's Father",
-            "text": "Listen, Cesario. Dreams are something you have to \nchase after deseperately. Otherwise they won't come true."
-        },
-        {
-            "name": "Cesario's Father",
-            "text": "But, it's just as important to relax and give yourself \npeace of mind. That's why we wanted to go as a family!"
-        },
-        {
-            "name": "Cesario's Mother",
-            "text": "Right. Sometimes there are things you can only \nsee when you relax. Just like there are things \nyou can only accomplish if you work hard."
-        },
-        {
-            "name": "Cesario's Mother",
-            "text": "I'm sure that Cesario knows what I mean. \nAfter all, you're our daughter, we're proud of you."
+            "text": "Awalnya kupikir cuma buang waktu, tapi tau-tau――aku malah keasyikan nonton!"
         },
         {
             "name": "Cesario",
-            "text": "After that, I gradually became aware of what I had learned, \nand a little bit at a time, I became able to switch on and off."
+            "text": "Sama kayak hari ini, pas dramanya kelar, pipiku pegal. ...dan semua rasa tegangku hilang."
+        },
+        {
+            "name": "Ayah Cesario",
+            "text": "Dengar, Cesario. Mimpi itu emang harus dikejar mati-matian. Kalau nggak, nggak bakal terwujud."
+        },
+        {
+            "name": "Ayah Cesario",
+            "text": "Tapi, nyantai dan bikin pikiran tenang itu juga penting. Makanya kita pergi bareng-bareng sekeluarga!"
+        },
+        {
+            "name": "Ibu Cesario",
+            "text": "Bener. Kadang ada hal yang cuma bisa kelihatan pas kita lagi santai. Sama kayak ada hal yang cuma bisa dicapai kalau kita kerja keras."
+        },
+        {
+            "name": "Ibu Cesario",
+            "text": "Ibu yakin Cesario paham maksudnya. Kamu kan putri kebanggaan kami."
         },
         {
             "name": "Cesario",
-            "text": "And that's why I love comedies, not just because \nthey're interesting. They were also the reason \nI learned something important from my parents.",
+            "text": "Setelah itu, aku perlahan sadar sama apa yang mereka ajarin. Pelan-pelan aku mulai bisa misahin waktu serius dan santai."
+        },
+        {
+            "name": "Cesario",
+            "text": "Makanya aku suka komedi, bukan cuma karena seru. Tapi juga karena dari situ aku belajar hal penting dari orang tuaku.",
             "choice_data_list": [
-                "It became an important memory",
-                "It became an important memory"
+                "Jadi kenangan yang berharga ya.",
+                "Jadi kenangan yang berharga ya."
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes! I came to love my parents even more, \nand it's a memory that made me respect them more and more."
+            "text": "Iya! Aku jadi makin sayang sama mereka, dan kenangan itu bikin aku makin hormat ke mereka."
         },
         {
             "name": "Cesario",
-            "text": "And it made me realize that 『Teachers』 are amazing!"
+            "text": "Dan itu bikin aku sadar kalau 『Guru』 itu luar biasa!"
         },
         {
-            "text": "From the clear look in her eyes, it was obvious \njust how deep the love for her parents was.",
+            "text": "Dari matanya yang berbinar, kelihatan banget seberapa dalam sayangnya dia ke orang tuanya.",
             "choice_data_list": [
-                "You really respect your parents, huh?",
-                "You really respect your parents, huh?"
+                "Kamu beneran hormat ya sama orang tuamu?",
+                "Kamu beneran hormat ya sama orang tuamu?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes, alot! If it weren't for what they both \ntaught me, I might not be here right now."
+            "text": "Iya, banget! Kalau bukan karena ajaran mereka, aku mungkin nggak bakal ada di sini sekarang."
         },
         {
             "name": "Cesario",
-            "text": "……That's why, I want to become a 『Guiding Light for \nfuture Umamusume』, so when I look back at 『Now』, that――"
+            "text": "...Makanya, aku pengen jadi 『Cahaya Penuntun Umamusume masa depan』, biar nanti pas aku lihat lagi ke 『Masa Kini』, itu――"
         },
         {
             "name": "Cesario",
-            "text": "――even my parents' names might be engraved \nin to history as the 『Origin of that Light』"
+            "text": "――nama orang tuaku juga bisa terukir di sejarah sebagai 『Sumber Cahaya Itu』."
         },
         {
             "name": "Cesario",
-            "text": "Just how wonderful would that be? The origin of that \ndream would also become a part of that dream.",
+            "text": "Indah banget kan? Sumber mimpi itu juga bakal jadi bagian dari mimpinya.",
             "choice_data_list": [
-                "We can carry all of that in to the future",
-                "We can carry all of that in to the future"
+                "Kita bisa bawa semua itu ke masa depan.",
+                "Kita bisa bawa semua itu ke masa depan."
             ]
         },
         {
-            "text": "I was unexpectedly able to learn just how \nfar in to the future Cesario was looking."
+            "text": "Nggak nyangka aku jadi tau seberapa jauh Cesario mandang ke masa depan."
         },
         {
-            "text": "If I were to put this feeling in to words, I want \nto make sure this grand dream becomes an even more \nmagnificent story……I couldn't help but feel that way."
+            "text": "Kalau perasaan ini dijadiin kata-kata, aku pengen mastiin mimpi besar ini jadi cerita yang lebih luar biasa... Rasanya aku nggak bisa berhenti mikir gitu."
         }
     ]
 }

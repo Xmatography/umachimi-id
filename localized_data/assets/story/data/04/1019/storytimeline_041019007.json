@@ -1,255 +1,255 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "――Blue skies... White clouds... And blowing beside them, the \nwinds of youth!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Here we go! Summer training camp! It's traaaining tiiiiime! \nAnd, <i>and!</i> Once we're done with that――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Hey, apparently they're doing a festival tonight! \nOnce we're done training, let's go together! Nn～ It's gonna be so \nfun～♪",
-            "name": "Peppy Umamusume"
-        },
-        {
-            "text": "...Since when was this a \"together\" thing...?",
-            "name": "Tired-Looking Umamusume"
-        },
-        {
-            "text": ".........Mmm～, thanks for the food. \nSeeing that day 1 is the best way to start summer training...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――No, no, wait! I need to get ready for training!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Need to talk it off again?",
-                "Need to talk it off again?"
-            ]
+            "text": "――Langit biru... Awan putih... Dan hembusan angin masa muda!"
         },
         {
-            "text": "Thanks for worrying about me, but... I'll be fine! \nI'm going to go get ready, okay?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...I got a bad feeling about that uncharacteristic reply. \nI noticed it during training, too――"
-        },
-        {
-            "text": "Whew... Trainer-san! \nI'm done with the sand sprints, just as... \n...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Whoa! <i>Isn't that there the pair of Umamusume-chans who people</i> \n<i>think are connected by fate even though the two themselves are</i> \n<i>awkward around each other building up their mutual bond!?</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Woohohoho, they're lining up for concessions together, how \nnice... Wait, ah! The black-haired Umamusume-chan tripped――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...But what's this! With truly cyborg-like reflexes, the other girl \ncatches her hand and holds on tiiight...<i>!?</i> ...And they get in line \nwhile<i> holding haaaaands!?</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...Hngh!!! ...HHHHnnngghhgghh!!!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": ".....Pweehhh.... Somehow managed to hold on... \nAlmost gave up the ghost there...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "All right! Trainer-san! \nTime for our next bit of training!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Want to take a fangirl break?",
-                "Want to take a fangirl break?"
-            ]
+            "text": "Ini dia! Kamp pelatihan musim panas! Waktunya latihaaaaan! \nDan, <i>dan!</i> Habis kita selesai――"
         },
         {
-            "text": "Huh?! ...Nonononononoo! I'm all good!! \nLet's go train! Okay?!",
-            "name": "Agnes Digital"
+            "name": "Umamusume Ceria",
+            "text": "Eh, katanya nanti malam ada festival lho! \nKelar latihan, kita ke sana bareng yuk! Nn～ Pasti seru banget～♪"
         },
         {
-            "text": "...Maybe she's trying to get training done as fast as she can so \nshe can get to fangirling at the festival.",
-            "choice_data_list": [
-                "<size=41>Let's go to the festival once we're done.</size>"
-            ]
+            "name": "Umamusume Muka Lelah",
+            "text": "...Sejak kapan jadi acara \"bareng-bareng\"...?"
         },
         {
-            "text": "......! Oooooooooh～? \nThe festival, I like the sound of that! Yes, let's go indeed!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Now, what stall should we hit up first!? \nWhat do you want to do, Trainer-sa――?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Senpai～! Check it out, you've gotta try this shaved ice! \nThe color and taste are both, like, totally crazy!",
-            "name": "Kouhai Umamusume"
-        },
-        {
-            "text": "Hehe! Your tongue's looking, like, totally crazy too, ya know? \nLook, it's all blue from the syrup.",
-            "name": "Senpai Umamusume"
-        },
-        {
-            "text": "...Sssssssssssssssssssssssss.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "N-Now, what stall should we hit up first!? \nWhat do you want to do, Trainer-san?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Normally, she'd be talking up a storm with stars in her eyes... \nSomething was definitely going on here. I ought to ask her \nabout it."
-        },
-        {
-            "text": "...Hmm? The beach? \nIs the thing you wanted to do over here, Trainer-san?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Something wrong, Digital?",
-                "Something wrong, Digital?"
-            ]
+            "text": ".........Mmm～, asupan yang sangat bergizi. \nNgelihat pemandangan begini di hari pertama emang cara terbaik buat mulai kamp musim panas..."
         },
         {
-            "text": "...Eh? N-no, not... really?",
             "name": "Agnes Digital",
+            "text": "――Eh, nggak, tunggu! Aku harus siap-siap buat latihan!",
             "choice_data_list": [
-                "<size=28>You're holding back from what you want to do, aren't you?</size>",
-                "<size=28>You're holding back from what you want to do, aren't you?</size>"
+                "Mau ngoceh-ngoceh dulu?",
+                "Mau ngoceh-ngoceh dulu?"
             ]
         },
         {
-            "text": "What!? No, I'm not! \nAfter all, what I want to do――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Is tag along for whatever <i>you</i> want do, Trainer-san! \n...That's what!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "But why...?"
-            ]
+            "text": "Makasih udah khawatir, tapi... aku nggak apa-apa kok! \nAku mau siap-siap dulu ya?"
         },
         {
-            "text": "I mean... You're always playing along with me and my fangirling. \nYou're an incredibly good listener.",
-            "name": "Agnes Digital"
+            "text": "...Firasatku nggak enak sama jawaban yang tumben-tumbenan itu. \nAku juga merhatiin hal ini pas latihan――"
         },
         {
-            "text": "And thanks to that my fangirling's gotten funner than ever. Even \nI can tell, I've been acting giddy all the time lately.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "It's to the point where I can't go back to fangirling without you, \nTrainer-san...!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Basically, you're important to me too, Trainer-san. \nYou're my irreplacable partner――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Nay! You are my comrade in arms!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Many Umamusume are driven to run, every day, with feelings in \ntheir hearts more passionate than ever imagined. This is the time \nknown as the Great Umamusume-chan Pweciousness Era.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "To the left and to the right, in front and behind, everywhere you \nlook, Umamusume-chans are shining bright! There's no telling \nwhen the pweciousness will kill you. Truly―― this is a battlefield.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "We take to this battlefield together. When we're struck by an \nexplosion of the feels, we lean on each others' shoulders... \nAnd when it comes time, we share in our joys.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "That's what it means to be ―― a comrade in arms.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "But wait. I'm always the one getting supported, aren't I? \nCan you really call that \"leaning on each other\"? More like you're \ngiving me a piggyback ride, isn't it?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "So I've decided! Whatever you want to do, Trainer-san, whatever \nyour wish... This time, Digitan's going to be the one to grant it!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Don't be shy, ask me anything! \nI'll put everything I've got into helping you!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I was grateful for the thought, but... \nI don't want her to stop doing what she loves for my sake."
-        },
-        {
-            "text": "The girl moving forward with an incredible love for Umamusume \nin her heart. That was the girl I wanted to support. That's why I \nscouted her."
-        },
-        {
-            "text": "If she was asking me what my wish was――",
-            "choice_data_list": [
-                "I want to see you full of life.",
-                "I want to see you full of life."
-            ]
-        },
-        {
-            "text": "...Hweh? Me, full of life? \nFull of life――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Are you feeling it!? The Umamusume-chan's dazzling, \nunrelenting passion?! When they're full of life and happy, \nDigitan's happyyyyyyyyy!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "So how I feel about my faves... is like how you feel... about me...?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "I guess so.",
-                "I guess so."
-            ]
+            "text": "Fuh... Trainer-san! \nSprint di pasirnya udah kelar, pas banget sama... \n..."
         },
         {
-            "text": "Eh? Not even the wallflower, but me, the wall? No, uh... Why? \n...I kind of... can't believe what I'm hearing here, but...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I-I'm happy... \n...More than that, I'm honored.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...Wait, more than <i>that</i>, I'm embarassed! \nIt's like, when the artist you're collabing with reviews your part \nof the doujin, know what I mean!?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "<size=42>Well, maybe not if you put it like that...</size>"
-            ]
+            "text": "Wah! <i>Itu kan duo Umamusume-chan yang orang-orang</i> \n<i>kira terikat takdir padahal aslinya saling canggung tapi pelan-pelan</i> \n<i>membangun ikatan di antara mereka!?</i>"
         },
         {
-            "text": "What I want to say isssss～～! Basicallllllyyyyy～～....!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...I'm gonna fangirl! No more holding back! \nI'm gonna be as full of life as I possibly can!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Now let's hurry up and sign up for something where we can take \nin Umamusume-chans in all their brilliance! Anything like that \naround here!?",
             "name": "Agnes Digital",
+            "text": "Wuhohoho, mereka ngantri jajanan bareng, manisnya... \nTunggu, ah! Umamusume-chan rambut hitam itu kesandung――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Tapi apa ini! Dengan refleks kayak cyborg, cewek yang satunya \nnangkep tangannya dan digenggam eraaat...<i>!?</i> ...Terus mereka lanjut ngantri \nsambil<i> pegangan tangaaaaan!?</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Hngh!!! ...HHHHnnngghhgghh!!!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": ".....Pweehhh.... Untung masih bisa nahan... \nHampir aja aku pindah alam tadi..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oke! Trainer-san! \nWaktunya latihan kita selanjutnya!",
             "choice_data_list": [
-                "<size=39>Maybe bon dancing, or a test of courage?</size>"
+                "Mau istirahat fangirling dulu?",
+                "Mau istirahat fangirling dulu?"
             ]
         },
         {
-            "text": "Oho! I knew you'd have great ideas, Trainer-san! \nThey could unite their hearts in the bon dance! Or get so scared \nby the test of courage they can't help but hold hands!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Hah?! ...Nggak nggak nggak! Aku aman kok!! \nAyo latihan! Oke?!"
         },
         {
-            "text": "Kuuuuuuh! Just thinking about it's making my heart go \n<i>GAHGAHGAHGAHGAHGAAAH</i>! This is no time to dilly-dally!",
-            "name": "Agnes Digital"
+            "text": "...Mungkin dia berusaha nyelesain latihan secepatnya biar \nbisa lanjut fangirling di festival.",
+            "choice_data_list": [
+                "<size=41>Kita pergi ke festival habis selesai yuk.</size>"
+            ]
         },
         {
-            "text": "We're off to the next battlefield! My partner, Trainer-san!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "......! Oooooooooh～? \nFestival, kedengarannya asyik tuh! Ayo, kita harus berangkat!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nah, mau mampir ke kedai mana dulu nih!? \nTrainer-san mau ngapain dulua――?"
+        },
+        {
+            "name": "Adik Kelas Umamusume",
+            "text": "Senpai～! Lihat nih, kamu harus cobain es serut ini! \nWarna sama rasanya, gila, mantap abis!"
+        },
+        {
+            "name": "Kakak Kelas Umamusume",
+            "text": "Hehe! Lidahmu juga kelihatannya gila banget tuh! \nLihat deh, biru semua gara-gara sirupnya."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Sssssssssssssssssssssssss."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "J-Jadi, mau mampir ke kedai mana dulu nih!? \nTrainer-san mau ngapain?"
+        },
+        {
+            "text": "Biasanya, dia bakal ngomong panjang lebar dengan mata berbinar... \nPasti ada sesuatu nih. Aku harus nanya ke dia."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Hmm? Pantai? \nApa yang mau kamu lakuin ada di sini, Trainer-san?",
+            "choice_data_list": [
+                "Ada yang salah, Digital?",
+                "Ada yang salah, Digital?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Eh? N-nggak, nggak ada... kok?",
+            "choice_data_list": [
+                "<size=28>Kamu nahan diri dari apa yang pengen kamu lakuin kan?</size>",
+                "<size=28>Kamu nahan diri dari apa yang pengen kamu lakuin kan?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Apa!? Nggak kok! \nLagian, yang pengen aku lakuin itu――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Itu ikutin apa yang pengen <i>kamu</i> lakuin, Trainer-san! \n...Itu tau!",
+            "choice_data_list": [
+                "Tapi kenapa...?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Maksudnya... Kamu selalu nemenin aku dan hobi fangirling-ku. \nKamu pendengar yang baik banget."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Dan berkat itu fangirling-ku jadi lebih seru dari sebelumnya. Aku aja \nsadar, belakangan ini aku selalu kegirangan terus."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Sampai-sampai aku nggak bisa balik fangirling tanpa kamu, \nTrainer-san...!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Intinya, kamu itu penting juga buatku, Trainer-san. \nKamu partner-ku yang nggak tergantikan――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Bukan! Kamu itu kawan seperjuanganku!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Banyak Umamusume terdorong buat lari, setiap hari, dengan perasaan di \nhati mereka yang lebih menggebu dari yang bisa dibayangin. Inilah masa \nyang dikenal sebagai Era Keberhaaaargaan Umamusume-chan Raya."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ke kiri dan ke kanan, depan dan belakang, ke mana pun kamu \nlihat, para Umamusume-chan bersinar terang! Nggak ada yang tahu \nkapan keberhargaan itu bakal bunuh kamu. Beneran―― ini tuh medan perang."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kita terjun ke medan perang ini bareng-bareng. Pas kita kena \nledakan <i>feels</i>, kita saling bersandar di bahu satu sama lain... \nDan pas waktunya tiba, kita berbagi kebahagiaan."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Itulah artinya ―― jadi kawan seperjuangan."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tapi tunggu. Aku terus yang didukung, kan? \nApa itu beneran bisa disebut \"saling bersandar\"? Lebih cocok disebut \nkamu ngegendong aku di punggung, kan?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Jadi aku udah mutusin! Apa pun yang mau kamu lakuin, Trainer-san, apa pun \nkeinginanmu... Kali ini, Digitan yang bakal kabulin!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Jangan malu-malu, minta aja apa aja! \nAku bakal kerahin semuanya buat bantuin kamu!"
+        },
+        {
+            "text": "Aku bersyukur sih dia mikir gitu, tapi... \nAku nggak mau dia berhenti ngelakuin apa yang dia suka demi aku."
+        },
+        {
+            "text": "Gadis yang terus maju dengan rasa cinta luar biasa ke Umamusume \ndi hatinya. Sosok itulah yang pengen aku dukung. Makanya aku \nnge-scout dia."
+        },
+        {
+            "text": "Kalau dia nanya apa keinginanku――",
+            "choice_data_list": [
+                "Aku pengen lihat kamu penuh semangat.",
+                "Aku pengen lihat kamu penuh semangat."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Hweh? Aku, penuh semangat? \nPenuh semangat――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kerasa nggak!? Semangat pantang menyerah Umamusume-chan yang \nmenyilaukan?! Kalau mereka penuh semangat dan seneng, \nDigitan ikutan senengggggg!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Jadi perasaanku ke oshi-oshiku... sama kayak perasaanmu... ke aku...?",
+            "choice_data_list": [
+                "Bisa dibilang gitu.",
+                "Bisa dibilang gitu."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eh? Bukan karakter sampingan, tapi aku, si temboknya? Eh, uh... Kenapa? \n...Aku agak... nggak percaya sama apa yang barusan kudenger, tapi..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "A-aku seneng... \n...Lebih dari itu, aku merasa terhormat."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Tunggu, lebih dari <i>itu</i>, aku malu banget! \nRasanya kayak pas artis temen collab-mu nge-review bagianmu \ndi doujin, ngerti kan maksudku!?",
+            "choice_data_list": [
+                "<size=42>Yah, mungkin beda cerita kalau kamu perumpamaannya gitu...</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Yang mau kubilaaaaang ittuuuu～～! Intinyaaaaa～～....!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Aku bakal fangirling! Nggak ada lagi nahan diri! \nAku bakal se-semangat mungkin!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Sekarang buruan kita daftar ke acara di mana kita bisa nikmatin \nkilauan para Umamusume-chan! Ada yang kayak gitu nggak \ndi sekitar sini!?",
+            "choice_data_list": [
+                "<size=39>Mungkin tari Bon, atau uji nyali?</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oho! Udah kuduga idemu cemerlang, Trainer-san! \nMereka bisa nyatuin hati di tari Bon! Atau ketakutan banget \npas uji nyali sampai mau nggak mau pegangan tangan!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kuuuuuuh! Mikirinnya aja udah bikin jantungku \n<i>DAGDIGDUGDAGDIGDUGDUAAAAR</i>! Nggak ada waktu buat leha-leha!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kita berangkat ke medan perang selanjutnya! Partner-ku, Trainer-san!"
         }
     ]
 }

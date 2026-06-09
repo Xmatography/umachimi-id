@@ -1,290 +1,290 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "For a trainer without an Umamusume, the best course of action is \nto familiarize oneself with them in the meantime.",
+            "text": "Bagi pelatih yang belum memiliki Umamusume, langkah terbaik saat ini adalah membiasakan diri dengan mereka.",
             "choice_data_list": [
-                "<size=37>(Time to give it my all observing today, too!)</size>"
+                "<size=37>(Waktunya memberikan yang terbaik dalam mengamati hari ini!)</size>"
             ]
         },
         {
-            "text": "Huff, huff, huff, huff...!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "When I arrived at the training grounds, I saw Agnes Digital \nrunning on the dirt track."
-        },
-        {
-            "text": "She pushed against the dirt with impressive strength, despite \nher small size. \nIn a mere flash, she was already rushing down the final straight.",
-            "choice_data_list": [
-                "<size=29>(She looks pretty used to it... Has she already debuted?)</size>",
-                "<size=29>(She looks pretty used to it... Has she already debuted?)</size>"
-            ]
-        },
-        {
-            "text": "Whew...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Good work, Agnes Digital-san! You were on point today too! \nKeep it up, and you're in good shape for the Selection Race!",
-            "name": "Instructor"
-        },
-        {
-            "text": "Huh...!? \nThe... Selection Race...?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "That's kind of... Er... \nSorry, I need some time to think about it...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "A-Anyway, I'm off to the turf track now...!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Ah... right, see you later! Don't push yourself too hard, all right?",
-            "name": "Instructor"
-        },
-        {
-            "text": "Training that hard on turf <i>and</i> dirt tracks every day? That's twice \nas much work as the other girls. ...It's really impressive.",
-            "name": "Instructor"
-        },
-        {
-            "text": "This time, she took off onto the turf. I was taken aback by how \nnimbly she ran. Even though I was so sure that she'd specialized \nin running on dirt――"
-        },
-        {
-            "text": "I took her time with a stopwatch, just out of curiousity, and \nwhen I saw her time, my eyes went wide."
-        },
-        {
-            "text": "She was a great runner on dirt <i>and</i> turf. But from what I \noverheard, she hadn't even run in the Selection Race, much less \ndebuted.",
-            "choice_data_list": [
-                "(Maybe there's some kind of issue.)",
-                "(Maybe there's some kind of issue.)"
-            ]
-        },
-        {
-            "text": "I wanted to know what was going on, so I made my way down to \nthe track to hear it from her."
-        },
-        {
-            "text": "Hoo-whee～.... \nAs always, the track after Umamusume-chans finish running is \njust <i>THE BEST!</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "If I keep this up, I'll have the best seat in the house no matter \n<i>what</i> kind of race it is! \nMufufu, there's my virtuous deed for the day!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Oh, but that was cutting it pretty close... Almost went and signed \nup for the Selection Race. I'd never be able to live that down～.",
             "name": "Agnes Digital",
+            "text": "Hah, hah, hah, hah...!"
+        },
+        {
+            "text": "Saat aku tiba di tempat latihan, aku melihat Agnes Digital sedang berlari di lintasan tanah (dirt)."
+        },
+        {
+            "text": "Dia menendang tanah dengan kekuatan yang mengesankan, di balik tubuhnya yang mungil. \nDalam sekejap mata, dia sudah melesat di jalur lurus terakhir.",
             "choice_data_list": [
-                "You wouldn't?",
-                "You wouldn't?"
+                "<size=29>(Dia kelihatan sudah sangat terbiasa... Apa dia sudah debut?)</size>",
+                "<size=29>(Dia kelihatan sudah sangat terbiasa... Apa dia sudah debut?)</size>"
             ]
         },
         {
-            "text": "I wouldn't. I'm still mad at myself for almost making such a \npuffed-rice-brained decisio――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――Wait, <i>HUH!?</i> What...!? \n<i>Whom</i>...!?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "It's me again."
-            ]
+            "text": "Fuh..."
         },
         {
-            "text": "Oh, it's just you. The Umamusume-chan fan from the other day. \nHello, hello～.",
-            "name": "Agnes Digital"
+            "name": "Instruktur",
+            "text": "Kerja bagus, Agnes Digital-san! Kamu luar biasa hari ini! \nPertahankan, dan kondisimu bakal mantap buat Balapan Seleksi!"
         },
         {
-            "text": "So, how've you been? You been doing those virtuous deeds?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I'm still out here living my worshipful life. Saying grace to my \nfaves. Giving thanks for the bounty of their <i>moe</i>. Sometimes I get \nso emotional I just start to cry――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――Wait, not now!! \nDid you. Hear that first bit...!?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Yep.",
-                "Yup."
-            ]
+            "text": "Eh...!? \nBalapan... Seleksi...?"
         },
         {
-            "text": "Ah. Knew it. So you heard me...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "It shouldn't be too hard to explain, if you can bear with me going \ndelulu about my faves...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I just can't choose between turf and dirt. \nSure, part of the problem comes from my 50-50 skillset, but――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "The real issue's that picking one means abandoning the other. \nI reeeeaaa――lly don't want to have to do that...",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Right..."
-            ]
+            "text": "Itu agak... Ano... \nMaaf, aku butuh waktu buat memikirkannya..."
         },
         {
-            "text": "When it comes to Central races, the higher the grade, the more \nlikely it'll be on turf. So the majority of Umamusume forgo dirt to \nget better at running on turf."
-        },
-        {
-            "text": "Most Umamusume would just say \"it is what it is\", but she――",
-            "choice_data_list": [
-                "You're real passionate about this.",
-                "You're really passionate about this."
-            ]
-        },
-        {
-            "text": "Yes, but of course! My love for Umamusume-chan knows not \nturf nor dirt! For all they are all my faves, and pwecious all the \nsame!",
             "name": "Agnes Digital",
+            "text": "P-Pokoknya, aku mau ke lintasan rumput (turf) sekarang...!"
+        },
+        {
+            "name": "Instruktur",
+            "text": "Ah... oke, sampai jumpa lagi! Jangan terlalu memaksakan diri, ya?"
+        },
+        {
+            "name": "Instruktur",
+            "text": "Berlatih sekeras itu di lintasan rumput <i>dan</i> tanah setiap hari? Itu dua kali lipat lebih berat dari gadis-gadis lain. ...Benar-benar mengesankan."
+        },
+        {
+            "text": "Kali ini, dia melesat ke lintasan rumput. Aku terkejut melihat betapa gesitnya dia berlari. Padahal aku sangat yakin dia ahli di lintasan tanah――"
+        },
+        {
+            "text": "Aku iseng mencatat waktunya dengan stopwatch, dan saat melihat hasilnya, mataku terbelalak."
+        },
+        {
+            "text": "Dia pelari yang hebat di lintasan tanah <i>maupun</i> rumput. Tapi dari yang kudengar tadi, dia bahkan belum ikut Balapan Seleksi, apalagi debut.",
             "choice_data_list": [
-                "Wait, what?"
+                "(Mungkin ada suatu masalah.)",
+                "(Mungkin ada suatu masalah.)"
             ]
         },
         {
-            "text": "What?",
-            "name": "Agnes Digital"
+            "text": "Aku ingin tahu apa yang sebenarnya terjadi, jadi aku turun ke lintasan untuk menanyakannya langsung padanya."
         },
         {
-            "text": "No, yeah. That's the thing of it! \nThey're all so pwecious I just can't choose!!",
             "name": "Agnes Digital",
+            "text": "Hoo-whee～.... \nSeperti biasa, lintasan setelah para Umamusume-chan selesai berlari benar-benar <i>YANG TERBAIK!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kalau terus begini, aku bakal dapat posisi VIP di balapan <i>apa pun</i> itu! \nMufufu, selesai sudah amal ibadahku hari ini!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aduh, tapi tadi nyaris banget... Hampir aja aku daftar Balapan Seleksi. Aku nggak bakal bisa memaafkan diriku sendiri kalau sampai kejadian～.",
             "choice_data_list": [
-                "Pwecious........?"
+                "Nggak bisa memaafkan dirimu sendiri?",
+                "Nggak bisa memaafkan dirimu sendiri?"
             ]
         },
         {
-            "text": "Yes, exactly! Surely a karmic veteran like you would understand! \nThey're all pwecious!! BUT...!!",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Nggak bisa. Aku masih kesal sama diriku sendiri karena hampir bikin keputusan otak kopong kaya――"
         },
         {
-            "text": "If I go for <i>turf</i>, I can't go see Umamusume-chans on <i>dirt!</i> \nIf I go for <i>dirt</i>, I can't go see Umamusume-chans on <i>turf!</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Ghaahhh, how is this even a thing? All because of this, I've said \nno to every scouting, every Selection Race!!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "<i>E・ven・though・I</i> want to see aaaaaa――aaalll the \nUmamusume-chans up close, turf AND dirt!!!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...Somehow, I get the feeling we're having two very different \nconversations here."
-        },
-        {
-            "text": "You understand this pain, don't you!? \n<i>Don't you</i>, Umamusume-chan-loving trainer?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "She was kind of talking up a storm, so I got her to stop for a \nsecond so I could figure things out..."
-        },
-        {
-            "text": "She didn't want to give up on either dirt or turf Umamusume \n――her \"faves\". \nBut if she wanted to debut, she'd have to pick one or the other."
-        },
-        {
-            "text": "But she couldn't make that choice, and ended up refusing \neveryone who tried to scout her... That's the gist of it."
-        },
-        {
-            "text": "Ha... If it was more obvious which tracks I'm better at, that'd \nmake things a whole lot easier to figure out...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "She didn't have a good reason to choose one or the other. \nSo maybe it'd be better to actually do something instead of \njust thinking about it. Maybe――",
+            "name": "Agnes Digital",
+            "text": "――Tunggu, <i>HAH!?</i> Apa...!? \n<i>Siapa</i>...!?",
             "choice_data_list": [
-                "How about we ask them?",
-                "How about we ask them?"
+                "Ini aku lagi."
             ]
         },
         {
-            "text": "...Huh? Them...?",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Oh, ternyata kamu. Penggemar Umamusume-chan yang waktu itu. \nHalo, halo～."
         },
         {
-            "text": "Looking down at the track, it just so happened that T.M. Opera O, \nOverlord of Turf, and Smart Falcon, the Ruler of Dirt, were there.",
+            "name": "Agnes Digital",
+            "text": "Jadi, gimana kabarmu? Kamu udah melakukan amal kebaikan itu?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aku masih di sini menjalani kehidupan pemujaanku. Memanjatkan doa pada oshi-oshiku. Mengucap syukur atas berkah <i>moe</i> mereka. Terkadang saking emosionalnya, aku sampai menangis――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――Tunggu, bukan itu intinya!! \nApa kamu. Dengar bagian yang awal tadi...!?",
             "choice_data_list": [
-                "Let's go ask those two!"
+                "Yap.",
+                "Yoi."
             ]
         },
         {
-            "text": ".....Bwuh?",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Ah. Udah kuduga. Jadi kamu dengar ya..."
         },
         {
-            "text": "<i>WHHAAAAA!?</i> \nAsk her<i> Overlordship </i>and her <i>Umadolshipーーー!!?</i>",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "Nggak bakal susah buat ngejelasinnya kok, kalau kamu tahan dengar aku nge-halu soal oshi-oshiku..."
         },
         {
-            "text": "Ah, are the two of you... \n...Perhaps admirers of mine?",
-            "name": "T. M. Opera O"
+            "name": "Agnes Digital",
+            "text": "Aku cuma nggak bisa milih antara rumput atau tanah. \nIya sih, sebagian masalahnya karena kemampuanku yang 50-50 di keduanya, tapi――"
         },
         {
-            "text": "Very well then. If you want a photoshoot, a deep cut, an \ninterview, I shall give it all to you!",
+            "name": "Agnes Digital",
+            "text": "Masalah utamanya adalah kalau aku pilih satu, berarti aku harus ninggalin yang satunya lagi. \nAku benaaaa――r-benar nggak mau ngelakuin itu...",
+            "choice_data_list": [
+                "Begitu ya..."
+            ]
+        },
+        {
+            "text": "Kalau soal balapan Pusat, makin tinggi kelasnya, kemungkinan besar balapannya ada di lintasan rumput. Jadi mayoritas Umamusume merelakan lintasan tanah buat lebih fokus berlari di rumput."
+        },
+        {
+            "text": "Kebanyakan Umamusume bakal pasrah dan bilang \"ya mau gimana lagi\", tapi dia――",
+            "choice_data_list": [
+                "Kamu benar-benar bersemangat soal ini ya.",
+                "Kamu benar-benar bersemangat soal ini ya."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ya, tentu saja! Cintaku pada Umamusume-chan tidak mengenal rumput maupun tanah! Karena mereka semua adalah oshi-ku, dan semuanya sama-sama berhaaaarga!",
+            "choice_data_list": [
+                "Tunggu, apa?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Apa?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Enggak, iya. Itu masalahnya! \nMereka semua terlalu berhaaaarga sampai aku nggak bisa milih!!",
+            "choice_data_list": [
+                "Berhaaaarga........?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ya, tepat sekali! Veteran dengan karma setinggi dirimu pasti paham! \nMereka semua berhaaaarga!! TAPI...!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kalau aku pilih masuk <i>rumput</i>, aku nggak bisa lihat Umamusume-chan di lintasan <i>tanah!</i> \nKalau aku pilih masuk <i>tanah</i>, aku nggak bisa lihat Umamusume-chan di lintasan <i>rumput!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ghaahhh, kenapa bisa begini coba? Gara-gara hal ini, aku nolak semua tawaran scouting, semua Balapan Seleksi!!!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Pa・da・hal・A・ku</i> pengen lihat semuuuu――uuuaaa Umamusume-chan dari dekat, di rumput DAN di tanah!!!!"
+        },
+        {
+            "text": "...Entah kenapa, perasaanku mengatakan kalau kita sedang membicarakan dua hal yang sangat berbeda di sini."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kamu paham penderitaan ini, kan!? \n<i>Iya kan</i>, pelatih pencinta Umamusume-chan?"
+        },
+        {
+            "text": "Dia bicara sangat menggebu-gebu, jadi aku menyuruhnya berhenti sebentar agar aku bisa mencerna situasinya..."
+        },
+        {
+            "text": "Dia tidak mau melepaskan Umamusume tanah maupun rumput ――para \"oshi\"-nya. \nTapi kalau dia ingin debut, dia harus memilih salah satu lintasan."
+        },
+        {
+            "text": "Tapi dia tidak bisa membuat pilihan itu, dan berujung menolak semua orang yang mencoba merekrutnya... Begitulah intinya."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Haa... Seandainya saja lebih jelas di lintasan mana aku lebih jago, itu bakal bikin semuanya jauh lebih gampang buat diputusin..."
+        },
+        {
+            "text": "Dia tidak punya alasan yang kuat untuk memilih salah satunya. \nJadi mungkin akan lebih baik kalau benar-benar melakukan sesuatu daripada hanya memikirkannya. Mungkin――",
+            "choice_data_list": [
+                "Bagaimana kalau kita tanya mereka?",
+                "Bagaimana kalau kita tanya mereka?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Hah? Mereka...?"
+        },
+        {
+            "text": "Saat melihat ke arah lintasan, kebetulan T.M. Opera O, sang Raja Rumput, dan Smart Falcon, sang Penguasa Tanah, ada di sana.",
+            "choice_data_list": [
+                "Ayo kita tanya mereka berdua!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": ".....Bwueh?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>WAAAPAA!?</i> \nNanya ke <i>Yang Mulia Raja</i> dan <i>Yang Mulia Umadolーーー!!?</i>"
+        },
+        {
             "name": "T. M. Opera O",
+            "text": "Ah, apa kalian berdua... \n...Adalah pengagumku?"
+        },
+        {
+            "name": "T. M. Opera O",
+            "text": "Baguslah kalau begitu. Kalau kalian butuh sesi pemotretan, wawancara eksklusif, atau tanya jawab, aku akan memberikan semuanya pada kalian!",
             "choice_data_list": [
-                "Why is it that you run on turf?",
-                "Why is it that you run on turf?"
+                "Kenapa kamu berlari di lintasan rumput?",
+                "Kenapa kamu berlari di lintasan rumput?"
             ]
         },
         {
-            "text": "Oh, quite the thinker, that question. But the answer is simple! \nYou see―― I merely stand where the spotlight shines brightest \nupon me!",
-            "name": "T. M. Opera O"
+            "name": "T. M. Opera O",
+            "text": "Oh, pertanyaan yang cukup filosofis. Tapi jawabannya sederhana! \nAsal kau tahu―― Aku hanya berdiri di tempat di mana lampu sorot bersinar paling terang ke arahku!"
         },
         {
-            "text": "Hmm? You're... Digital-chan, right? \nThanks so much for coming to my concert last time～!",
-            "name": "Smart Falcon"
-        },
-        {
-            "text": "I can't believe you came to see me on the track, too♪ \nYou really wanted to see little old Falco that much?",
             "name": "Smart Falcon",
+            "text": "Hmm? Kamu... Digital-chan, kan? \nMakasih banyak ya udah datang ke konserku waktu itu～!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aku nggak nyangka kamu bakal datang nemuin aku di lintasan juga♪ \nKamu sebegitu kangennya ya sama Falco?",
             "choice_data_list": [
-                "<size=41>We wanted to know why you run on dirt.</size>",
-                "<size=41>We wanted to know why you run on dirt.</size>"
+                "<size=41>Kami ingin tahu kenapa kamu berlari di lintasan tanah.</size>",
+                "<size=41>Kami ingin tahu kenapa kamu berlari di lintasan tanah.</size>"
             ]
         },
         {
-            "text": "Hm? You want to know why I run on dirt? Hmm～... \nBecause \"if only Falco can do it, she's got to do her best!\" ☆",
-            "name": "Smart Falcon"
+            "name": "Smart Falcon",
+            "text": "Hm? Mau tahu kenapa aku lari di lintasan tanah? Hmm～... \nKarena \"kalau cuma Falco yang bisa melakukannya, Falco harus berjuang sekuat tenaga!\" ☆"
         },
         {
-            "text": "Those are the answers we got from the two of them. \nThey didn't put it the same way, but they meant the same thing. \nThey ran on the tracks that made them shine the brightest."
+            "text": "Itulah jawaban yang kami dapatkan dari mereka berdua. \nMereka tidak mengucapkannya dengan cara yang sama, tapi maknanya sama. \nMereka berlari di lintasan yang membuat mereka bersinar paling terang."
         },
         {
-            "text": "So, when it comes to Agnes Digital――",
+            "text": "Jadi, jika kembali pada Agnes Digital――",
             "choice_data_list": [
-                "So what do you think now?",
-                "So what do you think now?"
+                "Jadi, apa pendapatmu sekarang?",
+                "Jadi, apa pendapatmu sekarang?"
             ]
         },
         {
+            "name": "Agnes Digital",
             "text": ".............",
-            "name": "Agnes Digital",
             "choice_data_list": [
-                "Helloooo?"
+                "Haloooo?"
             ]
         },
         {
+            "name": "Agnes Digital",
             "text": ".............",
-            "name": "Agnes Digital",
             "choice_data_list": [
-                "You okay?"
+                "Kamu nggak apa-apa?"
             ]
         },
         {
-            "text": "『――and Confucius replied, the virtue of the superior as wind \nupon the grass.』",
             "name": "Agnes Digital",
+            "text": "『――dan Konfusius menjawab, kebajikan orang yang lebih tinggi itu bagaikan angin di atas rerumputan.』",
             "choice_data_list": [
-                "........what?"
+                "........apa?"
             ]
         },
         {
-            "text": "And with those last words, she passed right out. \nThis was another shape of her love for Umamusume...maybe?"
+            "text": "Dan dengan kata-kata terakhir itu, dia langsung pingsan. \nIni adalah bentuk lain dari rasa cintanya pada Umamusume... mungkin?"
         }
     ]
 }

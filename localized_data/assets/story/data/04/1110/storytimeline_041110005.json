@@ -1,176 +1,176 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "It had been a few days since the start of Cesario's \nstory, to become 『A guiding light for future Uma \nMusume』. We got a request to do a photo shoot.",
+            "text": "Udah beberapa hari sejak cerita Cesario buat jadi 『Cahaya Penuntun Umamusume masa depan』 dimulai. Kita dapat tawaran pemotretan.",
             "choice_data_list": [
-                "『Daily Life of Umamusume and Trainer』, huh?"
+                "Tema 『Keseharian Umamusume dan Trainer-san』 ya?"
             ]
         },
         {
-            "text": "It probably focused on 『Popular Umamusume』, so not \njust us. Probably the girls that ran the Selection \nrace with her, Rhein Kraft, Air Messiah, Daring Heart――"
+            "text": "Kayaknya fokus ke 『Umamusume Populer』, jadi bukan cuma kita. Mungkin bareng Rhein Kraft, Air Messiah, Daring Heart yang ikut balapan Seleksi kemarin――"
         },
         {
-            "text": "This generation was filled with talented girls who \nattracted attention. Appearing in that environment would \nprobably be a good start to becoming a 『Guiding Light』",
+            "text": "Generasi ini penuh anak berbakat yang jadi sorotan. Tampil bareng mereka bakal jadi awal yang bagus buat jadi 『Cahaya Penuntun』.",
             "choice_data_list": [
-                "Let's do our best at the photo shoot too!"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "Thank you for handling today's photo shoot. \nWe hope we can live up to your expectations."
-        },
-        {
-            "name": "Photographer",
-            "text": "It's fine if you keep things more informal. The theme \nis school-life together with your trainer, after all!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Thank you very much. ……Oh. \nLooks like Trainer has arrived, though――",
-            "choice_data_list": [
-                "Sorry, I made you wait!"
+                "Ayo berjuang di pemotretan ini!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Um……Trainer, what's with those clothes? \nYou're dressed much more smartly than normal.",
+            "text": "Makasih udah ngurus pemotretan hari ini. Semoga hasilnya sesuai harapan."
+        },
+        {
+            "name": "Fotografer",
+            "text": "Santai aja, nggak usah kaku. Temanya kan keseharian di sekolah bareng Trainer-san!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Makasih banyak. ...Oh. Sepertinya Trainer-san udah datang――",
             "choice_data_list": [
-                "This is important so I wanted to do my best!"
-            ]
-        },
-        {
-            "text": "To look better in the photos, I bought a new suit and \nhad my hair done at a salon. My preparations were perfect!"
-        },
-        {
-            "name": "Cesario",
-            "text": "I see. That's reassuring. \nThen Trainer too, I'm looking forward to working with you."
-        },
-        {
-            "name": "Photographer",
-            "text": "Then to start with, some photos when meeting up! \nPlease think about the image of your normal day!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Understood. Then――"
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer, I'd like to consult with you about the next race.",
-            "choice_data_list": [
-                "Sounds good! Let's get to it!",
-                "Sounds good! Let's get to it!"
-            ]
-        },
-        {
-            "name": "Photographer",
-            "text": "T-Trainer-san, I know you're a little fired up but \n……remember, it's supposed to be a meeting. Yeah, \nlet's try to convey a serious atmosphere!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Next is, chatting while on break. \nThen――"
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer. I made a lot of side dishes today, \nif you'd like, how about joining me for lunch?"
-        },
-        {
-            "name": "Photographer",
-            "text": "That's good～! Even with that dignified appearance, \nit's still a cozy atmosphere! Trainer-san――",
-            "choice_data_list": [
-                "Yeah～!! Thanks for asking!!"
+                "Maaf bikin nunggu!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "……Um, Trainer. I think you might be over acting…… \nYour normal smile would make the best photo……",
+            "text": "Eh... Trainer-san, tumben bajunya rapi banget? Beda dari biasanya.",
             "choice_data_list": [
-                "Eh? Am I trying too hard……!?"
+                "Ini kan penting, jadi aku mau tampil maksimal!"
             ]
         },
         {
-            "name": "Photographer",
-            "text": "W-weeell……Um, how about taking a short break!? If you're not \nused to it, a photoshoot can be really tiring, after all."
+            "text": "Biar bagus di foto, aku sengaja beli jas baru dan potong rambut di salon. Persiapanku udah mantap!"
         },
         {
-            "text": "I thought I was doing this for Cesario, but it \nseems like my enthusiasm backfired. I was just \nacting like an idiot who couldn't read the mood.",
+            "name": "Cesario",
+            "text": "Oh gitu. Baguslah kalau gitu. Mohon kerja samanya ya, Trainer-san."
+        },
+        {
+            "name": "Fotografer",
+            "text": "Kita mulai dari foto pas ketemuan ya! Coba bayangin aja kayak keseharian kalian biasanya!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Baik. Kalau gitu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san, aku mau diskusi soal balapan selanjutnya.",
             "choice_data_list": [
-                "Sorry, I'm holding you back……",
-                "Sorry, I'm holding you back……"
+                "Boleh! Ayo bahas sekarang!",
+                "Boleh! Ayo bahas sekarang!"
             ]
         },
         {
+            "name": "Fotografer",
+            "text": "T-Trainer-san, aku tau kamu semangat, tapi... ini kan lagi rapat. Coba kasih aura yang lebih serius ya!"
+        },
+        {
             "name": "Cesario",
-            "text": "No, that's not true. Please don't worry about it. But, are you okay? \nIt seems like you're putting quite a lot of effort in to it.",
+            "text": "Selanjutnya, ngobrol pas istirahat. Kalau gitu――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san. Aku masak banyak lauk hari ini, mau makan siang bareng?"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Cakep~! Biarpun kelihatan anggun, suasananya tetap hangat! Trainer-san――",
             "choice_data_list": [
-                "But your future students will see the photo!"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "……? What do you mean……?"
-        },
-        {
-            "text": "With her success in racing her name will remain in history, \nonce she becomes the 『Guiding Light』, people will look \nback and see these photos――that's what I tell her.",
-            "choice_data_list": [
-                "That's why I need to keep it together……!"
-            ]
-        },
-        {
-            "name": "Cesario",
-            "text": "So that's what you were thinking about today's \nphotoshoot……and why you bought a new suit."
-        },
-        {
-            "name": "Cesario",
-            "text": "……Even though we don't know when we'll even reach that point. \nTo think you're already looking ahead and preparing for it――"
-        },
-        {
-            "name": "Cesario",
-            "text": "Really, I'm glad you're my 『Partner』 ……Thank you very much. \nI can't think of any better words to describe how I feel now.",
-            "choice_data_list": [
-                "Cesario……"
-            ]
-        },
-        {
-            "text": "(Click!)"
-        },
-        {
-            "name": "Photographer",
-            "text": "Ah, I'm sorry, even though you're on break! You both had \nsuch good expressions on your faces that I couldn't help it!"
-        },
-        {
-            "name": "Photographer",
-            "text": "But, because of that, I got the best shot of the day! Not with words, \nbut with the look in your eyes, as expected of a noteworthy duo!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer, I'm glad we could live up to expectations. Looks like \nwe were able to leave behind a memory of how we normally are."
-        },
-        {
-            "name": "Cesario",
-            "text": "Then, from now on, let's try to meet every situation as our \nnormal selves. So there can be many pictures of us like that."
-        },
-        {
-            "name": "Cesario",
-            "text": "……Fuu. Good work throughout the day♪ \nI can't wait to show it to the girls I teach."
-        },
-        {
-            "name": "Cesario",
-            "text": "I can proudly tell them that Trainer \nwas a passionate person from the start!",
-            "choice_data_list": [
-                "I hope so",
-                "I hope so"
+                "Wah~! Makasih tawarannya!!"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes, definitely! \nTo me, that's the truth."
+            "text": "...Hmm, Trainer-san. Kamu agak lebay deh... Senyum biasa aja udah bagus kok buat difoto...",
+            "choice_data_list": [
+                "Eh? Aku terlalu maksa ya...!?"
+            ]
+        },
+        {
+            "name": "Fotografer",
+            "text": "Y-yah... Gimana kalau kita istirahat sebentar!? Kalau belum biasa, pemotretan emang bikin capek."
+        },
+        {
+            "text": "Niatnya mau bantu Cesario, tapi semangatku malah jadi bumerang. Aku cuma kelihatan kayak orang bodoh yang ngerusak suasana.",
+            "choice_data_list": [
+                "Maaf, aku malah jadi beban...",
+                "Maaf, aku malah jadi beban..."
+            ]
         },
         {
             "name": "Cesario",
-            "text": "I think we should be grateful for today's \nphotoshoot. I was able to learn more about \nTrainer, and understand just how passionate you are♪"
+            "text": "Nggak kok, santai aja. Tapi kamu nggak apa-apa? Kelihatan banget maksain dirinya.",
+            "choice_data_list": [
+                "Tapi nanti calon muridmu bakal lihat foto ini!"
+            ]
         },
         {
-            "text": "Seeing how happy she was, I had a thought. \nI also wanted to know more about her, and deepen that trust."
+            "name": "Cesario",
+            "text": "...? Maksudnya gimana...?"
+        },
+        {
+            "text": "Kalau kamu sukses dan jadi 『Cahaya Penuntun』, orang-orang bakal lihat foto ini di masa depan――Itu yang kubilang ke dia.",
+            "choice_data_list": [
+                "Makanya aku harus tampil sempurna...!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh, jadi itu alasanmu mikirin banget pemotretan ini... sampai beli jas baru segala."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Padahal kita nggak tahu kapan bisa sampai di titik itu. Nggak nyangka kamu udah mikir sejauh itu dan nyiapin semuanya――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Serius deh, aku bersyukur banget kamu yang jadi 『Partner』-ku. Makasih banyak ya. Cuma kata itu yang bisa gambarin perasaanku sekarang.",
+            "choice_data_list": [
+                "Cesario..."
+            ]
+        },
+        {
+            "text": "(Jepret!)"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Ah, maaf ya padahal lagi istirahat! Ekspresi kalian berdua bagus banget sih, nggak tahan buat moto!"
+        },
+        {
+            "name": "Fotografer",
+            "text": "Tapi berkat itu, aku dapet foto terbaik hari ini! Tatapan mata kalian bicara banyak, emang pantas jadi duo kebanggaan!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer-san, syukurlah kita bisa penuhi harapan. Kayaknya kita berhasil ninggalin kenangan diri kita yang apa adanya."
+        },
+        {
+            "name": "Cesario",
+            "text": "Mulai sekarang, yuk hadapi semuanya dengan jadi diri sendiri. Biar makin banyak foto kenangan kita yang kayak gini."
+        },
+        {
+            "name": "Cesario",
+            "text": "...Fuu. Kerja bagus ya hari ini♪ Nggak sabar pengen pamerin ke murid-muridku nanti."
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku bisa bangga bilang ke mereka kalau Trainer-san itu orang yang semangat banget dari awal!",
+            "choice_data_list": [
+                "Semoga aja gitu",
+                "Semoga aja gitu"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Pasti dong! Bagiku, itu fakta."
+        },
+        {
+            "name": "Cesario",
+            "text": "Kayaknya kita harus bersyukur ada pemotretan hari ini. Aku jadi lebih kenal Trainer-san, dan paham seberapa besar semangatmu♪"
+        },
+        {
+            "text": "Lihat dia sesenang itu, aku jadi mikir. Aku juga pengen lebih kenal dia, biar rasa saling percaya kita makin kuat."
         }
     ]
 }

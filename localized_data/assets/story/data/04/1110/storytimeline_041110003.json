@@ -1,206 +1,206 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Air Groove",
-            "text": "The earlier race was excellent. Everyone should \nrecognize you as one of the strongest now. \nHow about being a little proud of yourself?"
+            "text": "Balapan tadi sangat luar biasa. Semua orang pasti sudah mengakuimu sebagai salah satu yang terkuat sekarang. Bagaimana kalau kamu sedikit bangga pada dirimu sendiri?"
         },
         {
             "name": "Duramente",
-            "text": "No……not yet. I want to prove that the \nblood flowing through me is the 『Strongest』"
+            "text": "Tidak…… belum. Aku ingin membuktikan bahwa darah yang mengalir dalam diriku adalah yang 『Terkuat』"
         },
         {
             "name": "Air Groove",
-            "text": "I see your enthusiasm hasn't changed much since your school \ndays. I suppose that's just a part of you, Duramente."
+            "text": "Sepertinya antusiasmemu belum banyak berubah sejak masa sekolah dulu. Kurasa itu memang sudah menjadi bagian dari dirimu, Duramente."
         },
         {
             "name": "Air Groove",
-            "text": "You're going to train some more after this, right? \nSince it's been a while, how about some parallel running?"
+            "text": "Kamu masih akan berlatih lagi setelah ini, kan? Karena sudah lama, bagaimana kalau kita berlari berdampingan?"
         },
         {
             "name": "Duramente",
-            "text": "……! However, aren't you really busy……?"
+            "text": "……! Tapi, bukankah kamu sedang sangat sibuk……?"
         },
         {
             "name": "Air Groove",
-            "text": "Not so much that I can't afford to spend some time \nwith my esteemed disciple. Let's just go get changed. \nYou want as much time to run as possible, right?"
+            "text": "Tidak sesibuk itu sampai aku tak bisa meluangkan waktu untuk murid kesayanganku. Ayo kita ganti baju. Kamu pasti ingin berlari selama mungkin, kan?"
         },
         {
             "name": "Air Groove",
-            "text": "I may not be like my mother, but I still want to prove I can be \na role model for you. Don't hesitate to rely on me, Dura."
+            "text": "Aku mungkin tidak seperti ibuku, tapi aku tetap ingin membuktikan bahwa aku bisa menjadi panutan bagimu. Jangan ragu untuk mengandalkanku, Dura."
         },
         {
             "name": "Duramente",
-            "text": "Groo-nee……there's no way you aren't like Teacher. \nYour presence is always huge. The same as always."
+            "text": "Kak Groo…… tidak mungkin kamu tidak seperti Guru. Kehadiranmu selalu terasa besar. Sama seperti biasanya."
         },
         {
             "name": "Umamusume A",
-            "text": "Ah, it's senpai! Listen to this～. I had another late start…… \nThough, if I don't make a mistake I win!"
+            "text": "Ah, ada senpai! Dengar ini～. Start-ku telat lagi…… Tapi, kalau aku tidak membuat kesalahan, aku pasti menang!"
         },
         {
             "name": "Umamusume B",
-            "text": "Me too, in the end, my last push just wasn't enough…… \na nose, it was just by a nose! It's so frustrating!"
+            "text": "Aku juga, pada akhirnya, dorongan terakhirku kurang kuat…… selisih hidung, cuma selisih satu hidung! Benar-benar bikin frustrasi!"
         },
         {
             "name": "Air Groove",
-            "text": "I get it, I get it. I'll take a look at your running too. So that \nthings work out next time, we'll formulate some countermeasures."
+            "text": "Iya, iya, aku mengerti. Aku akan melihat lari kalian juga. Agar hasilnya bagus lain kali, kita akan merumuskan beberapa strategi."
         },
         {
             "name": "Cesario",
-            "text": "Waaa……today too, she's surrounded by so many. It's amazing……",
+            "text": "Waaa…… hari ini juga, dia dikelilingi banyak orang. Luar biasa……",
             "choice_data_list": [
-                "Cesario, you admire Air Groove too?",
-                "Cesario, you admire Air Groove too?"
+                "Cesario, kamu juga mengagumi Air Groove?",
+                "Cesario, kamu juga mengagumi Air Groove?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes. To see her putting in so much effort to help her \nkouhai like that, that makes her a great role model to me."
+            "text": "Iya. Melihatnya berusaha keras untuk membantu kouhai-nya seperti itu, membuatnya jadi panutan yang hebat bagiku."
         },
         {
-            "text": "That made sense to me. Air Groove also ran in \nthe Tiara rotation, an Umamusume that achieved \nspectacular success, including winning the 『Oaks』"
+            "text": "Itu masuk akal. Air Groove juga berlari di rotasi Tiara, seorang Umamusume yang meraih kesuksesan spektakuler, termasuk memenangkan 『Oaks』"
         },
         {
-            "text": "She also acts as the Student Council Vice President so I've \nseen her speaking on stage several times. On the school \ngrounds, she always seemed to be surrounded by people."
-        },
-        {
-            "name": "Cesario",
-            "text": "A great athlete doesn't necessarily become a \ngreat instructor. But……the admiration that comes \nfrom being a great athelete is definitely a plus."
+            "text": "Dia juga menjabat sebagai Wakil Ketua OSIS, jadi aku sudah melihatnya berbicara di atas panggung beberapa kali. Di lingkungan sekolah, dia juga selalu terlihat dikelilingi orang-orang."
         },
         {
             "name": "Cesario",
-            "text": "Air Groove became a second generation winner at \nthe 『Oaks』. From mother to child, that run was \ninherited. It kind of gives credence to that."
+            "text": "Atlet yang hebat belum tentu menjadi instruktur yang hebat. Tapi…… kekaguman yang datang dari menjadi atlet hebat pastinya menjadi nilai tambah."
         },
         {
             "name": "Cesario",
-            "text": "And that, on campus, she's always surrounded by so many \nbecause she can provide the kind of guidance they need.",
+            "text": "Air Groove menjadi pemenang generasi kedua di 『Oaks』. Dari ibu ke anak, lari itu diwariskan. Hal itu seolah memberi bukti nyata."
+        },
+        {
+            "name": "Cesario",
+            "text": "Dan di kampus, dia selalu dikelilingi oleh banyak orang karena dia mampu memberikan bimbingan yang mereka butuhkan.",
             "choice_data_list": [
-                "You want to become like that, right?",
-                "You want to become like that, right?"
+                "Kamu ingin menjadi sepertinya, kan?",
+                "Kamu ingin menjadi sepertinya, kan?"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yeah. To be earnest and sincere to everyone. In \nthat way, passing on that run to someone, crossing \ngenerations, from one to the next, and the next."
+            "text": "Ya. Menjadi bersungguh-sungguh dan tulus kepada semua orang. Dengan begitu, meneruskan lari tersebut kepada seseorang, melintasi generasi, dari satu generasi ke generasi berikutnya."
         },
         {
             "name": "Cesario",
-            "text": "Even if that dream is just a small one, when all \nof those dreams come together, they become one big \ndream. I think that……is a really wonderful thing!"
+            "text": "Meskipun mimpi itu hanyalah mimpi kecil, saat semua mimpi itu bersatu, mereka akan menjadi satu mimpi besar. Kurasa itu…… adalah hal yang sangat indah!"
         },
         {
             "name": "Cesario",
-            "text": "That's the kind of grand dream that I'm willing \nto devote my life to, to see it realized.",
+            "text": "Mimpi besar semacam itulah yang rela aku abdikan seumur hidupku untuk mewujudkannya.",
             "choice_data_list": [
-                "(She's in On mode now……!!)"
+                "(Dia sudah masuk ke mode Serius sekarang……!!)"
             ]
         },
         {
             "name": "Cesario",
-            "text": "The girl that I raise to race, that her \nsuccessor will also leave a mark――"
+            "text": "Gadis yang kubesarkan untuk berlari, juga akan memiliki penerus yang meninggalkan jejak mereka sendiri――"
         },
         {
             "name": "Cesario",
-            "text": "Just as the streams in the shadows of mountains become \nrivers and flow in to the ocean. They connect, and \ngrow, and carry these feelings beyond the horizon."
+            "text": "Sama seperti aliran air di balik bayang-bayang gunung yang menjadi sungai dan bermuara ke lautan. Mereka terhubung, dan tumbuh, serta membawa perasaan-perasaan ini melampaui cakrawala."
         },
         {
             "name": "Cesario",
-            "text": "I want to be part of the foundation for the future. Even as \nthis body reaches adulthood……and even as it begins to wither."
+            "text": "Aku ingin menjadi bagian dari fondasi untuk masa depan. Bahkan saat tubuh ini tumbuh dewasa…… dan bahkan saat mulai menua nanti."
         },
         {
             "name": "Cesario",
-            "text": "That is……to become 『A guiding light for future Umamusume』―― \nwhat I'm willing to spend a lifetime to accomplish."
+            "text": "Yaitu…… untuk menjadi 『Cahaya penuntun bagi para Umamusume masa depan』―― hal yang rela aku luangkan seumur hidupku untuk mencapainya."
         },
         {
-            "text": "I could feel my heart pounding in my chest again."
+            "text": "Aku bisa merasakan jantungku berdebar kencang di dada lagi."
         },
         {
-            "text": "Crossing generations, the inheritance of an Uma \nMusume. Connecting the past to the future, as \nif flowing downstream in to a distant ocean.",
+            "text": "Melintasi berbagai generasi, warisan seorang Umamusume. Menghubungkan masa lalu dengan masa depan, bagaikan mengalir ke hilir menuju lautan yang jauh.",
             "choice_data_list": [
-                "(They are the 『Now』 that connects them)"
+                "(Mereka adalah 『Masa Kini』 yang menghubungkan semuanya)"
             ]
         },
         {
-            "text": "The sheer scale of it made my head spin. \nCesario was looking far beyond the present, in to the future."
+            "text": "Skalanya yang begitu besar membuat kepalaku pusing. Cesario menatap jauh melampaui masa kini, menuju ke masa depan."
         },
         {
-            "text": "\"As a squash is before ’tis a peascod, or a codling \nwhen ’tis almost an apple\"――How could one not be \noverwhelmed by the prospects of a girl like her?",
+            "text": "\"Bagaikan tunas sebelum menjadi kacang polong, atau putik saat hampir menjadi apel\"――Bagaimana mungkin seseorang tidak terpukau oleh prospek seorang gadis sepertinya?",
             "choice_data_list": [
-                "It's an amazing dream……",
-                "It's an amazing dream……"
+                "Itu adalah mimpi yang luar biasa……",
+                "Itu adalah mimpi yang luar biasa……"
             ]
         },
         {
             "name": "Cesario",
-            "text": "Yes, I am aware it's an amazing dream.",
+            "text": "Ya, aku sadar ini adalah mimpi yang luar biasa.",
             "choice_data_list": [
-                "……just a 『Guiding Light』 is not enough",
-                "……just a 『Guiding Light』 is not enough"
+                "……hanya menjadi 『Cahaya Penuntun』 saja tidaklah cukup",
+                "……hanya menjadi 『Cahaya Penuntun』 saja tidaklah cukup"
             ]
         },
         {
-            "text": "She had mentioned many times that she wanted to win the \nTriple Tiara, especially the 『Oaks』 to prove her worth."
+            "text": "Dia telah menyebutkan berulang kali bahwa dia ingin memenangkan Triple Tiara, terutama 『Oaks』 untuk membuktikan kemampuannya."
         },
         {
-            "text": "Rather than for a leader, this was the first step to \nbecome a 『Guiding Light』. In order to realize that, \nshe would need to take strong and steady steps forward."
-        },
-        {
-            "name": "Cesario",
-            "text": "It's as you say. \nThat's why……I want to carefully choose my trainer."
+            "text": "Daripada untuk menjadi seorang pemimpin, ini adalah langkah pertama untuk menjadi 『Cahaya Penuntun』. Agar bisa mewujudkannya, dia harus mengambil langkah maju yang kuat dan mantap."
         },
         {
             "name": "Cesario",
-            "text": "It won't be enough just to guide me to prove my worth in races. \nFor my dream――I need someone who will accompany me the entire way."
+            "text": "Benar seperti yang kamu katakan. Karena itulah…… aku ingin memilih pelatihku dengan hati-hati."
         },
         {
             "name": "Cesario",
-            "text": "If I had to put it to words, a 『Partner』, someone to walk \nthis path together throughout life. Someone that makes me \nbelieve they will be that person, is who I want as my trainer.",
+            "text": "Hanya membimbingku untuk membuktikan kemampuanku di balapan saja tak akan cukup. Untuk mimpiku――Aku butuh seseorang yang akan menemaniku sepanjang perjalanan."
+        },
+        {
+            "name": "Cesario",
+            "text": "Jika harus diungkapkan dengan kata-kata, seorang 『Partner』, seseorang untuk menyusuri jalan ini bersama-sama seumur hidup. Seseorang yang dapat membuatku percaya bahwa dialah orangnya, adalah sosok yang kuinginkan sebagai pelatih.",
             "choice_data_list": [
-                "(A 『Partner』……)"
+                "(Seorang 『Partner』……)"
             ]
         },
         {
-            "text": "Even after parting ways with Cesario, \nmy heart was still beating loudly."
+            "text": "Bahkan setelah berpisah dengan Cesario, jantungku masih berdebar kencang."
         },
         {
-            "text": "The sun was setting behind the buildings, \nnight was approaching from the east. In to \nthat night, I wish I could toss aside this longing.",
+            "text": "Matahari mulai terbenam di balik gedung-gedung, malam mendekat dari arah timur. Ke dalam malam itu, rasanya aku ingin membuang semua kerinduan ini.",
             "choice_data_list": [
-                "(But here, it was as bright as midday)"
+                "(Tapi di sini, rasanya seterang tengah hari)"
             ]
         },
         {
-            "text": "……But, now wasn't the time to be feeling like a character in \na play. I needed to think about what I could do for Cesario."
+            "text": "……Tapi, sekarang bukan waktunya merasa seperti karakter dalam sandiwara. Aku harus memikirkan apa yang bisa kulakukan untuk Cesario."
         },
         {
-            "text": "What was the essence of a 『Partner』? What kind of \nperson should the trainer standing next to Cesario be?"
+            "text": "Apa inti sebenarnya dari seorang 『Partner』? Orang seperti apa yang seharusnya berdiri sebagai pelatih di samping Cesario?"
         },
         {
             "name": "Air Groove",
-            "text": "…………Dura, your growth is quite remarkable……"
+            "text": "…………Dura, perkembanganmu sungguh luar biasa……"
         },
         {
-            "text": "As I slowly gazed down in to the courtyard, Air Groove \nappeared. The appearance of an unexpected character \nseemed like providence, turning tragedy to comedy.",
+            "text": "Saat aku perlahan menatap ke halaman bawah, Air Groove muncul. Kemunculan karakter yang tak terduga ini terasa seperti takdir ilahi, mengubah tragedi menjadi komedi.",
             "choice_data_list": [
-                "If it's her……then she might know!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "You're……the trainer that was together with Cesario. \nWhat do you need that has you so out of breath?",
-            "choice_data_list": [
-                "As Cesario's predecessor, I wanted your opinion"
+                "Kalau dia…… dia mungkin tahu!"
             ]
         },
         {
             "name": "Air Groove",
-            "text": "Cesario's predecessor? Me?",
+            "text": "Kamu…… pelatih yang tadi bersama Cesario. Ada apa sampai kamu berlari terengah-engah begini?",
             "choice_data_list": [
-                "You might know what Cesario is thinking",
-                "You might know what Cesario is thinking"
+                "Sebagai pendahulu Cesario, aku ingin meminta pendapatmu"
             ]
         },
         {
             "name": "Air Groove",
-            "text": "…………sounds like you've got some circumstances. Got it. \nFor now, I'll listen to what you have to say."
+            "text": "Pendahulu Cesario? Aku?",
+            "choice_data_list": [
+                "Kamu mungkin tahu apa yang sedang dipikirkan Cesario",
+                "Kamu mungkin tahu apa yang sedang dipikirkan Cesario"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "…………Sepertinya kamu sedang ada masalah. Mengerti. Untuk saat ini, aku akan mendengarkan apa yang ingin kau katakan."
         }
     ]
 }

@@ -1,266 +1,266 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Rewinding to the day before――"
+            "text": "Kilas balik ke hari sebelumnya――"
         },
         {
-            "text": "Wait, what'd you just say...? \n――I don't have to make a choice? I can run on both?",
             "name": "Agnes Digital",
+            "text": "Bentar, kamu bilang apa...? \n――Aku nggak usah milih? Bisa lari di dua-duanya?",
             "choice_data_list": [
-                "Yep.",
-                "Mmhm."
+                "Yap.",
+                "He'em."
             ]
         },
         {
-            "text": "Uhhh, just to be sure, you mean not just in the Junior class... \nBut the Classic and Senior classes, too, right...?",
             "name": "Agnes Digital",
+            "text": "Uhh, mastiin aja nih, maksudnya bukan cuma di kelas Junior... \nTapi Kelas Classic sama Senior juga kan...?",
             "choice_data_list": [
-                "That's right.",
-                "That's right."
+                "Bener banget.",
+                "Bener banget."
             ]
         },
         {
-            "text": "Th- Then, then, you <i>really</i> mean it's okay for me to run without \nworrying about the track? I've got the OK to run anywhere and \neverywhere?",
             "name": "Agnes Digital",
+            "text": "T-Terus, maksudmu aku beneran bebas lari tanpa mikirin lintasannya? Aku dapet lampu hijau buat lari di mana aja?",
             "choice_data_list": [
-                "You got it!"
+                "Pastinya!"
             ]
         },
         {
-            "text": "...........",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――Noooo, nonono!! I'm telling you, there's just no way!!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "There's gonna be a Murder on the Digitan Express! I'll sink like \nthe Titanic! If I let myself get pulled in both directions, I'll get \ntorn clean in half! It'll be so over!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "No, it won't!"
-            ]
+            "text": "..........."
         },
         {
-            "text": "Why tho!?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Because you've put in the effort!",
-                "Because you've put in the effort!"
-            ]
+            "text": "――Nggaaak, nggak mungkin!! Serius deh, mustahil tau!!"
         },
         {
-            "text": "Put in the effort...?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――Ah.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "...You're right. I <i>did</i> put in the effort. \nDay by day, giving love to my goddesses, worshipping them, \nbuilding up my virtue――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Are you perchance saying... That my efforts have borne their \nfruit?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Have my virtuous deeds truly stacked up so high...? \nYou think I'm finally at the level where I can stand proud as an \nUmamusume...?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "You mean, the way I am now, I can run on any track...!? \nI'll never be able to match my faves, I know, but are you saying \nmy willpower's just barely above the absolute minimum?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "The way she said it was a little weird, but I'm sure we wanted \nto say the same thing. Right, we both wanted to say――",
-            "choice_data_list": [
-                "<size=42>You should try and be an \"all-rounder\"!</size>"
-            ]
-        },
-        {
-            "text": "<i>AND IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!!!!!</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Wew... But, yeah, you're right!! \nIf you really think about it, I've put in tons of effort!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "And, you know, \"all-rounder\"...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Ahhh...! I just <i>wuv</i> the sound of that...! \nYou mean, I can do anything, <i>anything</i> I want...!?",
             "name": "Agnes Digital",
+            "text": "Bisa-bisa ada pembunuhan di Digitan Express! Aku bakal tenggelam kayak Titanic! Kalau ketarik ke dua arah, badanku bisa kebelah dua! Kelar deh hidupku!",
             "choice_data_list": [
-                "I'm just talking about racing, here!",
-                "I'm just talking about racing, here!"
+                "Nggak bakal gitu!"
             ]
         },
         {
-            "text": "But of course! Trust me, I know the rules! \nSimp with your eyes, never ever with your hands! \n<i>Slurp...</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Still... I can't believe my prayers really <i>have</i> been answered...! \nAll the Garden of Eden's forbidden fruit are right before my very \neyes...!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "――<i>Kuuuuuuuuuhhhhh!!!!!</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Right! I've steeled my will!! I, Digitan, will become an all-rounder! \nFor the sake of witnessing <i>ALL</i> my faves with my own two eyes!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "And with that―― \nAt long last, the Selection Race."
-        },
-        {
-            "text": "...Right. I'm going to be up soon. \nHere I go! I've got will strong enough to overcome samsara on \nthe Sixfold Paths!",
             "name": "Agnes Digital",
+            "text": "Kok bisa!?",
             "choice_data_list": [
-                "Do your best!"
+                "Soalnya kamu udah usaha keras!",
+                "Soalnya kamu udah usaha keras!"
             ]
         },
         {
-            "text": "There's a rule saying you can't enter the Selection Race twice, \nbut it only applies as far as \"twice on the same type of track\"."
-        },
-        {
-            "text": "There isn't any rule against running a Selection Race for turf and \ndirt...Well, really it's more like there just wasn't any precedent \nfor it. But if it's her―― No, <i>because</i> it's her...!"
-        },
-        {
-            "text": "(...This is hallowed ground upon which many Umamusume-chans \nhave run. I can't allow myself to taint it. No, instead――)",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "(――I have to keep this hallowed ground all the more hallowed! \nI'll run with everything I've got!)",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "All the racers are in the gates―― And the race is on!",
-            "name": "Commentator"
-        },
-        {
-            "text": "(Umamusume-chans covered in dirt and their glistening sweat...!! \nTheir strength―― their strength makes them so precious, so \nbeautiful!!)",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Here comes Agnes Digital pushing to the front! \nWhat remarkable running on the last leg!",
-            "name": "Commentator"
-        },
-        {
-            "text": "(Umamusume-chans rushing across the turf, taking deep and \nheavy breaths...! Their elegance―― Their elegance makes them \nso precious, so charming...! In other words――)",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "<i>I LOVE THEM ALL, IN ALL THE WAYS THEY AAAAAARE!!!!</i>",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "What's this!? Agnes Digital's showing unbelievable speed on \nturf, too!! Is such a thing even possible!?",
-            "name": "Commentator"
-        },
-        {
-            "text": "What the...!? You mean... <i>she doesn't pick her battlefield</i>...!? \nShe might have what it takes to be the strongest one day!!",
-            "name": "Mid-Rank Trainer A"
-        },
-        {
-            "text": "She ran even more wonderfully than I thought she would! \nI hurried down to congratulate her on a job well done.",
-            "choice_data_list": [
-                "Good work! Nice running out there!",
-                "Good work! Nice running out there!"
-            ]
-        },
-        {
-            "text": "Heheh, thank you very much...! \nAnd I'm <i>super-duper</i> thankful that I got to see my faves up close \nand personal!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I owe it all to a you-know-who trainer with a whole bunch of \nvirtue――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "You there! That was incredible. I can't believe you were so skilled \non both turf and dirt...!",
-            "name": "Mid-Rank Trainer A"
-        },
-        {
-            "text": "――Hiwah!? Wh-Whaat!?",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Please, won't you work with me? We'll start by building your \nskills with Junior class dirt races, then focus on turf――",
-            "name": "Mid-Rank Trainer A"
-        },
-        {
-            "text": "Eh, ah, sorry! But I have to say no...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "I'm the type of girl who's all about diversity, you see! I can't just \nfocus on one or the other, you see! I'm trying to be an \nall-rounder, you see! And――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "The thing is... This trainer here's already agreed to train with \nlittle old Digitan!",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "...Wait, did I?"
-            ]
+            "text": "Usaha keras...?"
         },
         {
-            "text": "L-look, just play along...! \nAll these people are getting me nervous!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Phew, I'm free... All eyes were on me for a bit there. Weird... \nSorry for getting you caught up in that.",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "<size=39>Oh, right. About what you said back there.</size>"
-            ]
+            "text": "――Ah."
         },
         {
-            "text": "Oh. Eheheh... It was just the first thing that came to mind. \nSorry.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "But, uh, I really do want to work with you. \nSee, most of the time when I'm with someone else, things tend to \nget real awkward――",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "You're an Umamusume-chan-fan too, so I'm really comfortable \naround you...",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Plus, I don't think there's anyone else in the world who'd take my \nyapping as seriously as you. So...! Are you in?",
             "name": "Agnes Digital",
-            "choice_data_list": [
-                "Of course I am!"
-            ]
+            "text": "...Bener juga. Aku emang udah usaha. \nTiap hari, ngasih cinta ke dewi-dewiku, muja mereka, ngumpulin pahala oshi――"
         },
         {
-            "text": "Oh, phew...! \nAlrighty then, I'm looking forward to working with you!",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "Umamusume run for all sorts of reasons. They chase their dreams \nin their own amazing ways. No matter what kind of dream it is. \nSo I'll do my best to support her――"
-        },
-        {
-            "text": "――Oh, almost forgot. Trainer-san.",
-            "name": "Agnes Digital"
-        },
-        {
-            "text": "What color glowstick do you want?",
             "name": "Agnes Digital",
+            "text": "Jangan-jangan maksudmu... Usahaku akhirnya berbuah manis?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Apa amal ibadahku beneran udah numpuk setinggi itu...? \nKamu pikir levelku udah pantas buat berdiri bangga sebagai Umamusume...?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Maksudnya, dengan kondisiku sekarang, aku bisa lari di lintasan mana aja...!? \nAku emang nggak bakal bisa nyamain oshi-ku, tapi maksudmu tekadku udah lewatin batas minimal?"
+        },
+        {
+            "text": "Cara ngomongnya agak aneh sih, tapi intinya kita sependapat. Bener, yang mau kita bilang itu――",
             "choice_data_list": [
-                "Huh?"
+                "<size=42>Kamu harus coba jadi \"all-rounder\"!</size>"
             ]
         },
         {
-            "text": "The Selection Races aren't done yet! \nWe've got to get our virtuous deeds for the day, don't we!? \n――<i>Don't we!?</i>",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "<i>DAN AKUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU!!!!!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wew... Tapi, iya, kamu bener!! \nKalau dipikir-pikir, usahaku udah banyak banget!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Terus, tau nggak, kata \"all-rounder\" itu..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ahhh...! Kedengarannya <i>mantul</i> banget...! \nMaksudnya, aku bebas lakuin apa aja, <i>apa aja</i> yang kumau...!?",
+            "choice_data_list": [
+                "Ini cuma bahas soal balapan lho ya!",
+                "Ini cuma bahas soal balapan lho ya!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Pasti dong! Percaya deh, aku tau aturannya! \nNikmati pakai mata, jangan pernah sentuh pakai tangan! \n<i>Slurp...</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tetep aja... Nggak nyangka doaku beneran terkabul...! \nBuah terlarang Taman Eden ada di depan mataku...!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――<i>Kuuuuuuuuuhhhhh!!!!!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oke! Tekadku udah bulat!! Aku, Digitan, bakal jadi all-rounder! \nDemi bisa ngelihat <i>SEMUA</i> oshi-ku dengan mata kepalaku sendiri!"
+        },
+        {
+            "text": "Dan begitulah―― \nAkhirnya, Balapan Seleksi tiba."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Sip. Bentar lagi giliranku. \nBerangkat! Tekadku udah cukup kuat buat nembus reinkarnasi enam alam!",
+            "choice_data_list": [
+                "Semangat!"
+            ]
+        },
+        {
+            "text": "Ada aturan nggak boleh ikut Balapan Seleksi dua kali, tapi itu cuma berlaku buat \"dua kali di lintasan yang sama\"."
+        },
+        {
+            "text": "Nggak ada larangan ikut Seleksi di rumput dan tanah... Yah, lebih tepatnya belum pernah ada kejadian aja. \nTapi kalau dia―― Nggak, <i>justru</i> karena ini dia...!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "(...Ini tanah suci tempat banyak Umamusume-chan berlari. Aku nggak boleh nodain ini. Sebaliknya――)"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "(――Aku harus bikin tanah suci ini makin suci! Aku bakal lari sekuat tenaga!)"
+        },
+        {
+            "name": "Komentator",
+            "text": "Semua pelari udah masuk gerbang―― Dan balapan dimulai!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "(Umamusume-chan yang berlumur tanah dan keringat yang berkilau...!! \nKekuatan mereka―― kekuatan mereka bikin mereka kelihatan berharga dan cantik banget!!)"
+        },
+        {
+            "name": "Komentator",
+            "text": "Agnes Digital mulai maju ke depan! \nLari yang luar biasa di putaran terakhir!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "(Umamusume-chan yang melesat di rumput, napas mereka yang dalam dan berat...! \nKeanggunan mereka―― Keanggunan mereka bikin mereka berharga dan menawan banget...! Intinya――)"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>AKU CINTA MEREKA SEMUA APA ADANYAAAAAA!!!!</i>"
+        },
+        {
+            "name": "Komentator",
+            "text": "Ada apa ini!? Agnes Digital nunjukin kecepatan luar biasa di rumput juga!! \nApa hal kayak gini mungkin!?"
+        },
+        {
+            "name": "Pelatih Menengah A",
+            "text": "Gila...!? Maksudnya... <i>dia nggak pilih-pilih medan tempur</i>...!? \nDia bisa aja punya potensi jadi yang terkuat suatu hari nanti!!"
+        },
+        {
+            "text": "Lari dia lebih keren dari dugaanku! \nAku buru-buru turun buat ngucapin selamat.",
+            "choice_data_list": [
+                "Kerja bagus! Lari yang mantap!",
+                "Kerja bagus! Lari yang mantap!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Heheh, makasih banyak...! \nDan aku bersyukur <i>baaaanget</i> bisa lihat oshi-ku dari jarak sedekat ini!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ini semua berkat Trainer-san yang pahalanya numpuk itu――"
+        },
+        {
+            "name": "Pelatih Menengah A",
+            "text": "Hei kamu! Tadi itu luar biasa. Nggak nyangka kamu jago di rumput sama tanah...!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――Hiwah!? A-Apaan!?"
+        },
+        {
+            "name": "Pelatih Menengah A",
+            "text": "Tolong, mau nggak gabung sama aku? Kita mulai asah kemampuanmu di balapan tanah kelas Junior, habis itu fokus ke rumput――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eh, ah, maaf! Tapi aku harus nolak..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Soalnya aku tipe cewek yang suka keberagaman! Nggak bisa cuma fokus ke salah satu aja! \nAku mau jadi all-rounder! Dan――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Masalahnya... Trainer-san ini udah setuju buat ngelatih Digitan!",
+            "choice_data_list": [
+                "...Tunggu, emang iya?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I-ikutin aja napa...! \nDilihatin banyak orang gini bikin aku grogi tau!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fuh, akhirnya bebas... Tadi semua mata tertuju padaku. Aneh rasanya... \nMaaf ya ngelibatin kamu.",
+            "choice_data_list": [
+                "<size=39>Oh, iya. Soal omonganmu tadi.</size>"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh. Eheheh... Cuma itu yang kepikiran di kepalaku tadi. \nMaaf ya."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tapi, uh, aku beneran pengen kerja bareng kamu kok. \nSoalnya, biasanya kalau aku sama orang lain, suasananya suka jadi canggung――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kamu kan fans Umamusume-chan juga, jadi aku ngerasa nyaman di dekatmu..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Lagian, kayaknya nggak ada orang lain di dunia ini yang mau nanggepin celotehanku seserius kamu. Jadi...! Kamu mau kan?",
+            "choice_data_list": [
+                "Pastinya mau!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, syukurlah...! \nOke deh, mohon kerja samanya ya!"
+        },
+        {
+            "text": "Umamusume lari dengan berbagai alasan. Mereka ngejar mimpi dengan cara mereka sendiri yang luar biasa. Apa pun mimpinya. \nMakanya aku bakal berjuang dukung dia――"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "――Oh, hampir lupa. Trainer-san."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Kamu mau lightstick warna apa?",
+            "choice_data_list": [
+                "Hah?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Balapan Seleksinya belum kelar tau! \nKita harus ngumpulin pahala oshi buat hari ini kan!? \n――<i>Iya kan!?</i>"
         }
     ]
 }

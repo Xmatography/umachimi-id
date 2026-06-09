@@ -2,69 +2,69 @@
     "no_wrap": false,
     "text_block_list": [
         {
-            "text": "『Jangan alihkan pandanganmu』―― Seolah-olah diperintahkan, \naku tidak bisa mengalihkan pandanganku darinya."
+            "text": "『Jangan buang muka』―― Entah kenapa,\naku beneran nggak bisa ngalihin pandangan dari dia."
         },
         {
             "name": "Verxina",
-            "text": "Haa……haa……haa――"
+            "text": "Haa... haa... haa――"
         },
         {
             "name": "Verxina",
             "text": "Hiyaaaaaa!!!!",
             "choice_data_list": [
-                "(Dia masih bisa berakselerasi――!?)"
+                "(Dia masih bisa makin cepat――!?)"
             ]
         },
         {
-            "text": "Sudah beberapa bulan sejak aku tiba di Akademi Tracen. \nAku berharap bisa merekrut seorang Umamusume jadi aku \ndatang untuk mengamati latihan."
+            "text": "Udah beberapa bulan sejak aku masuk Akademi Tracen. Niatnya cari Umamusume buat di-scout, makanya aku datang lihat latihan."
         },
         {
-            "text": "Aku juga sedang memeriksa para peserta dalam perlombaan\nsimulasi yang akan datang. Tapi yang paling menonjol di antara \nmereka adalah Verxina――",
+            "text": "Aku juga ngecek peserta balapan simulasi besok. Tapi yang paling menonjol cuma Verxina――",
             "choice_data_list": [
-                "(Aku sampai lupa bernapas……!!)"
+                "(Aku sampai lupa napas...!!)"
             ]
         },
         {
-            "text": "Dari penampilannya yang tenang, larinya sangat ganas dan tidak terduga. Aku benar-benar tidak bisa melepaskan pandangan dari wibawanya yang anggun."
+            "text": "Beda sama tampangnya yang kalem, larinya ganas banget dan di luar dugaan. Aura anggunnya bikin mataku nggak bisa lepas."
         },
         {
             "name": "Verxina",
-            "text": "――Apa kau punya urusan denganku?",
+            "text": "――Ada urusan sama aku?",
             "choice_data_list": [
-                "Tidak……aku hanya terpukau……",
-                "Tidak……aku hanya terpukau……"
+                "Nggak... cuma kagum aja...",
+                "Nggak... cuma kagum aja..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "Oh ya ampun……――Fufuu, terima kasih banyak."
+            "text": "Ya ampun...――Fufu, makasih banyak ya."
         },
         {
             "name": "Verxina",
-            "text": "Senang rasanya kalau lari amatirku tidak terlihat buruk. \nKalau begitu, aku ada janji jadi aku pamit dulu.",
+            "text": "Syukurlah kalau lari amatirku kelihatan bagus. Kalau gitu, aku ada janji, duluan ya.",
             "choice_data_list": [
-                "Ah…………"
+                "Ah..."
             ]
         },
         {
-            "text": "Aku tidak sanggup menghentikannya saat ia berjalan pergi. \nUntuk beberapa saat, aku tak bisa bergerak dari tempat itu.",
+            "text": "Aku nggak sanggup nahan dia pergi. Sesaat, aku cuma bisa matung di sana.",
             "choice_data_list": [
-                "(Larinya……terpatri dalam ingatanku……)"
+                "(Larinya... nempel banget di kepalaku...)"
             ]
         },
         {
-            "text": "Dia begitu anggun dan tegas. Seolah-olah ia menatap lebih tinggi, \ndan lebih tinggi lagi, terus meningkatkan dirinya――"
+            "text": "Dia anggun dan tegas banget. Kayak terus natap ke atas, makin tinggi, dan terus ngembangin diri――"
         },
         {
-            "text": "Aku ingin berada di sana untuk melihat ke mana larinya \nakan membawanya. Pada saat itu, aku tahu apa mimpiku.",
+            "text": "Aku pengen lihat sejauh mana larinya bakal bawa dia. Saat itu juga, aku sadar apa mimpiku.",
             "choice_data_list": [
-                "(Aku harus merekrutnya――!)"
+                "(Aku harus scout dia――!)"
             ]
         },
         {
-            "text": "Keesokan harinya. Aku sedang mencari Verxina untuk \nmencoba membuat kontrak dengannya――",
+            "text": "Besoknya. Aku nyariin Verxina niatnya mau ngajak kontrak――",
             "choice_data_list": [
-                "(……Kenapa ada begitu banyak orang?)"
+                "(...Kok rame banget ya?)"
             ]
         },
         {
@@ -73,93 +73,93 @@
         },
         {
             "name": "Instruktur Musik",
-            "text": "……Seperti yang diharapkan dari Verxina-san. \nBahkan saat tetap berlatih, kau masih bisa sejauh ini."
+            "text": "...Emang beda ya Verxina-san. Padahal jadwal latihan padat, tapi vokalnya tetap sejago ini."
         },
         {
             "name": "Verxina",
-            "text": "Terima kasih banyak. Namun, aku masih belum mencapai tujuanku… \nAku bermaksud terus belajar lebih jauh, terima kasih atas \nbimbinganmu."
+            "text": "Makasih banyak. Tapi aku belum puas... Aku bakal terus belajar, mohon bimbingannya ya."
         },
         {
-            "text": "Sepertinya Verxina juga mengikuti pelajaran vokal. Melihatnya \nberlatih dengan begitu sungguh-sungguh, banyak Umamusume \nyang memandangnya dengan kagum.",
+            "text": "Ternyata Verxina juga les vokal. Lihat dia latihan seserius itu, banyak Umamusume yang natap kagum.",
             "choice_data_list": [
-                "(Aku tidak boleh mengganggu……)"
+                "(Nggak boleh ganggu nih...)"
             ]
         },
         {
             "name": "<size=35>Umamusume Yang Mengamati</size>",
-            "text": "『Sepertinya dia mulai melempar!』『Hey, aku nggak bisa lihat \napa-apa!』『Ssst! Jangan ganggu dia』"
+            "text": "『Eh dia mulai lempar bola!』『Woi, aku nggak kelihatan!』『Ssst! Berisik tau!』"
         },
         {
             "name": "Verxina",
-            "text": "…………Fuu――"
+            "text": "............Fuu――"
         },
         {
             "text": "(DOR!!)"
         },
         {
             "name": "Verxina",
-            "text": "……Fuuu. ……Masih kurang bagus. \nKarena aku tidak sering melempar, rasanya aku sudah agak kaku."
+            "text": "...Fuu. ...Masih kurang nih. Gara-gara jarang lempar bola, rasanya kaku banget."
         },
         {
             "name": "Verxina",
-            "text": "…………Yosh."
+            "text": "............Yosh."
         },
         {
             "text": "(DOR!!)"
         },
         {
-            "text": "Karena hari ini dia sedang di luar, aku ingin mencoba bicara dengannya, tapi aku benar-benar tidak ingin mengganggunya.",
+            "text": "Mumpung dia lagi di luar, pengennya sih ngajak ngobrol, tapi beneran nggak enak ganggunya.",
             "choice_data_list": [
-                "<size=39>(Dia benar-benar menekuni semuanya……)</size>"
+                "<size=39>(Dia beneran serius di segala hal ya...)</size>"
             ]
         },
         {
-            "text": "Setelah itu, aku terus mencari Verxina berkali-kali berharap bisa merekrutnya, tapi――",
+            "text": "Habis itu, aku nyari Verxina terus-terusan biar bisa scout dia, tapi――",
             "choice_data_list": [
-                "(Aku tak punya kesempatan……!)"
+                "(Sama sekali nggak ada celah...!)"
             ]
         },
         {
-            "text": "Sepertinya dia punya kepribadian yang disiplin. \nSetiap kali aku melihatnya, dia selalu tekun mengerjakan sesuatu."
+            "text": "Orangnya emang disiplin banget. Tiap kulihat, pasti lagi serius ngerjain sesuatu."
         },
         {
-            "text": "Aku semakin tertarik pada ketulusannya, tapi aku tetap tidak bisa memberanikan diri untuk bicara. \nTanpa kusadari, perlombaan simulasi sudah dekat.",
+            "text": "Sifat seriusnya itu bikin aku makin tertarik, tapi aku tetep nggak berani nyapa. Tahu-tahu, balapan simulasi udah di depan mata.",
             "choice_data_list": [
-                "<size=38>(Padahal, aku ingin duluan bicara dengannya)</size>"
+                "<size=38>(Padahal pengen ngobrol duluan sama dia)</size>"
             ]
         },
         {
             "name": "Fans Verxina",
-            "text": "Hey! Sepertinya Verxina-senpai sudah kembali!"
+            "text": "Woi! Verxina-senpai udah balik tuh!"
         },
         {
             "name": "Vivlos",
-            "text": "――Mmmm～～Seru banget ya～? \nPesta pra-perekrutan untuk kakak♪"
+            "text": "――Mmmm~~Seru banget ya~? Pesta pra-scouting buat Kakak nih♪"
         },
         {
             "name": "Verxina",
-            "text": "Mama kita terburu-buru menyimpulkan, ya. Padahal aku baru saja \ndiajak bicara oleh banyak orang."
+            "text": "Mama nyimpulinnya kecepatan tuh. Padahal tadi cuma diajak ngobrol sama banyak orang aja."
         },
         {
             "name": "Vivlos",
-            "text": "Itu berarti semuanya tergantung pada perasaan kakak. \nKakak memang hebat～! Ya kan, Chevacchi!?"
+            "text": "Berarti tinggal nunggu Kakak mau milih yang mana. Kakak emang hebat~! Iya kan, Chevacchi!?"
         },
         {
             "name": "Cheval Grand",
-            "text": "……Benar. Itu berarti semua orang melihat kakak dengan \ncara yang sama――"
+            "text": "...Bener. Berarti semua orang mandang Kakak kayak gitu――"
         },
         {
             "name": "Cheval Grand",
-            "text": "――Huh, u-uwaaaaaaah……!?"
+            "text": "――Eh, u-uwaaaaaaah...!?"
         },
         {
             "name": "Fans Verxina",
-            "text": "『Verxina-senpai! Semoga sukses di perlombaan simulasi besok!』 \n『Verxina-sama! Besok kami pasti datang untuk mendukungmu!』"
+            "text": "『Verxina-senpai! Semangat buat balapan simulasi besok ya!』 『Verxina-sama! Besok kita pasti datang dukung!』"
         },
         {
-            "text": "Sepertinya mereka juga semua menunggu kesempatan untuk berbicara dengannya. Begitu mereka turun dari mobil, mereka langsung \ndikerumuni para penggemar.",
+            "text": "Kayaknya mereka juga nunggu momen buat ngajak ngobrol. Pas turun dari mobil aja, mereka langsung dikerumunin fans.",
             "choice_data_list": [
-                "(Aku bahkan tidak bisa mendekat……)"
+                "(Boro-boro bisa ngedeket...)"
             ]
         },
         {
@@ -168,28 +168,28 @@
         },
         {
             "name": "Verxina",
-            "text": "Aku benar-benar berterima kasih atas dukungan kalian yang begitu bersemangat. Namun――bukankah kalian agak berlebihan?"
+            "text": "Makasih banyak ya buat dukungan semangatnya. Tapi――nggak berlebihan nih?"
         },
         {
             "name": "Verxina",
-            "text": "Perlombaan simulasi hanyalah cara untuk memastikan kondisi saat ini. Ini hanya kesempatan untuk menunjukkan apakah kalian bisa meraih 『Puncak』.",
+            "text": "Balapan simulasi kan cuma buat ngecek kondisi sekarang. Cuma ajang pembuktian pantas nggaknya raih 『Puncak』.",
             "choice_data_list": [
                 "(Ah――――!)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Tentu saja, besok, aku akan menunjukkan seperti apa kemenangan \nbagi seseorang yang menargetkan 『Puncak』 itu. Tanpa keraguan."
+            "text": "Pastinya, besok aku bakal tunjukin gimana bentuk kemenangan orang yang ngejar 『Puncak』 itu. Nggak usah ragu."
         },
         {
             "name": "Verxina",
-            "text": "Karena itu, silakan datang dan saksikan. \n――Kalau begitu, mohon permisi.",
+            "text": "Makanya, datang dan tonton aja besok. ――Kalau gitu, permisi dulu ya.",
             "choice_data_list": [
-                "Ah……"
+                "Ah..."
             ]
         },
         {
-            "text": "『Puncak』――Kini aku tahu bahwa itulah aspirasinya. Semua usahanya setiap hari adalah demi itu. Dan kemudian, keesokan harinya――"
+            "text": "『Puncak』――Sekarang aku paham tujuannya. Semua kerja kerasnya tiap hari itu demi hal itu. Terus, besoknya――"
         },
         {
             "name": "Komentator",
@@ -197,24 +197,24 @@
         },
         {
             "name": "Komentator",
-            "text": "Dengan keunggulan lebih dari 1 jarak dari Umamusume di belakangnya, Verxina meraih kemenangan di perlombaan simulasi ini!!"
+            "text": "Beda lebih dari 1 jarak dari yang di belakangnya, Verxina menang telak di balapan simulasi ini!!"
         },
         {
-            "text": "Seperti yang ia katakan, ia memenangkan perlombaan itu. Dan\nkemudian ia dikelilingi oleh orang-orang yang mencoba merekrutnya."
+            "text": "Sesuai omongannya, dia beneran menang. Terus langsung dikerumunin pelatih yang mau nge-scout dia."
         },
         {
             "name": "Para Trainer",
-            "text": "『Verxina-san! Apa Anda sudah mempertimbangkan tawaran\nperekrutan saya?』 『Saya sudah membuat rencana latihan yang\ndipersonalisasi untuk Anda, mau lihat?』"
+            "text": "『Verxina-san! Udah dipikirin soal tawaran scout-ku?』 『Aku udah buatin menu latihan khusus buatmu, mau lihat nggak?』"
         },
         {
-            "text": "Kali ini, aku tidak boleh ketinggalan. Aku juga hendak berbicara――\ntapi kemudian――"
+            "text": "Kali ini aku nggak boleh ketinggalan. Aku juga baru mau ngomong――tapi tiba-tiba――"
         },
         {
             "name": "Trainer Veteran A",
-            "text": "B-berita besar! \nSepertinya gadis itu juga menargetkan Debutnya!"
+            "text": "G-gawat! Kayaknya anak itu juga ngincar Debut!"
         },
         {
-            "text": "Dengan pengumuman itu, terjadi kekacauan sesaat di antara \norang-orang yang berkumpul....."
+            "text": "Gara-gara pengumuman itu, orang-orang di sana langsung heboh sesaat....."
         }
     ]
 }
