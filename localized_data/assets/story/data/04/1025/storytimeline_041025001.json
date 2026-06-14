@@ -79,7 +79,7 @@
         },
         {
             "name": "Umamusume Rekrutan",
-            "text": "Serius?! Terima kasih banyak……！ Ini impianku memenangkan GI!"
+            "text": "Serius?! Terima kasih banyak……！ Ini impianku memenangkan G1!"
         },
         {
             "name": "Trainer Senior A",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Rekan Trainer A",
-            "text": "Hah~…… Percuma saja. Kayaknya dia nggak ada niat buat direkrut, \ndiajak ngomong baik-baik saja nggak mau.",
+            "text": "Hah～…… Percuma saja. Kayaknya dia nggak ada niat buat direkrut, \ndiajak ngomong baik-baik saja nggak mau.",
             "choice_data_list": [
                 "Gimana maksudnya?"
             ]

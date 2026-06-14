@@ -21,14 +21,19 @@
             "6": {
                 "text_param_list": {
                     "0": {
-                        "text": "left"
+                        "text": "kali\nlagi",
+                        "position_offset": {
+                            "x": 0,
+                            "y": 40,
+                            "z": 0
+                        }
                     }
                 }
             },
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "Turns"
+                        "text": "Putaran"
                     }
                 }
             },

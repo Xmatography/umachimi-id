@@ -1,330 +1,317 @@
 {
-  "title": "Kamu Adalah Komet",
-  "text_block_list": [
-    {
-      "text": "Pada akhirnya aku tidak bisa berbicara dengan Admire Vega setelah balapan.",
-      "name": "",
+    "title": "Kamu Adalah Komet",
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Pada akhirnya aku tidak bisa berbicara dengan Admire Vega setelah balapan.",
             "choice_data_list": [
                 "(Aku tak bisa meninggalkannya!)"
             ]
-    
-    },
-    {
-      "text": "Aku tidak tahu apa yang mendorongnya untuk balapan, atau apa yang membuatnya begitu khawatir, atau beban apa yang dia miliki. Tapi…",
-      "name": "",
-      "choice_data_list": [
-       "<size=35>Kalau aku tidak mencari tahu, semuanya sirna.</size>"
-        
-      ]
-    },
-    {
-      "text": "Tapi pertama-tama aku harus menemukannya, jadi aku mulai berjalan di sekitar akademi mencarinya. Saat itulah aku melihat gadis yang balapan bersamanya tempo hari, Meisho Doto.",
-      "name": ""
-    },
-    {
-      "text": "Ah, apa Anda bertanya padaku apakah aku melihat Ayabe-san…? Umm, e-eh…! Kalau aku harus bilang apakah aku melihatnya atau tidak, a-aku harus bilang iya, tapi…",
-      "name": "Meisho Doto"
-    },
-    {
-      "text": "Hah Hah Hah Hah! Jika kita bagaikan bintang fana, mungkin kita bisa meraih puncak jauh itu! Namun untuk mencapainya, harus mengorbankan raga!",
-      "name": "TM Opera O",
+        },
+        {
+            "name": "",
+            "text": "Aku tidak tahu apa yang mendorongnya untuk balapan, atau apa yang membuatnya begitu khawatir, atau beban apa yang dia miliki. Tapi…",
+            "choice_data_list": [
+                "<size=35>Kalau aku tidak mencari tahu, semuanya sirna.</size>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Tapi pertama-tama aku harus menemukannya, jadi aku mulai berjalan di sekitar akademi mencarinya. Saat itulah aku melihat gadis yang balapan bersamanya tempo hari, Meisho Doto."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, apa Anda bertanya padaku apakah aku melihat Ayabe-san…? \nUmm, e-eh…! Kalau aku harus bilang apakah aku melihatnya atau tidak, a-aku harus bilang iya, tapi…"
+        },
+        {
+            "name": "TM Opera O",
+            "text": "Hah Hah Hah Hah! Jika kita bagaikan bintang fana, mungkin kita bisa meraih puncak jauh itu! Namun untuk mencapainya, harus mengorbankan raga!",
             "choice_data_list": [
                 "Maksudmu dia di gunung?"
             ]
-    },
-    {
-      "text": "Kalau diucapkan secara terus terang, itu benar! Dan untuk menjelaskannya lebih terus terang lagi, \"dia pergi ke sana untuk lari lintas alam!\"",
-      "name": "TM Opera O"
-    },
-    {
-      "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan….    K-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?",
-      "name": "Meisho Doto"
-    },
-    {
-      "text": "A-Ayabe-san sangat teguh dan berlatih di level yang sangat tinggi… Dan aku tahu kali ini tidak berbeda, tapi…",
-      "name": "Meisho Doto"
-    },
-    {
-      "text": "Itu sangat b-berbahaya…! Aku rasa jalannya mungkin terlalu sulit untuk manusia…!",
-      "name": "Meisho Doto",
-      "choice_data_list": [
-        "<size=35>Terima kasih sudah khawatir, tapi ini kemauanku.</size>"
-      ]
-    },
-    {
-      "text": "Jangan khawatir, Doto. Lonceng takdir sudah berdering di otaknya. Mencoba menghentikannya akan sia-sia.",
-      "name": "TM Opera O"
-    },
-    {
-      "text": "Jangan khawatir, Doto. Lonceng takdir sudah berdering di otaknya. Mencoba menghentikannya akan sia-sia.",
-      "name": "TM Opera O"
-    },
-    {
-      "text": "Sambil tertawa keras, dia memberitahuku lebih banyak tentang ke mana Admire Vega pergi.",
-      "name": "",
-      "choice_data_list": [
-         "Kamu penyelamatku! Sampai jumpa lagi!"
-      ]
-    },
-    {
-      "text": "Awa… D-dia sudah pergi…",
-      "name": "Meisho Doto"
-    },
-    {
-      "text": "Setelah Balapan Seleksi, Ayabe-san bilang dia ingin \"sendirian\" sebentar… Apa benar tidak apa-apa trainer itu pergi…?",
-      "name": "Meisho Doto"
-    },
-    {
-      "text": "Beberapa bersandar di pintu. Beberapa mengetuk pintu. Dan beberapa hanya mendobrak pintu… jadi ini akan baik-baik saja!",
-      "name": "TM Opera O"
-    },
-    {
-      "text": "Kamu datang untuk berbicara denganku…?",
-      "name": "Admire Vega",
+        },
+        {
+            "name": "TM Opera O",
+            "text": "Kalau diucapkan secara terus terang, itu benar! Dan untuk menjelaskannya lebih terus terang lagi, \"dia pergi ke sana untuk lari lintas alam!\""
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "U, uhh…! M-Maaf, tapi ada sesuatu yang ingin k-kukatakan…. \nK-Kalau Anda tahu dia di mana, Anda pasti sudah pergi ke sana, kan…?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A-Ayabe-san sangat teguh dan berlatih di level yang sangat tinggi… \nDan aku tahu kali ini tidak berbeda, tapi…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Itu sangat b-berbahaya…! Aku rasa jalannya mungkin terlalu sulit untuk manusia…!",
+            "choice_data_list": [
+                "<size=35>Terima kasih sudah khawatir, tapi ini kemauanku.</size>"
+            ]
+        },
+        {
+            "name": "TM Opera O",
+            "text": "Jangan khawatir, Doto. Lonceng takdir sudah berdering di otaknya. Mencoba menghentikannya akan sia-sia."
+        },
+        {
+            "name": "TM Opera O",
+            "text": "Jangan khawatir, Doto. Lonceng takdir sudah berdering di otaknya. Mencoba menghentikannya akan sia-sia."
+        },
+        {
+            "name": "",
+            "text": "Sambil tertawa keras, dia memberitahuku lebih banyak tentang ke mana Admire Vega pergi.",
+            "choice_data_list": [
+                "Kamu penyelamatku! Sampai jumpa lagi!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Awa… D-dia sudah pergi…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Setelah Balapan Seleksi, Ayabe-san bilang dia ingin \"sendirian\" sebentar… Apa benar tidak apa-apa trainer itu pergi…?"
+        },
+        {
+            "name": "TM Opera O",
+            "text": "Beberapa bersandar di pintu. Beberapa mengetuk pintu. Dan beberapa hanya mendobrak pintu… jadi ini akan baik-baik saja!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Kamu datang untuk berbicara denganku…?",
             "choice_data_list": [
                 "Ya!",
                 "Ya!"
             ]
-      
-    },
-    {
-      "text": "Yah, aku tidak ada yang perlu kukatakan padamu. Aku juga tidak berencana untuk direkrut olehmu. Sampai jumpa.",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Dia dengan cepat meninggalkanku di belakang, tapi… Aku datang ke sini dengan penuh tekad. Aku tidak bisa begitu saja kembali sekarang!",
-      "name": "",
-      "choice_data_list": [
-        "<i>Ayo pergi…!</i>",
-        "<i>Ayo pergi…!</i>"
-   
-      ]
-    },
-    {
-      "text": "Namun…",
-      "name": ""
-    },
-    {
-      "text": "Hah… haa… haa…",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<i>*Terengah…!*</i>"
-      ]
-    },
-    {
-      "text": "Hah… haa… haa…",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<i>*Terengah…!*</i>"
-       
-      ]
-    },
-    {
-      "text": "Seperti yang Meisho Doto peringatkan, jalannya sangat curam dan jarak antara Admire Vega dan aku semakin melebar…!",
-      "name": ""
-    },
-    {
-      "text": "Terlebih lagi…",
-      "name": ""
-    },
-    {
-      "text": "Aku mulai kehilangan pandangannya saat matahari terbenam, aku terus berlari mati-matian di sepanjang jalan yang curam itu.",
-      "name": "",
-      "choice_data_list": [
-       "<size=35>Aku bahkan tidak bisa melihat kakiku- Uwaah!</size>"
-      ]
-    },
-    {
-      "text": "(*gemerisik* *gemerisik*)",
-      "name": ""
-    },
-    {
-      "text": "――――――――",
-      "name": ""
-    },
-    {
-      "text": "Kesadaranku mulai kembali, sedikit demi sedikit. Saat aku perlahan membuka mata, aku melihat langit berbintang di atasku.",
-      "name": ""
-    },
-    {
-      "text": "Sebuah lautan bintang yang begitu luas hingga aku hampir bisa menyelam ke dalamnya…",
-      "name": ""
-    },
-    {
-      "text": "Apa ada yang sakit…?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-       "Huh… Admire Vega!?"
-        
-      ]
-    },
-    {
-      "text": "Aku yang bertanya di sini. Apa kamu terluka?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>",
-        "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>"
-      
-      ]
-    },
-    {
-      "text": "Aku tidak bisa begitu saja meninggalkanmu…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. Dia kemudian mengajukan pertanyaan kepadaku.",
-      "name": ""
-    },
-    {
-      "text": "Kenapa kamu begitu terobsesi denganku?",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Aku menunjukkan performa yang buruk di Balapan Seleksi. Aku tidak tahu apa-apa tentangmu, dan selain balapan itu, kamu tidak tahu apa-apa tentangku.",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Jadi kenapa?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-         "Aku tidak yakin. Tapi…"
-      ]
-    },
-    {
-      "text": "Tapi…?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>",
-        "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>"
-        
-      ]
-    },
-    {
-      "text": "……………",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Aku… baik-baik saja sendirian. Aku… lebih suka sendirian.",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Balapan dan menang adalah bebanku, bukan orang lain. Lagi pula, dia… adik perempuanku…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Meninggal di tempatku.",
-      "name": "Admire Vega",
-      "choice_data_list": [
-         "!!!!!"
-        
-      ]
-    },
-    {
-      "text": "Aku sudah terlalu banyak bicara… Lupakan semuanya.",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Sedikit demi sedikit, dia menceritakan kepadaku beberapa beban yang dia pikul. \"Aku akan menanggung semua beban ini sendirian.\" Aku yakin itulah yang dia pikirkan.",
-      "name": ""
-    },
-    {
-      "text": "Meskipun begitu…",
-      "name": "",
-      "choice_data_list": [
-            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>",
-            "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>"
-      ]
-    },
-    {
-      "text": "Kakiku sangat berat dan staminaku sudah mencapai batas. Meskipun begitu, karena aku masih bisa melihatnya…",
-      "name": "",
-      "choice_data_list": [
-          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>",
-          "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>"
-        
-      ]
-    },
-    {
-      "text": "Kamu mengejarku lagi dan tiba-tiba mengatakan itu…?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>",
-       "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>"
-        
-      ]
-    },
-    {
-      "text": "Eh?",
-      "name": "Admire Vega",
-      "choice_data_list": [
-        "<size=35>Walau terkesan egois, aku akan tetap mengikutimu!</size>"
-        
-      ]
-    },
-    {
-      "text": "Ada apa… denganmu…?",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Sudah hampir jam malam jadi aku pergi.",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Ah, Ayabe-san! Selamat datang kembali♪ Hei, lihat ini lucu, berbulu―",
-      "name": "Curren Chan"
-    },
-    {
-      "text": "Maaf, tapi bisakah kamu membiarkanku tidur saja? Aku… sangat lelah…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Eh? Ah, oke…?",
-      "name": "Curren Chan"
-    },
-    {
-      "text": "<i>Zzz…</i>",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Walah... Dia bikin wajah lucu dalam tidurnya. Ini. Berarti… lagi ada sesuatu yang baik terjadi nih.",
-      "name": "Curren Chan"
-    },
-    {
-      "text": "Aku bermimpi. Untuk pertama kalinya setelah sekian lama, mimpi yang tidak membuatku sesak",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Sebuah mimpi ceroboh di mana seorang gadis lucu yang tidak ku ketahui wajahnya dan aku… berlari bersama melalui lautan bintang…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Keesokan harinya ada ketukan ragu-ragu di pintu kantorku. Saat aku membuka pintu, masuklah… Admire Vega!",
-      "name": "",
-      "choice_data_list": [
-          "<size=42>Apa ini soal rekrutan?</size>",
-          "<size=42>Apa ini soal rekrutan?</size>"
-      ]
-    },
-    {
-      "text": "Jika aku tidak punya trainer, aku tidak akan bisa masuk ke Twinkle Series. Jadi bagaimana pun juga, aku akan membutuhkannya suatu saat…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Dan jika aku harus memilih…",
-      "name": "Admire Vega"
-    },
-    {
-      "text": "Aku akan memilihmu.",
-      "name": "Admire Vega",
-      "choice_data_list": [
-       "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>",
-       "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>"
-        
-      ]
-    },
-    {
-      "text": "Maka, hari-hariku dengan Admire Vega akhirnya dimulai.",
-      "name": ""
-    }
-  ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yah, aku tidak ada yang perlu kukatakan padamu. Aku juga tidak berencana untuk direkrut olehmu. Sampai jumpa."
+        },
+        {
+            "name": "",
+            "text": "Dia dengan cepat meninggalkanku di belakang, tapi… Aku datang ke sini dengan penuh tekad. Aku tidak bisa begitu saja kembali sekarang!",
+            "choice_data_list": [
+                "<i>Ayo pergi…!</i>",
+                "<i>Ayo pergi…!</i>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Namun…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hah… haa… haa…",
+            "choice_data_list": [
+                "<i>*Terengah…!*</i>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hah… haa… haa…",
+            "choice_data_list": [
+                "<i>*Terengah…!*</i>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Seperti yang Meisho Doto peringatkan, jalannya sangat curam dan jarak antara Admire Vega dan aku semakin melebar…!"
+        },
+        {
+            "name": "",
+            "text": "Terlebih lagi…"
+        },
+        {
+            "name": "",
+            "text": "Aku mulai kehilangan pandangannya saat matahari terbenam, aku terus berlari mati-matian di sepanjang jalan yang curam itu.",
+            "choice_data_list": [
+                "<size=35>Aku bahkan tidak bisa melihat kakiku- Uwaah!</size>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "(*gemerisik* *gemerisik*)"
+        },
+        {
+            "name": "",
+            "text": "――――――――"
+        },
+        {
+            "name": "",
+            "text": "Kesadaranku mulai kembali, sedikit demi sedikit. Saat aku perlahan membuka mata, aku melihat langit berbintang di atasku."
+        },
+        {
+            "name": "",
+            "text": "Sebuah lautan bintang yang begitu luas hingga aku hampir bisa menyelam ke dalamnya…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Apa ada yang sakit…?",
+            "choice_data_list": [
+                "Huh… Admire Vega!?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku yang bertanya di sini. Apa kamu terluka?",
+            "choice_data_list": [
+                "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>",
+                "<size=35>Aku baik-baik saja. Apa kamu menyelamatkanku?</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku tidak bisa begitu saja meninggalkanmu…"
+        },
+        {
+            "name": "",
+            "text": "Admire Vega mengerutkan kening sambil menghela napas panjang. \nDia kemudian mengajukan pertanyaan kepadaku."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Kenapa kamu begitu terobsesi denganku?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku menunjukkan performa yang buruk di Balapan Seleksi. Aku tidak tahu apa-apa tentangmu, dan selain balapan itu, kamu tidak tahu apa-apa tentangku."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Jadi kenapa?",
+            "choice_data_list": [
+                "Aku tidak yakin. Tapi…"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tapi…?",
+            "choice_data_list": [
+                "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>",
+                "<size=32>Aku tidak mau meninggalkanmu sendirian lebih lama lagi.</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……………"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku… baik-baik saja sendirian. Aku… lebih suka sendirian."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Balapan dan menang adalah bebanku, bukan orang lain. Lagi pula, \ndia… adik perempuanku…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Meninggal di tempatku.",
+            "choice_data_list": [
+                "!!!!!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku sudah terlalu banyak bicara… Lupakan semuanya."
+        },
+        {
+            "name": "",
+            "text": "Sedikit demi sedikit, dia menceritakan kepadaku beberapa beban yang dia pikul. \"Aku akan menanggung semua beban ini sendirian.\" Aku yakin itulah yang dia pikirkan."
+        },
+        {
+            "name": "",
+            "text": "Meskipun begitu…",
+            "choice_data_list": [
+                "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>",
+                "<size=36>Takkan kubiarkan kamu lakukan sendirian!</size>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Kakiku sangat berat dan staminaku sudah mencapai batas. Meskipun begitu, karena aku masih bisa melihatnya…",
+            "choice_data_list": [
+                "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>",
+                "<size=36>Hei, maukah kamu menjadikan aku Trainermu?</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Kamu mengejarku lagi dan tiba-tiba mengatakan itu…?",
+            "choice_data_list": [
+                "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>",
+                "<size=38>Jika kamu ingin maju sendirian, tidak masalah.</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eh?",
+            "choice_data_list": [
+                "<size=35>Walau terkesan egois, aku akan tetap mengikutimu!</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ada apa… denganmu…?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sudah hampir jam malam jadi aku pergi."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ah, Ayabe-san! Selamat datang kembali♪ Hei, lihat ini lucu, berbulu―"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Maaf, tapi bisakah kamu membiarkanku tidur saja? Aku… sangat lelah…"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Eh? Ah, oke…?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Zzz…</i>"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Walah... Dia bikin wajah lucu dalam tidurnya. Ini. Ber-ar-ti～…\nLagi ada sesuatu yang baik terjadi nih?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku bermimpi. Untuk pertama kalinya setelah sekian lama, mimpi yang tidak membuatku sesak"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sebuah mimpi ceroboh di mana seorang gadis lucu yang tidak ku ketahui wajahnya dan aku… berlari bersama melalui lautan bintang…"
+        },
+        {
+            "name": "",
+            "text": "Keesokan harinya ada ketukan ragu-ragu di pintu kantorku. Saat aku membuka pintu, masuklah… Admire Vega!",
+            "choice_data_list": [
+                "<size=42>Apa ini soal rekrutan?</size>",
+                "<size=42>Apa ini soal rekrutan?</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Jika aku tidak punya trainer, aku tidak akan bisa masuk ke Twinkle Series. Jadi bagaimana pun juga, aku akan membutuhkannya suatu saat…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Dan jika aku harus memilih…"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aku akan memilihmu.",
+            "choice_data_list": [
+                "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>",
+                "<size=35>Terima kasih. Aku menantikan kerja sama denganmu.</size>"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Maka, hari-hariku dengan Admire Vega akhirnya dimulai."
+        }
+    ]
 }

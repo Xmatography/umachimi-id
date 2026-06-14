@@ -1,0 +1,14 @@
+{
+  "name": "Bahasa Indonesia",
+  "description": "Translasi oleh Umachimi-ID. Lihat selengkapnya di (umachimi.carrd.co).\nDukung kami dengan ikut berkontribusi atau berdonasi via QRIS. Gabung server discord untuk info update, kritik/saran, dan info lainnya.", 
+  "changelog_url": "https://raw.githubusercontent.com/Xmatography/umachimi-id/main/CHANGELOG.md",
+  "homepage": "https://github.com/Xmatography/umachimi-id",
+  "links": [
+    ["Donasi", "https://umachimi.carrd.co/"],
+    ["Discord", "https://discord.gg/4zvW4VhrYV"],
+    ["Status Translasi", "https://github.com/Xmatography/umachimi-id/wiki/Status-Translasi"]
+  ],
+  "maintainer": "Xmatography",
+  "contributors": ["Xmatography", "MisuMatsu", "gagakitem", "Ikazuu", "FreyDerika", "Tatara_Hisoka", "Nerjin"],
+  "language": "id"
+}
