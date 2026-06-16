@@ -1,0 +1,40 @@
+{
+    "text_block_list": [
+        {
+            "text": "Silence Suzuka berdiri sendiri di lintasan latihan."
+        },
+        {
+            "text": "Kenapa ya......Kakiku, tidak mau melangkah ke depan......",
+            "choice_data_list": [
+                "Kamu tidak enak badan?"
+            ]
+        },
+        {
+            "text": "A, bukan......Bukan begitu......"
+        },
+        {
+            "text": "Maaf, di tengah latihan aku malah melamun......"
+        },
+        {
+            "text": "…………。",
+            "choice_data_list": [
+                "Ada apa?"
+            ]
+        },
+        {
+            "text": "Emmm, itu......Aku tidak bisa mengungkapkannya dengan kata-kata......"
+        },
+        {
+            "text": "Waktu berlari, aku tidak bisa merasakannya dengan nyaman. Kakiku juga terasa sedikit berat......"
+        },
+        {
+            "text": "Padahal kondisiku tidak sedang buruk, kenapa ya......"
+        },
+        {
+            "text": "Bahkan setelah menghela napas, Silence Suzuka tetap menatap ujung lintasan dengan lemah dan kosong."
+        },
+        {
+            "text": "Sepertinya aku telah memaksanya dengan balapan yang terus-menerus. Mungkin aku harus meninjau ulang jadwalnya agar dia bisa berlari dengan nyaman lagi......"
+        }
+    ]
+}
