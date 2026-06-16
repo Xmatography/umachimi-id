@@ -1,266 +1,272 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Nnya～……huh? Fuwaaa～ah……\nAh～ nggak enak……aku ketiduran～……",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Duh, akhirnya bangun juga. …Ini, aku bikinin cokelat panas.\nMinum pelan-pelan ya? Sekarang udah dingin banget kan?",
-            "name": "Cesario"
-        },
-        {
-            "text": "Waa-! Ehehe, emang deh Cesario……\nMakasih, aku minum ya.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Haa, ini bener-bener bikin hangat～……",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Senang dengernya. ……Terus, kamu udah sempet nikmatin\nmatahari pertama tahun ini nggak?",
-            "name": "Cesario"
-        },
-        {
-            "text": "Iya, seru banget♪ Kemewahan setahun sekali, bisa\nberjemur, tidur siang pas matahari pertama……\nplus cokelat Cesario!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Bagian dari paket itu ya? Tapi aku seneng deh……\nFufufuu. Kraft, kamu emang suka banget berjemur ya?",
-            "name": "Cesario"
-        },
-        {
-            "text": "Ah, tapi…kayaknya udah waktunya ganti baju dan siap-siap.\nKalau nggak, bisa telat buat ke kuil nih.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Wah, bener juga! Aku balik dulu ke kamar!\nCesario, tunggu aku di gerbang depan～!!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Tahun baru. Rhein Kraft dan Cesario sekarang udah di tahun\nClassic mereka, dan kita memutuskan buat pergi bareng\nke kuil pertama tahun ini, tapi――",
-            "choice_data_list": [
-                "(Ramainya seperti biasa……!)"
-            ],
-            "name": ""
-        },
-        {
-            "text": "Ah, duh, semua, kalian nyusul nggak!? \nJawab kalau bisa denger aku-!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Hii, hii……Untuk sekarang, aku nyusul～.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Gila, ramainya～……kita sampe sesak banget, aku\n pikir semua osechi yang aku makan tadi bakal keluar～……",
-            "name": "Umamusume A"
-        },
-        {
-            "text": "Aku punya saran. Di pengamatanku, kepadatan mereda di sisi kanan.\nAntrian belum kebentuk, jadi sebaiknya kita pindah sekarang.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Oh ya, mari tentuin tempat ketemuan abis dari kuil.\nMungkin paling gampang ketemu di pohon suci.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Bener juga…! Duh～, kalau Cesario lagi serius, dia beneran andal",
-            "name": "Umamusume Ponytail"
-        },
-        {
-            "text": "Dan akhirnya, walaupun rame banget, kita berhasil\nselesaiin kunjungan ke kuil dengan aman.",
-            "name": ""
-        },
-        {
-            "text": "(……tahun ini, aku bakal berusaha dukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka dapet hasil yang diinginkan――)",
-            "name": "<username>"
-        },
-        {
-            "text": "Hei, kamu kelamaan. Antrian numpuk di belakang.\nDuh……ayo, kita pergi.",
-            "name": "King Halo"
-        },
-        {
-            "text": "(Sekarang kunjungan ke kuil udah selesai, dan karena ini tahun baru,\nak rasa kita harus santai dulu, tapi――)",
-            "name": "<username>"
-        },
-        {
-            "text": "Ehehe……makasih udah ikut latihan mandiri kami! \nKalau aku mikir ini awal tahun Classic-ku, rasanya nggak sabar deh.",
             "name": "Rhein Kraft",
-            "choice_data_list": [
-                "Seneng deh kalian berdua semangat banget",
-                "Seneng deh kalian berdua semangat banget"
-            ]
+            "text": "Nnya～…… eh? Fuwaaa～ah……\nAh～ gawat…… aku ketiduran～……"
         },
         {
-            "text": "Aku juga berterima kasih sama senpai kita. Tahun ini,\n aku harap terus dibimbing dan didukung.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Ah, nggak masalah……atau malah, denger kouhai \nbilang mau lari, susah deh bilang \"Kita pulang～\"……",
-            "name": "Umamusume A"
-        },
-        {
-            "text": "Kamu bodoh! Sebaiknya bilang aja itu memotivasi \nkamu, walaupun bohong! ……Ah, tapi, itu bukan bohong juga!!",
-            "name": "Umamusume B"
-        },
-        {
-            "text": "Pokoknya, aku rasa ini ide bagus.\nBanyak balapan sekali seumur hidup……\nbuat tahun Classic jadi istimewa.",
-            "name": "King Halo"
-        },
-        {
-            "text": "……Ngomong-ngomong, kalian udah mikir balapan mana yang mau dituju?",
-            "name": "King Halo"
-        },
-        {
-            "text": "『Oka Sho』.",
-            "name": "Kraft & Cesario"
-        },
-        {
-            "text": "……bener. Cesario dan aku…… udah mutusin jalur Triple Tiara.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Iya. Dari awal udah diputusin. 『Oka Sho』 \n『Oaks』 『Shuuka Sho』, itu jalur yang aku pilih.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Umamusume yang ambil jalur Triple Tiara nggak cuma kuat――\nmereka bikin dunia balap penuh anggun dan cantik.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Sampai sekarang, banyak penonton dan Umamusume terpesona sama \nusaha mereka. Banyak yang sekarang berlari, mimpi pakai tiara itu.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Aku juga――aku mau jadi Umamusume yang terus jadi bagian sejarah itu.",
-            "name": "Cesario"
-        },
-        {
-            "text": "……Selain itu, banyak Umamusume yang sukses di Triple Tiara jadi Trainer \ngenerasi berikut, nyambungin semuanya ke masa depan.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Masih jauh mimpi itu……tapi nanti, aku juga pengen jadi bagian dari itu.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Buat aku, dapetin hasil di Triple Tiara udah jadi mimpi sejak awal.",
             "name": "Cesario",
+            "text": "Fufu, akhirnya bangun juga. ……Ini, aku buatkan cokelat panas.\nMinum pelan-pelan, ya? Udaranya pasti sangat dingin, kan?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Waa-! Ehehe, Cesario memang yang terbaik……\nTerima kasih, aku minum, ya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Haa, ini benar-benar menghangatkan tubuhku～……"
+        },
+        {
+            "name": "Cesario",
+            "text": "Syukurlah kalau begitu. ……Lalu, apa kamu sudah puas\nmenikmati sinar matahari pertama di tahun ini?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Iya, puas banget♪ Kemewahan setahun sekali,\nbisa tidur siang sambil berjemur matahari pertama……\nditambah lagi cokelat buatan Cesario!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Ternyata itu sudah satu paket, ya? Tapi aku senang mendengarnya……\nFufufu. Kraft, kamu memang sangat suka berjemur, ya?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Ah, tapi… sepertinya sudah waktunya ganti baju dan bersiap.\nKalau tidak, kita bisa terlambat ke kuil nanti."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Wah, benar juga! Aku kembali ke kamar dulu!\nCesario, tunggu aku di gerbang depan, ya～!!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Tahun baru. Rhein Kraft dan Cesario kini memasuki tahun\nClassic mereka, dan kami memutuskan untuk pergi\nke kuil bersama untuk kunjungan pertama, tapi――",
             "choice_data_list": [
-                "Aku ngerti……",
-                "Aku ngerti……"
+                "（Ramainya minta ampun……!）"
             ]
         },
         {
-            "text": "(Apa yang dibicarain Cesario bagian dari sejarah, tradisi, dan daya tarik jalur Triple Tiara)",
-            "name": "<username>"
+            "name": "King Halo",
+            "text": "Ah, sungguh, apa kalian semua mengikuti dengan benar!?\nJawab kalau kalian mendengarku-!"
         },
         {
-            "text": "(Gak ada yang salah sih――tapi ada satu hal yang harus diingetin……)",
+            "name": "Rhein Kraft",
+            "text": "Hii, hii…… Untuk saat ini, aku masih mengikuti～."
+        },
+        {
+            "name": "Umamusume Ahoge",
+            "text": "Gila, ramainya～…… kita sampai berdesak-desakan, rasanya\nsemua osechi yang kumakan tadi mau keluar lagi～…"
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku punya saran. Dari pengamatanku, kepadatan di \nsisi kanan sudah mereda. Antrean di sana belum \nterbentuk, jadi sebaiknya kita pindah sekarang."
+        },
+        {
+            "name": "Cesario",
+            "text": "Oh ya, mari tentukan tempat berkumpul setelah dari kuil.\nMungkin akan lebih mudah jika kita bertemu di pohon suci."
+        },
+        {
+            "name": "Umamusume Ponytail",
+            "text": "Benar juga…! Duh～, kalau Cesario sudah serius,\ndia benar-benar bisa diandalkan."
+        },
+        {
+            "name": "Monolog",
+            "text": "Pada akhirnya, meskipun sangat ramai, kami berhasil\nmenyelesaikan kunjungan ke kuil dengan aman."
+        },
+        {
             "name": "<username>",
+            "text": "（……Tahun ini pun, aku akan berusaha mendukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka mendapat hasil yang diinginkan――）"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hei, kau lama sekali. Antreannya menumpuk di belakangmu.\nDuh…… ayo, kita pergi."
+        },
+        {
+            "name": "<username>",
+            "text": "（Kunjungan ke kuil sudah selesai, dan mumpung ini tahun baru,\naku pikir kami bisa bersantai sejenak, tapi――）"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ehehe…… terima kasih sudah menemani latihan mandiri kami!\nSaat sadar ini adalah awal tahun Classic-ku, aku jadi tak sabar.",
+            "choice_data_list": [
+                "Syukurlah kalau kalian berdua sangat bersemangat",
+                "Syukurlah kalau kalian berdua sangat bersemangat"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku juga berterima kasih pada para senpai. Tahun ini,\naku harap kalian terus membimbing dan mendukung kami."
+        },
+        {
+            "name": "Umamusume Ahoge",
+            "text": "Ah, tidak masalah…… lagipula, mendengar kouhai bilang ingin lari,\nsusah rasanya untuk bilang 'Kami pulang duluan～'……"
+        },
+        {
+            "name": "Umamusume Ponytail",
+            "text": "Dasar bodoh, bodoh! Harusnya kau bilang kalau kau\njadi bersemangat walau cuma bohong, tahu!\n……Ah, yah, walau sebenarnya bukan bohong juga, sih!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Intinya, aku rasa ini adalah ide yang bagus.\nAda banyak balapan sekali seumur hidup……\nyang membuat tahun Classic ini terasa sangat istimewa."
+        },
+        {
+            "name": "King Halo",
+            "text": "……Ngomong-ngomong, kalian sudah memikirkan\nrute balapan mana yang dituju?"
+        },
+        {
+            "name": "Kraft & Cesario",
+            "text": "『Oka Sho』."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Benar. Aku dan Cesario……\nsudah memutuskan untuk mengambil rute Triple Tiara."
+        },
+        {
+            "name": "Cesario",
+            "text": "Iya. Aku sudah memutuskannya sejak awal. 『Oka Sho』,\n『Oaks』, 『Shuka Sho』, itulah rute yang aku pilih."
+        },
+        {
+            "name": "Cesario",
+            "text": "Uma Musume yang mengambil rute Triple Tiara tidak hanya kuat――\nmereka membuat dunia balap dipenuhi dengan keanggunan dan kecantikan."
+        },
+        {
+            "name": "Cesario",
+            "text": "Hingga saat ini, banyak penonton dan Uma\nMusume yang terpesona oleh perjuangan mereka.\nKini, banyak yang berlari demi memimpikan tiara itu."
+        },
+        {
+            "name": "Cesario",
+            "text": "Aku juga――aku ingin menjadi Uma Musume\nyang mengukir sejarah itu."
+        },
+        {
+            "name": "Cesario",
+            "text": "……Selain itu, banyak Uma Musume sukses di Triple Tiara yang kini menjadi Trainer untuk generasi berikutnya, menghubungkan semuanya menuju masa depan."
+        },
+        {
+            "name": "Cesario",
+            "text": "Mimpi itu memang masih jauh…… tapi suatu saat nanti,\naku juga ingin menjadi bagian dari hal tersebut."
+        },
+        {
+            "name": "Cesario",
+            "text": "Bagiku, meraih hasil terbaik di Triple Tiara\nsudah menjadi impianku sejak awal.",
+            "choice_data_list": [
+                "Begitu rupanya……",
+                "Begitu rupanya……"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "（Apa yang dibicarakan Cesario adalah bagian dari sejarah,\ntradisi, dan daya tarik dari rute Triple Tiara.）"
+        },
+        {
+            "name": "<username>",
+            "text": "（Itu sama sekali tidak salah――tapi ada satu hal yang harus kuingatkan……）",
             "choice_data_list": [
                 "Kraft, Cesario"
             ]
         },
         {
-            "text": "Biasanya, Classic Triple Crown, 『Satsuki Sho』 『Japan Derby』 dan 『Kikka Sho』――jujur, lebih banyak perhatian.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Biasanya, ajang Classic Triple Crown, yaitu 『Satsuki Sho』, 『Japan Derby』, dan 『Kikka Sho』――jujur saja, jauh lebih banyak menyita perhatian."
         },
         {
-            "text": "Kalau ngomongin Triple Crown vs Triple Tiara, yang dulu biasanya hasilnya lebih bagus.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Kalau membandingkan Triple Crown dengan Triple Tiara,\npara pelari Triple Crown biasanya mencatatkan hasil yang lebih baik."
         },
         {
-            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada \nTriple Tiara girls』……Itu pendapat umum.",
-            "name": "<username>"
-        },
-         {
-            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada \nTriple Tiara girls』……Itu pendapat umum.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Singkatnya, ada anggapan umum yang menyatakan bahwa\n『Gadis-gadis Triple Crown lebih kuat daripada Triple Tiara』……"
         },
         {
-            "text": "……Meski tau itu, kalian masih ngerasa sama nggak?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Singkatnya, ada anggapan umum yang menyatakan bahwa\n『Gadis-gadis Triple Crown lebih kuat daripada Triple Tiara』……"
         },
         {
-            "text": "Singkatnya, 『Triple Crown girls lebih kuat daripada Triple Tiara girls』……Itu pendapat umum.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "……Meskipun tahu kenyataan itu, apa\nperasaan kalian tetap tidak berubah?"
         },
         {
-            "text": "……Meski tau itu, kalian masih ngerasa sama nggak?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "……Meskipun tahu kenyataan itu, apa\nperasaan kalian tetap tidak berubah?"
         },
         {
-            "text": "……Meski tau itu, kalian masih ngerasa sama nggak?",
-            "name": "<username>"
+            "text": "......ah, anu!!"
         },
         {
-            "text": "……Um!!",
-            "name": "Rhein Kraft"
+            "name": "<username>",
+            "text": "Tapi itu kan baru kondisi 『sekarang』, kan?",
+            "choice_data_list": []
         },
         {
-            "text": "Tapi itu kan cuma keadaan 『sekarang』, kan?",
+            "text": "Pasti…… tidak, sebentar lagi hal itu akan berubah, aku yakin! Entah rute Triple Crown atau Tiara…… 『Uma Musume yang kuat ya tetap kuat』!"
+        },
+        {
             "name": "Rhein Kraft",
+            "text": "Aku tahu ada Uma Musume yang mengatakan hal itu. Aku juga memercayainya. Karena aku telah melihat Tiara itu, dan aku sudah memperhatikannya sejak awal――!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Antusiasme, keharuan, dan kekuatan para Uma Musume yang berlari di sana…… Aku tahu semua itu sama sekali tidak kalah saing!!",
             "choice_data_list": [
                 "!"
             ]
         },
         {
-            "text": "Suatu saat……nggak, sebentar lagi, aku rasa itu bakal berubah.\nTriple Crown atau Triple Tiara nggak masalah……『Umamusume kuat ya kuat』!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Aku tau ada Umamusume yang bilang gitu. Aku percaya juga.\nKarena aku ngeliat Tiara itu, dan aku udah ngeliatin dari awal――!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Aku tau tentang semangat, emosi, dan kekuatan Umamusume itu!\nAku tau mereka nggak kalah!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Makanya aku pilih jalur Triple Tiara.\nDan aku bakal jadi cukup kuat supaya nggak kalah sama Triple Crown!",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Yang bikin aku maju……yang ngasih inspirasi, itu senpai-senpai Triple Tiara.\nJadi aku pengen buktiin kemampuan dan kekuatan mereka!",
             "name": "Rhein Kraft",
+            "text": "Oleh karena itu, aku memilih rute Triple Tiara. \nAku akan jadi kuat agar tidak kalah dari para pelari Triple Crown!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Para senpai Tiara yang menuntunku dan memberiku banyak inspirasi. \\nSemua demi membuktikan nilai dan kekuatan mereka!",
             "choice_data_list": [
-                "……Aku ngerti. Oke, aku paham!",
-                "……Aku ngerti. Oke, aku paham!"
+                "……Begitu, ya, aku paham!",
+                "……Begitu, ya, aku paham!"
             ]
         },
         {
-            "text": "Maaf udah bilang sesuatu yang nggak sensitif.\nAku ngerti perasaan kalian. Tahun Classic kalian, tujuan pertama itu menang 『Oka Sho』!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Maaf sudah bicara yang tidak-tidak. Aku paham tekad kalian. \nTarget besar pertama kita di tahun Classic adalah 『Oka Sho』!"
         },
         {
-            "text": "Yes!!",
-            "name": "Kraft & Cesario"
+            "name": "Khaft dan Cesario",
+            "text": "Oke!!"
         },
         {
-            "text": "……Huuu. Dan jadi dua lagi――huh.\nDikira-dikira, ini masih misteri.",
-            "name": "Air Groove"
+            "text": "……Fuh. Jadi, kali ini dua orang lagi, ya―― \nKalau direnungkan kembali, rasanya sungguh aneh.",
+            "choice_data_list": [
+                "……Aku mengerti. Baiklah, aku paham!",
+                "……Aku mengerti. Baiklah, aku paham!"
+            ]
         },
         {
-            "text": "Lebih banyak perhatian ke Triple Crown.\nDan balapan yang disebut 『Greatest Dream』, 『Japan Derby』.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Perhatian dunia memang lebih tertuju pada ajang Triple \nCrown. Dan balapan yang disebut sebagai 『Impian Terbesar』 \ntetaplah 『Japan Derby』."
         },
         {
-            "text": "Meski begitu, tiap tahun, pasti ada aja gadis-gadis kayak itu.\nYang pengen Tiara lebih dari Triple Crown atau kemegahan Derby.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Meski demikian, tiap tahun selalu ada banyak gadis \nseperti mereka. Para gadis yang lebih memilih Tiara \ndaripada Triple Crown atau kejayaan Derby."
         },
         {
-            "text": "Tapi ada beberapa hal……yang cuma bisa didapetin, cuma bisa disatukan di tempat itu, di panggung itu. Tempat Tiara berada.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Namun, hanya di panggung itulah…… ada sesuatu yang bisa diukir\ndan diteruskan. Sebuah jalur yang hanya ada di Tiara."
         },
         {
-            "text": "Makanya, tahun ini, sekali lagi――tirai bakal dibuka di panggung Tiara yang cemerlang dan penuh semangat.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Maka dari itu, tahun ini sekali lagi―― panggung Tiara yang anggun sekaligus sengit akan membuka tirainya."
         },
         {
-            "text": "Oke deh……Rhein Kraft, dan Cesario.\nApa yang bakal kalian ukir di teater indah itu--?",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Sekarang…… Rhein Kraft, dan Cesario. \nApa yang akan kalian ukir di panggung indah itu――?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Namun, memang ada beberapa hal…… yang hanya bisa didapatkan, dan disatukan\ndi tempat itu, di panggung itu. Tempat di mana Tiara berada."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Karena itulah, tahun ini, sekali lagi――tirai akan kembali dibuka\ndi panggung Tiara yang begitu cemerlang dan penuh semangat."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Baiklah kalau begitu…… Rhein Kraft, dan Cesario.\nSejarah apa yang akan kalian ukir di teater yang indah itu――?"
         }
     ]
 }

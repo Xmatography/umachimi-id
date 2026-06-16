@@ -1,135 +1,135 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…"
         },
         {
-            "text": "Ah! McQueen-san, kamu balik!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Ah! McQueen-san sudah kembali tuh!"
         },
         {
-            "text": "McQueen-san! Kerja bagus!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "McQueen-san! Kerja bagus!"
         },
         {
-            "text": "Kalian semua datang sejauh ini hanya untuk menemuiku?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Kalian semua datang sejauh ini hanya untuk menemuiku?"
         },
         {
-            "text": "Hanya bisa dapat posisi kedua ya? Tapi tetap saja itu balapan yang hebat.",
             "name": "Gold Ship",
+            "text": "Posisi kedua, tipis banget ya. Tapi asli,\ntadi lu udah balapan dengan bagus banget kok.",
             "choice_data_list": [
-                "<size=33>Lawanmu hari ini benar-benar luar biasa, ya?</size>",
-                "<size=33>Lawanmu hari ini benar-benar luar biasa, ya?</size>"
+                "<size=38>Lawanmu hari ini benar-benar luar biasa, ya?</size>",
+                "<size=38>Lawanmu hari ini benar-benar luar biasa, ya?</size>"
             ]
         },
         {
-            "text": "Ya, itu memang benar. Aku bisa menjaga koordinasi\ndengan sempurna dan tetap fokus di saat yang paling penting.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ya, itu memang benar. Aku bisa menjaga koordinasi\ndengan sempurna dan tetap fokus di saat yang paling penting."
         },
         {
-            "text": "Hari ini, aku memang kalah kuat.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hari ini, aku memang kalah kuat."
         },
         {
-            "text": "Kamu kelihatan segar sekali, tahu?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Kamu kelihatan segar sekali, tahu?"
         },
         {
-            "text": "Itu karena balapan tadi mengajarkanku banyak hal. \nTentang apa yang masih kurang dariku, \ndan apa yang harus kukembangkan untuk ke depan.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Itu karena balapan tadi mengajarkanku banyak hal. \nTentang apa yang masih kurang dariku, \ndan apa yang harus kukembangkan untuk ke depan."
         },
         {
-            "text": "Aku belajar banyak hanya dari balapan ini saja. Selain itu…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku belajar banyak hanya dari balapan ini saja. Selain itu…"
         },
         {
-            "text": "Selain itu?",
-            "name": "Umamusume "
+            "name": "Umamusume Bob Hitam",
+            "text": "Selain itu?"
         },
         {
-            "text": "Tidak seperti Japan Cup, kali ini aku merasa puas dengan cara aku berlari.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Tidak seperti Japan Cup, kali ini aku\nmerasa puas dengan cara aku berlari."
         },
         {
-            "text": "Aku bisa mengubah semua harapan kalian menjadi kekuatanku sendiri, membuatku bisa berlari dengan segenap tenaga.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku bisa mengubah semua harapan kalian menjadi kekuatanku sendiri, membuatku bisa berlari dengan segenap tenaga."
         },
         {
-            "text": "McQueen-san, kamu pasti hebat di balapan berikutnya!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "McQueen-san, kamu pasti hebat di balapan berikutnya!"
         },
         {
-            "text": "Ya, tentu saja.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ya, tentu saja."
         },
         {
-            "text": "Aku percaya padamu, Ace!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume bermata sayu",
+            "text": "Aku percaya padamu, Ace!"
         },
         {
-            "text": "Kamu bakal nunjukin balapan yang luar biasa lagi kan, McQueen-chan!?",
-            "name": "Umamusume "
+            "name": "Umamusume Bob Hitam",
+            "text": "Kamu bakal nunjukin balapan yang\nluar biasa lagi kan, McQueen-chan!?"
         },
         {
-            "text": "Aku akan menunjukkan balapan yang pantas disebut sebagai “Ace.”",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku akan menunjukkan balapan yang\npantas disebut sebagai “Ace.”"
         },
         {
-            "text": "Oke deh! Karena balapannya sudah selesai, sekarang \nTrainer yang traktir kita makan malam!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Siiip! Berhubung balapannya udah kelar, saatnya\nkita dibayarin Trainer untuk makan-makan! Kuy berangkat!"
         },
         {
-            "text": "Iya! Aku sudah tarik tabungan khusus untuk momen ini!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Serahkan padaku! Aku sudah mengantisipasi hal ini dan \nsengaja mengambil uang tabunganku, lho!"
         },
         {
-            "text": "Iya! Aku sudah tarik tabungan khusus untuk momen ini!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Serahkan padaku! Aku sudah mengantisipasi hal ini dan \nsengaja mengambil uang tabunganku, lho!"
         },
         {
-            "text": "Sudah kukatakan sebelumnya, bukan…?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Sudah kukatakan sebelumnya, kan…?"
         },
         {
-            "text": "Aku sudah diet ketat untuk persiapan balapan hari ini, \njadi sekarang aku benar-benar lapar.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku sudah diet ketat untuk persiapan balapan hari ini, \njadi sekarang aku benar-benar lapar."
         },
         {
-            "text": "Kurasa kalian akan mengajarkan pelajaran pahit \ntentang betapa besarnya nafsu makan kami.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Kurasa kalian akan mengajarkan pelajaran pahit \ntentang betapa besarnya nafsu makan kami."
         },
         {
-            "text": "Eh…?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Eh…?"
         },
         {
-            "text": "Ah iya! Gimana kalau kita ajak Oguri sama Ryan juga!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Wih, ide bagus tuh! Kebetulan banget kan, sekalian\naja kita seret Oguri sama Ryan ke sini!"
         },
         {
-            "text": "Ta-tunggu dulu! Dompetku nggak bakal sanggup kalau begini!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Tu-tunggu dulu! Dompetku nggak bakal sanggup kalau begini!"
         },
         {
-            "text": "Ta-tunggu dulu! Dompetku nggak bakal sanggup kalau begini!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Tu-tunggu dulu! Dompetku nggak bakal sanggup kalau begini!"
         },
         {
-            "text": "Jangan pelit gitu dong! Ya udah, ayo berangkat!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Gak usah pelit gitu dong! Udah ayo buruan, capcusss~!"
         },
         {
-            "text": "Hehe, ayo kita berangkat, Trainer-san!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hehe, ayo kita berangkat, Trainer-san!"
         },
         {
             "text": "Tim yang lahir dari keajaiban Oguri Cap di Arima Kinen: Tim Sirius…"
         },
         {
-            "text": "Trainer barunya dan ace barunya dengan canggung \nmelewati banyak balapan dan akhirnya menjadi tim yang sebenarnya."
+            "text": "Trainer barunya dan Ace barunya dengan canggung \nmelewati banyak balapan dan akhirnya menjadi tim yang sebenarnya."
         },
         {
             "text": "Kami masih punya jalan panjang untuk bisa sehebat dulu, tapi…"
@@ -138,101 +138,101 @@
             "text": "Nilai dan semangat yang kami warisi dari anggota lama \ntim terus hidup di antara kami."
         },
         {
-            "text": "Baiklah semua, aku berangkat dulu.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Kamu pasti bisa, Ace!",
-            "name": "Umamusume dengan poni lurus"
-        },
-        {
-            "text": "Ingat ya, kalau kamu berhasil mempertahankan gelar, \nTrainer bakal traktir kamu permen sepuasnya!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Eh, beneran!?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Seharusnya kamu nggak bilang dulu! Dia bisa jadi hilang fokus gara-gara itu!",
-            "name": "Umamusume "
-        },
-        {
-            "text": "Kupikir itu bisa bikin dia makin semangat, tapi ternyata kebalikannya ya?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Ace, fokus… fokus!",
-            "name": "Umamusume bermata sayu"
-        },
-        {
-            "text": "B-Benar juga. Fokus… Fokus… Permen…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "McQueen, lawanmu hari ini adalah Tokai Teio yang belum terkalahkan.",
-            "name": "<username>"
-        },
-        {
-            "text": "McQueen, lawanmu hari ini adalah Tokai Teio yang belum terkalahkan.",
-            "name": "<username>"
-        },
-        {
-            "text": "Dilihat dari balapan sebelumnya, kekuatannya memang asli. \nSelain itu, dia juga diprediksi akan menang di balapan ini.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi terlepas dari semua itu, kamu yang akan menang kali ini!",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi terlepas dari semua itu, kamu yang akan menang kali ini!",
-            "name": "<username>"
-        },
-        {
-            "text": "Hehe, serahkan padaku. Dengan kalian semua di sisiku \ndan mendorongku maju, rasanya aku bisa melakukan apa saja!",
             "name": "Mejiro McQueen",
+            "text": "Baiklah semua, aku berangkat dulu."
+        },
+        {
+            "name": "Umamusume Berponi Lurus",
+            "text": "Kamu pasti bisa, Ace!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Katanya kalau menang berturut-turut,\nbisa makan dessert sepuasnya!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eh, beneran, kah!?"
+        },
+        {
+            "name": "Umamusume Bob Hitam",
+            "text": "Seharusnya kamu nggak bilang dulu!\nDia bisa jadi hilang fokus gara-gara itu!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Niatnya sih biar kamu makin termotivasi,\ntapi apa malah bikin blunder ya?"
+        },
+        {
+            "name": "Umamusume Bermata Sayu",
+            "text": "Ace, fokus… fokus!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "B-Benar juga. Fokus… Fokus… Manisan…"
+        },
+        {
+            "name": "<username>",
+            "text": "McQueen, lawanmu hari ini adalah Tokai Teio yang belum terkalahkan."
+        },
+        {
+            "name": "<username>",
+            "text": "McQueen, lawanmu hari ini adalah Tokai Teio yang belum terkalahkan."
+        },
+        {
+            "name": "<username>",
+            "text": "Dilihat dari balapan sebelumnya, kekuatannya memang asli. \nSelain itu, dia juga diprediksi akan menang di balapan ini."
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi terlepas dari semua itu, kamu yang akan menang kali ini!"
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi terlepas dari semua itu, kamu yang akan menang kali ini!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, serahkan padaku. Dengan kalian semua di sisiku \ndan mendorongku maju, rasanya aku bisa melakukan apa saja!",
             "choice_data_list": [
                 "Kamu pasti bisa, Ace!"
             ]
         },
         {
-            "text": "Terima kasih, aku pasti akan menang di balapan ini!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih, aku pasti akan menang di balapan ini!"
         },
         {
             "text": "(Wooooooaaaaaahhh―!!)"
         },
         {
-            "text": "Mejiro McQueen! Mejiro McQueen! Dia menciptakan jarak 3 panjang kuda!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Mejiro McQueen! Mejiro McQueen! Jaraknya semakin \nmenjauh hingga tiga badan kuda!"
         },
         {
-            "text": "Mejiro McQueen melewati garis finis di posisi pertama!! \nDia adalah Umamusume pertama yang berhasil\nmemenangkan Tenno Sho Musim Semi dua kali berturut-turut!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Mejiro McQueen memimpin di depan, dan GOAL IN!!\nMenjadi yang pertama dalam sejarah, dia berhasil\nmeraih kemenangan beruntun di 'Tenno Sho Spring'—!"
         },
         {
             "text": "(Wooooooaaaaaahhh―!!)"
         },
         {
-            "text": "Selamat, McQueen-san!!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Selamat, McQueen-san!!"
         },
         {
-            "text": "Uwahhh! Aku benar-benar terharu!!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Uwahhh! Aku benar-benar terharu!!"
         },
         {
-            "text": "Ace kita… Dia memang luar biasa, ya?",
-            "name": "Umamusume "
+            "name": "Umamusume Bob Hitam",
+            "text": "Ace kita… Dia memang luar biasa, ya?"
         },
         {
-            "text": "Terima kasih banyak semuanya!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih banyak semuanya!"
         },
         {
-            "text": "Aku akan terus membawa mimpi kita maju!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku akan terus membawa mimpi kita maju!"
         }
     ]
 }

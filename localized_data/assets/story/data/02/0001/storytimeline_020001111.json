@@ -1,186 +1,184 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Aku… benar-benar minta maaf semuanya. \nAku sudah memperlihatkan hal yang memalukan…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Oye, oye, kenapa minta maaf sih? \nKamu nggak bikin masalah buat kita, tahu?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Lagipula Japan Cup itu diisi sama kuda-kuda hebat dari seluruh dunia. \nDapet posisi ke-4 tuh udah lumayan banget.",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Y-Ya! Cara kamu lari tadi tetap bikin kagum kok, McQueen-san!",
-            "name": "Umamusume dengan poni lurus"
-        },
-        {
-            "text": "Daripada murung, gimana kalau sekarang Trainer traktir kita makanan enak? \nBener kan, Trainer?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "T-Tentu! Sama sekali bukan masalah! \nMcQueen, makan aja sepuasmu, kan Japan Cup sudah selesai!",
-            "name": "<username>"
-        },
-        {
-            "text": "T-Tentu! Sama sekali bukan masalah! \nMcQueen, makan aja sepuasmu, kan Japan Cup sudah selesai!",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku… harus menolak.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Aku harus bersiap untuk Arima Kinen. \nLagi pula habis balapan tadi aku memang tidak lapar.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Oh iya, aku juga harus menelpon Nenek. \nJadi aku pamit dulu.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Semuanya, aku… aku sungguh minta maaf untuk hari ini…",
             "name": "Mejiro McQueen",
+            "text": "Aku… benar-benar minta maaf semuanya. \nAku sudah memperlihatkan hal yang memalukan…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Lah-lah, ngapain sih lu malah minta maaf?\nLagian kita-kita juga gak merasa keganggu kok"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Lagian di 'Japan Cup' itu kan yang dateng monster-monster \nhebat dari seluruh dunia? Makanya, bisa dapat urutan ke-4 itu\nudah hebat banget, tau!"
+        },
+        {
+            "name": "Umamusume Berponi Lurus",
+            "text": "Y-Ya! Cara kamu lari tadi tetap bikin kagum kok, McQueen-san!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Udah ah, yang penting balapannya udah beres dengan aman. Mending \nsekarang kita minta traktir Trainer! Pasti boleh lah ya, Trainer?!"
+        },
+        {
+            "name": "<username>",
+            "text": "T-Tentu! Sama sekali bukan masalah! \nMcQueen, makan aja sepuasmu, kan Japan Cup sudah selesai!"
+        },
+        {
+            "name": "<username>",
+            "text": "T-Tentu! Sama sekali bukan masalah! \nMcQueen, makan aja sepuasmu, kan Japan Cup sudah selesai!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku…… anu, sepertinya aku lewatkan saja dulu ya."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku harus bersiap untuk Arima Kinen. \nLagi pula habis balapan tadi aku memang tidak lapar."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh iya, aku juga harus menelpon Nenek. \nJadi aku pamit dulu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Semuanya, aku… aku sungguh minta maaf untuk hari ini…",
             "choice_data_list": [
                 "Ah, McQueen!"
             ]
         },
         {
-            "text": "Itu kerasa dipaksain banget… \nKamu memang nggak bisa akting, tahu?",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "……Kelihatan settingan banget ya barusan?\nLagian akting lu jelek amat!"
         },
         {
-            "text": "Maaf. Aku sudah berusaha, tapi…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Maaf. Padahal aku udah coba \nsebisa mungkin, tapi ternyata gagal ya……."
         },
         {
-            "text": "Maaf. Aku sudah berusaha, tapi…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Maaf. Padahal aku udah coba \nsebisa mungkin, tapi ternyata gagal ya……."
         },
         {
-            "text": "Aku bimbang, apakah aku harus memanggilnya atau membiarkan dia sendiri dulu."
+            "text": "Aku bimbang, apakah aku harus\nmemanggilnya atau membiarkan dia sendiri dulu."
         },
         {
-            "text": "Mohon maaf mengganggu.",
-            "name": "Oguri Cap"
-        },
-        {
-            "text": "Ohh! Bukankah itu Oguri! \nKamu datang untuk nyemangatin McQueen!?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Aku datang untuk melihat bagaimana kabar anggota tim lamaku.",
-            "name": "Oguri Cap"
-        },
-        {
-            "text": "Tapi sepertinya bintang utama tidak ada di sini.",
             "name": "Oguri Cap",
+            "text": "Maaf mengganggu."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Lah, ada Oguri ternyata! Lu ikut\ndateng buat nyemangatin juga, toh?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Aku datang untuk melihat \nbagaimana kabar anggota tim lamaku."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Tapi sepertinya bintang utama tidak ada di sini.",
             "choice_data_list": [
                 "Uhm, jadi begini…"
             ]
         },
         {
-            "text": "Hmm… sepertinya ada sesuatu yang terjadi. \nJadi, apa yang sebenarnya terjadi?",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Hmm… sepertinya ada sesuatu yang terjadi. \nJadi, apa yang sebenarnya terjadi?"
         },
         {
-            "text": "Aku pun memutuskan untuk menceritakan semuanya pada Oguri Cap."
+            "text": "Aku pun memutuskan untuk \nmenceritakan semuanya pada Oguri Cap."
         },
         {
-            "text": "Aku pun memutuskan untuk menceritakan semuanya pada Oguri Cap."
+            "text": "Aku pun memutuskan untuk \nmenceritakan semuanya pada Oguri Cap."
         },
         {
-            "text": "Kuceritakan mulai dari ancaman pembubaran tim, \nbagaimana kami berhasil melewatinya, hingga masuknya anggota baru."
+            "text": "Perjuangan yang dimulai dari ambang pembubaran tim, sampai\nberhasil melewatinya dan menyatukan kembali para anggota."
         },
         {
-            "text": "Lalu tentang diturunkannya peringkat McQueen \ndi balapan besar Spring Tenno Sho, dan\nbagaimana dia menganggap Japan Cup sebagai \nkesempatan untuk menebus dirinya… tapi malah berakhir di posisi ke-4."
+            "text": "Tentang hasil finis di posisi keempat pada balapan hari ini—yang\nsemula menjadi ajang pembuktian setelah sempat didiskualifikasi\ndi Tennō Shō Musim Gugur yang penuh harapan."
         },
         {
             "text": "Sekarang, Mejiro McQueen seperti \nmesin dengan roda gigi yang tidak berjalan selaras."
         },
         {
-            "text": "Begitu ya… Aku rasa aku mengerti apa yang McQueen rasakan.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Begitu ya… Aku rasa aku \nmengerti apa yang McQueen rasakan."
         },
         {
-            "text": "Dia mungkin berpikir harus selalu \nmemenuhi semua ekspektasi yang dibebankan padanya.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Dia mungkin berpikir harus selalu \nmemenuhi semua harapan yang dibebankan padanya."
         },
         {
-            "text": "Memenuhi semua ekspektasi…?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Memenuhi semua harapan…?"
         },
         {
-            "text": "Aku juga pernah merasakannya.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Aku juga pernah merasakannya."
         },
         {
-            "text": "Saat hasil balapanmu bagus, otomatis ekspektasi orang-orang jadi makin tinggi. \nLambat laun, kamu akan merasa terikat oleh ekspektasi itu…",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Hasil yang bagus melahirkan harapan dari semua orang, \nlalu tanpa disadari... harapan itu justru berubah menjadi \nbelenggu yang mengikat diri sendiri……."
         },
         {
-            "text": "Dan ketika ekspektasi itu makin menumpuk,\nperlahan rasanya seperti tembok yang menghalangi langkahmu.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Dan ketika harapan itu makin menumpuk,\nperlahan rasanya seperti tembok yang menghalangi langkahmu."
         },
         {
-            "text": "Ekspektasi… yang berubah jadi penghalang…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Harapan… yang berubah jadi penghalang…"
         },
         {
-            "text": "Alasan kenapa tim ini bisa ada sampai sekarang hanyalah karena usaha Mejiro McQueen."
+            "text": "Alasan kenapa tim ini bisa ada sampai\nsekarang hanyalah karena usaha Mejiro McQueen."
         },
         {
-            "text": "Setiap anggota tim bergabung karena terinspirasi oleh keberhasilan McQueen, \ndan mereka terus berlari karena rasa kagum pada dirinya."
+            "text": "Semua anggota berkumpul berkat kesuksesannya, dan karena\nkagum padanya, mereka terus berlari bersama hingga saat ini."
         },
         {
-            "text": "Dan bukan cuma anggota tim. \nAku pun dulu ikut terpesona dengan performa McQueen, \nmakanya aku juga punya ekspektasi besar padanya.",
-            "name": "Oguri Cap"
+            "text": "Dan bukan cuma anggota tim. \nAku pun dulu ikut terpesona dengan performa McQueen, \nmakanya aku juga punya harapan besar padanya."
         },
         {
-            "text": "Dan bukan cuma anggota tim. .\nAku pun dulu ikut terpesona dengan performa McQueen, \nmakanya aku juga punya ekspektasi besar padanya.",
-            "name": "Oguri Cap"
+            "text": "Dan bukan cuma anggota tim. \nAku pun dulu ikut terpesona dengan performa McQueen, \nmakanya aku juga punya harapan besar padanya."
         },
         {
-            "text": "McQueen memahami itu semua, \ndan akhirnya dia berjuang sendirian untuk memenuhi ekspektasi tersebut."
+            "text": "McQueen memahami itu semua, dan akhirnya dia berjuang \nsendirian untuk memenuhi ekspektasi tersebut."
         },
         {
-            "text": "Di saat seperti inilah, tugas seorang \nTrainer adalah mengubah ekspektasi itu jadi kekuatan, bukan jadi beban.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Di saat seperti inilah, tugas seorang Trainer adalah \nmengubah harapan itu jadi kekuatan, bukan jadi beban."
         },
         {
-            "text": "Mengubah ekspektasi jadi kekuatan…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Mengubah ekspektasi jadi kekuatan…"
         },
         {
-            "text": "Oguri… Bagaimana caramu mengubah ekspektasi jadi kekuatan? \nApa yang Sensei lakukan untukmu?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Oguri… Bagaimana caramu mengubah harapan jadi kekuatan? \nApa yang Sensei lakukan untukmu?"
         },
         {
-            "text": "Oguri… Bagaimana caramu mengubah ekspektasi jadi kekuatan? \nApa yang Sensei lakukan untukmu?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Oguri… Bagaimana caramu mengubah harapan jadi kekuatan? \nApa yang Sensei lakukan untukmu?"
         },
         {
-            "text": "Hmm, aku tidak keberatan menjawab…",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Hmm, aku tidak keberatan menjawab…"
         },
         {
-            "text": "Tapi hubunganmu dengan McQueen itu unik, \nberbeda dari yang kupunya dengan Sensei.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Tapi hubunganmu dengan McQueen itu unik, \nberbeda dari yang kupunya dengan Sensei."
         },
         {
-            "text": "Kalau kamu menirunya persis, rasanya takkan ada artinya… \natau setidaknya itu pendapatku.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Kalau kamu menirunya persis, rasanya takkan ada artinya… \natau setidaknya itu pendapatku."
         },
         {
-            "text": "Hubungan… yang unik hanya untuk kami berdua…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Hubungan… unik yang hanya ada pada diri kami…"
         },
         {
-            "text": "Hubungan… yang unik hanya untuk kami berdua…",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Hubungan… unik yang hanya ada pada diri kami…"
         },
         {
             "text": "Walau aku kurang pengalaman dan keterampilan dibanding Sensei, \nMcQueen tetap selalu menghormatiku sebagai Trainernya."
@@ -195,12 +193,12 @@
             "text": "Kenapa McQueen bisa punya keyakinan sebesar itu padaku? \nDan apa yang bisa kulakukan untuknya…?"
         },
         {
-            "text": "Hehe, jawabmu cepat sekali… \nKamu benar-benar masih sama seperti saat jadi Sub-Trainer dulu.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Fufu, jawaban tanpa ragu itu... masih sama\nseperti saat kamu menjadi sub-trainer dulu ya"
         },
         {
-            "text": "Kamu selalu lebih mementingkan kami daripada dirimu sendiri.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Kamu selalu lebih mementingkan kami daripada dirimu sendiri."
         },
         {
             "text": "Aku paham sekarang. Yang bisa kulakukan hanyalah tetap di sisinya, \npercaya padanya, dan mendukungnya apa pun yang terjadi!",
@@ -216,32 +214,32 @@
             ]
         },
         {
-            "text": "Hmm… Kalau begitu aku akan coba \ncari di area pertokoan, jalan menuju kampus, dan depan stasiun.",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Hmm… Kalau begitu gue akan coba cari di area pertokoan, \njalan menuju kampus, dan depan stasiun."
         },
         {
-            "text": "Aku akan cek apakah McQueen-san ada di sekitar kampus!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Aku akan cek apakah McQueen-san ada di sekitar kampus!"
         },
         {
-            "text": "Aku akan coba mencari di sekitar arena balapan!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Aku akan coba mencari di sekitar arena balapan!"
         },
         {
+            "name": "Umamusume Bob Hitam",
             "text": "Kalau begitu aku akan coba cari di sekitar kuil.",
-            "name": "Umamusume berpotongan bob hitam",
             "choice_data_list": [
                 "Semuanya… Baiklah, ayo berangkat!",
                 "Kalian… Baiklah, ayo berangkat!"
             ]
         },
         {
-            "text": "Kali ini, ace tim kita akan bergantung pada kita!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Kali ini, ace tim kita akan bergantung pada kita!"
         },
         {
-            "text": "Kali ini, ace tim kita akan bergantung pada kita!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Kali ini, ace tim kita akan bergantung pada kita!"
         }
     ]
 }
