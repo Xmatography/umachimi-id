@@ -48,8 +48,6 @@
         "10025": "Saat Dengan Ibuku ke kota \nibuku membelikan baju ini ,\nBagus Banget & Modis >v<",
         "10026": "Suzuka-san memuji pakaian kasualku... Ehehe…. Berikan hadiah yang serasi Jika aku melakukan itu, maukah kamu memakainya?",
         "10027": "Kemarin kutanya Trainer ada \ntempat rekomendasi yang bagus \nkayanya besok aku ingin kesana",
-        "20021": "Ah, kali ini juga ikut balapan...? Sudah agak berturut-turut sih... Tidak, tapi aku akan tetap berusaha!",
-        "20022": "A, um... Kali ini, boleh tidak aku istirahat dulu daripada balapan...?",
         "140009": "Ehehe～…",
         "140013": "Wow!",
         "20000": "Huu… badanku terasa agak berat nih～…",
@@ -216,9 +214,7 @@
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
-        "140002": "Aah!",
-        "20021": "Aku ingin berlari, tapi aku tidak bisa memaksakan diri sampai merusak tubuhku... Sulit ya.",
-        "20022": "Aku ingin ikut balapan, tapi... lebih dari ini sudah... tubuhku..."
+        "140002": "Aah!"
     },
     "1003": {
         "11": "Cygames",
@@ -1356,9 +1352,7 @@
     },
     "1046": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!",
-        "20022": "Eh, balapan terus sih? Aku ngerti itu penting... tapi tapi, Umadol juga butuh istirahat lho!",
-        "20021": "Balapan lagi? Berarti Falco sangat dibutuhkan ya...? Hmm~... tapi rasanya terlalu sering keluar..."
+        "12": "Umamusume, Pretty Derby!"
     },
     "1047": {
         "11": "Cygames",
@@ -2680,9 +2674,7 @@
         "95005": "Pfheh! Leave it to Turbo!",
         "95006": "I'ma tell you how to be strong!",
         "400005": "Those game clothes were awesome! I had this technique when I wore them～ Double Twin Jet Turbo Full Power!",
-        "400014": "Game's ended, it says! What're we gonna play next then～!?",
-        "20022": "...Nggak mau! Turbo udah nggak mau balapan lagi!\nTurbo mau ngebut full power sampai puas!\nKalau gini terus jadi nanggung dong!",
-        "20021": "Mmmm... balapan lagi...!\nTurbo suka banget pacu sampai batas, tapi...\nApa iya gak apa-apa ya...?"
+        "400014": "Game's ended, it says! What're we gonna play next then～!?"
     },
     "1067": {
         "11": "Cygames",
@@ -3369,21 +3361,5 @@
     "1136": {
         "20022": "Berikanlah aku istirahat. Sebelum langit murka,\nBumi terbelah, dan lautan mengamuk…",
         "20021": "Iblis mulai menyelinap masuk ke dalam hatiku…\nTolong berikan aku waktu untuk berdoa,\nIstirahat dari balapan…"
-    },
-    "1115": {
-        "20022": "…Tidak perlu lagi bicara denganmu.",
-        "20021": "Kepala sok pintarmu itu... untuk apa kau bawa-bawa?"
-    },
-    "1073": {
-        "20022": "A, aku ingin berusaha... tapi, badan terasa sempoyongan, kepala terasa berat banget...",
-        "20021": " Balapan ya, aku akan beru— Ukhk...! ...ugh, aku akan berusaha menjaga kondisi...!"
-    },
-    "1129": {
-        "20021": "Kamu benar-benar yakin itu yang harus dilakukan?\nKalau begitu, jelaskan alasannya. Mari kita\nselaraskan pendapat kita baik-baik.",
-        "20022": "……Aku tidak setuju. Kalau terus\nmemaksakan cara yang gegabah seperti itu,\npasti akan ada batasnya. Aku tidak mau begitu.――Tidak mau, sama sekali."
-    },
-    "1134": {
-        "20021": "Jika terlalu memaksakan diri—akan ada reaksi balikannya. Untuk mencegah ketidakseimbangan yang buruk—mari berhenti sejenak sekarang.",
-        "20022": "——Bolehkah kita bicara dulu? Apakah balapan berturut-turut benar-benar jalan terbaik bagi kita saat ini——mohon, pertimbangkanlah."
     }
 }
