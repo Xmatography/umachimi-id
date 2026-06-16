@@ -1,0 +1,185 @@
+{
+    "text_block_list": [
+        {
+            "text": "Anu――!"
+        },
+        {
+            "text": "Maukah Anda――berkenan menjadi Trainer-ku……!"
+        },
+        {
+            "text": "――Benar-benar tiba-tiba.\nAku sama sekali tak menyangka dia akan meminta kontrak eksklusif denganku."
+        },
+        {
+            "text": "Dia, Curren Bouquetd'or, adalah anak yang selalu \nmenghiasi ruang istirahat Trainer dengan bunga.\nUma Musume dengan sifat lembut dan tenang."
+        },
+        {
+            "text": "Akan tetapi, kelembutannya itu tidak cocok untuk sebuah persaingan――\nItulah penilaian di kalangan para Trainer, yang membuatku khawatir."
+        },
+        {
+            "text": "Sempat ada kalanya dia ragu apakah harus berhenti balapan atau tidak,\njadi aku pikir dia belum akan debut dalam waktu dekat.",
+            "choice_data_list": [
+                "Uhm, apa itu artinya kamu sedang memikirkan soal debut?"
+            ]
+        },
+        {
+            "text": "Iya……! Aku akan debut.\nAku akan berlari――demi meraih kemenangan……!",
+            "choice_data_list": [
+                "Kamu tidak memaksakan diri, kan? ……Apa keraguanmu sudah hilang?"
+            ]
+        },
+        {
+            "text": "I-Itu…… aku tak bisa bilang kalau aku percaya diri.\nTetapi……――aku sudah tidak ragu lagi."
+        },
+        {
+            "text": "――Ada hal yang ingin kucapai. Untuk mewujudkannya,\naku harus menang…… karena itulah, aku berlari――!"
+        },
+        {
+            "text": "……Maukah Anda datang menonton turnamen per \ncabang nanti? Untuk melihat apakah aku sudah\npunya tekad untuk menang atau belum――"
+        },
+        {
+            "text": "Aku ingin Anda yang menjadi saksinya……!"
+        },
+        {
+            "text": "……Dia dan diriku adalah tipe yang mirip. Saat berpikir bahwa aku mungkin tak bisa menutupi kekurangannya, aku jadi ragu."
+        },
+        {
+            "text": "Namun――mata berwarna cokelat keemasannya tampak goyah.\nKepalan tangannya pun sedikit gemetar."
+        },
+        {
+            "text": "Dari sosoknya yang mati-matian mengumpulkan keberanian,\naku bisa merasakan kesungguhannya. ――Tidak diragukan\nlagi, telah terjadi perubahan dalam hatinya.",
+            "choice_data_list": [
+                "Baiklah. Aku pasti akan datang menonton."
+            ]
+        },
+        {
+            "text": "Baik――! Aku akan berjuang keras……!"
+        },
+        {
+            "text": "――Turnamen per cabang. Curren Bouquetd'or\nbertanding di jarak 1600m rumput. Di sana――"
+        },
+        {
+            "name": "Fans Balapan A",
+            "text": "Itu dia, Almond Eye! Di antara Uma Musume yang debut tahun \nini, dialah yang paling luar biasa!"
+        },
+        {
+            "name": "Fans Balapan B",
+            "text": "Ai-chaaan!\nKami menantikan pacuan akhirmu yang memukau!"
+        },
+        {
+            "text": "（――Sorakan yang luar biasa…… semua orang datang \nuntuk melihat Ai-san. Menghadapi Ai-san yang sebegitu\ndiperhatikannya…… ugh, tapi――!）"
+        },
+        {
+            "text": "Anu…… Ai-san!\nMohon bantuannya untuk balapan hari ini……!"
+        },
+        {
+            "text": "Ya, mohon bantuannya juga. Aku takkan kalah dari siapa pun, lho!\nSekalipun kamu lawannya, Bouquet-chan!"
+        },
+        {
+            "text": "――Balapan dimulai dengan Almond Eye yang terlambat start,\nsementara Curren Bouquetd'or berhasil menempati posisi bagus di kelompok depan."
+        },
+        {
+            "text": "Ugh――! Tapi, aku masih bisa mengejar!\nPertarungan sesungguhnya dimulai saat masuk trek lurus!"
+        },
+        {
+            "text": "Jika terus begini, ada peluang menang bagi Curren Bouquetd'or.\nNamun, di trek lurus terakhir――"
+        },
+        {
+            "text": "Nah, aku maju! Haaaaaaaaa!!"
+        },
+        {
+            "text": "Ugh……!"
+        },
+        {
+            "text": "Curren Bouquetd'or tersentak, seolah tertekan oleh momentum lawan.\nWajahnya berkerut menahan penderitaan seperti biasanya."
+        },
+        {
+            "text": "（……Tekad bertarung yang luar biasa――aku seolah terdorong mundur\noleh hawa intimidasi Eye-san. Tetapi――）"
+        },
+        {
+            "text": "（Demi bisa meraih tangannya――\naku harus memperlihatkan tekadku!）"
+        },
+        {
+            "text": "Dia mencoba bertahan. Melawan Almond Eye,\nyang obsesinya akan kemenangan melampaui siapa pun!"
+        },
+        {
+            "text": "Menuju buket bunga kejayaan――\ndemi kemenangan pertama!"
+        },
+        {
+            "text": "Yaaaaaaaahhh!"
+        },
+        {
+            "text": "――Cahaya tajam terpancar dari kedua matanya."
+        },
+        {
+            "text": "Haa, haa…… ――Aku, tidak menang…… ――Padahal di balapan ini.\nAku sangat ingin menang…… ――ugh, uuuuhh……."
+        },
+        {
+            "text": "……Bouquet-chan.\nCaramu berlari hari ini, sungguh berbeda dari sebelumnya."
+        },
+        {
+            "text": "Kamu bisa berubah sejauh ini. Kamu pasti bisa jadi jauh lebih kuat!\nMakanya, mari bertarung lagi. Di Twinkle Series!"
+        },
+        {
+            "text": "――Trainer-san. Maafkan aku…… Padahal\nAnda sudah menontonnya, tapi aku malah kalah.",
+            "choice_data_list": [
+                "Tidak apa-apa. Larimu tadi sangat bagus, kok."
+            ]
+        },
+        {
+            "text": "――Padahal aku ingin memperlihatkan tekadku \ndengan meraih kemenangan. Aku sangat kesal…….",
+            "choice_data_list": [
+                "Kamu jadi mulai punya keinginan untuk menang, ya",
+                "Kamu jadi mulai punya keinginan untuk menang, ya"
+            ]
+        },
+        {
+            "text": "Ini berkat Trainer-san. ……Di tengah keraguanku untuk lanjut balapan atau tidak, Anda telah menemani dan menenangkan hatiku berkali-kali."
+        },
+        {
+            "text": "Tidak hanya padaku, melainkan pada setiap Uma Musume――Trainer-san,\ntidak segan-segan mencurahkan seluruh waktu, kemampuan, dan segalanya."
+        },
+        {
+            "text": "Tidak ada Trainer yang sehebat Anda. Aku ingin\nmenunjukkan kehebatan Anda kepada semua orang. \n――Melalui lariku."
+        },
+        {
+            "text": "……Meski saat ini, aku bahkan belum bisa mempersembahkan setangkai kemenangan pun. Namun bersama Anda――aku pasti bisa berjuang."
+        },
+        {
+            "text": "Dan dengan merangkai kemenangan\nyang melimpah ruah di kedua tangan ini."
+        },
+        {
+            "text": "――Aku ingin menyerahkan buket bunga\nemas yang bersinar kepada Anda."
+        },
+        {
+            "text": "Karena itu, kumohon――\nJadilah Trainer-ku……!"
+        },
+        {
+            "text": "……Matanya yang berkaca-kaca tampak goyah. Akan tetapi,\nmeski disiksa rasa cemas, kedua matanya menatap lurus ke arahku.",
+            "choice_data_list": [
+                "（Ini pasti bentuk keberanian pertamanya）"
+            ]
+        },
+        {
+            "text": "Jika melewatkan kesempatan ini, bakatnya mungkin takkan pernah bersinar. Dan lebih dari itu semua――",
+            "choice_data_list": [
+                "――Aku juga, demi dirimu",
+                "――Aku juga, demi dirimu"
+            ]
+        },
+        {
+            "text": "Aku ingin membalas perasaannya――yang telah membulatkan tekad\nuntuk berjuang bersamaku meski harus mengubah dirinya sendiri.",
+            "choice_data_list": [
+                "Aku akan berusaha menjadi Trainer yang terbaik untukmu!"
+            ]
+        },
+        {
+            "text": "――! ……Trainer, -san……!"
+        },
+        {
+            "text": "……Iya.\nMohon bimbingannya――!"
+        },
+        {
+            "text": "Dia tersenyum lembut. Mengembang halus layaknya \nbunga yang mekar. ――Aku akan membuat senyum yang \nberkilau ini mekar dengan indah. Aku bersumpah."
+        }
+    ]
+}
