@@ -65,13 +65,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "6d04729884fce90e139aeba5a279cc761b79da60a8ca6a05d4e2afb6a12da60c",
-      "size": 85869
+      "hash": "aae43335efe3e026e315518c17215216dfb01726015ea765b18abed30ba72669",
+      "size": 84250
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
-      "hash": "0c73dcf1d4e8b9adc8ba009045575c50645ee1e67bf09b509f804a1919145f6e",
-      "size": 32035
+      "hash": "1b9e978c317dffbc5cbc50c59ff077f061904ae85c1c349fdf107d2b0b32db0c",
+      "size": 38698
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_card_limit_break00/tx_uTex_fl_gacha_card_limit_break00_0.diff.png",
@@ -700,13 +700,18 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_trainingmenu_shima00/tx_uTex_fl_singlemode_pioneer_btn_trainingmenu_shima00_0.diff.png",
-      "hash": "e287b9e3c0b7f6f2f875b4fde724cb55a9a1a8b8b1dae9f333cf5c84666d67ed",
-      "size": 16342
+      "hash": "5a9b3c5d7859f35920fdbf8699b38274a5639d42b0dc85b6fd4f00406c4e6ebd",
+      "size": 16401
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_construction_progress00/tx_uTex_fl_singlemode_pioneer_construction_progress00_0.diff.png",
-      "hash": "2e79b1853d6548c43587ea9f0085a28eabc9faa207d5d42018db1312935698fb",
-      "size": 98202
+      "hash": "a84e85ea86163e1d95a7d69a3db82aa182fb3d428e054cfdcfee7445f0c1043d",
+      "size": 80078
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_construction_progress_text00/tx_uTex_fl_singlemode_pioneer_construction_progress_text00_0.diff.png",
+      "hash": "9fa26151fef9d851dc3c065f35230c5571c40bc8662ac0c710f959d851252466",
+      "size": 220157
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start00/tx_uTex_fl_singlemode_pioneer_evaluate_start00_0.diff.png",
@@ -720,13 +725,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_event_join00/tx_uTex_fl_singlemode_pioneer_event_join00_0.diff.png",
-      "hash": "f781a32fba451d3af4b87646bb699234b3cb65538e08e5839f438d3de74a5bec",
-      "size": 98924
+      "hash": "f2120704e512ab439d80728709b982bfc7f067eb45f383ff1f87d9556fcbe127",
+      "size": 95390
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_gauge_shimatraining00/tx_uTex_fl_singlemode_pioneer_gauge_shimatraining00_0.diff.png",
-      "hash": "bea05b9f57267759f135abd81f696066aa206f2d2a6083a8efd54911701e06b2",
-      "size": 6184
+      "hash": "ba34bea07cc9ba51cb51705447d4bb75ca96d8c115784e601798b9470d557617",
+      "size": 5765
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0_A.diff.png",
@@ -735,28 +740,28 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete00/tx_uTex_fl_singlemode_pioneer_island_complete00_0.diff.png",
-      "hash": "c7a2a9cb0d364ac7c37ff2d71bda3b3e615e74303c1499540a14523249e9a47e",
-      "size": 172981
+      "hash": "f2913dca24fd74944a9b1b04e4313281cb55665a90c5fb939b81a4b33010299c",
+      "size": 182560
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete01/tx_uTex_fl_singlemode_pioneer_island_complete01_0.diff.png",
-      "hash": "1d06418b2543944563daa51ba7c90326cb430ec169d0b6fc6eafd532b721df54",
-      "size": 220394
+      "hash": "67d6e83e30331ccda4c3e87aac0233f4e40984d83c74b5b1df95bf3c1c3aabe9",
+      "size": 186291
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_hint00/tx_uTex_fl_singlemode_pioneer_island_hint00_0.diff.png",
-      "hash": "5c71198593d8a9748ce1aefd01115b90a28c22a88207abce35fe992fe3f145c1",
-      "size": 2995
+      "hash": "aa2be64e518dd29ea79d31b5f32f2ac430506562cae5ec65b5f811b3609e75d0",
+      "size": 2235
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_transition_logo00/tx_uTex_fl_singlemode_pioneer_island_transition_logo00_0.diff.png",
-      "hash": "5609e5bd1ea376e31b6c8297e884426ad8164256b32443294783dba06d94a421",
-      "size": 89771
+      "hash": "d17efaa2aa8449e3725f83b1f2a37f755380168160fceb4e4924026c6d126b9c",
+      "size": 66348
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_transition_logo01/tx_uTex_fl_singlemode_pioneer_island_transition_logo01_0.diff.png",
-      "hash": "ea62eebb240826152c2319eca199125e9c741895a9d424e67265314ebe7a361a",
-      "size": 96554
+      "hash": "e0652b4338790ee1ead91dc50e61f395f86a74e796413abfdc405a41f66dbc9c",
+      "size": 73585
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_notice_window00/tx_uTex_fl_singlemode_pioneer_notice_window00_0.diff.png",
@@ -765,8 +770,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_planning_island00/tx_uTex_fl_singlemode_pioneer_planning_island00_0.diff.png",
-      "hash": "16f72fbaa464cfe236022d18a5ebf2bf7f09818746201465f8a505e9621fa7b4",
-      "size": 24982
+      "hash": "5b95cea5b9d59a80ad157389e444db9ae566f4b0c0942d3b88341d94aa447be5",
+      "size": 18067
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_remind_turn00/tx_uTex_fl_singlemode_pioneer_remind_turn00_0.diff.png",
@@ -775,43 +780,48 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_shimatraining_acquire00/tx_uTex_fl_singlemode_pioneer_shimatraining_acquire00_0.diff.png",
-      "hash": "c51925d5ad803f7251455ff450d0051dec27237d82ba0c38d04e8b0848c12b4e",
-      "size": 51517
+      "hash": "bf248e71dc1d5c9e0483b5c76df4125fb6e0eaf705c828113955fcedcde4b158",
+      "size": 54704
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_shimatraining_period00/tx_uTex_fl_singlemode_pioneer_shimatraining_period00_0.diff.png",
-      "hash": "c80544813892e33ecd95a660aa755509c2f6b92865658ad0d3c0e8e7f8cf176a",
-      "size": 60185
+      "hash": "6907e3a28d65718ad65fbc3c86d155cbfcb97b908f15676949148b07000d2527",
+      "size": 60181
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_shimatraining_split00/tx_uTex_fl_singlemode_pioneer_shimatraining_split00_0.diff.png",
-      "hash": "4d83a70bdb3c52322115daa5ed92152548a6b397acdeb77a312e0d19768c2111",
-      "size": 102049
+      "hash": "995b7cf63b980caf51c1ca0f0ee6d4895e49114f15d66c115050e31deb92d4cd",
+      "size": 79750
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_start_tagtraining00/tx_uTex_fl_singlemode_pioneer_start_tagtraining00_0.diff.png",
-      "hash": "2f3cf3d477a663a0aac52af886dd0303ec6daa9e949f9f9ea37350e22e08f475",
-      "size": 126506
+      "hash": "1669f0837726cfca24bff41bcb124fb4fbd242b5d070ee3b90f75bd3e63777b3",
+      "size": 179939
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_training_facility_upgrade00/tx_uTex_fl_singlemode_pioneer_training_facility_upgrade00_0.diff.png",
-      "hash": "a8d89ba6c5ac08d8789e23495e2203f0b1d2f0cd601c35428a84c2de3a145615",
-      "size": 57768
+      "hash": "43a327055ccecd44569c3ede0aeeb97feaa6c09b564a5882b9e4303573770384",
+      "size": 49446
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_trainingmenu_base00/tx_uTex_fl_singlemode_pioneer_trainingmenu_base00_0.diff.png",
-      "hash": "dc9dcc2ccd7e0af312d4e32262cc0d5c28edb369c1bb447916e597560660174e",
-      "size": 46821
+      "hash": "b339ba1826f08beb0818917dccb08bc0fe72049a1676c82ba799f6717f03214d",
+      "size": 58166
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_evaluateresult00/tx_uTex_fl_singlemode_pioneer_txt_evaluateresult00_0.diff.png",
+      "hash": "1330bb1e1e33331640e38d1be10c4f1920775929a924aa16a06e97a55b0cd35f",
+      "size": 547865
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_shimatraining00/tx_uTex_fl_singlemode_pioneer_txt_shimatraining00_0.diff.png",
-      "hash": "78c103944209477362aa44ce937c244092b03346b8b1c3c1823970f5cabfb2ef",
-      "size": 64397
+      "hash": "1aab2176d36f5a05ceff6aab95207b8bae44079591f62a7c8049057de3203c0c",
+      "size": 42425
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_tagtrainingresult00/tx_uTex_fl_singlemode_pioneer_txt_tagtrainingresult00_0.diff.png",
-      "hash": "34c7e599cee390dd5da26d0c608e5c59d27a42b32c6abccf8e33e63ef537b1c6",
-      "size": 325729
+      "hash": "1df3248b27088565e9feca2330f1f0695cdc72b1a9062407b44bc0db99723913",
+      "size": 689513
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_chararank00/tx_uTex_fl_singlemode_result_chararank00_0.diff.png",
@@ -1205,8 +1215,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
-      "hash": "365d13b32af05dc4b164c324c01f970475ee3b642485b38afeb44d765c00ee34",
-      "size": 291367
+      "hash": "a14813bdb4c24d3f7152344bb9d085dd8e5308b109cfd3541fea472498d4960d",
+      "size": 285787
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.json",
@@ -1215,8 +1225,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.diff.png",
-      "hash": "ab77b72cc68446baf9d9b6e8052985f900e8621879945968559c783a9bb8e123",
-      "size": 18444
+      "hash": "01fe45fb291eab9335d2b1fdbd721156ccc2ed6eb9e63a0f56c066ee15c09540",
+      "size": 15930
     },
     {
       "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.json",
@@ -4350,23 +4360,23 @@
     },
     {
       "path": "assets/story/data/04/1032/storytimeline_041032001.json",
-      "hash": "70a360b934cc23ea65beb1992f4f81a8369c4ebc877c32aeb8ea4261ab558e6a",
-      "size": 10418
+      "hash": "c03732e08bbb3958ff883e28170a67c2cd4ed8394ab1b1ae5a78db32b49f6925",
+      "size": 10394
     },
     {
       "path": "assets/story/data/04/1032/storytimeline_041032002.json",
-      "hash": "7e28a78e19e56bac3ebfc38cd4305d9b3308a73ecd85510a119d012880254553",
-      "size": 11402
+      "hash": "98de1e632a265fcbc2805b5c602735bf061a21a96fa53b18c4add3714dd581e1",
+      "size": 11371
     },
     {
       "path": "assets/story/data/04/1032/storytimeline_041032003.json",
-      "hash": "69490669cc3303e66ac2c3dfb6641720aad030aff7946b481d33cd12b01363c1",
-      "size": 10346
+      "hash": "4c4408bd6ddc6f6b676015e7e72a79f2c1fefcb003960abcfde906eb0614568d",
+      "size": 10310
     },
     {
       "path": "assets/story/data/04/1032/storytimeline_041032004.json",
-      "hash": "aa5e6fb717723cb5a7de3c27fd593094250a78d8f63fb6126e332cf2def8c69b",
-      "size": 9664
+      "hash": "5d15341985a11fed08fc8172f00f9cf9551388e3ccf55c561663c39594469877",
+      "size": 9662
     },
     {
       "path": "assets/story/data/04/1032/storytimeline_041032005.json",
@@ -16290,7 +16300,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
-      "hash": "112e75f9d58d7ea9f13c8f66fab2fd3d1d787df5a3bbba4e18e0b308d73fa3db",
+      "hash": "887f0482ab7047af3bc5d73eeb16e5cd12178373755e982179337947b782120c",
       "size": 698
     },
     {
@@ -16390,8 +16400,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "20b609fcf184a3b00f8613eb70998295f50f7a283da5a17e13601905a4192092",
-      "size": 241618
+      "hash": "9a4907dc750d648a5332d6fbf4df13a1b6e0ce340b4e2e8c6eb8d3a2c3717c7a",
+      "size": 268682
     },
     {
       "path": "config.json",
@@ -16440,8 +16450,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8c315113abcf451612721a11ec80c76cd64ce7b2d244fe29f11448ca005f4b05",
-      "size": 2714338
+      "hash": "b91b47b5db0a5b98c85d975c080f52fb6bffab04100cd3d8ac40667b32ad8f3c",
+      "size": 2714341
     }
   ]
 }
