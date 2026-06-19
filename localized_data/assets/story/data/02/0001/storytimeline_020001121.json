@@ -1,276 +1,276 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "text": "Tim ini awalnya hanya dimulai dengan aku dan Mejiro McQueen."
         },
         {
-            "text": "Kesuksesan yang terus ia raih membuat semua orang yang melihatnya tergerak, \ndan semakin banyak pula yang menitipkan harapan serta mimpi padanya."
+            "text": "Kesuksesan yang terus ia raih membuat semua orang yang \nmelihatnya tergerak, dan semakin banyak pula yang \nmenitipkan harapan serta mimpi padanya."
         },
         {
-            "text": "Mejiro McQueen terus berlari, memikul semua ekspektasi itu seorang diri…"
+            "text": "Mejiro McQueen terus berlari, \nmemikul semua ekspektasi itu seorang diri…"
         },
         {
-            "text": "Haa… Haa… McQueen!!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Haa… Haa… McQueen!!"
         },
         {
-            "text": "T-Trainer-san…!?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Rasanya… hal seperti ini pernah terjadi sebelumnya…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Setiap kali aku merasa terpuruk, \nkau selalu datang berlari untuk memberi semangat padaku, Trainer-san.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Kau sama sekali tidak berubah.\nSikapmu pada kami selalu tulus dan sungguh-sungguh…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku.",
-            "name": "<username>"
-        },
-        {
-            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku.",
-            "name": "<username>"
-        },
-        {
-            "text": "Dan karena aku tak menyadarinya, kau akhirnya terikat oleh ekspektasi itu \ndan mulai menganggapnya sebagai beban.",
-            "name": "<username>"
-        },
-        {
-            "text": "Dan karena aku tak menyadarinya, kau akhirnya terikat oleh ekspektasi itu \ndan mulai menganggapnya sebagai beban.",
-            "name": "<username>"
-        },
-        {
-            "text": "…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Tapi… apa pun yang terjadi, aku dan anggota tim akan terus menaruh harapan pada dirimu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi… apa pun yang terjadi, aku \ndan anggota tim akan terus menaruh harapan pada dirimu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Kau akan terus melakukan itu… \nuntuk seseorang yang sering melakukan kesalahan ceroboh sepertiku?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Kau akan tetap melakukan itu, \nuntuk seseorang yang sudah menginjak-injak \nharapan para penggemarnya dan merepotkan pelatihnya sendiri!?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Tentu saja. Apa pun yang terjadi, aku akan selalu percaya padamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tentu saja. Apa pun yang terjadi, aku akan selalu percaya padamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Dan bahkan kalau nanti kau gagal, bahkan kalau kau patah semangat, aku akan terus mendukungmu…",
-            "name": "<username>"
-        },
-        {
-            "text": "Dan bahkan kalau nanti kau gagal, bahkan kalau kau patah semangat, aku akan terus mendukungmu…",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku akan terus percaya padamu. Aku akan terus menaruh kepercayaan padamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku akan terus percaya padamu. Aku akan terus menaruh kepercayaan padamu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Harapan yang kami titipkan padamu bukanlah hal sepele yang bisa hancur hanya karena beberapa hasil buruk!",
-            "name": "<username>"
-        },
-        {
-            "text": "Harapan yang kami titipkan padamu bukanlah hal sepele yang bisa hancur hanya karena beberapa hasil buruk!",
-            "name": "<username>"
-        },
-        {
-            "text": "Trainer-san…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Menjelang balapan terakhir Oguri, semua orang bilang dia tidak mungkin menang.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi anggota tim tidak pernah berhenti percaya padanya!",
-            "name": "<username>"
-        },
-        {
-            "text": "Tapi anggota tim tidak pernah berhenti percaya padanya!",
-            "name": "<username>"
-        },
-        {
-            "text": "Tak peduli hasil apa pun yang kau dapat… \nSeorang ace adalah sosok yang ingin terus kami percaya apa pun yang terjadi, \nsosok yang ingin kami lihat meraih mimpinya.",
-            "name": "<username>"
-        },
-        {
-            "text": "Tak peduli hasil apa pun yang kau dapat… \nSeorang ace adalah sosok yang ingin terus kami percaya apa pun yang terjadi, \nsosok yang ingin kami lihat meraih mimpinya.",
-            "name": "<username>"
-        },
-        {
-            "text": "Seorang ace… adalah sosok yang ingin kau percayai, apa pun yang terjadi…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Apa… apa aku benar-benar bisa menjadi \nUmamusume yang bisa kalian percaya seperti itu?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Sebagai ace tim ini… apa aku benar-benar \nbisa mewujudkan mimpi itu untuk kalian semua?",
             "name": "Mejiro McQueen",
+            "text": "T-Trainer-san…!?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rasanya… hal seperti ini pernah terjadi sebelumnya…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Setiap kali aku merasa terpuruk, kau selalu datang \nberlari untuk memberi semangat padaku, Trainer-san."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kau sama sekali tidak berubah.\nSikapmu pada kami selalu tulus dan sungguh-sungguh…"
+        },
+        {
+            "name": "<username>",
+            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku."
+        },
+        {
+            "name": "<username>",
+            "text": "Karena itu saja yang bisa kulakukan. \nMeski begitu, masih banyak hal yang sering luput dari perhatianku."
+        },
+        {
+            "name": "<username>",
+            "text": "Dan karena aku tak menyadarinya, kau akhirnya terikat\noleh ekspektasi itu dan mulai menganggapnya sebagai beban."
+        },
+        {
+            "name": "<username>",
+            "text": "Dan karena aku tak menyadarinya, kau akhirnya terikat\noleh ekspektasi itu dan mulai menganggapnya sebagai beban."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…"
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi… apa pun yang terjadi, aku dan anggota tim\nakan terus menaruh harapan pada dirimu."
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi… apa pun yang terjadi, aku dan anggota tim\nakan terus menaruh harapan pada dirimu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "……Kepadaku? Seseorang yang sudah melakukan kesalahan \nyang tidak boleh dimaafkan di tengah balapan?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Padahal karena itu, aku sudah mengecewakan semua orang \nyang berharap padaku, bahkan merepotkan Trainer juga?! \nMengapa harus aku?!"
+        },
+        {
+            "name": "<username>",
+            "text": "Tentu saja. Apa pun yang terjadi, aku akan selalu percaya padamu."
+        },
+        {
+            "name": "<username>",
+            "text": "Tentu saja. Apa pun yang terjadi, aku akan selalu percaya padamu."
+        },
+        {
+            "name": "<username>",
+            "text": "Dan bahkan kalau nanti kau gagal, bahkan kalau kau patah \nsemangat, aku akan terus mendukungmu…"
+        },
+        {
+            "name": "<username>",
+            "text": "Dan bahkan kalau nanti kau gagal, bahkan kalau kau patah \nsemangat, aku akan terus mendukungmu…"
+        },
+        {
+            "name": "<username>",
+            "text": "Aku akan terus percaya padamu.\nAku akan terus menaruh kepercayaan padamu."
+        },
+        {
+            "name": "<username>",
+            "text": "Aku akan terus percaya padamu.\nAku akan terus menaruh kepercayaan padamu."
+        },
+        {
+            "name": "<username>",
+            "text": "Harapan yang kami titipkan padamu bukanlah hal sepele \nyang bisa hancur hanya karena beberapa hasil buruk!"
+        },
+        {
+            "name": "<username>",
+            "text": "Harapan yang kami titipkan padamu bukanlah hal sepele \nyang bisa hancur hanya karena beberapa hasil buruk!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san…"
+        },
+        {
+            "name": "<username>",
+            "text": "Menjelang balapan terakhir Oguri,\nsemua orang bilang dia tidak mungkin menang."
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi anggota tim tidak pernah berhenti percaya padanya!"
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi anggota tim tidak pernah berhenti percaya padanya!"
+        },
+        {
+            "name": "<username>",
+            "text": "Ini bukan tentang hasil akhir……. Sosok yang selalu membuat kita\ningin percaya dan bermimpi, itulah yang dinamakan seorang 'Ace'."
+        },
+        {
+            "name": "<username>",
+            "text": "Ini bukan tentang hasil akhir……. Sosok yang selalu membuat kita\ningin percaya dan bermimpi, itulah yang dinamakan seorang 'Ace'."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Seorang \"Ace\"… adalah sosok yang ingin\nkau percayai, apa pun yang terjadi…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Apa… apa aku benar-benar bisa menjadi \nUmamusume yang bisa kalian percaya seperti itu?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sebagai 'Ace' tim ini… apa aku benar-benar \nbisa mewujudkan mimpi itu untuk kalian semua?",
             "choice_data_list": [
                 "Tentu saja bisa.",
                 "Tentu saja bisa."
             ]
         },
         {
-            "text": "… Uu, uuu… uuuuu～…!!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "… Uu, uuu… uuuuu～…!!"
         },
         {
             "text": "Seakan akhirnya melepaskan semua tekanan yang dipendamnya, \nMejiro McQueen terus menangis."
         },
         {
-            "text": "U-umm… aku pulang…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "U-umm… aku pulang…"
         },
         {
-            "text": "Hah!? Akhirnya kau pulang juga!!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Wih?! Udah balik lu?!"
         },
         {
-            "text": "Selamat datang kembali, McQueen!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Selamat datang kembali, McQueen!"
         },
         {
-            "text": "Bisa gawat kalau Nenek tahu ada salah \nsatu Umamusume keluarga Mejiro yang keluyuran semalaman, tahu?",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "Bisa gawat kalau Nenek tahu ada salah satu Umamusume \nkeluarga Mejiro yang keluyuran semalaman, tahu?"
         },
         {
-            "text": "Kami khawatir padamu, McQueen.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Kami khawatir padamu, McQueen."
         },
         {
-            "text": "Aku benar-benar minta maaf, bukan cuma karena kalah balapan, \ntapi juga karena sudah membuat kalian khawatir…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku benar-benar minta maaf, bukan cuma karena kalah balapan, \ntapi juga karena sudah membuat kalian khawatir…"
         },
         {
-            "text": "Oye oye, itu udah nggak penting lagi! \nKami nggak di sini buat denger kata-kata sedihmu, tahu!?",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Heh, kagak gitu konsepnya! Kita-kita mah\ngak butuh denger omongan suram kayak gitu, elah!"
         },
         {
-            "text": "T-tunggu sebentar, apa-apaan ini!? Kenapa kau melakukan ini!?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "T-tunggu sebentar, apa-apaan ini!? Kenapa kau melakukan ini!?"
         },
         {
-            "text": "Ayo, keluarkan suaramu yang lantang! \nApa yang ingin kau katakan setelah kembali!?",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Ayo buruan, umumin yang lantang dong!\nLu balik ke sini emangnya mau ngomong apaan coba?!"
         },
         {
-            "text": "A-aku…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "A-aku…"
         },
         {
-            "text": "Aku akan terus berlari dengan penuh kebanggaan!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku akan terus berlari dengan penuh kebanggaan!"
         },
         {
-            "text": "Aku mungkin akan kalah, aku mungkin kecewa, dan aku mungkin juga akan menangis…!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku mungkin akan kalah, aku mungkin kecewa,\ndan aku mungkin juga akan menangis…!"
         },
         {
-            "text": "Tapi meskipun begitu, aku akan terus berlari\nsambil membawa harapan dan mimpi semua orang di pundakku! \nKarena itulah artinya menjadi ace tim ini!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Meski begitu, aku akan membuktikannya! Aku akan \nterus berlari dengan memikul semua harapan kalian…… \nsebagai 'Ace' dari tim ini!"
         },
         {
-            "text": "Kau pasti bisa, McQueen!!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Semangat, McQueen!!"
         },
         {
-            "text": "Aku akan selalu percaya padamu…!",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Aku akan selalu percaya padamu…!"
         },
         {
-            "text": "Kau ace yang hebat!!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Kau 'Ace' yang hebat!!"
         },
         {
-            "text": "McQueen terlihat begitu keren sekarang.",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "McQueen terlihat begitu keren sekarang."
         },
         {
-            "text": "McQueen-chan, aku harap kita bisa terus berlari bersama selamanya!",
-            "name": "Umamusume berambut bob hitam"
+            "name": "Umamusume Bob Hitam",
+            "text": "McQueen-chan, aku harap kita bisa terus berlari bersama selamanya!"
         },
         {
-            "text": "Sepertinya kau akhirnya berhasil mengubah \nsemua ekspektasi itu jadi kekuatanmu, McQueen.",
-            "name": "Oguri Cap"
+            "name": "Oguri Cap",
+            "text": "Sepertinya kau akhirnya berhasil mengubah \nsemua harapan itu jadi kekuatanmu, McQueen."
         },
         {
-            "text": "Sudah cukup, aku sudah bilang semua yang perlu kukatakan… \njadi tolong turunkan aku sekarang…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Sudah cukup, aku sudah bilang semua yang perlu kukatakan… \njadi tolong turunkan aku sekarang…"
         },
         {
-            "text": "Hari itu, kantor Trainer dipenuhi dengan suara tawa dan tangis sampai larut malam."
+            "text": "Hari itu, kantor Trainer dipenuhi\ndengan suara tawa dan tangis sampai larut malam."
         },
         {
             "text": "Satu bulan kemudian…"
         },
         {
-            "text": "Haaah～…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Haaah～…"
         },
         {
-            "text": "Ugh… aku gugup banget…",
-            "name": "Umamusume dengan poni lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Ugh… aku gugup banget…"
         },
         {
-            "text": "Kenapa aku juga ikut gugup sih?",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Kenapa aku juga ikut gugup sih?"
         },
         {
-            "text": "Itu tandanya kita akan meraih mimpi ini bersama-sama.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Itu tandanya kita akan meraih mimpi ini bersama-sama."
         },
         {
-            "text": "Dan… itulah yang mendorongku untuk terus maju.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Dan… itulah yang mendorongku untuk terus maju."
         },
         {
-            "text": "Kau pasti bisa, McQueen! \nMenanglah dan raih gelar Grand Prix Umamusume!",
             "name": "Gold Ship",
+            "text": "Kau pasti bisa, McQueen! \nMenanglah dan raih gelar Grand Prix Umamusume!",
             "choice_data_list": [
                 "Aku percaya padamu, McQueen."
             ]
         },
         {
-            "text": "Terima kasih semuanya. Aku akan berangkat sekarang!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih semuanya. Aku akan berangkat sekarang!"
         },
         {
-            "text": "Arima Kinen tahun lalu adalah tempat di mana Oguri Cap mencetak keajaiban terakhirnya, \ndan juga tempat di mana kami memulai kembali."
+            "text": "Arima Kinen tahun lalu adalah tempat di mana Oguri Cap mencetak\nkeajaiban terakhirnya, dan juga tempat di mana kami memulai kembali."
         },
         {
-            "text": "Arima Kinen tahun lalu adalah tempat di mana \nOguri Cap mencetak keajaiban terakhirnya, \ndan juga tempat di mana kami memulai kembali."
+            "text": "Arima Kinen tahun lalu adalah tempat di mana Oguri Cap mencetak\nkeajaiban terakhirnya, dan juga tempat di mana kami memulai kembali."
         },
         {
-            "text": "Balapan besar terakhir tahun ini, Grand Prix Arima Kinen, akan segera dimulai!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Balapan besar terakhir tahun ini,\nGrand Prix Arima Kinen, akan segera dimulai!"
         }
     ]
 }

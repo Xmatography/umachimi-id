@@ -1,457 +1,435 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "『Tidak ada orang lain selain aku』, katamu……\ntapi, kenapa kamu mikir gitu tentang aku……?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "『Hanya aku seorang』, katamu……\ntapi, kenapa kalian bisa berpikir begitu tentangku……?"
         },
         {
-            "text": "『Tidak ada orang lain selain aku』, katamu……\ntapi, kenapa kamu mikir gitu tentang aku……?",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "『Hanya aku seorang』, katamu……\ntapi, kenapa kalian bisa berpikir begitu tentangku……?"
         },
         {
-            "text": "……Sebenarnya, kami udah tahu tentang kamu sebelum kita masuk sini.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Bahwa kamu bakal mengikuti jejak ayahmu yang 『Terkenal』\ndengan jadi Trainer Team <Ascella>.",
             "name": "Cesario",
+            "text": "Sebenarnya, kami sudah tahu \ntentang Anda sebelum bergabung ke tim ini."
+        },
+        {
+            "name": "Cesario",
+            "text": "Bahwa Anda akan mengikuti jejak ayah Anda, sang Trainer 『Terkenal』,\ndan mengambil alih Tim <Ascella>.",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "text": "(Sejujurnya――aku nggak kaget mereka tahu. \nSoalnya dulu kan cukup jadi berita besar juga.)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Jujur saja――aku tidak kaget kalau mereka tahu.\nSoalnya hal itu sempat menjadi berita besar dulu.）"
         },
         {
-            "text": "Ayahku, yang punya insting tajam soal Umamusume \ndan bisa melatih mereka dengan jago, jadi 『Terkenal』 \nkarena berhasil bikin banyak Umamusume kuat.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Ayahku, yang punya insting tajam dan kemampuan melatih yang\nluar biasa, dijuluki sebagai Trainer 『Terkenal』 karena berhasil\nmencetak banyak Uma Musume tangguh."
         },
         {
-            "text": "Dia jadi Trainer top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya…\naku yang bakal ambil alih timnya, <Ascella>.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Dia menjadi Trainer top di usianya yang masih muda.\nSekarang dia telah pensiun, dan ke depannya… akulah\nyang akan mengambil alih tim miliknya, <Ascella>."
         },
         {
-            "text": "Dia jadi Trainer top di usia muda. \nSekarang dia memutuskan pensiun, dan ke depannya……\naku yang bakal ambil alih timnya, <Ascella>.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Dia menjadi Trainer top di usianya yang masih muda.\nSekarang dia telah pensiun, dan ke depannya… akulah\nyang akan mengambil alih tim miliknya, <Ascella>."
         },
         {
-            "text": "Tentu saja ini menarik perhatian banyak orang. \nSetelah itu, aku kontrak sama King Halo, \nwhose ibunya juga terkenal. \nJadi kita dapet julukan 『Second Generation Duo』.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Hal itu jelas menarik banyak perhatian. Setelahnya,\ndengan King Halo yang terlahir dari Uma Musume ternama,\nkami pun membentuk kontrak dan disorot sebagai 'Duo Generasi Kedua'."
         },
         {
-            "text": "Selamat ya, menang tanpa kalah di balapan besar pertama! \nSetelah ini, rencanamu ikut Classic Triple Crown nggak!?",
-            "name": "Reporter A"
+            "name": "Reporter A",
+            "text": "Selamat atas kemenangan beruntun di balapan besar perdana Anda!\nSelanjutnya, apa Anda mengincar gelar Triple Crown Klasik!?"
         },
         {
-            "text": "Ya, tentu! 『Satsuki Sho』『Japan Derby』 dan 『Kikka Sho』, \naku pasti menang di semua balapan Triple Crown――",
-            "name": "King Halo"
-        },
-        {
-            "text": "Aku pasti tunjukin hasil yang pantas disebut kelas satu. \nTunggu aja ya!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Untuk Triple Crown tahun depan, Special Week, yang dipimpin\nTrainer 『Genius』 baru, juga udah umumkan ikut!",
-            "name": "Reporter B"
-        },
-        {
-            "text": "Banyak orang bilang Team <Ascella> sama tim 『Genius』 \njadi rival, kamu yakin bisa menang!?",
-            "name": "Reporter B"
-        },
-        {
-            "text": "Ini bukan pertarungan antar Trainer, tapi antar Umamusume. \nTolong diingat itu ya――",
-            "name": "<username>"
-        },
-        {
-            "text": "Tentu aku yakin…… itu karena aku percaya sama King Halo, \nUmamusume kelas satu.",
-            "name": "<username>"
-        },
-        {
-            "text": "Wah……! Kita tunggu kesuksesan 『Second Generation Duo』 \nlanjut, mengikuti jejak orang tua mereka yang terkenal.",
-            "name": "Reporter B"
-        },
-        {
-            "text": "Tapi……",
-            "name": "<username>"
-        },
-        {
-            "text": "……akhirnya 『Japan Derby』 ya……?",
             "name": "King Halo",
+            "text": "Tentu saja! 『Satsuki Sho』, 『Japan Derby』, dan 『Kikka Sho』,\naku pasti akan memenangkan semua balapan Triple Crown itu――"
+        },
+        {
+            "name": "King Halo",
+            "text": "Aku pasti akan menunjukkan hasil yang pantas disebut kelas satu.\nTunggu saja tanggal mainnya!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Untuk Triple Crown di tahun yang sama, Special Week yang dipimpin\noleh Trainer 『Jenius』 pendatang baru juga sudah mengumumkan ikut!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Banyak yang bilang ini akan jadi duel antara Tim <Ascella>\ndan Tim 『Jenius』, apa Anda yakin bisa menang!?"
+        },
+        {
+            "name": "<username>",
+            "text": "Ini bukanlah pertarungan antar Trainer, melainkan antar Uma \nMusume. Tolong diingat baik-baik――"
+        },
+        {
+            "name": "<username>",
+            "text": "Tentu saja aku yakin…… karena aku percaya pada King Halo,\nseorang Uma Musume kelas satu."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Luar biasa……! Kami sangat menantikan kesuksesan 『Duo \nGenerasi Kedua』 yang mengikuti jejak orang tua kalian yang hebat!"
+        },
+        {
+            "name": "<username>",
+            "text": "Namun……"
+        },
+        {
+            "name": "King Halo",
+            "text": "……Akhirnya 『Japan Derby』, ya……?",
             "choice_data_list": [
-                "Y-ya……",
-                "Y-ya……"
+                "I-Iya……",
+                "I-Iya……"
             ]
         },
         {
-            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri tapi…!)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Gawat…… King kelihatan gelisah……\nAku ingin memberinya saran agar dia lebih percaya diri, tapi……!）"
         },
         {
-            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri tapi…!)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Gawat…… King kelihatan gelisah……\nAku ingin memberinya saran agar dia lebih percaya diri, tapi……!）"
         },
         {
-            "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Jujur saja…… aku tidak tahu harus bilang apa!\nDi Satsuki Sho, kita kalah dari Seiun Sky yang kabur di depan,\njadi aku ingin menyuruhnya waspada ke depan, tapi――）"
         },
         {
-            "text": "(Nggak bagus……King kelihatan nggak tenang……\nAku pengen ngasih saran biar dia lebih percaya diri……tapi……!)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Jujur saja…… aku tidak tahu harus bilang apa!\nDi Satsuki Sho, kita kalah dari Seiun Sky yang kabur di depan,\njadi aku ingin menyuruhnya waspada ke depan, tapi――）"
         },
         {
-            "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Ada juga Special Week yang mengancam dari belakang!\nKalau dia terlalu fokus ke depan, staminanya bisa habis di akhir……!）"
         },
         {
-            "text": "(Jujur……aku nggak tahu mau ngomong apa! \nDi Satsuki, Seiun Sky bikin kita kewalahan, jadi aku pengen \ndia hati-hati di depan tapi――)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Terus aku harus bagaimana? Harus bilang apa?\nPosisi apa yang harus dia ambil, siapa yang harus dia jaga,\nbagaimana dia harus berlari!?）"
         },
         {
-            "text": "(Ada juga Special Week dari belakang! \nKalau dia terlalu fokus di depan, bakal capek sebelum akhir…!)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Terus aku harus bagaimana? Harus bilang apa?\nPosisi apa yang harus dia ambil, siapa yang harus dia jaga,\nbagaimana dia harus berlari!?）"
         },
         {
-            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya!?)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Sial, sial, sial! Kenapa aku tidak bisa memikirkan apa pun!?\nPadahal aku ini……!）"
         },
         {
-            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya!?)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "（Sial, sial, sial! Kenapa aku tidak bisa memikirkan apa pun!?\nPadahal aku ini……!）"
         },
         {
-            "text": "(Sial, sial, sial! Kok nggak kepikiran apa-apa!? \nPadahal aku……!)",
-            "name": "<username>"
+            "name": "King Halo",
+            "text": "T-Tunggu…… kamu kenapa?\nJangan pasang wajah seperti itu tepat sebelum…… Hei――!"
         },
         {
-            "text": "(Terus aku harus ngapain? Bilang apa? \nPosisi dia di mana, siapa yang dia tandai, gimana cara larinya……!?)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Sial, sial, sial! Kok nggak kepikiran apa-apa!? \nPadahal aku……!)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Sial, sial, sial! Kok nggak kepikiran apa-apa!? \nPadahal aku……!)",
-            "name": "<username>"
-        },
-        {
-            "text": "W-tunggu……ada apa? \nJangan mukanya kayak gitu pas sebelum……Hei――!",
-            "name": "King Halo"
-        },
-        {
-            "text": "――Permisi. \nKing Halo-san, waktunya. Silahkan ke paddock.",
             "name": "Petugas Lomba",
+            "text": "――Permisi. King Halo-san, \nwaktunya tiba. Silakan menuju ke paddock.",
             "choice_data_list": [
                 "!!"
             ]
         },
         {
-            "text": "Ah…… \n……aku harus pergi……",
-            "name": "King Halo"
-        },
-        {
-            "text": "(Waktu habis……! Aku nggak sempat bilang apa-apa……!!)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Waktu habis……! Aku nggak sempat bilang apa-apa……!!)",
-            "name": "<username>"
-        },
-        {
-            "text": "Sekarang, 『Japan Derby』 akhirnya――dimulai!! \n18 Umamusume berlari untuk impian mereka, untuk mahkota itu!",
-            "name": "Penyiar"
-        },
-        {
-            "text": "(Aku harus menang, aku harus menang……! \nAku harus menang, aku…… ……!?)",
-            "name": "King Halo"
-        },
-        {
-            "text": "Aaaaaaaaah!!",
             "name": "King Halo",
-            "choice_data_list": [
-                "King!? Di depan……!?"
-            ]
+            "text": "Ah……\n……aku harus pergi……"
         },
         {
-            "text": "(Ah……eh……? Di depan? \nAku kok ada di sini……?)",
-            "name": "King Halo"
-        },
-        {
-            "text": "(Nggak mungkin……otakku……blank begitu aja……!?)",
-            "name": "King Halo"
-        },
-        {
-            "text": "……!! \nHaaa, haaa, haaa, haaa――!!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Ini Special Week! Ini Special Week! \nDia meninggalkan semua, Special Week melewati garis finish!!",
-            "name": "Penyiar"
-        },
-        {
-            "text": "Prestise 『Japan Derby』! \nDi 『Japan Derby』 ini, Special Week jadi juara!!",
-            "name": "Penyiar"
-        },
-        {
-            "text": "Dia favorit kedua, tapi King Halo kalah dan cuma di posisi 14! \nPertama kalinya dia lari sebagai escape sejak debut, \ntapi hasilnya kurang beruntung!",
-            "name": "Penyiar"
-        },
-        {
-            "text": "Haa……Haaaa……～～～!!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Hei, hei, hei! Apa yang terjadi sama 『Second Generation Duo』!? \nMereka baru aja hancur sama tim Trainer 『Genius』 itu!",
-            "name": "Penonton A"
-        },
-        {
-            "text": "Terus……kenapa dia lari sebagai escape? Panik? \nAtau perintah Trainer? Yang jelas, nggak bagus.",
-            "name": "Penonton B"
-        },
-        {
-            "text": "Akhirnya, second gen cuma second rate, ya.",
-            "name": "Penonton A"
-        },
-        {
-            "text": "(Setelah itu, kita kalah lagi di dua balapan besar, \ntermasuk 『Kikka Sho』. Tahun klasiknya berakhir \ntanpa memenuhi ekspektasi――)",
-            "name": "<username>"
-        },
-        {
-            "text": "(Setelah itu, kita kalah lagi di dua balapan besar, \ntermasuk 『Kikka Sho』. Tahun klasiknya berakhir \ntanpa memenuhi ekspektasi――)",
-            "name": "<username>"
-        },
-        {
-            "text": "……Kayaknya nggak ada artikel tentang Team <Ascella> hari ini juga. \nYa udah, paling juga artikel terbaru cuma nyinyir sama kita.",
-            "name": "King Halo"
-        },
-        {
-            "text": "Mungkin ini berarti dunia akhirnya nggak peduli lagi sama\nUnreliable Second Gen Duo……",
-            "name": "King Halo"
-        },
-        {
-            "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
             "name": "<username>",
-            "choice_data_list": [
-                "(……Tapi――!)"
-            ]
+            "text": "（Waktunya habis……! Aku tidak\nsempat mengatakan apa pun……!!）"
         },
         {
-            "text": "(Aku payah. Aku pengen ilang aja. Gara-gara aku nggak becus, \ntahun klasik sekali seumur hidup King……)",
             "name": "<username>",
+            "text": "（Waktunya habis……! Aku tidak\nsempat mengatakan apa pun……!!）"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Inilah 『Japan Derby』, dan――start telah dimulai!! \n18 Uma Musume melesat bersamaan demi meraih takhta impiannya!"
+        },
+        {
+            "name": "King Halo",
+            "text": "（Aku harus menang, aku harus menang……!\nAku harus menang, aku…… ……!?）"
+        },
+        {
+            "name": "King Halo",
+            "text": "Aaaaaaaaahh!!",
             "choice_data_list": [
-                "(……Tapi――!)"
+                "King!? Melaju di depan……!?"
             ]
         },
         {
-            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku Trainer King Halo!)",
+            "name": "King Halo",
+            "text": "（Ah…… eh……? Di depan?\nKenapa aku ada di sini……?）"
+        },
+        {
+            "name": "King Halo",
+            "text": "（Tidak mungkin…… otakku…… \nmendadak blank begini……!?）"
+        },
+        {
+            "name": "King Halo",
+            "text": "……!!\nHaaa, haaa, haaa, haaa――!!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Itu dia Special Week! Special Week!\nDia tinggalkan yang lainnya, Special Week telah Goal-In!!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Inilah takhta 『Japan Derby』! Special Week\nsukses merebut kemenangan di 『Japan Derby』!!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Walau favorit kedua, King Halo justru finis di posisi ke-14! \nPertama kalinya dia lari di depan sejak debut, tapi \nsayang hasilnya berakhir buruk!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Haa…… Haaaa……～～～!!"
+        },
+        {
+            "name": "Penonton A",
+            "text": "Hei, hei, hei! Ada apa dengan 『Duo Generasi Kedua』 itu!?\nMereka hancur lebur oleh tim Trainer 『Jenius』!"
+        },
+        {
+            "name": "Penonton B",
+            "text": "Terus…… kenapa dia malah lari memimpin? Apa dia panik?\nAtau itu instruksi Trainer-nya? Yang jelas, itu buruk sekali."
+        },
+        {
+            "name": "Penonton A",
+            "text": "Pada akhirnya, generasi kedua cuma sebatas kelas dua, ya."
+        },
+        {
             "name": "<username>",
-            "choice_data_list": [
-                "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
-            ]
+            "text": "（Setelah itu, kami kalah telak di dua balapan besar beruntun,\ntermasuk 『Kikka Sho』. Masa Klasiknya King berakhir\ntanpa bisa memenuhi ekspektasi publik――）"
         },
         {
-            "text": "(Jangan cuma minta maaf. Jangan nyerah. ……Jangan lari! \nAku Trainer King Halo!)",
             "name": "<username>",
-            "choice_data_list": [
-                "<size=42>(Artinya, masih ada yang bisa dilakukan!)</size>"
-            ]
+            "text": "（Setelah itu, kami kalah telak di dua balapan besar beruntun,\ntermasuk 『Kikka Sho』. Masa Klasiknya King berakhir\ntanpa bisa memenuhi ekspektasi publik――）"
         },
         {
-            "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
-            "name": "<username>"
+            "name": "King Halo",
+            "text": "Hari ini juga sepertinya tidak ada artikel tentang Tim <Ascella>.\nYa sudahlah, toh paling isinya cuma artikel yang menyindir kita."
         },
         {
-            "text": "King. ……balapan berikutnya 『Yasuda Kinen』 gimana? \nAku mau pake senjatamu yang paling ampuh, kecepatamu.",
-            "name": "<username>"
+            "name": "King Halo",
+            "text": "Mungkin ini artinya dunia memang sudah tidak peduli lagi\npada 'Duo Generasi Kedua yang Mengecewakan' ini……"
         },
         {
-            "text": "Aku tau sakitnya. Pasti rasanya nggak enak banget. \n……Tapi kamu, tetap kan, bukan Umamusume yang gampang nyerah?",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku sedang terluka. Jujur, rasanya berat. …Tapi kamu bukan\nUmamusume yang akan menyerah begitu saja, kan?",
-            "name": "<username>"
-        },
-        {
-            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai kamu angkat kepala sebagai 『First Rate Umamusume』!",
-            "name": "<username>"
-        },
-        {
-            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai kamu angkat kepala sebagai 『First Rate Umamusume』!",
-            "name": "<username>"
-        },
-        {
-            "text": "Walaupun ada yang nyinyir, bilang mustahil. Jangan pernah, \nsampai hari kamu bisa angkat kepala sebagai 『First Rate Umamusume』!",
-            "name": "<username>"
-        },
-        {
-            "text": "……～～～, jelas kan!? \nAku benci kalau harus nyerah, kalau ini udah berakhir!!",
-            "name": "<username>"
-        },
-        {
-            "text": "……～～～, jelas kan!? \nAku benci kalau harus nyerah, kalau ini udah berakhir!!",
-            "name": "<username>"
-        },
-        {
-            "text": "Jadi siap-siap, Trainer! Kita meeting soal balapan berikutnya! \nCuma buat kamu aku bakal kasih privilege dukung jalannya\nKing yang baru!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Sejak itu, kita terus jalan. \nBiarpun ditertawain orang, kita tetep maju.",
-            "name": "<username>"
-        },
-        {
-            "text": "『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 \n『Mile CS』『Sprinter's S』『February S』……",
-            "name": "<username>"
-        },
-        {
-            "text": "Kita kalah, coba lagi, kalah lagi. \nBertahan sebisa mungkin. Di panggung terbesar. Balapan G1. \nSemua demi menang di sana.",
             "name": "<username>",
+            "text": "（Aku sungguh menyedihkan. Rasanya aku ingin menghilang saja.\nGara-gara ketidakbecusanku, masa Classic King yang hanya sekali\nseumur hidup ini……）",
             "choice_data_list": [
-                "Terus……akhirnya――"
+                "（……Tapi――!）"
             ]
         },
         {
-            "text": "Dia terbang dari sisi luar, King Halo! \nKing Halo! King Halo melewati semua!!",
-            "name": "Penyiar"
+            "name": "<username>",
+            "text": "（Aku sungguh menyedihkan. Rasanya aku ingin menghilang saja.\nGara-gara ketidakbecusanku, masa Classic King yang hanya sekali\nseumur hidup ini……）",
+            "choice_data_list": [
+                "（……Tapi――!）"
+            ]
         },
         {
-            "text": "Juara pertama King Halo! Setelah 10 kekalahan, \ndi 『Takamatsunomiya Kinen』King Halo dapet kemenangan\nG1 pertama!!",
-            "name": "Penyiar"
+            "name": "<username>",
+            "text": "（Jangan cuma minta maaf. Jangan menyerah. ……Jangan lari!\nAku ini adalah Trainer-nya King Halo!）",
+            "choice_data_list": [
+                "<size=42>（Artinya, masih ada hal yang bisa kulakukan!）</size>",
+                "<size=42>（Artinya, masih ada hal yang bisa kulakukan!）</size>"
+            ]
         },
         {
-            "text": "Uu……Uwaaaaaaaaaaah!!",
-            "name": "King Halo"
+            "name": "<username>",
+            "text": "（Jangan cuma minta maaf. Jangan menyerah. ……Jangan lari!\nAku ini adalah Trainer-nya King Halo!）",
+            "choice_data_list": [
+                "<size=42>（Artinya, masih ada hal yang bisa kulakukan!）</size>",
+                "<size=42>（Artinya, masih ada hal yang bisa kulakukan!）</size>"
+            ]
         },
         {
-            "text": "(King Halo teriak. Kecerahan itu bukti \nbahwa dia Umamusume kelas satu. \nNggak ada yang bisa meragukan sekarang!)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "King. ……Bagaimana kalau balapan kita berikutnya di 『Yasuda Kinen』?\nAku ingin mengandalkan senjata terkuatmu, yaitu kecepatanmu."
         },
         {
-            "text": "――makasih banyak buat semua ucapan selamat. \nJujur, jalan ini nggak gampang tapi……",
-            "name": "King Halo"
+            "name": "<username>",
+            "text": "King. ……Bagaimana kalau balapan kita berikutnya di 『Yasuda Kinen』?\nAku ingin mengandalkan senjata terkuatmu, yaitu kecepatanmu."
         },
         {
-            "text": "Bisa terus lari, nggak nyerah……! \nBikin aku……bahagia banget……!",
-            "name": "King Halo"
+            "name": "King Halo",
+            "text": "Selanjutnya, ya…… Kau ini――"
         },
         {
-            "text": "(Abis itu……pas nonton broadcast, King dan aku\nberantem 『Nggak, kamu yang lebih nangis』)",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Aku memang sedang terluka. Jujur saja, ini sangat berat. ……Tapi kau\nbukanlah tipe Uma Musume yang akan menyerah begitu saja, kan?"
         },
         {
-            "text": "――……itu keren banget, bikin aku terharu. \nPas press conference itu, kalian berdua……kelihatan kuat banget.",
+            "name": "<username>",
+            "text": "Aku memang sedang terluka. Jujur saja, ini sangat berat. ……Tapi kau\nbukanlah tipe Uma Musume yang akan menyerah begitu saja, kan?"
+        },
+        {
+            "name": "<username>",
+            "text": "Meskipun ada yang menyindir dan bilang ini mustahil, \njangan pernah menyerah! ……Sampai kau bisa angkat \nkepala sebagai 『Uma Musume Kelas Satu』!"
+        },
+        {
+            "name": "<username>",
+            "text": "Meskipun ada yang menyindir dan bilang ini mustahil, \njangan pernah menyerah! ……Sampai kau bisa angkat \nkepala sebagai 『Uma Musume Kelas Satu』!"
+        },
+        {
+            "name": "King Halo",
+            "text": "……～～～, sudah jelas, kan!? Aku paling benci kalau\nharus menyerah dan membiarkan semuanya berakhir di sini!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Maka bersiaplah, Trainer! Kita mulai rapat untuk balapan berikutnya!\nHanya padamu aku berikan hak istimewa untuk mendukung jalan\nbagi sang King yang baru!"
+        },
+        {
+            "name": "<username>",
+            "text": "Sejak saat itu, kami terus berlari.\nMeski ditertawakan banyak orang, kami tetap melangkah maju."
+        },
+        {
+            "name": "<username>",
+            "text": "『Yasuda Kinen』, 『Takarazuka Kinen』, 『Tenno Sho (Autumn)』,\n『Mile CS』, 『Sprinters S』, 『February S』……"
+        },
+        {
+            "name": "<username>",
+            "text": "Kami kalah, bangkit lagi, dan kalah lagi.\nBertahan sekuat tenaga. Di panggung terbesar. Di balapan G1.\nSemua demi meraih kemenangan di sana.",
+            "choice_data_list": [
+                "Lalu…… akhirnya――"
+            ]
+        },
+        {
+            "name": "Penyiar",
+            "text": "Dia melesat dari sisi luar, King Halo!\nKing Halo! King Halo melewati semuanya!!"
+        },
+        {
+            "name": "Penyiar",
+            "text": "Juara pertama, King Halo! Setelah 10 kali kekalahan di ajang G1,\nKing Halo akhirnya meraih kemenangan G1 perdananya di 『Takamatsunomiya Kinen』!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Uu…… Uwaaaaaaaaaaahh!!"
+        },
+        {
+            "name": "<username>",
+            "text": "（King Halo menangis sejadinya. Kilau air matanya adalah bukti\nbahwa dia adalah seorang Uma Musume kelas satu.\nKini tidak ada lagi yang bisa meragukannya!）"
+        },
+        {
+            "name": "King Halo",
+            "text": "――Terima kasih banyak atas semua ucapan selamatnya.\nJujur saja, jalan yang kami tempuh sama sekali tidak mudah, tapi……"
+        },
+        {
+            "name": "King Halo",
+            "text": "Bisa terus berlari tanpa menyerah……!\nMembuatku merasa…… sangat bahagia……!"
+        },
+        {
+            "name": "<username>",
+            "text": "（Setelah itu…… saat menonton tayangan ulangnya, King dan aku\nmalah berdebat soal 『Tidak, kau yang menangis lebih parah』）"
+        },
+        {
             "name": "Cesario",
+            "text": "――……Itu adalah momen yang sangat indah, membuat \nhatiku tergetar. Saat konferensi pers itu, kalian berdua……\nterlihat sangat tegar dan kuat.",
             "choice_data_list": [
                 "……Eh?"
             ]
         },
         {
-            "text": "Fufuu. …Sebenarnya, kita berdua nonton press conference itu\ndi billboard jalanan! Dan kebetulan berdampingan!",
             "name": "Rhein Kraft",
+            "text": "Fufufu. ……Sebenarnya, kami berdua ikut menonton konferensi pers itu\ndari layar besar di jalanan! Dan kebetulan kami berdiri bersebelahan!",
             "choice_data_list": [
-                "K-kamu!?",
-                "K-kamu!?"
+                "K-Kalian!?",
+                "K-Kalian!?"
             ]
         },
         {
-            "text": "Di situ, aku dan Cesario udah sepakat. Suatu hari, \nkita pasti bakal join tim King-san dan Trainer-san.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Jangan pernah nyerah sama mimpi sampai akhir. \nBiar sakit, frustrasi, terus lari sampai menggenggam mimpi itu.",
-            "name": "Rhein Kraft"
-        },
-        {
-            "text": "Biar tetap bareng di perjalanan itu. Bareng-bareng \nbuka jalan. Liat kalian berdua……aku kagum banget.",
-            "name": "Cesario"
-        },
-        {
-            "text": "……makanya Kraft dan aku pilih Team <Ascella>. \nNggak ada tim lain yang lebih cocok yang kita percaya.",
-            "name": "Cesario"
-        },
-        {
-            "text": "Kalau Trainer-san bareng kita, kita bisa terus jalan, \ntidak nyerah. Sampai kita genggam mimpi, \nseberapa pun sakitnya, kita bisa terus lari……!",
             "name": "Rhein Kraft",
+            "text": "Saat itulah aku dan Cesario sepakat. Bahwa suatu hari nanti,\nkami berdua pasti akan bergabung dengan tim King-san dan Trainer-san."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Untuk tidak pernah menyerah pada mimpi hingga akhir.\nWalau harus merasakan sakit dan frustrasi, terus berlari \nsampai impian itu tergenggam."
+        },
+        {
+            "name": "Cesario",
+            "text": "Untuk tetap bersama di sepanjang perjalanan itu. Membuka jalan\nbersama-sama. Melihat kalian berdua…… aku merasa sangat kagum."
+        },
+        {
+            "name": "Cesario",
+            "text": "……Itulah mengapa aku dan Kraft memilih Tim <Ascella>.\nKarena tidak ada tim lain yang lebih pantas untuk kami percayai."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Jika bersama Trainer-san, kami yakin bisa terus melangkah\ntanpa menyerah. Sampai kami bisa meraih mimpi kami,\nsekeras apa pun jalannya, kami pasti bisa terus berlari……!",
             "choice_data_list": [
                 "Kraft…… Cesario……"
             ]
         },
         {
-            "text": "……ya ampun, aku mikir apa sih kalian ngomong. \nDan kamu, harus lebih bangga sama diri sendiri juga.",
             "name": "King Halo",
+            "text": "……Ya ampun, apa sih yang sedang kalian bicarakan.\nDan kau, sebaiknya kau juga mulai lebih bangga pada dirimu sendiri.",
             "choice_data_list": [
                 "King――"
             ]
         },
         {
-            "text": "……walaupun kita disingkirin dari jalur yang \ndiharapkan, yang udah kita siapin!",
-            "name": "King Halo"
-        },
-        {
-            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan Trainer terkenal.",
-            "name": "King Halo"
-        },
-        {
-            "text": "Walaupun kita nggak bisa kasih hasil seperti anak \nUmamusume terkenal dan Trainer terkenal.",
-            "name": "King Halo"
-        },
-        {
-            "text": "Tapi kita bisa ngelakuin sesuatu yang cuma kita bisa lakukan, \nmendapat hasil kelas satu. Siapa lagi kalo bukan karena ini?",
-            "name": "King Halo"
-        },
-        {
-            "text": "Tapi kita bisa ngelakuin sesuatu yang cuma kita bisa lakukan, \nmendapat hasil kelas satu. Siapa lagi kalo bukan karena ini?",
-            "name": "King Halo"
-        },
-        {
-            "text": "Alasan aku bisa angkat kepala dan terus lari…… \nsiapa yang nemenin dan bikin itu mungkin?",
             "name": "King Halo",
+            "text": "……Walaupun kita sudah terlempar dari jalur impian\nyang selama ini diharapkan oleh semua orang!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Walaupun kita tidak bisa memberikan hasil instan seperti layaknya\nanak dari Uma Musume dan Trainer terkenal."
+        },
+        {
+            "name": "King Halo",
+            "text": "Walaupun kita tidak bisa memberikan hasil instan seperti layaknya\nanak dari Uma Musume dan Trainer terkenal."
+        },
+        {
+            "name": "King Halo",
+            "text": "Tapi kita berhasil membuktikan hasil kelas satu,\nlewat jalan yang hanya bisa kita lalui. Siapa lagi yang bisa melakukannya kalau bukan kita?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Alasan aku bisa kembali mengangkat kepalaku dan terus berlari……\nsiapa yang selalu mendampingiku dan mewujudkan semua itu?",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "text": "――Aku payah. Aku kasih senyum pahit ke King Halo, \ndan balik ke Rhein Kraft dan Cesario.",
-            "name": "King Halo "
-        },
-        {
-            "text": "Kraft, Cesario. \n……Makasih banget udah pilih Team <Ascella>.",
-            "name": "<username>"
-        },
-        {
-            "text": "Aku nggak sehebat ayahku. \nAku mungkin cuma turunin keras kepala dia. Tapi tetep―",
             "name": "<username>",
+            "text": "――Benar juga. Aku tersenyum masam pada King Halo,\nlalu kembali menoleh ke arah Rhein Kraft dan Cesario."
+        },
+        {
+            "name": "<username>",
+            "text": "Kraft, Cesario.\n……Terima kasih banyak sudah memilih Tim <Ascella>."
+        },
+        {
+            "name": "<username>",
+            "text": "Aku memang tidak sehebat ayahku.\nMungkin aku hanya mewarisi sifat keras kepalanya saja. Tapi tetap saja――",
             "choice_data_list": [
-                "Aku bakal dukung sampai akhir",
-                "Aku bakal dukung sampai akhir"
+                "Aku akan mendukung kalian sampai akhir",
+                "Aku akan mendukung kalian sampai akhir"
             ]
         },
         {
-            "text": "Aku nggak sehebat ayahku. \nAku mungkin cuma turunin keras kepala dia. Tapi tetep―",
             "name": "<username>",
+            "text": "Aku memang tidak sehebat ayahku.\nMungkin aku hanya mewarisi sifat\nkeras kepalanya saja. Tapi tetap saja――",
             "choice_data_list": [
-                "Aku bakal dukung sampai akhir",
-                "Aku bakal dukung sampai akhir"
+                "Aku akan mendukung kalian sampai akhir",
+                "Aku akan mendukung kalian sampai akhir"
             ]
         },
         {
-            "text": "Trainer-san……!!",
-            "name": "Rhein Kraft"
+            "name": "Rhein Kraft",
+            "text": "Trainer-san……!!"
         },
         {
-            "text": "Makasih banyak. \n……Sekali lagi, aku menunggu kerjasamanya!",
-            "name": "Cesario"
-        },
-        {   
-            "text": "Trainer-san……!!",
-            "name": "Rhein Kraft"
+            "name": "Cesario",
+            "text": "Terima kasih banyak.\n……Sekali lagi, mohon bimbingan Anda ke depannya!"
         },
         {
-            "text": "Makasih banyak. \n……Sekali lagi, aku menunggu kerjasamanya!",
-            "name": "Cesario"
+            "name": "Rhein Kraft",
+            "text": "Trainer-san……!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Terima kasih banyak.\n……Sekali lagi, mohon bimbingan Anda ke depannya!"
         }
     ]
 }

@@ -19,18 +19,18 @@
             ]
         },
         {
-            "text": "『Seorang gadis dengan kemampuan yang luar biasa』Bahkan \nseorang Trainer pemula seperti saya pun pernah mendengar nama \nAgnes Tachyon, yang kini berdiri di hadapanku……"
+            "text": "『Seorang gadis dengan kemampuan yang luar biasa』Bahkan \nseorang Trainer pemula seperti aku pun pernah mendengar \nnama Agnes Tachyon, yang kini berdiri di hadapanku……"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Sepertinya kamu sedikit bingung. Anda baru saja sadar \nkembali, jadi sebaiknya jangan terlalu memaksakan diri."
+            "text": "Sepertinya kamu sedikit bingung. Kamu baru saja sadar \nkembali, jadi sebaiknya jangan terlalu memaksakan diri."
         },
         {
             "name": "Agnes Tachyon",
             "text": "Duduklah di kursi ini. Kamu sebaiknya bersantai."
         },
         {
-            "text": "Saya duduk di kursi seperti yang dia katakan."
+            "text": "Aku duduk di kursi seperti yang dia katakan."
         },
         {
             "name": "Agnes Tachyon",
@@ -38,13 +38,13 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ngomong-ngomong, akulah yang membawamu ke sini saat kamu \ntidak sadar. Jadi pertanyaannya adalah『bagaimana』dan\n『mengapa』kamu pingsan.",
+            "text": "Ngomong-ngomong, akulah yang membawamu ke sini \nsaat kamu tidak sadar. Jadi pertanyaannya adalah\n『bagaimana』dan『mengapa』kamu pingsan.",
             "choice_data_list": [
                 "Ehh……"
             ]
         },
         {
-            "text": "Saya berhasil memahami hal ini meskipun kepalaku terasa \nberdenyut-denyut. Kalau tidak salah, saya sedang berjalan \ndi lorong ketika……"
+            "text": "Aku berhasil memahami hal ini meskipun kepalaku terasa \nberdenyut-denyut. Kalau tidak salah, aku sedang berjalan \ndi lorong ketika……"
         },
         {
             "name": "Sakura Bakushin O",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Baiklah, tenang dan damai. Saya akan pergi sekarang."
+            "text": "Baiklah, tenang dan damai. Aku akan pergi sekarang."
         },
         {
             "name": "Sakura Bakushin O",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ya, ruang kelasnya masih berdiri！ TAPI！！ Apakah kamu mengerti \nbetapa dekatnya kita dengan bencana！?"
+            "text": "Ya, ruang kelasnya masih berdiri！ TAPI！！ Apakah kamu \nmengerti betapa dekatnya kita dengan bencana！?"
         },
         {
             "name": "Agnes Tachyon",
@@ -80,11 +80,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Kamu hanya mengisi seluruh kelas dengan asap, jadi \nkurasa Aku harus membiarkanmu kali ini?"
+            "text": "Kamu hanya mengisi seluruh kelas dengan asap, jadi \nkurasa aku harus membiarkanmu kali ini?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Kedermawanan adalah suatu kebajikan, Wali Kelas.\nJika itu saja, saya benar-benar akan pergi sekarang——"
+            "text": "Kedermawanan adalah suatu kebajikan, Wali Kelas.\nJika itu saja, aku benar-benar akan pergi sekarang——"
         },
         {
             "name": "Sakura Bakushin O",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ahahaha！ Saya tahu itu tidak akan berhasil！！"
+            "text": "Ahahaha！ Aku tahu itu tidak akan berhasil！！"
         },
         {
             "name": "Sakura Bakushin O",
@@ -104,7 +104,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah！ Hei, Kamu di sana, Trainer！ Jangan biarkan \nTachyon-san kabur！！",
+            "text": "Ah！ Hei, kamu di sana, Trainer！ Jangan biarkan \nTachyon-san kabur！！",
             "choice_data_list": [
                 "(A-Aku……！?)",
                 "(A-Aku……！?)"
@@ -119,12 +119,12 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "——Hmm, sepertinya Kamu sudah pulih sebagian ingatanmu."
+            "text": "——Hmm, sepertinya kamu sudah pulih sebagian ingatanmu."
         },
         {
-            "text": "Tentu saja, termasuk fakta bahwa gadis di depan saya adalah \npelakunya yang mengisi kelas dengan asap.",
+            "text": "Tentu saja, termasuk fakta bahwa gadis di depan aku adalah \npelakunya yang mengisi kelas dengan asap.",
             "choice_data_list": [
-                "Kenapa Kamu melakukan itu……?"
+                "Kenapa kamu melakukan itu……?"
             ]
         },
         {
@@ -134,7 +134,7 @@
         {
             "text": "Ketika Agnes Tachyon mengatakan『itu bagian dari penelitian』、\nsebuah kilauan misterius muncul di matanya.",
             "choice_data_list": [
-                "(Saya punya firasat buruk……)"
+                "(Aku punya firasat buruk……)"
             ]
         },
         {
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "text": "Saya terikat di kursi tanpa menyadarinya……！"
+            "text": "Aku terikat di kursi tanpa menyadarinya……！"
         },
         {
             "name": "Agnes Tachyon",
@@ -155,29 +155,29 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Demikianlah, Saya sarankan agar Anda \nselalu waspada terhadap lingkungan sekitar Anda."
+            "text": "Demikianlah, aku sarankan agar kamu \nselalu waspada terhadap lingkungan sekitar kamu."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Lagi pula, Anda tidak pernah tahu kapan Anda mungkin \nbertemu dengan seorang peneliti yang mencari pria dewasa \nyang sehat dan bugar untuk dijadikan subjek uji cobanya, kan?",
+            "text": "Lagi pula, kamu tidak pernah tahu kapan kamu mungkin \nbertemu dengan seorang peneliti yang mencari pria dewasa \nyang sehat dan bugar untuk dijadikan subjek uji cobanya, kan?",
             "choice_data_list": [
                 "Su-Subjek uji coba……！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Lagi pula, Anda tidak pernah tahu kapan Anda mungkin \nbertemu dengan seorang peneliti yang mencari wanita dewasa \nyang sehat dan bugar untuk dijadikan subjek uji cobanya, kan?",
+            "text": "Lagi pula, kamu tidak pernah tahu kapan kamu mungkin \nbertemu dengan seorang peneliti yang mencari wanita dewasa \nyang sehat dan bugar untuk dijadikan subjek uji cobanya, kan?",
             "choice_data_list": [
                 "Su-Subjek uji coba……！?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Menurut saya, ini adalah keberuntungan bahwa Anda datang. \nMungkin saya harus bersyukur di kuil sesekali."
+            "text": "Menurutku, ini adalah keberuntungan bahwa kamu datang. \nMungkin aku harus bersyukur di kuil sesekali."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Semua orang di sekolah sudah mengenal saya saat ini. Saya \nhampir tidak bisa meminta siapa pun menjadi subjek uji coba, \nkarena semua orang langsung lari begitu melihat Saya."
+            "text": "Semua orang di sekolah sudah mengenal aku saat ini. Aku \nhampir tidak bisa meminta siapa pun menjadi subjek uji coba, \nkarena semua orang langsung lari begitu melihat aku."
         },
         {
             "name": "Agnes Tachyon",
@@ -185,7 +185,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Jadi, kelinci percobaanku—ah, maaf, maksud saya Trainer pemula.",
+            "text": "Jadi, kelinci percobaanku—ah, maaf, maksud aku Trainer pemula.",
             "choice_data_list": [
                 "Apakah kamu baru saja menyebutku…"
             ]
@@ -196,18 +196,18 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Yang lebih penting, aku punya satu obat khusus……Sebenarnya, \nmengingat ketahananmu, Saya akan membuatmu minum tiga \nobatku.",
+            "text": "Yang lebih penting, aku punya satu obat khusus……\nSebenarnya, mengingat ketahananmu, aku akan \nmembuatmu minum tiga obatku.",
             "choice_data_list": [
                 "……Apa yang ada di dalamnya?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heh-heh-heh, Nah, itu terserah <i>Anda</i> untuk \nmenemukannya atau harus kukatakan di obatnya."
+            "text": "Heh-heh-heh, Nah, itu terserah <i>kamu</i> untuk \nmenemukannya atau harus kukatakan di obatnya."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Jangan khawatir……Dalam skenario terburuk, kedua kaki \nAnda akan bersinar hijau keemasan selama beberapa jam. \nBukankah itu efek samping yang lucu?"
+            "text": "Jangan khawatir……Dalam skenario terburuk, kedua kaki \nkamu akan bersinar hijau keemasan selama beberapa jam. \nBukankah itu efek samping yang lucu?"
         },
         {
             "name": "Agnes Tachyon",
@@ -227,7 +227,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Saya tidak akan. Saya hanya di sini karena guru sedang mencari \nAnda…… Saya pikir……ini tentang audisi yang akan datang……"
+            "text": "Aku tidak akan. Aku hanya di sini karena guru sedang mencari \nkamu…… Aku pikir……ini tentang audisi yang akan datang……"
         },
         {
             "name": "Manhattan Cafe",
@@ -246,7 +246,7 @@
             "text": "……Haa. Aku akan……melepaskan ikatanmu……"
         },
         {
-            "text": "Aku merasa lega yang mendalam sangat bersyukur—bahwa \nSaya telah『diselamatkan』。"
+            "text": "Aku merasa lega yang mendalam sangat bersyukur—bahwa \naku telah『diselamatkan』。"
         }
     ]
 }

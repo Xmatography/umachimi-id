@@ -1,9 +1,9 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Ayo, Trainer! \nTolong, cepatlah!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ayo, Trainer! \nTolong, cepatlah!"
         },
         {
             "text": "Tribun utama Nakayama Racecourse penuh sesak \ndengan orang-orang dan dipenuhi dengan sorakan semangat."
@@ -15,24 +15,24 @@
             "text": "Dengan barisan depan sudah terlihat, aku dan Mejiro \nMcQueen berdesakan menembus kerumunan."
         },
         {
-            "text": "Ini balapan terakhir Oguri-san, kalau aku sampai \nmelewatkan momen dia melewati garis finis, aku akan \nmenyesal seumur hidup.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ini balapan terakhir Oguri-san, kalau aku sampai \nmelewatkan momen dia melewati garis finis, aku akan \nmenyesal seumur hidup."
         },
         {
-            "text": "Kalau begitu bukannya lebih enak kalau kita nonton \ndari kursi tim saja—",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Kalau begitu bukannya lebih enak kalau kita nonton \ndari kursi tim saja—"
         },
         {
             "name": "Mejiro McQueen",
             "text": "Tes"
         },
         {
-            "text": "Mereka makin mendekat, tapi dia masih memimpin! \nOguri masih di depan!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Mereka makin mendekat, tapi dia masih memimpin! \nOguri masih di depan!"
         },
         {
-            "text": "Aduh, kalau begini dia bakal finis duluan \nsebelum kita sampai! Nih, pegang tanganku!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aduh, kalau begini dia bakal finis duluan \nsebelum kita sampai! Nih, pegang tanganku!"
         },
         {
             "text": "Sambil berkata begitu, dia langsung meraih tanganku dengan paksa."
@@ -44,42 +44,42 @@
             "text": "Dia menarikku dengan kekuatan luar biasa, \ndan seketika pandanganku terbuka lebar."
         },
         {
-            "text": "Oguri tetap memimpin saat melewati garis finis!! \nOguri finis di posisi pertama!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Oguri tetap memimpin saat melewati garis finis!! \nOguri finis di posisi pertama!"
         },
         {
-            "text": "Sang Superstar Umamusume, Oguri Cap! Dia menutup \nTwinkle Series dengan kemenangan ajaib!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Sang Superstar Umamusume, Oguri Cap! Dia menutup \nTwinkle Series dengan kemenangan ajaib!"
         },
         {
-            "text": "Wah…!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Aku tidak akan pernah melupakan apa yang terjadi hari itu, \nkarena itulah hari di mana aku menyaksikan sebuah keajaiban."
+            "name": "Mejiro McQueen",
+            "text": "Wah…!"
         },
         {
             "text": "Aku tidak akan pernah melupakan apa yang terjadi hari itu, \nkarena itulah hari di mana aku menyaksikan sebuah keajaiban."
         },
         {
-            "text": "Luar biasa… itu benar-benar luar biasa! \nDia benar-benar menang!",
-            "name": "Mejiro McQueen"
+            "text": "Aku tidak akan pernah melupakan apa yang terjadi hari itu, \nkarena itulah hari di mana aku menyaksikan sebuah keajaiban."
         },
         {
-            "text": "Inilah Oguri-san yang memperlihatkan pada kita \nbagaimana cara seorang \"Ace\" berlari, bukan…?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Luar biasa… itu benar-benar luar biasa! \nDia benar-benar menang!"
         },
         {
-            "text": "Dia bisa meraih ini meski banyak orang menganggapnya \n\"sudah habis\" karena rentetan kekalahan, apalagi saat dia \nfinish di urutan ke-11 di balapan terakhirnya.",
-            "name": "<username>"
+            "name": "Mejiro McQueen",
+            "text": "Inilah Oguri-san yang memperlihatkan pada kita \nbagaimana cara seorang \"Ace\" berlari, bukan…?"
         },
         {
-            "text": "Oguri dan aku sama-sama punya harga diri yang tinggi. \nSaat orang meremehkan kami, justru itu yang membuat \nsemangat kami semakin menyala!",
-            "name": "Chief Trainer"
+            "name": "<username>",
+            "text": "Dia bisa meraih ini meski banyak orang menganggapnya \n\"sudah habis\" karena rentetan kekalahan, apalagi saat dia \nfinish di urutan ke-11 di balapan terakhirnya."
         },
         {
-            "text": "Ah, kerja bagus, Trainer-san.",
-            "name": "Mejiro McQueen"
+            "name": "Chief Trainer",
+            "text": "Oguri dan aku sama-sama punya harga diri yang tinggi. \nSaat orang meremehkan kami, justru itu yang membuat \nsemangat kami semakin menyala!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, kerja bagus, Trainer-san."
         },
         {
             "text": "Suara yang kami dengar itu adalah suara Trainer kepala tim kami. \nDialah yang mengajarkanku apa arti sebenarnya menjadi seorang trainer."
@@ -94,8 +94,8 @@
             ]
         },
         {
-            "text": "Mungkin memang begitu, tapi kau dan \nOguri-san sudah memperlihatkan balapan yang begitu megah!",
             "name": "Mejiro McQueen",
+            "text": "Mungkin memang begitu, tapi kau dan \nOguri-san sudah memperlihatkan balapan yang begitu megah!",
             "choice_data_list": [
                 "Dengarkan sorakan penonton"
             ]
@@ -104,8 +104,8 @@
             "text": "(Oguri! Oguri!!)"
         },
         {
-            "text": "Stadion bergemuruh dengan \"Oguri call!\" Sorakan itu membuat \nseluruh stadion bergetar!",
-            "name": "Komentator"
+            "name": "Komentator",
+            "text": "Stadion bergemuruh dengan \"Oguri call!\" Sorakan itu membuat \nseluruh stadion bergetar!"
         },
         {
             "text": "Siapa pun bisa melihat bahwa 100.000 orang yang hadir hari itu \nsemua terpukau oleh larinya Oguri Cap."
@@ -117,12 +117,12 @@
             "text": "Ini adalah bukti bahwa meskipun usianya sudah tua, \ndia tetaplah seorang trainer yang hebat…"
         },
         {
-            "text": "Tidak, aku sudah di ujung tenagaku. Aku sudah memberikan \nsegalanya sampai titik ini, dan sekarang aku benar-benar habis.",
-            "name": "Chief Trainer"
+            "name": "Trainer Lama",
+            "text": "Tidak, aku sudah di ujung tenagaku. Aku sudah memberikan \nsegalanya sampai titik ini, dan sekarang aku benar-benar habis."
         },
         {
-            "text": "Jadi, seperti yang sudah direncanakan, \naku serahkan Team Sirius ke tanganmu.",
-            "name": "Chief Trainer"
+            "name": "Trainer Lama",
+            "text": "Jadi, seperti yang sudah direncanakan, \naku serahkan Team Sirius ke tanganmu."
         },
         {
             "text": "Dia menepuk bahuku dengan kuat."
@@ -140,39 +140,39 @@
             "text": "Pastikan kau selalu ada untuk mendukung McQueen."
         },
         {
-            "text": "Setelah memenangkan Kikuka-shō, \ndia sedang berada di puncak perkembangannya.",
-            "name": "Chief Trainer"
+            "name": "Trainer Lama",
+            "text": "Setelah memenangkan Kikuka-shō, \ndia sedang berada di puncak perkembangannya."
         },
         {
-            "text": "Kombinasi kau dan McQueen pasti akan menarik perhatian semua orang, \nmeskipun di balapan G1.",
-            "name": "Chief Trainer",
+            "name": "Trainer Lama",
+            "text": "Kombinasi kau dan McQueen pasti akan menarik perhatian \nsemua orang, meskipun di balapan G1.",
             "choice_data_list": [
                 "Ya!"
             ]
         },
         {
-            "text": "Benar juga. Walau begitu, dia kadang memang agak ceroboh, \njadi sepertinya akulah yang akan mendukungnya.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Benar juga. Walau begitu, dia kadang memang agak ceroboh, \njadi sepertinya akulah yang akan mendukungnya."
         },
         {
-            "text": "Kalau aku bisa menang di Spring Tennō Shō, aku yakin \nitu akan memberinya sedikit rasa percaya diri juga.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Kalau aku bisa menang di Tennō Shō Spring, aku yakin \nitu akan memberinya sedikit rasa percaya diri juga."
         },
         {
-            "text": "Tolong nantikan saja.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Tolong nantikan saja."
         },
         {
-            "text": "Hahaha! Dia sudah berhasil menguasai Trainer mudanya! \nTapi sepertinya mereka menikmatinya.",
-            "name": "Chief Trainer"
+            "name": "Trainer Lama",
+            "text": "Hahaha! Dia sudah berhasil menguasai Trainer mudanya! \nTapi sepertinya mereka menikmatinya."
         },
         {
-            "text": "Aku tidak sabar menunggu bagaimana tim yang aku ciptakan \nakan berkembang. Aku menantikan apa yang bisa kalian capai!",
-            "name": "Chief Trainer"
+            "name": "Trainer Lama",
+            "text": "Aku tidak sabar menunggu bagaimana tim yang aku ciptakan \nakan berkembang. Aku menantikan apa yang bisa kalian capai!"
         },
         {
-            "text": "Terima kasih!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih!"
         },
         {
             "text": "Langit di atas Nakayama Racecourse mulai berubah menjadi \nkemerahan saat suara kami bergema di udara."

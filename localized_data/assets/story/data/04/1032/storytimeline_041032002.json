@@ -5,7 +5,7 @@
             "text": "Hari ini adalah 『hari seleksi』。Umamusume yang siap balapan \nakan menunjukkan kemampuan mereka kepada calon Trainer \ndengan harapan dapat direkrut."
         },
         {
-            "text": "Adapun saya, saya juga sedang mencari Umamusume yang \nmenjanjikan untuk direkrut dan dilatih."
+            "text": "Secara pribadi, aku juga sedang mencari Umamusume yang \nmenjanjikan untuk direkrut dan dilatih."
         },
         {
             "name": "Trainer Veteran A",
@@ -59,7 +59,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Mangkir lagi……Saya mengerti. Terima kasih, saya mengerti \nsituasinya."
+            "text": "Mangkir lagi……ya. Terima kasih, aku mengerti \nsituasinya."
         },
         {
             "text": "Ekspresi Symboli Rudolf terlihat aneh dan suram. Apakah \nAgnes Tachyon akan baik-baik saja jika melewatkan audisi \nhari ini?",
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "text": "Saya meninggalkan audisi dan mulai mencari \nkeberadaan Agnes Tachyon."
+            "text": "Aku meninggalkan audisi dan mulai mencari \nkeberadaan Agnes Tachyon."
         },
         {
             "name": "Air Shakur",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Sebuah pertanyaan yang tidak masuk akal datang dari Anda, Shakur. \nSaya, seorang pelajar dari akademi ini, sedang berdiri di kampus. Apa ada alasan untuk menanyakan niatku?"
+            "text": "Sebuah pertanyaan yang tidak masuk akal datang dari kamu, \nShakur. Saya, seorang pelajar dari akademi ini, sedang berdiri \ndi kampus. Apa ada alasan untuk menanyakan niatku?"
         },
         {
             "name": "Air Shakur",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Jawabannya sederhana, saya menyimpulkan bahwa tidak ada \nalasan untuk ikut serta. Sayangnya, tujuanku tidak sejalan \ndengan tujuan seleksi."
+            "text": "Jawabannya sederhana, aku menyimpulkan bahwa tidak ada \nalasan untuk ikut serta. Sayangnya, tujuanku tidak sejalan \ndengan tujuan seleksi."
         },
         {
             "name": "Agnes Tachyon",
@@ -96,11 +96,11 @@
         },
         {
             "name": "Air Shakur",
-            "text": "……Bukankah itu karena mereka sangat terkesan \ndengan lari Anda?"
+            "text": "……Bukankah itu karena mereka sangat terkesan \ndengan lari kamu?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Masalahnya, semua jadwal pelatihan mereka memiliki \npemborosan waktu yang berlebihan. Membuang waktu penelitian \nyang berharga begitu saja adalah hal yang tidak bisa saya terima."
+            "text": "Masalahnya, semua jadwal pelatihan mereka memiliki \npemborosan waktu yang berlebihan. Membuang waktu penelitian \nyang berharga begitu saja adalah hal yang tidak bisa aku terima."
         },
         {
             "name": "Agnes Tachyon",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Apakah Anda kembali secara sukarela, untuk menyerahkan tubuh Anda \ndemi ilmu pengetahuan！? Luar biasa, Semangat kelinci percobaan yang \nluar biasa！ Saya terharu hingga tak bisa berkata-kata！",
+            "text": "Apakah kamu kembali secara sukarela, untuk menyerahkan tubuhmu \ndemi ilmu pengetahuan！? Luar biasa, Semangat kelinci percobaan \nyang luar biasa！ Aku terharu hingga tak bisa berkata-kata！",
             "choice_data_list": [
                 "Tidak tidak tidak, kamu salah besar！"
             ]
@@ -138,7 +138,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ah, hanya itu saja. Sayangnya, saya bahkan tidak memiliki \nsedikit pun keinginan untuk berpartisipasi."
+            "text": "Ah, hanya itu saja. Sayangnya, aku bahkan tidak memiliki \nsedikit pun keinginan untuk berpartisipasi."
         },
         {
             "name": "Agnes Tachyon",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Dan pada saat ini, saya tidak perlu membuktikan kemampuan \nsaya kepada siapa pun. Oleh karena itu, saya akan menahan \ndiri. Selesai."
+            "text": "Dan pada saat ini, aku tidak perlu membuktikan kemampuan \naku kepada siapa pun. Oleh karena itu, aku akan menahan \ndiri. Selesai."
         },
         {
             "name": "Agnes Tachyon",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Tadi malam, saya menyelesaikan prototipe perangkat yang \ndapat mengukur fungsi otot. Dengan ini, saya dapat \nmengumpulkan data seribu kali lebih rinci daripada——",
+            "text": "Tadi malam, aku menyelesaikan prototipe perangkat yang \ndapat mengukur fungsi otot. Dengan ini, aku dapat \nmengumpulkan data seribu kali lebih rinci daripada——",
             "choice_data_list": [
                 "<size=32>Apakah eksperimenmu hanya yang kamu pikirkan！?</size>",
                 "<size=32>Apakah eksperimenmu hanya yang kamu pikirkan！?</size>"
@@ -162,7 +162,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hanya melalui eksperimen kita dapat menemukan berbagai \nkemungkinan. Anda tidak pernah memiliki cukup waktu \nuntuk penelitian——apakah saya salah?",
+            "text": "Hanya melalui eksperimen kita dapat menemukan berbagai \nkemungkinan. Kamu tidak pernah memiliki cukup waktu \nuntuk penelitian——apakah aku salah?",
             "choice_data_list": [
                 "<size=40>Penelitian apa yang bisa begitu penting?</size>",
                 "<size=40>Penelitian apa yang bisa begitu penting?</size>"
@@ -170,7 +170,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Saya meneliti『potensi Umamusume』。"
+            "text": "Aku meneliti『potensi Umamusume』。"
         },
         {
             "name": "Agnes Tachyon",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Saya nyatakan！ Dengan tubuh ini, aku akan menemukan \nbatas kecepatan！！",
+            "text": "Aku nyatakan！ Dengan tubuh ini, aku akan menemukan \nbatas kecepatan！！",
             "choice_data_list": [
                 "Itulah tujuan penelitianmu……！?"
             ]
@@ -216,11 +216,11 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Untuk meningkatkan kecepatan saya, mengikuti balapan yang \nmelelahkan dan menghadapi lawan yang tangguh akan menjadi \nhal yang tak terhindarkan."
+            "text": "Untuk meningkatkan kecepatanku, mengikuti balapan yang \nmelelahkan dan menghadapi lawan yang tangguh akan menjadi \nhal yang tak terhindarkan."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oleh karena itu, lolos ke Twinkle Series tentu akan menjadi\nlangkah besar bagi penelitian saya. Itulah mengapa saya \ndatang ke akademi."
+            "text": "Oleh karena itu, lolos ke Twinkle Series tentu akan \nmenjadi langkah besar bagi penelitianku. Itulah \nmengapa aku datang ke akademi."
         },
         {
             "name": "Agnes Tachyon",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "hmm, jadi mereka menemukanku. \n……Maaf, Trainer pemula, saya harus pergi."
+            "text": "hmm, jadi mereka menemukanku. \n……Maaf, Trainer pemula, aku harus pergi."
         },
         {
             "text": "Agnes Tachyon mengikuti guru itu, dan aku tak bisa menahan\nperasaan tidak enak di perutku……"

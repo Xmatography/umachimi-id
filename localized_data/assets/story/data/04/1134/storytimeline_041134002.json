@@ -1,0 +1,208 @@
+{
+    "text_block_list": [
+        {
+            "name": "Trainer Senior",
+            "text": "Hei, apa kamu lagi luang? Bisa tolong jaga satu\nUma Musume dari timku sampai lomba 'Fukushima Kinen'?"
+        },
+        {
+            "name": "Trainer Senior",
+            "text": "Aku harus fokus melatih para Uma Musume yang akan bertanding\ndi Tokyo pada hari yang sama. Jadi, aku tak bisa menemaninya."
+        },
+        {
+            "name": "Trainer Senior",
+            "text": "'Fukushima Kinen' itu balapan tingkat tinggi jarak 2000m.\nDia sering kalah di jarak itu, jadi aku ingin cepat ambil tindakan――",
+            "choice_data_list": [
+                "Boleh, serahkan saja padaku"
+            ]
+        },
+        {
+            "name": "Trainer Senior",
+            "text": "Terima kasih! Maaf ya, padahal kamu\njuga lagi sibuk bersiap untuk scouting.",
+            "choice_data_list": [
+                "Tentu saja memprioritaskan Uma Musume!"
+            ]
+        },
+        {
+            "name": "Trainer Senior",
+            "text": "Haha, sifatmu itu lho. Makanya aku bisa tenang\nmenyerahkannya padamu. Tolong, ya!"
+        },
+        {
+            "text": "（Melatih sebagai pengganti――\nTernyata ada juga kasus seperti itu antar sesama Trainer, ya.）"
+        },
+        {
+            "text": "Untuk turnamen per cabang berikutnya... apa kau sudah pilih?\nAku... masih ragu antara ambil jarak 1600 atau 1800...."
+        },
+        {
+            "text": "Kalau aku pastinya Mile dong! Ini kesempatan besar setengah tahun\nsekali buat tanding sama senior! Aku pengen lawan Taiki-senpai!"
+        },
+        {
+            "text": "（Turnamen per cabang... harus bagaimana ya.\nApa aku harus terus lari saat masih ragu untuk berhenti atau tidak――）"
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Haa, haa... waktu putaran di akhir benar-benar buruk, ya....\nUntuk lari 2000m, latihan daya tahan tubuhnya harus ditambah.",
+            "choice_data_list": [
+                "Sepertinya tidak masalah, tapi mari tambah sedikit"
+            ]
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Iya, tolong ya! Trainer-ku juga bilang tidak\nada masalah, tapi... entah kenapa aku terus kepikiran."
+        },
+        {
+            "text": "（Dia――kelihatan lega. Padahal tadi dia tampak sangat cemas.\nApa ini berkat tanggapan dari Trainer-san――?）"
+        },
+        {
+            "text": "Bouquet-chan! Kamu kenapa?\nKalau tidak fokus nanti bisa cedera, lho."
+        },
+        {
+            "text": "Ah...――Maaf.\nKamu benar... aku――mau istirahat sebentar."
+        },
+        {
+            "text": ".........Huu. Aku malah merepotkan semuanya.\nAku harus kembali fokus――"
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "6 set lari interval, sudah selesai!\nAnu... walau sudah sejauh ini, apa aku akan siap pas hari H nanti?",
+            "choice_data_list": [
+                "Tidak apa-apa kok. Tapi, apa yang buatmu cemas?"
+            ]
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Habisnya... daya tahan itu tidak bisa didapat dalam semalam.\nMeski kita berusaha dari sekarang....",
+            "choice_data_list": [
+                "Kalau begitu, mari tinjau tempo dengan lari beriringan"
+            ]
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "！ Baik...! Kalau masih ada hal yang bisa dilakukan!\nTolong bantu aku untuk semuanya!"
+        },
+        {
+            "text": "（Wah, dia jadi terlihat beda――kalau cemasnya ditenangkan seperti itu.\nPastinya――dia jadi bisa berpikir positif. Fufufu）"
+        },
+        {
+            "text": "――――\n...Aku juga.――Harus kembali latihan."
+        },
+        {
+            "text": "――――Huu.",
+            "choice_data_list": [
+                "Bisa minta waktunya sebentar? Aku ada permintaan",
+                "Bisa minta waktunya sebentar? Aku ada permintaan"
+            ]
+        },
+        {
+            "text": "Eh!? Aku――kah?",
+            "choice_data_list": [
+                "Iya. Bisa minta tolong jadikan rekan lari beriringan?",
+                "Iya. Bisa minta tolong jadikan rekan lari beriringan?"
+            ]
+        },
+        {
+            "text": "Aku akan berusaha sebaik mungkin menjadi rekan larimu.\nLalu――bagaimana caraku harus berlari nanti?",
+            "choice_data_list": [
+                "Kau berlari seperti biasa saja ya",
+                "Kau berlari seperti biasa saja ya"
+            ]
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Tadi dibilang untuk meninjau pembagian tempo, kan?\nApa Bouquet-san lebih ahli saat ada jarak dengan lawannya?",
+            "choice_data_list": [
+                "Iya. Sepertinya akan bagus untuk referensi pembagian tempo"
+            ]
+        },
+        {
+            "text": "（――Dia menunggu di belakang, ya.\nBerkat itu――aku jadi sangat mudah berlari）"
+        },
+        {
+            "text": "――Sebentar lagi masuk tikungan ke-4.\nDi sini waktunya <i>spurt</i>!"
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "！ Mengerti, di sini rupanya! Haaaaaaaaa!!"
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Yes, aku bisa mengejar sampai akhir!\nTapi waktunya tidak begitu banyak berubah, ya?",
+            "choice_data_list": [
+                "Iya, masalah pembagian tempolah yang jadi fokus utamanya"
+            ]
+        },
+        {
+            "name": "Uma Musume Bob Chestnut",
+            "text": "Begitu rupanya. Aku lega karena sudah tahu penyebab masalahku!\nBouquet-san, nanti aku boleh minta tolong lari bareng lagi!?"
+        },
+        {
+            "text": "Tentu, dengan senang hati.\nAku juga――ingin sekali lari bersama lagi nanti."
+        },
+        {
+            "text": "（Pemandangan yang berlalu. \nAngin yang membelai pipi――terasa nyaman）"
+        },
+        {
+            "text": "Ah――Trainer-san. Terima kasih atas kerja kerasnya.",
+            "choice_data_list": [
+                "Kerja bagus. Terima kasih sudah berlari bersama hari ini"
+            ]
+        },
+        {
+            "text": "Sama-sama. Terima kasih juga sudah mengajakku.\nSudah lama sekali――aku bisa merasakan asyiknya berlari.",
+            "choice_data_list": [
+                "Haha, Uma Musume memang tak bisa lepas dari berlari ya",
+                "Haha, Uma Musume memang tak bisa lepas dari berlari ya"
+            ]
+        },
+        {
+            "text": "Fufu, iya.――Berkat lari ini aku bisa membantu――\ndan bisa menciptakan 'Harmoni'...... aku sangat senang."
+        },
+        {
+            "text": "Aku...――\nMemulai balapan karena terpikat oleh keindahan 'Harmoni'."
+        },
+        {
+            "text": "Tapi, aku tidak begitu ahli dalam persaingan.\nDi lintasan pun aku tak bisa maju――dan hanya mengacaukan harmoni."
+        },
+        {
+            "text": "Meski tahu pun, aku tak bisa berubah――dan malah menghancurkan.\nHarmoni dari kalian semua.――serta kilaunya."
+        },
+        {
+            "text": "――Sepertinya aku memang harus berhenti balapan.\nTapi――...... Tapi――",
+            "choice_data_list": [
+                "Tidak apa untuk meragukannya hingga kamu yakin sepenuhnya"
+            ]
+        },
+        {
+            "text": "......Kalau berlari dengan perasaan seperti ini――\nApa aku tidak bersikap tak sopan pada yang lain......"
+        },
+        {
+            "text": "Kepada mereka yang semangatnya membara demi sebuah kemenangan.\nLariku ini――tak bisa dibilang sebagai bentuk ketulusan......",
+            "choice_data_list": [
+                "Tapi karena ingin lari lah, kamu jadi merasa ragu kan",
+                "Tapi karena ingin lari lah, kamu jadi merasa ragu kan"
+            ]
+        },
+        {
+            "text": "――ugh, ......iya.\nMeski aku tahu ini tidaklah tulus. Tapi aku...――",
+            "choice_data_list": [
+                "Tidak masalah kok, hargai saja keinginanmu itu",
+                "Tidak masalah kok, hargai saja keinginanmu itu"
+            ]
+        },
+        {
+            "text": "――......Apa, sungguh......?",
+            "choice_data_list": [
+                "Ini jalan balapanmu. Pikirkanlah baik-baik",
+                "Ini jalan balapanmu. Pikirkanlah baik-baik"
+            ]
+        },
+        {
+            "text": "Trainer, -san...――"
+        },
+        {
+            "text": "Baik...... Akan kupikirkan.\nSampai keraguan ini――benar-benar hilang seutuhnya."
+        },
+        {
+            "text": "（――Trainer-san selalu mendampingi dan berada di sisiku......\nKenapa kata-katamu bisa terasa――begitu hangat......?）"
+        }
+    ]
+}

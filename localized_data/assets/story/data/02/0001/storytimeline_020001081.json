@@ -1,225 +1,225 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Balapan pertama musim gugur… \nKyōto Daishōten dimenangkan oleh Mejiro McQueen dengan cara yang luar biasa."
+            "text": "Balapan pertama musim gugur… \nKyōto Daishōten dimenangkan \noleh Mejiro McQueen dengan cara yang luar biasa."
         },
         {
             "text": "Karena perkembangan yang stabil,\nrasa kagum dan simpati publik padanya terus meningkat."
         },
         {
-            "text": "Hebat banget! Buku ini, buku itu, semua buku ada McQueen-nya!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Gokil! Di buku ini, buku itu, sampai buku\nyang di sana juga, semuanya ada komuk lu, McQueen!"
         },
         {
-            "text": "Aku tidak menyangka bisa mencapai tingkat ketenaran seperti ini…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Ah! Itu Mejo MaKeen!\nTolong jabat tanganku!",
-            "name": "Anak Laki-Laki"
-        },
-        {
-            "text": "Tentu saja. Oh ya, namanya dibaca Mejiro McQueen.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Bahkan anak kecil pun tahu tentangmu.\nBukankah begitu, Nona Bintang Umamusume!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Hadeh… Tolong jangan menggodaku seperti itu.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Aku akan dukung kamu di balapan berikutnya, Mejo MaKeen!\nAku percaya kamu pasti bisa!",
-            "name": "Anak Laki-Laki"
-        },
-        {
-            "text": "Terima kasih banyak.\nAku pasti akan menang.\nOh ya, namanya dibaca Mejiro McQueen.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Oke, dadah!",
-            "name": "Anak Laki-Laki"
-        },
-        {
-            "text": "Sampai jumpa.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Rupanya reputasiku sudah jauh lebih besar dari yang kusadari…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Kenapa? Popularitas bikin kamu gugup ya?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "T-tentu saja tidak!\nSebagai anggota Keluarga Mejiro, aku justru dipenuhi rasa bangga!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Hmm… Menurutku nggak apa-apa kok kalau agak gugup sedikit, tahu?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Aduh, tolong jangan ucapkan hal-hal yang nggak nyambung begitu.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Selamat pagi semuanya.",
             "name": "Mejiro McQueen",
+            "text": "Aku tidak menyangka bisa mencapai tingkat ketenaran seperti ini…"
+        },
+        {
+            "name": "Anak Laki-Laki",
+            "text": "Ah! Itu Mejo MaKeen!\nTolong jabat tanganku!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tentu saja. Oh ya, namanya dibaca Mejiro McQueen."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wih, bocah sekecil ini aja sampai tahu lu, ya.\nHalo, Umamusume Populer~!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hadeh… Tolong jangan menggodaku seperti itu."
+        },
+        {
+            "name": "Anak Laki-Laki",
+            "text": "Aku akan dukung kamu di balapan berikutnya, Mejo MaKeen!\nAku percaya kamu pasti bisa!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Terima kasih banyak.\nAku pasti akan menang.\nOh ya, namanya dibaca Mejiro McQueen."
+        },
+        {
+            "name": "Anak Laki-Laki",
+            "text": "Oke, dadah!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sampai jumpa."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Rupanya reputasiku sudah jauh lebih besar dari yang kusadari…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Kenapa? Popularitas bikin kamu gugup ya?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "T-tentu saja tidak! Sebagai anggota Keluarga Mejiro,\naku justru dipenuhi rasa bangga!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yaa... Tapi kalau kata gue mah, \nwajar-wajar aja kali kalau lu ngerasa takut."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aduh, tolong jangan ucapkan hal-hal yang nggak nyambung begitu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Selamat pagi semuanya.",
             "choice_data_list": [
                 "Pagi, McQueen."
             ]
         },
         {
-            "text": "McQueen-san, dengar deh!\nJumlah Umamusume yang ingin pindah ke sini semakin bertambah!",
-            "name": "Umamusume dengan Poni Lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "McQueen-san, dengar deh!\nJumlah Umamusume yang ingin pindah ke sini semakin bertambah!"
         },
         {
-            "text": "Sepertinya memang begitu sejak Kyōto Daishōten, ya.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Sepertinya memang begitu sejak Kyōto Daishōten, ya."
         },
         {
-            "text": "Itu semua berkat kerja kerasmu yang luar biasa, McQueen-chan.",
-            "name": "Umamusume dengan Bob Hitam"
+            "name": "Umamusume Bob Hitam",
+            "text": "Itu semua berkat kerja kerasmu yang luar biasa, McQueen-chan."
         },
         {
-            "text": "Kalau kamu berhasil menang di Tenno Sho Musim Gugur nanti,\nkamu akan jadi Umamusume kedua yang pernah memenangkan Tenno Sho Musim Semi dan Gugur!",
-            "name": "Umamusume dengan Poni Lurus"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Kalau menang di 'Tenno Sho Autumn' nanti, Kak McQueen bakal cetak\nrekor besar berupa kemenangan beruntun musim semi dan gugur, kan!"
         },
         {
-            "text": "Jumlah anggota pasti bakal makin banyak setelah itu!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Jumlah anggota pasti bakal makin banyak setelah itu!"
         },
         {
-            "text": "Hadeh… Itu semua hanya kalau aku menang.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hadeh… Itu semua hanya kalau aku menang."
         },
         {
-            "text": "Wajar mereka bersemangat sekarang.\nSoalnya kamu lagi ada di puncak momentum.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Wajar mereka bersemangat sekarang.\nSoalnya kamu lagi ada di puncak momentum."
         },
         {
-            "text": "Kita mulai mendapat perhatian sebesar waktu Sensei masih memimpin tim dulu.",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Wajar mereka bersemangat sekarang.\nSoalnya kamu lagi ada di puncak momentum."
         },
         {
-            "text": "Kita akan jadi tim besar lagi!",
-            "name": "Umamusume dengan Poni Lurus"
+            "name": "<username>",
+            "text": "Kita mulai mendapat perhatian sebesar waktu Sensei masih memimpin tim dulu."
         },
         {
-            "text": "Aku akan dukung kamu dari barisan depan!",
-            "name": "Umamusume bermata sayu"
+            "name": "Umamusume Berponi Lurus",
+            "text": "Kita akan jadi tim besar lagi!"
         },
         {
-            "text": "Aku mengerti, semuanya.\nAku akan pastikan menang di balapan berikutnya juga.",
-            "name": "Mejiro McQueen"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Aku akan dukung kamu dari barisan depan!"
         },
         {
-            "text": "Kalau begitu, ayo kita mulai latihan hari ini.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aku mengerti, semuanya.\nAku akan pastikan menang di balapan berikutnya juga."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kalau begitu, ayo kita mulai latihan hari ini."
         },
         {
             "text": "“Aku pasti akan menang,” begitu katanya.\nDan tekad itu jelas terlihat dalam balapan uji coba hari ini."
         },
         {
-            "text": "Woaah! Cepat banget dia!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Woaah! Cepat banget dia!"
         },
         {
-            "text": "Finish! Kemenangan yang luar biasa.\nBahkan gayamu saat melewati garis pun sempurna!",
-            "name": "<username>"
+            "name": "<username>",
+            "text": "Finish! Kemenangan yang luar biasa.\nBahkan gayamu saat melewati garis pun sempurna!"
         },
         {
-            "text": "Haa… Haa… Huuuh…",
-            "name": "Mejiro McQueen"
+            "name": "<username>",
+            "text": "Finish! Kemenangan yang luar biasa.\nBahkan gayamu saat melewati garis pun sempurna!"
         },
         {
-            "text": "Waktu Takarazuka Kinen aku gagal dapat posisi bagus,\njadi harus ambil tikungan melebar. Itu lumayan sulit.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Haa… Haa… Huuuh…"
         },
         {
-            "text": "Aku harus tetap sadar kapan harus\nsprint dan jaga posisi supaya bisa menyelesaikan balapan dengan nyaman.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Waktu Takarazuka Kinen aku gagal dapat posisi bagus,\njadi harus ambil tikungan melebar. Itu lumayan sulit."
         },
         {
-            "text": "Hohoho… Sepertinya kau hampir siap untuk menantangku.",
-            "name": "Gold Ship"
+            "name": "Mejiro McQueen",
+            "text": "Aku harus tetap sadar kapan harus sprint dan\njaga posisi supaya bisa menyelesaikan balapan dengan nyaman."
         },
         {
-            "text": "Sebelum kau dan aku bisa saling beradu, kau harus lulus tes gerbang dulu.",
-            "name": "Mejiro McQueen"
+            "name": "Gold Ship",
+            "text": "Hohoho… Sepertinya kau hampir siap untuk menantangku."
         },
         {
-            "text": "Oke, latihan hari ini cukup.\nSemuanya, jangan lupa kompres kaki pakai es.",
-            "name": "<username>"
+            "name": "Mejiro McQueen",
+            "text": "Sebelum kau dan aku bisa saling beradu, kau harus lulus tes gerbang dulu."
         },
         {
-            "text": "Umm, Trainer-san.",
-            "name": "Mejiro McQueen"
+            "name": "<username>",
+            "text": "Oke, latihan hari ini cukup.\nSemuanya, jangan lupa kompres kaki pakai es."
         },
         {
-            "text": "Aku masih punya banyak tenaga,\njadi aku ingin lari satu putaran lagi.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Umm, Trainer-san."
         },
         {
-            "text": "Ah, kalau gitu aku juga mau satu putaran lagi!",
-            "name": "Umamusume bermata sayu"
+            "name": "Mejiro McQueen",
+            "text": "Aku masih punya banyak tenaga,\njadi aku ingin lari satu putaran lagi."
         },
         {
-            "text": "Aku juga!\nKalau McQueen-chan kasih segalanya, aku juga harus begitu!",
-            "name": "Umamusume dengan Bob Hitam"
+            "name": "Umamusume Bermata Sayu",
+            "text": "Ah, kalau gitu aku juga mau satu putaran lagi!"
         },
         {
-            "text": "Eh? Kalian tidak harus memaksakan diri hanya karena aku…",
-            "name": "Mejiro McQueen"
+            "name": "Umamusume Bob Hitam",
+            "text": "Aku juga! Kalau McQueen-chan kasih\nsegalanya, aku juga harus begitu!"
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "Eh? Kalian tidak harus memaksakan diri hanya karena aku…"
+        },
+        {
+            "name": "Umamusume Berponi Lurus",
             "text": "Tidak apa-apa, jangan khawatirkan kami!\nSoalnya, kami suka banget melihat cara kamu berlari.",
-            "name": "Umamusume dengan Poni Lurus",
             "choice_data_list": [
-                "<size=36>Semuanya, pastikan jangan sampai memaksakan diri ya.</size>"
+                "<size=36>Semuanya, jangan sampai memaksakan diri ya.</size>"
             ]
         },
         {
-            "text": "Aduh… Baiklah, kami akan kembali dulu.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Aduh… Baiklah, kami akan kembali dulu."
         },
         {
-            "text": "Woaah! Dia makin semangat! Yah, kayaknya aku harus gangguin dia.",
             "name": "Gold Ship",
+            "text": "Wih, berapi-api banget~ Ya udah,\ngue samperin ah, mau gue usilin",
             "choice_data_list": [
                 "Minna, hati hati"
             ]
         },
         {
-            "text": "Hei!! Jangan coba-coba tarik ekorku!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hei!! Jangan coba-coba tarik ekorku!"
         },
         {
-            "text": "Oh-oh, lagi semangat banget nih～\nHmm, kalo gitu, aku bakal datang gangguin dikit ah",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "EH ! jangan coba-coba pegang ekorku!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Aksi Mejiro McQueen ternyata juga memberi pengaruh baik ke anggota lainnya."
+            "text": "Aksi Mejiro McQueen ternyata juga\nmemberi pengaruh baik ke anggota lainnya."
         },
         {
             "text": "Tidak diragukan lagi, dia adalah sosok utama dalam tim"
         },
         {
-            "text": "Trainer Saaaaan !.....",
-            "name": "Hayakawa Tazuna"
+            "name": "Hayakawa Tazuna",
+            "text": "Trainer Saaaaan !....."
         },
         {
             "name": "<username>",
-            "text": "Ada apa Tazuna , Tumben kemari"
+            "text": "Ada apa Tazuna , Tumben kemari?"
         },
         {
             "name": "Tazuna Hayakawa",

@@ -1,241 +1,235 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "Pagi setelah Arima Kinen yang penuh emosi,\nTim Sirius memulai babak baru…"
-    },
-    {
-      "text": "Apa maksudnya tim ini mau dibubarkan!?",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Semuanya bermula dari teriakan Mejiro McQueen."
-    },
-    {
-      "text": "Sebenarnya, semua anggota lain sudah pindah ke tim berbeda.\nMcQueen-san, hanya Anda yang tersisa di tim ini.",
-      "name": "Hayakawa Tazuna"
-    },
-    {
-      "text": "Sayangnya, tim ini sudah tidak memenuhi\njumlah anggota minimum yang diperlukan.",
-      "name": "Hayakawa Tazuna"
-    },
-    {
-      "text": "Jadi, kalau tidak ada anggota baru yang masuk,\ntim ini terpaksa harus dibubarkan.",
-      "name": "Hayakawa Tazuna"
-    },
-    {
-      "text": "Tidak bisa dipercaya! Hanya semalam saja,\ntim kita berubah jadi kosong melompong!\nKalian semua sungguh tak berhati!",
-      "name": "Mejiro McQueen",
-      "choice_data_list": [
-        "Hei, coba tenang dulu sebentar",
-        "Hei, coba tenang dulu sebentar"
-      ]
-    },
-    {
-      "text": "Bagaimana aku bisa tenang!?",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Padahal tim yang kau warisi bisa saja dibubarkan!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Tazuna-san, apakah tim kita akan langsung dibubarkan?",
-      "name": "<username>"
-    },
-    {
-      "text": "Tidak, karena ini pertama kalinya hal seperti ini terjadi,\nsekolah tidak akan serta-merta membubarkanmu…",
-      "name": "Hayakawa Tazuna"
-    },
-    {
-      "text": "Tapi, ini hanya penundaan sementara.\nAku tidak tahu berapa lama waktunya,\ntapi aku akan bicara dengan pihak sekolah soal ini.",
-      "name": "Hayakawa Tazuna",
-      "choice_data_list": [
-        "<size=42>Jadi tetap saja kita harus buru-buru, ya?</size>"
-      ]
-    },
-    {
-      "text": "Benar. Aku tahu ini berat, apalagi kau baru saja\nmewarisi tim ini…",
-      "name": "Hayakawa Tazuna"
-    },
-    {
-      "text": "Hmph! Lihat saja! Aku akan menemukan anggota\nbaru dalam waktu singkat!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Aku Umamusume dari keluarga Mejiro.\nMengurus hal sepele begini gampang saja!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Kami sedang merekrut anggota baru!\nAyo berjuang bersama!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Bahkan yang belum pernah menang balapan pun boleh!\nTim ini seperti keluarga kedua!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Wortel segar baru dipanen! Murah meriah, harga miring!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Dan kalau daftar sekarang, kalian bisa sekalian\njadi anggota Tim Sirius! Hei, kamu di sana!\nMau ikut!?",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Kenapa, padahal aku sendiri yang turun tangan merekrut,\ntidak satu pun orang yang tertarik!?",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Kalau dipikir adilnya, orang mungkin ragu bergabung\ndengan tim yang pelatihnya masih hijau.\nApalagi hampir semua anggotanya bubar sekaligus.",
-      "name": "<username>"
-    },
-    {
-      "text": "Kalau dipikir adilnya, orang mungkin ragu bergabung\ndengan tim yang pelatihnya masih hijau.\nApalagi hampir semua anggotanya bubar sekaligus.",
-      "name": "<username>"
-    },
-    {
-      "text": "Kenapa kamu bisa menganalisis dengan tenang begitu!?\nRasakan juga dong urgensinya!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Percayalah, aku juga khawatir kok.",
-      "name": "<username>"
-    },
-    {
-      "text": "Percayalah, aku juga khawatir kok.",
-      "name": "<username>"
-    },
-    {
-      "text": "Beliau mempercayakan tim ini padaku.\nAku tidak boleh mengecewakannya."
-    },
-    {
-      "text": "Beliau mempercayakan tim ini padaku.\nAku tidak boleh mengecewakannya."
-    },
-    {
-      "text": "Tapi kalau kita terus merekrut dalam keadaan\nTim Sirius yang menyedihkan begini,\nrasanya tidak akan ada yang mau bergabung."
-    },
-    {
-      "text": "Kita harus cari strategi baru supaya Umamusume\ntertarik masuk ke tim kita…"
-    },
-    {
-      "text": "Baiklah, untuk hari ini cukup sampai sini.\nLebih baik kita mulai latihan.",
-      "name": "<username>"
-    },
-    {
-      "text": "Baiklah, untuk hari ini cukup sampai sini.\nLebih baik kita mulai latihan.",
-      "name": "<username>"
-    },
-    {
-      "text": "…Benar juga.",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Aku terlalu sibuk fokus rekrutmen dan jadi salah prioritas.\nAku akan bersiap sekarang!",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
-    },
-    {
-      "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
-    },
-    {
-      "text": "Karena balapan ini akan benar-benar menguji daya tahan,\naku menyarankan dia melatih bentuk larinya."
-    },
-    {
-      "text": "Karena balapan ini akan benar-benar menguji daya tahan,\naku menyarankan dia melatih bentuk larinya."
-    },
-    {
-      "text": "Hah… Ha… Ueh…",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Di ujung tikungan, perhatikan kaki mana yang jadi tumpuan.\nHarusnya kamu lebih kuat menolak dengan kaki kiri,\nbukan kanan.",
-      "name": "<username>"
-    },
-    {
-      "text": "Baik, mengerti.",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Oke, tambah 3 putaran lagi di lintasan,\nsetelah itu selesai untuk hari ini.",
-      "name": "<username>"
-    },
-    {
-      "text": "Oke, tambah 3 putaran lagi di lintasan,\nsetelah itu selesai untuk hari ini.",
-      "name": "<username>"
-    },
-    {
-      "text": "…Hanya 3 putaran?",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
-      "name": "<username>"
-    },
-    {
-      "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri.",
-      "name": "<username>"
-    },
-    {
-      "text": "…Begitu ya. Aku tidak kepikiran soal itu.",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Kalau kamu merasa kurang puas, bilang saja.\nAku tidak mau memaksakan sesuatu padamu.",
-      "name": "<username>"
-    },
-    {
-      "text": "Kalau kamu merasa kurang puas, bilang saja.\nAku tidak mau memaksakan sesuatu padamu.",
-      "name": "<username>"
-    },
-    {
-      "text": "Tidak, masuk akal kok apa yang kamu bilang.\nAku tidak keberatan.",
-      "name": "Mejiro McQueen"
-    },
-    {
-      "text": "Setelah itu, dia kembali ke lintasan."
-    },
-    {
-      "text": "Setelah itu, dia kembali ke lintasan."
-    },
-    {
-      "text": "Dari cara berlarinya, terlihat dia agak kesal\nkarena hanya diberi 3 putaran."
-    },
-    {
-      "text": "Dari cara berlarinya, terlihat dia agak kesal\nkarena hanya diberi 3 putaran."
-    },
-    {
-      "text": "Sepertinya dia memang belum sepenuhnya yakin, ya?",
-      "name": "<username>",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Pagi hari setelah Arima Kinen yang penuh emosi,\nTim Sirius memulai babak baru…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Apa maksudnya tim ini mau dibubarkan!?"
+        },
+        {
+            "text": "Semuanya bermula dari teriakan Mejiro McQueen."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Sebenarnya, semua anggota lain sudah pindah ke tim berbeda.\nMcQueen-san, hanya Anda yang tersisa di tim ini."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Sayangnya, tim ini sudah tidak memenuhi\njumlah anggota minimum yang diperlukan."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Jadi, kalau tidak ada anggota baru yang masuk,\ntim ini terpaksa harus dibubarkan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tidak bisa dipercaya! Hanya semalam saja,\ntim kita berubah jadi kosong melompong!\nKalian semua sungguh tak berhati!",
+            "choice_data_list": [
+                "Hei, coba tenang dulu sebentar",
+                "Hei, coba tenang dulu sebentar"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bagaimana aku bisa tenang!?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Padahal tim yang kau warisi bisa saja dibubarkan!"
+        },
+        {
+            "name": "<username>",
+            "text": "Tazuna-san, apakah tim kita akan langsung dibubarkan?"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Tidak, karena ini pertama kalinya hal seperti ini terjadi,\nsekolah tidak akan serta-merta membubarkanmu…"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Tapi, ini hanya penundaan sementara.\nAku tidak tahu berapa lama waktunya,\ntapi aku akan bicara dengan pihak sekolah soal ini.",
+            "choice_data_list": [
+                "<size=42>Jadi tetap saja kita harus buru-buru, ya?</size>"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Benar. Aku tahu ini berat, apalagi kau baru saja\nmewarisi tim ini…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hmph! Lihat saja! Aku akan menemukan anggota\nbaru dalam waktu singkat!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku Umamusume dari keluarga Mejiro.\nMengurus hal sepele begini gampang saja!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kami sedang merekrut anggota baru!\nAyo berjuang bersama!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bahkan yang belum pernah menang balapan pun boleh!\nTim ini seperti keluarga kedua!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wortel segar baru dipanen! Murah meriah, harga miring!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Dan kalau daftar sekarang, kalian bisa sekalian\njadi anggota Tim Sirius! Hei, kamu di sana!\nMau ikut!?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kenapa, padahal aku sendiri yang turun tangan merekrut,\ntidak satu pun orang yang tertarik!?"
+        },
+        {
+            "name": "<username>",
+            "text": "Kalau dipikir adilnya, orang mungkin ragu bergabung\ndengan tim yang pelatihnya masih hijau.\nApalagi hampir semua anggotanya bubar sekaligus."
+        },
+        {
+            "name": "<username>",
+            "text": "Kalau dipikir adilnya, orang mungkin ragu bergabung\ndengan tim yang pelatihnya masih hijau.\nApalagi hampir semua anggotanya bubar sekaligus."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Kenapa kamu bisa menganalisis dengan tenang begitu!?\nRasakan juga dong urgensinya!"
+        },
+        {
+            "name": "<username>",
+            "text": "Percayalah, aku juga khawatir kok."
+        },
+        {
+            "name": "<username>",
+            "text": "Percayalah, aku juga khawatir kok."
+        },
+        {
+            "text": "Beliau mempercayakan tim ini padaku.\nAku tidak boleh mengecewakannya."
+        },
+        {
+            "text": "Beliau mempercayakan tim ini padaku.\nAku tidak boleh mengecewakannya."
+        },
+        {
+            "text": "Tapi kalau kita terus merekrut dalam keadaan\nTim Sirius yang menyedihkan begini,\nrasanya tidak akan ada yang mau bergabung."
+        },
+        {
+            "text": "Kita harus cari strategi baru supaya Umamusume\ntertarik masuk ke tim kita…"
+        },
+        {
+            "name": "<username>",
+            "text": "Baiklah, untuk hari ini cukup sampai sini.\nLebih baik kita mulai latihan."
+        },
+        {
+            "name": "<username>",
+            "text": "Baiklah, untuk hari ini cukup sampai sini.\nLebih baik kita mulai latihan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Benar juga."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Aku terlalu sibuk fokus rekrutmen dan jadi salah prioritas.\nAku akan bersiap sekarang!"
+        },
+        {
+            "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
+        },
+        {
+            "text": "Balapan berikutnya di akhir April.\nYaitu Spring Tennō Shō, lomba jarak jauh 3200 meter."
+        },
+        {
+            "text": "Karena balapan ini akan benar-benar menguji daya tahan,\naku menyarankan dia melatih bentuk larinya."
+        },
+        {
+            "text": "Karena balapan ini akan benar-benar menguji daya tahan,\naku menyarankan dia melatih bentuk larinya."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hah… Ha… Ueh…"
+        },
+        {
+            "name": "<username>",
+            "text": "Di ujung tikungan, perhatikan kaki mana yang jadi tumpuan.\nHarusnya kamu lebih kuat menolak dengan kaki kiri,\nbukan kanan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Baik, mengerti."
+        },
+        {
+            "name": "<username>",
+            "text": "Oke, tambah 3 putaran lagi di lintasan,\nsetelah itu selesai untuk hari ini."
+        },
+        {
+            "name": "<username>",
+            "text": "Oke, tambah 3 putaran lagi di lintasan,\nsetelah itu selesai untuk hari ini."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Hanya 3 putaran?"
+        },
+        {
+            "name": "<username>",
+            "text": "Kamu masih latihan bentuk lari,jadi aku khawatir kalau terlalu berat\nbuat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri."
+        },
+        {
+            "name": "<username>",
+            "text": "Kamu masih latihan bentuk lari,jadi aku khawatir\nkalau terlalu berat buat tubuh dan pikiranmu.\nKita harus pastikan kamu tidak memaksakan diri."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Begitu ya. Aku tidak kepikiran soal itu."
+        },
+        {
+            "name": "<username>",
+            "text": "Kalau kamu merasa kurang puas, bilang saja.\nAku tidak mau memaksakan sesuatu padamu."
+        },
+        {
+            "name": "<username>",
+            "text": "Kalau kamu merasa kurang puas, bilang saja.\nAku tidak mau memaksakan sesuatu padamu."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Tidak, masuk akal kok apa yang kamu bilang.\nAku tidak keberatan."
+        },
+        {
+            "text": "Setelah itu, dia kembali ke lintasan."
+        },
+        {
+            "text": "Kalau dilihat dari samping, dia kelihatan agak cemberut."
+        },
+        {
+            "text": "Sepertinya dia belum benar-benar rela, ya"
+        },
+        {
+            "text": "Apa karena latihanku kalah dibanding Sensei?\nAtau karena kami belum saling percaya...?"
+        },
+        {
+            "name": "<username>",
+            "text": "Dari nyari anggota sampai ngurus tim,\nmasalahku masih banyak banget.",
             "choice_data_list": [
                 "Aku yakin pasti bisa!"
             ]
-    },
-    {
-      "text": "Kalau dibandingkan latihan dari Sensei,\nlatihanku ini mungkin masih kurang.Atau mungkin aku dan dia belum\nbenar-benar punya hubungan saling percaya…",
+        },
+        {
+            "text": "Dari nyari anggota sampai ngurus tim,\nmasalahku masih banyak banget.",
             "choice_data_list": [
                 "Aku pasti bisa!"
             ]
-    },
-    {
-      "text": "Kemampuanku mengelola tim masih kurang.\nAkan sangat membantu kalau kita bisa dapat\nanggota baru lagi.",
-      "choice_data_list": [
-        "Tapi kita pasti bisa melewati ini!"
-      ]
-    },
-    {
-      "text": "Kemampuanku mengelola tim masih kurang.\nAkan sangat membantu kalau kita bisa dapat\nanggota baru lagi.",
-      "choice_data_list": [
-        "Tapi kita pasti bisa melewati ini!"
-      ]
-    },
-    {
-      "text": "Memikirkan hal itu malah membuatku semakin bersemangat."
-    },
-    {
-      "text": "Memikirkan hal itu malah membuatku semakin bersemangat."
-    }
-  ]
+        },
+        {
+            "text": "Aku pun memantapkan tekadku kembali.",
+            "choice_data_list": [
+                "Tapi kita pasti bisa melewati ini!"
+            ]
+        },
+        {
+            "text": "Aku pun memantapkan tekadku kembali.",
+            "choice_data_list": [
+                "Tapi kita pasti bisa melewati ini!"
+            ]
+        }
+    ]
 }
