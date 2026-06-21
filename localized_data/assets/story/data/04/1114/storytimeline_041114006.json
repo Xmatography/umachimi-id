@@ -24,7 +24,7 @@
         {
             "text": "Ngomong-ngomong, habis ini latihan di kolam renang kan? \nSyukurlah! Pasti seger banget kalau nyebur sekarang.",
             "choice_data_list": [
-                "<size=32>(Dia kelihatan tegang……Kalau nggak bisa ngobrol disini)</size>"
+                "<size=32>(Dia kelihatan tegang …Kalau nggak bisa ngobrol disini)</size>"
             ]
         },
         {
@@ -70,14 +70,14 @@
             "name": "Buena Kecil",
             "text": "Hiks, uwee……luka lecetnya Abang, ……tolong, cepet sembuhin……!",
             "choice_data_list": [
-                "<size=37>Semoga cepat sembuh dan bisa main bareng lagi.</size>"
+                "<size=36>Semoga cepat sembuh dan bisa main bareng lagi.</size>"
             ]
         },
         {
             "name": "Buena Kecil",
             "text": "Hiks, uwee……luka lecetnya Kakak, ……tolong, cepet sembuhin……!",
             "choice_data_list": [
-                "<size=37>Semoga cepat sembuh dan bisa main bareng lagi.</size>"
+                "<size=36>Semoga cepat sembuh dan bisa main bareng lagi.</size>"
             ]
         },
         {
@@ -129,7 +129,7 @@
             "name": "Buena Vista",
             "text": "Eh, yokan……? \nBukannya waktu itu kamu bilang nggak suka karena kemanisan……?",
             "choice_data_list": [
-                "<size=42>Sekarang manisnya berasa bikin tenang……</size>"
+                "<size=41>Sekarang manisnya berasa bikin tenang……</size>"
             ]
         },
         {
@@ -141,7 +141,7 @@
         {
             "text": "――Yah. Disini, juga udah beda……",
             "choice_data_list": [
-                "<size=38>……Kayaknya, kamu masih belum semangat ya?</size>"
+                "<size=37>……Kayaknya, kamu masih belum semangat ya?</size>"
             ]
         },
         {
@@ -192,7 +192,7 @@
         {
             "text": "――Akhirnya, setelah kuceritakan semuanya. Guncangan saat melihat larinya yang sekarang. Demi bisa bersanding dengannya, aku mati-matian berjuang dan berdoa kepada dewa……",
             "choice_data_list": [
-                "<size=34>……Soalnya, aku beneran pengen impian ini terwujud.</size>"
+                "<size=33>……Soalnya, aku beneran pengen impian ini terwujud.</size>"
             ]
         },
         {
@@ -207,7 +207,7 @@
         {
             "text": "……!",
             "choice_data_list": [
-                "<size=42>Aku berharap, biar terus ada di sampingmu.</size>"
+                "<size=41>Aku berharap, biar terus ada di sampingmu.</size>"
             ]
         },
         {
@@ -231,7 +231,7 @@
         {
             "text": "Tentang dirimu, yang belum aku ketahui.",
             "choice_data_list": [
-                "<size=41>……Akhirnya, aku bisa liat senyum kamu lagi.</size>"
+                "<size=39>……Akhirnya, aku bisa liat senyum kamu lagi.</size>"
             ]
         },
         {

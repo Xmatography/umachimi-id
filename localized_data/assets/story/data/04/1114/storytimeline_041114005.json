@@ -41,7 +41,7 @@
         {
             "text": "Jreng! Coba tebak, ini apa?",
             "choice_data_list": [
-                "<size=41>……Ah! Es krim yang dulu sering kita makan!</size>"
+                "<size=40>……Ah! Es krim yang dulu sering kita makan!</size>"
             ]
         },
         {
@@ -73,8 +73,8 @@
             "name": "Rekan Trainer",
             "text": "Lama gak ketemu ya! Sehat lu!? \nEh, udah berapa lama ya? Asli, udah lama banget kan?",
             "choice_data_list": [
-                "<size=38>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>",
-                "<size=38>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>"
+                "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>",
+                "<size=36>Perasaan tiap ketemu lu ngomongnya gitu mulu?</size>"
             ]
         },
         {
@@ -106,7 +106,7 @@
         {
             "text": "(Di situasi kayak gini, dia harus bisa jawab dengan benar……！)",
             "choice_data_list": [
-                "<size=35>Baik, mengenai hal itu, izinkan saya menjelaskannya.</size>"
+                "<size=34>Baik, mengenai hal itu, izinkan saya menjelaskannya.</size>"
             ]
         },
         {

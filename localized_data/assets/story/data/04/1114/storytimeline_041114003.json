@@ -108,7 +108,7 @@
             "name": "Buena Vista",
             "text": "Aku juga sempat lari kemarin……jadi beban di tulang pasti sudah menumpuk. Makanya fokus di lintasan woodchip yang lebih empuk ya.",
             "choice_data_list": [
-                "<size=40>Tenang saja, bebannya kita tingkatkan terus.</size>"
+                "<size=39>Tenang saja, bebannya kita tingkatkan terus.</size>"
             ]
         },
         {
@@ -121,11 +121,11 @@
         },
         {
             "name": "Buena Vista",
-            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi ‘Abang’ yang sangat baik dan lembut)"
+            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Abang\" yang sangat baik dan lembut)"
         },
         {
             "name": "Buena Vista",
-            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi ‘Kakak’ yang sangat baik dan lembut)"
+            "text": "(Untuk sesaat… aku sempat berpikir ingin dia tetap menjadi \"Kakak\" yang sangat baik dan lembut)"
         },
         {
             "name": "Buena Vista",
@@ -135,7 +135,7 @@
             "name": "Buena Vista",
             "text": "(....Tapi sekarang, kamu benar-benar sudah menjadi Trainerku.)",
             "choice_data_list": [
-                "<size=39>Oke, istirahat selesai! Terakhir, pace 15 detik!</size>"
+                "<size=38>Oke, istirahat selesai! Terakhir, pace 15 detik!</size>"
             ]
         },
         {
@@ -150,15 +150,15 @@
             "name": "Buena Vista",
             "text": "Jadi, kalau begitu……agenda rapatnya sudah selesai semua, kan?\nKalau mau, gimana kalau kita istirahat bareng? Aku bikinin tehnya ya.",
             "choice_data_list": [
-                "<size=42>Sebentar……sebelum itu, ada satu hal lagi.</size>"
+                "<size=41>Sebentar……sebelum itu, ada satu hal lagi.</size>"
             ]
         },
         {
             "name": "Buena Vista",
             "text": "Hmm?",
             "choice_data_list": [
-                "<size=38>Soal ‘pemandangan indah’ yang kamu tuju itu―</size>",
-                "<size=38>Soal ‘pemandangan indah’ yang kamu tuju itu―</size>"
+                "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>",
+                "<size=36>Soal \"pemandangan indah\" yang kamu tuju itu―</size>"
             ]
         },
         {

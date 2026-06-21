@@ -57,7 +57,7 @@
         {
             "text": "Dikelilingi oleh sorakan yang bergemuruh bagai guntur―― \nSeorang diri, aku mengepalkan tinjuku dengan sangat erat.",
             "choice_data_list": [
-                "<size=42>(Jadi, inilah \"Buena Vista\" yang sekarang...)</size>"
+                "<size=40>(Jadi, inilah \"Buena Vista\" yang sekarang...)</size>"
             ]
         },
         {
@@ -66,7 +66,7 @@
         {
             "text": "Saat hari-hariku di akademi pelatihan yang kumasuki setelah belajar mati-matian, ternyata jauh lebih berat dan keras dari yang kubayangkan. Aku cuma terus terpuruk dan berjuang setengah mati.",
             "choice_data_list": [
-                "<size=40>(Seakan mimpiku menjadi Trainer begitu jauh)</size>"
+                "<size=39>(Seakan mimpiku menjadi Trainer begitu jauh)</size>"
             ]
         },
         {
@@ -96,7 +96,7 @@
         {
             "text": "Seolah-olah sudah lama meninggalkan diriku yang bahkan diragukan bisa menjadi Trainer... dia mulai bersinar sebagai pelari yang sangat menjanjikan di masa depan.",
             "choice_data_list": [
-                "<size=41>(Dipikir-pikir...bukannya dulu selalu begitu?)</size>"
+                "<size=39>(Dipikir-pikir...bukannya dulu selalu begitu?)</size>"
             ]
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Ah, ketemu……！ Fufu, senang bisa bertemu. \nKamu datang menonton balapan ekshibisiku ya.",
+            "text": "Ah, ketemu……！ Fufu, senang bisa bertemu. \nKamu datang menonton balapan eksibisiku ya.",
             "choice_data_list": [
                 "Ya, aku paham kekuatanmu sekarang.",
                 "Ya, aku paham kekuatanmu sekarang."
@@ -151,7 +151,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Tujuanmu selama kontrak sementara yang pernah kamu ceritakan――\nyaitu menang di ‘Kejuaraan Cabang Kompetisi’, kan?"
+            "text": "Tujuanmu selama kontrak sementara yang pernah kamu ceritakan――\nyaitu menang di \"Kejuaraan Cabang Kompetisi\", kan?"
         },
         {
             "name": "Buena Vista",
@@ -180,8 +180,8 @@
             "name": "Buena Vista",
             "text": "Menilai dulu? Ee-to, aku? Ke kamu? Tapi――",
             "choice_data_list": [
-                "<size=40>...Buena, kamu sering tolak perekrutan, kan?</size>",
-                "<size=40>...Buena, kamu sering tolak perekrutan, kan?</size>"
+                "<size=39>...Buena, kamu sering tolak perekrutan, kan?</size>",
+                "<size=39>...Buena, kamu sering tolak perekrutan, kan?</size>"
             ]
         },
         {
@@ -192,8 +192,8 @@
             "name": "Buena Vista",
             "text": "Kaget tahu. Padahal, aku dengar hari ini adalah hari pertamamu――",
             "choice_data_list": [
-                "<size=37>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>",
-                "<size=37>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>"
+                "<size=35>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>",
+                "<size=35>Aku tahu. Soalnya kamu Umamusume yang hebat.</size>"
             ]
         },
         {
@@ -205,8 +205,8 @@
         {
             "text": "Karena aku ingin mengejarnya. Karena aku ingin berdiri sejajar dengannya. Bukan hanya sekedar 'teman masa kecil'――",
             "choice_data_list": [
-                "<size=43>(Karena aku ingin, layak dipilih olehnya...!)</size>",
-                "<size=43>(Karena aku ingin, layak dipilih olehnya...!)</size>"
+                "<size=41>(Karena aku ingin, layak dipilih olehnya...!)</size>",
+                "<size=41>(Karena aku ingin, layak dipilih olehnya...!)</size>"
             ]
         },
         {

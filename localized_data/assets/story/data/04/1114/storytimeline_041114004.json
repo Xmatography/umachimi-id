@@ -62,8 +62,8 @@
             "name": "Buena Vista",
             "text": "Fokus……?",
             "choice_data_list": [
-                "<size=37>Iya. Untuk sekarang, coba dengarkan suarku saja.</size>",
-                "<size=37>Iya. Untuk sekarang, coba dengarkan suarku saja.</size>"
+                "<size=35>Iya. Untuk sekarang, coba dengarkan suaraku saja.</size>",
+                "<size=35>Iya. Untuk sekarang, coba dengarkan suaraku saja.</size>"
             ]
         },
         {
@@ -74,8 +74,8 @@
             "name": "",
             "text": "Namun, pendengaran hebat itu punya sifat \"terarah\". \nKarena itulah, aku memanggilnya dengan perlahan dan jelas.",
             "choice_data_list": [
-                "<size=39>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
-                "<size=39>Atur napas bersamaku. Tarik… lalu hembuskan.</size>"
+                "<size=37>Atur napas bersamaku. Tarik… lalu hembuskan.</size>",
+                "<size=37>Atur napas bersamaku. Tarik… lalu hembuskan.</size>"
             ]
         },
         {
@@ -90,8 +90,8 @@
             "name": "Buena Vista",
             "text": "……Aku baru sadar. Ternyata aku, tegang sekali ya.",
             "choice_data_list": [
-                "<size=37>Kamu dari dulu……punya kepekaan yang sensitif.</size>",
-                "<size=37>Kamu dari dulu……punya kepekaan yang sensitif.</size>"
+                "<size=36>Kamu dari dulu……punya kepekaan yang sensitif.</size>",
+                "<size=36>Kamu dari dulu……punya kepekaan yang sensitif.</size>"
             ]
         },
         {
@@ -256,8 +256,8 @@
             "name": "",
             "text": "Sekali lagi. Berapa kali pun. Aku ingin bisa mengejarnya, dan menopang punggungnya yang selalu berlari di depan.",
             "choice_data_list": [
-                "<size=34>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>",
-                "<size=34>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>"
+                "<size=33>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>",
+                "<size=33>Buena, izinkan aku mengatakannya lagi. Bersamaku―!</size>"
             ]
         },
         {
@@ -293,8 +293,8 @@
             "name": "Buena Vista",
             "text": "……Iya.",
             "choice_data_list": [
-                "<size=42>Maukah kamu, membuat kontrak denganku?</size>",
-                "<size=42>Maukah kamu, membuat kontrak denganku?</size>"
+                "<size=40>Maukah kamu, membuat kontrak denganku?</size>",
+                "<size=40>Maukah kamu, membuat kontrak denganku?</size>"
             ]
         },
         {

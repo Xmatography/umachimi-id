@@ -9,7 +9,7 @@
         {
             "text": "Trainer-san, makasih banyak!",
             "choice_data_list": [
-                "<size=41>Selamat, semua menu latihannya udah beres!</size>"
+                "<size=39>Selamat, semua menu latihannya udah beres!</size>"
             ]
         },
         {
@@ -18,7 +18,7 @@
         {
             "text": "Hehe, isinya lari terus ya. Semuanya cuma lari doang.\nApa ini yang namanya masa muda ya?",
             "choice_data_list": [
-                "<size=34>Kalau gitu, mau nyoba hal khas musim panas lainnya?</size>"
+                "<size=33>Kalau gitu, mau nyoba hal khas musim panas lainnya?</size>"
             ]
         },
         {
@@ -106,7 +106,7 @@
         {
             "text": "Katanya mau nonton kembang api……\n……Tapi kok, kamu malah nyewa kapal pesiar……?",
             "choice_data_list": [
-                "<size=35>Nggak sengaja nemu pas nyari, jadi langsung pesen!</size>"
+                "<size=34>Nggak sengaja nemu pas nyari, jadi langsung pesen!</size>"
             ]
         },
         {
@@ -118,7 +118,7 @@
         {
             "text": "...Aku nggak kepikiran sama sekali lho...\nKalau nonton dari kapal pesiar.",
             "choice_data_list": [
-                "<size=34>Soalnya, disini kembang apinya kelihatan paling dekat.</size>"
+                "<size=33>Soalnya, disini kembang apinya kelihatan paling dekat.</size>"
             ]
         },
         {
@@ -139,20 +139,20 @@
         {
             "text": "(Dia ngomong gitu dengan santainya.\nHal sehebat itu, dibilang seakan hal yang biasa.)",
             "choice_data_list": [
-                "<size=30>Buat bisa di sampingmu, jadi teman masa kecil aja gak cukup.</size>"
+                "<size=29>Buat bisa di sampingmu, jadi teman masa kecil aja gak cukup.</size>"
             ]
         },
         {
             "text": "(Wajahnya terlihat sedikit tertekan, saat menggumamkan hal itu.)",
             "choice_data_list": [
-                "<size=31>Aku lakuin semuanya sekuat tenaga, jadi aku harus berubah.</size>"
+                "<size=30>Aku lakuin semuanya sekuat tenaga, jadi aku harus berubah.</size>"
             ]
         },
         {
             "text": "(Tatapannya padaku masih terasa lembut seperti dulu――\nTapi, sekarang terasa lebih kuat dibanding masa itu.)",
             "choice_data_list": [
-                "<size=35>Makanya, kalau aku berubah, itu semua berkat kamu.</size>",
-                "<size=35>Makanya, kalau aku berubah, itu semua berkat kamu.</size>"
+                "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>",
+                "<size=34>Makanya, kalau aku berubah, itu semua berkat kamu.</size>"
             ]
         },
         {
@@ -176,7 +176,7 @@
         {
             "text": "Habisnya, kamu selalu nunjukin sisi baru terus sih.",
             "choice_data_list": [
-                "...Nanti, kamu jadi ngerasa kesepian lagi?"
+                "<size=42>...Nanti, kamu jadi ngerasa kesepian lagi?</size>"
             ]
         },
         {

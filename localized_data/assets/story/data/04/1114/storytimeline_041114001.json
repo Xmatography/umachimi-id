@@ -82,8 +82,8 @@
             "name": "Buena Kecil",
             "text": "Hiks, uuu～…! Pasti sakit, ya? Menderita, ya…? Dari tadi batuk-batuk terus… Badannya juga demam… uuu～……！",
             "choice_data_list": [
-                "<size=37>Aku gapapa kok……Jangan nangis lagi ya, Buena.</size>",
-                "<size=37>Aku gapapa kok……Jangan nangis lagi ya, Buena.</size>"
+                "<size=35>Aku gapapa kok……Jangan nangis lagi ya, Buena.</size>",
+                "<size=35>Aku gapapa kok……Jangan nangis lagi ya, Buena.</size>"
             ]
         },
         {
@@ -186,8 +186,8 @@
             "name": "Buena Vista",
             "text": "Sama-sama. ……Duh, udah hampir waktunya, aku harus cepet ke tribun! Soalnya aku ingin nonton di tempat yang paling bagus!",
             "choice_data_list": [
-                "<size=40>Ya, nonton langsung juga bagus buat belajar.</size>",
-                "<size=40>Ya, nonton langsung juga bagus buat belajar.</size>"
+                "<size=39>Ya, nonton langsung juga bagus buat belajar.</size>",
+                "<size=39>Ya, nonton langsung juga bagus buat belajar.</size>"
             ]
         },
         {
