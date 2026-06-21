@@ -942,7 +942,7 @@
         "60000": "Aku harap kita berdua dapat memperoleh sesuatu yang berharga.",
         "60001": "Aku akan mengadakan konser, jadi jangan sampai ketinggalan.",
         "70000": "Jika kamu ingin mewujudkan potensimu, maka bergabunglah dengan aku！",
-        "70001": "Aku mengira kamu hanyalah kelinci percobaan biasa, tapi sepertinya aku telah meremehkan kamu.",
+        "70001": "Aku sempat berpikir kamu hanyalah marmut percobaan biasa, tapi kayaknya bukan ya.",
         "70004": "Pilihan yang aman, tapi cukup nyaman.",
         "70008": "Sepertinya mudah untuk memasang barang-barang di pakaian ini, tetapi apakah mereka akan mampu menahan gerakan yang berat?",
         "70009": "Bagaimana menurutmu? Pakaian ini benar-benar cocok untukku, bukan?",
@@ -3624,5 +3624,8 @@
     },
     "1114": {
         "70001": "Ada orang mengejar mimpi yang sama――\nyang mendambakan \"Pemandangan Indah\"\nAku, orang yang sangat beruntung, ya."
+    },
+    "1090": {
+        "70001": "Semua hal yang benar-benar aku takuti, \nkamu sudah lihat dan memahaminya, kan.\nKarena itulah, aku bisa terus melangkah\ntanpa harus membebani diri."
     }
 }
