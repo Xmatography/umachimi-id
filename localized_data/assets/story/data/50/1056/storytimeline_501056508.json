@@ -1,0 +1,29 @@
+{
+    "text_block_list": [
+        {
+            "text": "Atas permintaan Machikane Fukukitaru,\nkami datang ke kuil……"
+        },
+        {
+            "text": "Uugh～～, Dewa Energi～～.\nMohon redakan amarahmu, berikan aku energiiii～～."
+        },
+        {
+            "text": "……Hah, tidak berhasil.\nTidak ada energi yang muncul sama sekali.",
+            "choice_data_list": [
+                "Kamu kurang sehat?",
+                "Kamu kurang sehat?"
+            ]
+        },
+        {
+            "text": "Bukan begitu……entah kenapa kelelahan ini tidak hilang-hilang.\nSebenarnya aku tahu penyebabnya."
+        },
+        {
+            "text": "Karena belakangan ini aku sibuk dan tidak bisa datang bersembahyang,\nDewa Energi yang mengatur vitalitas sedang murka padaku……！\nPasti……！"
+        },
+        {
+            "text": "Kugh, tidak ada pilihan lain.\nTambah 50 yen uang persembahan……sekali lagi！！"
+        },
+        {
+            "text": "Sepertinya kelelahan masih tersisa.\nDemi aktivitasnya ke depan,\nmungkin perlu meninjau ulang jadwal startnya……"
+        }
+    ]
+}

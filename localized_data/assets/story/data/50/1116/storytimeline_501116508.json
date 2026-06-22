@@ -1,0 +1,19 @@
+{
+    "text_block_list": [
+        {
+            "text": "Hff......! Hff......!"
+        },
+        {
+            "text": "......Hah. Baru lewat 400 kali,\ntapi rasa lelah ini......"
+        },
+        {
+            "text": "Tidak ada gunanya.\nMelanjutkan begini saja tanpa tujuan.",
+            "choice_data_list": [
+                "(Padahal biasanya aku bisa selesaikan 1000 kali......)"
+            ]
+        },
+        {
+            "text": "Sepertinya Gentildonna sedang kelelahan akibat balapan. Mungkin sebaiknya jadwal ke depannya ditinjau ulang."
+        }
+    ]
+}

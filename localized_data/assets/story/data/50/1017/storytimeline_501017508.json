@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "text": "Trainer.\nBagaimana menurutmu soal penampilanku hari ini?"
+        },
+        {
+            "text": "Sekilas terlihat seperti biasa,\npenuh wibawa seperti selalu. Namun――"
+        },
+        {
+            "text": "Setelah kurenungkan kembali, sepertinya\nada sedikit tanda kelelahan yang terlihat di awal lariku.",
+            "choice_data_list": [
+                "Sepertinya kamu memang agak kelelahan……"
+            ]
+        },
+        {
+            "text": "Ternyata kamu pun melihat hal yang sama.\nSepertinya aku kurang disiplin dalam menjaga kondisi tubuh."
+        },
+        {
+            "text": "Bukan, bukan berarti aku menyalahkanmu.\nAku sendiri juga terlalu terburu-buru."
+        },
+        {
+            "text": "Ke depannya, mari kita sama-sama lebih berhati-hati."
+        },
+        {
+            "text": "Seperti yang dikatakan Symboli Rudolf,\nsepertinya kita perlu meninjau ulang rencana ke depan. "
+        }
+    ]
+}
