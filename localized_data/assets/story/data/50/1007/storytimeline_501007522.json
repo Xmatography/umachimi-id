@@ -1,0 +1,30 @@
+{
+    "text_block_list": [
+        {
+            "text": "Trainer…… sepertinya,\naku sudah tidak bisa bertahan……!",
+            "choice_data_list": [
+                "Memangnya ada apa?",
+                "Memangnya ada apa?"
+            ]
+        },
+        {
+            "text": "……Nggak, di saat-saat kayak gini\naku nggak mau ngerepotin kamu.\nLupain aja……!",
+            "choice_data_list": [
+                "Jangan bilang gitu, andalkan aku ",
+                "Jangan bilang gitu, andalkan aku "
+            ]
+        },
+        {
+            "text": "……Ish, kamu juga aneh ya.\nYaudah, makasih udah mau dengerin……. Sebenernya――"
+        },
+        {
+            "text": "Ada jerawat numbuh di jidat aku.\nDan ini sakit banget."
+        },
+        {
+            "text": "Haaah…… ada cara buat ngatasinnya nggak?"
+        },
+        {
+            "text": "Syukurlah ternyata bukan hal serius,\ntapi sepertinya dia sedang kesusahan dengan masalah kulitnya.\nMulai sekarang harus lebih memperhatikannya."
+        }
+    ]
+}

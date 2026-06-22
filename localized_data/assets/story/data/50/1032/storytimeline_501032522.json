@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "text": "Hmm……sepertinya kulitku sedang bermasalah.\nMungkin karena bahan-bahan eksperimen."
+        },
+        {
+            "text": "Sudah berhati-hati dalam menangani\nbahan kimianya, tapi ternyata……",
+            "choice_data_list": [
+                "Kamu baik-baik saja?",
+                "Kamu baik-baik saja?"
+            ]
+        },
+        {
+            "text": "Hanya iritasi biasa, tidak berbahaya."
+        },
+        {
+            "text": "Kalau sampai kamu tidak menyadarinya,\nberarti tidak terlalu parah juga."
+        },
+        {
+            "text": "Sudah, lupakan saja.\nKalau makin parah, aku buat salep sendiri."
+        },
+        {
+            "text": "Meski disuruh melupakan, sepertinya ada\nsedikit rasa sakit atau gatal, Agnes Tachyon\nterlihat sedikit terganggu karenanya……"
+        }
+    ]
+}

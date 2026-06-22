@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Gold Ship terlihat\ntidak bersemangat seperti biasanya."
+        },
+        {
+            "text": "Aah…… Mayday mayday.\nDi sini Gold Ship memanggil."
+        },
+        {
+            "text": "Saat ini, kehabisan bahan bakar, kehabisan bahan bakar.\nBeralih ke mode hemat energi. Ganti."
+        },
+        {
+            "text": "―― guu.",
+            "choice_data_list": [
+                "（Tidur sambil berdiri……！）"
+            ]
+        },
+        {
+            "text": "Demi penampilannya ke depan,\nsepertinya perlu meninjau ulang jadwal balapannya……"
+        }
+    ]
+}
