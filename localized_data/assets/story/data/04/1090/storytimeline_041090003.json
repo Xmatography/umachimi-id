@@ -3,21 +3,21 @@
     "text_block_list": [
         {
             "name": "Vivlos",
-            "text": "Ayo dong, Trainer-san! Buka kakinya lebih lebar! Terus \ngerakin punggungnya giniiih!",
+            "text": "Ayo dong, Trainer-san! Buka kakinya lebih lebar! Terus gerakin punggungnya giniiii!",
             "choice_data_list": [
-                "Biar kamu bilang gitu juga... aduh duh sakit!!!!"
+                "<size=37>Biar kamu bilang gitu juga... aduh duh sakit!!!!</size>"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Ahaha, seru banget~♪ Muka Trainer-san kocak deh tadi!",
+            "text": "Ahaha, seru banget～♪ Muka Trainer-san kocak deh tadi!",
             "choice_data_list": [
                 "Kirain kita nggak bakal main Yoga."
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Dih~ kalau gitu terus, rencana kita nggak bakal kelar lho! Habis ini piano, terus kaligrafi sama bahasa Inggris!",
+            "text": "Dih～ kalau gitu terus, rencana kita nggak bakal kelar lho! Habis ini piano, terus kaligrafi sama bahasa Inggris!",
             "choice_data_list": [
                 "P-pelan-pelan dong...!"
             ]
@@ -29,44 +29,44 @@
             "name": "Vivlos",
             "text": "――Soal Kakak? Kok nanyanya ke aku?",
             "choice_data_list": [
-                "Pengen tahu lebih banyak sebelum mulai scouting."
+                "<size=37>Pengen tahu lebih sebelum mulai perekrutan.</size>"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Ehh~~ pengen banget tahu ya? Hmmm~ enaknya ngapain ya♪~?"
+            "text": "Ehh～～ pengen banget tahu ya? \nHmmm～ enaknya ngapain ya♪～?"
         },
         {
             "name": "Vivlos",
-            "text": "Kalau gitu, Trainer-san~ Harus turutin semua omonganku ya! Oke♪?"
+            "text": "Kalau gitu, Trainer-san～ \nHarus turutin semua omonganku ya! Oke♪?"
         },
         {
-            "text": "Aku pengen sedikit lebih tahu soal Verxina dan kenapa dia bisa\nsalah tingkah gitu. Kayaknya ini penting banget deh."
-        },
-        {
-            "name": "Vivlos",
-            "text": "Ayo, ayo, katanya mau tahu soal Kakak!? Ikut aku yuk! Berangkat~!"
+            "text": "Aku pengen sedikit lebih tahu soal Verxina dan kenapa dia bisa salah tingkah gitu. Kayaknya ini penting banget deh."
         },
         {
             "name": "Vivlos",
-            "text": "Terakhir, kelas bikin teh! Ini spesial lho, aku ajarin ya♪ Belajar langsung dari Kakak nih!"
-        },
-        {
-            "text": "Aku lega banget pas dengar kata 『Terakhir』. Hari ini panjang banget,\nsedari olahraga, musik, sampai belajar bahasa."
+            "text": "Ayo, ayo, katanya mau tahu soal Kakak!? Ikut aku yuk! Berangkat～!"
         },
         {
             "name": "Vivlos",
-            "text": "Nah~ Gimana? Udah lebih paham soal Kakak belum?",
+            "text": "Terakhir, kelas bikin teh! Ini spesial lho, aku ajarin ya♪ \nBelajar langsung dari Kakak nih!"
+        },
+        {
+            "text": "Aku lega banget pas dengar kata \"Terakhir\". Hari ini panjang banget, sedari olahraga, musik, sampai belajar bahasa."
+        },
+        {
+            "name": "Vivlos",
+            "text": "Nah～ Gimana? Udah lebih paham soal Kakak belum?",
             "choice_data_list": [
                 "...Maksudnya gimana?"
             ]
         },
         {
-            "text": "Emang sih hari ini ngelakuin banyak hal. Tapi kan\nkita nggak ngomongin Verxina sama sekali――"
+            "text": "Emang sih hari ini ngelakuin banyak hal. Tapi kan kita nggak ngomongin Verxina sama sekali――"
         },
         {
             "name": "Vivlos",
-            "text": "Masa sih nggak sadar!? Semua tempat\nyang kita datengin hari ini tuh tempat Kakak belajar lho!",
+            "text": "Masa sih nggak sadar!? Semua tempat yang kita datengin hari ini tuh tempat Kakak belajar lho!",
             "choice_data_list": [
                 "Eh...?"
             ]
@@ -85,19 +85,19 @@
         },
         {
             "name": "Verxina Kecil",
-            "text": "Yoga? Fufu, gara-gara kamu, Kakak jadi\nnyoba banyak hal baru nih."
+            "text": "Yoga? Fufu, gara-gara kamu, Kakak jadi nyoba banyak hal baru nih."
         },
         {
             "name": "Vivlos",
-            "text": "Terus ya, biarpun aku bosan dan berhenti,\nKakak bakal tetap lanjutin..."
+            "text": "Terus ya, biarpun aku bosan dan berhenti, Kakak bakal tetap lanjutin..."
         },
         {
             "name": "Vivlos",
-            "text": "Katanya, kalau udah mulai, harus tuntas\ndan sempurna. Terus, pas dia lanjutin itu――"
+            "text": "Katanya, kalau udah mulai, harus tuntas dan sempurna. \nTerus, pas dia lanjutin itu――"
         },
         {
             "name": "Vivlos",
-            "text": "Dia lanjut terus biar bisa ngajarin aku kalau sewaktu-waktu aku mau\ncoba lagi. Padahal pasti berat banget buat terus konsisten."
+            "text": "Dia lanjut terus biar bisa ngajarin aku kalau sewaktu-waktu aku mau coba lagi. Padahal pasti berat banget buat terus konsisten."
         },
         {
             "name": "Vivlos",
@@ -113,11 +113,11 @@
         },
         {
             "name": "Cheval Grand",
-            "text": "Dia beda banget sama... aku. Elegan dan anggun..."
+            "text": "Dia beda banget sama... aku. Begitu elegan, anggun dan selalu terlihat percaya diri..."
         },
         {
             "name": "Cheval Grand",
-            "text": "Sempurna di segala hal, nggak pernah\nsetengah-setengah... Makanya――",
+            "text": "Sempurna di segala hal, gak pernah setengah-setengah... Makanya――",
             "choice_data_list": [
                 "Makanya?"
             ]
@@ -132,15 +132,15 @@
         },
         {
             "name": "Verxina Kecil",
-            "text": "Paham kan, Cheval? Mau \nsecepat apa pun, nggak boleh asal buru-buru."
+            "text": "Paham kan, Cheval? Mau secepat apa pun, nggak boleh asal buru-buru."
         },
         {
             "name": "Verxina Kecil",
-            "text": "Biar nggak cedera, harus pemanasan\nyang bener. ...Sini, Kakak ajarin caranya."
+            "text": "Biar nggak cedera, harus pemanasan yang bener.\n……Sini, Kakak ajarin caranya."
         },
         {
             "name": "Cheval Grand",
-            "text": "Biar nggak cedera, nggak maksain diri...\nKakak emang selalu khawatirin aku..."
+            "text": "Biar nggak cedera, nggak maksain diri... Kakak emang selalu \nkhawatirin aku..."
         },
         {
             "name": "Cheval Grand",
@@ -151,17 +151,17 @@
             "text": "Makanya, kapan-kapan aku pengen buktiin...\nDia nggak perlu khawatir. Kalau... aku bakal baik-baik aja."
         },
         {
-            "text": "Ujung-ujungnya, dari adik-adiknya ini aku\njadi tahu seberapa pedulinya Verxina sebagai kakak."
+            "text": "Ujung-ujungnya, dari adik-adiknya ini aku jadi tahu seberapa pedulinya Verxina sebagai kakak."
         },
         {
-            "text": "Makin aku tahu sifat aslinya, makin kerasa\nnggak cocok sama tujuannya buat ngejar 『Puncak』...",
+            "text": "Makin aku tahu sifat aslinya, makin kerasa nggak cocok sama tujuannya buat ngejar \"Puncak\"...",
             "choice_data_list": [
                 "(...Eh, masa iya sih?)",
                 "(...Eh, masa iya sih?)"
             ]
         },
         {
-            "text": "Pas pertama kali lihat Verxina, aku nggak bisa berhenti \nmerhatiin dia yang gigih banget ngejar posisi atas."
+            "text": "Pas pertama kali lihat Verxina, aku nggak bisa berhenti merhatiin dia yang gigih banget ngejar posisi atas."
         },
         {
             "text": "『Jangan pernah palingkan pandanganmu』 \nMungkin itu lebih ke doa dari dia, bukan sekadar tuntutan."
@@ -174,7 +174,7 @@
             ]
         },
         {
-            "text": "Sebenarnya apa yang bikin dia ambisius banget ngejar 『Puncak』?\nKayaknya aku mulai paham deh alasannya."
+            "text": "Sebenarnya apa yang bikin dia ambisius banget ngejar \"Puncak\" ?\nKayaknya aku mulai paham deh alasannya."
         }
     ]
 }

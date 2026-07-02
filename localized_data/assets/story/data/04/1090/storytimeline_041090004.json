@@ -1,13 +1,13 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Verxina",
-            "text": "――Maaf... \nAku belum siap debut."
+            "text": "――Mohon maaf yang sebesar-besarnya... \nBagaimana pun juga, aku tidak bisa memikirkan debut saat ini."
         },
         {
             "name": "Verxina",
-            "text": "Aku tolak tawaran scouting-mu... Permisi――!"
+            "text": "Aku tolak tawaran perekrutanmu... Permisi――!"
         },
         {
             "name": "Verxina",
@@ -15,19 +15,19 @@
         },
         {
             "name": "Verxina",
-            "text": "(Bukan berarti aku nggak mau lari. \nAku juga nggak mau berhenti balapan...!)"
+            "text": "(Bukan berarti aku nggak mau lari. Aku juga nggak mau berhenti balapan...!)"
         },
         {
             "name": "Verxina",
-            "text": "(Tapi, tetap saja... \naku nggak bisa terima!! Kalau begini, debut pun――!)"
+            "text": "(Tapi, tetap saja... tetap saja, aku nggak bisa terima!! Debut di kondisi seperti ini, tetap saja――!)"
         },
         {
             "name": "Verxina",
-            "text": "Sejak hari itu... aku...――"
+            "text": "Sejak hari itu... lagipula aku……――"
         },
         {
             "name": "Verxina",
-            "text": "Nggak mungkin...!!!! \nAku bakal kalah... nggak mungkin...!!!!"
+            "text": "Nggak mungkin...!!!! Aku bakal kalah... nggak mungkin...!!!!"
         },
         {
             "name": "Verxina & Gentildonna",
@@ -39,7 +39,7 @@
         },
         {
             "name": "Verxina",
-            "text": "(Masih terbayang jelas. Lap terakhir yang mengerikan itu, \ncara dia nyalip aku yang nggak masuk akal...)"
+            "text": "(Masih terbayang jelas. Lap terakhir yang mengerikan itu, cara dia nyalip aku yang nggak masuk akal...)"
         },
         {
             "name": "Verxina",
@@ -47,15 +47,15 @@
         },
         {
             "name": "Verxina",
-            "text": "(Bukan cuma saat itu. Sekeras apa pun aku berusaha, \naku nggak bakal bisa kejar dia...)"
+            "text": "(Bukan cuma saat itu. Sekeras apa pun aku berusaha, aku nggak bakal bisa kejar dia...)"
         },
         {
             "name": "Verxina",
-            "text": "(Apa aku takut karena nggak bisa menang? \nApa karena aku takut sama dia, makanya aku...)"
+            "text": "(Apa aku takut karena nggak bisa menang? \nkarena aku takut sama dia, makanya aku...)"
         },
         {
             "name": "Verxina",
-            "text": "Apa aku nyerah saja...?",
+            "text": "Apa aku, menyerah saja...?",
             "choice_data_list": [
                 "Maaf, ada waktu sebentar?"
             ]
@@ -78,32 +78,32 @@
         },
         {
             "name": "Verxina",
-            "text": "Makasih udah khawatirin aku. \nTapi, kayaknya nggak ada lagi yang perlu diomongin."
+            "text": "Makasih udah khawatirin aku. Tapi, kayaknya nggak ada lagi yang perlu diomongin."
         },
         {
             "name": "Verxina",
-            "text": "Kan udah kubilang, aku nolak semua tawaran scouting. \nSoal debut, aku...――",
+            "text": "Seperti yang kubilang, aku nolak semua tawaran perekrutan.\nBagaimana pun juga soal debut, aku...――",
             "choice_data_list": [
-                "Tadi kamu bilang 『Nyerah』――Seriusan?"
+                "<size=39>Tadi kamu bilang \"Nyerah\"――Kamu serius?</size>"
             ]
         },
         {
             "name": "Verxina",
-            "text": "...Entahlah. \nTapi perasaanku bilang itu mustahil."
+            "text": "...Entahlah. Tapi perasaanku bilang itu mustahil."
         },
         {
             "name": "Verxina",
             "text": "Pasti karena aku takut sama Gentildonna-san...",
             "choice_data_list": [
-                "...Yakin alasannya itu?"
+                "……Kayaknya, nggak begitu kan?"
             ]
         },
         {
             "name": "Verxina",
             "text": "Eh...?",
             "choice_data_list": [
-                "Kamu ngejar 『Puncak』 buat siapa?",
-                "Kamu ngejar 『Puncak』 buat siapa?"
+                "Kamu ngejar \"Puncak\" buat siapa?",
+                "Kamu ngejar \"Puncak\" buat siapa?"
             ]
         },
         {
@@ -112,25 +112,25 @@
         },
         {
             "name": "Verxina",
-            "text": "Buat adik-adikku. \nAku punya dua adik..."
+            "text": "Buat adik-adikku. Aku punya dua adik..."
         },
         {
             "name": "Verxina",
-            "text": "Vivlos, jujur tapi agak manja. \nSama Cheval, yang terlalu serius dan suka overthinking――"
+            "text": "Vivlos yang jujur tapi sedikit manja, dan Cheval yang terlalu serius sampai banyak pikiran sendirian――"
         },
         {
             "name": "Verxina",
-            "text": "Aku pengen jadi contoh yang baik buat mereka, \nmakanya aku harus sempurna. Soalnya――"
+            "text": "Aku pengen jadi contoh yang baik buat mereka, makanya aku harus sempurna. Soalnya――"
         },
         {
             "name": "Verxina",
             "text": "――Aku ini seorang kakak."
         },
         {
-            "text": "Jawaban yang jujur. Udah kuduga. \nAlasan dia selalu serius dan kerja keras, itu semua――"
+            "text": "Jawaban yang jujur. Sudah kuduga, alasan dia selalu serius dan kerja keras, itu semua――"
         },
         {
-            "text": "Biar bisa selalu ada buat mereka, \njadi panutan yang bisa diandalkan."
+            "text": "Biar bisa selalu ada buat mereka, jadi panutan yang bisa diandalkan."
         },
         {
             "text": "Dan kadang, jadi rintangan yang harus mereka lewati."
@@ -148,75 +148,75 @@
         },
         {
             "name": "Verxina",
-            "text": "Tapi dia luar biasa banget... kupikir aku nggak bakal selevel. \nTapi... sebenarnya yang kutakutkan itu――"
+            "text": "Tapi, dia luar biasa banget... kupikir aku nggak bakal selevel. \nTapi... sebenarnya yang kutakutkan itu――"
         },
         {
             "name": "Vivlos Kecil",
-            "text": "『Kakak keren banget! \nAku juga pengen bisa lari kayak Kakak!』"
+            "text": "\"Kakak keren banget! Aku juga pengen bisa lari kayak Kakak!\""
         },
         {
             "name": "Cheval Kecil",
-            "text": "『A-aku juga! Kayak Kakak... \nnggak deng, lebih cepat dari Kakak――』"
+            "text": "\"A-aku juga! Kayak Kakak... nggak deng, lebih cepat dari Kakak――\""
         },
         {
             "name": "Verxina",
-            "text": "............Benar juga. \nTernyata itu alasannya..."
+            "text": "............Benar juga. Ternyata itu alasannya..."
         },
         {
             "name": "Verxina",
-            "text": "Aku bukan takut sama kehebatannya. \nYang sebenarnya kutakutkan itu――"
+            "text": "Aku bukan takut sama kehebatannya. Yang sebenarnya aku takutkan itu adalah――"
         },
         {
             "name": "Verxina",
-            "text": "Kelihatan menyedihkan pas kalah di depan adik-adikku. \nAku bakal bikin mereka kecewa... karena――"
+            "text": "Kelihatan menyedihkan pas kalah di depan adik-adikku.  Aku bakal bikin mereka kecewa... karena――"
         },
         {
             "name": "Verxina",
-            "text": "Aku udah janji dari dulu! \nBakal jadi kakak yang bisa mereka banggakan..."
+            "text": "Aku udah janji dari dulu! Bakal jadi kakak yang bisa mereka banggakan..."
         },
         {
             "name": "Verxina",
-            "text": "Biar mereka nggak kehilangan arah. \nAku bakal selalu ada buat buka jalan buat mereka――"
+            "text": "Biar mereka nggak kehilangan arah. Aku bakal selalu ada buat buka jalan buat mereka――"
         },
         {
             "name": "Verxina",
-            "text": "Tapi――justru karena itu \naku nggak bisa debut sekarang..."
+            "text": "Tapi――justru karena itu, aku nggak bisa debut sekarang..."
         },
         {
             "name": "Verxina",
-            "text": "Kalau masih jauh dari 『Puncak』 kayak gini, \nnggak mungkin aku berani debut di depan mereka!!"
+            "text": "Kalau masih jauh dari \"Puncak\" kayak gini, nggak mungkin aku berani debut di depan mereka!!"
         },
         {
             "name": "Verxina",
-            "text": "Kalau sekarang aku nggak bisa tandingin dia, \naku harus jadi sosok yang bisa ngalahin dia!"
+            "text": "Kalau sekarang aku nggak bisa tandingin dia, aku harus jadi sosok yang bisa ngalahin dia!"
         },
         {
             "name": "Verxina",
-            "text": "Aku harus asah diriku lebih keras lagi―― \nBiar bisa jadi orang yang pasti menang lawan dia!!"
+            "text": "Aku harus asah diriku lebih keras lagi―― Biar bisa jadi orang yang pasti menang lawan dia!!"
         },
         {
-            "text": "Beberapa waktu setelah obrolan hari itu. \nVerxina datang ke ruang pelatih."
-        },
-        {
-            "name": "Verxina",
-            "text": "Makasih buat yang waktu itu ya. \nBerkat kamu, keraguanku hilang."
+            "text": "Beberapa waktu setelah obrolan hari itu. Verxina datang ke ruang Trainer."
         },
         {
             "name": "Verxina",
-            "text": "...Mulai sekarang, aku bakal latih diriku \nbiar bisa ngelampauin Gentil-san."
+            "text": "Makasih buat yang waktu itu ya. Berkat kamu, keraguanku hilang."
         },
         {
             "name": "Verxina",
-            "text": "Aku bakal jadi lebih kuat buat raih juara 1 \ndan kejar 『Puncak』. Aku pasti bisa wujudin itu \ndan buka jalan buat debutku!"
+            "text": "...Mulai sekarang, aku bakal latih diriku biar bisa ngelampauin Gentil-san."
         },
         {
             "name": "Verxina",
-            "text": "Aku udah bertekad. Aku sempat kehilangan arah, \ntapi kamu bantu aku ingat tujuan asliku."
+            "text": "Aku bakal jadi lebih kuat buat raih juara 1 dan kejar \"Puncak\". \nAku pasti bisa wujudin itu dan buka jalan buat debutku!"
         },
         {
-            "text": "Dari cara bicara Verxina sekarang, aku bisa ngerasain \nkebanggaan yang sama kayak pas pertama kali lihat dia.",
+            "name": "Verxina",
+            "text": "Aku udah bertekad. Aku sempat kehilangan arah, tapi kamu bantu aku ingat tujuan asliku."
+        },
+        {
+            "text": "Dari cara bicara Verxina sekarang, aku bisa ngerasain kebanggaan yang sama kayak pas pertama kali lihat dia.",
             "choice_data_list": [
-                "Kalau gitu, aku mau scout kamu."
+                "Kalau gitu, aku mau rekrut kamu."
             ]
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Tapi... kamu nggak keberatan? \nAku kan udah pernah nolak tawaranmu...",
+            "text": "Tapi... kamu nggak keberatan? Aku kan udah pernah nolak tawaranmu...",
             "choice_data_list": [
                 "Nggak mau yang lain, harus kamu!",
                 "Nggak mau yang lain, harus kamu!"
@@ -237,27 +237,27 @@
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san... Kalau gitu, \ntemenin aku menempuhi di jalan ini ya――"
+            "text": "Trainer-san... Kalau gitu, temenin aku menempuhi di jalan ini ya――"
         },
         {
             "name": "Verxina",
-            "text": "Biar nggak kalah dari siapa pun――termasuk Gentildonna-san, \ndi jalan Ratu menuju 『Puncak』, bareng-bareng.",
+            "text": "Biar nggak kalah dari siapa pun――termasuk Gentildonna-san, di jalan Ratu menuju \"Puncak\"  bersama-sama.",
             "choice_data_list": [
-                "Iya! Kita capai 『Puncak』 bareng-bareng!",
-                "Iya! Kita capai 『Puncak』 bareng-bareng!"
+                "Iya! Kita capai \"Puncak\" bareng-bareng!",
+                "Iya! Kita capai \"Puncak\" bareng-bareng!"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Makasih banyak ya. \nAku pasti bisa capai itu, bareng kamu...!"
+            "text": "Makasih banyak ya. Aku pasti bisa capai itu, bareng kamu...!"
         },
         {
             "name": "Verxina",
-            "text": "Biar mereka bisa bangga sama aku... \nAku nggak bakal berhenti maju."
+            "text": "Biar mereka bisa bangga sama aku... Aku nggak bakal berhenti maju."
         },
         {
             "name": "Verxina",
-            "text": "Sampai aku jadi yang terkuat, \nsampai aku bisa bersinar paling terang――"
+            "text": "Sampai aku jadi yang terkuat, sampai aku bisa bersinar paling terang――"
         },
         {
             "name": "Verxina",

@@ -2,7 +2,7 @@
     "no_wrap": false,
     "text_block_list": [
         {
-            "text": "『Jangan buang muka』―― Entah kenapa,\naku beneran nggak bisa ngalihin pandangan dari dia."
+            "text": "\"Jangan buang muka\"――\nEntah kenapa, aku beneran nggak bisa ngalihin pandangan dari dia."
         },
         {
             "name": "Verxina",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "text": "Udah beberapa bulan sejak aku masuk Akademi Tracen. Niatnya cari Umamusume buat di-scout, makanya aku datang lihat latihan."
+            "text": "Udah beberapa bulan sejak aku masuk Akademi Tracen. Niatnya cari Umamusume buat direkrut, makanya aku datang lihat latihan."
         },
         {
             "text": "Aku juga ngecek peserta balapan simulasi besok. Tapi yang paling menonjol cuma Verxina――",
@@ -58,7 +58,7 @@
         {
             "text": "Aku pengen lihat sejauh mana larinya bakal bawa dia. Saat itu juga, aku sadar apa mimpiku.",
             "choice_data_list": [
-                "(Aku harus scout dia――!)"
+                "(Aku harus rekrut dia――!)"
             ]
         },
         {
@@ -114,7 +114,7 @@
             ]
         },
         {
-            "text": "Habis itu, aku nyari Verxina terus-terusan biar bisa scout dia, tapi――",
+            "text": "Habis itu, aku nyari Verxina terus-terusan biar bisa rekrut dia, tapi――",
             "choice_data_list": [
                 "(Sama sekali nggak ada celah...!)"
             ]
@@ -134,7 +134,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "――Mmmm~~Seru banget ya~? Pesta pra-scouting buat Kakak nih♪"
+            "text": "――Mmmm～～Seru banget ya～? Pesta pra-rekrutmen buat Kakak nih♪"
         },
         {
             "name": "Verxina",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Berarti tinggal nunggu Kakak mau milih yang mana. Kakak emang hebat~! Iya kan, Chevacchi!?"
+            "text": "Berarti tinggal nunggu Kakak mau milih yang mana. Kakak emang hebat～! Iya kan, Chevacchi!?"
         },
         {
             "name": "Cheval Grand",
@@ -154,10 +154,10 @@
         },
         {
             "name": "Fans Verxina",
-            "text": "『Verxina-senpai! Semangat buat balapan simulasi besok ya!』 『Verxina-sama! Besok kita pasti datang dukung!』"
+            "text": "『Verxina-senpai! Semangat buat balapan simulasi besok ya!』\n『Verxina-sama! Besok kita pasti datang dukung!』"
         },
         {
-            "text": "Kayaknya mereka juga nunggu momen buat ngajak ngobrol. Pas turun dari mobil aja, mereka langsung dikerumunin fans.",
+            "text": "Kayaknya mereka juga nunggu momen buat ngajak ngobrol. Pas turun \ndari mobil aja, mereka langsung dikerumunin fans.",
             "choice_data_list": [
                 "(Boro-boro bisa ngedeket...)"
             ]
@@ -168,18 +168,18 @@
         },
         {
             "name": "Verxina",
-            "text": "Makasih banyak ya buat dukungan semangatnya. Tapi――nggak berlebihan nih?"
+            "text": "Makasih banyak ya buat dukungan semangatnya. Tapi――nggak \nberlebihan nih?"
         },
         {
             "name": "Verxina",
-            "text": "Balapan simulasi kan cuma buat ngecek kondisi sekarang. Cuma ajang pembuktian pantas nggaknya raih 『Puncak』.",
+            "text": "Balapan simulasi kan cuma buat ngecek kondisi sekarang. Cuma ajang pembuktian pantas nggaknya raih \"Puncak\".",
             "choice_data_list": [
                 "(Ah――――!)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "Pastinya, besok aku bakal tunjukin gimana bentuk kemenangan orang yang ngejar 『Puncak』 itu. Nggak usah ragu."
+            "text": "Pastinya, besok aku bakal tunjukin gimana bentuk kemenangan orang \nyang ngejar \"Puncak\" itu. Nggak usah ragu."
         },
         {
             "name": "Verxina",
@@ -189,7 +189,7 @@
             ]
         },
         {
-            "text": "『Puncak』――Sekarang aku paham tujuannya. Semua kerja kerasnya tiap hari itu demi hal itu. Terus, besoknya――"
+            "text": "\"Puncak\"――Sekarang aku paham tujuannya. Semua kerja kerasnya tiap hari itu demi hal itu. Terus, besoknya――"
         },
         {
             "name": "Komentator",
@@ -200,14 +200,14 @@
             "text": "Beda lebih dari 1 jarak dari yang di belakangnya, Verxina menang telak di balapan simulasi ini!!"
         },
         {
-            "text": "Sesuai omongannya, dia beneran menang. Terus langsung dikerumunin pelatih yang mau nge-scout dia."
+            "text": "Sesuai omongannya, dia beneran menang. Terus langsung dikerumunin trainer yang mau ngerekrut dia."
         },
         {
             "name": "Para Trainer",
-            "text": "『Verxina-san! Udah dipikirin soal tawaran scout-ku?』 『Aku udah buatin menu latihan khusus buatmu, mau lihat nggak?』"
+            "text": "『Verxina-san! Udah dipikirin soal tawaran rekrutmen-ku?』 『Aku udah buatin menu latihan khusus buatmu, mau lihat nggak?』"
         },
         {
-            "text": "Kali ini aku nggak boleh ketinggalan. Aku juga baru mau ngomong――tapi tiba-tiba――"
+            "text": "Kali ini aku nggak boleh ketinggalan. Aku juga baru mau ngomong――\ntapi tiba-tiba――"
         },
         {
             "name": "Trainer Veteran A",

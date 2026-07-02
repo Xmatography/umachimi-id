@@ -1,11 +1,12 @@
 {
-    "no_wrap": true,
+    "title": "Warisan Inspirasi",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "In front of the three goddesses statue,\nwhere generations of Umamusume entrust\ntheir wishes to the younger generations."
+            "text": "Di hadapan Patung Tiga Dewi —sebuah tempat di mana para Umamusume legendaris menitipkan harapan mereka, dan diteruskan oleh generasi penerus."
         },
         {
-            "text": "Today, too, a new Umamusume will start\nrunning to carry on their legacy!"
+            "text": "Hari ini, seorang Umamusume baru akan mulai berlari dan meneruskan harapan tersebut！"
         }
     ]
 }
