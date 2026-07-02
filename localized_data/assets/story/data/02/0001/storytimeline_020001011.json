@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "Ayo, Trainer! \nTolong, cepatlah!"
+            "text": "Ayo, Sub Trainer-san! \nTolong, cepatlah!"
         },
         {
             "text": "Tribun utama Nakayama Racecourse penuh sesak \ndengan orang-orang dan dipenuhi dengan sorakan semangat."
@@ -24,7 +24,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tes"
+            "text": "Kan sudah kubilang... aku ingin melihat Oguri-san berlari... \nmelihat sosok tangguhnya langsung di hadapanku!"
         },
         {
             "name": "Komentator",
@@ -108,7 +108,7 @@
             "text": "Stadion bergemuruh dengan \"Oguri call!\" Sorakan itu membuat \nseluruh stadion bergetar!"
         },
         {
-            "text": "Siapa pun bisa melihat bahwa 100.000 orang yang hadir hari itu \nsemua terpukau oleh larinya Oguri Cap."
+            "text": "Siapa pun bisa melihat bahwa 100rb orang yang hadir hari itu \nsemua terpukau oleh larinya Oguri Cap."
         },
         {
             "text": "Yang berarti juga, trainer-nya, yang sudah bekerja keras \nmelatih Oguri Cap, telah melakukan pekerjaannya dengan sempurna."
@@ -125,10 +125,13 @@
             "text": "Jadi, seperti yang sudah direncanakan, \naku serahkan Team Sirius ke tanganmu."
         },
         {
+            "text": "(Bakkk!!)"
+        },
+        {
             "text": "Dia menepuk bahuku dengan kuat."
         },
         {
-            "text": "Aku sudah dua tahun belajar keras sebagai sub-trainer di Sirius, \ntim yang diciptakan oleh Chief Trainer."
+            "text": "Dia menepuk bahuku dengan kuat."
         },
         {
             "text": "Aku sudah dua tahun belajar keras sebagai sub-trainer di Sirius, \ntim yang diciptakan oleh Chief Trainer."
@@ -137,11 +140,8 @@
             "text": "Setiap kali aku goyah, setiap kali aku lemah, \ndia selalu menyemangatiku dengan cara seperti ini."
         },
         {
-            "text": "Pastikan kau selalu ada untuk mendukung McQueen."
-        },
-        {
-            "name": "Trainer Lama",
-            "text": "Setelah memenangkan Kikuka-shō, \ndia sedang berada di puncak perkembangannya."
+            "name": "Chief Trainer",
+            "text": "Dukunglah McQueen dengan sepenuh hatimu. Setelah \nmenang di 'Kikka Sho', McQueen yang sekarang \ntengah berada di masa keemasannya."
         },
         {
             "name": "Trainer Lama",
@@ -172,7 +172,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Terima kasih!"
+            "text": "Baik!"
         },
         {
             "text": "Langit di atas Nakayama Racecourse mulai berubah menjadi \nkemerahan saat suara kami bergema di udara."
