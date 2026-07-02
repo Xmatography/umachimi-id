@@ -3,26 +3,26 @@
     "text_block_list": [
         {
             "name": "Verxina",
-            "text": "Makasih, Gentildonna-san. Udah mau nerima \ntantanganku buat Match Race."
+            "text": "Makasih, Gentildonna-san. Udah mau nerima tantanganku buat Match Race."
         },
         {
             "name": "Gentildonna",
-            "text": "Sama-sama. Kupikir ini kesempatan bagus.\nIya kan? Soalnya kita berdua――"
+            "text": "Sama-sama. Kupikir ini kesempatan bagus.Iya kan? Soalnya kita berdua―"
         },
         {
             "name": "Gentildonna",
-            "text": "Bisa dibilang…… agak mirip. Aku beneran pengen \nngerasain sendiri kekuatan itu."
+            "text": "Bisa dibilang…… agak mirip. Aku beneran pengen ngerasain sendiri kekuatan itu."
         },
         {
             "name": "Verxina",
-            "text": "Oh, kalau gitu, silakan nikmati sepuasnya.\nHari ini, aku bakal buktiin――"
+            "text": "Oh, kalau gitu, silakan nikmati sepuasnya. Hari ini, aku bakal buktiin――"
         },
         {
             "name": "Verxina",
-            "text": "Kalau yang pantas berdiri di 『Puncak』 sebagai Ratu, itu aku.",
+            "text": "Kalau yang pantas berdiri di \"Puncak\" sebagai Ratu, itu aku.",
             "choice_data_list": [
-                "(Luar biasa…… nggak ada yang mau ngalah)",
-                "(Luar biasa…… nggak ada yang mau ngalah)"
+                "<size=40>(Luar biasa…… nggak ada yang mau ngalah)</size>",
+                "<size=40>(Luar biasa…… nggak ada yang mau ngalah)</size>"
             ]
         },
         {
@@ -32,7 +32,7 @@
             "text": "Lahir dari keluarga terpandang yang punya pengaruh besar di dunia politik dan bisnis, Gentildonna punya aura yang kuat banget."
         },
         {
-            "text": "Kalau sosok kayak dia debut di waktu yang sama, pasti bakal jadi rintangan besar buat Verxina yang lagi ngejar \n『Puncak』――"
+            "text": "Kalau sosok kayak dia debut di waktu yang sama, pasti bakal jadi rintangan besar buat Verxina yang lagi ngejar \"Puncak\"――"
         },
         {
             "name": "Gentildonna",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Verxina",
-            "text": "……Maksudmu aku bakal ngehindar lawan kamu di \nbalapan resmi nanti?"
+            "text": "……Maksudmu aku bakal ngehindar lawan kamu di balapan resmi nanti?"
         },
         {
             "name": "Gentildonna",
@@ -55,7 +55,7 @@
             "text": "Biar kuingatkan padamu. Kalau ada eksistensi yang cukup kuat buat nyingkirin kamu."
         },
         {
-            "text": "Dan dengan ditonton banyak orang, mereka berdua pun \njalan ke gerbang masing-masing――"
+            "text": "Dan dengan ditonton banyak orang, mereka berdua pun jalan ke gerbang masing-masing――"
         },
         {
             "name": "Gentildonna",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Verxina",
-            "text": "(Pastinya! Yang pantas berdiri di 『Puncak』 itu aku!\nTerus begini…… sampai garis finis――)"
+            "text": "(Pastinya! Yang pantas berdiri di \"Puncak\" itu aku!\nTerus begini…… sampai garis finis――)"
         },
         {
             "name": "Gentildonna",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Verxina",
-            "text": "(Padahal udah kutinggalin jauh…… harusnya dia nggak bisa \nnyusul. Dan garis finis udah di depan mata……!)"
+            "text": "(Padahal udah kutinggalin jauh…… harusnya dia nggak bisa nyusul. Dan garis finis udah di depan mata……!)"
         },
         {
             "name": "Verxina",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Nggak mungkin……!!!!\nAku bakal kalah…… nggak mungkin……!!!!"
+            "text": "Nggak mungkin……!!!! Aku bakal kalah…… nggak mungkin……!!!!"
         },
         {
             "name": "Verxina & Gentildonna",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Gentildonna",
-            "text": "……Kayaknya nggak ada gunanya lagi ngobrol sama orang yang udah hancur begini. Kalau gitu, semuanya――aku pamit."
+            "text": "……Kayaknya nggak ada gunanya lagi ngobrol sama orang yang udah \nhancur begini. Kalau gitu, semuanya――aku pamit."
         },
         {
             "name": "Verxina",
@@ -142,11 +142,11 @@
         },
         {
             "name": "Verxina",
-            "text": "Semuanya…… aku minta maaf.\nAku nolak semua tawaran scouting kalian……"
+            "text": "Semuanya…… aku minta maaf.\nAku nolak semua tawaran perekrutan kalian……"
         },
         {
             "name": "Trainer Veteran A",
-            "text": "Nggak bisa gitu dong! Apa gara-gara kamu kalah dari Gentildonna? Tapi, mulai sekarang kamu kan bisa ngejar ketertinggalan itu――"
+            "text": "Nggak bisa gitu dong! Apa gara-gara kamu kalah dari Gentildonna? \nTapi, mulai sekarang kamu kan bisa ngejar ketertinggalan itu――"
         },
         {
             "name": "Verxina",
@@ -164,23 +164,23 @@
             ]
         },
         {
-            "text": "Aku buru-buru ngejar Verxina yang lari pergi. \nApa pun yang terjadi, aku tetep pengen nge-scout dia."
+            "text": "Aku buru-buru ngejar Verxina yang lari pergi. Apa pun yang terjadi, aku tetep pengen nge-rekrut dia."
         },
         {
-            "text": "Kekuatan Gentildonna emang luar biasa banget. \nWajar sih kalau Umamusume biasa sampai ketakutan."
+            "text": "Kekuatan Gentildonna emang luar biasa banget. Wajar sih kalau Umamusume biasa sampai ketakutan."
         },
         {
-            "text": "Apa Verxina juga gitu? Apa dia bakal nyerah habis \nngerasain langsung kekuatannya Gentildonna?",
+            "text": "Apa Verxina juga gitu? Apa dia bakal nyerah habis ngerasain langsung kekuatannya Gentildonna?",
             "choice_data_list": [
-                "(Tapi, dari yang kulihat selama ini, dia――)",
-                "(Tapi, dari yang kulihat selama ini, dia――)"
+                "<size=40>(Tapi, dari yang kulihat selama ini, dia――)</size>",
+                "<size=40>(Tapi, dari yang kulihat selama ini, dia――)</size>"
             ]
         },
         {
-            "text": "Dia selalu kerja keras di segala hal demi tujuannya capai 『Puncak』."
+            "text": "Dia selalu kerja keras di segala hal demi tujuannya capai \"Puncak\"."
         },
         {
-            "text": "Dia bakal nyoba lagi dan lagi sampai puas. Masa iya cewek kayak \ngitu bakal nyerah buat debut cuma gara-gara kalah sekali……?",
+            "text": "Dia bakal nyoba lagi dan lagi sampai puas. Masa iya cewek kayak gitu bakal nyerah buat debut cuma gara-gara kalah sekali……?",
             "choice_data_list": [
                 "(Nggak! Nggak mungkin dia――)"
             ]
@@ -205,28 +205,28 @@
         {
             "text": "Dia kelihatan frustrasi banget. Aku yakin dia bakal terus melangkah maju dengan gigih. Tapi, buat sekarang dia――",
             "choice_data_list": [
-                "<size=38>(Mungkin dia cuma agak syok aja……?)</size>"
+                "(Mungkin dia cuma agak syok aja……?)"
             ]
         },
         {
-            "text": "Kenapa dia tiba-tiba nolak tawaran scouting? \nKayaknya dia sendiri aja nggak tahu alasannya."
+            "text": "Kenapa dia tiba-tiba nolak tawaran rekrutmen? \nKayaknya dia sendiri aja nggak tahu alasannya."
         },
         {
             "text": "Sikapnya yang murung kayak anak hilang itu beda banget sama kesanku soal dia selama ini."
         },
         {
-            "text": "Dia selalu kelihatan bangga dan anggun, terus kenapa sekarang \ndia sehancur ini? Buat cari tahu alasannya――",
+            "text": "Dia selalu kelihatan bangga dan anggun, terus kenapa sekarang dia sehancur ini? Buat cari tahu alasannya――",
             "choice_data_list": [
-                "<size=38>(Aku harus kenal dia lebih jauh……!)</size>"
+                "(Aku harus kenal dia lebih jauh……!)"
             ]
         },
         {
             "name": "???",
-            "text": "Ehh~~ pengen banget tahu ya?\nHmmm~ enaknya ngapain ya♪~?"
+            "text": "Ehh～～ pengen banget tahu ya?\nHmmm～ enaknya ngapain ya♪～?"
         },
         {
             "name": "Vivlos",
-            "text": "Kalau gitu, Trainer-san~\nHarus turutin semua omonganku ya! Oke♪?"
+            "text": "Kalau gitu, Trainer-san～\nHarus turutin semua omonganku ya! Oke♪?"
         }
     ]
 }

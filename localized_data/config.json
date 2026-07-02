@@ -18,8 +18,8 @@
     "text_wrapper": 1,
     "use_text_wrapper": true,
     "line_width_multiplier": 1.95,
-    
 
+    "text_common_allow_overflow": false,
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
     "text_frame_line_spacing_multiplier": 0.85,
@@ -36,6 +36,11 @@
     },
 
     "remove_ruby": true,
+    
+    "story_event_title": {
+        "line_spacing": 0.7,
+        "position_offset_y": 20
+    },
     "character_note_top_gallery_button": {
         "text": "     Galeri\n  Event Karir",
         "font_size": 41,
@@ -45,6 +50,124 @@
         "text": "     Galeri\n   Obrolan",
         "font_size": 44,
         "line_spacing": 0.55
+    },
+
+    "buttons_override": {
+        "character_home_top_character_card_catalog_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Daftar\nKarakter",
+            "position_offset_y2": 15,
+            "position_offset_x2": 50,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_card_lv_up_button": {
+            "text": " ",
+            "text2": "$(nb)Potensial",
+            "position_offset_y2": 15,
+            "position_offset_x2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_hint_lv_up_button": {
+            "text": " ",
+            "text2": "$(nb)Hint Level",
+            "position_offset_x2": 5,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_card_limit_break_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Buka\nBintang",
+            "position_offset_x2": 40,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_piece_exchange_button": {
+            "text": " ",
+            "text2": "$(anchor 4)Gudang\nPiece",
+            "position_offset_x2": 35,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_support_edit_button": {
+            "text": " ",
+            "text2": "Deck",
+            "position_offset_x2": 20,
+            "position_offset_y2": 15,
+            "font_size": 45
+        },
+        "character_home_top_support_sell_button": {
+            "text": " ",
+            "text2": "Gudang",
+            "position_offset_x2": 5,
+            "position_offset_y2": 15,
+            "font_size": 45
+        },
+        "character_home_top_support_list_button": {
+            "text": " ",
+            "text2": "$(nb)$(anchor 4)Daftar\nKartu",
+            "position_offset_x2": 20,
+            "position_offset_y2": 15,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_trained_list_button": {
+            "text": " ",
+            "text2": "$(nb)Daftar",
+            "position_offset_x2": -10,
+            "position_offset_y2": 20,
+            "font_size": 45
+        },
+        "character_home_top_new_team_edit_button": {
+            "text": " ",
+            "text2": "Edit Tim",
+            "position_offset_x2": 15,
+            "position_offset_y2": 20,
+            "font_size": 45
+        },
+        "character_home_top_transfer_button": {
+            "text": " ",
+            "text2": "$(nb)Transfer\nRequest",
+            "position_offset_x2": 10,
+            "position_offset_y2": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_succession_only_start_button": {
+            "text": "$(nb)Warisan Sekaligus",
+            "text2": " ",
+            "position_offset_x": 25,
+            "position_offset_y": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        },
+        "character_home_top_succession_only_list_button": {
+            "text": " ",
+            "text2": "$(nb)Daftar",
+            "position_offset_x2": 0,
+            "position_offset_y2": 20,
+            "font_size": 45,
+            "line_spacing": 0.6
+        }
+    },
+    
+    "gacha_buttons_override": {
+        "gacha_button_default": {
+            "text": "$(nb){0} x Pull!",
+            "position_offset_x": 60,
+            "position_offset_y": 0,
+            "font_size": 42
+        },
+        "gacha_button_daily": {
+            "text": "$(nb)1x per hari",
+            "position_offset_x": 0,
+            "position_offset_y": 0,
+            "font_size": 42
+        }
     },
 
     "news_url": "https://ggktm.github.io/PakaNews/"
