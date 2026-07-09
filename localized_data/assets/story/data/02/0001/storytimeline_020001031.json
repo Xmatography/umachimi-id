@@ -80,14 +80,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Gangguan harusnya segera pergi, kan?\nDan aku ini gangguan, bukan?",
+            "text": "Gangguan harusnya segera pergi, kan?\nDan aku ini penganggu, bukan?",
             "choice_data_list": [
                 "Apa kamu… kesal…?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tidak, aku tidak marah. Bagaimanapun, rahasia kalian berdua\nbukan urusanku."
+            "text": "Tidak, aku tidak marah. Bagaimanapun,\nrahasia kalian berdua bukan urusanku."
         },
         {
             "name": "Mejiro McQueen",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "“Kadang dia memang agak ceroboh,\ntapi dia selalu tulus dan memikirkan yang terbaik untuk kami Umamusume.”"
+            "text": "“Kadang dia memang agak ceroboh, tapi dia selalu tulus dan\nmemikirkan yang terbaik untuk kami Umamusume.”"
         },
         {
             "name": "Mejiro Ryan",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "“Dan karena itu, apapun yang terjadi, aku akan tetap bersamanya sampai akhir.”\nItu kata-katanya sendiri."
+            "text": "“Dan karena itu, apapun yang terjadi, aku akan tetap \nbersamanya sampai akhir.” Itu kata-katanya sendiri."
         },
         {
             "name": "<username>",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Namun, ada alasan kenapa dia begitu keras pada dirinya sendiri.\nItu semua karena Tennō Shō."
+            "text": "Namun, ada alasan kenapa dia begitu keras pada\ndirinya sendiri. Itu semua karena Tennō Shō."
         },
         {
             "name": "Mejiro Ryan",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "McQueen itu orangnya serius sekali,\njadi dia mungkin merasa harus ikut bertanggung jawab.\nJadi…"
+            "text": "McQueen itu orangnya serius sekali, jadi dia mungkin\nmerasa harus ikut bertanggung jawab. Jadi…"
         },
         {
             "text": "Di balik sikap tegar itu, dia sebenarnya rapuh.\nLatihan sendiri itu cuma caranya untuk mengusir rasa cemas."

@@ -41,7 +41,7 @@
             "name": "Monolog",
             "text": "Tahun baru. Rhein Kraft dan Cesario kini memasuki tahun\nClassic mereka, dan kami memutuskan untuk pergi\nke kuil bersama untuk kunjungan pertama, tapi――",
             "choice_data_list": [
-                "（Ramainya minta ampun……!）"
+                "(Ramainya minta ampun……!)"
             ]
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "name": "<username>",
-            "text": "（……Tahun ini pun, aku akan berusaha mendukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka mendapat hasil yang diinginkan――）"
+            "text": "(……Tahun ini pun, aku akan berusaha mendukung tim sebaik mungkin.\nTolong jaga mereka, dan semoga mereka mendapat hasil yang diinginkan――）"
         },
         {
             "name": "King Halo",
@@ -82,7 +82,7 @@
         },
         {
             "name": "<username>",
-            "text": "（Kunjungan ke kuil sudah selesai, dan mumpung ini tahun baru,\naku pikir kami bisa bersantai sejenak, tapi――）"
+            "text": "(Kunjungan ke kuil sudah selesai, dan mumpung ini tahun baru,\naku pikir kami bisa bersantai sejenak, tapi――）"
         },
         {
             "name": "Rhein Kraft",
@@ -154,11 +154,11 @@
         },
         {
             "name": "<username>",
-            "text": "（Apa yang dibicarakan Cesario adalah bagian dari sejarah,\ntradisi, dan daya tarik dari rute Triple Tiara.）"
+            "text": "(Apa yang dibicarakan Cesario adalah bagian dari sejarah,\ntradisi, dan daya tarik dari rute Triple Tiara.）"
         },
         {
             "name": "<username>",
-            "text": "（Itu sama sekali tidak salah――tapi ada satu hal yang harus kuingatkan……）",
+            "text": "(Itu sama sekali tidak salah――tapi ada satu hal yang harus kuingatkan……）",
             "choice_data_list": [
                 "Kraft, Cesario"
             ]

@@ -2,13 +2,13 @@
     "no_wrap": false,
     "text_block_list": [
         {
-            "text": "――Udah lama aku kepikiran. Sebagai pelatih Verxina, masa aku gini-gini aja――"
+            "text": "――Udah lama aku kepikiran. Sebagai Trainer Verxina, masa aku gini-gini aja――"
         },
         {
-            "text": "Dia terus ngejar 『Puncak』 buat jadi panutan adik-adiknya...\nApa sekarang aku udah bisa diandelin sama Verxina?"
+            "text": "Dia terus ngejar \"Puncak\" buat jadi panutan adik-adiknya...\nApa sekarang aku udah bisa diandelin sama Verxina?"
         },
         {
-            "text": "Nggak. Aku harus jadi orang yang beneran bisa dia andelin. Makanya――"
+            "text": "Nggak. Aku harus jadi orang yang beneran bisa dia andelin. \nMakanya――"
         },
         {
             "name": "Verxina",
@@ -16,7 +16,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Terus kok aku nunggunya di pinggir\njalan raya, bukan di akademi――"
+            "text": "Terus kok aku nunggunya di pinggir jalan raya, bukan di akademi――"
         },
         {
             "name": "Verxina",
@@ -27,14 +27,14 @@
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san... ini mobil apa? Terus\nngapain pakai kacamata hitam segala?――",
+            "text": "Trainer-san... ini mobil apa? Terus ngapain pakai kacamata hitam segala?――",
             "choice_data_list": [
                 "Heh..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "...heh?",
+            "text": "...Heh?",
             "choice_data_list": [
                 "Santai――aku juga baru nyampe kok",
                 "Santai――aku juga baru nyampe kok"
@@ -52,10 +52,10 @@
             "text": "Oh, oke. Permisi ya."
         },
         {
-            "text": "Sip――sejauh ini aman. Persis kayak kata\ne-book 『100 Cara Jadi Orang yang Bisa Diandalkan』."
+            "text": "Sip―― sejauh ini aman. Persis kayak kata e-book 『100 Cara Jadi Orang yang Bisa Diandalkan』."
         },
         {
-            "text": "...walau ini mobil sewaan sih."
+            "text": "...Walau ini mobil sewaan sih."
         },
         {
             "name": "Verxina",
@@ -66,10 +66,10 @@
         },
         {
             "name": "Verxina",
-            "text": "Aroma di sini beda banget ya sama di kota,\nbanyak pohon sih. Anginnya juga sejuk――"
+            "text": "Aroma di sini beda banget ya sama di kota, banyak pohon sih. Anginnya juga sejuk――"
         },
         {
-            "text": "Aku tahu tempat nongkrong yang asyik buat santai.\nIni juga bagian dari jadi orang dewa――",
+            "text": "Aku tahu tempat nongkrong yang asyik buat santai. Ini juga bagian dari jadi orang dewa――",
             "choice_data_list": [
                 "!? ...Ada lebah!"
             ]
@@ -80,7 +80,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Kalau kita tenang, dia nggak bakal nyengat.\nTunggu aja sampai dia pergi.",
+            "text": "Kalau kita tenang, dia nggak bakal nyengat. Tunggu aja sampai dia pergi.",
             "choice_data_list": [
                 "Tapi dia terbang ke arahmu...!",
                 "Tapi dia terbang ke arahmu...!"
@@ -88,21 +88,21 @@
         },
         {
             "name": "Verxina",
-            "text": "Nggak apa-apa. Aku aman kok."
+            "text": "Tenang saja. Aku aman kok."
         },
         {
             "name": "Verxina",
             "text": "Kalaupun dia coba nyengat... Bakal langsung aku geprek."
         },
         {
-            "text": "Terus――lebahnya hinggap di Verxina. Dia tetap santai sampai lebahnya pergi sendiri."
+            "text": "Terus―― lebahnya hinggap di Verxina. Dia tetap santai sampai lebahnya pergi sendiri."
         },
         {
             "name": "Verxina",
             "text": "Syukurlah. ...nggak ada kejadian aneh-aneh.",
             "choice_data_list": [
-                "...kamu santai banget sama lebah ya",
-                "...kamu santai banget sama lebah ya"
+                "...Kamu santai banget sama lebah ya",
+                "...Kamu santai banget sama lebah ya"
             ]
         },
         {
@@ -116,7 +116,7 @@
             "name": "Verxina",
             "text": "Oh. Di danau ini bisa ngasih makan bebek ya?",
             "choice_data_list": [
-                "Coba kasih makan langsung dari tangan yuk"
+                "<size=39>Coba kasih makan langsung dari tangan yuk</size>"
             ]
         },
         {
@@ -144,14 +144,14 @@
         },
         {
             "name": "Bebek",
-            "text": "Kwek, kwek~...",
+            "text": "Kwek, kwek～...",
             "choice_data_list": [
                 "M-makasih, aku terselamatkan..."
             ]
         },
         {
             "name": "Verxina",
-            "text": "Fufu, santai aja. ...Aku juga mau coba ah.\nBoleh minta makanannya dikit?"
+            "text": "Fufu, santai aja. ...Aku juga mau coba ah. Boleh minta makanannya dikit?"
         },
         {
             "text": "...Kacau nih. Niatnya pamer biar kelihatan bisa diandalkan, malah Verxina yang pamer kehebatan――",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Verxina",
-            "text": "...Aroma angin lautnya enak ya?\nJadi ingat pas kecil main di pantai.",
+            "text": "...Aroma angin lautnya enak ya? Jadi ingat pas kecil main di pantai.",
             "choice_data_list": [
                 "B-bener banget!",
                 "B-bener banget!"
@@ -175,7 +175,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Aduh... Gimana nih? Ada \ntempat neduh nggak ya di sekitar sini――",
+            "text": "Aduh... Gimana nih? Ada tempat neduh nggak ya di sekitar sini――",
             "choice_data_list": [
                 "Serahin ke aku!",
                 "Serahin ke aku!"
@@ -189,7 +189,7 @@
         },
         {
             "name": "Verxina",
-            "text": "...Waduh...",
+            "text": "...Waduh, yaahh...",
             "choice_data_list": [
                 "...Tenang, kalau gitu!"
             ]
@@ -203,7 +203,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Tapi, nanti Trainer-san malah...\nKalau aku sih nggak masalah――",
+            "text": "Tapi, nanti Trainer-san malah... Kalau aku sih nggak masalah――",
             "choice_data_list": [
                 "...Nggak apa-apa. Aku kan... kuat!",
                 "...Nggak apa-apa. Aku kan... kuat!"
@@ -215,7 +215,7 @@
         },
         {
             "name": "Verxina",
-            "text": "(...Kok aneh ya? Rasanya familier. ...Oh iya. Dulu tuh...――)"
+            "text": "(...Kok aneh ya? Rasanya familiar. ...Oh iya. Dulu tuh...――)"
         },
         {
             "name": "Verxina",
@@ -227,25 +227,25 @@
         },
         {
             "name": "Verxina Kecil",
-            "text": "...\"Kakak basah kuyup dong?\" \nNggak apa-apa! Kakak kan kuat!"
+            "text": "...Aku bakal kebasahan? Nggak apa-apa! Kakak kan kuat!"
         },
         {
             "name": "Verxina",
-            "text": "(...Rasanya, aku yang dulu―― \nPersis kayak Trainer-san sekarang――)"
+            "text": "(...Rasanya, aku yang dulu―― Persis kayak Trainer-san sekarang――)"
         },
         {
             "name": "Verxina",
             "text": "...Oke deh. Aku ikut kamu aja."
         },
         {
-            "text": "...Untungnya ada mall dekat sini.\nTapi tetep aja, aku basah kuyup..."
+            "text": "...Untungnya ada mall dekat sini. Tapi tetep aja, aku basah kuyup..."
         },
         {
             "name": "Verxina",
             "text": "............",
             "choice_data_list": [
-                "Kamu nggak apa-apa? Nggak terlalu basah kan?",
-                "Kamu nggak apa-apa? Nggak terlalu basah kan?"
+                "<size=36>Kamu nggak apa-apa? Nggak terlalu basah kan?</size>",
+                "<size=36>Kamu nggak apa-apa? Nggak terlalu basah kan?</size>"
             ]
         },
         {

@@ -6,11 +6,11 @@
         },
         {
             "name": "Umamusume A",
-            "text": "Aduh, berat juga ya... Panas banget,\nkaki juga kepeleset mulu...!"
+            "text": "Aduh, berat juga ya... Panas banget, kaki juga kepeleset mulu...!"
         },
         {
             "name": "Umamusume B",
-            "text": "Susah ya jaga postur tubuh... ...Hm?"
+            "text": "Susah ya jaga postur tubuh～…… ...Hmm?"
         },
         {
             "name": "Verxina",
@@ -18,11 +18,11 @@
         },
         {
             "name": "Umamusume A",
-            "text": "Ooooh~...! Emang beda ya Verxina-san... Persis kayak di \nakademi, posturnya cakep banget...!"
+            "text": "Ooooh～...! Emang beda ya Verxina-san... Persis kayak di akademi, posturnya cakep banget...!"
         },
         {
             "name": "Umamusume B",
-            "text": "Di atas pasir aja udah kayak lukisan...\nOke, ayo semangat dikit lagi!"
+            "text": "Di atas pasir aja udah kayak lukisan... Oke, ayo semangat dikit lagi!"
         },
         {
             "name": "Verxina",
@@ -30,11 +30,11 @@
         },
         {
             "name": "Verxina",
-            "text": "Latihan di pantai selesai deh. ...Tapi rasanya\nporsi latihannya agak lebih ringan dari biasanya ya――"
+            "text": "Latihan di pantai selesai deh. ...Tapi rasanya porsi latihannya agak lebih ringan dari biasanya ya――"
         },
         {
             "name": "Verxina",
-            "text": "...Lari di pantai emang efektif. Tapi karena pijakannya susah, \nbahaya kalau kelamaan... bener gitu kan?",
+            "text": "...Lari di pantai emang efektif. Tapi karena pijakannya susah, bahaya kalau kelamaan... bener gitu kan?",
             "choice_data_list": [
                 "Bener banget!"
             ]
@@ -43,7 +43,7 @@
             "text": "――Tentu aja. Kali ini, aku mikirin banget menu latihannya."
         },
         {
-            "text": "Sebagai pelatih sih wajar ya, tapi... Sebenarnya,\naku pengen nebus yang waktu itu..."
+            "text": "Sebagai Trainer sih wajar ya, tapi... Sebenarnya, aku pengen nebus yang waktu itu..."
         },
         {
             "name": "Verxina",
@@ -57,10 +57,10 @@
             "text": "Ngerti. Kalau gitu... Waktunya pemanasan ringan kali ya?"
         },
         {
-            "text": "Sip. Hari ini aku bakal kerja sempurna. Aku pantau terus \nwaktunya, siapin handuk sama minum tepat waktu."
+            "text": "Sip. Hari ini aku bakal kerja sempurna. Aku pantau terus waktunya, siapin handuk sama minum tepat waktu."
         },
         {
-            "text": "Biar aku bisa jadi pelatih yang bisa diandelin Verxina."
+            "text": "Biar aku bisa jadi trainer yang bisa diandelin Verxina."
         },
         {
             "name": "Verxina",
@@ -103,11 +103,11 @@
         },
         {
             "name": "Umamusume B",
-            "text": "Dagingnya... nggak bisa mateng dong?\nNggak bisa masak...? Dagingnya...?"
+            "text": "Dagingnya... nggak bisa mateng dong? Nggak bisa masak...? Dagingnya...?"
         },
         {
             "name": "Umamusume C",
-            "text": "Nggak mauuu~!! Masa cuma makan sayur mentah doangー!"
+            "text": "Nggak mauuu～!! Masa cuma makan sayur mentah doangー!"
         },
         {
             "name": "Verxina",
@@ -149,17 +149,17 @@
             "text": "...Tadi sih ngomong gitu, tapi aku nggak gitu tahu cara pastinya."
         },
         {
-            "text": "Tapi kalau bikin api, ada cara standarnya kan.\nPertama butuh tongkat kayu dulu.",
+            "text": "Tapi kalau bikin api, ada cara standarnya kan. Pertama butuh tongkat kayu dulu.",
             "choice_data_list": [
                 "Oke... Kayaknya aku paham!"
             ]
         },
         {
-            "text": "――Terus 15 menit kemudian... Aku udah\ncapek tapi apinya belum nyala juga."
+            "text": "――Terus 15 menit kemudian...\nAku udah capek tapi apinya belum nyala juga."
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san. Semuanya udah bantu\nkumpulin banyak kayu bakar nih."
+            "text": "Trainer-san. Semuanya udah bantu kumpulin banyak kayu bakar nih."
         },
         {
             "name": "Verxina",
@@ -174,11 +174,11 @@
         },
         {
             "name": "Verxina Kecil",
-            "text": "Nggak boleh, kalian masih terlalu kecil\nbuat main korek. Serahin ke Kakak aja."
+            "text": "Nggak boleh, kalian masih terlalu kecil buat main korek. Serahin ke Kakak aja."
         },
         {
             "name": "Ibu Mereka",
-            "text": "Ara ara~. Kamu bisa nggak? Biar Mama aja yang nyalain, ya~?"
+            "text": "Ara ara～. Kamu bisa nggak? Biar Mama aja yang nyalain, ya～?"
         },
         {
             "name": "Verxina Kecil",
@@ -209,19 +209,19 @@
         },
         {
             "name": "Umamusume A",
-            "text": "Aduh~ sempat panik tadi. Dagingnya enak~."
+            "text": "Aduh～ sempat panik tadi. Dagingnya enak～."
         },
         {
             "name": "Umamusume C",
-            "text": "Iya nih... untung ada Verxina-senpai,\nkita nggak jadi makan sayur mentah~."
+            "text": "Iya nih... untung ada Verxina-senpai, kita nggak jadi makan sayur mentah～."
         },
         {
             "name": "Verxina",
-            "text": "Nggak kok. Aku nggak ngapa-ngapain.\nKan yang nyalain api Trainer-san."
+            "text": "Nggak kok. Aku gak ngapa-ngapain. Kan yang nyalain api Trainer-san."
         },
         {
             "name": "Umamusume B",
-            "text": "Mmm... bener juga! Trainer-san! \nMulai sekarang kamu itu Pahlawan Daging!",
+            "text": "Mmm... bener juga! Trainer-san! Mulai sekarang kamu itu Pahlawan Daging!",
             "choice_data_list": [
                 "Hahaha..."
             ]
@@ -251,7 +251,7 @@
         },
         {
             "name": "Verxina",
-            "text": "Kamu selalu bisa diandelin. Sejak jadi pelatihku,\naku bangga banget sama Trainer-san."
+            "text": "Kamu selalu bisa diandelin. Sejak jadi trainerku, aku bangga banget sama Trainer-san."
         },
         {
             "name": "Verxina",
@@ -267,10 +267,10 @@
         },
         {
             "name": "Verxina",
-            "text": "...Semenjak ketemu Trainer-san――\nKayaknya aku mulai paham pandangan adik-adikku ke aku.",
+            "text": "……Semenjak ketemu Trainer-san―― Kayaknya aku mulai paham \npandangan adik-adikku pada aku.",
             "choice_data_list": [
-                "Kira-kira kamu bisa mulai ngandelin aku nggak?",
-                "Kira-kira kamu bisa mulai ngandelin aku nggak?"
+                "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>",
+                "<size=36>Kira-kira kamu bisa mulai ngandelin aku nggak?</size>"
             ]
         },
         {
