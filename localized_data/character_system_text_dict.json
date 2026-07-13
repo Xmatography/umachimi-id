@@ -412,7 +412,9 @@
         "410006": "Ara～...",
         "410007": "Ara～...",
         "410008": "Ara～...",
-        "920000": "I'll do my best～"
+        "920000": "I'll do my best～",
+        "20021": "Belakangan ini balapan terus berlanjut, tapi...\nApakah tidak apa-apa...? Tidak, hanya saja...\nKamu terlihat seperti sedang terburu-buru...",
+        "20022": "\"Berlebihan sama buruknya dengan kurang.\"\nSegala sesuatu ada batasnya. Untuk keputusan\nkeikutsertaan balapan kali ini, mohon dipertimbangkan baik-baik."
     },
     "1012": {
         "11": "Cygames",
@@ -1387,7 +1389,11 @@
         "1001": "Yay♪",
         "140001": "Yay♪",
         "140009": "Fufu",
-        "140015": "Ah...!"
+        "140015": "Ah...!",
+        "20122": "…Onee-chan, Curren memang\nkondisi fisik sama manajemen motivasinya udah sempurna kok.\nTapi~… keterlaluan! pes!",
+        "20121": "Eh~, balapan lagi?\nHuh, Onee-chan jahat deh.\n…Nanti minta hadiah ah~.",
+        "20021": "Eh~, balapan lagi?\nHuh, Onii-chan jahat deh.\n…Nanti minta hadiah ah~.",
+        "20022": "…Onii-chan, Curren memang\nkondisi fisik sama manajemen motivasinya udah sempurna kok.\nTapi~… keterlaluan! pes!"
     },
     "1039": {
         "11": "Cygames",

@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "text": "Suatu hari di tengah rapat.\nLucky Lilac terlihat bengong dan tidak fokus,\njadi coba iseng diajak bercanda——",
+            "choice_data_list": [
+                "Keur bengong, ujug-ujug aya mayit di kantong!"
+            ]
+        },
+        {
+            "text": "…………。",
+            "choice_data_list": [
+                "Mayit mah ulah dipaliré! ……kitu nya?"
+            ]
+        },
+        {
+            "text": "Aah……！"
+        },
+        {
+            "text": "……fufu, lucu ya.",
+            "choice_data_list": [
+                "Eeeh……！"
+            ]
+        },
+        {
+            "text": "Tidak bisa comeback, hanya tertawa lemah tanpa tenaga.\nSepertinya kelelahan sudah menumpuk cukup parah.\nMungkin perlu meninjau ulang jadwal balapannya ke depan."
+        }
+    ]
+}
