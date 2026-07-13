@@ -25,7 +25,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Wih, bocah sekecil ini aja sampai tahu lu, ya.\nHalo, Umamusume Populer~!"
+            "text": "Wih, bocah sekecil ini aja sampai tahu lu, ya.\nHalo, Umamusume Populer～!"
         },
         {
             "name": "Mejiro McQueen",
@@ -198,7 +198,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Wih, berapi-api banget~ Ya udah,\ngue samperin ah, mau gue usilin",
+            "text": "Wih, berapi-api banget～ Ya udah,\ngue samperin ah, mau gue usilin",
             "choice_data_list": [
                 "Minna, hati hati"
             ]
