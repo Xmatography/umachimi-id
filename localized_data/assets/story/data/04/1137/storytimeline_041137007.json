@@ -41,7 +41,7 @@
             "name": "Kiseki ?",
             "text": "Ta-da! Gimana?\nKelihatan keren nggak?",
             "choice_data_list": [
-                "Ish Lagi Genting begini , masih sempatnya~"
+                "Ish Lagi Genting begini , masih sempatnya～"
             ]
         },
         {
@@ -75,7 +75,7 @@
             "name": "Kiseki ?",
             "text": "Beneran? Kalau gitu mulai sekarang,\nboleh juga tuh dipake buat berangkat kerja!",
             "choice_data_list": [
-                "<size=36>Jas Ungu Bunga ? Nanti Kaget Rekan Kerjaku!~</size>"
+                "<size=36>Jas Ungu Bunga ? Nanti Kaget Rekan Kerjaku!～</size>"
             ]
         },
         {
@@ -141,7 +141,7 @@
         {
             "text": "Sebagai panic-horror mainstream, karya ini melakukan apa yang seharusnya dilakukan—karya yang solid.Daya gambar zombienya, pesona karakternya bikin ketagihan, dan yang paling utama—",
             "choice_data_list": [
-                "<size=36>Bagian departemen store di tengah? Sugoi~!</size>"
+                "<size=36>Bagian departemen store di tengah? Sugoi～!</size>"
             ]
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "Waaah~! Senang banget denger itu!\nTerima kasih banyak! ...Waduh, pipiku jadi rileks!\""
+            "text": "Waaah～! Senang banget denger itu!\nTerima kasih banyak! ...Waduh, pipiku jadi rileks!\""
         },
         {
             "name": "Kiseki",
@@ -234,7 +234,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "Sebenarnya~... waktu sketsa komik itu lagi dibuat, semangat nggambar lagi tinggi banget!\nPercaya diri banget bisa jadi karya bagus, tapi... itu—"
+            "text": "Sebenarnya～... waktu sketsa komik itu lagi dibuat, semangat nggambar lagi tinggi banget!\nPercaya diri banget bisa jadi karya bagus, tapi... itu—"
         },
         {
             "name": "Kiseki",
