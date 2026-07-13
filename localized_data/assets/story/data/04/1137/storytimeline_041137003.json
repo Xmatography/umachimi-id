@@ -94,7 +94,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "Eh... alternatif lain...?\nHmm... eeeh~...!?",
+            "text": "Eh... alternatif lain...?\nHmm... eeeh～...!?",
             "choice_data_list": [
                 "<size=38>Kamu pasti bisa nemuin ide yang lebih seru lagi.</size>",
                 "<size=38>Kamu pasti bisa nemuin ide yang lebih seru lagi.</size>"
@@ -106,7 +106,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "Ah—, iya! Maaf!!~~"
+            "text": "Ah—, iya! Maaf!!～～"
         },
         {
             "text": "..Trainer lain kasih instruksi spesifik.\nSampai aku nggak perlu banyak mikir sendiri. ...Tapi, dia",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Kiseki",
-            "text": "……………….\n~~…………, udah ah—!!"
+            "text": "……………….\n～～…………, udah ah—!!"
         },
         {
             "name": "Kiseki",

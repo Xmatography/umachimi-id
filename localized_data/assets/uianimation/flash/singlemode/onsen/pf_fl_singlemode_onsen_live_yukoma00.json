@@ -1,0 +1,1483 @@
+{
+    "windows": {
+        "bundle_name": "E5YHCY2JAUQSX6XQWI67TWU5MIOZLHIB"
+    },
+    "android": {
+        "bundle_name": "FCFIPWRMPDFWDKJKEBWVYKWLKXV4TXWK"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "3": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -50,
+                            "y": -30,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.9,
+                            "y": 0.9,
+                            "z": 1.0
+                        },
+                        "text": "Lirik: Meena Tange, Ayaka Iwai (Cygames)\nKomposisi: Akihiro Honda (Cygames)\nAransemen: Akihiro Honda (Cygames), Yoshihisa Kato (Cygames)"
+                    }
+                }
+            },
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -50,
+                            "y": -30,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.9,
+                            "y": 0.9,
+                            "z": 1.0
+                        },
+                        "text": "Lirik: Meena Tange, Ayaka Iwai (Cygames)\nKomposisi: Akihiro Honda (Cygames)\nAransemen: Akihiro Honda (Cygames), Yoshihisa Kato (Cygames)"
+                    }
+                }
+            },
+            "5": {
+                "text_param_list": {
+                    "0": {
+                        "text": "-2025-"
+                    },
+                    "1": {
+                        "text": "Yukoma Thermae"
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "-2025-"
+                    },
+                    "1": {
+                        "text": "Yukoma Thermae"
+                    }
+                }
+            },
+            "7": {
+                "plane_param_list": {
+                    "0": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        }
+                    },
+                    "2": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        }
+                    },
+                    "3": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        }
+                    },
+                    "4": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        }
+                    },
+                    "5": {
+                        "position_offset_key": {
+                            "x": -10,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "6": {
+                        "position_offset_key": {
+                            "x": -19,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.8,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "7": {
+                        "position_offset_key": {
+                            "x": -10,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "8": {
+                        "position_offset_key": {
+                            "x": -10,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "9": {
+                        "position_offset_key": {
+                            "x": -30,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "10": {
+                        "position_offset": {
+                            "x": -10,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 4.2,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "11": {
+                        "position_offset_key": {
+                            "x": -15,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    },
+                    "12": {
+                        "position_offset_key": {
+                            "x": -10,
+                            "y": -1.5,
+                            "z": 0.0
+                        },
+                        "scale_key": {
+                            "x": 2.9,
+                            "y": 3.0,
+                            "z": 1.0
+                        }
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -370,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, nina bobo bersamamu"
+                    }
+                }
+            },
+            "9": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Disembuhkan tenangnya senja"
+                    }
+                }
+            },
+            "10": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -375,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersantai bersamamu"
+                    }
+                }
+            },
+            "11": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Terombang-ambing di tur air panas"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -325,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mari kita mulai lagi dari awal"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -200,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Thermae Amore"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mari kita mulai lagi dari awal"
+                    }
+                }
+            },
+            "15": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Daripada bunga, mending uap hangat"
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -370,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, nina bobo bersamamu"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Haa... Mengambang～)"
+                    }
+                }
+            },
+            "18": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -325,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mari kita mulai lagi dari awal"
+                    }
+                }
+            },
+            "19": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Haa... Melayang～)"
+                    }
+                }
+            },
+            "20": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Disembuhkan tenangnya senja"
+                    }
+                }
+            },
+            "21": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -200,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Thermae Amore"
+                    }
+                }
+            },
+            "22": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Sekali lagi!)"
+                    }
+                }
+            },
+            "23": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -375,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersantai bersamamu"
+                    }
+                }
+            },
+            "24": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mari kita mulai lagi dari awal"
+                    }
+                }
+            },
+            "25": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Terombang-ambing di tur air panas"
+                    }
+                }
+            },
+            "26": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -100,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Haa... Menguap～)"
+                    }
+                }
+            },
+            "27": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Daripada bunga, mending uap hangat"
+                    }
+                }
+            },
+            "28": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Haa... Mengambang～)"
+                    }
+                }
+            },
+            "29": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Hei, aku sudah berjuang, kan?"
+                    }
+                }
+            },
+            "30": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tekan putar ulang, lalu putar lagi"
+                    }
+                }
+            },
+            "31": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Hei, kamu sudah berjuang keras, kan?"
+                    }
+                }
+            },
+            "32": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Aku yakin suara ini pasti"
+                    }
+                }
+            },
+            "33": {
+                "text_param_list": {
+                    "0": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mengingatkanmu pada waktu itu"
+                    }
+                }
+            },
+            "34": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Merekam perasaan ke dalam kaset ini"
+                    }
+                }
+            },
+            "35": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Dengan kenangan boogie-woogie"
+                    }
+                }
+            },
+            "36": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Aku selalu memperhatikanmu"
+                    }
+                }
+            },
+            "37": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Hei, aku sudah berjuang, kan?"
+                    }
+                }
+            },
+            "38": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Merekam perasaan ke dalam kaset ini"
+                    }
+                }
+            },
+            "39": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tekan putar ulang, lalu putar lagi"
+                    }
+                }
+            },
+            "40": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Dengan kenangan boogie-woogie"
+                    }
+                }
+            },
+            "41": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Hei, kamu sudah berjuang keras, kan?"
+                    }
+                }
+            },
+            "42": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Aku selalu memperhatikanmu"
+                    }
+                }
+            },
+            "43": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Aku yakin suara ini pasti"
+                    }
+                }
+            },
+            "44": {
+                "text_param_list": {
+                    "0": {
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Mengingatkanmu pada waktu itu"
+                    }
+                }
+            },
+            "45": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -400,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Setiap kali ku berendam"
+                    }
+                }
+            },
+            "46": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Bolehkah aku mengatakannya?"
+                    }
+                }
+            },
+            "47": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Dunia mimpi yang mengapung di onsen rahasia"
+                    }
+                }
+            },
+            "48": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -890,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5,
+                            "z": 1.0
+                        },
+                        "text": "Hari ini, izinkan aku percaya diri"
+                    }
+                }
+            },
+            "49": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Terombang-ambing di tur air panas"
+                    }
+                }
+            },
+            "50": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Sambil tu, wa, ga, pat"
+                    }
+                }
+            },
+            "51": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 5,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Jadi merasa pusing"
+                    }
+                }
+            },
+            "52": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -890,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5,
+                            "z": 1.0
+                        },
+                        "text": "Dan biarkan masa depan berjalan"
+                    }
+                }
+            },
+            "53": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Sampai sekarang pun, aku masih rindu"
+                    }
+                }
+            },
+            "54": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -100,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Prok-prok) ※Bertepuk"
+                    }
+                }
+            },
+            "55": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Sambil tu, wa, ga, pat"
+                    }
+                }
+            },
+            "56": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -400,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Setiap kali ku berendam"
+                    }
+                }
+            },
+            "57": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 5,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Jadi merasa pusing"
+                    }
+                }
+            },
+            "58": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Bolehkah aku mengatakannya?"
+                    }
+                }
+            },
+            "59": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Dunia mimpi yang mengapung di onsen rahasia"
+                    }
+                }
+            },
+            "60": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.6,
+                            "y": 0.6,
+                            "z": 1.0
+                        },
+                        "text": "(Berdebar, melayang)"
+                    }
+                }
+            },
+            "61": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -890,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5,
+                            "z": 1.0
+                        },
+                        "text": "Dan biarkan masa depan berjalan"
+                    }
+                }
+            },
+            "62": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -890,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.5,
+                            "y": 0.5,
+                            "z": 1.0
+                        },
+                        "text": "Hari ini, izinkan aku percaya diri"
+                    }
+                }
+            },
+            "63": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Sampai sekarang pun, aku masih rindu"
+                    }
+                }
+            },
+            "64": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -395,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Terombang-ambing di tur air panas"
+                    }
+                }
+            },
+            "65": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersama dengan kegagahanmu"
+                    }
+                }
+            },
+            "66": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersamamu untuk kedua kalinya"
+                    }
+                }
+            },
+            "67": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Pipi yang merona karena panas"
+                    }
+                }
+            },
+            "68": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ketulusan yang mekar setelah berendam"
+                    }
+                }
+            },
+            "69": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tidak apa, biarkan saja berlawanan begini"
+                    }
+                }
+            },
+            "70": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tidak apa, biarkan saja berbuih begini"
+                    }
+                }
+            },
+            "71": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersama dengan kegagahanmu"
+                    }
+                }
+            },
+            "72": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -450,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Di bawah senja bersama Amore"
+                    }
+                }
+            },
+            "73": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Rambut basah yang terurai"
+                    }
+                }
+            },
+            "74": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -370,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Seperti ini, seperti ini"
+                    }
+                }
+            },
+            "75": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -380,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ah, bersamamu untuk kedua kalinya"
+                    }
+                }
+            },
+            "76": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -385,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Pipi yang merona karena panas"
+                    }
+                }
+            },
+            "77": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -450,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Di bawah senja bersama Amore"
+                    }
+                }
+            },
+            "78": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Ketulusan yang mekar setelah berendam"
+                    }
+                }
+            },
+            "79": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -390,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Rambut basah yang terurai"
+                    }
+                }
+            },
+            "80": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tidak apa, biarkan saja berlawanan begini"
+                    }
+                }
+            },
+            "81": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -360,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Tidak apa, biarkan saja berbuih begini"
+                    }
+                }
+            },
+            "82": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -370,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Seperti ini, seperti ini"
+                    }
+                }
+            },
+            "83": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -550,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 0.7,
+                            "y": 0.7,
+                            "z": 1.0
+                        },
+                        "text": "Interlude: sekitar 18 detik"
+                    }
+                }
+            }
+        }
+    }
+}

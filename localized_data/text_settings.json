@@ -1,0 +1,26 @@
+{
+    "text_properties_overrides": {
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText": {
+            "position_offset_x": -165,
+            "text_override": "$(nb)Memasuki gerbang start..."
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText/ProgressValueText": {
+            "position_offset_x": 330
+        },
+        "/SingleModeTextController/TextFrame/WindowBase/StroryTextLabel": {
+            "position_offset_y": 12
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/StroryTextLabelBase/StroryTextLabel": {
+            "position_offset_y": 30,
+            "position_target_ancestor": 2
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/NameBase/NameLabel": {
+            "position_offset_y": 3,
+            "font_size": 38
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/RaceMainView(Clone)/StoryRaceUI(Clone)/ContentsRoot/Landscape/UI/EpisodeText/Txt_message/text0": {
+            "position_offset_y": 30,
+            "line_spacing": 0.65
+        }
+    }
+}
