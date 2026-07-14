@@ -1,23 +1,23 @@
 {
     "windows": {
-        "bundle_name": "TDMDQ62N7O3YTEQ5GZ5OLRATIQAARG4F"
+        "bundle_name": "J75SM3YBTHI5Y4CDQKKJ4ZDF4THUIBA2"    
     },
     "data": {
         "motion_parameter_list": {
-            "0": {
+            "7": {
                 "plane_param_list": {
                     "0": {
-                        "name": "inshi_text_on_jp",
-                        "scale_key": {
-                            "x": 1.5,
+                        "name": "txt_uma_on",
+                        "scale": {
+                            "x": 1.1,
                             "y": 1.1,
                             "z": 1.0
                         }
                     },
                     "1": {
-                        "name": "inshi_text_off_jp",
-                        "scale_key": {
-                            "x": 1.5,
+                        "name": "txt_uma_off",
+                        "scale": {
+                            "x": 1.1,
                             "y": 1.1,
                             "z": 1.0
                         }
