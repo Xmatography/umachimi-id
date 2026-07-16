@@ -21,6 +21,24 @@
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/RaceMainView(Clone)/StoryRaceUI(Clone)/ContentsRoot/Landscape/UI/EpisodeText/Txt_message/text0": {
             "position_offset_y": 30,
             "line_spacing": 0.65
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/RaceTagRoot/Label": {
+            "position_target_ancestor": 1,
+            "position_offset_x": 30
+        },
+       "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/LayoutGroup/ストーリー名７８９０１２３": {
+           "font_size": 30
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/Footer/LikeAnimation/PartsJukeboxLike(Clone)/TextCommon": {
+            "text_override": "$(nb)kali"
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Header/Label":{
+            "font_size": 25,
+            "sizedelta_x": 300.0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Text":{
+            "font_size": 30,
+            "sizedelta_x": 700.0
         }
     }
 }
