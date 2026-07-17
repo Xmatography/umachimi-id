@@ -30,8 +30,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_txt_hint_lvup00/tx_uTex_fl_chara_txt_hint_lvup00_0.diff.png",
-      "hash": "1248f51ef047134b96a3396e2bc75bc9415099fa1530b6072a9363a2c363f176",
-      "size": 61631
+      "hash": "d87632ed0ba9c5ee48078b41557d25b6c5f85039266296243db17e0411819497",
+      "size": 74380
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_badge00/tx_uTex_fl_cmn_badge00_0.diff.png",
@@ -65,8 +65,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "94f807a2c2c1cff8affabf523c1972fc8fef1c3347233830052efa6978bf816b",
-      "size": 81324
+      "hash": "f0e7565218a514fae027e4b007640dcb0abcf2c17b1b253c1cfa67757ec2d1ae",
+      "size": 81096
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
@@ -244,6 +244,11 @@
       "size": 99199
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamreview_start00/tx_uTex_fl_singlemode_breeders_teamreview_start00_0.diff.png",
+      "hash": "a64af75001f86b2f3c3585eff8e96d31cd7a45f44efe002333ae3f134e1de066",
+      "size": 71027
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamsptraining_efficacy00/tx_uTex_fl_singlemode_breeders_teamsptraining_efficacy00_0.diff.png",
       "hash": "a1aac20bcff46277cea6fda81e42050d2be649d0e99fd891b778d438c207f8db",
       "size": 93905
@@ -385,8 +390,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_succession00/tx_uTex_fl_singlemode_eventbonus_succession00_0.diff.png",
-      "hash": "39e324318fe7ad9186b3d91bdddfffe577f715d01b3b98605c2abc22b6022b0a",
-      "size": 64897
+      "hash": "f458e56951e730304ab48fd5a975eb1001709320d138cc0c70d7e55080289780",
+      "size": 73116
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_eventbonus_target00/tx_uTex_fl_singlemode_eventbonus_target00_0.diff.png",
@@ -715,13 +720,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start00/tx_uTex_fl_singlemode_pioneer_evaluate_start00_0.diff.png",
-      "hash": "d1e541132b7f1bfc552bdb71b93c1305f61abdfeafb338fcb6fc2628e27a55fe",
-      "size": 99723
+      "hash": "8f9848d8371f3667cd2383ee839ce60c8ab70d0c4883890c4f106a064b319a65",
+      "size": 66814
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start01/tx_uTex_fl_singlemode_pioneer_evaluate_start01_0.diff.png",
-      "hash": "128c9a83b955e7373f0a7fa9b823c9baba56b80f1a87b6f9727f8bc43456ef02",
-      "size": 67066
+      "hash": "97e9998097a254366efc4d68c87ee8ac587340d08e8afb45497bd6ec0a465725",
+      "size": 71046
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_event_join00/tx_uTex_fl_singlemode_pioneer_event_join00_0.diff.png",
@@ -824,6 +829,11 @@
       "size": 689513
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_regetfactor00/tx_uTex_fl_singlemode_regetfactor00_0.diff.png",
+      "hash": "89479364893a48419f0e88023ad426eaa38d1ed1a3bbcceb02c31b50b52abb7d",
+      "size": 106632
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_chararank00/tx_uTex_fl_singlemode_result_chararank00_0.diff.png",
       "hash": "1ecf3224f83e31d86d091a25cf250334c50273d8e944f9a22ad07f3d0bf67502",
       "size": 21368
@@ -910,23 +920,33 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararank00/tx_uTex_fl_singlemode_title_chararank00_0.diff.png",
-      "hash": "f09eaefa4ed29600f4a1c03796a10159deb409d2203bf0b8335ac9024187dfec",
-      "size": 66513
+      "hash": "4b0529b1870ca74c5cb8e7c08ea3a39d4121a3cf34ac97e60e2f5c8462a67584",
+      "size": 83075
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararesult00/tx_uTex_fl_singlemode_title_chararesult00_0.diff.png",
-      "hash": "6b3cabceed0946d707e296872d7919d08d6fabdc05eaa0066c7025a4308a1725",
-      "size": 71317
+      "hash": "47e1fabede65bd14ad1a7d5f8204dae14809615b24f47299e2457a3a9d170368",
+      "size": 81756
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_factorselection00/tx_uTex_fl_singlemode_title_factorselection00_0.diff.png",
+      "hash": "76c2b088887f3139df8d5d7d0a1ec92674f9756482174f8924adf219ba830e3d",
+      "size": 72589
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getfactor00/tx_uTex_fl_singlemode_title_getfactor00_0.diff.png",
-      "hash": "718637038cbb53a2db4f6e565562ab973e529bf2b84354189053e9a24c89f87c",
-      "size": 55482
+      "hash": "bf37b7ba8b8de1b90c94f2820a8ebed25610dfca419ad5fcc33f5c260b3e56ae",
+      "size": 60623
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getreward00/tx_uTex_fl_singlemode_title_getreward00_0.diff.png",
-      "hash": "0fc0dba383ae4dfcd2cd1f5762aef4df3b77655541ef3585f0f5ca0704b24264",
-      "size": 52470
+      "hash": "44c21ed4d200cf7174fc268079603a9c9ca4fe5c6b2e5b89db238671c7b0ae01",
+      "size": 61700
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_regetfactor00/tx_uTex_fl_singlemode_title_regetfactor00_0.diff.png",
+      "hash": "d7993658725c0a56dbba456a4ba69e4dad1e69f5d39460b7e766408c855b9cde",
+      "size": 76490
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_auto_training00/tx_uTex_fl_singlemode_txt_auto_training00_0.diff.png",
@@ -935,13 +955,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_factor_succession00/tx_uTex_fl_singlemode_txt_factor_succession00_0.diff.png",
-      "hash": "6c1600ea956daa1d6b2898f0c18b4f5dc85ecc24d3f2d9972223963e4ae80d91",
-      "size": 67745
+      "hash": "169f939749cfc7fc1c3f03c22b830342264f24b273b733b2dd2abda7131bcfa8",
+      "size": 73725
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_tagtrainingresult00/tx_uTex_fl_singlemode_txt_tagtrainingresult00_0.diff.png",
-      "hash": "ebb3218e5f2303c7f86a821b44d52bf4029a03ee380a6f0e041f97863cc27b8b",
-      "size": 444485
+      "hash": "857727d8552834b5cbfba0bcb11e9b4d619a69b259e5e6ef78c71f9ed8da5f75",
+      "size": 701500
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_trainingresult00/tx_uTex_fl_singlemode_txt_trainingresult00_0.diff.png",
@@ -972,6 +992,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_trainingreport_reward00/tx_uTex_fl_trainingreport_reward00_0.png",
       "hash": "efc464756bcd3e3caca7b3f1480124d1ffaa98f214cf1c373ed6999f202024ad",
       "size": 101832
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_transfer_txt_negotiation00/tx_uTex_fl_transfer_txt_negotiation00_0.diff.png",
+      "hash": "acfa53655ac386efe9749b025659a64d12b87ec64533d2bc4037196c071accc9",
+      "size": 89266
     },
     {
       "path": "assets/atlas/campaign/campaign.diff.png",
@@ -1035,8 +1060,8 @@
     },
     {
       "path": "assets/atlas/heroes/heroes.diff.png",
-      "hash": "028348e544a11ebed253d7738270c6710e351f898d11ec88acf668319331f63f",
-      "size": 696284
+      "hash": "fbfa10ab16bc9df36dce8b93423486b6bc66ec33dee2e9c27af36722268c5bb7",
+      "size": 685561
     },
     {
       "path": "assets/atlas/heroes/heroes.json",
@@ -1219,6 +1244,11 @@
       "size": 365866
     },
     {
+      "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.json",
+      "hash": "5c1dec2563d32981185738ed816567ebc04de244de819f323aa97313e803d1db",
+      "size": 84
+    },
+    {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
       "hash": "a14813bdb4c24d3f7152344bb9d085dd8e5308b109cfd3541fea472498d4960d",
       "size": 285787
@@ -1250,8 +1280,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.diff.png",
-      "hash": "497f9e87ffddf802550cfd0a4b2c6dcb81428eb67f66f1c96f192d644f955b1d",
-      "size": 740912
+      "hash": "5718a75aa7bf1cae25d3848420aca597ac3618e15b7b9371a726236aac3825d1",
+      "size": 731719
     },
     {
       "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.json",
@@ -1330,8 +1360,8 @@
     },
     {
       "path": "assets/atlas/transferevent/transferevent.diff.png",
-      "hash": "c50875b4a64ebea892ca6b77c43ced99b212a25ac7ae1e15e9f01369f1dd105e",
-      "size": 119937
+      "hash": "59892da1d5b4cc052597bf47a71af684ab8de1688a56cc2d087906214c2043d2",
+      "size": 88761
     },
     {
       "path": "assets/atlas/transferevent/transferevent.json",
@@ -1350,8 +1380,8 @@
     },
     {
       "path": "assets/atlas/walking/walking.diff.png",
-      "hash": "d149de69ab96977195e430eb76529f82b784a6f195174e457e3159b0eb293ff7",
-      "size": 235240
+      "hash": "7ae4f3db6ac1f54d538dae72ca854dd214943c53c64a1d0a0da0bb3682ab0cb6",
+      "size": 217763
     },
     {
       "path": "assets/atlas/walking/walking.json",
@@ -11975,18 +12005,18 @@
     },
     {
       "path": "assets/textures/race/courseicon/course_result_icon_10103.png",
-      "hash": "77814f682905423afaea340807401da04cb2a5c2acc3c704e98a108d8db94fc3",
-      "size": 9048
+      "hash": "fdb2f38c4b23fd3198fbf7184386cb644b028f73d2e5390994d0f60e169c98d4",
+      "size": 5932
     },
     {
       "path": "assets/textures/race/courseicon/course_result_icon_10104.png",
-      "hash": "88174827a4178e2dde5df14a43e62a2221a556b6e589729725f1297e83aa1dfb",
-      "size": 8271
+      "hash": "f3fd95ceb7777b9a1959299500ae58d94a6c226af458ae0601e4a6f37ee0af27",
+      "size": 5806
     },
     {
       "path": "assets/textures/race/courseicon/course_result_icon_10105.png",
-      "hash": "94e6bddeecf3cb6b635106b1486b5f52625b516c1efbe2072c265eb1ecec69f0",
-      "size": 8288
+      "hash": "e360c8249876b548ff1842a796237124640798633f37f275ad691797faabe4d6",
+      "size": 6343
     },
     {
       "path": "assets/textures/race/daily/tex_race_daily_00.png",
@@ -12659,6 +12689,26 @@
       "size": 602670
     },
     {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1107_00.png",
+      "hash": "9b776d101d9eb47e5af475eefce594f5a80916aa027c57ba1d6e0bd48001ad89",
+      "size": 487123
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1108_00.png",
+      "hash": "5519f5ba0e36b63c3e3987fbecf5df31be45fe0df8e045d7362dd2fc83c72f66",
+      "size": 366147
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1109_00.png",
+      "hash": "cc563f80cb91450058ffad457f60e79f40716acf33ed31e04bee1392364295c5",
+      "size": 317621
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_1110_00.png",
+      "hash": "a97b9bfe519f3348f1c1678ee545045b9daf49dbceff0b4ccd2ea7252fa3ff84",
+      "size": 403575
+    },
+    {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_1111_00.png",
       "hash": "398c5d9a30bc9e5cc62085ce988284fc69934b674e09049a64d969c0b8d9b024",
       "size": 353777
@@ -12707,6 +12757,11 @@
       "path": "assets/textures/race/racetitle/tex_race_rt_000_15001_00.png",
       "hash": "342fb9e9d6ad42759567dc9dc80d00555c486e46908f073aee5a34e2e41bea2e",
       "size": 154494
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_15001_01.png",
+      "hash": "8447cc735ecdb7c01d5d2c22b264e2a67a4df9357a38004e635c411e299d1624",
+      "size": 188151
     },
     {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_2001_00.png",
@@ -12882,6 +12937,36 @@
       "path": "assets/textures/race/racetitle/tex_race_rt_000_2035_00.png",
       "hash": "48b2cedaefd9d541827a5a9525dfef52aed605866dbcc4d1b2f056772af38370",
       "size": 180706
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2036_00.png",
+      "hash": "daeda9dc5323f16e4d9a39e73c9170b3cf1936b27358727934f763f8136351d8",
+      "size": 171625
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2037_00.png",
+      "hash": "65bbca3fb966932f8dc07ec0109ff95a43a326741697e78d679b6055abcf93f6",
+      "size": 127625
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2038_00.png",
+      "hash": "8dc9686f8974125aa9fe9ddff3305f0bbd9f0dcea87edaa0e95b5196c53f3cb9",
+      "size": 140873
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2039_00.png",
+      "hash": "15c357e4db3f3bf415448aaa50fd61b713643647642c21c5571b5e10087081d2",
+      "size": 148283
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2040_00.png",
+      "hash": "a0544694c1aace3f83926cf50d04f6a494b8664bb7ddd20a7bca97c468f0369c",
+      "size": 147211
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_2041_00.png",
+      "hash": "4c30258f4b363da0983c16b2af71f7e1f1b449c1d0e5f201a6ee78e9e912062b",
+      "size": 178589
     },
     {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_3001_00.png",
@@ -13232,6 +13317,41 @@
       "path": "assets/textures/race/racetitle/tex_race_rt_000_3070_00.png",
       "hash": "640080b80115aa1f4a1030c5aee0de5f1886c50e3c5d30469a89ae3a9b5223af",
       "size": 206268
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3071_00.png",
+      "hash": "ac9944360dd5c292e421a283a40d2683f1af1167198a3143cd324568493ecf7d",
+      "size": 158985
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3072_00.png",
+      "hash": "8598133cf88fc9ec9fb7f289ed2e71e1efab871ea3d4ee0d1b9d2c34cf3ec403",
+      "size": 166267
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3073_00.png",
+      "hash": "26832b3a194cad92314bd2c76f35f601b33152ccd20c4397208ba14dd02fd008",
+      "size": 236780
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3074_00.png",
+      "hash": "1985b4197f75b882bf1d52285afde241c9903280e5dcb283c0c0a6c61cd628a0",
+      "size": 147765
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3075_00.png",
+      "hash": "0e1002e6373ce5f2657533849f15406cb70ab09fcc81dbcd401f575ecd52a08e",
+      "size": 143338
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3076_00.png",
+      "hash": "d0583290bdafab59fd3d750c68dd82b40d09386be421e30f6a86804779e50daf",
+      "size": 166897
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_3077_00.png",
+      "hash": "ce0f0a7a38a036222f0f54cd0cf8c9e55d909cf17407059dbb9820b66c253765",
+      "size": 153739
     },
     {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_4001_00.png",
@@ -14754,6 +14874,116 @@
       "size": 335695
     },
     {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_11.png",
+      "hash": "ef827822f6ec9ee2aceb21dc4eee8ca05369570c29d7ca8276bd4be133601250",
+      "size": 185134
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_12.png",
+      "hash": "f5b61b4dc222c6c56df388bc7a823f58160f76e53df7a2dfb7afbe8f32b08277",
+      "size": 192725
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_13.png",
+      "hash": "f4f287a859e0bd37288f534284032decac530039af09d7563671c37d7459bb22",
+      "size": 196519
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_14.png",
+      "hash": "1c1128d750bc3980439eb579ec0ae39216778a8257d0a32f96d78aa4b8a01367",
+      "size": 189981
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_15.png",
+      "hash": "be32df7f91c9628d4381b7d976c5acb0256b566e9e9bedaff6187c3ec9f927f5",
+      "size": 193745
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_21.png",
+      "hash": "4238df9de6995a53f723b170c5954c57d331833eb48934109add3b3d5dce9715",
+      "size": 194801
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_22.png",
+      "hash": "c6f54aee85186cbdc30f387221ca6a35f2b84c585b5ec433503a302dcca0106c",
+      "size": 201777
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_23.png",
+      "hash": "9a28fff0d06d9f1066f7bc67d69f9ab92e4c43c68250d8070029c73fbb1f1b04",
+      "size": 204851
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_24.png",
+      "hash": "4b95a445f2979a8f20603522802f197018b7a46cea88e02e6076c4e368929013",
+      "size": 198615
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_25.png",
+      "hash": "ea7293817c1f6d5e153b9d4b4bc14b483eda15c6c320aa9af8c8cffca2f259af",
+      "size": 203632
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6014_31.png",
+      "hash": "5337f05802a3b4aa4797315198ba5c38c98e6655041cd8bbfac72fe5c6c1efa3",
+      "size": 118698
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_11.png",
+      "hash": "7145cdb91cedd2c8791bae796b3b2eddbb9ec95d4595701c5fc9a68c05ed00f5",
+      "size": 185723
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_12.png",
+      "hash": "dde73bce1923ddde06d9b81c3e99933398a7d86c087b6abf220e7b619d70a318",
+      "size": 193229
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_13.png",
+      "hash": "fa5b94648f6a37695f83712026307620231e492f9c51369667dfe105f71963e1",
+      "size": 197275
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_14.png",
+      "hash": "f90f0ccd034376cef9b6f12a276bb89db312b7cf35910e5d48e8c6bec11a3a61",
+      "size": 190599
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_15.png",
+      "hash": "069a4603e3d3930a6f6bfd75de2825a9fc389b83e78404842278bb12870c8a2a",
+      "size": 194606
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_21.png",
+      "hash": "ca2026e8df668508961d9c98ac6c8a241eb9310f58b357e3c04fcc748c97329a",
+      "size": 195313
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_22.png",
+      "hash": "05a164a435104ff39bfd680e4e1c9d1b5387d79b8cbf1bf2b34ba25d782f693d",
+      "size": 202148
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_23.png",
+      "hash": "f2a8d209481bb50e18b4e70b59e1385023b731d6671614259dbc050bf17a667f",
+      "size": 205164
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_24.png",
+      "hash": "bf2ed7c9fd61450a79e0ddf8858a1dbfe898ccae7f06f5a4863fa0bc8756ceaf",
+      "size": 199060
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_25.png",
+      "hash": "3f88e2473c99d6acab8bb0dc0aae369581af430bcdd2696263868be599db0675",
+      "size": 203944
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6017_31.png",
+      "hash": "42d4006599c06e6c8f39894c0d37e62f3cda636ac50440240dfeefe5e1538fca",
+      "size": 119475
+    },
+    {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_6100_01.png",
       "hash": "e8f9fd6ae842945ddafaa07fc97005f8c78a45f491461cfd9e029c7b5873d2aa",
       "size": 83743
@@ -14827,6 +15057,66 @@
       "path": "assets/textures/race/racetitle/tex_race_rt_000_6102_05.png",
       "hash": "a78a2a4fa536a8482b523fcc1982d3d6efc54b22b97882d87c6115a19b68454f",
       "size": 94546
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_01.png",
+      "hash": "acb39d7eaa5f1621f83f510914aa04f44cf660c7fdb3385d8a2394ac75a9f867",
+      "size": 87441
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_02.png",
+      "hash": "5896c59f3707fcffaa3bebca230e19a954389cae1d0da1f76b5a79cc3bef30fa",
+      "size": 99269
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_03.png",
+      "hash": "3973eda5aad7950b05fb2819b23c934640c50be655a01d1a0d233b5a8383e9b2",
+      "size": 102698
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_04.png",
+      "hash": "e241cf9f7cf22914c22c17ba4c0c37efe012b18bc81f15706cf95b985614c572",
+      "size": 93549
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_05.png",
+      "hash": "724f2c5fdbb2180c188d5f6a8b79926c9daf4ae1ed71cc483d9270f90607c05b",
+      "size": 100757
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_06.png",
+      "hash": "413a4641a7481dd0cdfb69c5f1d32d4e7bbd128ff31fcfe04b78c2f3c9c2016c",
+      "size": 102533
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_07.png",
+      "hash": "a839bafa7013d4d56b3391889ce3274ee8660324497c5ce2ab2b33e3a711ec7a",
+      "size": 94487
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_08.png",
+      "hash": "72ddd292172e784342f5e5c733522f1dc24b4dcd204ec720398e5011084d6f26",
+      "size": 104055
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_09.png",
+      "hash": "4beba3227b4259836f8b0118011b3e2c52a208593681e5a217eff19777942e65",
+      "size": 102245
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_10.png",
+      "hash": "d4eaaff3985ed495f5d37e512e7044b9642ca9f13b4ef0daf8b1ccae023eb300",
+      "size": 108314
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_11.png",
+      "hash": "950f4c1069327dcdfa164c51e2f2b6a4260477e5fd34fa88b8bcadeeb972c53f",
+      "size": 96303
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_6200_12.png",
+      "hash": "d3c3bbfd59af7d829a2e39486184dcc700e81141024cb99eae2ad38dbba5f02c",
+      "size": 107402
     },
     {
       "path": "assets/textures/race/racetitle/tex_race_rt_000_7001_00.png",
@@ -14932,6 +15222,86 @@
       "path": "assets/textures/race/racetitle/tex_race_rt_000_9030_00.png",
       "hash": "9ef21e818d26b1cd3f6120da7266a1ada07f84c9b90bb258f83360e0f8937ce5",
       "size": 376706
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9041_00.png",
+      "hash": "46357345a8a717cdab149957bb04aedab56474379f5227c5dd5dc68c833e54a0",
+      "size": 317768
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9042_00.png",
+      "hash": "b635814acad279d2811aadd4bb2b45537235126b286fe828002a050283d5eaed",
+      "size": 300443
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9043_00.png",
+      "hash": "db37b0b67d503a30f6b3542baabde03addd0c022cdd49b0ac6a3d75a4658a010",
+      "size": 324718
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9044_00.png",
+      "hash": "0e6e7163628dc615d1853562d172f35ac58e002f9641003a9b5bd53f351013e3",
+      "size": 301508
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9045_00.png",
+      "hash": "d938e91f8c7ff7ea8f54f25bad4bf013c7ee2c5b59e64868d6a76cc2e16b85a6",
+      "size": 297855
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9051_00.png",
+      "hash": "e8d170b412b907aaf338fcddbdb7ac3c40db6ff5cc98b128c1fc2488c76bb438",
+      "size": 383304
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9052_00.png",
+      "hash": "f3d9a67d27995f05f8e56b8afb93050acbcbbc2e6eb6ba826238e92de2739417",
+      "size": 374327
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9053_00.png",
+      "hash": "1828b668997e6b08dfb6d1aeada9c0192a684b27e76a48a8ef32c493c5990418",
+      "size": 392692
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9054_00.png",
+      "hash": "dae26e0e832fd5934f4f691d707712266452f3a174fcb982038e530a72ee06a0",
+      "size": 378518
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9055_00.png",
+      "hash": "263138331c9a6ff52e8990cd82d596f1ee6429d46ff6494c9e6be2d5e32cda49",
+      "size": 375199
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9061_00.png",
+      "hash": "9b6cdd128bc2dfd9765859975cbff68b4f199ef16a5feb05b669152dad49a9ec",
+      "size": 335814
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9062_00.png",
+      "hash": "da274bd63ccc090588bfcdb0f8a78561d77cffc08717f365532b217e587d6ba1",
+      "size": 325875
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9063_00.png",
+      "hash": "abc2a3d6aa92476fb462ff6c00b8b9a961fd309322927fd3c5f3f1a01af3efd9",
+      "size": 341375
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9064_00.png",
+      "hash": "2f17a8c8d297068f6a690a83fecfa57aebf8b5bea0381282aaba675887068e20",
+      "size": 329637
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9065_00.png",
+      "hash": "8cdd66628ffe4d7378f65bbb416b9fc44edd697ea00d508930eac6c551bd7c66",
+      "size": 325628
+    },
+    {
+      "path": "assets/textures/race/racetitle/tex_race_rt_000_9070_00.png",
+      "hash": "7a7bd20e1656a84effdd597b968744f91b4316c9ea2fb07e0b3a95be61d5494f",
+      "size": 292075
     },
     {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1001_00.png",
@@ -15117,6 +15487,26 @@
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1106_00.png",
       "hash": "c3e74ec4fcff4115919d794e6b1d09701b0686d3a95d26919a8ea2084cd76aa7",
       "size": 154945
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1107_00.png",
+      "hash": "0480431f0f118d263b319ac05b8a9e41ba0e06c27dcdac45ea5d3c6e91c8d573",
+      "size": 221690
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1108_00.png",
+      "hash": "2687d4acf62274fd2f962e196f469f3a052bf3cd85e9108c970a1f20667a26ca",
+      "size": 156939
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1109_00.png",
+      "hash": "fbfb059a465e53e8e69525c30745f7e0e6a706b4f0ceafbb4aa63176a5e7e574",
+      "size": 152707
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_1110_00.png",
+      "hash": "70d387b5c2f541614f281af12dde2f1acf4d7d99c5c090a366e25d95eae8b2b5",
+      "size": 234071
     },
     {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_17310_00.png",
@@ -15332,6 +15722,36 @@
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2034_00.png",
       "hash": "7827a858e7542b4e0bf3e41a7b819f4cce30a6bab1499ba5d0aa36ed271ca307",
       "size": 97424
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2036_00.png",
+      "hash": "2bd40fb678efbf13869ec338726cfb59a087e000e0f8034b595322c7a7901927",
+      "size": 104754
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2037_00.png",
+      "hash": "b587b44b30a6357f8c5632026de3cc021ecbd2d7759c77b75f1d668fd2f21461",
+      "size": 95261
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2038_00.png",
+      "hash": "72d912b5a58a3c7b4e2b83d02241dbf567be29997ffc07d1c9602ddb7b9fe19d",
+      "size": 96976
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2039_00.png",
+      "hash": "95b892b39c8666dd3a3297174087966b79744c63f95ab1b9c50284ffff768934",
+      "size": 98271
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2040_00.png",
+      "hash": "aa0abbf6c4b9fca50e803b2c54555d6702062b33243c65a2993accd85db4fc9b",
+      "size": 98197
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_2041_00.png",
+      "hash": "373e011ff2cc69a0b03ccdcadcda0657d1fcafdaaece62530599c762f5c9d383",
+      "size": 103352
     },
     {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3001_00.png",
@@ -15682,6 +16102,41 @@
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3070_00.png",
       "hash": "e5751da9e02cc72a4fff339f43ed96e5370c8577ef9414ef3b48cb10615a1f92",
       "size": 114834
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3071_00.png",
+      "hash": "cd9d29f79c1db839373559b7c545062e7e3ef9ff27e66606ae5e3346cceafc4d",
+      "size": 105084
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3072_00.png",
+      "hash": "ee46922f7e15f134c1ccb53971dd40ef367c575b74cfdc509d217656c76470f5",
+      "size": 106577
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3073_00.png",
+      "hash": "54fc3b439d83a74b39356fbe225d4fdb0c71d1b2b5bc3032777b60cca970df92",
+      "size": 120399
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3074_00.png",
+      "hash": "2e1e87a86f44cfdf59df11a527e61e6be967a6d5bda5ad55be306f2784585c92",
+      "size": 103930
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3075_00.png",
+      "hash": "ec119f1844404d6d81ff6f5880a6b295440496755d2c888906e3b105a767c97a",
+      "size": 102504
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3076_00.png",
+      "hash": "d7a3f0a0d67c63e7843c64371bbfd84b04511295bb3b5080622d60db57199ed3",
+      "size": 106353
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_3077_00.png",
+      "hash": "93a46580f8a51b49a495d51d222c8203d255a2c9bb8992271efef52a08b80d02",
+      "size": 104289
     },
     {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_4001_00.png",
@@ -16489,6 +16944,11 @@
       "size": 100773
     },
     {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_5980_00.png",
+      "hash": "394d474df2a6442e2cf577bdec503972c942e90c054145d4a3f76a2d7b64618a",
+      "size": 97256
+    },
+    {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_6100_01.png",
       "hash": "45d274b16aad91909f63d60f14106358801b677de5c754d27c321c79f6b80b3f",
       "size": 89278
@@ -16679,6 +17139,31 @@
       "size": 210598
     },
     {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9061_00.png",
+      "hash": "d17c53261c4974f8d70fe5023476d4c769c320e2542f6dd9cfe31f606c2786a6",
+      "size": 188022
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9062_00.png",
+      "hash": "ee9a10846ebe882545e7cbe1cc40c1ba7d0a6392ff41ec34b96cda48a24b4a13",
+      "size": 187016
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9063_00.png",
+      "hash": "b365cbeb964a9f240e8adfb133daa11ce5bf62d397d720dc5599620cb14eafba",
+      "size": 190680
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9064_00.png",
+      "hash": "e7fefc741ff91480dc2e09a40385751f0bcfd65c64cbcb0702a164230eb4a4a2",
+      "size": 188487
+    },
+    {
+      "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9065_00.png",
+      "hash": "ab6282797e0af114020bb2202ac30fd11f8d1148ec69d37ecb39d27a095bfccd",
+      "size": 186979
+    },
+    {
       "path": "assets/textures/race/racetitle/thumb/thum_race_rt_000_9901_00.png",
       "hash": "4e0eba09cb3713370fdfafbe874c88e44769bcc5aeb5d075f76818f53a68982e",
       "size": 101470
@@ -16784,6 +17269,11 @@
       "size": 72851
     },
     {
+      "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.png",
+      "hash": "01da8659f9ce6a34e3d7a1d892e08e2a9bf87b9dc6d43ede01e5d2883621f6ab",
+      "size": 237543
+    },
+    {
       "path": "assets/textures/uianimation/flash/singlemode/sectionstart/utx_sectionstart_10.png",
       "hash": "fbdc0a99f28e0e4701fa0298f6cba8256580f91c4afc2b1a44be007c07f532f1",
       "size": 323652
@@ -16849,6 +17339,11 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/common/pf_fl_cmn_icon_new00.json",
+      "hash": "0b4e958e1726ccd66ba0f4f1580a244d5dad4bd5d1bd7edd3379a3d73d521dd5",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/common/pf_fl_cmn_txt_event_reward00.json",
       "hash": "a924f9ca1308d5a1479727f75199501a4df2afa2dbe76b58bf954f093fd44ca2",
       "size": 76
@@ -16864,14 +17359,64 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_btn_gacha00.json",
+      "hash": "5dffd3bfddb4d21531ad80e91a85342ef93fa890e2fcec8c96f6ec79d9ec4f05",
+      "size": 805
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_btn_home00.json",
+      "hash": "fb5e13c0549aead26da8fb79822a35345b6810b7579521d94364b8eebb1a9d7a",
+      "size": 781
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_btn_race00.json",
+      "hash": "20f264a7e3709f5cee568567cf030614796ddf7449cfe90a0d2fb114101ecc74",
+      "size": 786
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_btn_story00.json",
+      "hash": "4b1635c6cb262a373ccb170bea693c80016e0731b36d6ff7a258e6db017b43a7",
+      "size": 783
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_btn_umamusume00.json",
+      "hash": "2b07bb4742f10a574b32df5ef64c190ab6532ea9fc88f5e451d7389a8cc457d6",
+      "size": 783
+    },
+    {
       "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn00.json",
-      "hash": "d316b259eaff4643afd59cfcac5c9a5025355e928bcf94d11fe426afd371d207",
-      "size": 76
+      "hash": "df55c5b5d737cf96f95e4e949a24257beb9bbd061b630f5e802da5d528581f95",
+      "size": 803
     },
     {
       "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn01.json",
-      "hash": "f0e08020f5df8bc866ca76adcc77dc650b17e41ed0c97fde006ff7243ff3c087",
-      "size": 883
+      "hash": "2f2e394f5432565e9c22ea69a4ec210ceb82982d2aba6da237c4af208138210f",
+      "size": 799
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn02.json",
+      "hash": "9c3824307e5cd4e10de39d0ce48522a306321f82f302add075466554372275ae",
+      "size": 795
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn03.json",
+      "hash": "0856b7a8b869bc6e09493ef473d261c402db93d4504f2674a8456708b762c72e",
+      "size": 801
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn04.json",
+      "hash": "df45f8d9ced712578f83cc44b0e4bd3151b28aecdddbcc2184ae2e9185180fe6",
+      "size": 805
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn05.json",
+      "hash": "26c1837b9a6e72d2f4cdcd416cb43b68ffd0c3a040bc2ff30fbcd52bfa5a04a5",
+      "size": 797
+    },
+    {
+      "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn06.json",
+      "hash": "ac02f8bf3e1f8ba034a988de3b3c21010dd758aa605b469e7569f9385d4a9331",
+      "size": 797
     },
     {
       "path": "assets/uianimation/flash/gacha/pf_fl_gacha_card_limit_break00.json",
@@ -16882,6 +17427,11 @@
       "path": "assets/uianimation/flash/gacha/pf_fl_gacha_chara_piece00.json",
       "hash": "359c9175575f55bb9c88246f9681bd3db2e93fd0b1293738fc8949263aa7a55a",
       "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/gacha/pf_fl_gacha_icon_new00.json",
+      "hash": "766a629dffbb0494157efdd9e9a692c80e958d613d52b786d595ef6a786934b9",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/heroes/pf_fl_heroes_btn_get_heroskill00.json",
@@ -16934,6 +17484,11 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/outgame/pf_fl_transfer_txt_negotiation00.json",
+      "hash": "c2d75874e624eb6c68f5c766d2e8440997a026baf9c8132fb07bab5740965649",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/outgame/prefab/pf_fl_contactcard_photolibrary_icon00.json",
       "hash": "bf092001af97da2a8bd7757e400617578162249517eb2c6b336b9ead3aac878b",
       "size": 76
@@ -16959,6 +17514,11 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/roommatch/pf_fl_roommatch_top_logo00_00.json",
+      "hash": "4326e18752a285f8cdf5a70eb6948661f041d938471b9101ceff479c856dbb6d",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_btn_trainingmenu_ssmatch00.json",
       "hash": "1df91f8495d766d6bc2cb271740a6b337f866497d26b4c8ba2638464c11086a7",
       "size": 1490
@@ -16974,6 +17534,11 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_badge_achieve00.json",
+      "hash": "5467a01774098b08c93e4ddb1d62dbedf35fdda795b9fb19a8a07495f3f1fce4",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_btn_teamsptraining00.json",
       "hash": "63a2a87556550b14fc56a7a1ad108b70a9b8a38c77fdcfe0b34e269d8f12762b",
       "size": 76
@@ -16984,9 +17549,34 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_event_join00.json",
+      "hash": "e0c34867b27e505be92d972352f019c09ec9d8cdf857fa60f4e8785707963297",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_eventbonus_target00.json",
+      "hash": "6d96af73362695100a02f69bcac6e742a9a809f975ad42aa6d13d554b13efa78",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_header_turncounter00.json",
       "hash": "91d7848e49ffc9de4610e04dd3364f5e1cbd05f914f3f6fff8a8a7acf87bd9ac",
       "size": 879
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_memberbcrace_result01.json",
+      "hash": "43afd2cd722b85db79fc33a62e5c2c877cfaeabf9d05a182c9c5725f2d82cd34",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_next_target00.json",
+      "hash": "c903a1da71c97d0d0d21bc1d602e55c629d1eedc00fbbb1a6523d2cc9aa9ce0d",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_remind_turn00.json",
+      "hash": "a7929dd9c330a3dbdf614c042e0e272517e41c8e13ad6cb25c96e28e21f8c917",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teammeeting_graph00.json",
@@ -16994,9 +17584,49 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teammeeting_transition00.json",
+      "hash": "741c595d42b209e2a6f7e18edbc4df4571013c2ba98123cf046998675b42f040",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teammeeting_transition01.json",
+      "hash": "692923f819d9d8eac6db14d394a53d414bad05c003bde3849dfaf6aaf7fb568f",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamparameter_lv_maxup00.json",
+      "hash": "afe50c539138217047827b85377a223ab4c5179581b29a1d673a6f9626006533",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamrank_progress_text00.json",
+      "hash": "422aa6d1b218a29b99ea7ed60bd3b1cc546e6c694dede658b1c38711b7576211",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamreview_start00.json",
+      "hash": "e2b7251a229fbecc53c1651b9c1d4aefa1519be00e5e40f995dac1304c25f72b",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamsptraining_efficacy00.json",
+      "hash": "b157f8adf4e731b3c635094ba49eec2c824781c71508f3f9f3a782a78f0a874e",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamsptrainingstock_up00.json",
+      "hash": "efa82d596a4cf08387156519f868a3f11e995a2667ed4e13e473b367f15b2b9a",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamtask_progress00.json",
       "hash": "1b919251b962573d1d972d30a08ecb1976300b71fbe8a63564a26315b60eef2b",
       "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_txt_finishrace00.json",
+      "hash": "f9e4420e880e136b310788335d3c1eded3ae18df2bc345f66c6f55286d704cb7",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_badge_garden_reinforcement00.json",
@@ -17084,6 +17714,11 @@
       "size": 489
     },
     {
+      "path": "assets/uianimation/flash/singlemode/free/pf_fl_singlemode_free_sectionstart00.json",
+      "hash": "21a86f4008dce0d1b341c51c73125470a18eb0e0e5ef8485c56e4b7c1aef3452",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_enter_masterly01.json",
       "hash": "5ca925c15dd7114c2adf57664cf5754d0cb8d47b07b3f0147e1097c1ccd68440",
       "size": 76
@@ -17110,8 +17745,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_header_turncounter00.json",
-      "hash": "198a395e2921a26ac5605010f291f8695277e9f66ee419b434328baca58e5f3c",
-      "size": 1410
+      "hash": "aaa20a8123803c468b689f060d0579f305aabde6a47898f1e117452996303a00",
+      "size": 2084
     },
     {
       "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_overdrive00.json",
@@ -17224,6 +17859,41 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_bathing_ticket_get00.json",
+      "hash": "69db1cc2b98994059ab965af1faffd1eea8d702c30f81d3337b976944e3c96f9",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_btn_trainingmenu00.json",
+      "hash": "8fb2b06be6ef89acad234f30f754f54872ac59436d3bb0e00e1a0514c3111156",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_btn_trainingmenu01.json",
+      "hash": "336a0a4722d075f62c3d620f8320b57eb2ef8c4e512430c6f998984011e4cd1a",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_digging_comp00.json",
+      "hash": "a610bc9579ed7d071f6a5a0570996297795a557496a152a101351a76b5de88f5",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_equipment_get00.json",
+      "hash": "7e4eaa3f05d0bc46fc8697e80ddd8de72d993e94db3f05e603915228f53084d2",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_event_join00.json",
+      "hash": "c2d1b058ab409f369631cdef76cbbdb4b87581c32144dd31b14f54ff3b22bb73",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_hpgauge00.json",
+      "hash": "724182f040ddf3c6aa76fe01d0f4508f659a0fd2c693d363950079986551071c",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
       "hash": "766be663dbb7993b40cdb6c3fd47df072e3de0abe8c8d71449c714ea43d399cb",
       "size": 985
@@ -17234,14 +17904,64 @@
       "size": 327
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_hotspring_map_result00.json",
+      "hash": "c0e1ac57c6a9fa6eacbd3cf388f7ed99a89a6d189505299ebeb6f26dbec3b067",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_hotspring_map_result01.json",
+      "hash": "77067a6f341947104200d0a4a43c43a0f4cbd947f5fb57d79df23894a929f04f",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_live_yukoma00.json",
       "hash": "5520a626ce9ba58adda4f1916df7b549c27e08c9b0ff3ee18f343052fbd33f5b",
       "size": 49146
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_power_activation00.json",
+      "hash": "b7188d5623991da1727ae15c22b2d7fbf1886a878d2cad70359f81d035372bb9",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_recovery_available00.json",
+      "hash": "2a0e0ff3c75df9e856261f23f05ca0bd1b60b1219477588e9bfa8c63f134a8a1",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_remind_turn00.json",
+      "hash": "c54403763f783949daf669bd1781efbcaedae74ef0a0f45c57b213135e1900c0",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ryokan_rank00.json",
+      "hash": "7320f1cf5d37a12671fa5f6a6ded966e712775cc1436841e65b08d4c92793d72",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ryokan_rankup00.json",
+      "hash": "51a28e5c32023d5011a34def126ce5639483786f224c789ee8f2872a05384995",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ticket_btn00.json",
       "hash": "6c8c3086449e780e5bbb3c3e8180846328ec4aea92a490c7442765e32f48ff40",
       "size": 495
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_txt_trainingresult00.json",
+      "hash": "7a1eed356ac18961c3cb965409a22b75bb20325b3e54267793855b9c56748865",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_yuami_btn00.json",
+      "hash": "3a70504e48c93ce3e684cecd0fdf0d1045df5aaea722fe1d2194409c39f5467e",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_yuami_result00.json",
+      "hash": "f0fc04973fc878ba1aa1df6fb65088ad7d0dbf31ab7745d7cb298f8efccd7126",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
@@ -17349,6 +18069,16 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_regetfactor00.json",
+      "hash": "b348a14bb586ee8dc15d3fa5821a3cbf0ba8ace949c4c715c8452808a7a9d2b4",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_result_chararank00.json",
+      "hash": "d6002b8c127ceeaa0a553c41e032e87197f8faa90a64d30fc2d36bf305ba19b4",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_sectionstart01.json",
       "hash": "7c53c076f6fdc86e0d3294a8417d6f0ecffe6a86b80ddbcdce7c932f7aa64dcc",
       "size": 76
@@ -17374,9 +18104,34 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_chararank00.json",
+      "hash": "4a8db87c13b60c8c7fd444559e8a190f8472adc64b6e7a65fb4f1cf5d55e6aca",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_chararesult00.json",
+      "hash": "df2937538ef9e3862614ca590e790ddc09b0a07f59bd17b36f4864be0f3efd9e",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_factorselection00.json",
+      "hash": "e9dd508825d7788719c30d2ed63e0144947c9235f8078fcc26a3eb983495a4b6",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_getfactor00.json",
+      "hash": "bcc017d94d61a4a1287ffbdf1f327c25b2dc260512fec605206b1a52f0d2c8e6",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_getreward00.json",
       "hash": "ff11cf3b7456117368412c41fa2f4cad0bcc66ee60cd4bd27c262a74a40e0d9b",
       "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_regetfactor00.json",
+      "hash": "194ca18b49035276d8aee6260ef76ce26f44b84934b9c6b2bb1a3e4d19d230aa",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_auto_training00.json",
@@ -17400,8 +18155,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
-      "hash": "182f915ab25cca8fe1004022eac71a023ae40aab6216797f7e79695968b87dd9",
-      "size": 414
+      "hash": "5fc6b7e7e76bba3282f304dc5d46a4dd07111b9bef4e362eb4a8faa9d072992e",
+      "size": 332
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_evaluate_decide00.json",
@@ -17422,6 +18177,11 @@
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_construction_progress00.json",
       "hash": "3d8535fbc6e40034c316a3c4090402442bb25e3bd0576a42cb248c84e4af86ee",
       "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_construction_progress_text00.json",
+      "hash": "35aa84ce6d7f11f9b9c2be978f863c0ac708335bc73a996debf8ea94ffcf20c1",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_evaluate_start00.json",
@@ -17445,7 +18205,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
-      "hash": "3801842d86998e0f171d55cb7b353609052ed474d2d046638307a6deab353319",
+      "hash": "e3c19b2be75e52e934d148fe4cf919db3a2e628cb04e234581d6e4495d5fa3ee",
       "size": 1437
     },
     {
@@ -17519,6 +18279,11 @@
       "size": 76
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_evaluateresult00.json",
+      "hash": "049acdabaae70a966b3fff3ee03a3b90e87b644f20910451c1ee99b40e0f5c01",
+      "size": 84
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_shimatraining00.json",
       "hash": "3385cf2360f03ac4451610ed5cef1795f0aed223867c07fe91f0adc82b5f800b",
       "size": 76
@@ -17590,7 +18355,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_header_turncounter00.json",
-      "hash": "910cbb362a3cf0c5c1cdd7965fb7069e7fe7f4153bf940a899ff2281be476fdb",
+      "hash": "7743de5be56bccd3ac9b2e034f505f7991db5a118dc1955ef4c53a4c9baa568e",
       "size": 3001
     },
     {
