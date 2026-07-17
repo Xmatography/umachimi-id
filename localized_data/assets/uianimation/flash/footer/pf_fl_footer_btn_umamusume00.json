@@ -1,0 +1,29 @@
+{
+    "windows": {
+        "bundle_name": "J75SM3YBTHI5Y4CDQKKJ4ZDF4THUIBA2"    
+    },
+    "data": {
+        "motion_parameter_list": {
+            "7": {
+                "plane_param_list": {
+                    "0": {
+                        "name": "txt_uma_on",
+                        "scale": {
+                            "x": 1.1,
+                            "y": 1.1,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "name": "txt_uma_off",
+                        "scale": {
+                            "x": 1.1,
+                            "y": 1.1,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

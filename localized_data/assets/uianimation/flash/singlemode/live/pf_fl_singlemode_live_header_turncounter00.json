@@ -1,78 +1,78 @@
 {
-  "windows": {
-    "bundle_name": "TU6V3LNFA6E7H2SEGT7TEAWWZLNNBLOG"
-  },
-  "data": {
-    "motion_parameter_list": {
-      "4": {
-        "text_param_list": {
-          "0": {
-            "position_offset": {
-              "x": 3.025,
-              "y": -0.025,
-              "z": 0
+    "windows": {
+        "bundle_name": "RQ6KBEIDE4AEANXLLQRGAA6ROOW74ADA"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 3.025,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Tersisa"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Selesai"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Concert\nafter turn"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -7,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran",
+                        "position_offset": {
+                            "x": -1.975,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Concert after:"
+                    }
+                }
             }
-          }
         }
-      },
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "Tersisa"
-          }
-        }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran"
-          }
-        }
-      },
-      "12": {
-        "text_param_list": {
-          "0": {
-            "text": "Selesai"
-          }
-        }
-      },
-      "13": {
-        "text_param_list": {
-          "0": {
-            "text": "Concert\nafter turn"
-          }
-        }
-      },
-      "14": {
-        "text_param_list": {
-          "0": {
-            "position_offset": {
-              "x": -7,
-              "y": -0.025,
-              "z": 0
-            }
-          }
-        }
-      },
-      "16": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran",
-            "position_offset": {
-              "x": -1.975,
-              "y": 0,
-              "z": 0
-            }
-          }
-        }
-      },
-      "17": {
-        "text_param_list": {
-          "0": {
-            "text": "Concert after:"
-          }
-        }
-      }
     }
-  }
 }

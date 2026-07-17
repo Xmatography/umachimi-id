@@ -1,0 +1,29 @@
+{
+    "windows": {
+        "bundle_name": "NTNMICYOM2RZ3OIFV22X7TVI37EYV43P"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "plane_param_list": {
+                    "0": {
+                        "name": "txt_home_on",
+                        "scale": {
+                            "x": 1.3,
+                            "y": 1.3,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "name": "txt_home_off",
+                        "scale": {
+                            "x": 1.3,
+                            "y": 1.3,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
