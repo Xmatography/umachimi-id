@@ -793,7 +793,9 @@
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140009": "chuckling",
-        "140011": "Whoa…!"
+        "140011": "Whoa…!",
+        "20021": "Saya masih bisa berlari, tapi kalau dipaksakan, sepertinya otot-otot saya akan terbebani…",
+        "20022": "Maaf, kalau saya ikut balapan lebih dari ini, sepertinya kondisi tubuh saya sudah pasti akan terpengaruh…"
     },
     "1028": {
         "11": "Cygames",
@@ -847,7 +849,9 @@
         "140015": "Hm , hmmm...",
         "140016": "Ayo Semangat!",
         "140017": "Uuhhhh -- XvX",
-        "140018": "Maaf-- TwT"
+        "140018": "Maaf-- TwT",
+        "20021": "Eh? Balapan lagi...?\nA-ah... g-gak papa kok...!\nRice masih bisa usaha...!",
+        "20022": "...G-gimana ya, kakiku...\nU-uh uh, masih... masih bisa usaha.\nBalapan juga pasti masih bisa..."
     },
     "1031": {
         "11": "Cygames",
@@ -3667,5 +3671,9 @@
     "1130": {
         "20022": "…Dengerin nya, abdi teh teu hayang keliatan loyo terus ngemaluin diri sorangan kitu. Sakitu ge maneh ngarti lah?",
         "20021": " …Serius maneh ngomongna? Ih, eta mah keterlaluan pisan… Melanggar aturan namanya eta teh."
+    },
+    "1097": {
+        "20021": "Sepertinya... aku sudah membiarkan dia mengamuk sedikit terlalu jauh... Kalau cara untuk mengendalikannya sudah hilang... aku tidak tahu... apa yang akan terjadi...",
+        "20022": "...Aku sudah tidak... mengerti lagi...\nMonster yang mengamuk liar, aku yang berusaha menahannya...\nYang asli... yang mana...?"
     }
 }
