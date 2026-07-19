@@ -1,0 +1,29 @@
+{
+    "windows": {
+        "bundle_name": "TS5YUVBWSU7ZNAUYJ7UFCLJP4ZYXCSST"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "0": {
+                "plane_param_list": {
+                    "0": {
+                        "name": "log_text_on_jp",
+                        "scale_key": {
+                            "x": 1.1,
+                            "y": 1.1,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "name": "log_text_off_jp",
+                        "scale_key": {
+                            "x": 1.1,
+                            "y": 1.1,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

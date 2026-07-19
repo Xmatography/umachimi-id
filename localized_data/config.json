@@ -5,8 +5,12 @@
     "character_system_text_dict": "character_system_text_dict.json",
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
+    "text_config": "text_settings.json",
     "assets_dir": "assets",
-    "extra_asset_bundle": {"windows": "includes_win", "android": "includes_android"},
+    "extra_asset_bundle": {
+        "windows": "includes_win",
+        "android": "includes_android"
+    },
     "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
 
     "plural_form": "n == 1 ? 0 : 1",
@@ -17,13 +21,13 @@
 
     "text_wrapper": 1,
     "use_text_wrapper": true,
-    "line_width_multiplier": 1.95,
+    "line_width_multiplier": 2,
 
     "text_common_allow_overflow": false,
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
     "text_frame_line_spacing_multiplier": 0.85,
-    "text_frame_font_size_multiplier": 0.9,
+    "text_frame_font_size_multiplier": 0.85,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": true,
     
