@@ -39,6 +39,12 @@
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Text":{
             "font_size": 30,
             "sizedelta_x": 700.0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffect/Base/Text": {
+            "text_override": "Ketika OFF, beberapa kostum tertentu tidak akan diganti secara otomatis saat kondisi tertentu terpenuhi.\n<color=#ff911c>Perubahan akan diterapkan pada karir berikutnya</color>."
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffectSetting/Base/Text": {
+            "text_override": "Ketika OFF, pesan konfirmasi untuk penggantian kostum tidak akan ditampilkan lagi."
         }
     }
 }
