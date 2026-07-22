@@ -6255,18 +6255,18 @@
     },
     {
       "path": "assets/story/data/04/1118/storytimeline_041118001.json",
-      "hash": "a66b9b7e10a79b5ef085ab66bd394a7c3bf872e5c9ae5d049c201a8aa4dc3e60",
-      "size": 6274
+      "hash": "e2b415a1dcba51dc4e74002e0ab52d006721ce4757eb9c6c082010bb344e25de",
+      "size": 6272
     },
     {
       "path": "assets/story/data/04/1118/storytimeline_041118002.json",
-      "hash": "c1acae27f58c9b6b98e2531e1cd4681e5754fde42d2c1cb56e4d5d6d0f75911e",
-      "size": 7564
+      "hash": "bdec8537a503776da03ea1a20bbf2addc9e88ea6844f3276a7a42081618f2304",
+      "size": 7562
     },
     {
       "path": "assets/story/data/04/1118/storytimeline_041118003.json",
-      "hash": "885c91d9677e9f2a162d22a454ad398f60ea12bd61e5eed7a01651aaf5e1a945",
-      "size": 8609
+      "hash": "ef638a2bd30a52ace619c4f9e92ac6578e7727fe8b431a2b1aa30187ce7a5fe7",
+      "size": 8607
     },
     {
       "path": "assets/story/data/04/1118/storytimeline_041118004.json",
@@ -18385,8 +18385,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "44aea1004f15f727af578dd612798cc5a3b7acf6766c537c70b920d54701afa2",
-      "size": 270868
+      "hash": "844b8b3438fe69f20bfd2e4529f299af051fccb74ddd1eff04a779de741dae77",
+      "size": 271036
     },
     {
       "path": "config.json",
@@ -18395,8 +18395,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "4ea595736361f4012257775775b75d6e7e8a511c35419170df5c5554e128e1cb",
-      "size": 15921
+      "hash": "676657ba508c70bace0e87eaa895815cf7f437ee1ded1992d8d0e0df19775b3a",
+      "size": 18260
     },
     {
       "path": "icon.png",
@@ -18420,8 +18420,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "27ea8bbd4df15b78459350ef489387a59a9a518fa857b7807333f581e436a1be",
-      "size": 435425
+      "hash": "7f34996a6b9602b3db8ef97e2ffc387a34e28205432e434a5bc4f64af867236b",
+      "size": 438044
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -18430,18 +18430,18 @@
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "860ade65496263ee583ff81f7059d6703065a53a3b9badd8cc6b93f98c409814",
-      "size": 216671
+      "hash": "0ef994da9149483c751a015e388772904e79472ed3aa0bdc30b2f9379c1cf413",
+      "size": 216667
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f81e966167b48eb2edcaba9e56d54f3f3c95fe1fd3f17dc4062b35f3c4731aa7",
-      "size": 2717005
+      "hash": "59cee42758038a6605024a6a024e3203cbe5b2db4b336b4e521cd69b6799a1db",
+      "size": 2960738
     },
     {
       "path": "text_settings.json",
-      "hash": "edda7cb4505193ab4dd4d3f99dd80194d6a06edc85772b60484c5a68a4e18858",
-      "size": 1515
+      "hash": "a6e35af480eb1b9662950eb4c0a2351a2d27151ef0ba32213accf4303f8105ef",
+      "size": 4157
     }
   ]
 }
