@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Saat pergi ke cafetaria untuk istirahat sebentar,\naku melihat Hokko Tarumae di sana."
+        },
+        {
+            "text": "Haaah... Haskap enak banget ya...\n...Udah lama nggak nikmatin sesuatu dengan santai gini..."
+        },
+        {
+            "text": "Jadi kangen panen raya...\nDulu kita semua makan sampe kenyang...\nTerus berjemur bareng... haaah...",
+            "choice_data_list": [
+                "Jangan-jangan, kamu kelelahan?"
+            ]
+        },
+        {
+            "text": "――eh!? Trainer-san!?"
+        },
+        {
+            "text": "T, tidak! Aku baik-baik aja kok!\nCuma lagi kangen masa lalu aja!"
+        },
+        {
+            "text": "Begitu katanya, tapi ekspresinya tetap mendung.\nSepertinya kelelahan akibat balapan berturut-turut sudah menumpuk,\njadi mari kita tinjau ulang rencana ke depannya..."
+        }
+    ]
+}

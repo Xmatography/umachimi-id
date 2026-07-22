@@ -3318,7 +3318,9 @@
         "140001": "Whoa…!",
         "140002": "Ah…",
         "140008": "Phew.",
-        "140014": "Woah…!"
+        "140014": "Woah…!",
+        "20021": "Pengalaman balapan... harus banyak dikumpulkan,\nya kan. Istirahat... eh, t-\ntidak apa-apa...!",
+        "20022": "Kenapa ya... aku tidak mau\nmerasa tidak suka, tapi...\nPadahal aku mau menunjukkan hasil di balapan..."
     },
     "1091": {
         "11": "Cygames",
@@ -3339,7 +3341,9 @@
     },
     "1094": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Seenaknya aja lo nyusupin balapan terus.\nAda batasnya kali!",
+        "20022": "Mau lo disuruh balapan berapa kali lagi…\nMasih kurang juga？ Ha？\nJawab dong, 'Trainer'."
     },
     "1098": {
         "11": "Cygames",
@@ -3404,8 +3408,8 @@
         "20009": "I'm not feeling well… So here we go… work mode! Let's go～………",
         "20010": "I'm not feeling well… At times like this, I need to recharge my batteries with my own Tomakomai photo album …!",
         "20011": "It's time for Tomakomai to aim higher and work harder… I'm not good enough, am I…",
-        "20021": "I believe that even if you can cover up for a short period of time with your mental strength, the strain will linger on later. It was the same with my work.",
-        "20022": "…I don't think the results will come if we continue to go through with the show like a mad dash. …I think we should rethink our plan.",
+        "20021": "Meskipun sebentar bisa ditutupin sama semangat...\ntetap aja, memaksakan diri itu pasti ada efeknya nanti, lho!\n...Dulu waktu kerja juga sama kayak gitu.",
+        "20022": "Kalau terus-terusan terjun ke balapan dengan ngasal...\nhasilnya nggak bakal bagus, deh~!\n...Kayaknya kita perlu ngubah rencananya dulu!",
         "20023": "Thanks to all of you, we are able to greet today in the best possible condition. I will live up to everyone's expectations!",
         "20024": "In order to etch the name of Tomakomai in everyone's hearts, all we need is a brilliant victory. If it's me now… surely!",
         "20025": "As a locodol, a Tomakomai Tourism Ambassador, and a fighting Umamusume … I am now invincible!",
@@ -3530,7 +3534,9 @@
     },
     "1100": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Aduh, balapan lagi?\nRasanya agak buru-buru deh.",
+        "20022": "Belakangan ini terus-terusan balapan, ya?\nTentu saja, kalau sudah ikut\naku akan berusaha sepenuh hati... tapi ya..."
     },
     "1102": {
         "11": "Cygames",
