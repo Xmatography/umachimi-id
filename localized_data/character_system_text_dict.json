@@ -1100,7 +1100,7 @@
         "410006": "Maaf ya.",
         "410007": "Maaf ya.",
         "410008": "Maaf ya.",
-        "900000": "Nah, nah, nah, kamu datang juga！ Baiklah, mari kita langsung ke eksperimen！",
+        "900000": "Nah, nah, nah, kamu datang juga！\nBaiklah, mari kita langsung ke\neksperimen！",
         "900001": "Hebat！ Kali ini kita telah mencapai hasil penelitian yang signifikan.",
         "900002": "Itu adalah waktu yang cukup bermanfaat. aku akan meminta bantuanmu lagi！",
         "900003": "Aku harap kamu menemukan laporan penelitian ini bermanfaat.",
@@ -3303,6 +3303,9 @@
         "140002": "Ah…",
         "140008": "Phew.",
         "140014": "Woah…!"
+    },
+    "1090": {
+        "70001": "Kamu begitu memahami segala yang sebenarnya paling kutakuti. Justru karena itulah, aku bisa melangkah tanpa merasa terbebani."
     },
     "1091": {
         "11": "Cygames",
