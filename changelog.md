@@ -3,7 +3,7 @@
 **🟢 New :**
 - Lirik Yukoma Thermae (onsen)
 - Impor nama skill dari global
-- Deskripsi skill dengan detail kondisi mengikuti UmaTL
+- Deskripsi skill dengan detail kondisi
 - Menu Bantuan
 **Aset Grafis :**
 - Animasi teks hasil karir, reroll spark, dan transfer request
