@@ -8,6 +8,7 @@
 **Aset Grafis :**
 - Animasi teks hasil karir, reroll spark, dan transfer request
 - Impor aset nama balapan dari global
+
 **🟠 Improved:**
 - Impor data dari global : nama skill, gelar, julukan
 - Edit config
@@ -46,6 +47,7 @@
 - STARTING FORCE
 - Girls Legend U
 - Soshite Minna No
+
 **🟠 Improved:**
 - Make Debut
 - O-Rorize
@@ -61,6 +63,7 @@
 - Curren Bouquetd'or (Episode 1-4)
 - Admire Groove (Episode 1-4)
 - Prolog skenario Dreams
+
 🟠 **Improved:**
 **Main Story**
 - Mejiro McQueen Arc (Fix with Cutscene)
@@ -84,6 +87,7 @@
 - Komik (50%)
 - Race G1
 - Menu Kustom/custom race
+
 🟠 **Improved:**
 -  Beranda
 - Menu Gacha
