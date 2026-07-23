@@ -410,7 +410,9 @@
         "410006": "Ara～...",
         "410007": "Ara～...",
         "410008": "Ara～...",
-        "920000": "I'll do my best～"
+        "920000": "I'll do my best～",
+        "20021": "Belakangan ini balapan terus berlanjut, tapi...\nApakah tidak apa-apa...? Tidak, hanya saja...\nKamu terlihat seperti sedang terburu-buru...",
+        "20022": "\"Berlebihan sama buruknya dengan kurang.\"\nSegala sesuatu ada batasnya. Untuk keputusan\nkeikutsertaan balapan kali ini, mohon dipertimbangkan baik-baik."
     },
     "1012": {
         "11": "Cygames",
@@ -487,7 +489,9 @@
         "11": "Cygames",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
-        "140009": "Fufu"
+        "140009": "Fufu",
+        "20021": "…Hmm~, balapan lagi ya.\nKayaknya udah agak capek deh~?",
+        "20022": "Kalau balapan mulu gitu,\nnggak bisa mikirin strategi apa-apa kan~?\n…Yaa, gitu deh, kata siapa gitu~."
     },
     "1021": {
         "11": "Cygames",
@@ -787,7 +791,9 @@
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140009": "chuckling",
-        "140011": "Whoa…!"
+        "140011": "Whoa…!",
+        "20021": "Saya masih bisa berlari, tapi kalau dipaksakan, sepertinya otot-otot saya akan terbebani…",
+        "20022": "Maaf, kalau saya ikut balapan lebih dari ini, sepertinya kondisi tubuh saya sudah pasti akan terpengaruh…"
     },
     "1028": {
         "11": "Cygames",
@@ -841,7 +847,9 @@
         "140015": "Hm , hmmm...",
         "140016": "Ayo Semangat!",
         "140017": "Uuhhhh -- XvX",
-        "140018": "Maaf-- TwT"
+        "140018": "Maaf-- TwT",
+        "20021": "Eh? Balapan lagi...?\nA-ah... g-gak papa kok...!\nRice masih bisa usaha...!",
+        "20022": "...G-gimana ya, kakiku...\nU-uh uh, masih... masih bisa usaha.\nBalapan juga pasti masih bisa..."
     },
     "1031": {
         "11": "Cygames",
@@ -1382,7 +1390,11 @@
         "1001": "Yay♪",
         "140001": "Yay♪",
         "140009": "Fufu",
-        "140015": "Ah...!"
+        "140015": "Ah...!",
+        "20122": "…Onee-chan, Curren memang\nkondisi fisik sama manajemen motivasinya udah sempurna kok.\nTapi~… keterlaluan! pes!",
+        "20121": "Eh~, balapan lagi?\nHuh, Onee-chan jahat deh.\n…Nanti minta hadiah ah~.",
+        "20021": "Eh~, balapan lagi?\nHuh, Onii-chan jahat deh.\n…Nanti minta hadiah ah~.",
+        "20022": "…Onii-chan, Curren memang\nkondisi fisik sama manajemen motivasinya udah sempurna kok.\nTapi~… keterlaluan! pes!"
     },
     "1039": {
         "11": "Cygames",
@@ -2399,8 +2411,8 @@
         "20009": "Am I not pulling your leg…? I'm just causing you trouble… smh.",
         "20010": "I'm sorry for all my screw-ups… I'm sorry I was born…",
         "20011": "Aaahhh… I'm still a no-good, goofy, irredeemable, u-ma-girl…",
-        "20021": "Huff… uh, are you going to the race? So, you are going to enter the race, right? A bad boy has to work hard…",
-        "20022": "I'm sorry, I'm sorry…! I have to run… I have to race… but I can't move…",
+        "20021": "Hafuu... um, aku ikut balapan kan?\n...I-iya dong. Anak yang payah harus\nberusaha lebih keras...",
+        "20022": "Maafin aku, maafin aku...!\nAku harus berlari... harus ikut balapan...\nTapi tubuhku... nggak mau bergerak...",
         "20023": "Condition is perfect…! A lot!",
         "20024": "Ha-ha-ha-ha!……… your spirit today is on par with that of Ms. Opera O!",
         "20025": "Now that I've prepared properly, I feel like I can exert more energy than usual.",
@@ -2657,8 +2669,8 @@
         "20009": "Huh… What? It's not unusual for me to sigh. It's just that I don't feel like doing it.",
         "20010": "Are there a lot of people touring, or is it just me? Oh… I can't concentrate like this…",
         "20011": "I know it's only in my head, but my legs can't keep up… I'm still myself afterall…",
-        "20021": "What, are you serious about racing again? There's no way I can win now…!?",
-        "20022": "Huh. What are you doing, racing back-to-back?",
+        "20021": "Eh, balapan lagi? Serius lo?\nSekarang lo pikir bisa ngalahin Aku... gitu!?",
+        "20022": "...Hah. Balapan terus-terusan,\nemangnya lo mau ngapain sih?",
         "20023": "I've adjusted well, haven't I? I'm sure I can win with this…! Watch me run.",
         "20024": "Maybe it's because I've prepared well, I'm not afraid of the stares of many people… I'm sure this will be fine!",
         "20025": "Soooo… yeah, perfect. All the preparation I've done for this day, I won't let it go to waste!",
@@ -2689,8 +2701,8 @@
         "20101": "Huh… I guess I'm tired. Can I take a little rest first? I'll be able to work hard again after I do that.",
         "20106": "Okay, I'm going to try again today. Can you tell me what your plans are?",
         "20109": "I'm sorry. I just sighed. I'm just so motivated…",
-        "20121": "What, another race? …I want to compete too, but I don't think I can win right now…",
-        "20122": "Yes… But all those races have made me tired…",
+        "20121": "Eh, balapan lagi?\n...Aku juga mau ikut, tapi...\nrasanya sekarang belum bisa menang…",
+        "20122": "…Gitu ya.\nTapi, balapan terus begini...\nkayaknya Aku udah capek juga deh…",
         "20133": "To be honest, I'm a little nervous, but I'll do what I can.",
         "23015": "Okay…!",
         "30000": "It should still be possible…!",
@@ -2907,7 +2919,9 @@
         "95006": "Kamu Bisa Meng-nyan-dalkanku !, Bui!",
         "140008": "Phew.",
         "400012": "Acara Sudah Beres ! ♪ A-Nyo Selesaik-yan! Ei , EI Mun!",
-        "400013": "Kerja bagus deng-nyan misi acaranya! Ayo berendam santai di bak my-andi nyan-anti... Dundadan! ♪"
+        "400013": "Kerja bagus deng-nyan misi acaranya! Ayo berendam santai di bak my-andi nyan-anti... Dundadan! ♪",
+        "20021": "Haauh, balapan lagi!?\nNuooo~! Bisa nggak ya, Machitan,\nbisa nggak yaaa~!? Uuu~m!",
+        "20022": "Na-, nantoooo!?\nBalapan lagi berturut-turut!?\nYo-yo-yo-yon… Keterlaluan sekali~!"
     },
     "1063": {
         "11": "Cygames",
@@ -3274,7 +3288,9 @@
         "2030": "Let's go.",
         "20039": "Let's begin.",
         "23015": "Let's begin.",
-        "140002": "Oh my…"
+        "140002": "Oh my…",
+        "20022": "Kamu tidak mencintai balapan, ya. Sungguh disayangkan… benar-benar.",
+        "20021": "…Jika kau bisa mengatakan dengan yakin, bahwa kau sudah punya gambaran ke depan dan perhitungan untuk menang."
     },
     "1087": {
         "11": "Cygames",
@@ -3302,7 +3318,9 @@
         "140001": "Whoa…!",
         "140002": "Ah…",
         "140008": "Phew.",
-        "140014": "Woah…!"
+        "140014": "Woah…!",
+        "20021": "Pengalaman balapan... harus banyak dikumpulkan,\nya kan. Istirahat... eh, t-\ntidak apa-apa...!",
+        "20022": "Kenapa ya... aku tidak mau\nmerasa tidak suka, tapi...\nPadahal aku mau menunjukkan hasil di balapan..."
     },
     "1090": {
         "70001": "Kamu begitu memahami segala yang sebenarnya paling kutakuti. Justru karena itulah, aku bisa melangkah tanpa merasa terbebani."
@@ -3326,7 +3344,9 @@
     },
     "1094": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Seenaknya aja lo nyusupin balapan terus.\nAda batasnya kali!",
+        "20022": "Mau lo disuruh balapan berapa kali lagi…\nMasih kurang juga？ Ha？\nJawab dong, 'Trainer'."
     },
     "1098": {
         "11": "Cygames",
@@ -3391,8 +3411,8 @@
         "20009": "I'm not feeling well… So here we go… work mode! Let's go～………",
         "20010": "I'm not feeling well… At times like this, I need to recharge my batteries with my own Tomakomai photo album …!",
         "20011": "It's time for Tomakomai to aim higher and work harder… I'm not good enough, am I…",
-        "20021": "I believe that even if you can cover up for a short period of time with your mental strength, the strain will linger on later. It was the same with my work.",
-        "20022": "…I don't think the results will come if we continue to go through with the show like a mad dash. …I think we should rethink our plan.",
+        "20021": "Meskipun sebentar bisa ditutupin sama semangat...\ntetap aja, memaksakan diri itu pasti ada efeknya nanti, lho!\n...Dulu waktu kerja juga sama kayak gitu.",
+        "20022": "Kalau terus-terusan terjun ke balapan dengan ngasal...\nhasilnya nggak bakal bagus, deh~!\n...Kayaknya kita perlu ngubah rencananya dulu!",
         "20023": "Thanks to all of you, we are able to greet today in the best possible condition. I will live up to everyone's expectations!",
         "20024": "In order to etch the name of Tomakomai in everyone's hearts, all we need is a brilliant victory. If it's me now… surely!",
         "20025": "As a locodol, a Tomakomai Tourism Ambassador, and a fighting Umamusume … I am now invincible!",
@@ -3517,7 +3537,9 @@
     },
     "1100": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Aduh, balapan lagi?\nRasanya agak buru-buru deh.",
+        "20022": "Belakangan ini terus-terusan balapan, ya?\nTentu saja, kalau sudah ikut\naku akan berusaha sepenuh hati... tapi ya..."
     },
     "1102": {
         "11": "Cygames",
@@ -3651,5 +3673,13 @@
         "700002": "Jangan lupa untuk menukarkan Koin Trial!",
         "910000": "Lawan yang kuat! Aku menantikan balapan yang penuh semangat!",
         "920000": "Gasskeun"
+    },
+    "1130": {
+        "20022": "…Dengerin nya, abdi teh teu hayang keliatan loyo terus ngemaluin diri sorangan kitu. Sakitu ge maneh ngarti lah?",
+        "20021": " …Serius maneh ngomongna? Ih, eta mah keterlaluan pisan… Melanggar aturan namanya eta teh."
+    },
+    "1097": {
+        "20021": "Sepertinya... aku sudah membiarkan dia mengamuk sedikit terlalu jauh... Kalau cara untuk mengendalikannya sudah hilang... aku tidak tahu... apa yang akan terjadi...",
+        "20022": "...Aku sudah tidak... mengerti lagi...\nMonster yang mengamuk liar, aku yang berusaha menahannya...\nYang asli... yang mana...?"
     }
 }

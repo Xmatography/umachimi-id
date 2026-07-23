@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "......Trainer.",
+            "choice_data_list": [
+                "Hm? Ada apa?"
+            ]
+        },
+        {
+            "text": "......Tidak. Hanya saja—......Trainer?",
+            "choice_data_list": [
+                "......E, iya?"
+            ]
+        },
+        {
+            "text": "......Hehe. Kalau kau... membalas panggilanku seperti ini... entah mengapa, aku merasa lega......"
+        },
+        {
+            "text": "............Tenagaku terasa hilang...... seperti sedang tenggelam... jauh ke dalam kesadaran yang paling dalam......"
+        },
+        {
+            "text": "......Jangan-jangan, ini karena kelelahan balapan yang menumpuk. Sepertinya jadwal keikutsertaanku perlu ditinjau ulang."
+        }
+    ]
+}
