@@ -1,0 +1,20 @@
+{
+    "text_block_list": [
+        {
+            "text": "Saat sedang latihan, Rice Shower\ntiba-tiba meringkuk kesakitan......",
+            "choice_data_list": [
+                "Kamu baik-baik aja?",
+                "Kamu baik-baik aja?"
+            ]
+        },
+        {
+            "text": "U-um... Rice gak papa kok......\njadi, buat balapan berikutnya,\nRice harus tetep usaha......"
+        },
+        {
+            "text": "Udah ikut banyak balapan......\nkarena Rice mau bikin semua orang seneng......"
+        },
+        {
+            "text": "Sepertinya aku sudah memaksanya terlalu keras.\nMungkin sebaiknya aku meninjau ulang\njadwal balapannya......"
+        }
+    ]
+}

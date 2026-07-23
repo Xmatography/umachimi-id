@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Pocke-san……!\nIni, kiriman dari semua orang!"
+        },
+        {
+            "text": "Kan baru aja abis balapan,\njadi udah disiapain yang bisa bikin capeknya ilang!"
+        },
+        {
+            "text": "Capek？ Hahah, lebay amat lo!\nTapi, makasih ya. Nanti gue minta makan-makannya."
+        },
+        {
+            "text": "…………Ha？\nAda yang nempel di muka gue?",
+            "choice_data_list": [
+                "Bukan, bukan gitu――"
+            ]
+        },
+        {
+            "text": "Kalau dipikir-pikir, gerakannya belakangan ini\nrasanya agak kurang greget.\nMungkin sudah saatnya mengevaluasi jadwalnya."
+        }
+    ]
+}
