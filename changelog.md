@@ -1,4 +1,22 @@
-# **Update 02-07-26**
+# **UPDATE 22-07-26**
+
+**🟢 New :**
+- Lirik Yukoma Thermae (onsen)
+- Impor nama skill dari global
+- Deskripsi skill dengan detail kondisi
+- Menu Bantuan
+**Aset Grafis :**
+- Animasi teks hasil karir, reroll spark, dan transfer request
+- Impor aset nama balapan dari global
+
+**🟠 Improved:**
+- Impor data dari global : nama skill, gelar, julukan
+- Edit config
+- Menu pengaturan
+- Koreksi
+- Perbaikan aset grafis lainnya
+
+# **UPDATE 15-07-26**
 
 ## Skenario
 **🟢 New :**
@@ -14,7 +32,7 @@
 - Impor data dari global : Nama skill, Gelar, Julukan
 
 
-# **Update 02-07-26**
+# **UPDATE 02-07-26**
 
 ## Lirik
 **🟢 New :**
@@ -29,6 +47,7 @@
 - STARTING FORCE
 - Girls Legend U
 - Soshite Minna No
+
 **🟠 Improved:**
 - Make Debut
 - O-Rorize
@@ -44,6 +63,7 @@
 - Curren Bouquetd'or (Episode 1-4)
 - Admire Groove (Episode 1-4)
 - Prolog skenario Dreams
+
 🟠 **Improved:**
 **Main Story**
 - Mejiro McQueen Arc (Fix with Cutscene)
@@ -67,6 +87,7 @@
 - Komik (50%)
 - Race G1
 - Menu Kustom/custom race
+
 🟠 **Improved:**
 -  Beranda
 - Menu Gacha
