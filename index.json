@@ -829,6 +829,71 @@
       "size": 689513
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_btn_serving00/tx_uTex_fl_singlemode_ramen_btn_serving00_0.diff.png",
+      "hash": "ea600dc852e44acc4efa514cc198e56745d996855dbe0129de55eb128a78a2d3",
+      "size": 104192
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_btn_trainingmenu00/tx_uTex_fl_singlemode_ramen_btn_trainingmenu00_0.diff.png",
+      "hash": "2242d893f62ae8a96f637e4962ebd2b12efdcd91c02ef125c26e2814439ec520",
+      "size": 11718
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_continuation00/tx_uTex_fl_singlemode_ramen_continuation00_0.diff.png",
+      "hash": "2ef1ca66c6d2a137b07a41dadce09469e843ed69ca0c15c1daff97bd883919f2",
+      "size": 51898
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_event_join00/tx_uTex_fl_singlemode_ramen_event_join00_0.diff.png",
+      "hash": "78b0aaf13decbc3c42c2b55d776f6ae2727e55b055a6a17c99c18e13eeb4fdea",
+      "size": 64980
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_exfeel_get00/tx_uTex_fl_singlemode_ramen_exfeel_get00_0.diff.png",
+      "hash": "e50903f324dfc4b454ed95df05f5dee54aca63713643eccb1f63451e2fa9eda4",
+      "size": 67644
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_feel_get00/tx_uTex_fl_singlemode_ramen_feel_get00_0.diff.png",
+      "hash": "22e831f57cb4f2e7266a8b082c0070815a855caa9731adb8b952ec425fd7e4e7",
+      "size": 83553
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_map_label00/tx_uTex_fl_singlemode_ramen_map_label00_0.diff.png",
+      "hash": "c5f190dc4a2df324f6790e4b8d165e7c7515513cb21ba215d982e4f32151b4bf",
+      "size": 125215
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_map_transition00/tx_uTex_fl_singlemode_ramen_map_transition00_0.diff.png",
+      "hash": "2f2f271df691bc61b8e5a0744cb15ae01e6525ca85dc5d78d902b2f0485af49f",
+      "size": 791440
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_regionpower_up00/tx_uTex_fl_singlemode_ramen_regionpower_up00_0.diff.png",
+      "hash": "aa63f914a3674f15edab0fffc5e7dc3f185202ebc6adf21aab73e71b7470629f",
+      "size": 90086
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_serving_start00/tx_uTex_fl_singlemode_ramen_serving_start00_0.diff.png",
+      "hash": "828245092827e7755a6075f7fc698e09fd3574f6f7a9c7da60d23d80c34ba398",
+      "size": 70956
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_start_continuation00/tx_uTex_fl_singlemode_ramen_start_continuation00_0.diff.png",
+      "hash": "33a2bf50132e4f9e1a38d2b52224bec5854acecde7ed60eb766499e3714a8d2e",
+      "size": 70918
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_btn00/tx_uTex_fl_singlemode_ramen_tasting_btn00_0.diff.png",
+      "hash": "6e9d2c0ad83a753d858aaf14dc91387c69110c7bfc5b33a8495b05072e893c72",
+      "size": 4650
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_rank_text00/tx_uTex_fl_singlemode_ramen_tasting_rank_text00_0.diff.png",
+      "hash": "afe8a43fd0f4d996f76c6aced50405e9ec57e9688dbed9cc6bf8a8f9c0f0558f",
+      "size": 92505
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_regetfactor00/tx_uTex_fl_singlemode_regetfactor00_0.diff.png",
       "hash": "89479364893a48419f0e88023ad426eaa38d1ed1a3bbcceb02c31b50b52abb7d",
       "size": 106632
@@ -997,6 +1062,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_transfer_txt_negotiation00/tx_uTex_fl_transfer_txt_negotiation00_0.diff.png",
       "hash": "acfa53655ac386efe9749b025659a64d12b87ec64533d2bc4037196c071accc9",
       "size": 89266
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshparam_fl_singlemode_ramen_tasting_icon_label00/tx_uTex_fl_singlemode_ramen_tasting_icon_label00_0.diff.png",
+      "hash": "346acb738deb8699bfeb1b5a03fdf830c783672e35bffd1cf968814eb24a55e1",
+      "size": 6895
     },
     {
       "path": "assets/atlas/campaign/campaign.diff.png",
@@ -1267,6 +1337,16 @@
       "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.json",
       "hash": "65c813a5f0dc5bf0ededc19a3231e1182483da09c03aa976475c0dd652c02933",
       "size": 76
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.diff.png",
+      "hash": "f5f0cc3496b583865d5228782cb803a91a6ea5c7c13de9cbadd3707a57cfacfb",
+      "size": 369238
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.json",
+      "hash": "c5ef3f51b40d18a132a4bba023b7a79e61588f1724c9195d12e583d1c52f6a49",
+      "size": 84
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
@@ -18387,6 +18467,71 @@
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_tagtrainingresult00.json",
       "hash": "0e3d936bece34168c7b0b01b0d7161e83c36c7700b1ab5f811df90b3763cf122",
       "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_btn_serving00.json",
+      "hash": "5b516a686403aa9dd587749132a5e7205b92cbf597ad7796cd10ecf581b65a71",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_btn_trainingmenu00.json",
+      "hash": "e9646d1dc85351d849d0da3efe72f07f8e0e88bbb66d8df8c3c26966b2b259c5",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_continuation00.json",
+      "hash": "5fa4c1c04b779f385f1d31135b6175f516a643f9120760a9026481a255594173",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_event_join00.json",
+      "hash": "4f9029ffec6b4bcc873bf9908cc8ac9349e07a43e675853103e7092bdfb34495",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_exfeel_get00.json",
+      "hash": "e07fc47ff765bf60061a445a852666d63dada1b045e0722f912423be5fb6728a",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_feel_get00.json",
+      "hash": "db175f914dd2ab0a6cd3710985cad8fd2fdb59a4960efd3ebc1a95f661508b96",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_map_label00.json",
+      "hash": "18c50de1bf1804816ae29ee0be5e0b6e018e434d6e93a76c745c591595135903",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_map_transition00.json",
+      "hash": "623ae38dea4db5d188a0c30c7d2926d8cf9c73b08bfbc66835722c01a741fa7b",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_regionpower_up00.json",
+      "hash": "85f5d8cd0d4eb787f4776e34ed1656e03ea92edb7da34b2ff72c4aa76a5d74c6",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_serving_start00.json",
+      "hash": "6c0e16d8400958ab3ee1d7bbb81e1b41ff63a608b23f7742c4893387b1b7cd1e",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_start_continuation00.json",
+      "hash": "a8731f9027f4ad68cd7f12d7a95ac5a5fba0e029bf99c0d0e9f10bd3da958c54",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_btn00.json",
+      "hash": "34c05f1e6976b51d0e57f9d39020cf9bc7eb1ef0032829715f89efe21e0c52e8",
+      "size": 84
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_rank_text00.json",
+      "hash": "6e8669de87729d010b7f84157582dc9a8617de849ea69073d824539e39988344",
+      "size": 84
     },
     {
       "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_btn_trainingmenu00.json",
