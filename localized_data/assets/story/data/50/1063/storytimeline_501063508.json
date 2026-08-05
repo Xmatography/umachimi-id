@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Saat rapat, aku memperhatikan ada wadah bening yang diletakkan di samping Ikuno Dictus.",
+            "choice_data_list": [
+                "Itu... apa?"
+            ]
+        },
+        {
+            "text": "Oh, ini rendaman lemon dalam madu. Cukup berguna untuk membantu memulihkan kelelahan, jadi saya siapkan. ...Bagaimana kalau Trainer juga mencoba?"
+        },
+        {
+            "text": "Hmm... mm... Enak, ya. Rasa asam manisnya meresap perlahan...",
+            "choice_data_list": [
+                "Iya, terasa sampai dalam..."
+            ]
+        },
+        {
+            "text": "Fufu, Anda langsung menghabiskannya sekaligus, ya. ...Semoga ini bisa mengobati kelelahan setelah balapan, maupun kelelahan Trainer juga."
+        },
+        {
+            "text": "...Sepertinya kelelahan dari balapan masih tersisa lebih dari yang kukira. Mungkin sudah saatnya meninjau ulang jadwal."
+        }
+    ]
+}

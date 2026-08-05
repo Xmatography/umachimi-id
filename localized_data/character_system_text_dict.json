@@ -321,7 +321,9 @@
     },
     "1010": {
         "11": "Cygames",
-        "12": "Umamusume, Pretty Derby!"
+        "12": "Umamusume, Pretty Derby!",
+        "20021": "Balapan lagi... nggak ada kan?",
+        "20022": "Balapan terus udah cukup deh…。\nKasih istirahat doooong…。"
     },
     "1011": {
         "12": "Umamusume Pretty Derby♪",
@@ -2931,7 +2933,9 @@
         "140002": "Oh…",
         "140003": "Splendid work!",
         "140006": "Splendid work!",
-        "140008": "Phew."
+        "140008": "Phew.",
+        "20021": "Balapan lagi, ya... Jika memang itu kehendak Anda, harap sampaikan alasannya dengan jelas kepada saya.",
+        "20022": "Bertanding lagi, ya... Baik, saya mengerti. Jika Anda benar-benar melihat peluang kemenangan yang pasti... maka saya akan memenuhi harapan itu, meski harus menguras seluruh diri saya."
     },
     "1064": {
         "11": "Cygames",
