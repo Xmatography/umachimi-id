@@ -291,7 +291,9 @@
         "90021": "Happy Valentine's Day",
         "140012": "Okay…!",
         "410002": "good",
-        "410003": "good"
+        "410003": "good",
+        "20021": "Balapan lagi kali ini... baiklah.\nKalau memang harus berlari,\naku akan berlari sekuat tenaga.",
+        "20022": "Kalau terus begini, aku tidak bisa berlari dengan baik…\nAku ingin menahan diri dari balapan dulu."
     },
     "1007": {
         "11": "Cygames",
@@ -437,7 +439,9 @@
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
         "20046": "Let's go!",
-        "140008": "Ehehee～"
+        "140008": "Ehehee～",
+        "20021": "Kali ini juga mau ikut balapan, ja? El sedikit khawatir bisa terbang dengan baik... t-tapi tidak, kalau memang mau balapan, El pasti menang!",
+        "20022": "Balapan lagi? El rasa kondor pun sesekali butuh mengistirahatkan sayapnya..."
     },
     "1015": {
         "11": "Cygames",
@@ -3209,7 +3213,9 @@
         "140007": "I did it!",
         "410001": "We did it!",
         "410002": "good",
-        "410003": "good"
+        "410003": "good",
+        "20021": "Dalam aliran Kongō Yaegaki, ada pula latihan seribu pertarungan tangan kosong. Bila kuingat hal itu, tak sepatutnya aku lunglai karena hal sepele ini… Hmph!",
+        "20022": "Derita dan kesengsaraan, padamkan segala rasa dalam batin…! Kesulitan setingkat ini, tak mungkin tak bisa kulalui…!"
     },
     "1073": {
         "20021": " Balapan ya, aku akan beru— Ukhk...! ...ugh, aku akan berusaha menjaga kondisi...!",
@@ -3270,7 +3276,9 @@
     "1083": {
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
-        "20042": "Kuh…"
+        "20042": "Kuh…",
+        "20021": "Balapan terus berlanjut.\nRisikonya pun―― sebaiknya dipikirkan.",
+        "20022": "Keluar sekarang―― bukan pilihan yang wise.\nDemi misi pun―― aku ingin menahan diri."
     },
     "1084": {
         "11": "Cygames",

@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Suatu hari, Symboli Kris S sedang mengisi cairan tubuhnya……",
+            "choice_data_list": [
+                "Hari ini bukan air biasa?"
+            ]
+        },
+        {
+            "text": "Iya. Hari ini――\naku ingin minum sesuatu yang…… manis."
+        },
+        {
+            "text": "Biasanya…… aku tidak terlalu menyukainya.\nBut, sekarang―― tubuhku, menginginkannya."
+        },
+        {
+            "text": "……Masih belum cukup.\nLebih―― aku butuh gula……"
+        },
+        {
+            "text": "……Pernah kudengar bahwa keinginan akan gula adalah tanda kelelahan.\nSepertinya aku perlu meninjau ulang jadwal balapanku ke depan."
+        }
+    ]
+}
