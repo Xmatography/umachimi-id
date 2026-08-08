@@ -1,6 +1,6 @@
 {
     "title": "Gak Mungkin, Gak Mau !",
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Fusaichi Pandora",
@@ -8,7 +8,7 @@
         },
         {
             "name": "Daring Heart",
-            "text": "……Ara. What happened? \nKe mana perginya si tukang tidur yang biasanya itu ya?"
+            "text": "……Ya ampun. Ada apa ini. \nKe mana perginya si tukang tidur yang biasanya itu ya?"
         },
         {
             "name": "Fusaichi Pandora",
@@ -16,7 +16,7 @@
         },
         {
             "name": "Daring Heart",
-            "text": "No way! Padahal belum lama ini kamu masih \n『Oka Sho ku parah banget～! Tolong semangatin dong～!』 \nbahkan sampai minta dipeluk meski sedang mandi."
+            "text": "Gak mau ! Padahal belum lama ini kamu masih 『Oka Sho ku parah banget～! Tolong semangatin dong～!』 bahkan sampai minta dipeluk meski sedang mandi."
         },
         {
             "name": "Daring Heart",
@@ -28,23 +28,23 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Benar ! Perjalananku benar-benar dimulai dari sini ! \nPokoknya, mulai sekarang aku bakal melaju menuju \nmasa depan yang berkilau!)"
+            "text": "<i>(Benar ! Perjalananku benar-benar dimulai dari sini ! Pokoknya, mulai sekarang aku bakal melaju menuju masa depan yang berkilau!)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Sejauh ini… yaa, sempat ada beberapa hal yang terjadi sih, tapi——)"
+            "text": "<i>(Sejauh ini… yaa, sempat ada beberapa hal yang terjadi sih, tapi——)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Nggak, nggak, tapi! Awalnya sih semuanya berjalan lancar tau? \nKan aku jenius ! Sejak datang kesini, semuanya \nberjalan dengan lancar!)"
+            "text": "<i>(Nggak, nggak, tapi! Awalnya sih semuanya berjalan lancar tau? \nKan aku jenius ! Sejak datang kesini, semuanya berjalan dengan lancar!)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Balapan seleksi aja aku dengan mudah \nfinis di posisi pertama lho? \nTerus seseorang datang untuk merekrutku, kan?)"
+            "text": "<i>(Balapan seleksi aja aku dengan mudah finis di posisi pertama lho? Terus seseorang datang untuk merekrutku, kan?)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Apalagi senior-seniornya juga hebat semua, \nBenar-benar tim yang keren deh——)"
+            "text": "<i>(Apalagi senior-seniornya juga hebat semua, Benar-benar tim yang keren deh——)"
         },
         {
             "name": "Hishi Akebono",
@@ -52,7 +52,7 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Eehehe～, Makasih, Bono-senpai～☆ \nMira-ko senpai juga datang buat nyemangatin aku, kan ? \nMakasih banyak～♡"
+            "text": "Eehehe～, Makasih, Bono-senpai～☆ \nMira-ko senpai juga datang buat nyemangatin aku, kan ? Makasih banyak～♡"
         },
         {
             "name": "Hishi Miracle",
@@ -60,23 +60,23 @@
         },
         {
             "name": "Hishi Miracle",
-            "text": "Maksudku, di balapan debut aja kamu menang dengan selisih 6 jarak dari juara kedua. Habis itu langsung maju ke Hanshin J. F., \nbalapan penentu juara kelas Junior, dan bahkan finis di posisi ketiga !"
+            "text": "Maksudku, di balapan debut aja kamu menang dengan selisih 6 jarak dari juara kedua. Habis itu langsung maju ke Hanshin J. F., balapan penentu juara kelas Junior, dan bahkan finis di posisi ketiga !"
         },
         {
             "name": "Hishi Miracle",
-            "text": "Aduh, kalau dibanding aku yang baru bisa menang setelah \n10 balapan, Rekormu benar-benar bikin silau, deh～."
+            "text": "Aduh, kalau dibanding aku yang baru bisa menang setelah \n10 balapan, rekormu benar-benar bikin silau, deh～."
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Eehehe～ Ya begitulah ! Emang sesuai dugaan, \naku kan hebat～!?"
+            "text": "Eehehe～ Ya begitulah ! Emang sesuai dugaan, aku kan hebat～!?"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Sejauh ini, dari 6 balapan aku sudah menang 2 kali, \ndan cuma sekali finis di luar papan peringkat! \nEh, keren banget! Gokil! Aku memang jenius～♡"
+            "text": "Sejauh ini, dari 6 balapan aku sudah menang 2 kali, dan cuma sekali finis di luar papan peringkat! Eh, keren banget! Gokil! Aku memang jenius～♡"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Tapi, mulai sekarang aku masih bakal bikin banyak kejutan, kok! Soalnya aku bakal jadi legenda ! \nJadi, tunggu dan lihat saja sendiri ya～☆"
+            "text": "Tapi, mulai sekarang aku masih bakal bikin banyak kejutan, kok! Soalnya aku bakal jadi legenda ! Jadi, tunggu dan lihat saja sendiri ya～☆"
         },
         {
             "name": "Hishi Akebono",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Siaap～♡ ……Oh iya, ngomong-ngomong, Senpai, \nhari ini udah mampir ke toko sekolah ? \nSoalnya ada produk baru yang super, super lucu banget——"
+            "text": "Siaap～♡ ……Oh iya, ngomong-ngomong, Senpai, hari ini udah mampir ke toko sekolah ? Soalnya ada produk baru yang super, super lucu banget——"
         },
         {
             "name": "Pelatih Tim",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Tunggu dulu dong Pelatih～! \nSebelum balapan sepenting itu, pasti ada hal lain \nyang harus dilakuin kan ?"
+            "text": "Tunggu dulu dong Trainer～! Sebelum balapan sepenting itu, pasti ada hal lain yang harus dilakuin kan ?"
         },
         {
             "name": "Fusaichi Pandora",
@@ -124,7 +124,7 @@
         },
         {
             "name": "Hishi Miracle",
-            "text": "Haha……ya, kalo memang itu bisa naikin semangat…… \nmungkin nggak apa-apa ? \nIya～! Aku ke sana sekarang～."
+            "text": "Haha……ya, kalo memang itu bisa naikin semangat…… \nmungkin nggak apa-apa ? Iya～! Aku ke sana sekarang～."
         },
         {
             "name": "Jungle Pocket",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahahaha! Dia memang pony-chan yang bandel ya? \nPadahal Pelatih sudah melarangnya berkali-kali, \ntapi dia tetap ngotot pergi main."
+            "text": "Ahahaha! Dia memang pony-chan yang bandel ya? Padahal Trainer sudah melarangnya berkali-kali, tapi dia tetap ngotot pergi main."
         },
         {
             "name": "Fuji Kiseki",
@@ -147,12 +147,12 @@
             "text": "Iya, benar! Waktu pengukuran internal tim kemarin aja, catatan waktunya sudah luar biasa bagus. Kalau dibandingkan dengan rata-rata catatan waktu kelas Classic di musim semi, dia jelas unggul satu tingkat."
         },
         {
-            "name": "Pelatih Tim",
-            "text": "……Justru karena itu, dia gaboleh terus kaya gini. \nApalagi kalau dia ingin bersaing di balapan Classic \ndan menjadi juara."
+            "name": "Trainer Tim",
+            "text": "……Justru karena itu, dia gaboleh terus kaya gini. Apalagi kalau dia ingin bersaing di balapan Classic dan menjadi juara."
         },
         {
-            "name": "Pelatih Tim",
-            "text": "Kalau dia terus seperti sekarang…… \ntidak pernah bersungguh-sungguh ataupun berjuang, \ndan hanya mengandalkan bakatnya, besar kemungkinan——"
+            "name": "Trainer Tim",
+            "text": "Kalau dia terus seperti sekarang…… tidak pernah bersungguh-sungguh ataupun berjuang, dan hanya mengandalkan bakatnya, besar kemungkinan——"
         },
         {
             "name": "Host",
@@ -160,7 +160,7 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Siap ♡ Tekadku, ya ? \nKalau itu sih, jelas dong——"
+            "text": "Siapー♡ Tekadku, ya ? Kalau itu sih, jelas dong——"
         },
         {
             "name": "Fusaichi Pandora",
@@ -179,8 +179,8 @@
             "text": "……Kenapa?"
         },
         {
-            "name": "Commentator",
-            "text": "——Di 『Oka Sho』, favorit nomor 2, Fusaichi Pandora, \nsecara mengejutkan hanya finis di posisi ke-14 ! \nHasil yang benar-benar merupakan kekalahan telak……!"
+            "name": "Komentator",
+            "text": "——Di 『Oka Sho』, favorit nomor 2, Fusaichi Pandora, secara mengejutkan hanya finis di posisi ke-14 ! Hasil yang benar-benar merupakan kekalahan telak……!"
         },
         {
             "name": "Fusaichi Pandora",
@@ -192,19 +192,19 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Aduh… nggak mau! Nggak mau, nggak mau, nggak mauuu! \nParah banget… Kok bisa jadi begini sih…!?)"
+            "text": "<i>(Aduh… nggak mau! Nggak mau, nggak mau, nggak mauuu! \nParah banget… Kok bisa jadi begini sih…!?)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Serius deh, masa iya aku bisa kalah separah ini di 『Oka Sho』!? \nAku kan jenius! Harusnya semua gelar Triple Tiara itu jadi milikku…!)"
+            "text": "<i>(Serius deh, masa iya aku bisa kalah separah ini di 『Oka Sho』!? \nAku kan jenius! Harusnya semua gelar Triple Tiara itu jadi milikku…!)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Terus lagi… aku udah terlanjur ngomong, kan !? \nKe senior-senior di tim, teman-teman sekelas, orang tuaku… \nbahkan di konferensi pers ! Ke semua orang !)"
+            "text": "<i>(Terus lagi… aku udah terlanjur ngomong, kan !? Ke senior-senior di tim, teman-teman sekelas, orang tuaku… bahkan di konferensi pers ! Ke semua orang !)"
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "(Katanya aku bakal meraih Triple Tiara…… \nAaaahh……malu banget～～～～!!)"
+            "text": "<i>(Katanya aku bakal meraih Triple Tiara…… \nAaaahh……malu banget～～～～!!)"
         },
         {
             "name": "Fusaichi Pandora",
@@ -224,7 +224,7 @@
         },
         {
             "name": "Fusaichi Pandora",
-            "text": "Pergi ? W-Wah, eh ! A-Ada apa sih ini～!?"
+            "text": "Pergi ? W-wah, eh ! A-Ada apa sih ini～!?"
         },
         {
             "name": "Fusaichi Pandora",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Jungle Pocket",
-            "text": "……Hah!? Apa coba\". Udah jelas bakal kita bahas."
+            "text": "……Hah!? Apa coba. Udah jelas bakal kita bahas."
         },
         {
             "name": "Hishi Akebono",
@@ -247,11 +247,11 @@
             "text": "Nggak mau, nggak mau ! Aku nggak mau lihat itu lagi !!"
         },
         {
-            "name": "Pelatih Tim",
+            "name": "Trainer Tim",
             "text": "Pandora!! …Dengarkan baik-baik."
         },
         {
-            "name": "Pelatih Tim",
+            "name": "Trainer Tim",
             "text": "Aku sendiri juga menyesal, dan merasa bersalah karena tidak \nberhasil melatihmu dengan baik… Tapi sejujurnya, hasil kali ini memang bisa dibilang [Sudah Terduga] akan terjadi."
         },
         {
@@ -259,15 +259,15 @@
             "text": "…………Hah?"
         },
         {
-            "name": "Pelatih Tim",
-            "text": "Bahkan selama latihan untuk menghadapi Oka Sho… \nKamu sama sekali tidak mengerahkan seluruh kemampuanmu. \nKamu tidak pernah benar-benar serius, kan ?"
+            "name": "Trainer Tim",
+            "text": "Bahkan selama latihan untuk menghadapi Oka Sho… Kamu sama sekali tidak mengerahkan seluruh kemampuanmu. Kamu tidak pernah benar-benar serius, \nkan ?"
         },
         {
-            "name": "Pelatih Tim",
+            "name": "Trainer Tim",
             "text": "Kalau cuma seperti itu, kamu tidak akan bisa menang di balapan \nTriple Tiara. Justru karena itulah, mulai sekarang kita akan sama-sama menghadapi penyesalan ini, lalu memperbaikinya."
         },
         {
-            "name": "Pelatih Tim",
+            "name": "Trainer Tim",
             "text": "Menghadapi kekalahanmu di Oka Sho dan meninjau kembali \ncaramu berlari… Itulah langkah pertama yang paling penting. \n…Sudah, duduk dulu, Pandora."
         },
         {
@@ -279,7 +279,7 @@
             "text": "…………Nggak mau. Aku nggak mau liat."
         },
         {
-            "name": "Pelatih Tim",
+            "name": "Trainer Tim",
             "text": "Eh……hei, Pandora! Kalau terus bersikap seperti itu—"
         },
         {
@@ -296,15 +296,15 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Nggak… tunggu dulu. Kalau kita menyusulnya sekarang, yang ada dia malah bakal kabur dari kita …Menurut Pelatih gimana ?"
+            "text": "Nggak… tunggu dulu. Kalau kita menyusulnya sekarang, yang ada dia malah bakal kabur dari kita …Menurut Trainer gimana ?"
+        },
+        {
+            "name": "Trainer Tim",
+            "text": "…Ya. Sepertinya… kata-kataku memang tidak berhasil menjangkaunya."
         },
         {
             "name": "Pelatih Tim",
-            "text": "…Ya. \nSepertinya… kata-kataku memang tidak berhasil menjangkaunya."
-        },
-        {
-            "name": "Pelatih Tim",
-            "text": "—Aku perlu berpikir sejenak. \nApa yang sebaiknya kulakukan… agar itu benar-benar \nmenjadi yang terbaik untukmu, Pandora—"
+            "text": "—Aku perlu berpikir sejenak. \nApa yang sebaiknya kulakukan… agar itu benar-benar menjadi yang terbaik untukmu, Pandora—"
         },
         {
             "name": "Fusaichi Pandora",
