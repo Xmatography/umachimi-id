@@ -1,0 +1,392 @@
+{
+    "text_block_list": [
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Yah, intinya gitu deh～\nAku resmi ngajuin permohonan pindah ke Tim <Ascella> nih !",
+            "choice_data_list": [
+                "O-oh, begitu....."
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Loh, loh, loh, kok reaksi kalian begitu sih～!\nBukan gitu maksudnya, aku juga udah mikirin ini baik-baik tau !?"
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Yang bener...?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Beneran kaliii～～!? Aku beneran ! Aku udah nonton balapannya terus juga ngobrol langsung. Makanya aku jadi pengen lari bareng Kuu-chan-senpai !"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Iya, kan, Senpai～♡ Lagian, Senpai juga sampai ngasih aku tiara buatan tangan, kan～♡"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Pandora-san...―eh, bentar, bentar !\nKenapa jadi 'Senpai' ? Kita kan seumuran ya ?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hmm ? Yaa... ya udahlah ! Nggak masalah juga, kan♡ ?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Emang boleh begitu, ya !?"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Wah, ini jadi di luar dugaan, ya.",
+            "choice_data_list": [
+                "Hmm... hei, Pandora.",
+                "Hmm... hei, Pandora."
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh ! Ah, iya. Kenapa ?"
+        },
+        {
+            "name": "<username>",
+            "text": "Pindah tim itu suatu keputusan penting yang bisa mempengaruhi masa depan seorang Umamusume. Jadi, aku mau pastiin sekali lagi.",
+            "choice_data_list": [
+                "Kamu siap berjuang di Tim <Ascella> ?",
+                "Kamu siap berjuang di Tim <Ascella> ?"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Pindah tim itu suatu keputusan penting yang bisa mempengaruhi masa depan seorang Umamusume. Jadi, aku mau pastiin sekali lagi."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku akan berusaha !! Aku yakin, nggak akan apa-apa. Pasti !\nMakanya... tolong izinkan aku bergabung dengan Tim <Ascella> !"
+        },
+        {
+            "name": "<username>",
+            "text": "...Baik. Aku mengerti perasaanmu.\nKalau begitu―",
+            "choice_data_list": [
+                "Mohon kerja samanya, Pandora",
+                "Mohon kerja samanya, Pandora"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "...Baik. Aku mengerti perasaanmu.\nKalau begitu―",
+            "choice_data_list": [
+                "Mohon kerja samanya mulai sekarang, Pandora",
+                "Mohon kerja samanya mulai sekarang, Pandora"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "…… !! Horeeee～～～☆\nYeay, yeay, yeaaaaaaay～♡"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Kalau gitu, mulai sekarang mohon kerja samanya ya～☆\nTrainer !"
+        },
+        {
+            "name": "Monolog",
+            "text": "Dan begitulah, meski diwarnai sedikit kekacauan, Fusaichi Pandora pun akhirnya bergabung sebagai anggota baru Tim <Ascella>."
+        },
+        {
+            "name": "Monolog",
+            "text": "Latihan bersama Fusaichi Pandora pun telah dimulai, \ntanpa terasa beberapa hari sudah berlalu―"
+        },
+        {
+            "name": "<username>",
+            "text": "Hmmm....."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Sudah kuduga, dia masih disini."
+        },
+        {
+            "name": "King Halo",
+            "text": "Minimal nyalain lampunya dong. Ya ampun."
+        },
+        {
+            "name": "<username>",
+            "text": "King...—wah, ternyata udah gelap aja !\nA-aku gak sadar..."
+        },
+        {
+            "name": "<username>",
+            "text": "King...—wah, ternyata udah gelap aja !\nA-aku gak sadar…"
+        },
+        {
+            "name": "King Halo",
+            "text": "Iya, iya. Sudah kuduga bakal gitu.\n...Kayanya, kamu lagi mikirin soal Pandora-san ya ?",
+            "choice_data_list": [
+                "Ya... begitulah"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ya...\n....Aku juga memperhatikannya beberapa hari terakhir ini, tapi―"
+        },
+        {
+            "name": "King Halo",
+            "text": "Jujur aja, anak itu bener-bener susah ditangani !",
+            "choice_data_list": [
+                "(Nah, itu dia masalahnya....!!)",
+                "(Nah, itu dia masalahnya....!!)"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "(Aku sudah mendengarnya dari Trainer sebelumnya, tapi bakatnya itu benar-benar luar biasa. Sampai anggota tim pun sudah membicarakannya.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Aku sudah mendengarnya dari Trainer sebelumnya, tapi bakatnya itu benar-benar luar biasa. Sampai anggota tim pun sudah membicarakannya.)"
+        },
+        {
+            "name": "<username>",
+            "text": "(Bukannya dia malas atau tidak bersemangat. Justru sebaliknya....\ndia selalu berpikiran positif, atau mungkin lebih tepatnya, selalu tampak menikmati semuanya.)",
+            "choice_data_list": [
+                "(Hanya saja...)"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Huff, huff, huff...!!!\nAyoooooo !!!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Woah !?"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Buset... cepet banget !!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Finis～♡ Gimana, gimana ? Gimana catatan waktuku ?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wah～... target waktunya tercapai dengan sempurna.\nPadahal targetnya cukup tinggi. Keren banget..."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Pandora hebat banget...! Aku udah coba selama 3 hari, tapi targetnya masih belum kucapai. Sementara kamu langsung tercapai cuma dalam sehari...!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Serius ? Serius nih ? Berarti, aku emang jenius ya !?\nBener kan～～～?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ehehe～ kalau gitu, karena targetnya udah tercapai, aku pamit dulu ya ～!\nMakasih atas kerja samanya～♪"
+        },
+        {
+            "name": "King Halo",
+            "text": "Yah, kurasa dia memang berusaha... dengan caranya sendiri.\n....Hanya saja, menurutku dia belum benar-benar serius."
+        },
+        {
+            "name": "King Halo",
+            "text": "Selama tantangannya belum terlalu berat, dia bisa mengatasinya hanya dengan bakatnya... Makanya dia ga pernah merasa perlu untuk serius atau berjuang mati-matian."
+        },
+        {
+            "name": "King Halo",
+            "text": "Tapi, dunia balapan tidak semudah itu.\n―Bukankah hasil Pandora di Oka Sho juga berakhir buruk ?"
+        },
+        {
+            "name": "<username>",
+            "text": "Iya. Makanya di Oaks nanti, aku ingin dia membalas kegagalannya.\n....Aku juga ingin dia bisa meraih mimpinya."
+        },
+        {
+            "name": "<username>",
+            "text": "Iya. Makanya di Oaks nanti, aku ingin dia membalas kegagalannya.\n....Aku juga ingin dia bisa meraih mimpinya."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ya... kalau begitu, pikirkan baik-baik sampai ketemu jawabannya.\nSeperti biasanya.",
+            "choice_data_list": [
+                "Tentu !",
+                "Tentu !"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "...Kiiing-saaaan...!"
+        },
+        {
+            "name": "<username>",
+            "text": "Hmm ? ....Kamu denger sesuatu nggak ?\nKayak ada suara orang.... terus ada suara langkah kaki..."
+        },
+        {
+            "name": "<username>",
+            "text": "Hmm ? ....Kamu denger sesuatu nggak ?\nKayak ada suara orang.... terus ada suara langkah kaki..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Suara ini... jangan-jangan―"
+        },
+        {
+            "name": "???",
+            "text": "King-san !"
+        },
+        {
+            "name": "King Halo",
+            "text": "Waaahー!?!?"
+        },
+        {},
+        {
+            "name": "???",
+            "text": "Mohon maaf sebesar-besarnyaaa!!"
+        },
+        {
+            "name": "???",
+            "text": "Pintu, tembok sama semua yang kuterbangin itu.... pasti bakal kuberesin !\nAku janji bakal segera balikin semuanya seperti semula...!",
+            "choice_data_list": [
+                "N-nggak, ngga usah dipikirin... hahaha",
+                "N-nggak, ngga usah dipikirin... hahaha"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ya ampun... kamu memang nggak bisa ngukur tenaga ya....\nAda apa sampai datang tiba-tiba selarut ini, Kawakami Princess-san"
+        },
+        {
+            "name": "King Halo",
+            "text": "Lagian.... aku baru sadar kalo kamu penuh lumpur begitu.\n....Jangan-jangan, kamu latihan sampai selarut ini ?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Kyaa !! M-maaf, aku datang dengan penampilan sekotor ini !!\nTapi, aku harus segera melapor kepada King-san !"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Sejak pertama kali melihat Anda...\nAnda memancarkan kemuliaan dan keteguhan yang melampaui siapapun―\nbenar-benar layak disebut kelas satu,"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Kepada King-san yang begitu kukagumi... yang telah menegakkan tiang impian dalam diriku― impian yang tak akan pernah goyah... Aku benar-benar ingin segera menyampaikan kabar ini kepada Anda..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "King-san ! Saya memang tidak tampil di Oka Sho, tapi...\nSaya akhirnya bisa ikut berlomba di Oaks !"
+        },
+        {
+            "name": "<username>",
+            "text": "(!... Jadi Kawakami Princess juga akan tampil di Oaks, balapan berikutnya Pandora...!)"
+        },
+        {
+            "name": "<username>",
+            "text": "(!... Jadi Kawakami Princess juga akan tampil di Oaks, balapan berikutnya Pandora...!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "King-san. Sejak debut sampai sekarang, saya belum pernah sekalipun kalah.\n―Semua itu karena saya terus berjuang dengan kekaguman saya kepada Anda di dalam hati !"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Saya tidak akan sekadar meniru.\nKarena menjadi diri sendiri adalah prinsip seorang putri !"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Karena itu, saya memilih tim yang berbeda, menempuh jalan yang berbeda !\nNamun, saya akan selalu membawa keluhuran dan keteguhan yang Anda ajarkan dalam hati saya―"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Saya akan menjadi putri yang paling hebatttttt～!"
+        },
+        {
+            "name": "King Halo",
+            "text": "....Begitu."
+        },
+        {
+            "name": "King Halo",
+            "text": "Bagus. Teruslah berlari seperti itu.\nTempuhlah jalanmu sendiri, dengan kakimu sendiri."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Datangnya heboh kayak badai, eh tau-tau udah pergi lagi.\nYa ampun, sebenernya dia dateng buat apa sih ?"
+        },
+        {
+            "name": "<username>",
+            "text": "Haha, aku jadi sedikit kaget. ...Tapi emang ya...\n'Kekaguman' ternyata bisa menajdi dorongan yang luar biasa kuat.",
+            "choice_data_list": [
+                "(Kalau begitu.... mungkin Pandora juga...)"
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Haha, aku jadi sedikit kaget. ...Tapi emang ya...\n'Kekaguman' ternyata bisa menajdi dorongan yang luar biasa kuat.",
+            "choice_data_list": [
+                "(Kalau begitu.... mungkin Pandora juga...)"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh !? Aku yang jadi mentor Pandora-san...?"
+        },
+        {
+            "name": "<username>",
+            "text": "Iya. Mengingat apa yang terjadi di tim sebelumnya, kurasa tidak baik jika seseorang yang posisinya sepertiku terus memaksanya."
+        },
+        {
+            "name": "<username>",
+            "text": "Iya. Mengingat apa yang terjadi di tim sebelumnya, kurasa tidak baik jika seseorang yang posisinya sepertiku terus memaksanya."
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi, Kraft adalah rekan setim yang berjuang bersama dari sudut pandang yang sama. Kurasa Pandora juga akan lebih mudah menerima saran darimu.",
+            "choice_data_list": [
+                "Apalagi... dia memang mengidolakanmu.",
+                "Apalagi... dia memang mengidolakanmu."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Tapi, Kraft adalah rekan setim yang berjuang bersama dari sudut pandang yang sama. Kurasa Pandora juga akan lebih mudah menerima saran darimu.",
+            "choice_data_list": [
+                "Apalagi... dia memang mengidolakanmu.",
+                "Apalagi... dia memang mengidolakanmu."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Tentu saja, aku tahu kamu juga sedang mempersiapkan diri untuk balapan berikutnya, Victoria Mile."
+        },
+        {
+            "name": "<username>",
+            "text": "Tentu saja, aku tahu kamu juga sedang mempersiapkan diri untuk balapan berikutnya, Victoria Mile."
+        },
+        {
+            "name": "<username>",
+            "text": "Mengajari seseorang juga bisa menjadi kesempatan yang baik untuk melihat kembali semua pengalaman yang sudah kamu lalui."
+        },
+        {
+            "name": "<username>",
+            "text": "Mengajari seseorang juga bisa menjadi kesempatan yang baik untuk melihat kembali semua pengalaman yang sudah kamu lalui."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Jadi, sambil membimbing Pandora-san... aku juga bisa meninjau kembali banyak hal dalam diriku sendiri... begitu ya ? Aku mengerti...!"
+        },
+        {
+            "name": "<username>",
+            "text": "Gimana, Kraft ?\nTentu saja, jika kamu menghadapi kesulitan aku siap membantumu."
+        },
+        {
+            "name": "<username>",
+            "text": "Gimana, Craft ?\nTentu saja, jika kamu menghadapi kesulitan aku siap membantumu."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "....Baiklah. Aku akan mencobanya. Tidak sekedar mencobanya saja... \ntapi aku benar-benar ingin melakukannya."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Sebenernya... aku juga sudah lama ingin mengobrol lebih banyak dengan Pandora-san."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Sebagai mentor Pandora-san...\nAku akan berusaha sebaik mungkin !"
+        }
+    ]
+}
