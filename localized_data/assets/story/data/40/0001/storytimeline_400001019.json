@@ -22,7 +22,7 @@
             "text": "Cuaca buruk ini meninggalkan bekas besar di berbagai daerah.\n"
         },
         {
-            "text": "Dan,『URA Finals』juga—"
+            "text": "Dan,『URA Finale』juga—"
         },
         {
             "name": "Ketua Akikawa",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "『URA Finals』mungkin...\nnggak bisa diadakan.",
+            "text": "『URA Finale』mungkin...\nnggak bisa diadakan.",
             "choice_data_list": [
                 "Hah?"
             ]
@@ -60,7 +60,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "\"Itu rumput yang disiapkan\nuntuk penyelenggaraan『URA Finals』"
+            "text": "\"Itu rumput yang disiapkan\nuntuk penyelenggaraan『URA Finale』"
         },
         {
             "text": "Karena ada masalah keamanan juga,\nrumputnya harus diganti.",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Tolak! Itu nggak boleh!!\n『URA Finals』 adalah balapan yang kasih kesempatan ke semua Umamusume...!"
+            "text": "Tolak! Itu nggak boleh!!\n『URA Finale』 adalah balapan yang kasih kesempatan ke semua Umamusume...!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -174,7 +174,7 @@
             "text": "Trainer, tolong berikan ide-ide juga...!"
         },
         {
-            "text": "Apakah『URA Finals』bisa diadakan\ndengan lancar..."
+            "text": "Apakah『URA Finale』bisa diadakan\ndengan lancar..."
         }
     ]
 }
