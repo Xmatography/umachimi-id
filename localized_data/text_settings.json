@@ -37,14 +37,41 @@
             "sizedelta_x": 300.0
         },
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Text":{
-            "font_size": 30,
+            "font_size": 32,
             "sizedelta_x": 700.0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/PartsCharacterNoterProfileHeader/VoiceActoress/VoiceActorText": {
+            "font_size": 30,
+            "sizedelta_x": 300.0
         },
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffect/Base/Text": {
             "text_override": "Ketika OFF, beberapa kostum tertentu tidak akan diganti secara otomatis saat kondisi tertentu terpenuhi.\n<color=#ff911c>Perubahan akan diterapkan pada karir berikutnya</color>."
         },
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffectSetting/Base/Text": {
             "text_override": "Ketika OFF, pesan konfirmasi untuk penggantian kostum tidak akan ditampilkan lagi."
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/MissionView(Clone)/ContentsRoot/PartsMissionList/BottomListBaseL/ScrollView/ViewPort/Content/DialogMissionListItem(Clone)/Bg/Title": {
+            "best_fit": true,
+            "min_size": 26,
+            "max_size": 36,
+            "extents_x": 570.0,
+            "extents_y": 90.0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TipsCharaView(Clone)/ContentsRoot/BottomListBaseL/ScrollView/ViewPort/Content/GossipScrollItem(Clone)/GossipContentList/PartsGossipListItem(Clone)/TextGroup/GossipContent":{
+            "best_fit": true,
+            "min_size": 20,
+            "max_size": 31,
+            "extents_x": 750.0,
+            "extents_y": 70.0
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/CharacterNoteTopView(Clone)/ContentsRoot/RankScoreRoot/PartsCharacterNoteRankScore/NextLevelRoot/NextRankScore": {
+            "position_offset_y": -15
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/DirectoryView(Clone)/ContentsRoot/PartsCharacterNoteRankScore/NextLevel/NextRankScore": {
+            "position_offset_y": -15
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogDirectoryRewardList(Clone)/FlickHandler/CategoryScrollView/ViewPort/Content/TotalScore/utx_txt_base_04_sl/歴代評価点":{
+            "horizontal_overflow": 1
         }
     }
 }
