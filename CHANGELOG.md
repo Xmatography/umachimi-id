@@ -1,5 +1,5 @@
-# Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS.
-## Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
+# Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS!
+Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
 
 # TL UPDATE 09-07-26
 **🟢 New :**
@@ -20,6 +20,7 @@
 - Impor nama skill dari global
 - Deskripsi skill dengan detail kondisi
 - Menu Bantuan
+  
 **Aset Grafis :**
 - Animasi teks hasil karir, reroll spark, dan transfer request
 - Impor aset nama balapan dari global
@@ -71,10 +72,10 @@
 
 ## Cerita/story
 🟢 **NEW:**
-- Buena Vista **(Clear)**
-- Verxina **(Clear)**
-- Agnes Digital **(Clear)**
-- Cesario **(Clear)**
+- Buena Vista **(COMPLETE)**
+- Verxina **(COMPLETE)**
+- Agnes Digital **(COMPLETE)**
+- Cesario **(COMPLETE)**
 - Curren Bouquetd'or (Episode 1-4)
 - Admire Groove (Episode 1-4)
 - Prolog skenario Dreams
@@ -92,7 +93,7 @@
 - Kitasan Black
 - Daring Heart
 - Espoir City
-**Dialog Balapan berturut-turut**
+- **Dialog Balapan berturut-turut**
 
 ## Aset Grafis
 🟢 **NEW:**
