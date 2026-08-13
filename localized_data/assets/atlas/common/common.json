@@ -1,5 +1,8 @@
 {
-  "windows": {
-    "bundle_name": "24IJGL5JKBNBAIM7ALD7W55K5WIIOSTB"
-  }
+    "windows": {
+        "bundle_name": "24IJGL5JKBNBAIM7ALD7W55K5WIIOSTB"
+    },
+    "android": {
+        "bundle_name": "RW6QHYK5U5G5Y634PHBWH6RDTVQKBJVL"
+    }
 }

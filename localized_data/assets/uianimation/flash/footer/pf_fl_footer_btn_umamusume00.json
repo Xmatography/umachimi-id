@@ -1,6 +1,9 @@
 {
     "windows": {
-        "bundle_name": "J75SM3YBTHI5Y4CDQKKJ4ZDF4THUIBA2"    
+        "bundle_name": "J75SM3YBTHI5Y4CDQKKJ4ZDF4THUIBA2"
+    },
+    "android": {
+        "bundle_name": "KDBHXMM7BWUA3LZANER2HZIFUMWCM3LM"
     },
     "data": {
         "motion_parameter_list": {

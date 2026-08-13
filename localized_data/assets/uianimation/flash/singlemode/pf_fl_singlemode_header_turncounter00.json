@@ -1,30 +1,33 @@
 {
-  "windows": {
-    "bundle_name": "YM3C7VDZUXEYWI4ZNFC2IFAKN45HNVN4"
-  },
-  "data": {
-    "motion_parameter_list": {
-      "4": {
-        "text_param_list": {
-          "0": {
-            "text": "Selesai"
-          }
+    "windows": {
+        "bundle_name": "YM3C7VDZUXEYWI4ZNFC2IFAKN45HNVN4"
+    },
+    "android": {
+        "bundle_name": "LORIDBAMKIBSEANGJLUY7FSFAMEM2QFX"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Selesai"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Tersisa"
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            }
         }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Tersisa"
-          }
-        }
-      },
-      "8": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran"
-          }
-        }
-      }
     }
-  }
 }
