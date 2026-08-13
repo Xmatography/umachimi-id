@@ -1,78 +1,81 @@
 {
-  "windows": {
-    "bundle_name": "SY4WRHQM73TC5SQ2BDFOQ674HUWQKLC6"
-  },
-  "data": {
-    "motion_parameter_list": {
-      "4": {
-        "text_param_list": {
-          "0": {
-            "position_offset": {
-              "x": 3.025,
-              "y": -0.025,
-              "z": 0
+    "windows": {
+        "bundle_name": "SY4WRHQM73TC5SQ2BDFOQ674HUWQKLC6"
+    },
+    "android": {
+        "bundle_name": "HZ2NRWPMEJPQ7QKEMFZXJO5DQDEMV4GV"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 3.025,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Tersisa"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Selesai"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Aoharu Race\nafter turn"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -7,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran",
+                        "position_offset": {
+                            "x": -1.975,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Aoharu Race:"
+                    }
+                }
             }
-          }
         }
-      },
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "Tersisa"
-          }
-        }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran"
-          }
-        }
-      },
-      "12": {
-        "text_param_list": {
-          "0": {
-            "text": "Selesai"
-          }
-        }
-      },
-      "13": {
-        "text_param_list": {
-          "0": {
-            "text": "Aoharu Race\nafter turn"
-          }
-        }
-      },
-      "14": {
-        "text_param_list": {
-          "0": {
-            "position_offset": {
-              "x": -7,
-              "y": -0.025,
-              "z": 0
-            }
-          }
-        }
-      },
-      "16": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran",
-            "position_offset": {
-              "x": -1.975,
-              "y": 0,
-              "z": 0
-            }
-          }
-        }
-      },
-      "17": {
-        "text_param_list": {
-          "0": {
-            "text": "Aoharu Race:"
-          }
-        }
-      }
     }
-  }
 }

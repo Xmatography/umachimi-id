@@ -1,51 +1,54 @@
 {
-  "windows": {
-    "bundle_name": "DSK5Y7L4JD3FELGFJH7TNENUL6S3VHML"
-  },
-  "data": {
-    "motion_parameter_list": {
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "Tersisa"
-          }
+    "windows": {
+        "bundle_name": "DSK5Y7L4JD3FELGFJH7TNENUL6S3VHML"
+    },
+    "android": {
+        "bundle_name": "57GKEX72RBJGHIXJNKSZRDWQEIESJ4TT"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Tersisa"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Akhir"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Penilaian\nsetelah putaran"
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Penilaian dalam:"
+                    }
+                }
+            }
         }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran"
-          }
-        }
-      },
-      "12": {
-        "text_param_list": {
-          "0": {
-            "text": "Akhir"
-          }
-        }
-      },
-      "13": {
-        "text_param_list": {
-          "0": {
-            "text": "Penilaian\nsetelah putaran"
-          }
-        }
-      },
-      "16": {
-        "text_param_list": {
-          "0": {
-            "text": "Putaran"
-          }
-        }
-      },
-      "17": {
-        "text_param_list": {
-          "0": {
-            "text": "Penilaian dalam:"
-          }
-        }
-      }
     }
-  }
 }

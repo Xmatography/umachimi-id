@@ -1,56 +1,59 @@
 {
-  "windows": {
-    "bundle_name": "K2R7QBTKIMYG2YT46Z6O366G56HDOHZE"
-  },
-  "data": {
-    "an_root": {
-      "motion_parameter_list": {
-        "1": {
-          "text_param_list": {
-            "0": {
-              "text": "Sisa",
-              "position_offset": {
-                "x": -145.0,
-                "y": -0.0,
-                "z": 0.0
-              }
-            },
-            "1": {
-              "text": "ke tujuan:",
-              "position_offset": {
-                "x": 60.0,
-                "y": -1.0,
-                "z": 0.0
-              }
+    "windows": {
+        "bundle_name": "K2R7QBTKIMYG2YT46Z6O366G56HDOHZE"
+    },
+    "android": {
+        "bundle_name": "WHAA5IA4MN6VK7I5BV4AUOGRZKEZWHVI"
+    },
+    "data": {
+        "an_root": {
+            "motion_parameter_list": {
+                "1": {
+                    "text_param_list": {
+                        "0": {
+                            "text": "Sisa",
+                            "position_offset": {
+                                "x": -145.0,
+                                "y": -0.0,
+                                "z": 0.0
+                            }
+                        },
+                        "1": {
+                            "text": "ke tujuan:",
+                            "position_offset": {
+                                "x": 60.0,
+                                "y": -1.0,
+                                "z": 0.0
+                            }
+                        }
+                    }
+                },
+                "2": {
+                    "text_param_list": {
+                        "0": {
+                            "text": "Selesai"
+                        }
+                    }
+                },
+                "3": {
+                    "text_param_list": {
+                        "0": {
+                            "text": "Selesai!"
+                        }
+                    }
+                },
+                "4": {
+                    "text_param_list": {
+                        "0": {
+                            "position_offset": {
+                                "x": 80.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        }
+                    }
+                }
             }
-          }
-        },
-        "2": {
-          "text_param_list": {
-            "0": {
-              "text": "Selesai"
-            }
-          }
-        },
-        "3": {
-          "text_param_list": {
-            "0": {
-              "text": "Selesai!"
-            }
-          }
-        },
-        "4": {
-          "text_param_list": {
-            "0": {
-              "position_offset": {
-                "x": 80.0,
-                "y": 0.0,
-                "z": 0.0
-              }
-            }
-          }
         }
-      }
     }
-  }
 }

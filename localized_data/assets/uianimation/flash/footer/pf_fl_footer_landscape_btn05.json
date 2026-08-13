@@ -2,6 +2,9 @@
     "windows": {
         "bundle_name": "AA235YK3CMV23CMM75KRES3HGTLMS3AR"
     },
+    "android": {
+        "bundle_name": "GQZJVEJ4KZIQ2OBEDOS5HC5EMKZM5HEZ"
+    },
     "data": {
         "motion_parameter_list": {
             "0": {
