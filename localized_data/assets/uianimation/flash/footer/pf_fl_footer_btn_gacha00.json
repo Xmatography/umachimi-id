@@ -1,13 +1,16 @@
 {
     "windows": {
         "bundle_name": "HXDLVF4K3NXZYSY3PFNFO2MZ4O24PP4F"
-    },    
+    },
+    "android": {
+        "bundle_name": "SV7QKWNM7ESD56KDKEO4ZEJZO7BQLUGC"
+    },
     "data": {
         "motion_parameter_list": {
             "10": {
                 "plane_param_list": {
                     "0": {
-                        "name": "txt_gacha_on",                 
+                        "name": "txt_gacha_on",
                         "scale": {
                             "x": 1.3,
                             "y": 1.3,
