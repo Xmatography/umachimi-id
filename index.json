@@ -2664,6 +2664,16 @@
       "size": 512
     },
     {
+      "path": "assets/movies/Title/title_movie_02.usm",
+      "hash": "7db66457f7208d1ffe8662898785b1dc1a50aace535f20f6568214e7da14b182",
+      "size": 94532192
+    },
+    {
+      "path": "assets/movies/Title/title_movie_02_landscape.usm",
+      "hash": "7db66457f7208d1ffe8662898785b1dc1a50aace535f20f6568214e7da14b182",
+      "size": 94532192
+    },
+    {
       "path": "assets/race/storyrace/text/storyrace_020000001.json",
       "hash": "2b146dde798ac2da2272e9d8217413f30d40e3018bc9e7eb2d52b4a8130af4da",
       "size": 1454
@@ -18880,8 +18890,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "1d0dba515b45b3e26fd25c232a0699ed57cf2addc2f6065c701ba57d563f6a44",
-      "size": 438746
+      "hash": "fe9349b6fcb5a5777db20b1c8fba8455e13b9e3f5a9cde56b16114d90db3575d",
+      "size": 440999
     },
     {
       "path": "race_jikkyo_comment_dict.json",
