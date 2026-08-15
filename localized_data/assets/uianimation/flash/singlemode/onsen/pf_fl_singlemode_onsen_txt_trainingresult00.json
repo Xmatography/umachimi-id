@@ -1,5 +1,8 @@
 {
     "windows": {
         "bundle_name": "5M5RJQCN3QOLDNWWKYXMIFFZ6B7WT5TR"
+    },
+    "android": {
+        "bundle_name": "3JGNCYDWL672BEQSLZKTBF4DARPBYRUC"
     }
 }

@@ -1,10 +1,26 @@
-# **UPDATE 22-07-26**
+# Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS!
+Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
+
+# TL UPDATE 09-07-26
+**🟢 New :**
+- Main Story Vol.2 Chapter 3 Eps 1-4
+- Aset grafis skenario 14 (ramen)
+- Update konten baru di teks data
+- Training Event (Taiki Shuttle, Curren Chan, Special Week, Ikuno Dictus, Wonder Acute)
+
+**🟠 Improved:**
+- koreksi
+- fix bug room match
+- Fix bug agenda
+
+# TL UPDATE 22-07-26
 
 **🟢 New :**
 - Lirik Yukoma Thermae (onsen)
 - Impor nama skill dari global
 - Deskripsi skill dengan detail kondisi
 - Menu Bantuan
+  
 **Aset Grafis :**
 - Animasi teks hasil karir, reroll spark, dan transfer request
 - Impor aset nama balapan dari global
@@ -16,7 +32,7 @@
 - Koreksi
 - Perbaikan aset grafis lainnya
 
-# **UPDATE 15-07-26**
+# TL UPDATE 15-07-26
 
 ## Skenario
 **🟢 New :**
@@ -32,7 +48,7 @@
 - Impor data dari global : Nama skill, Gelar, Julukan
 
 
-# **UPDATE 02-07-26**
+# TL UPDATE 02-07-26
 
 ## Lirik
 **🟢 New :**
@@ -56,10 +72,10 @@
 
 ## Cerita/story
 🟢 **NEW:**
-- Buena Vista **(Clear)**
-- Verxina **(Clear)**
-- Agnes Digital **(Clear)**
-- Cesario **(Clear)**
+- Buena Vista **(COMPLETE)**
+- Verxina **(COMPLETE)**
+- Agnes Digital **(COMPLETE)**
+- Cesario **(COMPLETE)**
 - Curren Bouquetd'or (Episode 1-4)
 - Admire Groove (Episode 1-4)
 - Prolog skenario Dreams
@@ -77,7 +93,7 @@
 - Kitasan Black
 - Daring Heart
 - Espoir City
-**Dialog Balapan berturut-turut**
+- **Dialog Balapan berturut-turut**
 
 ## Aset Grafis
 🟢 **NEW:**

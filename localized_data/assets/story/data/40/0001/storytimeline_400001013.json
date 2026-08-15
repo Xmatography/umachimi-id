@@ -1,7 +1,7 @@
 {
     "text_block_list": [
         {
-            "text": "Beberapa waktu telah berlalu sejak pengumuman penyelenggaraan balapan baru,\n“URA Finals.”"
+            "text": "Beberapa waktu telah berlalu sejak pengumuman penyelenggaraan balapan baru,\n“URA Finale.”"
         },
         {
             "text": "“Finals Champion,” ya……!\nHeh, ini jadi makin menarik aja, sialan.",
@@ -48,7 +48,7 @@
             "name": "Seiun Sky"
         },
         {
-            "text": "Para Umamusume pun tampaknya mulai semakin bersemangat,\nperlahan tapi pasti, menuju URA Finals.",
+            "text": "Para Umamusume pun tampaknya mulai semakin bersemangat,\nperlahan tapi pasti, menuju URA Finale.",
             "choice_data_list": [
                 "(Aku juga harus berusaha lebih keras lagi……!)",
                 "(Aku juga harus berusaha lebih keras lagi……!)"
@@ -220,7 +220,7 @@
         },
         {
             "name": "Ketua Akikawa",
-            "text": "Benar! Aku sangat berharap, kau dan Umamusume yang\nkau latih mau bekerja sama dengan kami untuk meraih kesuksesan di 'URA FINALS'!"
+            "text": "Benar! Aku sangat berharap, kau dan Umamusume yang\nkau latih mau bekerja sama dengan kami untuk meraih kesuksesan di 'URA Finale'!"
         },
         {
             "name": "Ketua Akikawa",
@@ -264,7 +264,7 @@
             ]
         },
         {
-            "text": "Merasakan kehangatan perasaan dari Ketua Yayasan Akikawa,\nsemangatku untuk menuju 'URA FINALS' kembali berkobar dengan teguh."
+            "text": "Merasakan kehangatan perasaan dari Ketua Yayasan Akikawa,\nsemangatku untuk menuju 'URA Finale' kembali berkobar dengan teguh."
         }
     ]
 }

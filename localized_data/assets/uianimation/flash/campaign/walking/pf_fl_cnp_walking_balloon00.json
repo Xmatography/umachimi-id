@@ -1,30 +1,33 @@
 {
-  "windows": {
-    "bundle_name": "XXBIXHQUBBRZP4LN5FA6PWSBST5O3BLL"
-  },
-  "data": {
-    "motion_parameter_list": {
-      "5": {
-        "text_param_list": {
-          "0": {
-            "text": "Bond"
-          }
+    "windows": {
+        "bundle_name": "XXBIXHQUBBRZP4LN5FA6PWSBST5O3BLL"
+    },
+    "android": {
+        "bundle_name": "26HF7GC6JLJ2BAEDF57I44D2AOC5Y5VL"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "5": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Bond"
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Reward"
+                    }
+                }
+            },
+            "11": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Meal"
+                    }
+                }
+            }
         }
-      },
-      "8": {
-        "text_param_list": {
-          "0": {
-            "text": "Reward"
-          }
-        }
-      },
-      "11": {
-        "text_param_list": {
-          "0": {
-            "text": "Meal"
-          }
-        }
-      }
     }
-  }
 }

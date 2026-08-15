@@ -1,0 +1,243 @@
+{
+    "title": "Kedatangan Seorang 『Jenius』……!?",
+    "no_wrap": false,
+    "text_block_list": [
+        {},
+        {
+            "name": "Rhein Kraft",
+            "text": "……! \n————…………",
+            "choice_data_list": [
+                "Kraft? ……Masih belum pulang?",
+                "Kraft? ……Masih belum pulang?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Wah, Trainer! \n……Bukan apa-apa, aku baru saja mau pergi."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Terima Kasih untuk latihan hari ini. \nBesok juga mohon bantuannya!",
+            "choice_data_list": [
+                "Ya. Sampai jumpa besok",
+                "Ya. Sampai jumpa besok"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ya! Sampai jumpa～!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "——『Untuk Cesario』"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『Udara disini sudah mulai hangat, bagaimana dengan disana? \nDi hari libur terakhir, aku bersama Tim <Ascella> pergi melihat \nbunga bermekaran!』"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "——『Oh iya fotonya juga, Aku ambil banyak, jadi nanti kukirim ya! \nTerus, ada banyak juga foto seri anjing yang kemarin jadi favorit!』"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Baiklah♪ Sekarang tinggal masukin foto-fotonya～ \n……Eh."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "<i>(Yang ini, foto yang kuambil sore tadi——)</i>"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Mau berapa kali dilihat, ini……tetap terlihat sama."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Tidak ada apapun di fotonya——"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Satu, dua, tiga……! Huu, siip～!"
+        },
+        {
+            "text": "……Baiklah, waktunya mulai latihan. \nTim <Ascella>, ayo kita mulai!",
+            "choice_data_list": [
+                "King, bisa tolong cek kehadiran ?",
+                "King, bisa tolong cek kehadiran ?"
+            ]
+        },
+        {
+            "text": "……Baiklah, waktunya mulai latihan. \nTim <Ascella>, ayo kita mulai!",
+            "choice_data_list": [
+                "King, bisa tolong cek kehadiran ?",
+                "King, bisa tolong cek kehadiran ?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Baiklah. Tim <Ascella>! \nKita akan mulai latihan sekarang. Ayo berkumpul!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hadir～ nomor satu disini～. \n……Fuwaah……Aku agak kurang tidur～……"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Dasar Bodoh! Bodoh banget sih kamu. Ya, memang sih jujur itu bagus, tapi…!! \n……Eh, uh, Pokoknya aku sudah siap!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Rhein Kraft, juga siap! \nAku lagi semangat banget !"
+        },
+        {
+            "name": "???",
+            "text": "Yup～! \nAku juga lagi semangat～～～☆",
+            "choice_data_list": [
+                "Baiklah, jika semuanya sudah si……hm?",
+                "Baiklah, jika semuanya sudah si……hm?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "……Eh?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Hah?"
+        },
+        {
+            "name": "Anggota <Ascella>",
+            "text": "Siapa!?!?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Fuufuufuu～…… Eehehehehehe～～～!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Jenius sejak lahir～! \nUmamusume yang terus bersinar secerah mungkin, Dari dulu sampai nanti♪"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Itulah di-ri-ku——Fusaichi Pandora♡"
+        },
+        {
+            "name": "Mama Pandora",
+            "text": "Liat deh Pan-chan, Gaun baru! Kamu bilang pengen yang baru kan? Mama \nnemu yang bagus banget nih!"
+        },
+        {
+            "name": "Papa Pandora",
+            "text": "Dan dari Papa, sepasang sepatu baru! Kamu pengen banget yang ada pitanya kan? Oh, lain kali kita cari sepasang kaos kaki yang cocok dengannya～!"
+        },
+        {
+            "name": "Pandora Kecil",
+            "text": "——Keren～! Balapan keliatannya seru～! \nEh, eh, Aku mau coba juga! Boleh ikut ya, Boleh ya ?～♡"
+        },
+        {
+            "name": "Papa Pandora",
+            "text": "Begitu ya, jadi Pan-chan juga mau coba balapan, ya～! \nBaiklah, besok kita langsung cari klub ! Oh engga, saat ini juga !"
+        },
+        {
+            "name": "Pandora Kecil",
+            "text": "Hah, hah, hah……Hehe, finis!! \nAku nomor satu♪"
+        },
+        {
+            "name": "Trainer Klub",
+            "text": "Di usia semuda ini, dengan catatan waktu seperti itu……! Dia punya bakat yang luar biasa! Fusaichi Pandora……Kamu benar-benar seorang jenius!"
+        },
+        {
+            "name": "Pandora Kecil",
+            "text": "……! Jenius……♡"
+        },
+        {
+            "name": "Teman Pandora A",
+            "text": "Waaah, itu beneran seragam Akademi Tracen……! Keren banget! Aku denger \nujian masuknya susah banget ya, tapi kamu pasti lolos dengan mudah ya?"
+        },
+        {
+            "name": "Teman Pandora B",
+            "text": "Tidak mungkin!! Kalo itu Pandora-chan, \ndebut dan G1 bakal jadi kemenangan mudah～!!"
+        },
+        {
+            "name": "Pandora Muda",
+            "text": "Eh～? Ehehe…… Ehehehehee～, Masa sih? \nMungkin juga ya♡ Soalnya——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aku kan seorang jenius♪"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Bukan cuma itu lho～! Bahkan di Twinkle Series, jika ada seseorang yang akan melakukan hal suuuuuper～ keren yang belum pernah dilakukan siapaun sepanjang sejarah——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ya jelas harus kulakuin, kan～～～～!?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Jadi begitu! Anggota baru Tim <Ascella> yang super keren dan \nsuper menggemaskan, Fusaichi Pandora♡!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Mohon kerja samanya ya!! \nTerutama～……Kuu-chan-senpai♡"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ah, eh, Pandora-san……!? \nTunggu, senior!? ……Eeeeeeh!?",
+            "choice_data_list": [
+                "Kraft, kamu kenal dia……?",
+                "Kraft, kamu kenal dia……?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Eh, anu, gimana ya… kami kenalan sih, cuma——"
+        },
+        {
+            "name": "Jungle Pocket",
+            "text": "Woi, Pandoraーーー!! \nLu ngapain sih!?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Pyaa!?"
+        },
+        {
+            "name": "Trainer Tim",
+            "text": "Mohon maaf atas kejadian ini, Tim <Ascella>. Sungguh…… \nFusaichi Pandora kami telah merepotkan kalian.",
+            "choice_data_list": [
+                "Ngga apa-apa, aman aja……"
+            ]
+        },
+        {
+            "text": "Jadi begitu ya. Berarti keputusan untuk memindahkan Fusaichi Pandora ke tim kami memang sudah disepakati oleh kalian."
+        },
+        {
+            "name": "Trainer Tim",
+            "text": "Ya, sebenarnya kami berencana datang besok untuk menyampaikannya secara resmi, tapi…… sepertinya dia nggak sabaran."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Huu……Maafkan aku～……"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha……Maaf ya jadi seperti ini. Tim <Ascella>, kalau boleh, izinkan kami menyampaikan permintaan kami secara resmi."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Tentang Fusaichi Pandora. Tolong pertimbangkan. \n……Nah, sekarang kamu sampaikan juga dengan baik ya, Pandora?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "S-siap! ……Ehm, anu. Aku nggak main-main! \nAku beneran serius memutuskan buat pindah ke tim ini!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Bersama Kuu-chan-senpai—— \nKarena aku ingin berlari bersama Rhein Kraft-chan!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "! A-aku……?"
+        }
+    ]
+}
