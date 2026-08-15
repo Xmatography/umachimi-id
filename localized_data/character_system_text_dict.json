@@ -776,7 +776,9 @@
         "140017": "Much: ……",
         "410001": "We did it……!",
         "410004": "Fufu",
-        "410005": "Fufu"
+        "410005": "Fufu",
+        "20021": "Jika Kamu bilang tidak apa-apa...\nbaiklah... tapi...",
+        "20022": "Kalau terlalu memaksakan diri...\nsepertinya ada sesuatu yang berharga...\nyang akan hilang dari pandangan..."
     },
     "1026": {
         "11": "Cygames",
@@ -2911,7 +2913,9 @@
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "90221": "Happy Valentine's Day",
-        "140008": "Fufu"
+        "140008": "Fufu",
+        "20021": "Kalau terus-terusan balapan, lama-lama aku jadi tidak sadar dengan kelelahan diriku sendiri…. …Memang begitulah masalah yang selalu mengikuti aku yang sibuk ini.",
+        "20022": "Tantangan boleh saja…. Tapi, ikut balapan seenaknya tanpa pikir panjang itu namanya strategi bodoh. Kau mengerti?"
     },
     "1062": {
         "11": "Cygames",
@@ -3693,5 +3697,9 @@
     "1097": {
         "20021": "Sepertinya... aku sudah membiarkan dia mengamuk sedikit terlalu jauh... Kalau cara untuk mengendalikannya sudah hilang... aku tidak tahu... apa yang akan terjadi...",
         "20022": "...Aku sudah tidak... mengerti lagi...\nMonster yang mengamuk liar, aku yang berusaha menahannya...\nYang asli... yang mana...?"
+    },
+    "1092": {
+        "20022": "Kalau bintang utama mungkin bisa melewatinya... tapi... maaf... aku... tetap saja tidak sanggup, ya...",
+        "20021": "Aku... aku rasa masih bisa berusaha. ...Rasa sih... tapi... apa ini... memang jalan menuju bintang utama...?"
     }
 }

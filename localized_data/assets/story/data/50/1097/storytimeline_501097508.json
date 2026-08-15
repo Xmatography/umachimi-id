@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "......Sinar mataharinya, terasa menyengat ya. Sampai-sampai garis finisnya seperti tidak terlihat......",
+            "choice_data_list": [
+                "? Sepertinya sama saja seperti biasanya......"
+            ]
+        },
+        {
+            "text": "......Begitu, kah? Entah mengapa, terasa lebih silau dari biasanya...... rasanya seperti akan larut dalam cahaya......"
+        },
+        {
+            "text": "......... Trainer...... Maukah kau terus mengawasiku?"
+        },
+        {
+            "text": "Kalau aku bisa terpantul di matamu...... rasanya aku bisa...... bertahan melawan silau ini......"
+        },
+        {
+            "text": "Melihat kondisinya...... dia pasti kelelahan. Sepertinya jadwal ke depan perlu ditinjau ulang."
+        }
+    ]
+}
