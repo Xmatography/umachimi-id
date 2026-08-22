@@ -1,221 +1,221 @@
 {
-    "no_wrap": true,
+    "title": "Jembatan Penghubung Langit",
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Pelatihan intensif musim panas dimulai hari ini. Sebagai persiapan, \naku membuat dua rencana latihan untuk Admire Vega."
+            "text": "Kamp pelatihan musim panas dimulai hari ini. \nAku membuat dua menu rencana latihan untuk Admire Vega."
         },
         {
-            "text": "Singkatnya, satu tugas bisa dilakukan sendiri, sedangkan yang lain \nharus dilakukan bersamaku."
+            "text": "Singkatnya, itu adalah \"latihan yang bisa dilakukan sendiri\" dan \"latihan yang dilakukan dengan kerja sama\"."
         },
         {
-            "text": "………",
             "name": "Admire Vega",
+            "text": "………",
             "choice_data_list": [
-                "Bagaimana menurutmu?"
+                "……Bagaimana menurutmu?"
             ]
         },
         {
-            "text": "Aku mengatakan bahwa dia bebas memilih salah satu dan menunjukkan \nkeduanya padanya. Aku berharap dia akan langsung menjawab, \ntapi dia tampak ragu untuk menjawab."
+            "text": "Aku mengatakan bahwa dia bebas memilih salah satu dan menunjukkan kedua rencana latihan padanya. Jawaban yang biasanya langsung ia lontarkan tanpa ragu, tapi kali ini tak kunjung diberikan."
         },
         {
-            "text": "Beri aku… sedikit waktu untuk berpikir.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Beri aku…… sedikit waktu untuk berpikir."
         },
         {
-            "text": "Setelah mengatakan itu, dia masuk ke dalam kabin."
+            "text": "Setelah mengatakan itu, Admire Vega mengambil lembaran menu itu lalu masuk ke dalam kamp pelatihan."
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "<i>Rencana latihan ini… dia benar-benar memikirkannya dengan matang.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Menu ini…… dua-duanya, dirancang dengan sangat matang)</i>"
         },
         {
-            "text": "<i>Dia juga menambahkan latihan untuk membantuku meningkatkan \ndasar-dasar gerakanku.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Di dalam latihan dasar untuk memaksimalkan gaya lariku ini, ada banyak penyesuaian yang ia tambahkan……)</i>"
         },
         {
-            "text": "<i>Latihan ini dibuat khusus untuk gaya lariku. Dibuat khusus untukku.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(Latihan yang disesuaikan dengan gaya lariku. \n……Latihan yang dibuat khusus untukku)</i>"
         },
         {
-            "text": "<i>Aku tahu dia bilang tak masalah mana yang kupilih… Tapi aku bisa \ntahu hanya dengan melihatnya bahwa yang kubutuhkan adalah… \nbekerja sama dengannya.</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(……Meskipun dia bilang bebas pilih yang mana saja, tapi begitu melihatnya aku langsung tahu. Yang dibutuhkan olehku saat ini adalah…… bekerja sama)</i>"
         },
         {
-            "text": "<i>Tapi…</i>",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "<i>(……Tapi)</i>"
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "………"
         },
         {
-            "text": "Trainer-san. Tentang… rencana latihan itu.",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Trainer-san. \nTentang menu latihan itu…… sebenarnya."
         },
         {
-            "text": "Aku…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "…… Aku……"
         },
         {
-            "text": "Aku… ingin…",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "……Bagiku, ini……"
         },
         {
-            "text": "Admire Vega sedang mencari kata yang tepat. Dia sudah membuat \nkeputusan, tapi tidak tahu cara terbaik untuk mengatakannya."
+            "text": "Admire Vega sedang mencari kata yang tepat. Dia sudah membuat keputusan, tapi tampak ragu untuk mengatakannya."
         },
         {
-            "text": "Namun, ada rasa penuh perhatian dan kepedulian yang terpancar darinya…",
+            "text": "Dari sikapnya itu, terasa adanya kehangatan dan kepekaan――",
             "choice_data_list": [
                 "Jangan khawatir.",
                 "Jangan khawatir."
             ]
         },
         {
-            "text": "Eh?",
             "name": "Admire Vega",
+            "text": "Eh?",
             "choice_data_list": [
                 "Pilih saja yang kamu mau.",
                 "Pilih saja yang kamu mau."
             ]
         },
         {
-            "text": "Trainer-san…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Kau benar… Terima kasih.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Admire Vega memilih rencana latihan yang bisa dia lakukan sendiri."
-        },
-        {
-            "text": "Saat dia menjalani latihannya, aku terus mengawasinya dan tetap \nmendukungnya sebagai Trainer-nya."
-        },
-        {
-            "text": "Malam pun tiba. Aku duduk sendirian, menatap Segitiga Musim Panas \nsambil memegang buku yang direkomendasikan Admire Vega padaku.",
-            "choice_data_list": [
-                "Vega, Deneb… dan yang terakhir apa ya?"
-            ]
-        },
-        {
-            "text": "Aku membalik halaman buku itu untuk mencari jawabannya, akan tetapi…"
-        },
-        {
-            "text": "Altair, itu bintang paling terang di rasi bintang Aquila.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Admire Vega ternyata ada di sana.",
-            "choice_data_list": [
-                "Kau juga datang untuk melihat bintang?"
-            ]
-        },
-        {
-            "text": "Iya…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Trainer-san…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Latihan hari ini… sangat mudah dilakukan. Aku merasa saat terus \nberusaha… aku benar-benar mencapai sesuatu.",
             "name": "Admire Vega",
+            "text": "……Trainer-san."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Kau benar ……Terima kasih."
+        },
+        {
+            "text": "Admire Vega memilih menu \"latihan yang bisa dilakukan sendiri\"."
+        },
+        {
+            "text": "Aku mengawasi semuanya dan mencatat seperti biasa. Agar bisa menjadi penopang baginya sebagai seorang Trainer."
+        },
+        {
+            "text": "――Malam pun tiba. Aku duduk sendirian, menatap Segitiga Musim Panas sambil memegang buku yang direkomendasikan Admire Vega padaku.",
+            "choice_data_list": [
+                "Vega, Deneb, dan… apa ya namanya?"
+            ]
+        },
+        {
+            "text": "Tepat saat aku membalik halaman buku itu untuk mencari jawabannya――"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Altair. ……Bintang paling terang di rasi bintang Aquila."
+        },
+        {
+            "text": "Ternyata ada Admire Vega di sana.",
+            "choice_data_list": [
+                "<size=40>Ayabe juga datang untuk melihat bintang?</size>"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Begitu lah……"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Trainer-san."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Latihan hari ini…… terasa sangat mudah dilakukan. \nAku merasa ada pencapaian…… dan terus melangkah maju.",
             "choice_data_list": [
                 "Serius!?"
             ]
         },
         {
-            "text": "Y-Ya… Tapi.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Semakin keras kau berusaha untukku… semakin sakit hatiku rasanya.",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Ekspektasimu, usahamu. Jika semua itu sungguh nyata…\njika memang nyata, aku tak pantas menerimanya, harusnya adikku…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Padahal dia… Padahal aku…",
             "name": "Admire Vega",
-            "choice_data_list": [
-                "<size=35>Lagipula, apa adikmu saja yang pantas dapat?</size>",
-                "<size=35>Lagipula, apa adikmu saja yang pantas dapat?</size>"
-            ]
+            "text": "Y-ya. ……tapi."
         },
         {
-            "text": "Eh…?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Aku tidak tahu banyak tentang adiknya."
-        },
-        {
-            "text": "Tapi yang aku tahu adalah, memikirkan adiknya membuat dia \nmerasa sangat terluka. Karena itu…",
-            "choice_data_list": [
-                "<size=38>Jika kamu benar-benar berlari demi dirinya…</size>",
-                "<size=38>Jika kamu benar-benar berlari demi dirinya…</size>"
-            ]
-        },
-        {
-            "text": "Baik rencana latihan maupun nasihat yang kuberikan dulu, \ntidak hanya ditujukan untuk Admire Vega saja.",
-            "choice_data_list": [
-                "<size=41>Aku membuatnya untuk kalian.</size>",
-                "<size=41>Aku membuatnya untuk kalian.</size>"
-            ]
-        },
-        {
-            "text": "…………",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Untuk… kami…?",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "Untukku… dan untuk… dia…",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Ahh, sepertinya aku akhirnya mengerti.</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Saat itu aku pulang tanpa menatap bintang-bintang…</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Dan saat itu kamu memanggilku di planetarium…</i>",
-            "name": "Admire Vega"
-        },
-        {
-            "text": "<i>Dan bukan melakukan semua itu hanya untuk \"aku\"… Tapi \nmelakukannya untuk \"kami\"?</i>",
             "name": "Admire Vega",
+            "text": "……Semakin kamu berusaha untukku… dadaku semakin terasa sesak."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Harapan yang diarahkan padaku, dan juga usahamu.   \nJika saja…… jika saja itu bukan aku, melainkan adikku yang……"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Padahal, aku……",
             "choice_data_list": [
-                "Ayabe-san?"
+                "Apakah itu hanya untuk adikmu saja?",
+                "Apakah itu hanya untuk adikmu saja?"
             ]
         },
         {
-            "text": "………",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "Eh……?"
         },
         {
-            "text": "Admire Vega duduk di sampingku dan menatap langit malam \nyang berkilauan dengan indah…"
+            "text": "Aku tidak tahu banyak tentang adik perempuannya."
         },
         {
-            "text": "Kurasa aku bisa mengajarimu sedikit tentang bintang-bintang…",
-            "name": "Admire Vega"
+            "text": "Tapi, aku tahu bahwa ia merindukan adiknya dan menderita karenanya. \nOleh karena itu――",
+            "choice_data_list": [
+                "Kalau kamu berlari demi adikmu――",
+                "Kalau kamu berlari demi adikmu――"
+            ]
         },
         {
-            "text": "Lalu, dia dengan lembut menjelaskan benda-benda berkilau yang \nterletak miliaran tahun cahaya jauhnya."
+            "text": "Menu rencana latihan maupun nasihat-nasihat yang kuberikan, bukan hanya untuk \"satu orang\" saja.",
+            "choice_data_list": [
+                "Tapi untuk \"kalian berdua\".",
+                "Tapi untuk \"kalian berdua\"."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "――――"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Untuk…… \"kami berdua\"……?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Untukku dan anak itu……"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(――Ahh, begitu ya)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Waktu itu, saat kita pulang tanpa menatap bintang-bintang)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Dan saat aku menyapamu di planetarium)</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Dan semua itu bukan hanya untuk \"aku\"… Tapi untuk \"kami berdua\")</i>",
+            "choice_data_list": [
+                "Ayabe?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "………"
+        },
+        {
+            "text": "Admire Vega duduk di sampingku dan menatap langit yang berkilauan――"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "……Kurasa, aku bisa memberitahumu sedikit."
+        },
+        {
+            "text": "Lalu, dia pun dengan tenang menceritakan tentang cahaya dari jarak ratusan juta tahun cahaya yang bersinar di masa kini."
         }
-    ],
-    "title": "Jembatan Penghubung Langit"
+    ]
 }
