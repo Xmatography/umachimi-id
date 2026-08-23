@@ -1,75 +1,75 @@
 {
-    "title": "Getaran Di Malam Yang Berkilau",
-    "no_wrap": true,
+    "title": "Getaran di Malam yang Berkilau",
+    "no_wrap": false,
     "text_block_list": [
         {
             "name": "Admire Vega",
-            "text": "Haah, haa… haaah…"
+            "text": "Haah, haa…… haaah……"
         },
         {
             "name": "Admire Vega",
-            "text": "Aku masih belum selesai. Aku.. harus berlari lagi."
+            "text": "……Ugh, masih belum…… Aku harus berlari lagi."
         },
         {
             "name": "",
-            "text": "Sudah beberapa hari sejak aku menjadi Trainer-nya.",
+            "text": "Sudah beberapa waktu sejak aku menjadi Trainer-nya.",
             "choice_data_list": [
-                "<i>Aku masih lembut padanya, sih...</i>"
+                "<size=35>(Dorongan kakinya masih kurang, dan juga……)</size>"
             ]
         },
         {
             "name": "",
-            "text": "Aku membuat catatan bagaimana Admire Vega berlari. \nAku akan menggunakan ini sebagai basis latihan kedepannya, tapi..."
+            "text": "Aku mencatat setiap detail dari gaya lari Admire Vega dengan teliti. \nCatatan inilah yang akan jadi strategi untuk balapan nanti, tetapi――"
         },
         {
             "name": "",
-            "text": "Akankah dia mendengarkanku?"
+            "text": "Namun, akankah dia mendengarkanku?"
         },
         {
             "name": "",
-            "text": "Dia bisa menerima saran kecil, tapi saat latihan yang \nmembutuhkan dua orang…"
+            "text": "Dia mau mendengarkan masukan ringan sih, tapi begitu masuk ke latihan yang butuh kerja sama……"
         },
         {
             "name": "Admire Vega",
-            "text": "Aku...tidak apa-apa sendiri. Aku lebih suka sendiri."
+            "text": "Aku――lebih baik sendiri. Cukup aku saja sendiri."
         },
         {
             "name": "Admire Vega",
-            "text": "Mau bagaimanapun, jika aku tidak dapat Trainer, \naku tidak bisa memasuki Twinkle Series."
+            "text": "……Bagaimana pun juga, kalau aku tidak punya Trainer, aku tidak akan bisa masuk ke Twinkle Series. "
         },
         {
             "name": "",
-            "text": "Bakal susah menyakinkan dia untuk latihan yang \nmembutuhkan bantuanku.",
+            "text": "Menyakinkan dia untuk menerima latihan yang membutuhkan kerja sama, mungkin akan terasa sangat sulit.",
             "choice_data_list": [
-                "<i>Tapi…</i>"
+                "(Meski begitu――)"
             ]
         },
         {
             "name": "",
-            "text": "Aku adalah Trainer-nya. Aku bilang ke dia untuk membuktikan \nbahwa aku bisa membantunya apapun itu!"
+            "text": "Aku adalah Trainer-nya. Karena sebelumnya aku bilang akan menjadi penopangnya. Setidaknya, aku harus sampaikan ini padanya——"
         },
         {
             "name": "Admire Vega",
-            "text": "Aku mau lari dulu…",
+            "text": "……Aku mau lari dulu.",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "Jangan tunggu aku."
+            "text": "Tidak usah…… menungguku."
         },
         {
             "name": "",
-            "text": "Dia sudah keluar sebelum aku bereaksi. \nAku ingin mengejarnya, tapi dia terlalu cepat."
+            "text": "Belum sempat aku memanggilnya, dia sudah keburu pergi. \nRasanya ingin ku kejar, tapi punggungnya sudah menjauh dengan cepat."
         },
         {
             "name": "Admire Vega",
-            "text": "Hahh, hah, haa…!"
+            "text": "Hahh, hah, haa……!"
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Tidak apa, aku masih bisa berlari lagi hari ini. Jika aku meneruskan ini, \nsuatu hari aku bisa mencapai bintang itu sendiri.</i>"
+            "text": "<i>(……Tidak apa, hari ini aku masih sanggup berlari. Terus seperti ini, menuju tempat yang sangat jauh――di mana aku bisa merasakan bintang-bintang begitu dekat, seorang diri)</i>"
         },
         {
             "name": "Admire Vega",
@@ -77,62 +77,62 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Dengan....diriku sendiri."
+            "text": "……――Aku, seorang diri……"
         },
         {
             "name": "",
-            "text": "Aku sangat sibuk menata catatanku sampai aku tidak sadar sudah malam.",
+            "text": "Aku sangat sibuk menata catatan latihanku tadi sampai aku tidak sadar rupanya hari sudah malam.",
             "choice_data_list": [
-                "Tapi, tinggal sedikit lagi..."
+                "Tapi, tinggal sedikit lagi……"
             ]
         },
         {
             "name": "",
-            "text": "Aku berharap perasaanku bisa mencapai Admire Vega besok. \nDan berharap aku bisa menjadi berguna buat dia juga."
+            "text": "Semoga besok pesan ini bisa tersampaikan dengan pasti ke Admire Vega. \nAgar aku bisa menjadi sosok penopang yang bisa diandalkannya."
         },
         {
             "name": "Admire Vega",
-            "text": "Kamu disini lagi."
+            "text": "Lagi-lagi, kamu malah ada di tempat ini……"
         },
         {
             "name": "Admire Vega",
-            "text": "Trainer-san, kamu akan kedinginan jika tidur disini. Segeralah pulang."
+            "text": "…… Trainer-san, nanti kamu bisa masuk angin. \nKalau mau tidur, sebaiknya pulanglah……"
         },
         {
             "name": "Admire Vega",
-            "text": "Dan komputermu malah nyala dan catatannya terbuka――"
+            "text": "……Laptopnya ditinggal menyala begitu, lalu berkas catatannya juga――"
         },
         {
             "name": "",
-            "text": "\"Dia sepertinya suka bintang.\" \"Haruskah kuubah waktu latihannya?\" \n\"Tempat yang bagus untuk melihat bintang, ya?\" Tanya Tazuna aja, deh."
+            "text": "\"Sepertinya dia suka bintang\" \"Haruskah kuubah waktu latihannya?\" \n\"Apa tempat yang bagus untuk melihat bintang?\" \"Tanya Tazuna aja, deh\""
         },
         {
             "name": "",
-            "text": "\"Demi 'dia' ――?\""
+            "text": "\"Demi anak itu――\""
         },
         {
             "name": "Admire Vega",
-            "text": "\"Apa yang bisa kuperbuat untuk dia\"……？"
+            "text": "\"Apa lagi yang bisa kulakukan untuknya\"……?"
         },
         {
             "name": "Admire Vega",
-            "text": "Kenapa dia melakukan ini semua? Aku sudah bilang pada dia \nbahwa aku bisa sendiri...."
+            "text": "Kenapa…… padahal, aku……sudah bilang berkali-kali……kalau bisa sendirian."
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Aku pikir yang kuinginkan hanyalah melihat bintang-bintang. \nYang kuinginkan hanyalah terus berlari.</i>"
+            "text": "<i>(――Tadinya aku berpikir untuk melihat bintang. \nKupikir, akan terus berlari hingga ke tempat yang jauh)</i>"
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Tapi…</i>"
+            "text": "<i>(……Tapi)</i>"
         },
         {
             "name": "???",
-            "text": "Dia pasti menunggumu, loh."
+            "text": "Pasti, dia sedang menungguku."
         },
         {
             "name": "Admire Vega",
-            "text": "Tidak, itu tidak benar, Alasanku kembali cuma karena jam malamku. \nItu saja."
+            "text": "……Bukan. Bukan seperti itu. \nAku kembali…… cuma karena jam malam. Hanya itu saja……"
         },
         {
             "name": "Admire Vega",
@@ -140,19 +140,19 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Semua usaha yang kamu lakukan untukku...\nAku tak berhak mendapatkannya."
+            "text": "……Semua usaha dan kerja kerasmu ini, seharusnya tak pantas untuk aku dapatkan."
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Ada Umamusume yang berbeda yang pantas mendapatkan semua ini. \nYang seharusnya bersinar seperti bintang yang gemerlap.</i>"
+            "text": "<i>(……Benar. Umamusume yang lebih pantas menerima ini…… ada di tempat lain. \nSosok yang seharusnya bersinar terang…… bagaikan bintang yang berkilau――)</i>"
         },
         {
             "name": "Admire Vega",
-            "text": "Adikku... yang, tercinta..."
+            "text": "Adikku……yang tercinta……"
         },
         {
             "name": "",
-            "text": "Sepertinya ada seseorang menyelimutiku dengan selimut.\nAku tidak membuka mataku, tapi dalam tidurku, aku mendengar \nlangkah kaki yang samar."
+            "text": "Seseorang menyelimutkan selimut yang tadinya ada di atas sofa ke tubuhku. \nKehangatan yang begitu nyaman membuatku enggan membuka mata, dan di balik alam mimpi, aku mendengarkan langkah kaki yang perlahan berjalan menjauh."
         }
     ]
 }

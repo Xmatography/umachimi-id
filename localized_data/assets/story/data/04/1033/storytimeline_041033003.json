@@ -1,40 +1,40 @@
 {
-    "title": "Cahaya Yang Terkikis",
+    "title": "Cahaya yang Terkikis",
     "text_block_list": [
         {
             "name": "Admire Vega",
-            "text": "Balapan seleksi akan dimulai besok…",
+            "text": "<i>(Balapan seleksi, akan dimulai besok……)</i>",
             "italic": true
         },
         {
             "name": "Admire Vega",
-            "text": "Maaf sudah membuatmu menunggu… Tapi tunggu... \nTunggu sebentar lagi."
+            "text": "……Maaf sudah membuatmu menunggu. \nTapi, tunggu……Tunggu sebentar lagi."
         },
         {
             "name": "Admire Vega",
-            "text": "Aku akan memenangkannya, lalu balapan debut…\nLalu aku akan mendedikasikan banyak kemenangan untukmu."
+            "text": "Besok, aku pasti akan menang dalam debutku…… \nAkan kupersembahkan, banyak kemenangan untukmu."
         },
         {
             "name": "Admire Vega",
-            "text": "Kakakmu akan berusaha sebisanya."
+            "text": "――Kakakmu, akan berusaha sekuat tenaga."
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Apakah itu kamu…?"
+            "text": "Apakah itu kamu……?"
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Kamu yang sangat ingin balapan? Kamu yang begitu ingin menang? \nApakah kamu yang ingin bersenang-senang? Dan… apakah kamu \nyang merasa begitu kesepian…?"
+            "text": "Keinginan berlari itu. Perasaan ingin menang itu. Rasa gembira itu. \n……Begitu pula rasa kesepian ini."
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Apakah itu adalah dirimu? Hei…"
+            "text": "Apakah, itu adalah dirimu? Hei――"
         },
         {
-            "text": "Hari balapan Seleksi Admire Vega akhirnya tiba. Banyak Trainer berkumpul di tribun penonton, mata mereka penuh antisipasi."
+            "text": "――Hingga akhirnya, hari balapan Seleksi Admire Vega pun tiba. Banyak Trainer berkumpul di tribun penonton, pandangan mereka dipenuhi oleh ekspetasi dan harapan besar."
         },
         {
-            "text": "Aku juga sangat bersemangat untuk melihat balapan Admire Vega…"
+            "text": "Aku juga sangat menaruh harapan besar pada Admire Vega, tetapi……"
         },
         {
             "name": "Admire Vega",
@@ -46,36 +46,36 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Aku pasti akan menang."
+            "text": "……Aku pasti, akan menang."
         },
         {
-            "text": "Setelah malam itu, aku tidak bisa menahan rasa khawatir padanya.",
+            "text": "Setelah malam itu, dia tampak begitu rapuh dan aku tidak bisa menahan rasa khawatir padanya.",
             "choice_data_list": [
                 "(Entah kenapa, aku jadi khawatir)"
             ]
         },
         {
-            "text": "Namun terlepas dari kekhawatiran ini, balapan dimulai tanpa hambatan!"
+            "text": "Namun, terlepas dari kekhawatiran itu, balapan pun resmi dimulai――!"
         },
         {
-            "text": "(Woooooh!!)"
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Hah, hahh, haa—"
+            "text": "(WOOOOOOOHHHH!!)"
         },
         {
             "name": "Admire Vega",
-            "text": "Aku akan menang… Aku harus menang.",
+            "text": "Hah, hahh, haa――"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>(Aku pasti akan menang…… Bagaimanapun caranya, aku harus menang)</i>",
             "italic": true
         },
         {
             "name": "Admire Vega",
-            "text": "Waktu itu, aku baru tahu bahwa bisa saja aku atau adik \nperempuanku yang berakhir menjadi korban kala itu."
+            "text": "Waktu itu, setelah kucari tahu sendiri belakangan ini, aku baru paham…… situasinya begitu kritis hingga tak heran bahwa bisa saja aku atau adik perempuanku yang menjadi korbannya."
         },
         {
             "name": "Admire Vega",
-            "text": "Aku hidup hanya karena kebetulan. Atau mungkin… Hidupku hanyalah keajaiban yang ditinggalkan adik perempuanku."
+            "text": "Kenyataan bahwa aku selamat adalah sebuah kebetulan. Atau mungkin…… \nsebuah keajaiban yang diberikan oleh adikku."
         },
         {
             "name": "Admire Vega",
@@ -83,86 +83,86 @@
         },
         {
             "name": "Komentator",
-            "text": "Mereka akhirnya melewati tikungan keempat dan memasuki lintasan lurus terakhir! Nomor 9 keluar dari grup dan memimpin jauh. Unggulan dalam balapan ini, Admire Vega, berada di posisi ke-5!"
+            "text": "――Nah, sekarang mereka memasuki tikungan ke-4 dan tiba di lurusan terakhir! \nPemimpin di posisi terdepan adalah nomor 9, sementara sang bintang utama Admire Vega saat ini berada di posisi ke-5!"
         },
         {
             "name": "Admire Vega",
-            "text": "Hahh, haa, guuuh…!"
+            "text": "Hahh, haa, ughh……!"
         },
         {
             "name": "Trainer Junior A",
-            "text": "Admire Vega tampaknya terkepung…! Apakah dia tidak berhasil mendapatkan posisi yang bagus?"
+            "text": "Admire Vega, tampaknya terkepung……! \nApakah Posisinya terdesak, dan dia kesulitan untuk keluar?"
         },
         {
             "name": "Admire Vega",
-            "text": "Tidak… Tidak! Aku tidak akan dimaafkan jika tidak menang!! \nTapi, aku…!!",
+            "text": "<i>(Tidak……Tidak boleh! Aku tidak menerima apa pun selain kemenangan!! \nKarena, aku ini…!!)</i>",
             "italic": true
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Kamu… sangat mencintai lari, ya? Kamu benar-benar ingin balapan dan menang, bukan?"
+            "text": "Pasti…… kamu itu sangat suka berlari, kan? \nSebenarnya, kamu ingin berlari dan meraih kemenangan, kan?"
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Kalau begitu… Aku…"
+            "text": "Kalau begitu, ……kalau begitu……aku akan."
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Akan mengabulkan keinginanmu."
+            "text": "Aku akan mewujudkan semuanya untukmu."
         },
         {
             "name": "Ayabe Kecil",
-            "text": "Kakakmu… akan…!!"
+            "text": "Kakakmu ini akan……!!"
         },
         {
             "name": "Admire Vega",
-            "text": "Aku akan terus berlari, aku akan terus menang! Dan aku akan terus membawa kejayaan untuknya!",
+            "text": "<i>(Aku akan terus berlari, terus menang! Akan kupersembahkan seluruh kemenangan ini untuknya!)</i>",
             "italic": true
         },
         {
             "name": "Admire Vega",
-            "text": "Satu-satunya alasan. Satu-satunya alasan aku hidup adalah \nuntuk ini!",
+            "text": "<i>(Karena itulah aku――hanya demi itulah! \nAku masih tetap hidup sampai detik ini……!)</i>",
             "italic": true
         },
         {
             "name": "Admire Vega",
-            "text": "…… Aaaaaaaaahh!!"
+            "text": "……AAAAAAAAAHHHH!!"
         },
         {
             "name": "Komentator",
-            "text": "Admire Vega dengan cepat dan lincah memotong barisan dan maju ke depan! Posisi ke-3, ke-2, dan ke-1! Sungguh kekuatan yang luar biasa dahsyat!!"
+            "text": "Menusuk tajam ke jalur dalam, Admire Vega terus melesat maju! \nSaat ini posisi ke-3…… ke-2, ke-1! Lu-luar biasa sekali kekuatan akselerasinya!!"
         },
         {
             "name": "Trainer Senior A",
-            "text": "Eh? Tunggu, apa itu…",
+            "text": "Eh? Tunggu, barusan itu apa――",
             "choice_data_list": [
                 "……！"
             ]
         },
         {
             "name": "Komentator",
-            "text": "Dan gol!! Pemenang balapan seleksi ini adalah Admire Vega! Admire Vega telah menang!"
+            "text": "GOAALLL!! \nJuara pertama balapan seleksi ini adalah Admire Vega! Admire Vega!"
         },
         {
-            "text": "Kecepatan mengerikan yang dia tunjukkan di akhir lintasan lurus terakhir. Para penonton begitu terharu oleh kekuatannya hingga mereka tak bisa menahan diri untuk bersorak."
+            "text": "Kecepatan mengerikan yang dia tunjukkan di lurusan terakhir. Seluruh stadion pun bersorak gemuruh karena dihebohkan oleh kekuatannya yang luar biasa."
         },
         {
-            "text": "Lalu terdengar gumaman yang meresahkan."
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Haah, haahh, haaaah—"
-        },
-        {
-            "name": "Petugas Balapan Seleksi A",
-            "text": "Ini adalah pengumuman mengenai balapan terbaru. Karena pergerakan diagonalnya di lintasan lurus terakhir, Admire Vega diturunkan ke posisi ke-4."
+            "text": "Tak lama kemudian, seluruh area pun diselimuti oleh bisikan-bisikan ketegangan yang meresahkan."
         },
         {
             "name": "Admire Vega",
-            "text": "Haa… gh……"
+            "text": "Haah, haahh, haaaah――"
         },
         {
-            "text": "Hari itu, tidak ada Trainer yang mendekati Admire Vega dan dia meninggalkan tempat itu, sendirian."
+            "name": "Staf Balapan A",
+            "text": "Pengumuman terkait hasil balapan yang baru saja berlangsung. Dikarenakan melakukan pelanggaran jalur di lurusan terakhir, Admire Vega diturunkan posisinya menjadi peringkat ke-4!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Haa, ghh…………"
+        },
+        {
+            "text": "……Pada hari itu, Admire Vega tidak berbicara dengan Trainer mana pun, \ndan melangkah pergi meninggalkan tempat itu sendirian."
         }
     ]
 }
