@@ -72,6 +72,16 @@
         },
         "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogDirectoryRewardList(Clone)/FlickHandler/CategoryScrollView/ViewPort/Content/TotalScore/utx_txt_base_04_sl/歴代評価点":{
             "horizontal_overflow": 1
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeCharacterView(Clone)/ContentsRoot/PartsEpisodeList/BottomListBaseL/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/CampaignLabel_LeftSide/CampaignText": {
+            "position_target_ancestor": 1,
+            "position_offset_x": 30
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/MyPageHomeTopUI(Clone)/BottomButtonRoot/JobTweenRoot/PartsJobsButton/Button/Label": {
+            "horizontal_overflow": 0,
+            "vertical_overflow": 1,
+            "sizedelta_x": 120.0,
+            "line_spacing": 0.5
         }
     }
 }

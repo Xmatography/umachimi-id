@@ -3807,13 +3807,20 @@
         "220001": "Sedang ada Obral Terbatas loh! Jangan sampai ketinggalan♪",
         "220002": "Obral Terbatas akan segera berakhir. Apakah kamu lupa beli sesuatu?",
         "220003": "Hehe, terima kasih atas penukarannya, ya ♪",
-        "220004": "Mohon maaf, sepertinya kami kehabisan stok :(",
-        "220005": "Selamat anniversary pertama! kami punya toko khusus anniversary, Silakan dilihat-lihat! ♪",
-        "220006": "Toko anniversary kami tutup hari ini. Pastikan kamu mendapatkan item yang diincar sebelum menghilang!",
+        "220004": "Mohon maaf, sepertinya stoknya sudah habis.",
+        "220005": "Selamat anniversary pertama!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
+        "220006": "Hari terakhir Toko anniversary!\nPastikan kamu tidak melewatkan barang yang ingin dibeli.",
+        "220007": "Toko anniversary telah dibuka!\nSilakan mampir, ya♪",
+        "220008": "Selamat anniversary ke-2!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
+        "220009": "Selamat anniversary ke-3!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
+        "220010": "Selamat anniversary ke-4!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
+        "220011": "Selamat anniversary ke-5!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
+        "220012": "Selamat anniversary ke-6!\nToko khusus anniversary telah dibuka! Silakan mampir, ya♪",
         "230000": "Ayo perbarui rekor dan tingkatkan level arsipmu!",
         "230001": "Kamu akan mendapat hadiah saat level arsip naik. Teruskan kerja kerasmu!",
         "230002": "Selamat! Level arsipmu meningkat",
         "230003": "Oh, ada yang bisa saya bantu?",
+        "240001": "$(scale 80)Jika bergabung dengan Sirkel,\nkamu bisa berinteraksi dengan\nanggota lain dan saling bantu\ndalam melatih Umamusume!",
         "250000": "Disini, Kartu Support bisa \ndikonversikan menjadi Tapal. \nTapal dari hasil konversi bisa \nuntuk menukar item.",
         "250001": "Disini, Piece bisa dikonversi jadi\nSemanggi. Semanggi dari hasil\nkonversi bisa untuk menukar item.",
         "260000": "Jika kamu mentransfer Umamusume yang sesuai kriteria ke tim lain melalui \"Transfer Request\", kamu akan menerima hadiah!",
@@ -3823,15 +3830,16 @@
         "400015": "Apakah kamu ingin mengenang kembali event sebelumnya?",
         "400020": "Apakah kamu ingin mengenang kembali kenangan indah bersama para Umamusume?",
         "400021": "Catatan perayaan... Ini juga sangat berkesan bagi saya. ♪",
-        "500002": "Kamu bisa memasukan tiga pelari ke balapan Room Match!",
-        "500003": "Kamu bisa menyimpan hasil Room Match sampai lima balapan!",
-        "240001": "$(scale 80)Jika bergabung dengan Sirkel,\nkamu bisa berinteraksi dengan\nanggota lain dan saling bantu\ndalam melatih Umamusume!",
-        "500005": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
-        "500001": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
-        "500000": "Di Room Match, kamu bisa\nbebas mengatur kondisi dan\npenyelenggaraan balapan, lho!",
         "400025": "Disini, kamu bisa menonton video movie, lho！",
         "400027": "Kamu bisa menonton ulang adegan-adegan berkesan yang ada di dalam event, lho！",
-        "400120": "Ada banyak event yang menyenangkan ya."
+        "400120": "Ada banyak event yang menyenangkan ya.",
+        "500000": "Di Room Match, kamu bisa\nbebas mengatur kondisi dan\npenyelenggaraan balapan, lho!",
+        "500001": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
+        "500002": "Kamu bisa memasukan tiga pelari ke balapan Room Match!",
+        "500003": "Kamu bisa menyimpan hasil Room Match sampai lima balapan!",
+        "500005": "Dengan ID Balapan, kamu bisa\nmenikmati balapan bersama \ndengan Trainer lainnya, lho!",
+        "500006": "Kamu bisa memasukan tiga pelari ke balapan Room Match!",
+        "500007": "Kamu bisa menyimpan hasil Room Match sampai lima balapan!"
     },
     "9002": {
         "20051": "Berlatihlah dengan tekun! Ayo, kita gasskeun!",
@@ -3857,17 +3865,5 @@
         "700002": "Jangan lupa untuk menukarkan Koin Trial!",
         "910000": "Lawan yang kuat! Aku menantikan balapan yang penuh semangat!",
         "920000": "Gasskeun"
-    },
-    "1130": {
-        "20022": "…Dengerin nya, abdi teh teu hayang keliatan loyo terus ngemaluin diri sorangan kitu. Sakitu ge maneh ngarti lah?",
-        "20021": " …Serius maneh ngomongna? Ih, eta mah keterlaluan pisan… Melanggar aturan namanya eta teh."
-    },
-    "1097": {
-        "20021": "Sepertinya... aku sudah membiarkan dia mengamuk sedikit terlalu jauh... Kalau cara untuk mengendalikannya sudah hilang... aku tidak tahu... apa yang akan terjadi...",
-        "20022": "...Aku sudah tidak... mengerti lagi...\nMonster yang mengamuk liar, aku yang berusaha menahannya...\nYang asli... yang mana...?"
-    },
-    "1092": {
-        "20022": "Kalau bintang utama mungkin bisa melewatinya... tapi... maaf... aku... tetap saja tidak sanggup, ya...",
-        "20021": "Aku... aku rasa masih bisa berusaha. ...Rasa sih... tapi... apa ini... memang jalan menuju bintang utama...?"
     }
 }
