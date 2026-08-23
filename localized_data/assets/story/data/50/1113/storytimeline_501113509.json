@@ -1,0 +1,20 @@
+{
+    "text_block_list": [
+        {
+            "text": "Hari itu, Fusaichi Pandora terlihat tidak bersemangat,\ndan anehnya sangat pendiam......",
+            "choice_data_list": [
+                "......Kamu baik-baik aja?",
+                "......Baik-baik aja?"
+            ]
+        },
+        {
+            "text": "..........Iya."
+        },
+        {
+            "text": "A..........nggak, nggak papa."
+        },
+        {
+            "text": "Fusaichi Pandora mungkin sudah sangat kelelahan\nkarena balapan yang terus-terusan......\nSepertinya jadwal ke depan perlu ditinjau ulang."
+        }
+    ]
+}

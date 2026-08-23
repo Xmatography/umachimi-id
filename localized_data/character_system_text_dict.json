@@ -320,7 +320,9 @@
         "140011": "Whoa…!",
         "410001": "Yes!",
         "410004": "Fufu",
-        "410005": "Fufu"
+        "410005": "Fufu",
+        "20021": "Balapan lagi...?\nCoba jelaskan logikamu dong.\nKalau nggak, aku nggak terima!",
+        "20022": "Jangan bilang balapan lagi deh?\nEmangnya kamu udah pikirin jadwalnya beneran?\nKayak orang bego yang cuma tau satu hal aja!"
     },
     "1010": {
         "11": "Cygames",
@@ -1153,7 +1155,9 @@
     },
     "1035": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Ha, ada balapan lagi!?\nBelakangan ini banyak banget ya!?\nBerlari sih menyenangkan tapi... ugh, hmm.",
+        "20022": "Ugh...! Terlalu sering ikut balapan\nRasanya nggak bisa lari dengan baik...! Uwooo!\nAku ini lemah banget deh!!"
     },
     "1036": {
         "11": "Cygames",
@@ -3656,7 +3660,9 @@
     },
     "1113": {
         "11": "Cygames",
-        "12": "Umamusume: Pretty Derby!"
+        "12": "Umamusume: Pretty Derby!",
+        "20021": "Lagi-lagi balapan...!?\n...Eh. Jangan-jangan ngurus aku terlalu banyak sampe... kamu kenapa-kenapa ya...?",
+        "20022": "Aku janji nggak minta-minta mulu.\nNggak pilih-pilih makanan. Nggak tidur di kelas.\n...Jadi tolong kembalilah ke waras dooong!"
     },
     "1114": {
         "11": "Cygames",
