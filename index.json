@@ -1160,12 +1160,12 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "db27736ffcbf38baeb75202172c103918f32336aad54559bf1132c16bd1162cc",
-      "size": 462007
+      "hash": "44973b32c43bd543f6b72adb17996b43aa1fb7e6d5b06d082dd808d07f7d149d",
+      "size": 485630
     },
     {
       "path": "assets/atlas/common/common.json",
-      "hash": "df7e8d190971f215ea436b34dcde8921908d82c0bc84193aeaafb41a74dfbe90",
+      "hash": "1ebf0d9943618d76e769a7fd20c073d4cc9bd78fec9dee82dce2a9db46964f25",
       "size": 166
     },
     {
@@ -1210,8 +1210,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "409f5c4e21f4edaf6d83e120fe5d26ac6616b19b6db29c0c3844506b8b89111e",
-      "size": 261198
+      "hash": "fa0ba0074bab20e129d0cdb554e25f46610a3a21c9840b50405f9bdac85cb653",
+      "size": 262470
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -1460,12 +1460,12 @@
     },
     {
       "path": "assets/atlas/singlestart/singlestart.diff.png",
-      "hash": "afaa11354063c953b320a6505259eb0f4a2ce3e938846f6a0dcfcc9ca337e97f",
-      "size": 63719
+      "hash": "42e3d9bc7580906e7de5b89eb72ca9f7b6fe4275ab0cdd5d00f8cb9aabb387ce",
+      "size": 151607
     },
     {
       "path": "assets/atlas/singlestart/singlestart.json",
-      "hash": "749af68822cb9bf6f48ec20b4f6e4aa8aa9b8c2679c8f637448ced36f54db340",
+      "hash": "78faa50740b5e06ab9fbcbfb87cea00a4310f35804e4f4441ce8a0446ac91518",
       "size": 166
     },
     {
@@ -18565,7 +18565,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_chararesult00.json",
-      "hash": "02d2a22a73b033920e908beef07844c5eabd834da3532f0eba398b5c17cf5a97",
+      "hash": "4840e3055a7fc3249d447543d745ba7b697fd71045eaea81d0dd7ec7baa02191",
       "size": 166
     },
     {
