@@ -1,7 +1,19 @@
 # Dukung kami dengan ikut berkontribusi atau berdonasi via QRIS!
-Untuk dukungan dan info lainnya kunjungi -> umachimi.carrd.co
+Untuk dukungan dan info lainnya kunjungi:
+-> umachimi.carrd.co <-
 
-# TL UPDATE 09-07-26
+# TL UPDATE 25-08-26
+**🟢 New :**
+- Dialog system tazuna
+- Aset grafis skenario 2 (Aoharu)
+- Training Event (Daiwa Scarlet, Winning Ticket, Fusaichi Pandora, Curren Chan, Oguri Cap, Symboli Kris S, Yaeno Muteki, El Condor Pasa, MAnhattan Cafe, King Halo, Cheval Grand, Still In Love, Wonder Acute)
+
+**🟠 Improved:**
+- Perbaikan Atlas
+- Koreksi Story Admire Vega
+- Koreksi lain-lain
+
+# TL UPDATE 09-08-26
 **🟢 New :**
 - Main Story Vol.2 Chapter 3 Eps 1-4
 - Aset grafis skenario 14 (ramen)
