@@ -82,6 +82,22 @@
             "vertical_overflow": 1,
             "sizedelta_x": 120.0,
             "line_spacing": 0.5
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Small/Base/base/DialogStoryNext(Clone)/PartsEpisodeListItem/Bg/CampaignLabel_LeftSide/CampaignText": {
+            "position_target_ancestor": 1,
+            "position_offset_x": 30
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TrainerSkillView(Clone)/ContentsRoot/PartsTrainerSkillListForView/BottomContents/UIAnimationTarget/CoinRoot/Frame/Title":{
+            "position_offset_x": -20
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogTrainerSkillList(Clone)/PartsTrainerSkillListForDialog/BottomContents/CoinRoot/Frame/Title":{
+            "position_offset_x": -20
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogSingleModeScenarioList(Clone)/ScrollViewBase/ViewPort/Content/PartsSingleModeScenarioListItem(Clone)/Base/ScenarioRecordRibbon/Score":{
+            "font_size": 35
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/SingleModeStartView(Clone)/OverSafeAreaContentsRoot/SingleModeStartStepRouteSelect(Clone)/ScenarioRecordRibbon/Score":{
+            "font_size": 35
         }
     }
 }
