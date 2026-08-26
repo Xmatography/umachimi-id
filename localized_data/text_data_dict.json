@@ -2855,6 +2855,7 @@
     "296": "Limit Obral Terbatas",
     "304": "Tiket Umamusume Warisan",
     "328": "Donat Old-Fashioned",
+    "333": "Ability Pt",
     "1001": "Poin Scout",
     "1002": "Poin Scout",
     "1003": "Poin Scout",
@@ -3403,6 +3404,7 @@
     "272": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
     "287": "Bongkahan emas. Satu buah harganya 10 juta",
     "296": "Meningkatkan jumlah Obral Terbatas per hari secara permanen",
+    "333": "Kekuatan misterius yang mengeluarkan kemampuan Trainer.\nDapat digunakan untuk mengaktifkan Trainer Ability.",
     "1001": "<size=22>Dapated from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
     "1002": "<size=22>Dapated from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
     "1003": "<size=22>Dapated from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
@@ -18577,7 +18579,9 @@
     "257": "You can check the items you currently have. You can also use \\nconsumable items. Some items can be converted to Money. \\n<color=#ff9900>Converting items cannot be undone</color>, so be careful.",
     "361": "$(scale 90)Dalam Latihan Mandiri, kamu harus menentukan dahulu fokus latihan serta jadwal balapan sebelum memulai karir, dan <color=#ff9900>proses karir akan selesai secara otomatis</color> seiring berjalannya waktu.\n※ Mode ini memiliki sistem unik, latihan dan event akan berjalan otomatis dengan sendirinya hingga karir selesai.",
     "362": "Tidak hanya bisa melatih karakter di waktu luang, kamu juga bisa kembali ke menu utama untuk menonton cerita, bermain mode balapan, dan <color=#ff9900>menghabiskan waktu dengan bebas</color> selama Latihan Mandiri berlangsung！",
-    "378": "Kamu bisa beralih antara mode 'Karir Normal' dan 'Latihan Mandiri' pada tab di pesan konfirmasi akhir！"
+    "374": "Dengan menggunakan <color=#ff911c>Ability Pt</color>, kamu dapat mengaktifkan <color=#ff911c>Trainer Ability</color> yang memiliki berbagai efek berguna untuk karir selama <color=#ff911c>jangka waktu tertentu</color>.\\nAktifkan kemampuan yang sesuai dengan tujuan karirmu, dan ayo latih Umamusume!",
+    "378": "Kamu bisa beralih antara mode 'Karir Normal' dan 'Latihan Mandiri' pada tab di pesan konfirmasi akhir！",
+    "383": "Ability Pt bisa didapatkan melalui Training Pass dan berbagai event dalam game.\nSelain itu, dengan membeli Premium Pass, kamu bisa mendapatkan Ability Pt dengan jumlah yang lebih banyak."
   },
   "64": {
     "6": "Hadiah dari \"{0}\".",
@@ -33393,6 +33397,7 @@
     "24": "kuncup bunga menunggu musim semi",
     "25": "Optimis",
     "26": "Konstitusi yang beruntung",
+    "40": "Rajin Belajar",
     "100": "Zona Gairah: Tim Sirius",
     "101": "Gairah Zona: Kumpulan Tahta",
     "102": "Zona Gairah: Leluhur & Pemandu",
@@ -33425,6 +33430,7 @@
     "24": "Your legs cannot yet withstand the strain of racing, so participating in races may lead to exhaustion.",
     "25": "Menjaga mood dengan mental yang tangguh!\nMencegah penurunan mood 1x, lalu akan menghilang.",
     "26": "Hari ini kayaknya lagi hoki!\nmenyembuhkan dari kondisi buruk akan menghilangkan\nkondisi keberuntungan ini",
+    "40": "Sikap rajin belajar terhubung menjadi kekuatan!\nMendapatkan petunjuk untuk berbagai macam strategi.",
     "100": "Can carry out Friendship Training with Team Sirius and is immune to Insomnia as well as Lazy Habit.",
     "101": "Can carry out Friendship Training with The Throne's Assemblage and is immune to Insomnia and Lazy Habit.",
     "102": "Can carry out Friendship Training with Ancestors & Guides and is immune to Insomnia and Lazy Habit.",
@@ -54371,6 +54377,26 @@
     "1": "Mie",
     "2": "Kuah",
     "3": "Topping"
+  },
+  "470": {
+    "1": "Efek Perlindungan Mental",
+    "2": "Efek Semangat Pemulihan",
+    "3": "Peningkatan Jumlah Ulang Balapan",
+    "4": "Peluang Tambahan Spark Umum",
+    "5": "Penguatan Perolehan Spark",
+    "6": "Peningkatan Bonus Kecocokan",
+    "7": "Aktivasi Spark Unik",
+    "8": "Efek Rajin Belajar"
+  },
+  "471": {
+    "1": "Mendapatkan 2 kondisi yang dapat mencegah\npenurunan mood sebanyak satu kali.",
+    "2": "Mendapatkan 1 kondisi yang dapat melindungi\ndari kondisi buruk sebanyak satu kali.",
+    "3": "Menambah batas mengulang balapan sebanyak 10 kali.",
+    "4": "Saat mendapatkan Spark, secara acak dapatkan hingga 3 Spark Umum\nyang belum diperoleh yang termasuk dalam kandidat perolehan.",
+    "5": "Saat mendapatkan Spark, secara acak meningkatkan hingga 5\nSpark ★1 atau ★2 yang diperoleh menjadi ★3.",
+    "6": "Meningkatkan bonus kecocokan sebesar 10 untuk Umamusume yang\nsedang dilatih dan masing-masing Umamusume pewaris.",
+    "7": "Saat event inspirasi di tingkat Senior, secara acak mengaktifkan\nhingga 1 Faktor Unik tambahan dari Umamusume pewaris.",
+    "8": "Mendapatkan kondisi yang mengurangi penggunaan\nPoin Skill sebesar 4% untuk mempelajari skill."
   },
   "484": {
     "1": "$(nb)Inilah, Ramen Shoyu spesial yang disajikan\ndengan rasa syukur sepenuh mangkuk!",
