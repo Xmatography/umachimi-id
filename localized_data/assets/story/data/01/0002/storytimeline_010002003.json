@@ -2,18 +2,18 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "You've met some wonderful Umamusume! \nBefore we get to training, look at this!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "I will also be explaining \nthe support card gacha.",
             "color_text_info_list": [
                 "support card"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Let's switch over to the support gacha!"
         }
     ]

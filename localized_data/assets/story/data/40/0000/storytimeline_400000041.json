@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Good job, trainer! You are\nworking hard every day."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "By the way… it's finally that\ntime of year again!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "It's almost time for the annual\n\"Summer Camp\" at Tracen Academy!",
             "choice_data_list": [
                 "Summer Camp…!"
@@ -20,21 +20,21 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is a different kind of training,\nwhere you stay overnight at the\nfacility…",
             "color_text_info_list": [
                 "a different kind of training"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "I'm sure your Umamusume will\ngrow even more than usual!",
             "color_text_info_list": [
                 "grow even more"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "… So please make sure she's in good\nshape for the summer camp in July.",
             "color_text_info_list": [
                 "July",
@@ -42,40 +42,40 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Summer camp goes by so fast! There's\nno time to take a \"break\".",
             "choice_data_list": [
                 "Yes, ma'am!"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Good reply! Hehe… I'm looking\nforward to it… Summer camp ♪"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Yes, of course, practice comes first,\nbut…"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Sometimes it's nice to take a break\nand \"go out\" to the beach!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "I'm sure it will refresh your horse\ngirl and relieve her fatigue!",
             "choice_data_list": [
                 "I see…"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "It's only a short two months\nfrom July to August, but…",
             "color_text_info_list": [
                 "from July to August"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Please spend a fruitful \"summer\ncamp\" with your Umamusume."
         },
         {
