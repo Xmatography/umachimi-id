@@ -1,11 +1,11 @@
 {
     "text_block_list": [
         {
-            "text": "Beberapa hari setelah insiden di depan Patung Tiga Dewi. Sebuah balapan eksibisi diadakan di fan event yang diselenggarakan di Tokyo Racecourse, namun—"
+            "text": "Beberapa hari setelah insiden di depan Patung Tiga Dewi. Sebuah balapan eksibisi diadakan di fan event yang diselenggarakan di Tokyo Racecourse, namun――"
         },
         {
             "name": "Nakayama Festa",
-            "text": "......Oh? Hei. Tempat para Trainer itu berkerumun di sebelah sana itu—"
+            "text": "......Oh? Hei. Tempat para Trainer itu berkerumun di sebelah sana itu――"
         },
         {
             "name": "Nakayama Festa",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Komentator",
-            "text": "――Nah, balapan eksibisi akhirnya memasuki babak akhir! Tersisa 400 meter, dari sisi luar datanglah Buena Vista! Buena Vista, larinya tajam sekali!"
+            "text": "――Nah, balapan eksibisi akhirnya memasuki babak akhir! Tersisa 400 meter, \ndari sisi luar datanglah Buena Vista! Buena Vista, larinya tajam sekali!"
         },
         {
             "name": "Trainer Veteran",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Trainer Menengah",
-            "text": "Gosipnya, balapan eksibisi kali ini dipenuhi calon bintang berbakat... Ternyata Buena Vista benar-benar menonjol di antara mereka, ya!!"
+            "text": "Gosipnya, balapan eksibisi kali ini dipenuhi calon bintang berbakat... \nTernyata Buena Vista benar-benar menonjol di antara mereka, ya!!"
         },
         {
             "name": "Komentator",
@@ -61,10 +61,10 @@
             ]
         },
         {
-            "text": "Begitu kuat, seolah-olah ditunjukkan tepat di depan mata. Sampai aku benar-benar merasakannya. Kalau dipikir lagi… waktu itu juga sama."
+            "text": "Begitu kuat, seolah-olah ditunjukkan tepat di depan mata. Sampai aku benar-benar merasakannya. Kalau dipikir lagi―― waktu itu juga sama."
         },
         {
-            "text": "Saat hari-hariku di akademi pelatihan yang kumasuki setelah belajar mati-matian, ternyata jauh lebih berat dan keras dari yang kubayangkan. Aku cuma terus terpuruk dan berjuang setengah mati.",
+            "text": "Saat keseharianku di akademi pelatihan yang kumasuki setelah belajar mati-matian, ternyata jauh lebih berat dan keras dari yang kubayangkan. Aku cuma terus terpuruk dan berjuang setengah mati.",
             "choice_data_list": [
                 "<size=39>(Seakan mimpiku menjadi Trainer begitu jauh)</size>"
             ]
@@ -73,7 +73,7 @@
             "text": "Ketika sadar―― aku sudah berdiri di depan gerbang akademi yang selalu kuimpikan. Sembari meratapi akan kelengahan diriku sendiri, mataku malah sibuk mencari dirinya."
         },
         {
-            "text": "Namun, saat itu. Tiba-tiba terdengar gemuruh sorak-sorai dari arah lapangan――"
+            "text": "Tapi, saat itu. Tiba-tiba terdengar gemuruh sorak-sorai dari arah lapangan――"
         },
         {
             "name": "Buena Vista",
@@ -159,22 +159,22 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Di antara mereka, yang paling jadi sorotan adalah Scarlet-chan, yang sudah menjuarai \"Oka-sho\" dan \"Shuka-sho\", hingga berhasil meraih gelar Double Tiara—"
+            "text": "Di antara mereka, yang paling jadi sorotan adalah Scarlet-chan, yang sudah menjuarai \"Oka-sho\" dan \"Shuka-sho\", hingga berhasil meraih gelar Double Tiara――"
         },
         {
             "name": "Buena Vista",
-            "text": "Dan meskipun dia seorang Tiara Umamusume, Vodka-chan bahkan menjadi pemenang \"Japan Derby\", balapan yang disebut sebagai impian bagi semua Umamusume."
+            "text": "Dan meskipun dia seorang Tiara Umamusume, Vodka-chan bahkan jadi pemenang \"Japan Derby\", balapan yang disebut sebagai impian bagi semua Umamusume."
         },
         {
             "name": "Buena Vista",
-            "text": "Melawan dua orang yang mewakili era tersebut, kamu akan membuatku \nyang bahkan belum debut ini akan menang lawan mereka. ...kan?",
+            "text": "Melawan dua orang yang mewakili era tersebut, kamu akan membuatku \nyang bahkan belum debut ini akan menang lawan mereka. ……kan?",
             "choice_data_list": [
                 "...Benar, tentu saja.",
                 "...Benar, tentu saja."
             ]
         },
         {
-            "text": "Makanya, aku sampai menunduk minta tolong kepadanya beberapa hari lalu, “Tolong nilai dulu, apa kita benar-benar harus tekan kontrak ini atau tidak.”"
+            "text": "Makanya, aku sampai menunduk minta tolong kepadanya beberapa hari lalu, \n\"Tolong nilai dulu, apa kita beneran harus tekan kontrak ini atau tidak.\""
         },
         {
             "name": "Buena Vista",

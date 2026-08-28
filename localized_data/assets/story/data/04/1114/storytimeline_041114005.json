@@ -23,7 +23,7 @@
             "text": "Ehehe……! Anu ya, kamu ngumpetnya pasti selalu di sini kan. \nBuu-chan hafal banget kok!"
         },
         {
-            "text": "――Tanpa sadar, aku mengingat semuanya. Hal yang dia suka, hal yang \ndia benci. Sampai kebiasaan kecilnya juga. Semuanya."
+            "text": "――Tanpa sadar, aku mengingat semuanya. Hal yang dia suka, hal yang dia benci. Sampai kebiasaan kecilnya juga. Semuanya."
         },
         {
             "text": "……Bagiku, itu sudah jadi \"hal yang wajar\"."
@@ -94,7 +94,7 @@
             "text": "(……Seminarnya udah dimulai. Tapi, aku nggak nyangka kalau Trainer-san yang bakal presentasi duluan……！)"
         },
         {
-            "text": "(Semuanya pada merhatiin. Suasananya sepi banget……\nUh～, semangat ya……！)"
+            "text": "(Semuanya pada merhatiin. Suasananya sepi banget……\nUhh～, semangat ya……！)"
         },
         {
             "name": "Trainer Menengah",
@@ -110,11 +110,11 @@
             ]
         },
         {
-            "text": "……！ L-lho……？ Dia kelihatan tenang aja……？"
+            "text": "……！ L-lho……? Dia kelihatan tenang aja……?"
         },
         {
             "name": "Trainer Pemula",
-            "text": "A-Anu, presentasi tadi benar-benar jadi pelajaran bagi saya……！ \nJadi, ada yang mau saya konsultasikan…… boleh nggak！？",
+            "text": "A-Anu, presentasi tadi benar-benar jadi pelajaran bagi saya……！ \nJadi, ada yang mau saya konsultasikan…… boleh nggak！?",
             "choice_data_list": [
                 "Boleh kok, silakan kirim ke email ini ya."
             ]
