@@ -2,29 +2,29 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "<chrname> has been seriously injured…!"
+            "text": "<chrname> mengalami cedera parah...!"
         },
         {
-            "text": "I don't know whether I should tend\nto her or push her through it…",
+            "text": "Haruskah aku menghiburnya, atau tetap tegas? Apa yang harus kulakukan...",
             "choice_data_list": [
-                "Let me tend to her",
-                "I have to be harh!"
+                "Menghiburnya",
+                "Tetap tegas!"
             ]
         },
         {
-            "text": "I decided to focus on healing her\ninjury."
+            "text": "Aku memilih untuk menghiburnya dan fokus pada pemulihan cedera."
         },
         {
-            "text": "But <chrname> couldn't move her body, and she felt\na little down…"
+            "text": "Namun <chrname> tidak bisa menggerakkan tubuhnya, dan tampaknya sedikit murung..."
         },
         {
-            "text": "There's no time to stand still! I've\ndecided to be tough on <chrname>."
+            "text": "Tidak ada waktu untuk berdiam diri!\nDengan hati yang tegar, aku memutuskan untuk tetap bersikap tegas pada <chrname>."
         },
         {
-            "text": "But as a result, she pushed herself too\nhard, and her injury worsened…"
+            "text": "Namun akibatnya, ia dipaksa melampaui batasnya, dan cederanya semakin parah... # gagal"
         },
         {
-            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
+            "text": "Namun secara ajaib, cederanya justru sembuh total dan latihan pun berjalan lancar!!"
         }
     ]
 }

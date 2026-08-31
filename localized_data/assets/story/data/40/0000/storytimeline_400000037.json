@@ -1,12 +1,12 @@
 {
+    "title": "Aku begadang terus...",
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Ada yang tidak beres<chrname>…"
+            "text": "Ada yang tidak beres dengan <chrname>..."
         },
         {
-            "text": "Ketika saya bertanya kepadanya tentang hal itu, dia\ntampak menjadi sedikit burung hantu akhir-akhir ini."
+            "text": "Ketika ditanya, ternyata ia belakangan ini agak sering begadang."
         }
-    ],
-    "title": "Aku begadang terus..."
+    ]
 }
