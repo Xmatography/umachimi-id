@@ -1,12 +1,12 @@
 {
+    "title": "Bolos...",
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "<chrname> Tidak Hadir Latihan."
+            "text": "<chrname> tidak datang latihan."
         },
         {
-            "text": "aku bertanya kepadanya tentang situasi tersebut \ndan mengatakan\nuntuk tidak membiarkan hal itu terjadi lagi, dan dia\nmeminta maaf kepadaku."
+            "text": "Setelah mendengar alasannya dan mengingatkan agar hal ini tidak terulang lagi, ia pun meminta maaf dengan sungguh-sungguh."
         }
-    ],
-    "title": "Bolos..."
+    ]
 }

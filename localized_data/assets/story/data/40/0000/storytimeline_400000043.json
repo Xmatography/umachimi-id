@@ -2,29 +2,29 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "<chrname> seems to have suffered\na minor injury…"
+            "text": "<chrname> tampaknya mengalami cedera ringan..."
         },
         {
-            "text": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I\ndo—",
+            "text": "Meski begitu, sekarang adalah masa kamp musim panas yang berharga. Nah, apa yang harus dilakukan—",
             "choice_data_list": [
-                "Make sure she takes a break",
-                "Have her tough it out"
+                "Istirahat total",
+                "Tetap lanjutkan"
             ]
         },
         {
-            "text": "I decided to make sure that she\nwould focus on her treatment."
+            "text": "Diputuskan untuk fokus pada perawatan dan pemulihan."
         },
         {
-            "text": "<chrname> couldn't move her body\nand felt a little down…"
+            "text": "<chrname> tidak bisa menggerakkan tubuhnya, dan tampaknya sedikit murung..."
         },
         {
-            "text": "I decided to give <chrname> some\nencouragement and tried to continue on—"
+            "text": "Di sini, aku memilih untuk menyemangati <chrname> dengan penuh semangat dan mendorongnya untuk terus berusaha—"
         },
         {
-            "text": "But it failed! The injury seems\nto have gotten worse…"
+            "text": "Namun, ternyata gagal!\nCederanya justru semakin parah..."
         },
         {
-            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
+            "text": "Namun secara ajaib, cederanya justru sembuh total dan latihan pun berjalan lancar!!"
         }
     ]
 }
