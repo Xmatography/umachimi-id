@@ -1,103 +1,381 @@
 {
     "text_properties_overrides": {
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText": {
+        "/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText": {
             "position_offset_x": -165,
             "text_override": "$(nb)Memasuki gerbang start..."
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText/ProgressValueText": {
+        "/TitleView(Clone)/ContentsRoot/ProgressRoot/ProgressLabelText/ProgressValueText": {
             "position_offset_x": 330
         },
         "/SingleModeTextController/TextFrame/WindowBase/StroryTextLabel": {
             "position_offset_y": 12
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/StroryTextLabelBase/StroryTextLabel": {
+        "/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/StroryTextLabelBase/StroryTextLabel": {
             "position_offset_y": 30,
             "position_target_ancestor": 2
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/NameBase/NameLabel": {
+        "/StoryView(Clone)/ContentsRoot/LandscapeTextController/TextFrameLandscape/WindowBase/NameBase/NameLabel": {
             "position_offset_y": 3,
             "font_size": 38
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/RaceMainView(Clone)/StoryRaceUI(Clone)/ContentsRoot/Landscape/UI/EpisodeText/Txt_message/text0": {
+        "/RaceMainView(Clone)/StoryRaceUI(Clone)/ContentsRoot/Landscape/UI/EpisodeText/Txt_message/text0": {
             "position_offset_y": 30,
             "line_spacing": 0.65
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/RaceTagRoot/Label": {
+        "/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/RaceTagRoot/Label": {
             "position_target_ancestor": 1,
             "position_offset_x": 30
         },
-       "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/LayoutGroup/ストーリー名７８９０１２３": {
+       "/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/LayoutGroup/ストーリー名７８９０１２３": {
            "font_size": 30
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/Footer/LikeAnimation/PartsJukeboxLike(Clone)/TextCommon": {
+        "/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/Footer/LikeAnimation/PartsJukeboxLike(Clone)/TextCommon": {
             "text_override": "$(nb)kali"
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Header/Label":{
+        "/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Header/Label":{
             "font_size": 25,
             "sizedelta_x": 300.0
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Text":{
+        "/DialogCharacterNoteProfile(Clone)/ScrollViewBase/ViewPort/Content/PartsCharacterNoteProfileItem(Clone)/Texts/PartsCharacterNoteProfileText(Clone)/Text":{
             "font_size": 32,
             "sizedelta_x": 700.0
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/DialogCharacterNoteProfile(Clone)/PartsCharacterNoterProfileHeader/VoiceActoress/VoiceActorText": {
+        "/DialogCharacterNoteProfile(Clone)/PartsCharacterNoterProfileHeader/VoiceActoress/VoiceActorText": {
             "font_size": 30,
             "sizedelta_x": 300.0
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffect/Base/Text": {
+        "/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffect/Base/Text": {
             "text_override": "Ketika OFF, beberapa kostum tertentu tidak akan diganti secara otomatis saat kondisi tertentu terpenuhi.\n<color=#ff911c>Perubahan akan diterapkan pada karir berikutnya</color>."
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffectSetting/Base/Text": {
+        "/DialogOptionHome(Clone)/TabContentRoot/PartsOptionPageSingleMode/ScrollViewBase/ViewPort/Content/ScenarioBreedersDressChangeOption/PartsOptionItemInfo_ShowSpecialEffectSetting/Base/Text": {
             "text_override": "Ketika OFF, pesan konfirmasi untuk penggantian kostum tidak akan ditampilkan lagi."
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/MissionView(Clone)/ContentsRoot/PartsMissionList/BottomListBaseL/ScrollView/ViewPort/Content/DialogMissionListItem(Clone)/Bg/Title": {
+        "/HomeHubView(Clone)/MissionView(Clone)/ContentsRoot/PartsMissionList/BottomListBaseL/ScrollView/ViewPort/Content/DialogMissionListItem(Clone)/Bg/Title": {
             "best_fit": true,
             "min_size": 26,
             "max_size": 36,
             "extents_x": 570.0,
             "extents_y": 90.0
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TipsCharaView(Clone)/ContentsRoot/BottomListBaseL/ScrollView/ViewPort/Content/GossipScrollItem(Clone)/GossipContentList/PartsGossipListItem(Clone)/TextGroup/GossipContent":{
+        "/TipsCharaView(Clone)/ContentsRoot/BottomListBaseL/ScrollView/ViewPort/Content/GossipScrollItem(Clone)/GossipContentList/PartsGossipListItem(Clone)/TextGroup/GossipContent":{
             "best_fit": true,
             "min_size": 20,
             "max_size": 31,
             "extents_x": 750.0,
             "extents_y": 70.0
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/CharacterNoteTopView(Clone)/ContentsRoot/RankScoreRoot/PartsCharacterNoteRankScore/NextLevelRoot/NextRankScore": {
+        "/CharacterNoteHubView(Clone)/CharacterNoteTopView(Clone)/ContentsRoot/RankScoreRoot/PartsCharacterNoteRankScore/NextLevelRoot/NextRankScore": {
             "position_offset_y": -15
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/CharacterNoteHubView(Clone)/DirectoryView(Clone)/ContentsRoot/PartsCharacterNoteRankScore/NextLevel/NextRankScore": {
+        "/CharacterNoteHubView(Clone)/DirectoryView(Clone)/ContentsRoot/PartsCharacterNoteRankScore/NextLevel/NextRankScore": {
             "position_offset_y": -15
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogDirectoryRewardList(Clone)/FlickHandler/CategoryScrollView/ViewPort/Content/TotalScore/utx_txt_base_04_sl/歴代評価点":{
+        "/DialogDirectoryRewardList(Clone)/FlickHandler/CategoryScrollView/ViewPort/Content/TotalScore/utx_txt_base_04_sl/歴代評価点":{
             "horizontal_overflow": 1
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/EpisodeCharacterView(Clone)/ContentsRoot/PartsEpisodeList/BottomListBaseL/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/CampaignLabel_LeftSide/CampaignText": {
+        "/EpisodeCharacterView(Clone)/ContentsRoot/PartsEpisodeList/BottomListBaseL/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/CampaignLabel_LeftSide/CampaignText": {
             "position_target_ancestor": 1,
             "position_offset_x": 30
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/MyPageHomeTopUI(Clone)/BottomButtonRoot/JobTweenRoot/PartsJobsButton/Button/Label": {
+        "/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/MyPageHomeTopUI(Clone)/BottomButtonRoot/JobTweenRoot/PartsJobsButton/Button/Label": {
             "horizontal_overflow": 0,
             "vertical_overflow": 1,
-            "sizedelta_x": 120.0,
+            "sizedelta_x": 115.0,
             "line_spacing": 0.5
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Small/Base/base/DialogStoryNext(Clone)/PartsEpisodeListItem/Bg/CampaignLabel_LeftSide/CampaignText": {
+        "/DialogStoryNext(Clone)/PartsEpisodeListItem/Bg/CampaignLabel_LeftSide/CampaignText": {
             "position_target_ancestor": 1,
             "position_offset_x": 30
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/TrainerSkillView(Clone)/ContentsRoot/PartsTrainerSkillListForView/BottomContents/UIAnimationTarget/CoinRoot/Frame/Title":{
+        "/TrainerSkillView(Clone)/ContentsRoot/PartsTrainerSkillListForView/BottomContents/UIAnimationTarget/CoinRoot/Frame/Title":{
             "position_offset_x": -20
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogTrainerSkillList(Clone)/PartsTrainerSkillListForDialog/BottomContents/CoinRoot/Frame/Title":{
+        "/DialogTrainerSkillList(Clone)/PartsTrainerSkillListForDialog/BottomContents/CoinRoot/Frame/Title":{
             "position_offset_x": -20
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/NoImageEffectGameCanvas/DialogCanvas/DialogCommon(Clone)/Mask/CircleMask/ContentsRoot/Big/Base/base/DialogSingleModeScenarioList(Clone)/ScrollViewBase/ViewPort/Content/PartsSingleModeScenarioListItem(Clone)/Base/ScenarioRecordRibbon/Score":{
+        "/DialogSingleModeScenarioList(Clone)/ScrollViewBase/ViewPort/Content/PartsSingleModeScenarioListItem(Clone)/Base/ScenarioRecordRibbon/Score":{
             "font_size": 35
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/SingleModeStartView(Clone)/OverSafeAreaContentsRoot/SingleModeStartStepRouteSelect(Clone)/ScenarioRecordRibbon/Score":{
+        "/HomeHubView(Clone)/SingleModeStartView(Clone)/OverSafeAreaContentsRoot/SingleModeStartStepRouteSelect(Clone)/ScenarioRecordRibbon/Score":{
             "font_size": 35
+        },
+        "/PracticeRacePaddockView(Clone)/ContentsRoot/PaddockContentsRoot/ContentsRoot/StatusAndPopular/StatusPanel/FlickObject/PartsSkillList/ScrollViewBase/ViewPort/Content/Skill(Clone)/SkillBase(Clone)/Contents/SkillName": {
+            "best_fit": true,
+            "min_size": 20,
+            "max_size": 27
+        },
+        "/CollectRaidHubView(Clone)/CollectRaidTopView(Clone)/UIBase/BottomUI/MessageTweenRoot/Message/AlartMessage/Text": {
+            "position_offset_y": -20
+        },
+        "/TeamStadiumRaceListView(Clone)/ContentsRoot/StretchContent/BottomListBase/PartsTeamStadiumNamePlate/CloneObject/TextMain": {
+            "position_offset_x": 100
+        },
+        "/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/RequestInfo/Requester/Character/PartsCharaMessage/ScaleAnim/Base/Message": {
+            "best_fit": true,
+            "min_size": 20,
+            "max_size": 20
+        },
+        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/LandscapeUIManager(Clone)/RightUIRoot/GameCanvas/DialogCanvas/MenuRoot/DialogRoot/DialogCommonLandscapeMode(Clone)/Mask/CircleMask/ContentsRoot/SteamBigButton/Base/base/DialogJukeboxRequestSongLandscapeUI(Clone)/GameObject/PartsJukeboxSongInfoHeader/Discriptions/CaptionText":{
+            "best_fit": true,
+            "min_size": 23,
+            "max_size": 26
+        },
+
+        
+
+        "/JikkyoUILandscape/MessageRoot/Item (1)/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (2)/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (3)/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (4)/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (5)/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (1)/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (2)/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (3)/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (4)/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (5)/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item/Jikkyou": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item/Comment": {
+            "font_size": 28,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUILandscape/MessageRoot/Item/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (1)/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (2)/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (3)/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (4)/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (5)/Message": {
+            "font_size": 28,
+            "position_offset_x": 115
+        },
+        "/JikkyoUILandscape/MessageRoot/Item/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 4
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (1)/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (2)/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (3)/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (4)/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (5)/Comment/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (1)/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (2)/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (3)/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (4)/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUILandscape/MessageRoot/Item (5)/Jikkyou/Colon": {
+            "font_size": 28,
+            "position_offset_x": 175,
+            "position_offset_y": 3
+        },
+        "/JikkyoUI/MessageRoot/Item (1)/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (2)/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (3)/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (4)/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (5)/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (1)/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (2)/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (3)/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (4)/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item (5)/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item/Comment": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+        "/JikkyoUI/MessageRoot/Item/Jikkyou": {
+            "font_size": 33,
+            "text_override": "$(nb)Komentator"
+        },
+         "/JikkyoUI/MessageRoot/Item (1)/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        }, 
+         "/JikkyoUI/MessageRoot/Item (2)/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        }, 
+        "/JikkyoUI/MessageRoot/Item (3)/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        }, 
+        "/JikkyoUI/MessageRoot/Item (4)/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+         "/JikkyoUI/MessageRoot/Item (5)/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (1)/Comment/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (2)/Comment/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (3)/Comment/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (4)/Comment/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (5)/Comment/Colon": {
+            "position_offset_x": 215,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (1)/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (2)/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (3)/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (4)/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item (5)/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item/Message": {
+            "position_offset_x": 135,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item/Jikkyou/Colon": {
+            "position_offset_x": 215,
+            "position_offset_y": 3,
+            "font_size": 33
+        },
+        "/JikkyoUI/MessageRoot/Item/Comment/Colon": {
+            "position_offset_x": 215,
+            "position_offset_y": 3,
+            "font_size": 33
         }
     }
 }
