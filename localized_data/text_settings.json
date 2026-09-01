@@ -110,18 +110,24 @@
         "/TeamStadiumRaceListView(Clone)/ContentsRoot/StretchContent/BottomListBase/PartsTeamStadiumNamePlate/CloneObject/TextMain": {
             "position_offset_x": 100
         },
-        "/SystemManagerRoot/SystemSingleton/UIManager/GameCanvas/MainCanvas/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/RequestInfo/Requester/Character/PartsCharaMessage/ScaleAnim/Base/Message": {
+        "/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/RequestInfo/Requester/Character/PartsCharaMessage/ScaleAnim/Base/Message": {
             "best_fit": true,
-            "min_size": 20,
-            "max_size": 20
+            "min_size": 25,
+            "max_size": 25
         },
-        "Gallop.GameSystem/SystemManagerRoot/SystemSingleton/UIManager/LandscapeUIManager(Clone)/RightUIRoot/GameCanvas/DialogCanvas/MenuRoot/DialogRoot/DialogCommonLandscapeMode(Clone)/Mask/CircleMask/ContentsRoot/SteamBigButton/Base/base/DialogJukeboxRequestSongLandscapeUI(Clone)/GameObject/PartsJukeboxSongInfoHeader/Discriptions/CaptionText":{
+        "/LandscapeUIManager(Clone)/RightUIRoot/GameCanvas/DialogCanvas/MenuRoot/DialogRoot/DialogCommonLandscapeMode(Clone)/Mask/CircleMask/ContentsRoot/SteamBigButton/Base/base/DialogJukeboxRequestSongLandscapeUI(Clone)/GameObject/PartsJukeboxSongInfoHeader/Discriptions/CaptionText":{
             "best_fit": true,
             "min_size": 23,
             "max_size": 26
         },
-
+        "/CharacterNoteMainView(Clone)/ContentsRoot/CharaTop/CharaTopUI/CatchCopyTweenRoot/CatchCopy/Text":{
+            "horizontal_overflow": 0,
+            "best_fit": true,
+            "min_size": 25,
+            "max_size": 30
+        },
         
+
 
         "/JikkyoUILandscape/MessageRoot/Item (1)/Comment": {
             "font_size": 28,
