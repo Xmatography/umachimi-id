@@ -2,14 +2,14 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "choice_data_list": [
                 "Itu Kerja Kerasnya !"
             ],
             "text": "Selamat! Kemenangan yang luar biasa.\n… Saya sangat terkesan."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Seperti dugaanku, hanya kalian yang\nbisa menjadi sampul utama edisi ini!"
         },
         {

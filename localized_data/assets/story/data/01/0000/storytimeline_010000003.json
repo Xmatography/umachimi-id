@@ -5,14 +5,14 @@
             "text": "The day after I watched \nthe race with Tazuna—"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Umamusume \nTraining Center Academy.",
             "color_text_info_list": [
                 "Japan Umamusume \nTraining Center Academy"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is Japan's premier Umamusume\ntraining organization, where girls who\ndream of entering the world of racing\ngather!"
         },
         {
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Hey, Principal Akikawa…! \nDon't scare us like that!",
             "color_text_info_list": [
                 "Akikawa"
@@ -53,7 +53,7 @@
             "text": "Your expectations!! Please use your \nskills to make your Umamusume' \ndreams come true, together!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "What the Umamusume at this academy\naspire to is… their greatest stage as\nrunners; the Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
@@ -68,7 +68,7 @@
             "text": "And more! Endeavor to live up \nto that trainer badge on your chest!!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Well then, without further ado… let's\nget to training, Trainer <username>!"
         }
     ]

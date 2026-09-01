@@ -2,18 +2,18 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "First, let's go meet the Umamusume who\nwe will be working with!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "The Umamusume you are in charge of is\ncalled a trainable Umamusume.",
             "color_text_info_list": [
                 "trainable Umamusume"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Please note you can't train a Umamusume\nuntil you have obtained her training\nversion.",
             "color_text_info_list": [
                 "obtained her training version",
@@ -21,11 +21,11 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "In this gacha, you'll meet the Umamusume\nyou will be training!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Well then, let's draw from \nthe Pretty Derby gacha!"
         }
     ]

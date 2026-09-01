@@ -9,16 +9,16 @@
             "text": "(Sebelumnya dia bekerja sebagai Sub-Trainer, ya.\nAh... pantas saja dia sangat peka dengan perasaan kami.）"
         },
         {
-            "text": "(...Tugas Sub-Trainer itu mendukung tim, kan.\nJadi dia sering menerima laporan dan berinteraksi dengan Uma Musume.）"
+            "text": "(...Tugas Sub-Trainer itu mendukung tim, kan.\nJadi dia sering menerima laporan dan berinteraksi dengan Umamusume.）"
         },
         {
-            "text": "(Pencapaian masa lalu――... kosong? Uma Musume yang dilatih――tidak ada.）"
+            "text": "(Pencapaian masa lalu――... kosong? Umamusume yang dilatih――tidak ada.）"
         },
         {
             "text": "――Kalau sebagai Sub-Trainer, memang jadinya begitu ya...."
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Aaaahh, kakiku nggak kuat sampai akhir....\nAnu, kira-kira di bagian mana ya yang kurang bagus?",
             "choice_data_list": [
                 "Arah tolakannya. Titik beratmu sedikit goyah"
@@ -28,7 +28,7 @@
             "text": "(――Wah, begitu ya. Aku yang melihatnya saja sama sekali tak sadar.\nAnalisis dan solusinya bisa dia jelaskan dengan lancar――）"
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Maksudnya... begini!? ――Ooh, dorongannya terasa beda banget!\nEhehe, kalau begini sepertinya aku bisa perbarui catatan waktuku!"
         },
         {
@@ -44,7 +44,7 @@
             "text": "――...Syukurlah, dia menang! Ahh, baguslah――!\nAh, Trainer-san sedikit tersorot. Fufufu, dia kelihatan senang."
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "『Aku tak pernah dapat hasil bagus di 2000m, jadi sempat ragu,\ntapi berkat <username> Trainer, aku bisa meraih kemenangan!』"
         },
         {
@@ -108,14 +108,14 @@
             "text": "Iya, aku tidak apa-apa. Soal balapan,\naku sudah putuskan untuk tak terburu-buru. ――Terima kasih perhatiannya."
         },
         {
-            "name": "Uma Musume Tim Lain",
+            "name": "Umamusume Tim Lain",
             "text": "Sub-Train... eh bukan, Trainer!\nEh, lagi sibuk ya. ...Kelihatannya sibuk, nggak jadi deh.",
             "choice_data_list": [
                 "Tunggu, kalau cuma waktu untuk konsultasi sih bisa"
             ]
         },
         {
-            "name": "Uma Musume Tim Lain",
+            "name": "Umamusume Tim Lain",
             "text": "Beneran!? Kalau gitu, minta waktunya sehabis latihan, ya!\nMaaf mengganggu, sampai nanti!"
         },
         {
@@ -125,7 +125,7 @@
             "text": "(Aku bisa mengerti rasanya. Trainer-san kan orangnya \nbaik―― Mereka pasti merasa kalau dia akan selalu \nmendengarkan keluh kesahnya.）"
         },
         {
-            "text": "(Ada banyak Uma Musume yang menyayanginya. Trainer-san――\nSangat pantas untuk menerima lebih banyak buket bunga dari ini.）"
+            "text": "(Ada banyak Umamusume yang menyayanginya. Trainer-san――\nSangat pantas untuk menerima lebih banyak buket bunga dari ini.）"
         },
         {
             "name": "Sub-Trainer",
@@ -145,36 +145,36 @@
         },
         {
             "name": "Trainer Tim Lain",
-            "text": "<username>, kau tidak terlalu membebani dirimu dengan pekerjaan?\nKau sendiri juga punya tugas penting mencari Uma Musume-mu, kan."
+            "text": "<username>, kau tidak terlalu membebani dirimu dengan pekerjaan?\nKau sendiri juga punya tugas penting mencari Umamusume-mu, kan."
         },
         {
             "text": "(――Kalau tak salah, beliau adalah Chief Trainer dari tim\ntempatnya bergabung saat masih jadi Sub-Trainer dulu....）",
             "choice_data_list": [
-                "Tapi, pada akhirnya yang repot nanti Uma Musume-nya"
+                "Tapi, pada akhirnya yang repot nanti Umamusume-nya"
             ]
         },
         {
             "name": "Trainer Tim Lain",
             "text": "Aku paham, tapi kau juga harus memikirkan kariermu sendiri.",
             "choice_data_list": [
-                "Memprioritaskan Uma Musume――itu sudah jadi keyakinanku",
-                "Memprioritaskan Uma Musume――itu sudah jadi keyakinanku"
+                "Memprioritaskan Umamusume――itu sudah jadi keyakinanku",
+                "Memprioritaskan Umamusume――itu sudah jadi keyakinanku"
             ]
         },
         {
             "name": "Trainer Tim Lain",
-            "text": "...Memprioritaskan Uma Musume――",
+            "text": "...Memprioritaskan Umamusume――",
             "choice_data_list": [
                 "Ya. Itulah hal pertama yang Anda ajarkan padaku"
             ]
         },
         {
             "name": "Trainer Tim Lain",
-            "text": "Ah... iya, benar juga. Saat kau baru saja\nbergabung dengan tim, aku memarahimu dengan\nkeras, ya. Supaya kau memprioritaskan Uma Musume."
+            "text": "Ah... iya, benar juga. Saat kau baru saja\nbergabung dengan tim, aku memarahimu dengan\nkeras, ya. Supaya kau memprioritaskan Umamusume."
         },
         {
             "name": "Trainer Tim Lain",
-            "text": "Begitu ya... pantesan kau selalu bergerak demi Uma Musume....",
+            "text": "Begitu ya... pantesan kau selalu bergerak demi Umamusume....",
             "choice_data_list": [
                 "Aku ingin jadi Trainer yang tak memalukan gurunya"
             ]
@@ -184,7 +184,7 @@
             "text": "...Kalau dibilang begitu.\nAku jadi tidak bisa berkata apa-apa lagi."
         },
         {
-            "text": "(Aah... ――Dia orang yang sangat hangat.\nHanya dengan tulus memikirkan kebaikan para Uma Musume――）"
+            "text": "(Aah... ――Dia orang yang sangat hangat.\nHanya dengan tulus memikirkan kebaikan para Umamusume――）"
         },
         {
             "text": "(Makanya――dia tidak pernah melewatkan perubahan kecil dariku.\nDengan lembut, dan tenang――seperti bunga――menemani hatiku.）"
@@ -199,7 +199,7 @@
             "text": "(Padahal――kau sangat pantas mendapatkan buket bunga emas.）"
         },
         {
-            "text": "(...Buket bunga. Kemenangan――yang bisa memberikannya hanyalah \nUma Musume. ――Hanya Uma Musume yang bisa menyampaikannya.）"
+            "text": "(...Buket bunga. Kemenangan――yang bisa memberikannya hanyalah \nUmamusume. ――Hanya Umamusume yang bisa menyampaikannya.）"
         },
         {
             "text": "(.........Kalau begitu... ――Biar aku saja!)"

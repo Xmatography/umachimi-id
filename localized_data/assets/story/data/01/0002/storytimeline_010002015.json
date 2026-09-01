@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is called the “paddock”. Horse \ngirls appear before the race and \nshow off to their fans!",
             "color_text_info_list": [
                 "paddock"
@@ -17,7 +17,7 @@
             "text": "As for more information… Tazuna! \nGive the Trainer an explanation!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Leave it to me ♪"
         }
     ]
