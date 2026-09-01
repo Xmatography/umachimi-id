@@ -8,18 +8,18 @@
             "text": "Its qualifying round\nwas about to begin."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Thank you, trainer, for\nseeing <chrname> here."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "At last, you have come this far. As a\nfan of both of you, I'm happy.",
             "choice_data_list": [
                 "I'm going to make this the best race ever!"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Hehehe, yes. I'm looking forward to it!"
         },
         {

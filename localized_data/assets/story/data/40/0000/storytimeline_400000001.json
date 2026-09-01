@@ -3,21 +3,21 @@
     "text_block_list": [
         {
             "color_text_info_list": [
-                "Hayakawa Tazuna"
+                "Tazuna Hayakawa"
             ],
             "name": "",
-            "text": "Ketika Aku tiba di tempat kerja dengan penuh semangat\ndi pagi hari dan\naku disambut oleh\nHayakawa Tazuna, sekretaris presiden."
+            "text": "Ketika Aku tiba di tempat kerja dengan penuh semangat\ndi pagi hari dan\naku disambut oleh\nTazuna Hayakawa, sekretaris presiden."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Pagi Trainer , Waktunya Bekerja!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Bekerja sama untuk memperkuat\ntubuh dan pikiran, memupuk ikatan kamu…\nsemoga kamu menikmati banyak hari yang bermanfaat!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "choice_data_list": [
                 "Akan Kulakukan Yang Terbaik!"
             ],
@@ -27,18 +27,18 @@
             "text": "Jika Kamu tampil baik di berbagai\nbalapan, Anda mungkin akhirnya mencapai\npuncak balapan; gelar G1!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Ya, aku menantikannya. ♪"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "color_text_info_list": [
                 "tiga tahun pertama"
             ],
             "text": "—Sejujurnya, tiga tahun pertama\nSeri Twinkle sangatlah penting."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "color_text_info_list": [
                 "tiga tahun sejak debutnya",
                 "tingkat kinerja tertentu"
@@ -46,7 +46,7 @@
             "text": "Jika kamu gagal mencapai tingkat kinerja tertentu\ndalam waktu tiga\ntahun sejak debutnya—"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Mungkin kami akan memutus kontrak Umamusume-mu",
             "color_text_info_list": [
                 "kontrak Umamusume-mu",
@@ -54,21 +54,21 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "choice_data_list": [
                 "Yes Mam…!"
             ],
             "text": "Itulah mengapa tiga tahun ini\nsangat penting! Mohon bekerja sama dan\nlewati ini bersama-sama."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Pertama , Kamu Harus \nLatih Sebelum Acara \"Lomba Debut\" Pertamamu.",
             "color_text_info_list": [
                 "Lomba Debut"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Baiklah , Semoga Harimu Menyenangkan!"
         }
     ]

@@ -2,6 +2,40 @@
 Untuk dukungan dan info lainnya kunjungi:
 -> umachimi.carrd.co <-
 
+# TL Update 01-09-26
+## MAJOR UPDATE!
+Setelah update ini dan seterusnya, disarankan pake versi Hachimi fork Reko
+**🟢 New :**
+Umamusume :
+- Full profil karakter
+- Rahasia baru
+- Nama outfit (exc. racewear)
+
+Jukebox :
+- Deskripsi & kredit lagu
+- Interaksi Umamusume
+
+Konten baru lainnya :
+- Lirik lagu Beyond
+- Menu baru "Trainer Ability"
+- Pengaturan baru
+- Transfer request
+- Log skill
+- Notifikasi push (hp)
+- Julukan
+- Detail inspirasi spark
+- Misi cerita event
+- Lokasi
+- Teks bonus skenario
+- Skill evo
+- Career event (Royce and Royce)
+
+**🟠 Improved:**
+- Rombak komentator balapan
+- Koreksi story Buena Vista
+- Normalize nama karakter
+- Koreksi
+
 # TL UPDATE 25-08-26
 **🟢 New :**
 - Dialog system tazuna

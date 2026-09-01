@@ -24,18 +24,18 @@
             "text": "If the facilities here aren't very different from what we have, \nthere's no need to attend. Let's calmly decide based on what we see."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Furioso-san, Trainer-san, good afternoon. \nI'm the Tracen Academy Chairman's secretary, Hayakawa Tazuna."
+            "name": "Tazuna Hayakawa",
+            "text": "Furioso-san, Trainer-san, good afternoon. \nI'm the Tracen Academy Chairman's secretary, Tazuna Hayakawa."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Well then, I'll show you around the campus grounds."
         },
         {
             "text": "And so, with Tazuna-san as our guide, \nwe decided to take a look around Central Tracen Academy."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is the cafeteria. As a student of Tracen \nAcademy, lunch is free and all-you-can-eat."
         },
         {
@@ -58,15 +58,15 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is the training gym. \nAll of these machines have been tuned for Umamusume use."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is the pool. Umamusume with leg injuries or that \nwish to train their stamina usually make use of it."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "This is the training ground. Various surfaces, including \nturf, dirt, and wood chips are options. And then……"
         },
         {
@@ -74,7 +74,7 @@
             "text": "Haaaaaaaa! \nDeryaaaaーー!"
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Everyone is free to compete with each other, gradually \nincreasing their strength. Oguri Cap-san and Inari \nOne-san are also both transfers from the countryside."
         },
         {
@@ -131,22 +131,22 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "I'm glad you've taken an interest. \nUm……however, there's one thing you should know."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Furioso-san can enter through the 『Special exchange』 however…… \nTrainer-san, are you aware that you can't?",
             "choice_data_list": [
                 "Eh……I can't?"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Yes. There are no special exceptions for that. \nLocal and Central trainer qualifications are separate licenses."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Trainer-san has to take the Central \n『Trainer License Exam』 and pass."
         },
         {

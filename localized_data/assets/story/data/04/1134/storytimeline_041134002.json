@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Trainer Senior",
-            "text": "Hei, apa kamu lagi luang? Bisa tolong jaga satu\nUma Musume dari timku sampai lomba 'Fukushima Kinen'?"
+            "text": "Hei, apa kamu lagi luang? Bisa tolong jaga satu\nUmamusume dari timku sampai lomba 'Fukushima Kinen'?"
         },
         {
             "name": "Trainer Senior",
-            "text": "Aku harus fokus melatih para Uma Musume yang akan bertanding\ndi Tokyo pada hari yang sama. Jadi, aku tak bisa menemaninya."
+            "text": "Aku harus fokus melatih para Umamusume yang akan bertanding\ndi Tokyo pada hari yang sama. Jadi, aku tak bisa menemaninya."
         },
         {
             "name": "Trainer Senior",
@@ -19,7 +19,7 @@
             "name": "Trainer Senior",
             "text": "Terima kasih! Maaf ya, padahal kamu\njuga lagi sibuk bersiap untuk scouting.",
             "choice_data_list": [
-                "Tentu saja memprioritaskan Uma Musume!"
+                "Tentu saja memprioritaskan Umamusume!"
             ]
         },
         {
@@ -39,14 +39,14 @@
             "text": "(Turnamen per cabang... harus bagaimana ya.\nApa aku harus terus lari saat masih ragu untuk berhenti atau tidak――）"
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Haa, haa... waktu putaran di akhir benar-benar buruk, ya....\nUntuk lari 2000m, latihan daya tahan tubuhnya harus ditambah.",
             "choice_data_list": [
                 "Sepertinya tidak masalah, tapi mari tambah sedikit"
             ]
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Iya, tolong ya! Trainer-ku juga bilang tidak\nada masalah, tapi... entah kenapa aku terus kepikiran."
         },
         {
@@ -62,21 +62,21 @@
             "text": ".........Huu. Aku malah merepotkan semuanya.\nAku harus kembali fokus――"
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "6 set lari interval, sudah selesai!\nAnu... walau sudah sejauh ini, apa aku akan siap pas hari H nanti?",
             "choice_data_list": [
                 "Tidak apa-apa kok. Tapi, apa yang buatmu cemas?"
             ]
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Habisnya... daya tahan itu tidak bisa didapat dalam semalam.\nMeski kita berusaha dari sekarang....",
             "choice_data_list": [
                 "Kalau begitu, mari tinjau tempo dengan lari beriringan"
             ]
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "！ Baik...! Kalau masih ada hal yang bisa dilakukan!\nTolong bantu aku untuk semuanya!"
         },
         {
@@ -107,7 +107,7 @@
             ]
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Tadi dibilang untuk meninjau pembagian tempo, kan?\nApa Bouquet-san lebih ahli saat ada jarak dengan lawannya?",
             "choice_data_list": [
                 "Iya. Sepertinya akan bagus untuk referensi pembagian tempo"
@@ -120,18 +120,18 @@
             "text": "――Sebentar lagi masuk tikungan ke-4.\nDi sini waktunya <i>spurt</i>!"
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "！ Mengerti, di sini rupanya! Haaaaaaaaa!!"
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Yes, aku bisa mengejar sampai akhir!\nTapi waktunya tidak begitu banyak berubah, ya?",
             "choice_data_list": [
                 "Iya, masalah pembagian tempolah yang jadi fokus utamanya"
             ]
         },
         {
-            "name": "Uma Musume Bob Chestnut",
+            "name": "Umamusume Bob Chestnut",
             "text": "Begitu rupanya. Aku lega karena sudah tahu penyebab masalahku!\nBouquet-san, nanti aku boleh minta tolong lari bareng lagi!?"
         },
         {
@@ -149,8 +149,8 @@
         {
             "text": "Sama-sama. Terima kasih juga sudah mengajakku.\nSudah lama sekali――aku bisa merasakan asyiknya berlari.",
             "choice_data_list": [
-                "Haha, Uma Musume memang tak bisa lepas dari berlari ya",
-                "Haha, Uma Musume memang tak bisa lepas dari berlari ya"
+                "Haha, Umamusume memang tak bisa lepas dari berlari ya",
+                "Haha, Umamusume memang tak bisa lepas dari berlari ya"
             ]
         },
         {

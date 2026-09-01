@@ -5,63 +5,63 @@
             "text": "(clank clank)"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Excuse me. Is trainer <username> in?",
             "choice_data_list": [
                 "Yes!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Oh, thank God. I really wanted to\ngive this to you in person."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "It was finally released today."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "— \"Monthly Twinkle Special Issue\".",
             "color_text_info_list": [
                 "Monthly Twinkle Special Issue"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "There were a lot of requests from\nreaders lately. For a special edition\nregarding the past three years."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "I'm sure readers agree that these\nyears have been a momentous period\nin the world of Umamusume."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "… A whole lot happened after all.",
             "choice_data_list": [
                 "… I guess so, yeah"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "As a reporter, I feel very fortunate\nto have been able to follow these three\nyears."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "And that I could meet you."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "By the way—"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Did you get a good look at the cover?",
             "choice_data_list": [
                 "The cover?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Yeah."
         },
         {
@@ -71,30 +71,30 @@
             "text": "A large photo of <chrname>\nstaring back at me."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "When I was thinking about who should be\nthe cover— the face of the magazine…"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "There was only one candidate\nthat came to my mind."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "And that was the opinion of the\neditorial team as well.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "We, at Twinkle Monthly, will continue to\nsupport you and your work."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "We will follow you, trainer <username>."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Through all my interviews I've become\nconvinced that you are the ray of\nsunshine illuminating the Umamusume\nworld.",
             "choice_data_list": [
                 "Thanks! I'll make her shine too!",
@@ -102,30 +102,30 @@
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "…!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "… Su, su… susu, …sususuh!!!!",
             "choice_data_list": [
                 "… Ms. Otonashi?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Splendid!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Make your Umamusume shine! In other\nwords, be prepared to become a shadow\nyourself!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "You will continue to devote your whole\nlife to her, spend everything you have,\ntake her to races and trips anywhere in\nthe world!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Ah…, you're the one I've been looking\nfor…!"
         },
         {
@@ -135,14 +135,14 @@
             "text": "I can feel her thoughts from the\nmagazine. I'll show <chrname> later…!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "This special issue includes\na little special feature.",
             "choice_data_list": [
                 "What kind of feature?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Hehe, look further down the pages."
         },
         {
@@ -152,44 +152,44 @@
             "text": "There's—"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "\"A word to <chrname> and\nher trainer <username>\""
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "In fact, the editorial department\nhas received many fan letters\nfrom readers to you."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "The response was so great that\nwe compiled pages with support\nmessages to the two of you."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "This is pretty much the first time we\nattempted such a reader-driven, multi-\npage feature, you know?",
             "choice_data_list": [
                 "Thank you very much…!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Hehe, please deliver that gratitude\nto your fans at races and live\nperformances."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "We, the editors, are here to help you\nconnect with your fans."
         },
         {
             "text": "I can feel Otonashi's sentiments. I'll\nshow this article to <chrname> later…!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Could you take a look at the pages\njust a little further ahead?",
             "choice_data_list": [
                 "The pages ahead?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Yeah."
         },
         {
@@ -199,36 +199,36 @@
             "text": "There was a special feature called\n\"In the footsteps of glory with\n<chrname> and trainer\"."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "You have been an integral part of the\nUmamusume world for the past three\nyears."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "I couldn't just fit it into a small\narticle, so I talked it over with my\neditor."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "— I told him everyone would look forward\nto a feature with these people.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Hehe, of course I am one of them.\nI'm looking forward to your future\nactivities, okay?"
         },
         {
             "text": "I can feel Otonashi's excitement. I'll\nshow <chrname> this article later…!"
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Did you see the right side of that page?",
             "choice_data_list": [
                 "The right side?"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Yeah."
         },
         {
@@ -238,14 +238,14 @@
             "text": "It described a training session\nwith <chrname> and commented on\nthe high expectations."
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "\"I can't wait to see what they do in the\nfuture.\" … There are no lies there.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
         },
         {
-            "name": "Otonashi Etsuko",
+            "name": "Etsuko Otonashi",
             "text": "Hehe, I'll be covering you two's\ntrajectory."
         },
         {

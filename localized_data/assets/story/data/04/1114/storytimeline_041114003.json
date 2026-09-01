@@ -50,7 +50,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "……Hey. Suatu hari nanti, kita juga pasti—!"
+            "text": "……Hey. Suatu hari nanti, kita juga pasti――!"
         },
         {
             "name": "",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"Suatu hari nanti, kita pasti akan sampai di pemandangan yang \nseindah ini.\""
+            "text": "\"Suatu hari nanti, kita pasti akan sampai di pemandangan yang seindah ini.\""
         },
         {
             "name": "Buena Vista",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Jadi untuk hari ini, kita akan latihannya di lintasan woodchip... benar, kan?",
+            "text": "Jadi hari ini, kita akan latihannya di lintasan woodchip... benar, kan?",
             "choice_data_list": [
                 "Ya, kita mulai dari 1000 meter dulu.",
                 "Ya, kita mulai dari 1000 meter dulu."
@@ -96,8 +96,8 @@
             "name": "Buena Vista",
             "text": "....Jangan-jangan kamu khawatir padaku? Aku tidak apa-apa kok. Lagipula, tubuhku sudah jauh berkembang dari sebelumnya.",
             "choice_data_list": [
-                "Benar sih. Tapi tetap saja...",
-                "Benar sih. Tapi tetap saja..."
+                "Benar sih. Tapi tetap saja――",
+                "Benar sih. Tapi tetap saja――"
             ]
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "—Terima kasih sudah berbagi rencana sampai hari kompetisinya.\nMulai besok aku juga akan berusaha keras ya, Trainer-san!"
+            "text": "――Terima kasih sudah berbagi rencana sampai hari kompetisinya.\nMulai besok aku juga akan berusaha keras ya, Trainer-san!"
         },
         {
             "name": "Buena Vista",
@@ -167,7 +167,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Memang, yang aku kagumi adalah \"Japan Cup\"-nya Spe-san. Tapi, aku kan bukan Spe-san. Aku nggak akan bisa menciptakan pemandangan yang \npersis sama dengannya."
+            "text": "Memang, yang aku kagumi itu \"Japan Cup\"-nya Spe-san. Tapi, aku kan bukan Spe-san. Aku nggak akan bisa menciptakan pemandangan yang persis sama dengannya."
         },
         {
             "name": "Buena Vista",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Pemandangan kemenangan yang kuat, memukau, dan penuh kemilau. \nItulah mimpi yang ku tuju."
+            "text": "Pemandangan kemenangan yang kuat, memukau, dan penuh kemilau. \nItulah mimpi yang kutuju."
         },
         {
             "name": "Buena Vista",

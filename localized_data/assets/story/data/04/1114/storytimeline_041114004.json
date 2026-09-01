@@ -30,11 +30,11 @@
         },
         {
             "name": "Para Fans",
-            "text": "Uooooh, Buena Vistaaaa～!!\nSemangatーーーーーーーー!!"
+            "text": "Uooooh, Buena Vistaaaa～!!\nSemangatーーーーーー!!"
         },
         {
             "name": "Komentator",
-            "text": "Sungguh luar biasa! Sulit dipercaya sorakan dan harapan sebesar ini ditujukan pada Umamusume yang bahkan belum debut! Kira-kira, \nseperti apa larinya nanti!?",
+            "text": "Sungguh luar biasa! Sulit dipercaya sorakan dan harapan sebesar ini ditujukan pada Umamusume yang bahkan belum debut! Kira-kira, seperti apa larinya nanti!?",
             "choice_data_list": [
                 "(Dukungan yang benar-benar hebat)"
             ]
@@ -119,11 +119,11 @@
         },
         {
             "name": "Buena Vista",
-            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
+            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \n\"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
         },
         {
             "name": "Buena Vista",
-            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
+            "text": "(Tenang, jangan panik. Simpan tenagamu, begitu masuk sprint akhir―― \n\"Bahkan melawan Daiwa Scarlet pun, kamu pasti bisa menang!\")"
         },
         {
             "name": "Vodka",
@@ -131,9 +131,9 @@
         },
         {
             "name": "Buena Vista",
-            "text": "(Daya ledak sprint Vodka itu……bener-bener mengerikan! \nTapi di saat yang sama, kadang jalurnya sedikit goyah… karena itu!!)",
+            "text": "(Daya ledak sprint Vodka itu……benar-benar mengerikan! \nTapi di saat yang sama, kadang jalurnya sedikit goyah… karena itu!!)",
             "choice_data_list": [
-                "<size=39>Masih ada celah untuk maju! Ayo, Buenaーー!!</size>"
+                "<size=39>Masih ada celah buat maju! Ayo, Buenaーー!!</size>"
             ]
         },
         {
@@ -142,7 +142,7 @@
         },
         {
             "name": "Komentator",
-            "text": "Daiwa Scarlet masih memimpin! Vodka terus mengejar!! \nTetapi, tetapi Buena Vista! Buena Vista juga juga telah datang!"
+            "text": "Daiwa Scarlet masih memimpin! Vodka terus mengejar!! \nTetapi, tetapi Buena Vista! Buena Vista juga telah datang!"
         },
         {
             "name": "Komentator",
@@ -158,11 +158,11 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "Astaga. Menghadapi para monster itu, sampai bisa mendekati posisi \nke-3 dengan selisih seujung hidung……dia memang luar biasa. \n……Benar-benar membuatku seru nontonnya."
+            "text": "Astaga. Menghadapi para monster itu, sampai bisa mendekati posisi ke-3 \ndengan selisih seujung hidung……dia memang luar biasa. ……Benar-benar membuatku seru nontonnya."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Emang dia keren sih……tapi, tadi levelnya kerasa naik banget kan？ \nKayaknya yaaa～ itu pasti gara-gara orang itu, ya kan～！？"
+            "text": "Emang dia keren sih……tapi, tadi levelnya kerasa naik banget kan? \nKayaknya yaaa～ itu pasti gara-gara orang itu, ya kan～！?"
         },
         {
             "name": "Red Desire",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "……Menyebalkan. Menyebalkan sekali, benar-benar……！！"
+            "text": "……Menyebalkan. Benar-benar menyebalkan sekali……！！"
         },
         {
             "name": "Buena Vista",
@@ -203,7 +203,7 @@
             ]
         },
         {
-            "text": "Ia menangis begitu lama, terus menangis histeris. Sama persis…… seperti kembali menjadi dirinya yang kecil dulu. Dan kemudian—",
+            "text": "Ia menangis begitu lama, terus menangis histeris. Sama persis…… seperti kembali menjadi dirinya yang kecil dulu. Dan kemudian――",
             "choice_data_list": [
                 "Buena—"
             ]
@@ -218,11 +218,11 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Kalau begitu, tahu gak kenapa aku bisa tetap berada di sini tanpa meragukanmu?"
+            "text": "Kalau begitu, tahu gak kenapa aku bisa tetap ada di sini tanpa meragukanmu?"
         },
         {
             "name": "Buena Vista",
-            "text": "Bahwa aku bisa berlari dengan cara membuat semua orang menjadi terpesona dan ingin mendukung. Tahu gak kenapa aku bisa terus mempercayai hal itu sejak dulu?"
+            "text": "Bahwa aku bisa berlari dengan cara membuat semua orang menjadi terpesona dan ingin mendukung. Tahu gak kenapa aku terus mempercayai hal itu sejak dulu?"
         },
         {
             "name": "Buena Vista",
@@ -250,7 +250,7 @@
         },
         {
             "name": "",
-            "text": "Dia sudah lebih dulu, melihat jawaban yang seharusnya kami raih bersama. Padahal aku lebih tua darinya. Aku jadi merasa sedikit malu\n……dan kemudian, aku membuka mulut."
+            "text": "Dia sudah lebih dulu, melihat jawaban yang seharusnya kami raih bersama. Padahal aku lebih tua darinya. Aku jadi merasa sedikit malu ……dan kemudian, aku membuka mulut."
         },
         {
             "name": "",
@@ -268,9 +268,9 @@
             ]
         },
         {
-            "text": "Pada saat itu, *tap (sentuh).\n……Ujung jari telunjuknya yang lembut menyentuh bibirku.",
+            "text": "Pada saat itu,       *tap <size=20>(sentuh)</size>.\n……Ujung jari telunjuknya yang lembut menyentuh bibirku.",
             "choice_data_list": [
-                "Eh――！？"
+                "Eh――！?"
             ]
         },
         {
@@ -283,7 +283,7 @@
         },
         {
             "name": "",
-            "text": "Dan setelah itu. ――Sekali lagi, kami saling  berhadapan kembali di tempat yang dijanjikan itu.",
+            "text": "Dan setelah itu. ――Sekali lagi, kami saling berhadapan kembali di tempat yang dijanjikan itu.",
             "choice_data_list": [
                 "Maaf menunggu. Buena……aku――",
                 "Maaf menunggu. Buena……aku――"

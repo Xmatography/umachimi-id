@@ -2,21 +2,21 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Trainer, we're in trouble!\nTime is running out…!",
             "choice_data_list": [
                 "What do you mean!?"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "You see, some consider it a problem\nthat your Umamusume has not won\na single race so far…!",
             "color_text_info_list": [
                 "not won a single race so far"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "If you can't provide her a first victory\nby September, your contract may be\nterminated!",
             "color_text_info_list": [
                 "September",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "September is right around the corner!\nPlease, obtain that win!",
             "color_text_info_list": [
                 "September"

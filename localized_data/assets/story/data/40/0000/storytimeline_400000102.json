@@ -2,18 +2,18 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "The semifinals are about to begin! \nI can feel everyone's drive from here."
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Trainer… are you ready?",
             "choice_data_list": [
                 "I believe in victory."
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Yes! I'll see you at the Live!"
         },
         {
