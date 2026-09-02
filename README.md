@@ -14,7 +14,7 @@ Seluruh kemajuan translasi yang dikerjakan para kontributor dapat dilihat di [St
 ## ▶️ Instalasi
 - Unduh dan pasang [Hachimi Edge](https://hachimi.noccu.art/id/) (PC & Android) kemudian ikuti langkah-langkah instalasinya [disini](https://hachimi.noccu.art/id/docs/hachimi/getting-started).
 
-  (*Note: Hachimi versi lama sudah tidak didukung, jadi gunakanlah [Hachimi Edge](https://hachimi.noccu.art/id/)).
+  (*Note: Khusus untuk repo ini, disarankan menggunakan Hachimi Edge versi [fork ini](https://github.com/Rekoiru/Hachimi-Edge/releases)).
   
 - Buka menu `Setup Pertama Kali` kemudian pilih repositori Bahasa Indonesia.
 

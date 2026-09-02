@@ -179,86 +179,86 @@
         },
         "/JikkyoUILandscape/MessageRoot/Item/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item (1)/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item (2)/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item (3)/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item (4)/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item (5)/Message": {
             "font_size": 28,
-            "position_offset_x": 115
+            "position_offset_x": 105
         },
         "/JikkyoUILandscape/MessageRoot/Item/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 4
         },
         "/JikkyoUILandscape/MessageRoot/Item (1)/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (2)/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (3)/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (4)/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (5)/Comment/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (1)/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (2)/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (3)/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (4)/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUILandscape/MessageRoot/Item (5)/Jikkyou/Colon": {
             "font_size": 28,
-            "position_offset_x": 175,
+            "position_offset_x": 170,
             "position_offset_y": 3
         },
         "/JikkyoUI/MessageRoot/Item (1)/Jikkyou": {
@@ -310,76 +310,76 @@
             "text_override": "$(nb)Komentator"
         },
          "/JikkyoUI/MessageRoot/Item (1)/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         }, 
          "/JikkyoUI/MessageRoot/Item (2)/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         }, 
         "/JikkyoUI/MessageRoot/Item (3)/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         }, 
         "/JikkyoUI/MessageRoot/Item (4)/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
          "/JikkyoUI/MessageRoot/Item (5)/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (1)/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (2)/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (3)/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (4)/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (5)/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (1)/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (2)/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (3)/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (4)/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item (5)/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item/Message": {
-            "position_offset_x": 135,
+            "position_offset_x": 110,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item/Jikkyou/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "position_offset_y": 3,
             "font_size": 33
         },
         "/JikkyoUI/MessageRoot/Item/Comment/Colon": {
-            "position_offset_x": 215,
+            "position_offset_x": 200,
             "position_offset_y": 3,
             "font_size": 33
         }
