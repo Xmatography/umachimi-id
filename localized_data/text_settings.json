@@ -27,7 +27,7 @@
             "position_offset_x": 30
         },
        "/EpisodeMainView(Clone)/ContentsRoot/PartsEpisodeList/BottomListSmall/ScrollView/ViewPort/Content/PartsEpisodeListItem(Clone)/Bg/LayoutGroup/ストーリー名７８９０１２３": {
-           "font_size": 30
+            "font_size": 30
         },
         "/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/Footer/LikeAnimation/PartsJukeboxLike(Clone)/TextCommon": {
             "text_override": "$(nb)kali"
@@ -112,10 +112,10 @@
         },
         "/HomeHubView(Clone)/HomeView(Clone)/ContentsRoot/JukeboxHomeTopUI(Clone)/Root/Base/RequestInfo/Requester/Character/PartsCharaMessage/ScaleAnim/Base/Message": {
             "best_fit": true,
-            "min_size": 25,
-            "max_size": 25
+            "min_size": 20,
+            "max_size": 30
         },
-        "/LandscapeUIManager(Clone)/RightUIRoot/GameCanvas/DialogCanvas/MenuRoot/DialogRoot/DialogCommonLandscapeMode(Clone)/Mask/CircleMask/ContentsRoot/SteamBigButton/Base/base/DialogJukeboxRequestSongLandscapeUI(Clone)/GameObject/PartsJukeboxSongInfoHeader/Discriptions/CaptionText":{
+        "/MenuRoot/DialogRoot/DialogCommonLandscapeMode(Clone)/Mask/CircleMask/ContentsRoot/SteamBigButton/Base/base/DialogJukeboxRequestSongLandscapeUI(Clone)/GameObject/PartsJukeboxSongInfoHeader/Discriptions/CaptionText":{
             "best_fit": true,
             "min_size": 23,
             "max_size": 26
@@ -126,7 +126,76 @@
             "min_size": 25,
             "max_size": 30
         },
+        "/RaceReserveRoot/ContinueRoot/ContinueSettingRoot/OffLabel/utx_frm_recommendbase_00_sl/Label": {
+            "position_target_ancestor": 1,
+            "position_offset_x": 30
+        },
+        "/HomeHubView(Clone)/CharacterCardHaveListView(Clone)/ContentsRoot/CutinHideRoot/StatusRoot/TabContentsRoot/PartsStatusParent/PartsGetSkillPlate/EffectAnim/BgPlate/TextCommon": {
+            "horizontal_overflow": 0,
+            "vertical_overflow": 1,
+            "extents_x": 300.0,
+            "best_fit": true,
+            "min_size": 25,
+            "max_size": 25
+        },
+        "/DialogTalkGalleryTriggerList(Clone)/ScrollRoot/FlickRoot/Base/utx_frm_numbase_01_sl/解放数": {
+            "position_offset_x": 30
+        },
+        "/LoadingCanvas/FrontObj/ContentsRoot/LoadingFrontItems/Comic/TitleBase/Title": {
+            "horizontal_overflow": 0,
+            "best_fit": true,
+            "min_size": 30,
+            "max_size": 35
+        },
+
         
+
+        " Menu Shop ": {},
+        "/PartsItemExchangeListItem(Clone)/Base/PartsItemExchangeListItemText/Base/ItemNumRoot/Title/Text": {
+            "position_offset_x": -20
+        },
+        "/PartsItemExchangeListItemForCard(Clone)/Base/PartsItemExchangeListItemText/Base/ItemNumRoot/Title/Text": {
+            "position_offset_x": -15
+        },
+        "/PartsItemExchangeTicketListItem(Clone)/Base/PartsItemExchangeListItemTicketText/Base/ItemNumRoot/Title/Text": {
+            "text_override": "$(nb)Dimiliki",
+            "position_offset_x": -5
+        },
+        "/PartsItemExchangeTicketListItem(Clone)/Base/PartsItemExchangeListItemTicketText/Base/RemainTimeTextRoot/Title/Text": {
+            "position_offset_x": -20
+        },
+        "/PartsItemExchangeListItemForCard(Clone)/Base/PartsItemExchangeListItemText/Base/RemainCountTextRoot/Title/Text": {
+            "position_offset_x": 15
+        },
+        "/PartsItemExchangeListItem(Clone)/Base/PartsItemExchangeListItemText/Base/RemainCountTextRoot/Title/Text": {
+            "position_offset_x": 15
+        },
+        "/PartsItemMultipleExchangeListItem(Clone)/Base/PartsItemExchangeListItemText/Base/ItemNumRoot/Title/Text": {
+            "position_offset_x": -15
+        },
+        "/PartsItemMultipleExchangeListItem(Clone)/Base/PartsItemExchangeListItemText/Base/RemainCountTextRoot/Title/Text": {
+            "position_offset_x": 15
+        },
+
+
+
+       " OSIS - Karakter ": {},
+        "/CharacterButtonContainer(Clone)/CharacterButtonCard/Image/PartsCharacterCardFrame/ScalingRoot/TalentLv/TextTalentLv": {
+            "position_offset_x": -20
+        },
+        "/CharacterButtonContainer(Clone)/CharacterButtonCard (1)/Image/PartsCharacterCardFrame/ScalingRoot/TalentLv/TextTalentLv": {
+            "position_offset_x": -20
+        },
+        "/CharacterButtonContainer(Clone)/CharacterButtonCard (2)/Image/PartsCharacterCardFrame/ScalingRoot/TalentLv/TextTalentLv": {
+            "position_offset_x": -20
+        },
+        "/CharacterButtonContainer(Clone)/CharacterButtonCard (3)/Image/PartsCharacterCardFrame/ScalingRoot/TalentLv/TextTalentLv": {
+            "position_offset_x": -20
+        },
+        "/CharacterButtonContainer(Clone)/CharacterButtonCard (4)/Image/PartsCharacterCardFrame/ScalingRoot/TalentLv/TextTalentLv": {
+            "position_offset_x": -20
+        },
+
 
 
         "/JikkyoUILandscape/MessageRoot/Item (1)/Comment": {

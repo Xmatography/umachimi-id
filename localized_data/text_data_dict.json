@@ -13970,7 +13970,10 @@
     "132": "5000 Carats",
     "133": "1500 Carats",
     "134": "1500 Carats",
-    "135": "7500 Carats (max 3x)"
+    "135": "7500 Carats (max 3x)",
+        "205": "UmaPlan",
+        "206": "UmaPlan",
+        "207": "UmaPlan"
   },
   "47": {
     "10071": "Warning Shot!",
@@ -18004,7 +18007,10 @@
     "91": "New Year's Celebration \\n7500 Carats (3x only)",
     "92": "Premium Pass",
     "111": "New Year's Celebration \\n7500 Carats (3x only)",
-    "112": "New Year's Celebration \\n1500 Carats (4x only)"
+    "112": "New Year's Celebration \\n1500 Carats (4x only)",
+        "205": "UmaPlan",
+        "206": "UmaPlan (6 bulan)",
+        "207": "UmaPlan (12 bulan)"
   },
   "55": {
     "101": "Speed",
