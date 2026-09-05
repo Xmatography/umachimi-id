@@ -1,5 +1,5 @@
 {
-  "no_wrap": true,
+  "no_wrap": false,
   "text_block_list": [
     {
       "name": "Kitasan Black",
@@ -11,11 +11,11 @@
     },
     {
       "name": "Kitasan Black",
-      "text": "……? Hah? Maaf Ma, sinyalnya jelek.\nMama tadi ngomong apa…? …―!"
+      "text": "……? Hah? Maaf Mah, sinyalnya jelek.\nMama tadi ngomong apa…?!"
     },
     {
       "name": "Kitasan Black",
-      "text": "Ehehe… iya ya～♪ Sekarang aku udah jadi\nUmamusume kesayangan semua orang.\nAku bakal terus ngejar mimpi itu sampai bisa\nbikin semua orang bangga… ehehe～♪"
+      "text": "Ehehe… iya ya～♪ Sekarang aku udah jadi\nUmamusume kesayangan semua orang.\nAku bakal terus ngejar mimpi itu sampai bisa bikin semua orang bangga… ehehe～♪"
     }
   ]
 }
