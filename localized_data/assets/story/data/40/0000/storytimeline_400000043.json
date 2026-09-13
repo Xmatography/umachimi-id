@@ -1,8 +1,8 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> tampaknya mengalami cedera ringan..."
+            "text": "<chrname>\ntampaknya mengalami cedera ringan..."
         },
         {
             "text": "Meski begitu, sekarang adalah masa kamp musim panas yang berharga. Nah, apa yang harus dilakukan—",
