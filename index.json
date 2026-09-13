@@ -1160,13 +1160,13 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "44973b32c43bd543f6b72adb17996b43aa1fb7e6d5b06d082dd808d07f7d149d",
-      "size": 485630
+      "hash": "2132cd3a1338821cd19111b843b189d070b5f6b98ba381832076fe0c3e81718e",
+      "size": 461798
     },
     {
       "path": "assets/atlas/common/common.json",
-      "hash": "1ebf0d9943618d76e769a7fd20c073d4cc9bd78fec9dee82dce2a9db46964f25",
-      "size": 166
+      "hash": "9bfe9f7e0bd877616f9ab223e05635f03edf598444684d0b9f70bc959b4642ce",
+      "size": 84
     },
     {
       "path": "assets/atlas/directory/directory.diff.png",
@@ -1180,13 +1180,13 @@
     },
     {
       "path": "assets/atlas/factorresearch/factorresearch.diff.png",
-      "hash": "6a700ff1cf61a7824b1f21eda2bcef3489f39d328b8bf81738222634cd8fff2d",
-      "size": 47640
+      "hash": "64843ff6f1b699d6b6ab12d7d90b50234aeabfd730293bf20b58c64948889428",
+      "size": 51174
     },
     {
       "path": "assets/atlas/factorresearch/factorresearch.json",
-      "hash": "6ca0b2d4a814f631afc5d621d24d93c8e13dd22ee584a73235926b1e12c85ce3",
-      "size": 166
+      "hash": "be7e1944b3473a49946e785f08fc675d1bc738b8f506478048a3db3e3d2652e7",
+      "size": 84
     },
     {
       "path": "assets/atlas/gacha/gacha.diff.png",
@@ -1260,13 +1260,13 @@
     },
     {
       "path": "assets/atlas/racecommon/racecommon.diff.png",
-      "hash": "ba7831d3ed2e6449c1ab0751ecfdecdc22875c999c48bb9088dc7ef2d5efd66a",
-      "size": 77088
+      "hash": "a8e03a217f542382498e9798d8f105b22e47dc2659b48d43cb064ef4734d944c",
+      "size": 63007
     },
     {
       "path": "assets/atlas/racecommon/racecommon.json",
-      "hash": "7f18ecf6ca4c3e6d46fdcb0d394526db622872630bb4e9ea53f796ee91f8297d",
-      "size": 166
+      "hash": "4d9563145e5aba42f3a9da1dd135b93f5eb68f12d7063b46ba1bdd07c2469e9c",
+      "size": 84
     },
     {
       "path": "assets/atlas/raceorder/raceorder.json",
@@ -1500,8 +1500,8 @@
     },
     {
       "path": "assets/atlas/trainingreport/trainingreport.diff.png",
-      "hash": "b824e9b669d544b15fcabcf1dba42db7b00f3bd47c921f8fe826198274ca962f",
-      "size": 98758
+      "hash": "5871c6062f6f78884fbfb79a91fb99a6de9cba0be567333f5b0583c999c4aa5f",
+      "size": 62782
     },
     {
       "path": "assets/atlas/trainingreport/trainingreport.json",
@@ -18552,6 +18552,11 @@
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter00.json",
       "hash": "ddbf3a5a03527b613d56a34de45528e88d2c7683e1759de766d9712605aca620",
       "size": 771
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter01.json",
+      "hash": "089e9f21f721b973658fbc141dc15d12021d79d72a1d919fddc0a901773fb4f0",
+      "size": 2238
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_hint00.json",
