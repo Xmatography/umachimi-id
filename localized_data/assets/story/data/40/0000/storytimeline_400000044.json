@@ -1,8 +1,8 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "<chrname> mengalami cedera parah...!"
+            "text": "<chrname>\nmengalami cedera parah...!"
         },
         {
             "text": "Haruskah aku menghiburnya, atau tetap tegas? Apa yang harus kulakukan...",
@@ -21,7 +21,7 @@
             "text": "Tidak ada waktu untuk berdiam diri!\nDengan hati yang tegar, aku memutuskan untuk tetap bersikap tegas pada <chrname>."
         },
         {
-            "text": "Namun akibatnya, ia dipaksa melampaui batasnya, dan cederanya semakin parah... # gagal"
+            "text": "Namun akibatnya, ia dipaksa melampaui batasnya, dan cederanya semakin parah..."
         },
         {
             "text": "Namun secara ajaib, cederanya justru sembuh total dan latihan pun berjalan lancar!!"
