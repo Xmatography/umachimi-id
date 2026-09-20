@@ -1,0 +1,83 @@
+{
+    "windows": {
+        "bundle_name": "BSTCOVHZWGJCRBPVZMFSUPQUWSYVLWNE"
+    },
+    "android": {
+        "bundle_name": "B5DGDYEF6UVEWSFXASSHUGNUWXAEKT5P"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "text": "BALAPAN",
+                        "scale": {
+                            "x": 0.45,
+                            "y": 0.45,
+                            "z": 1.0
+                        },
+                        "position_offset": {
+                            "x": -2.0,
+                            "y": -3.0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Tersisa"
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran",
+                        "scale": {
+                            "x": 0.9,
+                            "y": 0.9,
+                            "z": 1.0
+                        }
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Selesai"
+                    }
+                }
+            },
+            "15": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Setelah putaran"
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Rapat Evaluasi!"
+                    }
+                }
+            },
+            "19": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Putaran"
+                    }
+                }
+            },
+            "20": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Sampai pertemuan"
+                    }
+                }
+            }
+        }
+    }
+}
