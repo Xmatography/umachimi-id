@@ -2,6 +2,18 @@
 Untuk dukungan dan info lainnya kunjungi:
 -> umachimi.carrd.co <-
 
+# TL UPDATE 18-09-26
+**🟢 New :**
+- Home dialog Tamamo Cross
+- Career event Daiwa Scarlet & Espoir City
+
+**🟠 Improved:**
+- Fix bug atlas eror
+- Koreksi home dialog Buena, Heart, Kitasan, Machitan, Espoir, Neicha
+- Koreksi story Agnes Digital eps. 1
+- Koreksi lain-lain
+
+
 # TL Update 01-09-26
 ## MAJOR UPDATE!
 Setelah update ini dan seterusnya, disarankan pake versi Hachimi fork Reko
@@ -36,6 +48,7 @@ Konten baru lainnya :
 - Normalize nama karakter
 - Koreksi
 
+
 # TL UPDATE 25-08-26
 **🟢 New :**
 - Dialog system tazuna
@@ -46,6 +59,7 @@ Konten baru lainnya :
 - Perbaikan Atlas
 - Koreksi Story Admire Vega
 - Koreksi lain-lain
+
 
 # TL UPDATE 09-08-26
 **🟢 New :**
@@ -60,7 +74,6 @@ Konten baru lainnya :
 - Fix bug agenda
 
 # TL UPDATE 22-07-26
-
 **🟢 New :**
 - Lirik Yukoma Thermae (onsen)
 - Impor nama skill dari global
@@ -78,8 +91,8 @@ Konten baru lainnya :
 - Koreksi
 - Perbaikan aset grafis lainnya
 
-# TL UPDATE 15-07-26
 
+# TL UPDATE 15-07-26
 ## Skenario
 **🟢 New :**
 - Teks sistem Ramen Tracen (aset grafis menyusul)
@@ -95,7 +108,6 @@ Konten baru lainnya :
 
 
 # TL UPDATE 02-07-26
-
 ## Lirik
 **🟢 New :**
 - Tracen Ramen Retsuden

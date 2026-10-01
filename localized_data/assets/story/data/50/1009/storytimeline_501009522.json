@@ -1,0 +1,25 @@
+{
+    "text_block_list": [
+        {
+            "text": "Suatu pagi di hari libur.\nAku melihat Daiwa Scarlet di depan apotek."
+        },
+        {
+            "text": "Eh. Trainer!?\nStop! Jangan mendekat lebih jauh!",
+            "choice_data_list": [
+                "N-napa?"
+            ]
+        },
+        {
+            "text": "Napa... ya itu......\nDi, di jidat aku ada... jerawat."
+        },
+        {
+            "text": "Udah susah-susah keluar pagi-pagi biar nggak ketemu orang yang dikenal.\nIni gimana sih. Beneran deh."
+        },
+        {
+            "text": "P, pokoknya begitu ya!\nDadah!"
+        },
+        {
+            "text": "Sepertinya Daiwa Scarlet sedang\ndilanda masalah dengan kondisi kulitnya......"
+        }
+    ]
+}
