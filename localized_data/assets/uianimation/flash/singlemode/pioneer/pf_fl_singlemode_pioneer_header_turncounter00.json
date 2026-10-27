@@ -1,9 +1,9 @@
 {
     "windows": {
-        "bundle_name": "AHHKMPBEUKSROLASVIQQ6FUQGJBKSIGC"
+        "bundle_name": "EAR2FMSFPM5US3PKNXFBWLQITLSF3HHV"
     },
     "android": {
-        "bundle_name": "3JOKLNI32HJG7A6YAJIBOJ2RBY4PYITM"
+        "bundle_name": "4PMLNP5JAAPKIARMMX6GVPTXFKX3KLY6"
     },
     "data": {
         "motion_parameter_list": {
@@ -36,7 +36,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "Eval Meeting\nafter turn end"
+                        "text": "Pertemuan Eval\nsetelah putaran"
                     }
                 }
             },
@@ -50,7 +50,7 @@
             "17": {
                 "text_param_list": {
                     "0": {
-                        "text": "Eval Meeting in"
+                        "text": "Pertemuan Eval dalam:"
                     }
                 }
             }

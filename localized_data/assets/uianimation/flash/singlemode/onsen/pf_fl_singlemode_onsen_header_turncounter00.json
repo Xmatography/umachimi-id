@@ -1,9 +1,9 @@
 {
     "windows": {
-        "bundle_name": "XOAELWKWOXIVHUZNWRFNBS4QGOZIDV6B"
+        "bundle_name": "NIOFY4H2WHCZ73BGSMG4WDHCX54EA5PS"
     },
     "android": {
-        "bundle_name": "GN43B2D3K24G2435NU3RASH6XFEOHWSG"
+        "bundle_name": "4OLCTOT42LRBPYHVZMTRAHEM72YAIBNP"
     },
     "data": {
         "motion_parameter_list": {
@@ -36,7 +36,7 @@
             "13": {
                 "text_param_list": {
                     "0": {
-                        "text": "Comm. Bath\nafter turn end"
+                        "text": "Pesta Mandi\nsetelah putaran"
                     }
                 }
             },
@@ -50,7 +50,7 @@
             "17": {
                 "text_param_list": {
                     "0": {
-                        "text": "Comm. Bath in"
+                        "text": "Sampai Pesta Mandi"
                     }
                 }
             }
