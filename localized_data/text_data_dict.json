@@ -1094,7 +1094,8 @@
     "9048": "Haiseiko",
     "9049": "Tucker Bryne",
     "9050": "Hoshina Kiyoko",
-    "9051": "Yunohana Bloom"
+    "9051": "Yunohana Bloom",
+    "9052": "Azuma"
   },
   "7": {
     "1001": "Azumi Waki",
@@ -1269,7 +1270,8 @@
     "9048": "Sakura Tange",
     "9049": "Kobayashi Yū",
     "9050": "Takagaki Ayahi",
-    "9051": "Toyosaki Aki"
+    "9051": "Toyosaki Aki",
+    "9052": "Kotono Mitsuishi"
   },
   "8": {
     "1001": "Asrama Ritto",
@@ -3062,7 +3064,8 @@
     "8508": "Elegance in Fall",
     "8509": "Snowscapes of Winter",
     "8510": "Battle Dance",
-    "9051": "[MC] Treasured Smile -Beyond The Future!―"
+    "9051": "[MC] Treasured Smile -Beyond The Future!―",
+    "1195": "Dance of Divine Blooms"
   },
   "17": {
     "1001": "Lirik, komposisi, dan aransemen: Akihiro Honda (Cygames)",
@@ -3270,7 +3273,9 @@
     "8508": "Komposer: Pure Sound",
     "8509": "Komposer: Pure Sound",
     "8510": "Komposer: Pure Sound",
-    "9051": "None"
+    "9051": "None",
+    "1195": "Lirik & Komposisi: Daiki Abe & GAK (amazuti)\nAransemen: GAK (amazuti)",
+    "1212": "Lirik & Komposisi: Kenji Ikeda (Cygames) & Kenichi Maeyamada\nAransemen: Kenji Ikeda (Cygames)"
   },
   "23": {
     "1": "Sepatu Sprint",
@@ -30896,6 +30901,7 @@
     "10143": "Victoire Pisa",
     "10144": "Marche Lorraine",
     "10148": "Samson Big",
+    "10149": "Azuma",
     "20001": "Fuji Kiseki",
     "20002": "Daiwa Scarlet",
     "20003": "Hishi Amazon",
@@ -31285,7 +31291,8 @@
     "30294": "Daring Heart",
     "30295": "Curren Bouquetd'or",
     "30296": "Aston Machan",
-    "30316": "Samson Big"
+    "30316": "Samson Big",
+    "30323": "Azuma"
   },
   "78": {
     "10001": "Special Week",
@@ -31431,6 +31438,7 @@
     "10143": "Victoire Pisa",
     "10144": "Marche Lorraine",
     "10148": "Samson Big",
+    "10149": "Azuma",
     "20001": "Fuji Kiseki",
     "20002": "Daiwa Scarlet",
     "20003": "Hishi Amazon",
@@ -31820,7 +31828,8 @@
     "30294": "Daring Heart",
     "30295": "Curren Bouquetd'or",
     "30296": "Aston Machan",
-    "30316": "Samson Big"
+    "30316": "Samson Big",
+    "30323": "Azuma"
   },
   "88": {
     "10001": "Namaku Special Week! Mimpiku adalah menjadi Umamusume Best in Japan! Demi membuat Ibu dan yang lainnya senang... aku akan berjuang sekuat tenaga!",
@@ -33122,7 +33131,8 @@
     "11": "Selamat Datang di Pulau Terpencil \\n-DESIGN YOUR ISLAND-",
     "12": "Surga Dunia♪ \\nDesa Pemandian Air Panas Yukoma",
     "13": "Beyond Dreams \\nMaju Bersama, Berkilau Bersama",
-    "14": "Selamat datang! Kedai Tracen!\\n～ Misi Balas Budi, Telah Dimulai ～"
+    "14": "Selamat datang! Kedai Tracen!\\n～ Misi Balas Budi, Telah Dimulai ～",
+    "15": "Mengurai Sejarah dan Persahabatan\n- Festival Agung Ritual Kuda Suci -"
   },
   "120": {
     "1": "$(scale 90)Dengan deklarasi dari Akikawa, Ketua Yayasan Akademi yang mungil dan eksentrik！ Sebuah balapan baru <color=#FF6D26>\"URA Finale\"</color> telah didirikan！ Demi tahta juara pertama, perjuangan para Trainer dan Umamusume kini dimulai—!",
@@ -33138,7 +33148,8 @@
     "11": "$(scale 90)Proyek pulau yang terpencil tiba-tiba dimulai. Naik di atas impian Tucker Bryne dan ikuti insting alamimu! Membaralah Umamusume! Demi melatih fisik dan mental menjadi lebih liar, mari bangun fasilitas pelatihan terkuat!",
     "12": "$(scale 90)Undangan relaksasi <color=#FF6D26>\"Desa Onsen Yukoma\"</color> tiba ke para Umamusume. Namun, desa Onsen itu berada dalam krisis...?! Hidup baik berawal dari istirahat berkualitas. Mari renungkan arti \"pemulihan\" dan hidup dengan sehat.",
     "13": "$(scale 90)Breeders' Cup. Mengusung kemenangan di festival G1 terbesar dunia. Mantan penantang Casino Drive, meluncurkan Proyek Ekspedisi. Dengan ambisi di dada, hari-hari tantangan para Umamusume menuju dunia dimulai！",
-    "14": "$(scale 90)Membalas budi para penggemar lewat ramen!\nPara Umamusume yang punya ide itu, segera menggelar acara ramen nasional. Dengan bantuan Tazuna Hayakawa dan Light Hello, Kedai Tracen resmi membuka pintunya—!"
+    "14": "$(scale 90)Membalas budi para penggemar lewat ramen!\nPara Umamusume yang punya ide itu, segera menggelar acara ramen nasional. Dengan bantuan Tazuna Hayakawa dan Light Hello, Kedai Tracen resmi membuka pintunya—!",
+    "15": "$(scale 85)<color=#FF6D26>\"Festival Agung Ritual Kuda Suci\"</color> yang diadakan setiap 12 tahun sekali. Beberapa Umamusume ditunjuk untuk peran khusus sebagai Kuda Suci. Kata Miko: 'Demi ikatan antara Umamusume dan manusia.' Kisah ini adalah jembatan yang menghubungkan masa lalu dan masa depan."
   },
   "121": {
     "1": "Debut",
@@ -33358,7 +33369,9 @@
     "8508": "$(scale 85)Satu lagu dari Derby Stallion Masters untuk musim gugur.\\nMelodinya yang sendu membuat kita merasakan gemerisik dedaunan musim gugur yang indah.",
     "8509": "$(scale 85)Satu lagu dari Derby Stallion Masters untuk musim dingin.\\nAlunan melodinya yang lembut membuat kita merasakan fajar musim dingin yang diselimuti salju putih.",
     "8510": "$(scale 85)BGM yang diputar saat pertarungan sengit di Derby Stallion Masters.\\nLagu yang membuat kita merasakan panasnya pertarungan sengit yang membara bersama tekad yang kuat.",
-    "9051": "Kosong"
+    "9051": "Kosong",
+    "1195": "$(vo 1)$(ho 1)$(scale 85)Menarilah, berharaplah, bernyanyilah, dan berdoalah.\nHingga perasaan ini sampai ke langit. Semoga namamu yang bergema\ndi atas panggung membawa cahaya bagi tanah ini.",
+    "1212": "$(scale 85)Lagu santai para Umamusume yang terlalu asyik dan kegirangan sampai-sampai bikin rumput ikut ketawa wwww! Kalau didengar, senyuman pun dijamin ikut 'tumbuh' juga!? "
   },
   "130": {
     "1": "Rainy Runner",
@@ -34626,7 +34639,8 @@
     "9047": "Pionir legendaris yang merintis jalan menuju dunia",
     "9048": "Bintang besar nasional☆ Idola monster yang melahirkan antusiasme membara♪",
     "9049": "Penanggung jawab proyek pulau tak berpenghuni yang terus maju dengan tekad membara",
-    "9050": "Dewi pemandian air panas yang menguasai seni 'relaksasi' sepenuhnya"
+    "9050": "Dewi pemandian air panas yang menguasai seni 'relaksasi' sepenuhnya",
+    "9052": "Mendoakan Ikatan Abadi\\nPemandu setiap 12 Tahun sekali"
   },
   "147": {
     "101": "Speed",
@@ -37340,7 +37354,8 @@
     "9047": "3 Mei",
     "9048": "6 Maret",
     "9049": "21 Juni",
-    "9050": "7 April"
+    "9050": "7 April",
+    "9052": "Tidak Diketahui"
   },
   "158": {
     "1001": "158 cm",
@@ -37878,7 +37893,8 @@
     "9047": "Aku Speed Symboli. Seseorang yang mempercayai potensi tanpa batas yang bersemayam di dalam diri kalian. Ayo, mari kita jungkirbalikkan dunia.",
     "9048": "Halo, aku Haiseiko! Si \"Beast Mode\" Orisinal... akan merebut hatimu juga. Hap♪",
     "9049": "Namaku Tucker Bryne! Demi mengharapkan lompatan yang lebih tinggi bagi para Umamusume sekalian, aku mendirikan PJ Pulau Terpencil! Ayo, bebaskan insting kalian!",
-    "9050": "Saya pemilik penginapan Yukoma, Kiyoko Hoshina. Air panas sangat baik untuk kelelahan dan cedera. Tentu saja, kesehatan adalah yang utama... Ah, tidak, hohoho!"
+    "9050": "Saya pemilik penginapan Yukoma, Kiyoko Hoshina. Air panas sangat baik untuk kelelahan dan cedera. Tentu saja, kesehatan adalah yang utama... Ah, tidak, hohoho!",
+    "9052": "Saya Azuma, miko dari Shuntaisai.\\nMari kita jaga dan hormati ikatan antara Umamusume dan manusia, lalu meneruskannya... ke generasi berikutnya."
   },
   "164": {
     "1001": "Ulasan makanan yang terasa nyata",
@@ -38874,7 +38890,8 @@
     "9048": "Haiseiko",
     "9049": "Tucker Bryne",
     "9050": "Hoshina Kiyoko",
-    "9051": "Yunohana Bloom"
+    "9051": "Yunohana Bloom",
+    "9052": "Azuma"
   },
   "171": {
     "10": "Layar Judul",
@@ -41480,7 +41497,8 @@
     "9047": "Kepala Divisi Bisnis Luar Negeri URA",
     "9048": "Idol Aktif",
     "9049": "Penanggung Jawab Proyek Pulau Tak Berpenghuni",
-    "9050": "Pemilik Penginapan"
+    "9050": "Pemilik Penginapan",
+    "9052": "Miko (Gadis Kuil)"
   },
   "174": {
     "9004": "Happy Meek"
@@ -53955,7 +53973,8 @@
     "1157": "Mencapai salah satu dari kondisi berikut:\n◆ [Karir] Tonton \"Pemandian Air Panas Yukoma, Selamanya\"\n◆ [Karir] Tonton \"Pyoiya! Perjamuan Makan Besar!\"",
     "1177": "Mencapai salah satu dari kondisi berikut:\n◆ [Karir] Juara 1 di BC Turf Sprint\n◆ [Karir] Juara 1 di BC Mile\n◆ [Karir] Juara 1 di BC Filly & Mare Turf\n◆ [Karir] Juara 1 di BC Turf\n◆ [Karir] Juara 1 di BC Sprint\n◆ [Karir] Juara 1 di BC Filly & Mare Sprint\n◆ [Karir] Juara 1 di BC Dirt Mile\n◆ [Karir] Juara 1 di BC Distaff\n◆ [Karir] Juara 1 di BC Classic",
     "1181": "◆ [Karir] Mengadakan Super Ramen Jamboree : Kiwami",
-    "1193": "◆ [Extra] Tonton cerita \"Anniversary 5.5\", Eps. 3."
+    "1193": "◆ [Extra] Tonton cerita \"Anniversary 5.5\", Eps. 3.",
+    "1195": "◆ [Karir] Mengadakan Festival Agung Ritual Kuda Suci"
   },
   "253": {
     "1001": "Please listen to Falko's thank you message \\nafter the birthday live!"
@@ -54078,6 +54097,7 @@
     "1105": "Lemon tidak boleh 'digigit' langsung",
     "1106": "Kalau ada hal baik, ceritakan pada seseorang untuk berbagi kebahagiaan",
     "1107": "Kalau benar-benar bingung, putuskan dengan lempar koin",
+    "1108": "Selalu pasang tag pelacak pada barang-barang penting agar tidak hilang",
     "1109": "Kalau bingung menjawab soal tes, sentuh rambut gaya petirku",
     "1110": "Saat musim dingin, tidurlah dengan selimut yang menutupi sampai ke atas leher",
     "1113": "Setelah berusaha 10 menit, istirahat 15 menit!",
@@ -54182,6 +54202,7 @@
     "1105": "Siapa pun yang melihatnya akan menyadari ada “perubahan” setiap kali melihatnya",
     "1106": "Foto yang diambil bersama Dantsu-chan di depan penginapan pemandian air panas",
     "1107": "Foto piza paling besar yang pernah kulihat akhir-akhir ini",
+    "1108": "Tidak diubah dari pengaturan awal",
     "1109": "Foto saat pergi liburan ke Hokkaido bersama Cesario",
     "1110": "Foto bersama saat mengunjungi klub balap",
     "1113": "Swafoto paling bagus yang kuambil baru-baru ini♪",
@@ -54286,6 +54307,7 @@
     "1105": "'Percaya' pada \"Connection\"",
     "1106": "Seringkali membandingkannya dengan popularitas hari sebelumnya",
     "1107": "Tentu saja, tap dance!",
+    "1108": "Mengangkat kaki tinggi-tinggi untuk memeriksa jangkauan gerak",
     "1109": "Membiarkan pakaian tanding berjemur di bawah sinar matahari untuk mengisi Power!",
     "1110": "Mencatat perasaan dan hal lainnya agar bisa disampaikan kepada generasi penerus",
     "1113": "Umatock sampai menit terakhir",
@@ -54302,6 +54324,7 @@
     "1005": "Menari (ahli dalam segala jenis, terutama jazz)",
     "1006": "Suka praktik memasak, latihan menari (*sebagian)",
     "1007": "Parapsikologi",
+    "1009": "Semua Mata Pelajaran (Peringkat teratas angkatan, wajib dipertahankan!)",
     "1010": "Bahasa Inggris (tapi disuruh berusaha lebih keras untuk mata pelajaran lain)",
     "1011": "Bahasa Nasional (terutama sastra klasik)",
     "1013": "Sejarah balap, strategi balap, nutrisi olahraga",
@@ -54337,6 +54360,7 @@
     "1005": "Koleksi pamflet dari pertunjukan teater yang pernah ditonton",
     "1006": "Dikelilingi oleh orang-orang yang sangat, sangat baik",
     "1007": "Repertoar tiruan suara",
+    "1009": "Tata cara makan di meja makan selalu dipuji oleh Mama.",
     "1010": "Di peternakan keluarga, sering disukai oleh domba",
     "1011": "Sudah bisa memainkan lagu live dengan seruling naga (ryuteki)",
     "1013": "Sudah tidak terlalu terkejut dengan perilaku aneh orang lain seperti dulu",
@@ -54372,6 +54396,7 @@
     "1005": "Krim tangan bebas minyak",
     "1006": "Kaus kaki, kartu pos",
     "1007": "Bumbu masakan skala industri",
+    "1009": "Set surat, kertas loose-leaf, buku kosakata",
     "1010": "Saus tomat, perlengkapan membungkus kado",
     "1011": "Kartu pos bergambar (untuk dikirim ke keluarga di kampung halaman)",
     "1013": "Brosur film yang sudah selesai ditonton",
