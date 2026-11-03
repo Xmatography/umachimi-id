@@ -1,0 +1,161 @@
+{
+    "title": "Flashing a Smile",
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Sudah beberapa waktu aku menjadi pelatih Admire Groove, \ndan meski latihannya berjalan lancar..."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "<i>Hah… haah… haaaa…</i>",
+            "choice_data_list": [
+                "Bagus, ayo lanjut ke tanjakan dan ——"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Aku <i>tahu</i> jadwal latihannya, kau tidak perlu \nmengingatkanku setiap saat."
+        },
+        {
+            "text": "...Kata-katanya yang tajam dan sikapnya yang menjaga jarak \nkini sudah menjadi hal yang biasa bagiku."
+        },
+        {
+            "name": "Pelatih Senior",
+            "text": "Kalian berdua belum banyak kemajuan ya? \nHahah, semangat, deh..."
+        },
+        {
+            "name": "Pelatih Sebaya",
+            "text": "Kalau aku jadi kamu, aku rasa aku nggak bakal tahan \ndengan sikap dinginnya yang terus-terusan... Kamu masih kuat kan?"
+        },
+        {
+            "text": "Dua pelatih lain yang akrab denganku terkadang \nmengajak ngobrol, setelah melihat interaksi kami \nberkali-kali dengan sedikit rasa khawatir."
+        },
+        {
+            "text": "Namun, meski aku menghargai kekhawatiran mereka, itu tidak diperlukan. \nMalahan, aku jadi lebih termotivasi setiap kali melihat \nbetapa sungguh-sungguhnya dia saat berlari."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "<i>…Hahh… haah…</i>"
+        },
+        {
+            "name": "Admire Groove",
+            "text": "……"
+        },
+        {
+            "name": "Admire Groove",
+            "text": "<i>……Hm. Hahh…!</i>"
+        },
+        {
+            "text": "Satu-satunya masalah adalah... Aku merasa setiap kali mereka \nmendekatiku seperti itu, Admire Groove semakin \nmenjaga jarak dariku.",
+            "choice_data_list": [
+                "(Yah, itu bukan pertanda bagus...)",
+                "(Yah, itu bukan pertanda bagus...)"
+            ]
+        },
+        {
+            "text": "Aku tidak bisa begitu saja mengabaikan rekan-rekanku saat mereka dengan ramah  mendukungku. Di sisi lain, aku tidak bisa membiarkan \nhal ini memengaruhi kondisi mental Admire Groove."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "<i>Hahh… pheh… phew…</i>"
+        },
+        {
+            "name": "Admire Groove",
+            "text": "......Menikmati pemandangannya?"
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Kalau kau tidak bisa fokus, kenapa kau tidak pulang saja \ndan tidur siang. Program hari ini juga sudah ditetapkan, \naku bisa menyelesaikannya sendiri.",
+            "choice_data_list": [
+                "Ah, maaf! Aku baik-baik saja kok. Selalu siap!"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "......Aku akan lanjut ke menu latihan berikutnya. \nLakukan saja sesukamu.",
+            "choice_data_list": [
+                "Ah..."
+            ]
+        },
+        {
+            "text": "...Biar aku fokus pada apa yang ada di depanku dulu saja. \nKalau aku berusaha keras, hubungan kami pada akhirnya akan membaik \ndan yang lain akan mulai mengerti, aku yakin itu."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Apa kau yang meninggalkanku minuman ini? \nSudah kubilang kau tidak perlu repot-repot.",
+            "choice_data_list": [
+                "Kebetulan aku juga lagi haus, itu saja kok!"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "……"
+        },
+        {
+            "text": "Aku memutuskan untuk bersikap seolah hal seperti ini adalah hal yang sangat normal, sesuatu yang sepele, dengan harapan dia perlahan akan belajar \nmenerima kebaikan-kebaikan kecil ini."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Kau tidak perlu datang mengawasi latihan soloku. \n...Aku bisa menanganinya sendiri.",
+            "choice_data_list": [
+                "Oke, siap laksanakan!"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "………"
+        },
+        {
+            "text": "Ditolak pun tidak masalah. Aku cukup menanggapinya \ndengan senyuman. Kalau aku bisa membuatnya merasa bahwa sikapnya tidak \nmembuatku patah semangat, itu sudah cukup."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Seingatku, aku menyuruhmu untuk sekadar meletakkan program latihan besok \nuntukku. Aku tidak butuh penjelasan lisan.",
+            "choice_data_list": [
+                "Dimengerti, tanyakan saja kalau ada yang kurang jelas!"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "...Apa yang <i>sebenarnya</i> merasukimu? Kau terus bertingkah sok ceria \nbeberapa hari ini. Apa kau sedang mengejekku atau semacamnya?",
+            "choice_data_list": [
+                "Eh? Enggak, aku tidak bermaksud ——"
+            ]
+        },
+        {
+            "text": "...Waduh. Apa usahaku jadi bumerang? Mungkin aku terlalu \nmemaksakan diri. Dengan panik, aku mencoba meyakinkannya \nbahwa aku sama sekali tidak mengejeknya."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Kalau bukan begitu, lalu aku sulit mengerti \nkenapa kau terlihat bahagia dengan cara yang aneh..."
+        },
+        {
+            "name": "Admire Groove",
+            "text": "Atau apakah ini semacam upaya untuk mendekatkan diri? \nSeakan-akan senyum hampa itu bakal membantu saja.",
+            "choice_data_list": [
+                "...Aku melakukan ini murni karena aku mau!"
+            ]
+        },
+        {
+            "name": "Admire Groove",
+            "text": "......Aku tidak butuh apapun yang kau lakukan itu."
+        },
+        {
+            "text": "Parahnya lagi, usahaku untuk meresponsnya \ndengan senyuman malah menimbulkan kecanggungan dengan rekan-rekanku..."
+        },
+        {
+            "name": "Pelatih Senior",
+            "text": "Hei, um, apa kamu... suka dengan perlakuan kasar kayak gitu? \nItu tipemu ya? B-Bukannya aku mau ikut campur sih, selama \nkamu menikmatinya..."
+        },
+        {
+            "name": "Pelatih Sebaya",
+            "text": "I-Iya! Apapun yang bikin kamu bahagia deh! \nJangan khawatir, kami nggak bakal menghakimimu kok.",
+            "choice_data_list": [
+                "T-Tunggu dulu!? Tidaaaaaak......!!"
+            ]
+        },
+        {
+            "text": "Bukan <i>pemahaman</i> semacam itu yang aku harapkan..."
+        }
+    ]
+}
