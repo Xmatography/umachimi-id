@@ -28,10 +28,7 @@ def main():
             break
 
     if not ld_tree:
-        print("[Warning] localized_data tree not found; writing an empty index")
-        with open("index.json", "w", encoding="utf-8", newline='\n') as f:
-            json.dump(index, f, ensure_ascii=False, indent=2)
-        return
+        raise SystemExit("[Error] localized_data tree not found")
 
     hasher = blake3(max_threads=blake3.AUTO)
     for path in ls_tree(ld_tree, skip_trees=True):
