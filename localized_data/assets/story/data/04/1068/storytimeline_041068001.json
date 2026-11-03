@@ -1,235 +1,235 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "Aaaaaah?! The pole… is gonna fall overrrrr!! \nN-no waaay～!",
-            "name": "Umamusume A"
+            "name": "Umamusume A",
+            "text": "Aaaaaah?! Tiangnya… mau rubuuhhhh!! \nG-nggak mungkiiin～!"
         },
         {
-            "text": "Across the Tracen Academy grounds— a scream rang out."
+            "text": "Di seluruh lapangan Akademi Tracen— terdengar sebuah teriakan."
         },
         {
-            "text": "The classes were competing against each other in \"Pole Toppling\". \nOne team seemed to be on the verge of defeat…"
+            "text": "Kelas-kelas sedang bertanding satu sama lain dalam perlombaan \"Roboh Tiang\" (Bo-taoshi). dSatu tim sepertinya sudah berada di ambang kekalahan…"
         },
         {
-            "text": "Dangit～, no matter how many times we attack, we can't push deeper \nin to their camp?! What's with that strong guard～?",
-            "name": "Umamusume A"
+            "name": "Umamusume A",
+            "text": "Sial～, mau berapa kali pun kita serang, kita nggak bisa nembus \nlebih dalam ke markas mereka?! Pertahanan macam apa itu yang sekuat itu～?"
         },
         {
-            "text": "Aaaaah, the defense here is collapsing too～…! \nThis is… impossible～!!",
-            "name": "Umamusume B"
+            "name": "Umamusume B",
+            "text": "Aaaaah, pertahanan di sini juga mulai runtuh～…! \nIni… mustahil～!!"
         },
         {
-            "text": "Everyone…!! \nDon't give up!!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "We can still recover from this!! Defense team, listen up! \nThis is where we need to stand firm. Do your best to hold out.",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Three of you with confidence in your strength, follow \nme. If you can't hold out for long — we'll just \nhave to push through before they can.",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Kita-chan, you plan to take them on from the front, huh? \nThat's right, if it's Kita-chan…!",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "Yeah, leave it to me! Ever since I was a kid I've \ncarried those portable shrines that are way heavier \nthan me…! Just watch me, Dia-chan!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Everyoooooone, follow meeeeee!! Let's win this together! \nHaaaaaaaaaaaaaaaaa!!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "An unbelievable miracle occurred. She really \ndid break through the defense and knock over \nthe pole, a true come-from-behind victory."
-        },
-        {
-            "text": "That's our Kitasan! \nYo, our rescue captain!",
-            "name": "Umamusume B"
-        },
-        {
-            "text": "Ehehe, thanks! But this wasn't just because \nof me. We won because of everyone's efforts! \nLet's do our best in the next one too!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "As a trainer… that look in her eyes, the expression on her \nface, and that leadership made it hard not to admire her."
-        },
-        {
-            "text": "Hey hey, you over there, Trainer-kun!! \nLooks like that girl's got your attention, huh?",
-            "name": "Tokai Teio"
-        },
-        {
-            "text": "Kitasan Black, or Kita-chan for short! I'm looking forward to her \nfuture. Seeing how a girl that strong will become with training.",
-            "name": "Tokai Teio",
-            "choice_data_list": [
-                "You're… Tokai Teio",
-                "You're… Tokai Teio"
-            ]
-        },
-        {
-            "text": "Fufuun, looks like you know about me. Well, I guess that's not \nsurprising. If you hadn't heard of the invincible Teio-sama as a \ntrainer, then you must have been living under a rock!",
-            "name": "Tokai Teio"
-        },
-        {
-            "text": "Kita-chan, I wonder what kind of Umamusume she'll become. \nBefore, she used to say she wanted to be like me though.",
-            "name": "Tokai Teio"
-        },
-        {
-            "text": "Aaah, Teio-saaaan!!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Did you see me out there? My running play?",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "It's still nothing compared to Teio-san but, \nwhile aiming for my debut, I've been giving my all everyday!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Yep, hopefully you can start running soon! Entering a selection \nrace, and having someone become your trainer, too.",
-            "name": "Tokai Teio"
-        },
-        {
-            "text": "…Ah, that person next to you is a trainer, right? \nNice to meet you, I'm called Kitasan Black!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "She gave a deep bow with her greeting. \nSeems like she's a very sincere Umamusume."
-        },
-        {
-            "text": "Now that I think about it, Teio-san! I'm entering a mock race \nsoon. On the same day as my childhood friend, Dia-chan!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "We're running in different races, but we promised that \"We'll \nboth win!\". Um, if you're okay with it, will you come and watch?",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Yeah, of course! More importantly though, \nmake sure you show me an amazing run, okay～?",
-            "name": "Tokai Teio"
-        },
-        {
-            "text": "She's caught my interest, so I'm also going to go watch."
-        },
-        {
-            "text": "And then — The day of the mock race."
-        },
-        {
-            "text": "I'll win, I'm gonna win. Just like usual, run in a tight crowd, \nand eventually they'll fall behind one by one…",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Wait, eh? Eh? Nobody's falling… behind?! \nNo way, they're accelerating here…?!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Kitasan Black desperately chased after them. \nIn the end… she barely made it in top 5."
-        },
-        {
-            "text": "Kitasan, good work～… We definitely thought if it was our \nKitasan she'd win though… Were you feeling okay?",
-            "name": "Umamusume A"
-        },
-        {
-            "text": "Huuuuuh…? I thought I could do it though～. \nAh, Dia-chan's race is starting now…!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Next was Kitasan Black's childhood friend, \nSatono Diamond's turn to run."
-        },
-        {
-            "text": "This is… Tracen Academy's pace… It's just about how I \nthought. Just hold back for now. Not yet…",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "—!! Here! From here in one shot — \nYaaaaaaaaaaaaaaaaaaaaa!!",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "She brilliantly pulled through and won. Satono Diamond had pulled \nahead by a nose infront of the goal and claimed victory."
-        },
-        {
-            "text": "W-what happened, Dia-chan?! No, I mean, it's great that you won \nbut… your running style was different from usual, wasn't it?",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "I was totally unable to run well this time, but um… \ndid you do anything special this time around?!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Yeah… Tracen Academy races can't be compared to amateur ones. \nI understood that already so…",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "I continued studying at home, just that. \nAnd also, I just did what my family and coach kept telling me.",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "With everyone's help I kept preparing. \"To someday become a \nstrong Umamusume that can win a G1\". That's not just my dream.",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "It's also my family's dearest wish. From back then and up to this \nday, we've kept aiming for that. Before I was even born…",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "That's why, I'm just a little relieved. What I wanted \nto fulfill, for that dream that I have to fulfill no \nmatter what, I've taken one big step forward.",
-            "name": "Satono Diamond"
-        },
-        {
-            "text": "Dia-chan…",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "(I always thought… that we were both the same…)",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "(Playing together in the same way, competing against each other, \nsupporting each other, always at the same time. But…)",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "(…but I was wrong. After the sun had set and we parted ways… \nDia-chan, you were spending that time differently from me…)",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "(To win today — for your family, for your family's desire. \nThat's why Dia-chan won, and I…)",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "Kitasan Black continued to blankly stare off in to the distance. \nShe was standing there in frustration."
-        },
-        {
-            "text": "Maybe it was a bit rude but, I felt something strongly from the \nexpression of defeat on her face. \"This Umamusume is incredibly \nbrave, and awe-inspiring\""
-        },
-        {
-            "text": "I… wasn't… looking… \nI didn't understand anything…",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "But— But— from now on! \nI may have lost today, but—!",
             "name": "Kitasan Black",
+            "text": "Semuanya…!! \nJangan menyerah!!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Kita masih bisa membalikkan keadaan!! Tim bertahan, dengar! \nDi sinilah kita harus berdiri teguh. Berjuanglah sekuat tenaga untuk menahannya."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Tiga orang yang yakin dengan tenaga kalian, ikuti \naku. Kalau kalian nggak bisa bertahan lama — kita \ncuma perlu menerobos masuk sebelum mereka melakukannya."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita-chan, kamu berencana untuk menghadapi mereka dari depan, ya? \nBenar juga, kalau itu Kita-chan…!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ya, serahkan padaku! Sejak kecil aku sudah \nterbiasa memikul mikoshi yang jauh lebih berat \ndari tubuhku…! Lihat saja aksiku, Dia-chan!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Semuanyaaaaa, ikuti akuuuuu!! Ayo kita menangkan ini bersama! \nHaaaaaaaaaaaaaaaaa!!"
+        },
+        {
+            "text": "Sebuah keajaiban yang sulit dipercaya terjadi. Dia benar-benar \nberhasil menembus pertahanan dan merobohkan \ntiangnya, sebuah kemenangan epik dari belakang."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Itu baru Kitasan kita! \nYo, kapten penyelamat kita!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ehehe, terima kasih! Tapi ini bukan cuma karena \naku kok. Kita menang karena usaha semuanya! \nAyo berjuang sebaik mungkin di pertandingan berikutnya juga!"
+        },
+        {
+            "text": "Sebagai seorang pelatih… sorot matanya, ekspresi di \nwajahnya, dan jiwa kepemimpinan itu membuatku sulit untuk tidak mengaguminya."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hei hei, kamu yang di sana, Trainer-kun!! \nSepertinya gadis itu menarik perhatianmu, ya?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Kitasan Black, atau singkatnya Kita-chan! Aku menantikan \nmasa depannya. Ingin melihat akan jadi \nsseperti apa gadis sekuat itu setelah dilatih.",
             "choice_data_list": [
-                "Excuse me!"
+                "Kamu kan… Tokai Teio",
+                "Kamu kan… Tokai Teio"
             ]
         },
         {
-            "text": "Y-yeah?! \nOh, you're that trainer from before, aren't you?",
-            "name": "Kitasan Black"
+            "name": "Tokai Teio",
+            "text": "Fufuun, sepertinya kamu tahu tentangku. Yah, itu tidak \nmengherankan sih. Kalau kamu sebagai pelatih belum pernah dengar tentang Teio-sama yang tak terkalahkan, kamu pasti selama ini tinggal di dalam gua!"
         },
         {
-            "text": "As if I was charmed by her, and in awe of her- \nI couldn't help calling out.",
+            "name": "Tokai Teio",
+            "text": "Kita-chan, aku penasaran dia akan jadi Umamusume seperti apa nantinya. \nPadahal dulu dia pernah bilang kalau dia ingin jadi sepertiku."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aaah, Teio-saaaan!!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Apa kamu melihatku di sana? Aksi lariku tadi?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Masih belum ada apa-apanya dibandingkan Teio-san sih, tapi \ndemi mengejar debutku, aku selalu memberikan yang terbaik setiap hari!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yap, semoga kamu bisa segera mulai berlari, ya! Mengikuti balapan \nseleksi, dan juga mendapatkan seseorang untuk menjadi pelatihmu."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "…Ah, orang di sebelahmu itu seorang pelatih, kan? \nSalam kenal, namaku Kitasan Black!"
+        },
+        {
+            "text": "Dia membungkuk dalam saat memberi salam. \nSepertinya dia Umamusume yang sangat tulus."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ngomong-ngomong, Teio-san! Aku akan ikut balapan simulasi \nsebentar lagi. Di hari yang sama dengan teman masa kecilku, Dia-chan!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Kami berlari di balapan yang berbeda, tapi kami sudah berjanji kalau \"Kita berdua harus menang!\". Um, kalau kamu tidak keberatan, maukah kamu datang menonton?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ya, tentu saja! Tapi yang lebih penting, \npastikan kamu memperlihatkan lari yang luar biasa padaku, oke～?"
+        },
+        {
+            "text": "Dia telah menarik perhatianku, jadi aku juga akan pergi menonton."
+        },
+        {
+            "text": "Dan kemudian — Tibalah hari balapan simulasi tersebut."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aku akan menang, aku pasti menang. Sama seperti biasanya, berlari di kerumunan yang ketat, dan pada akhirnya mereka akan tertinggal satu per satu…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Tunggu, eh? Eh? Nggak ada yang… tertinggal?! \nNggak mungkin, mereka malah mempercepat laju di sini…?!"
+        },
+        {
+            "text": "Kitasan Black mati-matian mengejar mereka. \nPada akhirnya… dia dengan susah payah hanya berhasil masuk 5 besar."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Kitasan, kerja bagus～… Padahal kami yakin banget kalau Kitasan \nkita pasti bakal menang lho… Kamu lagi nggak enak badan, ya?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huuuuuh…? Padahal kukira aku bisa melakukannya～. \nAh, balapan Dia-chan sudah mau dimulai…!"
+        },
+        {
+            "text": "Selanjutnya adalah giliran teman masa kecil Kitasan Black, \nSatono Diamond, yang berlari."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Inilah… pace lari Akademi Tracen… Persis seperti yang \nkupikirkan. Tahan diri dulu untuk sekarang. Belum saatnya…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "—!! Sekarang! Dari sini dalam satu tarikan napas — \nYaaaaaaaaaaaaaaaaaaaaa!!"
+        },
+        {
+            "text": "Dia berhasil melesat dengan gemilang dan menang. Satono Diamond telah \nunggul tipis di depan garis finis dan mengklaim kemenangan."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A-apa yang terjadi, Dia-chan?! Bukan, maksudku, hebat sih kamu bisa menang \ntapi… gaya berlarimu tadi beda dari biasanya, kan?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aku sama sekali nggak bisa berlari dengan baik kali ini, tapi um… \napa kamu melakukan sesuatu yang spesial kali ini?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Iya… Balapan di Akademi Tracen tidak bisa dibandingkan dengan amatir. \nAku sudah memahami hal itu, jadi…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Aku terus belajar di rumah, hanya itu. Dan juga, aku cuma \nmelakukan apa yang terus dikatakan oleh keluarga dan pelatihku."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Dengan bantuan semuanya, aku terus bersiap. \"Untuk suatu hari nanti menjadi \nUmamusume kuat yang bisa memenangkan G1\". Itu bukan sekadar impianku saja."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Itu juga merupakan harapan terbesar keluargaku. Dari dulu sampai \nhari ini, kami terus mengincar hal itu. Bahkan sebelum aku lahir…"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Karena itulah, aku merasa sedikit lega. Apa yang ingin \nkuwujudkan, demi impian yang harus kucapai apa pun \nyang terjadi, aku telah mengambil satu langkah besar ke depan."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia-chan…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Aku selalu berpikir… kalau kita berdua itu sama…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Bermain bersama dengan cara yang sama, saling bersaing satu sama lain, \nsaling mendukung, selalu di waktu yang sama. Tapi…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(…tapi aku salah. Setelah matahari terbenam dan kita berpisah… \nDia-chan, kamu menghabiskan waktu itu dengan cara yang berbeda dariku…)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Untuk menang hari ini — demi keluargamu, demi keinginan keluargamu. \nItulah kenapa Dia-chan menang, sedangkan aku…)"
+        },
+        {
+            "text": "Kitasan Black terus menatap kosong ke kejauhan. \nDia berdiri di sana dalam rasa frustrasi."
+        },
+        {
+            "text": "Mungkin ini agak tidak sopan, tapi aku merasakan sesuatu yang kuat dari \nekspresi kekalahan di wajahnya. \"Umamusume ini sungguh luar biasa \nberani, dan sangat mengagumkan\""
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aku… tidak… memperhatikan… \nAku tidak mengerti apa-apa…"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Tapi— Tapi— mulai sekarang! \nAku mungkin kalah hari ini, tapi—!",
             "choice_data_list": [
-                "Will you let me be your trainer?",
-                "Will you let me be your trainer?"
+                "Permisi!"
             ]
         },
         {
-            "text": "Eh? Eeeeeeeeeeeeeeeeehhh?!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Y-ya?! \nOh, kamu kan pelatih yang tadi, kan?"
+        },
+        {
+            "text": "Seakan terpesona olehnya, dan terkagum-kagum padanya- \naku tidak bisa menahan diri untuk memanggilnya.",
+            "choice_data_list": [
+                "Maukah kamu membiarkanku menjadi pelatihmu?",
+                "Maukah kamu membiarkanku menjadi pelatihmu?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eh? Eeeeeeeeeeeeeeeeehhh?!"
         }
     ]
 }

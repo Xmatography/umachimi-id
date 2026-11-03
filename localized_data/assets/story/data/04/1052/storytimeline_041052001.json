@@ -1,168 +1,168 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": " At Tracen Academy, an event called the \"Classification Event\"\nis held, where the Umamusume race in different fields."
+            "text": "Di Akademi Tracen, sebuah acara bernama \"Ajang Klasifikasi\"\ndiadakan, di mana para gadis kuda berpacu di berbagai lintasan."
         },
         {
-            "text": "As the event draws nearer, many of the Umamusume are working\nfeverishly on their training for the competition."
-        },
-        {
-            "name": "???",
-            "text": "Haa…Haaa!\nJust a bit more…"
-        },
-        {
-            "text": "Here was another Umamusume who was exhausted,\nbut still determined to reach the goal."
+            "text": "Seiring makin dekatnya acara tersebut, banyak gadis kuda yang berlatih\nmati-matian untuk persiapan kompetisi ini."
         },
         {
             "name": "???",
-            "text": "Goaaaaal…\nHaa…Haa…"
+            "text": "Haa…Haaa!\nSedikit lagi…"
         },
         {
-            "text": "I ran to the Umamusume who had fallen down\nright after crossing the finish line. ",
+            "text": "Ada satu lagi gadis kuda yang kelelahan,\ntapi tetap bertekad mencapai garis akhir."
+        },
+        {
+            "name": "???",
+            "text": "Goooool…\nHaa…Haa…"
+        },
+        {
+            "text": "Aku berlari menghampiri gadis kuda yang terjatuh\ntepat setelah melewati garis finis.  ",
             "choice_data_list": [
-                "Are you okay!?",
-                "Are you okay!?"
+                "Kamu tidak apa-apa!?",
+                "Kamu tidak apa-apa!?"
             ]
         },
         {
             "name": "???",
-            "text": "I'm fine…"
+            "text": "Aku tidak apa-apa…"
         },
         {
             "name": "???",
-            "text": "Phew… If I'm going to take first place in\nthe competition, I have to work this hard."
+            "text": "Fiuh… Kalau aku mau juara satu di\nkompetisi nanti, aku harus berusaha sekeras ini."
         },
         {
             "name": "???",
-            "text": "Thanks for worrying about me.\n Eh, you are…?"
+            "text": "Makasih sudah mengkhawatirkanku.\n……Ehhhhh。"
         },
         {
-            "text": "I introduced myself to her as a trainer."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Oh! You are a trainer!\nI'm Haru Urara!"
+            "text": "Aku memperkenalkan diri kepadanya sebagai seorang pelatih."
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, hey, if you're a trainer, you're coming\nto watch the competition, right?",
+            "text": "Oh! Kamu Torena ya!\nAku Haru Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hei, hei, kalau kamu pelatih, kamu bakal datang\nnonton kompetisinya, kan?",
             "choice_data_list": [
-                "I'm planning to do it, of course, but...",
-                "I'm planning to do it, of course, but..."
+                "Tentu saja rencananya begitu, tapi...",
+                "Tentu saja rencananya begitu, tapi..."
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Then come and watch me run, too!\nI'm going to come in first, I promise!"
+            "text": "Kalau begitu datang dan tonton aku lari juga ya!\nAku bakal juara satu, janji deh!"
         },
         {
             "name": "Haru Urara",
-            "text": "I'm in excellent form, healthy, the carrots\nare delicious, so I feel like I can win!"
+            "text": "Kondisiku lagi prima banget, sehat, wortelnya\njuga enak, jadi aku merasa bisa menang!"
         },
         {
-            "text": "Training to the point of collapse, plus\nthis confident look on her face…"
+            "text": "Berlatih sampai nyaris pingsan, ditambah\nraut wajah yang penuh percaya diri ini…"
         },
         {
-            "text": "In a way, she might be a very special girl…?"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "All right, I'm going to continue training!\nI'll see you later. Bye-bye!"
+            "text": "Bisa dibilang, mungkin dia gadis yang sangat spesial…?"
         },
         {
             "name": "Haru Urara",
-            "text": "Eho…eho…waaa, my legs feels so heavy!"
-        },
-        {
-            "text": "With a cry that resembled a scream, Urara ran off."
-        },
-        {
-            "text": "Then on the day of the competition…\nI went to see what kind of race Urara would run."
-        },
-        {
-            "name": "Commentator",
-            "text": "As the race enters the final straight, each\nUmamusume makes her last spurt! Urara is falling\nbehind, and the gap is widening!"
+            "text": "Oke, aku mau lanjut latihan lagi!\nSampai jumpa nanti. Dah-daaah!"
         },
         {
             "name": "Haru Urara",
-            "text": "I'm not giving up yet!"
+            "text": "Eho…eho…waaa, kakiku terasa berat banget!"
         },
         {
-            "name": "Commentator",
-            "text": "The lead group is in a chaotic fight!\nThat's a close one! It's going to be a photo finish!"
+            "text": "Sambil berteriak, Urara berlari menjauh."
         },
         {
-            "text": "All the Umamusume except for Urara reached the finish line,\nbut she still kept running desperately."
+            "text": "Lalu pada hari kompetisi…\nAku pergi untuk melihat balapan seperti apa yang akan disajikan Urara."
         },
         {
-            "name": "Haru Urara",
-            "text": "I'm almost at the finish line! Almost there!\nOhhhhhhh!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Haru Urara with a delay… has just crossed the finish line!\nThe spectators are applauding!"
-        },
-        {
-            "text": "Her outcome was last place, and from the way she was running,\nI don't think she was injured or in bad shape. In other words,\nher current run is what she really is…"
-        },
-        {
-            "text": "It wasn't what I had hoped for… but I was strangely\nattracted to the way she kept running until the very end."
+            "name": "Komentator",
+            "text": "Saat balapan memasuki trek lurus terakhir, setiap\ngadis kuda melakukan sprint terakhirnya! Urara tertinggal, dan jaraknya makin melebar!"
         },
         {
             "name": "Haru Urara",
-            "text": "Haaa…Haa…So tired…",
+            "text": "Aku belum menyerah!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Grup terdepan bertarung sengit!\nJarak yang sangat tipis! Pemenangnya harus ditentukan lewat foto finis!"
+        },
+        {
+            "text": "Semua gadis kuda kecuali Urara telah mencapai garis finis,\ntapi dia masih terus berlari dengan susah payah."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sebentar lagi sampai finis! Hampir sampai!\nOhhhhhhh!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Haru Urara dengan ketertinggalannya… baru saja melewati garis finis!\nPara penonton bertepuk tangan!"
+        },
+        {
+            "text": "Dia finis di posisi terakhir, tapi dari cara berlarinya, dia tidak terlihat\ncedera atau dalam kondisi buruk. Dengan kata lain, \nmemang segini kemampuan aslinya.\n"
+        },
+        {
+            "text": "Memang tidak seperti yang kuharapkan… tapi entah kenapa aku tertarik\ndengan caranya terus berlari sampai akhir."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Haaa…Haa…Capek banget…",
             "choice_data_list": [
-                "Good work."
+                "Kerja bagus."
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Oh, the trainer from last time!\nYou came to see me!"
+            "text": "Oh, Torena yang waktu itu!\nKamu datang buat nonton aku!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hehe, I said I would win, but I lost.\nI failed to get the first place again～…"
+            "text": "Hehe, aku bilang bakal menang, tapi aku kalah.\nAku gagal dapat juara satu lagi deh~…"
         },
         {
             "name": "Haru Urara",
-            "text": "But hey, I was able to run as hard as I could until the end!\nAll that training was well worth it!",
+            "text": "Tapi hei, aku bisa berlari sekuat tenaga sampai akhir!\nSemua latihan itu terbayar lunas!",
             "choice_data_list": [
-                "—I could see how eager you were."
+                "—Aku bisa melihat betapa semangatnya dirimu."
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Really!? That's great!"
+            "text": "Benarkah!? Syukurlah kalau begitu!"
         },
         {
             "name": "Haru Urara",
-            "text": "That was fun… I want to run again…\nRunning is always fun!"
+            "text": "Tadi itu seru… Aku pengen lari lagi…\nLari itu selalu menyenangkan!"
         },
         {
             "name": "Haru Urara",
-            "text": "By the way, I'm also going to participate\nin the upcoming selection race!"
+            "text": "Ngomong-ngomong, aku juga bakal ikut balapan\nseleksi berikutnya!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, you should come watch too!\nI'm sure I can win the next time!",
+            "text": "Hei, kamu harus datang nonton juga ya!\nAku yakin bisa menang kali ini!",
             "choice_data_list": [
-                "Sure. I'm going to go see it"
+                "Tentu. Aku akan datang menontonnya."
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "It's a promise!"
+            "text": "Janji ya!"
         },
         {
             "name": "Haru Urara",
-            "text": "All right, I've got to keep training again!\nHey, Hey, Hoohh!"
+            "text": "Sip, aku harus lanjut latihan lagi!\nHei, Hei, Hoohh!"
         },
         {
-            "text": "Although she must be frustrated with her loss, Urara is very\nmotivated to compete in the next race."
+            "text": "Walaupun pasti merasa frustrasi dengan kekalahannya, Urara sangat\ntermotivasi untuk bertanding di balapan berikutnya."
         },
         {
-            "text": "She had such a positive attitude, and for some reason, I felt\nlike I wanted to see her run once more."
+            "text": "Dia punya sikap yang sangat positif, dan entah kenapa, aku merasa\ningin melihatnya berlari sekali lagi."
         }
     ]
 }

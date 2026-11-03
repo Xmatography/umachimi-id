@@ -1,0 +1,231 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Staf Klub Pelatihan",
+            "text": "Oh, pelatih dari Akademi Tracen ya!\nSelamat datang di klub kami. Mari, saya antar berkeliling fasilitasnya.",
+            "choice_data_list": [
+                "Baik, mohon bantuannya!"
+            ]
+        },
+        {
+            "text": "Kalau begitu, saya akan melihat juniorku dulu.\nWaktu catatan larinya akan aku laporkan nanti."
+        },
+        {
+            "text": "Aku pun diajak berkeliling fasilitas klub.\nSetelah berjalan sebentar dan sampai di lintasan yang luas……"
+        },
+        {
+            "text": "Ayo, maju.\nTunjukkan padaku hasil latihanmu.",
+            "choice_data_list": [
+                "! Suara itu……"
+            ]
+        },
+        {
+            "text": "Bagus, sebentar lagi lurus terakhir.\nLepaskan tenaga yang sudah kau simpan…… dan melesat ke depan!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "B-baik! Taaahhhh!",
+            "choice_data_list": [
+                "(Itu latihannya Phalaeno, ya!)"
+            ]
+        },
+        {
+            "name": "Staf Klub Pelatihan",
+            "text": "Hari ini juga lancar. Dia sangat dihormati oleh para juniornya.\nAnak-anak itu selalu menantikan sesi latihannya."
+        },
+        {
+            "text": "……Hm. Pembagian pacemu jauh lebih baik dari sebelumnya.\nKalau diteruskan, penurunan kecepatan di akhir balapan akan berkurang."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wah…… baik, terima kasih!",
+            "choice_data_list": [
+                "(Analisisnya juga tajam ya.)"
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Phalaeno-san, mau lari bersamaku sekali lagi?\nSedikit lagi rasanya aku dapat ritmenya――"
+        },
+        {
+            "text": "――Maaf, sesi lari bersama sudah selesai.\nKalau sekadar mengecek posturmu, boleh saja.",
+            "choice_data_list": [
+                "(Hm? ……Apa dia agak lelah?)",
+                "(Hm? ……Apa dia agak lelah?)"
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ah…… maaf!\nIni kan masih pagi ya…… Kalau begitu, aku akan lari sendiri! Tolong perhatikan aku!"
+        },
+        {
+            "text": "Baiklah, latihan bela diri kita mulai.\nKonsentrasi yang tajam juga berguna dalam lari. ――Kita mulai dari berbalik arah."
+        },
+        {
+            "text": "Saat diajak berkeliling area dalam, aku kembali melihat tempat mereka berlatih.\nTernyata dia tak hanya melatih lari, tapi juga banyak hal lain.",
+            "choice_data_list": [
+                "Kamu sangat menyayangi juniormu ya."
+            ]
+        },
+        {
+            "name": "Staf Klub Pelatihan",
+            "text": "Benar. Meski sudah masuk akademi, dia sering menyempatkan diri datang kemari. Dia benar-benar bisa diandalkan."
+        },
+        {
+            "name": "Staf Klub Pelatihan",
+            "text": "Kami harap dia juga bisa sukses di Twinkle Series.\nDia itu…… bunga kebanggaan klub ini."
+        },
+        {
+            "text": "Sore harinya, setelah tur fasilitas selesai, aku memandangi pemandangan di luar sendirian.\nDi tepi lintasan, bunga-bunga yang terawat rapi bergoyang perlahan tertiup angin.",
+            "choice_data_list": [
+                "(Benar-benar…… tempat yang bagus.)"
+            ]
+        },
+        {
+            "text": "Taaaaahhhh!",
+            "choice_data_list": [
+                "――!? Suara ini……"
+            ]
+        },
+        {
+            "text": "Ugh…………! Sisa 200…… tidak, 300 lagi!",
+            "choice_data_list": [
+                "(Phalaeno!? Apa yang sedang dia……)"
+            ]
+        },
+        {
+            "text": "Dia berlari mengelilingi dinding dojo dengan kecepatan yang luar biasa.\nSepertinya sudah cukup lama, wajahnya terlihat menahan sakit……",
+            "choice_data_list": [
+                "(……Eh? Bukannya tadi……)"
+            ]
+        },
+        {
+            "text": "Pagi tadi, dia menolak berlari bersama juniornya.\nKalau dia sanggup berlari sekeras ini, kenapa tidak di luar saja……?"
+        },
+        {
+            "text": "Hah…… Ah…… Pelatih ya.\nMaaf, aku tidak menyadarinya…… ugh!",
+            "choice_data_list": [
+                "Phalaeno, kau tidak apa-apa!?"
+            ]
+        },
+        {
+            "text": "Kupikir dia terluka, aku segera mendekat…… Tubuhnya panas.\nDia demam tinggi sampai bisa kurasakan hawa panasnya dari dekat!"
+        },
+        {
+            "text": "……Bukan apa-apa, jangan khawatir.\nDemam segini…… sudah biasa.",
+            "choice_data_list": [
+                "……Eh?"
+            ]
+        },
+        {
+            "text": "Hanya…… suhu tubuhku sedikit naik.\n……Aku harus mengambil kompres es."
+        },
+        {
+            "text": "Saat aku masih kebingungan, dia kembali ke ruangannya.\n……Ada yang aneh. Tingkah lakunya sejak tadi, seolah――",
+            "choice_data_list": [
+                "(!――Jangan-jangan……)"
+            ]
+        },
+        {
+            "text": "……Maaf sudah membuatmu khawatir tadi.\nDemamnya sudah turun. Aku memang selalu berlatih seperti itu.",
+            "choice_data_list": [
+                "……Phalaeno, boleh aku tanya satu hal?"
+            ]
+        },
+        {
+            "text": "Menolak berlari bersama di pagi hari. Berlatih di dalam ruangan yang jauh dari sinar matahari.\nLalu suhu tubuh yang tak stabil…… Semua kejanggalan ini saling terhubung.",
+            "choice_data_list": [
+                "Kau mengidap…… 'Gyakutaion' (Suhu Tubuh Terbalik)?",
+                "Kau mengidap…… 'Gyakutaion' (Suhu Tubuh Terbalik)?"
+            ]
+        },
+        {
+            "text": "――…………。……Ya."
+        },
+        {
+            "text": "――Suhu tubuh Umamusume normalnya rendah di pagi hari dan naik di siang hari.\nSebaliknya…… mereka yang suhu tubuhnya naik di pagi hari disebut mengidap 'Gyakutaion'."
+        },
+        {
+            "text": "'Gyakutaion' membuat suhu tubuh Umamusume sangat \ntidak stabil. Kadang mereka demam tinggi sehingga kesulitan \nmengeluarkan kemampuan maksimalnya.",
+            "choice_data_list": [
+                "Dengan kondisi begitu, kau memilih balapan……!?"
+            ]
+        },
+        {
+            "text": "Aku sudah belajar cara menanganinya. Tapi…… tetap saja aku tidak bisa memaksakan diri. Ditambah lagi, ototku mudah tegang."
+        },
+        {
+            "text": "……Waktu kecil, aku sering marah pada diriku sendiri.\nAku benci diriku yang lemah dan mudah tumbang. ――Tapi."
+        },
+        {
+            "text": "Klub pelatihan inilah yang mengubah diriku."
+        },
+        {
+            "text": "Metode latihan di dalam ruangan yang meminimalisir pengaruh suhu.\nPendinginan yang teliti, dan penanganan tepat saat demam."
+        },
+        {
+            "text": "Klub ini sungguh-sungguh membantuku mengatasi kondisi fisikku.\nBerkat itulah, aku bisa melatih lariku sejauh ini."
+        },
+        {
+            "text": "Dia…… mengatasi kondisi fisiknya yang tak cocok untuk balapan\nbersama klub ini. Demi bisa berlari, demi terus melangkah maju――",
+            "choice_data_list": [
+                "Tapi, melakukan latihan sekeras itu dengan kondisimu……"
+            ]
+        },
+        {
+            "text": "――Aku paham maksudmu, tapi.\nAku dan klub ini…… punya sebuah harapan."
+        },
+        {
+            "name": "Phalaeno Masa Lalu",
+            "text": "『Kemenangan G1…… ya?』"
+        },
+        {
+            "name": "Staf Klub Pelatihan",
+            "text": "『Aku sudah membicarakannya dengan staf lain.\nKami ingin suatu saat nanti, ada Umamusume hebat dari klub ini yang bisa mekar bersinar.』"
+        },
+        {
+            "name": "Phalaeno Masa Lalu",
+            "text": "『Suatu saat nanti……, ――Tidak.』"
+        },
+        {
+            "name": "Phalaeno Masa Lalu",
+            "text": "『Kalau begitu…… aku, Phalaenopsis, yang akan menjadi bunga itu.』"
+        },
+        {
+            "name": "Phalaenopsis",
+            "text": "――Klub ini sudah lama sekali merawatku.\nBagaimana mungkin aku tidak membalas budi mereka."
+        },
+        {
+            "text": "Kondisi tubuh ini hanya masalah sepele!\nHal seperti itu takkan bisa menghentikan langkahku."
+        },
+        {
+            "text": "Dengan tanganku sendiri, akan kupersembahkan kemenangan G1 untuk klub ini.\nAku akan melintasi medan pertempuran balapan, dan mekar dengan kuat!",
+            "choice_data_list": [
+                "(Jadi ini tekadnya……)"
+            ]
+        },
+        {
+            "text": "Ingin membalas budi klub yang membesarkannya dengan \nkemenangan. ――Di balik sorot matanya yang berwibawa, tersimpan \ntekad membara bak seorang petarung."
+        },
+        {
+            "text": "Meski demi kemenangan G1…… karir balapan sambil \nmelawan kondisi fisik adalah pertarungan panjang yang \nmenyiksa. Apalagi dia sampai memaksakan diri berlatih keras……",
+            "choice_data_list": [
+                "……Apa kau tidak merasa tersiksa?",
+                "……Apa kau tidak merasa tersiksa?"
+            ]
+        },
+        {
+            "text": "Jangan khawatir.\nAku sudah sangat paham cara menangani kondisiku. Lagi pula――"
+        },
+        {
+            "text": "Jalan ini tidak akan berakhir hanya dengan satu kemenangan G1."
+        },
+        {
+            "text": "Satu saja…… hanya kemenanganku saja tidak akan cukup.\nTujuanku adalah jauh di atas itu――"
+        },
+        {
+            "text": "Aku akan menjadikan klub ini…… 『Taman yang Paling Indah』."
+        }
+    ]
+}
