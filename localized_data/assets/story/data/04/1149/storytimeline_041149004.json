@@ -1,0 +1,288 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "text": "Ugh... Cuma segini...!\n...Tambah 10 set lagi, kita lanjut!",
+            "choice_data_list": [
+                "......Tidak, 20 set lagi!"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "......Anak itu nambah porsi lagi...!?\nPelatihnya juga super sparta...!"
+        },
+        {
+            "text": "Sudah beberapa waktu aku menjadi murid Phalaenopsis...\nMenu latihannya perlahan makin ekstrem.",
+            "choice_data_list": [
+                "(Dia... benar-benar kuat.)"
+            ]
+        },
+        {
+            "text": "Sekeras apa pun menunya, dia terus menantangnya tanpa ragu.\nTiap hari aku melihat sendiri tekad kuat yang tecermin dalam tindakannya."
+        },
+        {
+            "text": "Fuh... Lari 1600m 5 kali, selesai.\nNah, selanjutnya――",
+            "choice_data_list": [
+                "Tunggu, pertama-tama――"
+            ]
+        },
+        {
+            "text": "Aku segera membawanya ke tempat teduh dan menyiapkan minuman serta pendingin. Olahraga di luar ruangan sangat memengaruhi suhu tubuhnya.",
+            "choice_data_list": [
+                "Kita lanjut setelah tubuhmu tenang."
+            ]
+        },
+        {
+            "text": "......Begitu ya. Pantas saja menu di luar ruangan\ndibagi jadi porsi kecil-kecil.",
+            "choice_data_list": [
+                "Kita harus lanjut sambil sering istirahat.",
+                "Kita harus lanjut sambil sering istirahat."
+            ]
+        },
+        {
+            "text": "Ya. Balapan seleksi sudah dekat.\nTerus melangkah... tujuanku hanya kemenangan.",
+            "choice_data_list": [
+                "――! Ya, tentu saja.",
+                "――! Ya, tentu saja."
+            ]
+        },
+        {
+            "text": "......Dia takkan segan latihan sekeras apa pun demi balapan.\nMembimbing tekad itu menuju kemenangan adalah tugasku―― Tapi.",
+            "choice_data_list": [
+                "(......Ada satu hal yang harus kuputuskan.)"
+            ]
+        },
+        {
+            "text": "Malamnya, aku meninjau ulang balapan seleksi. Balapan dengan syarat\nsetara Twinkle Series ini membebani pesertanya dengan berat.",
+            "choice_data_list": [
+                "(......Apa benar kubiarkan dia berlari?)"
+            ]
+        },
+        {
+            "text": "......Keputusan ini mungkin sangat memengaruhi masa depannya.\nRasa takut sempat membuatku ragu. Tapi――",
+            "choice_data_list": [
+                "......Aku harus tunjukkan tekadku."
+            ]
+        },
+        {
+            "text": "Kau ingin ubah balapan seleksinya ke jalur tanah?",
+            "choice_data_list": [
+                "Ya. Saat ini, aku ingin menekan bebanmu sedikit pun.",
+                "Ya. Saat ini, aku ingin menekan bebanmu sedikit pun."
+            ]
+        },
+        {
+            "text": "............ Memang benar, jalur tanah\ndampaknya lebih kecil pada kaki―― Tapi."
+        },
+        {
+            "text": "Kukira sudah kubilang, taklukkan kondisiku ini.\nSeharusnya aku juga bisa dilatih agar tahan dengan beban jalur rumput."
+        },
+        {
+            "text": "Keputusan ini―― Kau berniat lari dari jalur rumput?\nAku tak ingat pernah menerima pengecut sebagai murid.",
+            "choice_data_list": [
+                "――Bukan begitu."
+            ]
+        },
+        {
+            "text": "Aku membentangkan catatan latihannya di atas meja.\nPerkiraan beban tiap menu... dan banyaknya tinta merah \nyang melampaui angka itu.",
+            "choice_data_list": [
+                "Kau selalu melampaui perkiraanku.",
+                "Kau selalu melampaui perkiraanku."
+            ]
+        },
+        {
+            "text": "Dengan kemampuannya, dia pasti bisa lari bagus di rumput.\nTapi... aku tak boleh membebaninya hanya demi saat ini saja.",
+            "choice_data_list": [
+                "Balapan seleksi ini langkah pertamamu ke masa depan.",
+                "Balapan seleksi ini langkah pertamamu ke masa depan."
+            ]
+        },
+        {
+            "choice_data_list": [
+                "Aku ingin memberimu kemenangan yang terhubung ke masa depan!",
+                "Aku ingin memberimu kemenangan yang terhubung ke masa depan!"
+            ]
+        },
+        {
+            "text": "――......Aku mengerti."
+        },
+        {
+            "text": "Besok kita mulai penyesuaian akhir untuk balapan tanah.\nSusun ulang semua menunya. ......Bisa, kan?",
+            "choice_data_list": [
+                "......Ya, serahkan saja!",
+                "......Ya, serahkan saja!"
+            ]
+        },
+        {
+            "text": "Dan... hari balapan pun tiba dalam sekejap."
+        },
+        {
+            "name": "Pelatih Baru A",
+            "text": "Tahu anak di sana itu?\nKatanya belakangan ini dia latihan super sparta――"
+        },
+        {
+            "name": "Pelatih Baru B",
+            "text": "Iya, pelatihnya pasti keras banget...... lho, tunggu?\nBalapan seleksinya di tanah ya. Kupikir di rumput――"
+        },
+        {
+            "text": "Aku mengawasi garis start dari tribun penonton.\nSuara riuh penonton membuatku ikut tegang.",
+            "choice_data_list": [
+                "(Phalaeno...... tunjukkan kekuatanmu!)",
+                "(Phalaeno...... tunjukkan kekuatanmu!)"
+            ]
+        },
+        {
+            "name": "Komentator",
+            "text": "Balapan seleksi yang dinantikan, sekarang―― dimulai!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Yang pertama maju adalah Phalaenopsis!\nDengan pijakan mantap, ia menempel ketat di barisan depan!"
+        },
+        {
+            "text": "(Sensasi pasirnya bagus, posisi juga sesuai perkiraan.\nKalau begini terus dan melesat di trek lurus......)"
+        },
+        {
+            "text": "(Tapi...... belum cukup!)"
+        },
+        {
+            "text": "Aku menelan ludah mengamati larinya.\nBarisan depan masuk ke lurus terakhir dengan mulus―― Saat itu."
+        },
+        {
+            "name": "Komentator",
+            "text": "Nah, balapannya mulai berubah!\nDia meninggalkan pelari terdepan, kini melesat sendirian!"
+        },
+        {
+            "text": "Daaaaaaaaahhhh!!!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Phalaenopsis! Phalaenopsis memimpin!\nAkselerasi luar biasa, tidak membiarkan yang lain mendekat!"
+        },
+        {
+            "text": "(Jangan puas cuma memimpin...... lebih maju, lebih jauh!)"
+        },
+        {
+            "text": "(Aku bisa berlari sekarang ini......\nberkat berbagai keputusan yang dibuat klub demi diriku.)"
+        },
+        {
+            "text": "(――Kalau kau juga begitu......)"
+        },
+        {
+            "text": "(Akan kucapai. Tidak, kubuat itu tercapai! Lebih dari sekadar kemenangan......)"
+        },
+        {
+            "text": "Menuju masa depan!! Haaaaaahhhh!",
+            "choice_data_list": [
+                "Phalaeno......!!"
+            ]
+        },
+        {
+            "name": "Komentator",
+            "text": "Memimpin 5 panjang badan, 6 panjang badan, jaraknya terus melebar!\nKemampuan lari yang fantastis, dan sekarang――!"
+        },
+        {
+            "name": "Komentator",
+            "text": "Goaaaal!!!\nMenang telak dengan selisih luar biasa, 9 panjang badan!"
+        },
+        {
+            "text": "Hah, hah, ......hah, hahaha......!",
+            "choice_data_list": [
+                "Phalaeno...... selamat!"
+            ]
+        },
+        {
+            "text": "Dengan jantung berdebar aku menghampirinya membawa minuman.\nSetelah lari sekeras itu, aku harus cepat urus suhu tubuhnya......!"
+        },
+        {
+            "text": "Kerja bagus!"
+        },
+        {
+            "text": "Latihan rutin dan keputusanmu untuk masa depan.\nIni benar-benar kemenangan berkat dirimu."
+        },
+        {
+            "text": "Tekad untuk mendukung Umamusume dan melangkah bersama.\nSebagian dari tekad itu...... sekarang ada padamu.",
+            "choice_data_list": [
+                "Phalaeno......!"
+            ]
+        },
+        {
+            "text": "――Teruslah berusaha lebih keras lagi."
+        },
+        {
+            "text": "Beberapa hari kemudian. Dia memanggilku ke klub.\nMelewati bunga yang bergoyang pelan...... aku berdiri di depan gerbang."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Phalaeno-san!\nMuridmu sudah datang nih!",
+            "choice_data_list": [
+                "(............Baiklah, ayo)"
+            ]
+        },
+        {
+            "text": "............\nKalau begitu―― mulailah.",
+            "choice_data_list": [
+                "......Mengerti."
+            ]
+        },
+        {
+            "text": "Merawat naginata kayu kesayangannya.\n――Ini adalah tugas terakhirku sebagai muridnya."
+        },
+        {
+            "text": "Duduk bersimpuh, aku mengelap bilahnya dengan kain.\nMerawat permukaan kayu yang mengilap itu dengan hati-hati.",
+            "choice_data_list": [
+                "......Sudah selesai."
+            ]
+        },
+        {
+            "text": "Perawatan yang lembut dan teliti―― Bagus."
+        },
+        {
+            "text": "......Mundurlah sedikit."
+        },
+        {
+            "text": "Lalu dia mulai menari.\nNaginata itu memantulkan cahaya bak pedang tajam.",
+            "choice_data_list": [
+                "(......Kalau dia, pasti bisa)"
+            ]
+        },
+        {
+            "text": "Tiap gerakannya berwibawa sekaligus gagah.\nAku teringat kemenangannya tempo hari―― serta kebahagiaannya kelak."
+        },
+        {
+            "text": "Nah―― Muridku. Di balapan kemarin, kau membuat \nkeputusan demi diriku...... dan menunjukkan tekadmu."
+        },
+        {
+            "text": "Bisa dibilang tugasmu sudah tercapai.\n――Selanjutnya, kau mau bagaimana?",
+            "choice_data_list": [
+                "Aku masih ingin terus belajar darimu.",
+                "Aku masih ingin terus belajar darimu."
+            ]
+        },
+        {
+            "text": "Tekad baru berarti jika dipertahankan, seperti dirinya.\nTentu sebagai pembimbing, aku tak boleh cuma menerima.",
+            "choice_data_list": [
+                "Lalu...... aku akan mendukung jalanmu ke depannya.",
+                "Lalu...... aku akan mendukung jalanmu ke depannya."
+            ]
+        },
+        {
+            "text": "......Kalau begitu, aku tanya satu hal terakhir."
+        },
+        {
+            "text": "Bersamaku―― apa kau siap melangkah ke masa depan?",
+            "choice_data_list": [
+                "Ya!"
+            ]
+        },
+        {
+            "text": "――......Fuh."
+        },
+        {
+            "text": "Janji telah terikat. Sebagai murid dan pelatih,\ndukunglah aku...... dan mari kita lihat bersama."
+        },
+        {
+            "text": "Bunga kebahagiaan besar yang mekar―― di masa depan kita kelak."
+        }
+    ]
+}

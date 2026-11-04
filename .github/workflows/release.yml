@@ -2,7 +2,9 @@ name: Generate index
 
 on:
   push:
-    branches: 'main'
+    branches:
+      - main
+      - release
     paths:
       - 'localized_data/**'
   workflow_dispatch:
@@ -12,29 +14,60 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: release
+          ref: main
           fetch-depth: 0
 
-      - name: Merge changes
+      - name: Check release branch and prepare target
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git merge -X theirs origin/main
+
+          git fetch origin +refs/heads/main:refs/remotes/origin/main
+          echo "[Workflow] Trigger ref: ${GITHUB_REF:-unknown}"
+
+          if ! git ls-remote --exit-code --heads origin refs/heads/release >/dev/null; then
+            echo "::error::Required branch 'release' does not exist."
+            exit 1
+          fi
+
+          git fetch origin +refs/heads/release:refs/remotes/origin/release
+          echo "[Branch] origin/main: $(git rev-parse origin/main)"
+          echo "[Branch] origin/release before merge: $(git rev-parse origin/release)"
+
+          git checkout -B release refs/remotes/origin/release
+
+          if ! git merge -X theirs origin/main; then
+            conflicts="$(git diff --name-only --diff-filter=U)"
+            if [ "$conflicts" = "index.json" ]; then
+              echo "[Merge] Keeping release's generated index.json."
+              git checkout --ours -- index.json
+              git add index.json
+              git commit --no-edit
+            else
+              echo "::error::Merge has unexpected conflicts:"
+              echo "$conflicts"
+              exit 1
+            fi
+          fi
+
+          echo "[Branch] release after merge: $(git rev-parse HEAD)"
 
       - uses: actions/setup-python@v5
         with:
-            python-version: "3.12"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
-            python -m pip install --upgrade pip
-            pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Create index
+        env:
+          INDEX_BASE_REF: refs/remotes/origin/release
         run: python gen_index.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5

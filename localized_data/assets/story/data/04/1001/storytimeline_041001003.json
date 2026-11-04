@@ -1,58 +1,58 @@
 {
-    "no_wrap": true,
+    "no_wrap": false,
     "text_block_list": [
         {
-            "text": "The day after the mock race in which Special Week came in 7th, \nshe showed up again for training, but-"
+            "text": "Sehari setelah balapan simulasi di mana Special Week menempati posisi ke-7, \ndia muncul lagi untuk latihan, namun-"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Pant, pant… All righ ty! Here I goooo!!"
+            "text": "Hah, hah… Oke deh! Aku mulaaai!!"
         },
         {
             "name": "Grass Wonder",
-            "text": "I'm not backing down either…!"
+            "text": "Aku juga tidak akan mengalah…!"
         },
         {
             "name": "Special Week",
             "text": "Ah…!"
         },
         {
-            "text": "During which-she made way for El Condor Pasa \nand Grass Wonder, who were catching up."
+            "text": "Pada saat itu-dia memberi jalan untuk El Condor Pasa \ndan Grass Wonder, yang sedang menyusul."
         },
         {
             "name": "El Condor Pasa",
-            "text": "Wha, huh!?"
+            "text": "Wah, eh!?"
         },
         {
             "name": "Grass Wonder",
             "text": "Spe-chan…?"
         },
         {
-            "text": "Her sluggish- or rather, half-hearted run bewildered \nthe two, who were running alongside…"
+            "text": "Larinya yang lesu- atau lebih tepatnya, setengah hati itu membuat bingung \nmereka berdua, yang sedang berlari di sampingnya…"
         },
         {
             "name": "Special Week",
-            "text": "Pant, pant…"
+            "text": "Hah, hah…"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Woah, woah, Spe-chan!! What's gotten into you!?"
+            "text": "Wah, wah, Spe-chan!! Ada apa denganmu!?"
         },
         {
             "name": "El Condor Pasa",
-            "text": "You were always so agile, tenacious, and \ngutsy!! Where did they all go!!?"
+            "text": "Kamu biasanya selalu begitu lincah, gigih, dan \nberani!! Ke mana perginya semua itu!!?"
         },
         {
             "name": "Special Week",
-            "text": "El-chan… E-Err… S-Sorry…"
+            "text": "El-chan… E-Eh… M-Maaf…"
         },
         {
             "name": "El Condor Pasa",
-            "text": "…Sigh. I've had enough today!! Sorry, \nbut allow me to call it a day."
+            "text": "…Hah. Aku sudah muak hari ini!! Maaf, \ntapi aku mau berhenti sampai di sini saja."
         },
         {
             "name": "El Condor Pasa",
-            "text": "I don't want to run with a Spe-chan who's in such a sorry state!!"
+            "text": "Aku tidak mau berlari dengan Spe-chan yang kondisinya menyedihkan begini!!"
         },
         {
             "name": "Special Week",
@@ -60,19 +60,19 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Spe-chan… I'm sorry, I'll have to \ntake my leave for today here too."
+            "text": "Spe-chan… Maaf, aku juga harus \npamit untuk hari ini."
         },
         {
             "name": "Special Week",
-            "text": "Grass-chan… U-Um, I'm sorry, I-!"
+            "text": "Grass-chan… U-Um, maaf, a-aku!"
         },
         {
             "name": "Grass Wonder",
-            "text": "Don't say sorry, Spe-chan. We never wanted you to blame yourself."
+            "text": "Jangan minta maaf, Spe-chan. \nKami tidak pernah ingin kamu menyalahkan dirimu sendiri."
         },
         {
             "name": "Grass Wonder",
-            "text": "Still… it's perilous to run with your mind astray. \nA disturbed mind leads to a disturbed run, which \nmay lead to unforeseen injuries."
+            "text": "Meski begitu… sangat berbahaya jika berlari dengan pikiran yang kacau. \nPikiran yang gelisah akan membuat larimu berantakan, yang mana \nbisa menyebabkan cedera tak terduga."
         },
         {
             "name": "Special Week",
@@ -80,172 +80,172 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "There's no need to rush, okay, Spe-chan? Calm down, and come to \nterms with yourself. What do you say?"
+            "text": "Tidak perlu terburu-buru, ya, Spe-chan? Tenangkan dirimu, dan berdamailah \ndengan dirimu sendiri. Bagaimana?"
         },
         {
             "name": "Grass Wonder",
-            "text": "…Besides, it seems the person with the strongest desire to aid \nyou just so happens to be right here.",
+            "text": "…Lagipula, sepertinya orang yang paling ingin membantu\nmu kebetulan ada di sini.",
             "choice_data_list": [
                 "Spe…"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Trainer-san…! Uuu, I… I…!"
+            "text": "Trainer-san…! Uuu, aku… aku…!"
         },
         {
             "name": "Grass Wonder",
-            "text": "( Chuckles ) Now if you'll ex cuse me～"
+            "text": "Hehe... Kalau begitu aku permisi dulu ya～"
         },
         {
             "name": "Special Week",
-            "text": "Alright… Thanks, Grass-chan."
+            "text": "Baiklah… Terima kasih, Grass-chan."
         },
         {
             "name": "Special Week",
-            "text": "…Trainer-san, I'm really sorry. I just couldn't run at all."
+            "text": "…Trainer-san, aku benar-benar minta maaf.\nAku sama sekali tidak bisa berlari."
         },
         {
             "name": "Special Week",
-            "text": "I think Grass-chan was on point… My mind really went astray…",
+            "text": "Kurasa perkataan Grass-chan memang benar… \nPikiranku benar-benar kacau…",
             "choice_data_list": [
-                "Was your friend's plea bothering you?",
-                "Was your friend's plea bothering you?"
+                "Apa perkataan temanmu tadi mengganggumu?",
+                "Apa perkataan temanmu tadi mengganggumu?"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Eh…? Trainer-san, you knew…?",
+            "text": "Eh…? Trainer-san, kamu tahu…?",
             "choice_data_list": [
-                "Sorry, I overheard your conversation.",
-                "Sorry, I overheard your conversation."
+                "Maaf, aku tidak sengaja mendengar percakapan kalian.",
+                "Maaf, aku tidak sengaja mendengar percakapan kalian."
             ]
         },
         {
             "name": "Special Week",
-            "text": "So you did… Sorry, that must've surprised you."
+            "text": "Begitu ya… Maaf, itu pasti membuatmu terkejut."
         },
         {
             "name": "Special Week",
-            "text": "I'm… surprised too, myself."
+            "text": "Aku juga… terkejut sendiri."
         },
         {
             "name": "Special Week",
-            "text": "It was my first time being surrounded by fellow \nUmamusume and having peers… so this was also \nmy first time getting yelled at by a friend."
+            "text": "Ini pertama kalinya aku dikelilingi oleh sesama \nUmamusume dan memiliki teman sebaya… jadi ini juga \npertama kalinya aku dibentak oleh seorang teman."
         },
         {
             "name": "Special Week",
-            "text": "It was all so shocking. I could never have \nimagined… that it'd be this chilling."
+            "text": "Semuanya sangat mengejutkan. Aku tidak pernah \nmembayangkan… kalau rasanya akan sedingin ini."
         },
         {
             "name": "Special Week",
-            "text": "…I've gotten weird since then."
+            "text": "…Aku jadi aneh sejak saat itu."
         },
         {
             "name": "Special Week",
-            "text": "Whenever I tried to pull ahead and win, I felt that feeling back \nthen creeping back… I felt my body draining out of energy."
+            "text": "Tiap kali aku mencoba untuk maju dan menang, aku merasakan perasaan saat itu \nmerayap kembali… Aku merasa tubuhku kehabisan tenaga."
         },
         {
             "name": "Special Week",
-            "text": "Trainer-san, what should I do…? \nHave I bec ome inept at running?"
+            "text": "Trainer-san, apa yang harus kulakukan…? \nApa aku sudah tidak becus lagi dalam berlari?"
         },
         {
             "name": "Special Week",
-            "text": "Am I going to be… a failure…?"
+            "text": "Apa aku akan menjadi… produk gagal…?"
         },
         {
             "name": "Special Week",
-            "text": "Please, tell me… what I am supposed to do…!!"
+            "text": "Tolong, beritahu aku… apa yang harus kulakukan…!!"
         },
         {
-            "text": "As Special Week crouched down, she broke down in tears."
+            "text": "Saat Special Week berjongkok, dia menangis tersedu-sedu."
         },
         {
-            "text": "Until she settled down, I stayed by her side watching over her…"
-        },
-        {
-            "name": "Special Week",
-            "text": "…Sigh. I'm sorry, Trainer-san… I've settled down now."
+            "text": "Sampai dia tenang, aku tetap berada di sisinya mengawasinya…"
         },
         {
             "name": "Special Week",
-            "text": "…It's already evening, huh. When I first got here, I thought \nthe sunsets were pretty late here-"
+            "text": "…Hah. Maafkan aku, Trainer-san… Aku sudah tenang sekarang."
+        },
+        {
+            "name": "Special Week",
+            "text": "…Sudah sore, ya. Waktu pertama kali aku tiba di sini, kupikir \nmatahari terbenam cukup lambat di sini-"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Spe-chan! There you are… Oh, ah, uhh, I'm \nsorry, did I interrupt your moment?"
+            "text": "Spe-chan! Di situ rupanya… Oh, ah, uhh, \nmaaf, apa aku mengganggu kalian?"
         },
         {
             "name": "Special Week",
-            "text": "Ah, no, it's all good, Suzuka-san! What's the matter…?"
+            "text": "Ah, tidak, tidak apa-apa, Suzuka-san! Ada apa…?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "You see, your mother's letter arrived in today's post, so I \nthought I'd quickly bring it to you…"
+            "text": "Begini, surat dari ibumu tiba di pos hari ini, jadi aku \nberpikir untuk segera membawakannya padamu…"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Spe-chan, you've always been looking forward to \nreading her letters, right? That's why…"
+            "text": "Spe-chan, kamu selalu menantikan untuk \nmembaca surat-suratnya, kan? Karena itulah…"
         },
         {
             "name": "Special Week",
-            "text": "Suzuka-san… T-Thank you so much for going out \nof your way just to deliver it to me…!"
+            "text": "Suzuka-san… T-Terima kasih banyak sudah menyempatkan diri \nhanya untuk mengantarkannya padaku…!"
         },
         {
-            "text": "Silence Suzuka handed over the letter, and promptly went off. Was \nthis her way of sho wing concern for her roommate…?"
+            "text": "Silence Suzuka menyerahkan surat itu, dan segera pergi. Apakah \nini caranya menunjukkan kepedulian pada teman sekamarnya…?"
         },
         {
-            "text": "-Subsequently, Special Week slowly read through the letter."
+            "text": "-Setelah itu, Special Week perlahan membaca surat tersebut."
         },
         {
             "name": "Special Week",
-            "text": "(Chuckles)… She's saying the same thing again.",
+            "text": "Hehe… Ibu mengatakan hal yang sama lagi.",
             "choice_data_list": [
-                "Same thing?"
+                "Hal yang sama?"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Ah… yes. Mom always signs off her letters \nfor me with the same message."
+            "text": "Ah… iya. Ibu selalu menutup surat-suratnya \nuntukku dengan pesan yang sama."
         },
         {
             "name": "Special Week",
-            "text": "\"Spe, may you always be blessed with happiness.\" That's what my \nMoms always, and I mean always, say to me."
+            "text": "\"Spe, semoga kamu selalu diberkahi kebahagiaan.\" Itulah yang selalu, \ndan benar-benar selalu, dikatakan oleh para Ibuku kepadaku."
         },
         {
             "name": "Special Week",
-            "text": "Both my birth mo ther… and my adoptive mother."
+            "text": "Baik ibu kandungku… maupun ibu angkatku."
         },
         {
             "name": "Special Week",
-            "text": "…My birth mother passed away before I opened my eyes for the \nfirst time. I' ve only seen her face through pho tos."
+            "text": "…Ibu kandungku meninggal dunia sebelum aku membuka mataku untuk yang \npertama kalinya. Aku hanya pernah melihat wajahnya melalui foto."
         },
         {
             "name": "Special Week",
-            "text": "But my other mother, who was a dear friend of my birth mo ther, \nand took good care of me, always tell me,"
+            "text": "Tapi ibuku yang satu lagi, yang merupakan sahabat baik ibu kandungku, \ndan yang merawatku dengan baik, selalu memberitahuku,"
         },
         {
             "name": "Special Week",
-            "text": "that until my birth mother breathed her last, \nshe always prayed for my happiness,"
+            "text": "bahwa sampai ibu kandungku menghembuskan napas terakhirnya, \nbeliau selalu berdoa untuk kebahagiaanku,"
         },
         {
             "name": "Special Week",
-            "text": "…Ehehe, incredible, right? That I have 2 mothers… Both of \nthem are really wonderful mothers."
+            "text": "…Ehehe, luar biasa, kan? Aku punya 2 ibu… Keduanya \nbenar-benar ibu yang sangat luar biasa."
         },
         {
             "name": "Special Week",
-            "text": "Really… wonderful…"
+            "text": "Benar-benar… luar biasa…"
         },
         {
             "name": "Special Week",
-            "text": "…and yet, what am I even doing?"
+            "text": "…tapi, apa yang sebenarnya sedang kulakukan?"
         },
         {
             "name": "Special Week",
-            "text": "…Trainer-san, please ex cuse me. I'm… \ngoing for a short run nearby."
+            "text": "…Trainer-san, permisi sebentar. Aku… \nmau lari sebentar di sekitar sini."
         },
         {
-            "text": "…said Special Week, before proceeding to leave the spot."
+            "text": "…kata Special Week, sebelum dia beranjak pergi dari tempat itu."
         }
     ]
 }

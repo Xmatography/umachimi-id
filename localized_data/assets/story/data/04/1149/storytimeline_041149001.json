@@ -1,0 +1,209 @@
+{
+    "no_wrap": false,
+    "text_block_list": [
+        {
+            "name": "Umamusume A",
+            "text": "Phaleno-san!\nMuridmu sudah datang!"
+        },
+        {
+            "text": "……Sudah datang, ya. Kalau begitu――"
+        },
+        {
+            "text": "――Tunjukkan padaku. Apa tekad itu...\nbisa jadi cahaya penuntun masa depan?"
+        },
+        {
+            "text": "Aku menatap mata indah Umamusume di hadapanku.\nKenangan itu takkan pernah kulupakan."
+        },
+        {
+            "name": "Pelatih Terkenal",
+            "text": "――Cedera Umamusume didikanku saat itu sungguh di luar dugaan. Meski bingung, aku menyesuaikan menu dan jadwal latihannya dengan teliti――",
+            "choice_data_list": [
+                "(……Hebat, pantas saja dia pelatih veteran.)",
+                "(……Hebat, pantas saja dia pelatih veteran.)"
+            ]
+        },
+        {
+            "text": "Hari libur. Aku menghadiri gelar wicara di museum terdekat, mendengarkan kisah pelatih terkenal yang membawa Umamusume-nya meraih kejayaan."
+        },
+        {
+            "text": "Sebagai pelatih baru, ini sangat mencerahkan……\nTapi rupanya, pelatih sehebat apa pun pasti selalu menemui kesulitan.",
+            "choice_data_list": [
+                "(Apa aku mampu…… membimbing Umamusume sendirian?)",
+                "(Apa aku mampu…… membimbing Umamusume sendirian?)"
+            ]
+        },
+        {
+            "text": "Entah berapa banyak rintangan sebelum Umamusume bisa tampil di panggung besar. ……Bagaimana kalau karena keputusanku memaksakannya, dia――"
+        },
+        {
+            "text": "Jatuh dalam kegelapan dan tak bisa bangkit lagi?"
+        },
+        {
+            "text": "……Aku bergegas keluar dari museum.\nSemakin dipikirkan, rasa cemas ini makin berputar di kepalaku.",
+            "choice_data_list": [
+                "……Cari udara segar sebentar, deh.",
+                "……Cari udara segar sebentar, deh."
+            ]
+        },
+        {
+            "text": "Aku mengunjungi kuil terdekat dengan pemandangan indah.\nArea dalamnya sepertinya terbuka, dan saat sedang jalan-jalan――",
+            "choice_data_list": [
+                "……Hm? Suara apa ini……"
+            ]
+        },
+        {},
+        {
+            "text": "――Fuh, hah, ――Seiya!",
+            "choice_data_list": [
+                "(――! Cantik sekali……)"
+            ]
+        },
+        {
+            "text": "Sebuah naginata besar menebas udara membentuk sebuah busur.\nGerakannya yang indah dan luwes membuatku terpaku……"
+        },
+        {
+            "text": "…………Hm?\n dirimu sedang melihat apa?",
+            "choice_data_list": [
+                "Ah, maaf! Sebenarnya……"
+            ]
+        },
+        {
+            "text": "――Pelatih akademi ya? Izinkan aku.\nNamaku Phalaenopsis.",
+            "choice_data_list": [
+                "Tarianmu tadi indah sekali."
+            ]
+        },
+        {
+            "text": "Terima kasih. Aku memang sering berlatih di sini.\nBela diri itu penting untuk melatih konsentrasi mental.",
+            "choice_data_list": [
+                "Melatih konsentrasi mental?"
+            ]
+        },
+        {
+            "text": "Sebagai pelatih, kau pasti paham.\nMental yang kuat sangat krusial dalam pertarungan kita."
+        },
+        {
+            "text": "Balapan bukan cuma soal fisik dan teknik.\nHanya yang bisa mendisiplinkan hatinya yang akan menang.",
+            "choice_data_list": [
+                "(Demi balapan…… ya……)"
+            ]
+        },
+        {
+            "text": "Phalaenopsis, Umamusume yang klasik dan berwibawa bak putri.\nTekadnya mengingatkanku pada pelatih terkenal tadi.",
+            "choice_data_list": [
+                "……Pola pikir yang bagus. Mengagumkan.",
+                "……Pola pikir yang bagus. Mengagumkan."
+            ]
+        },
+        {
+            "text": "――……. Dirimu――"
+        },
+        {
+            "text": "――Tidak. Apa dirimu punya dasar bela diri?",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "text": "Nah――bersiaplah.\nMajulah sekuat tenaga.",
+            "choice_data_list": [
+                "K-kendo……? Sekarang?"
+            ]
+        },
+        {
+            "text": "Tenanglah. Aku akan menahan kekuatanku.\n……Jika terus memendam kegalauan, hatimu pun takkan jernih.",
+            "choice_data_list": [
+                "――!"
+            ]
+        },
+        {
+            "text": "Tatapannya tajam seolah menembus pikiranku.\nAuranya membuatku merinding.",
+            "choice_data_list": [
+                "…………Baiklah, akan kucoba."
+            ]
+        },
+        {
+            "text": "Pedang diayunkan dengan hati, bukan fisik.\nHadapi pikiranmu sendiri. …………――Fuh!",
+            "choice_data_list": [
+                "(――!!)"
+            ]
+        },
+        {
+            "text": "Kejutan tajam menjalar ke tanganku. Pedang bambuku bergetar keras.\nAyunannya sangat buas, berbeda dengan tariannya tadi……!"
+        },
+        {
+            "text": "Bertahan saja tak cukup.\nSingkirkan keraguanmu dengan kekuatan!",
+            "choice_data_list": [
+                "A-aku……",
+                "A-aku……"
+            ]
+        },
+        {
+            "text": "――Ya, begitu!\nArahkan pedang ke hatimu sendiri!",
+            "choice_data_list": [
+                "……Aku, takut……!",
+                "……Aku, takut……!"
+            ]
+        },
+        {
+            "text": "Tanganku menggenggam erat pedang.\nRasa cemas, ragu, dan takut sebagai pelatih…… Benar, keraguan ini……!",
+            "choice_data_list": [
+                "Aku takut menentukan masa depan Umamusume……!!"
+            ]
+        },
+        {
+            "text": "Mencari celah, aku mengayunkan pedangku sekuat tenaga――dan saat itu."
+        },
+        {
+            "text": "Haah!!"
+        },
+        {
+            "text": "――Entah apa yang terjadi.\nTahu-tahu pedangku terlepas, dan ujung pedangnya sudah mengarah padaku."
+        },
+        {
+            "text": "Untuk menebas penderitaan, kau harus melihatnya dengan jelas."
+        },
+        {
+            "text": "……Begitu, ya. Jadi itu ketakutan seorang pembimbing.\nKalau begitu…… mau kah dirimu ikut mengunjungi Klub Pelatihanku?",
+            "choice_data_list": [
+                "……Klub Pelatihan? Milikmu?",
+                "……Klub Pelatihan? Milikmu?"
+            ]
+        },
+        {
+            "text": "Ya. Itu tempat yang membesarkanku. Mungkin kau \nbisa belajar sesuatu di sana sebagai pelatih…… Bagaimana?"
+        },
+        {
+            "text": "Klub Pelatihan…… Benar juga, melihat tempat selain akademi mungkin bisa memberiku petunjuk baru.",
+            "choice_data_list": [
+                "……Ya, aku ingin ke sana!",
+                "……Ya, aku ingin ke sana!"
+            ]
+        },
+        {
+            "text": "Bagus――aku akan mengantarmu besok.\nAku kebetulan mau mampir ke sana."
+        },
+        {
+            "text": "Esoknya, dia membawaku ke……\ntempat latihan terbuka dengan bunga-bunga yang mekar indah.",
+            "choice_data_list": [
+                "(Jadi ini Klub Pelatihannya……)"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Ah, Phalaeno-san! Anda datang lagi!\nKami baru saja merawat bunga-bunga ini!"
+        },
+        {
+            "text": "Oh, aku akan melihatnya nanti.\nNah――kumpulkan yang lain. Sebentar lagi kita mulai latihan.",
+            "choice_data_list": [
+                "Latihan…… apa kau membantu klub ini?"
+            ]
+        },
+        {
+            "text": "Ya. Pembinaan resminya sih oleh klub……\ntapi saat mampir, kadang aku ikut melatih mereka."
+        },
+        {
+            "text": "Baiklah, sekali lagi――selamat datang, Trainer."
+        }
+    ]
+}
