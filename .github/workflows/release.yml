@@ -39,7 +39,20 @@ jobs:
           echo "[Branch] origin/release before merge: $(git rev-parse origin/release)"
 
           git checkout -B release refs/remotes/origin/release
-          git merge -X theirs origin/main
+
+          if ! git merge -X theirs origin/main; then
+            conflicts="$(git diff --name-only --diff-filter=U)"
+            if [ "$conflicts" = "index.json" ]; then
+              echo "[Merge] Keeping release's generated index.json."
+              git checkout --ours -- index.json
+              git add index.json
+              git commit --no-edit
+            else
+              echo "::error::Merge has unexpected conflicts:"
+              echo "$conflicts"
+              exit 1
+            fi
+          fi
 
           echo "[Branch] release after merge: $(git rev-parse HEAD)"
 
