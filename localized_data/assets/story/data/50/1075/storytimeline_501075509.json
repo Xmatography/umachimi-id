@@ -1,0 +1,22 @@
+{
+    "text_block_list": [
+        {
+            "text": "Hmm, menu latihan berikutnya adalah――"
+        },
+        {
+            "text": "Kyaa!?",
+            "choice_data_list": [
+                "Kamu tidak apa-apa!?"
+            ]
+        },
+        {
+            "text": "Maaf, sepertinya saya kurang memperhatikan pijakan kaki saya......"
+        },
+        {
+            "text": "Tapi, hmm......\nPadahal di tempat dengan pijakan seburuk apa pun, saya jarang sekali sampai terhuyung......"
+        },
+        {
+            "text": "Mungkin karena kelelahan, indra Daring Tact yang telah diasah tajam tampak menumpul.\nMungkin sebaiknya jadwal ke depan ditinjau ulang."
+        }
+    ]
+}
